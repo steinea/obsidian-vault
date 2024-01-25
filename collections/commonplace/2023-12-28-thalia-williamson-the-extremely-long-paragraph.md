@@ -14,14 +14,13 @@ date: 2023-12-28
 
 <br>
 
-### Thalia Williamson
+#### Citation
 
-#### [[Los Angeles Review of Books]]
-
-<https://dev.lareviewofbooks.org/article/technology-attention-and-the-extremely-long-paragraph/>
-
+Williamson, Thalia. “The Extremely Long Paragraph.” *[[Los Angeles Review of Books]]*, July 5, 2023. <https://dev.lareviewofbooks.org/article/technology-attention-and-the-extremely-long-paragraph/>.
 
 <br>
+
+#### Annotations
 
 "Bernhard’s influence over the contemporary novel has followed a parabolic trajectory. He has gone from being a writers’ writer, a well-kept secret, to a writer whose influence is felt, even if indirectly, over a broad array of novels that have seen both sales and critical acclaim"
 
