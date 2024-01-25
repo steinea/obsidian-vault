@@ -1,0 +1,3 @@
+# Simon Fraser University
+
+[[schools]]
