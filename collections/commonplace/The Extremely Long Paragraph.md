@@ -6,6 +6,7 @@ title: The Extremely Long Paragraph
 publication: Los Angeles Review of Books
 link: https://dev.lareviewofbooks.org/article/technology-attention-and-the-extremely-long-paragraph/
 date: 2023-12-28
+permalink: 2023-12-28-thalia-williamson-the-extremely-long-paragraph
 ---
 
 # The Extremely Long Paragraph
