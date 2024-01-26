@@ -1,10 +1,15 @@
 ---
+layout: post
+category: blog
 title: We Can Always Play Backgammon
+subtitle: Empiricism and Subjectivity
 date: 2023-05-26
 permalink: 2023/05/26/we-can-always-play-backgammon
-tags:
 ---
+
 # We Can Always Play Backgammon
+
+### Empiricism and Subjectivity
 
 [[2023]] / [[blog]]
 

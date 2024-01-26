@@ -1,10 +1,15 @@
 ---
+layout: post
+category: blog
 title: Determined Figures
+subtitle: Empiricism and Subjectivity, 3
 date: 2023-09-16
 permalink: 2023/09/16/determined-figures
-tags:
 ---
+
 # Determined Figures
+
+### Empiricism and Subjectivity, 3
 
 [[2023]] / [[blog]]
 

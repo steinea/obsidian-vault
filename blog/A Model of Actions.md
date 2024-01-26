@@ -1,9 +1,12 @@
 ---
+layout: post
+category: blog
 title: A Model of Actions
+subtitle: Empiricism and Subjectivity, 3
 date: 2023-06-18
 permalink: 2023/06/18/a-model-of-actions
-tags:
 ---
+
 # A Model of Actions
 
 [[2023]] / [[blog]]
