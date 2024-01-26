@@ -8,10 +8,17 @@
 * [[identities]]
 * [[languages]]
 * [[personality]]
+* [[proficiencies]]
 
 <br>
 
-#### Blog
+#### ⚡ Activity
+
+* [[activity]]
+
+<br>
+
+#### 📬 Blog
 
 * [[blog]]
 
@@ -21,19 +28,22 @@
 #### 🗃️ Collections
 
 * [[annotations]]
+* [[bibliographies]]
 * [[commonplace]]
+* [[personality]]
 * [[study]]
 * [[teaching]]
 
 <br>
 
-#### 🌐 Constellation
+#### 🌌 Constellation
 
 * [[associations]]
-* [[backlog]]
-* [[bibliographies]]
 * [[books]]
 * [[companies]]
+* [[concepts]]
+* [[evaluations]]
+* [[games]]
 * [[publications]]
 * [[schools]]
 * [[skills]]
