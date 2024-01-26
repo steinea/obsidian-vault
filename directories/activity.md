@@ -1,1 +1,7 @@
+---
+permalink: activity
+---
+
 # Activity
+
+[[sitemap]]

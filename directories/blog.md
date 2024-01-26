@@ -4,6 +4,8 @@ permalink: blog
 
 # 📬 Blog
 
+[[sitemap]]
+
 ```dataview
 
 TABLE date, category

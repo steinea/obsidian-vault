@@ -1,3 +1,3 @@
 # Phenomenology
 
-[[bibliographies]]
+[[concepts]]

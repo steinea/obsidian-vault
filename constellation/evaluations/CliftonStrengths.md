@@ -1,6 +1,6 @@
 # Clifton Strengths
 
-[[evaluations]]
+[[psychometrics]]
 
 <https://www.gallup.com/cliftonstrengths/en/252137/home.aspx>
 

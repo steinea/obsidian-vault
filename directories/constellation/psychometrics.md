@@ -1,11 +1,11 @@
-# Schools
+# Psychometrics
 
 [[constellation]]
 
 ```dataview
 
 TABLE
-from "constellation/schools"
+from "constellation/evaluations"
 sort file.name ASC
 
 ```

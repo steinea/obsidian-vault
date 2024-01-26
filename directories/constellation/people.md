@@ -1,11 +1,11 @@
-# Schools
+# People
 
 [[constellation]]
 
 ```dataview
 
 TABLE
-from "constellation/schools"
+from "constellation/people"
 sort file.name ASC
 
 ```

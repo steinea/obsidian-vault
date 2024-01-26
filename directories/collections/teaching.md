@@ -3,3 +3,5 @@ permalink: teaching
 ---
 
 # 🎓 Teaching
+
+[[collections]]

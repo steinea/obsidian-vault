@@ -4,6 +4,8 @@ permalink: identities
 
 # Identities
 
+[[about]]
+
 #### Academic
 
 * Academia: [twu.academia.edu/steinea](https://twu.academia.edu/steinea)  

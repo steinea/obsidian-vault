@@ -4,9 +4,12 @@ permalink: collections
 
 # Collections
 
-* [[annotations]]
-* [[bibliographies]]
-* [[commonplace]]
-* [[personality]]
-* [[study]]
-* [[teaching]]
+[[sitemap]]
+
+```dataview
+
+TABLE
+from "directories/collections"
+sort file.name ASC
+
+```

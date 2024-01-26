@@ -1,15 +1,15 @@
 ---
-permalink: timeline
+permalink: about
 ---
 
-# 🕒 Timeline
+# About
 
 [[sitemap]]
 
 ```dataview
 
 TABLE
-from "timeline"
+from "about"
 sort file.name ASC
 
 ```

@@ -4,6 +4,8 @@ permalink: commonplace
 
 # Commonplace
 
+[[collections]]
+
 ```dataview
 
 TABLE author, date, publication

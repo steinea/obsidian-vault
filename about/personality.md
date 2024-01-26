@@ -3,3 +3,5 @@ permalink: personality
 ---
 
 # Personality
+
+[[about]]

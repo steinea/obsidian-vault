@@ -4,6 +4,8 @@ permalink: experience
 
 # Experience
 
+[[about]]
+
 #### Present
 
 * Development Director, [[Electronic Arts]], Apr 2023 – Present

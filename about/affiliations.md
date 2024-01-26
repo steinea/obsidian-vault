@@ -4,6 +4,8 @@ permalink: affiliations
 
 # Affiliations
 
+[[about]]
+
 #### Academic
 
 * [[Canadian Game Studies Association]] (2020 – Present)

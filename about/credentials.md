@@ -4,6 +4,8 @@ permalink: credentials
 
 # Credentials
 
+[[about]]
+
 #### Education
 
 * Master of Arts, Interdisciplinary Humanities ([[Trinity Western University]], 2018)

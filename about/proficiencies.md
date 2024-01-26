@@ -1,1 +1,7 @@
+---
+permalink: proficiencies
+---
+
 # Proficiencies
+
+[[about]]
