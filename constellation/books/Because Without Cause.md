@@ -1,3 +1,14 @@
+---
+category: books
+title: Because Without Cause
+subtitle: Non-Causal Explanations in Science and Mathematics
+author: Lange, Marc
+date: 2016
+permalink: '9780190269487'
+tags:
+  - mathematics
+---
+
 # Because Without Cause
 
 [[books]] [[mathematics]]

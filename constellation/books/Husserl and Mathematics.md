@@ -1,3 +1,15 @@
+---
+category: books
+title: Husserl and Mathematics
+subtitle: 
+author: Hartimo, Mirja
+date: 2021
+permalink: '9780199560998'
+tags:
+  - mathematics
+  - phenomenology
+---
+
 # Husserl and Mathematics
 
 [[books]] [[mathematics]] [[phenomenology]]

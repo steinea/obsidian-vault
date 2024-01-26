@@ -1,3 +1,15 @@
+---
+category: books
+title: Deleuze and the History of Mathematics
+subtitle: In Defense of the 'New'
+author: Duffy, Simon
+date: 2013
+permalink: '9781441129505'
+tags:
+  - deleuze
+  - mathematics
+---
+
 # Deleuze and the History of Mathematics
 
 [[books]] [[mathematics]]

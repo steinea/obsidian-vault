@@ -1,3 +1,14 @@
+---
+category: books
+title: Ptolemy's Philosophy
+subtitle: Mathematics as a Way of Life
+author: Feke, Jacqueline
+date: 2018
+permalink: '9780691179582'
+tags:
+  - mathematics
+---
+
 # Ptolemy's Philosophy
 
 [[books]] [[mathematics]]

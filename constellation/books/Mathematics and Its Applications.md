@@ -1,3 +1,14 @@
+---
+category: books
+title: Mathematics and Its Applications
+subtitle: A Transcendental-Idealist Perspective
+author: Da Silva, Jairo José
+date: 2017
+permalink: '9783319630731'
+tags:
+  - mathematics
+---
+
 # Mathematics and Its Applications
 
 [[books]] [[mathematics]]

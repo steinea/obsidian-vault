@@ -1,3 +1,15 @@
+---
+category: books
+title: Phenomenology, Logic, and the Philosophy of Mathematics
+subtitle: 
+author: Tieszen, Richard
+date: 2009
+permalink: '9780511498589'
+tags:
+  - mathematics
+  - phenomenology
+---
+
 # Phenomenology, Logic, and the Philosophy of Mathematics
 
 [[books]] [[mathematics]] [[phenomenology]]

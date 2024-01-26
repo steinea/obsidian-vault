@@ -1,3 +1,14 @@
+---
+category: books
+title: Shadows of Syntax
+subtitle: Revitalizing Logical and Mathematical Conventionalism
+author: Warren, John
+date: 2021
+permalink: '9780190086152'
+tags:
+  - mathematics
+---
+
 # Shadows of Syntax
 
 [[books]] [[mathematics]]

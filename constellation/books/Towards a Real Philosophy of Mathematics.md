@@ -1,3 +1,14 @@
+---
+category: books
+title: Towards a Real Philosophy of Mathematics
+subtitle: 
+author: Corfield, David
+date: 2009
+permalink: "9780511487576"
+tags:
+  - mathematics
+---
+
 # Towards a Real Philosophy of Mathematics
 
 [[books]] [[mathematics]]
