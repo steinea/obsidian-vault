@@ -1,5 +1,5 @@
 ---
-permalink: wiki/tools
+permalink: tools
 ---
 
 # Tools

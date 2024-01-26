@@ -1,5 +1,5 @@
 ---
-permalink: wiki/schools
+permalink: schools
 ---
 
 # Schools

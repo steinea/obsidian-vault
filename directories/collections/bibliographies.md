@@ -1,0 +1,3 @@
+# Bibliographies
+
+[[collections]]

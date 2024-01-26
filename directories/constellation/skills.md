@@ -1,5 +1,5 @@
 ---
-permalink: wiki/skills
+permalink: skills
 ---
 
 # Skills

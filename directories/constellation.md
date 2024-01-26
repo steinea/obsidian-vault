@@ -2,13 +2,14 @@
 permalink: constellation
 ---
 
-# 🌐 Constellation
+# 🌌 Constellation
 
 * [[associations]]
-* [[backlog]]
-* [[bibliographies]]
 * [[books]]
 * [[companies]]
+* [[concepts]]
+* [[evaluations]]
+* [[games]]
 * [[publications]]
 * [[schools]]
 * [[skills]]

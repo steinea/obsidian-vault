@@ -1,5 +1,5 @@
 ---
-permalink: wiki/companies
+permalink: companies
 ---
 
 # Companies
