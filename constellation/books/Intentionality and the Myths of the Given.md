@@ -13,7 +13,7 @@ tags:
 
 # Intentionality and the Myths of the Given
 
-[[books]] / [[intentionality]] / [[pragmatism]] / [[phenomenology]]
+[[books]] / [[intentionality]] / [[pragmatism]] / [[Phenomenology]]
 
 Sachs, Carl B. *Intentionality and the Myths of the Given: Between Pragmatism and Phenomenology*. Routledge, 2014. [9781138731554](https://www.routledge.com/Intentionality-and-the-Myths-of-the-Given-Between-Pragmatism-and-Phenomenology/Sachs/p/book/9781138731554). 
 

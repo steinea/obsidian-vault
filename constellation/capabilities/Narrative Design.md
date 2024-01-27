@@ -1,3 +1,0 @@
-# Narrative Design
-
-[[proficiencies]] / [[capabilities]]

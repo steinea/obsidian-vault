@@ -12,7 +12,7 @@ tags:
 
 # Phenomenology, Logic, and the Philosophy of Mathematics
 
-[[books]] / [[mathematics]] / [[phenomenology]]
+[[books]] / [[mathematics]] / [[Phenomenology]]
 
 Tieszen, Richard. *Phenomenology, Logic, and the Philosophy of Mathematics*. Cambridge University Press, 2009. [9780511498589](https://www.cambridge.org/core/books/phenomenology-logic-and-the-philosophy-of-mathematics/57DAFD114A3C0E91C9B335C86C886521).
 
