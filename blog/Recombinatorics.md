@@ -3,8 +3,10 @@ layout: post
 category: field-notes-2
 title: Recombinatorics
 date: 2021-06-09
-permalink: 2021/06/09-recombinatorics
+permalink: 2021/06/09/recombinatorics
 ---
+
+# Recombinatorics
 
 [[2021]] / [[blog]]
 

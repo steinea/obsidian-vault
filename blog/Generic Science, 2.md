@@ -4,8 +4,10 @@ category: field-notes-2
 title: Generic Science, 2
 subtitle: Parmenides, Anaxagoras, Badiou
 date: 2021-04-12
-permalink: 2021/04/12-generic-science-2
+permalink: 2021/04/12/generic-science-2
 ---
+
+# Generic Science, 2
 
 [[2021]] / [[blog]]
 

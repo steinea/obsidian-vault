@@ -4,8 +4,10 @@ category: field-notes-2
 title: Uncanny Knowledges, 3
 subtitle: Toward an Intestinal Thought
 date: 2020-04-17
-permalink: 2020/04/17-uncanny-knowledges-3
+permalink: 2020/04/17/uncanny-knowledges-3
 ---
+
+# Uncanny Knowledges, 3
 
 [[2020]] / [[blog]]
 

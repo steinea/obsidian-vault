@@ -4,8 +4,12 @@ category: juvenilia-3
 title: The Fire Fades
 subtitle: Navigating the End of the World in FromSoftware’s <em>Dark Souls</em>
 date: 2020-03-19
-permalink: 2020/03/19-the-fire-fades
+permalink: 2020/03/19/the-fire-fades
 ---
+
+# The Fire Fades
+
+### Navigating the End of the World in FromSoftware’s *Dark Souls*
 
 [[2020]] / [[blog]]
 

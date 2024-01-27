@@ -4,8 +4,10 @@ category: field-notes-2
 title: Chasm, 2
 subtitle: The Element
 date: 2019-01-15
-permalink: 2019/01/15-chasm-2
+permalink: 2019/01/15/chasm-2
 ---
+
+# Chasm, 2
 
 [[2019]] / [[blog]]
 

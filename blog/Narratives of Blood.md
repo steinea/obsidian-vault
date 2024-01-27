@@ -4,8 +4,10 @@ category: juvenilia-3
 title: Narratives of Blood
 subtitle: Justice, Empire, and <em>Billy Budd, Sailor</em>
 date: 2017-03-23
-permalink: 2017/03/23-narratives-of-blood
+permalink: 2017/03/23/narratives-of-blood
 ---
+
+# Narratives of Blood
 
 [[2017]] / [[blog]]
 

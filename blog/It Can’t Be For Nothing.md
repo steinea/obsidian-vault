@@ -4,8 +4,10 @@ category: juvenilia-3
 title: It Can’t Be For Nothing
 subtitle: Communicating Intentions for Play Through Trophy Design in <em>The Last of Us</em> and <em>The Last of Us Part II</em>
 date: 2020-08-28
-permalink: 2020/08/28-it-cant-be-for-nothing
+permalink: 2020/08/28/it-cant-be-for-nothing
 ---
+
+# It Can’t Be For Nothing
 
 [[2020]] / [[blog]]
 

@@ -4,8 +4,10 @@ category: field-notes-2
 title: The Idea of the Gamer, 3
 subtitle: Making Faces
 date: 2021-05-30
-permalink: 2021/05/30-idea-of-gamer-3
+permalink: 2021/05/30/idea-of-gamer-3
 ---
+
+# The Idea of the Gamer, 3
 
 [[2021]] / [[blog]]
 

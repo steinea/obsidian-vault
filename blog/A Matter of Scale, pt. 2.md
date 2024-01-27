@@ -1,0 +1,37 @@
+---
+layout: post
+category: field-notes
+title: A Matter of Scale, pt. 2
+date: 2015-07-17
+permalink: 2015/07/17/a-matter-of-scale-part-2
+---
+
+# A Matter of Scale, pt. 2
+
+[[2015]] / [[blog]]
+
+I have talked at length about the ethical necessity of relationships and the unique freedom that we can find there. I have talked about the power of monuments and their remarkable capacity for taking us *out of circuit*[^1] with ourselves, allowing us to step out and look back and see things from a different perspective. And in the previous essay, part one of "A Matter of Scale," I tried to see just how far I could step.
+
+But, having flown with *Voyager 1* and *New Horizons* to the edge of our solar system and beyond, I will now return to the world and our human context to apply the concept of scale to human interaction.
+
+First, a caveat: I do not believe that *all* human interactions should take place at enormous scales. I find that crowds are alienating and exhausting. But I also find that the experience of being in a crowd is a special one, and is significant to the argument I have been developing these past few weeks. Rather than advocate for an ethics of the crowd, then, I will undertake a more descriptive project, as with the nature of the monument as a social artifact, and see where the writing takes me.
+
+So. This Wednesday I went with my classmates to the Champ de Mars to attend the Bastille Day celebration and fireworks. We were there, the sixteen of us, with *five hundred thousand* other people. That is five hundred thousand at the Champ de Mars alone. As I said above, the crowd experience is an alienating one. But as with the emptiness of space, discussed in part one, a change in perspective on the crowd affords us a more productive understanding of it.
+
+If the crowd is alienating as the emptiness of space is isolating, so also does the sheer size of the crowd, especially like that which I experienced, cause similar sensations as to the sheer size of space. One is caught up, reduced to a point in the flow, the tide, the expanse. Identity is elided, replaced with a collective conception of oneself as a *part,* rather than a vacuum sealed *whole.* Just as the "Pale Blue Dot" photo reduces our planet to an inconsequential speck, the crowd reduces oneself to a similarly inconsequential status. Five hundred thousand other selves were there that night with me, and in such a context the relational nature of our existence is overloaded. Five hundred thousand totalities demand, both explicitly and implicitly, to be seen, to be heard, to be recognized. But to recognize the other as such is to take oneself out of circuit with the self, to displace one's identity and inhabit the other's. This is, to put it simply, *empathy,* the process of stepping outside oneself and into the place of the other, so that when one returns to oneself one more fully understands the other as an equally valuable and unique being. Though more developed in some than others, the empathetic capacity is innate in all humans. Thus, when put into the middle of an enormous crowd, this relational function risks being thrown, like a switch, in one of two directions: 1) *fully closed,* the circuit breaks, and the self retreats (isolation), allowing only members of its tribe to enter in, reducing all others to mindless obstructions, or 2) *fully open,* accepting all others, but losing the self in the process (alienation; the mob). In the first, empathy is fettered, but in the second, empathy runs wild and, losing consciousness, loses its efficacy as well.
+
+To gain a better perspective, then, one must fight the pull in either direction and dwell in the tension between openness and restraint that empathy produces. And in the process, a madhouse like Bastille Day starts to become sensible.
+
+Bastille Day was not always like it is today. As John Kim Munholland discusses in Chapter 1 of *Montmartre and the Making of Mass Culture*,[^2] Bastille Day was just one of the French Third Republic's many pitiful attempts to establish a strong national identity in the wake of the catastrophe of the Franco-Prussian War. Bastille Day was "less a moment to celebrate the triumph of republicanism than a time to escape from the grim reality of everyday life ... a hollow festival for those whose daily lives were harsh" (25). The Marseillaise, too, the national anthem, was just as much of a joke, satirized by the public in print and song. But to attend Bastille Day today, one would never guess at its rocky beginnings. Everywhere people were happy and smiling, and when the orchestra played the anthem in the minutes before the fireworks show began, the mass of people joined together and sang. Though the Third Republic has passed, their "hollow festival" has remained, and has become enormous in proportion and popularity. Why?
+
+I would locate the eventual success of Bastille Day in the primal, seething power of the crowd. Though the crowd that gathered at the Champ de Mars was easily large enough to alienate and isolate, the shared purpose of all such gatherings provide for the out-of-circuit-self a focus, an anchor for one's identity. When hundreds of thousands gather in such a way the event cannot help but take on a ritualistic quality. And herein lies the strange force of the crowd gathered in celebration. In interpersonal relationships, empathy is relatively simple. It is easy to find your way back to yourself. In a crowd it becomes more difficult, as the foci of the empathetic impulse are increased exponentially. But by focusing every individual's attention on the Eiffel Tower, that grand symbol of French unity, by playing a song that everyone sings, and then putting on a spectacle for everyone to enjoy, all for the glory of France, all those foci are resituated in the entity of the state. The self is put out of circuit and into *France* and is returned a citizen. And in this way, all those numerous relations that the crowd creates are flattened out and simplified: we are all *patriots,* we are all *French.*
+
+Unless, of course, you're not. Like the *New Horizon*'s photos of Pluto and *Voyager 1*′s "Pale Blue Dot," Bastille Day took me to that objective place beyond, the Archimedean point I have talked about, allowing me to see into the French national system---really, the entire abstracted system of nationalism---from the outside. And by looking at the French in such away, upon my return, both to myself, and to my home in Canada, that objective perspective will come with me. I have read much about nationalism and empire in my studies. I have read the critical theory, the philosophy, the literature: I know how it works. But at Bastille Day, I saw all the pieces come together.
+
+<br>
+
+#### Notes
+
+[^1]: Mensch, James. "Public Space." *Continental Philosophy Review* 40 (2007): 31-47. PDF. I have cited this paper several times, so hopefully the phrases I am pulling from it don't require defining any more. But if they do, if, for instance, this is the first essay of mine you've read, then this is where the term comes from.
+
+[^2]: Munholland, John Kim. "Republican Order and Republican Tolerance in Fin-de-Siècle France: Montmartre as a Delinquent Community." *Montmartre and the Making of Mass Culture.* Ed. Gabriel P. Weisberg. London: Rutgers University Press, 2002. 15-36. Print.

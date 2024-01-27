@@ -4,8 +4,10 @@ category: field-notes-2
 title: Theory-Fiction
 subtitle: Tactics and Extravagance
 date: 2019-01-29
-permalink: 2019/01/29-theory-fiction
+permalink: 2019/01/29/theory-fiction
 ---
+
+# Theory-Fiction
 
 [[2019]] / [[blog]]
 

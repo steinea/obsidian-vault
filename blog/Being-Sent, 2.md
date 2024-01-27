@@ -3,8 +3,10 @@ layout: post
 category: field-notes-2
 title: Being-Sent, 2
 date: 2018-12-03
-permalink: 2018/12/03-being-sent-2
+permalink: 2018/12/03/being-sent-2
 ---
+
+# Being-Sent, 2
 
 [[2018]] / [[blog]]
 

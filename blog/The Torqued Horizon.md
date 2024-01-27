@@ -4,8 +4,10 @@ category: juvenilia-3
 title: The Torqued Horizon
 subtitle: Preliminary Notes on the Hypersurface of the Real
 date: 2019-04-06
-permalink: 2019/04/06-the-torqued-horizon
+permalink: 2019/04/06/the-torqued-horizon
 ---
+
+# The Torqued Horizon
 
 [[2019]] / [[blog]]
 

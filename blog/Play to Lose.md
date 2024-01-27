@@ -4,8 +4,10 @@ category: juvenilia-3
 title: Play to Lose
 subtitle: Animation, Failure, and the Milieu in <em>Trophy Dark</em>
 date: 2022-07-28
-permalink: 2022/07/28-play-to-lose
+permalink: 2022/07/28/play-to-lose
 ---
+
+# Play to Lose
 
 [[2022]] / [[blog]]
 

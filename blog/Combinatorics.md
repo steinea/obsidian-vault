@@ -4,8 +4,10 @@ category: field-notes-2
 title: Combinatorics
 subtitle: Ontology and Rule Zero
 date: 2021-04-26
-permalink: 2021/04/26-combinatorics
+permalink: 2021/04/26/combinatorics
 ---
+
+# Combinatorics
 
 [[2021]] / [[blog]]
 

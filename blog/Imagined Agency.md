@@ -4,8 +4,10 @@ category: juvenilia-3
 title: Imagined Agency
 subtitle: "Review of Stefano Gualeni and Riccardo Fassone’s <em>Imagined Agency: A Philosophy of Worldbuilding and Imaginary Play</em>"
 date: 2023-05-26
-permalink: 2023/05/26-imagined-agency
+permalink: 2023/05/26/imagined-agency
 ---
+
+# Imagined Agency
 
 [[2023]] / [[blog]]
 

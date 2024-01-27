@@ -4,8 +4,10 @@ category: field-notes-2
 title: Chasm, 3
 subtitle: Hiddenness, Cryptography, God
 date: 2019-05-28
-permalink: 2019/05/28-chasm-3
+permalink: 2019/05/28/chasm-3
 ---
+
+# Chasm, 3
 
 [[2019]] / [[blog]]
 

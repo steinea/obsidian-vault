@@ -4,8 +4,10 @@ category: juvenilia-3
 title: No Dice, No Masters
 subtitle: Procedures for Emancipation in <em>Dream Askew / Dream Apart</em>
 date: 2021-08-05
-permalink: 2021/08/05-no-dice-no-masters
+permalink: 2021/08/05/no-dice-no-masters
 ---
+
+# No Dice, No Masters
 
 [[2021]] / [[blog]]
 

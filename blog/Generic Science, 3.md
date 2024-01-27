@@ -4,8 +4,10 @@ category: field-notes-2
 title: Generic Science, 3
 subtitle: Zeno, Melissus, Empedocles
 date: 2021-04-25
-permalink: 2021/04/25-generic-science-3
+permalink: 2021/04/25/generic-science-3
 ---
+
+# Generic Science, 3
 
 [[2021]] / [[blog]]
 

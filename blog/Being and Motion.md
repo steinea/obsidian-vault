@@ -4,8 +4,10 @@ category: field-notes-2
 title: Being and Motion
 subtitle: Thales, Anaximander, Anaximenes
 date: 2021-02-25
-permalink: 2021/02/11-being-and-motion
+permalink: 2021/02/11/being-and-motion
 ---
+
+# Being and Motion
 
 [[2021]] / [[blog]]
 

@@ -4,8 +4,10 @@ category: field-notes-2
 title: Figures of Dune, 1
 subtitle: Artefact, Form, and the Technics of Myth
 date: 2017-03-29
-permalink: 2017/03/29-figures-of-dune
+permalink: 2017/03/29/figures-of-dune
 ---
+
+# Figures of Dune, 1
 
 [[2017]] / [[blog]]
 

@@ -4,8 +4,10 @@ category: juvenilia-3
 title: Being Meat
 subtitle: "Review of Tom Tyler’s <em>Game: Animals, Video Games, and Humanity</em>"
 date: 2022-08-29
-permalink: 2022/08/29-being-meat
+permalink: 2022/08/29/being-meat
 ---
+
+# Being Meat
 
 [[2022]] / [[blog]]
 

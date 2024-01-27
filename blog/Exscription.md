@@ -4,8 +4,10 @@ category: field-notes-2
 title: Exscription
 subtitle: A Fragment
 date: 2019-06-14
-permalink: 2019/06/14-exscription
+permalink: 2019/06/14/exscription
 ---
+
+# Exscription
 
 [[2019]] / [[blog]]
 

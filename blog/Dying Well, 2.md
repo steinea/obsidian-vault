@@ -4,8 +4,10 @@ category: field-notes-2
 title: Dying Well, 2
 subtitle: Kinetics and Cosmology
 date: 2022-05-23
-permalink: 2022/05/23-dying-well-2
+permalink: 2022/05/23/dying-well-2
 ---
+
+# Dying Well, 2
 
 [[2022]] / [[blog]]
 

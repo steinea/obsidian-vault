@@ -4,8 +4,10 @@ category: juvenilia-3
 title: Tactile Thematics, 2
 subtitle: Passages of Plurality in FromSoftware’s <em>Elden Ring</em>
 date: 2023-05-16
-permalink: 2023/05/16-tactile-thematics-2
+permalink: 2023/05/16/tactile-thematics-2
 ---
+
+# Tactile Thematics, 2
 
 [[2023]] / [[blog]]
 

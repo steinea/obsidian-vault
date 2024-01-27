@@ -3,8 +3,10 @@ layout: post
 category: field-notes-2
 title: Genichiro
 date: 2019-10-28
-permalink: 2019/10/28-genichiro
+permalink: 2019/10/28/genichiro
 ---
+
+# Genichiro
 
 [[2019]] / [[blog]]
 

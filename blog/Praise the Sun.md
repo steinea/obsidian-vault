@@ -4,8 +4,10 @@ category: juvenilia-3
 title: Praise the Sun
 subtitle: The Metaphysics of <em>Dark Souls</em> from the First Flame to the End of Fire
 date: 2020-06-03
-permalink: 2020/06/03-praise-the-sun
+permalink: 2020/06/03/praise-the-sun
 ---
+
+# Praise the Sun
 
 [[2020]] / [[blog]]
 

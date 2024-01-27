@@ -4,8 +4,10 @@ category: field-notes-2
 title: Teaching for Food, 2
 subtitle: Not to Be Called Rabbi
 date: 2020-05-29
-permalink: 2020/05/29-teaching-for-food-2
+permalink: 2020/05/29/teaching-for-food-2
 ---
+
+# Teaching for Food, 2
 
 [[2020]] / [[blog]]
 

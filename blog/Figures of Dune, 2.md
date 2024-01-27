@@ -4,8 +4,10 @@ category: field-notes-2
 title: Figures of Dune, 2
 subtitle: The Problem of Fiction
 date: 2017-03-29
-permalink: 2017/08/31-figures-of-dune-2
+permalink: 2017/08/31/figures-of-dune-2
 ---
+
+# Figures of Dune, 2
 
 [[2017]] / [[blog]]
 

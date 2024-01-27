@@ -4,8 +4,10 @@ category: juvenilia-3
 title: From Governance to Planning
 subtitle: Nuclearity, Ludology, Anarchy
 date: 2021-04-10
-permalink: 2021/04/10-from-governance-to-planning
+permalink: 2021/04/10/from-governance-to-planning
 ---
+
+# From Governance to Planning
 
 [[2021]] / [[blog]]
 

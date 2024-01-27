@@ -4,8 +4,10 @@ category: juvenilia-3
 title: Mechanics of Speculation
 subtitle: Review of Cameron Kunzelman’s <em>The World Is Born From Zero</em>
 date: 2022-09-21
-permalink: 2022/09/21-mechanics-of-speculation
+permalink: 2022/09/21/mechanics-of-speculation
 ---
+
+# Mechanics of Speculation
 
 [[2022]] / [[blog]]
 

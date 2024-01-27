@@ -3,8 +3,10 @@ layout: post
 category: field-notes-2
 title: The System of Whiteness
 date: 2020-05-29
-permalink: 2020/05/29-system-of-whiteness
+permalink: 2020/05/29/system-of-whiteness
 ---
+
+# The System of Whiteness
 
 [[2020]] / [[blog]]
 

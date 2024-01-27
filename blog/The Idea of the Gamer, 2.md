@@ -4,8 +4,10 @@ category: field-notes-2
 title: The Idea of the Gamer, 2
 subtitle: Anxiety, Ethics, and Games
 date: 2021-04-28
-permalink: 2021/04/28-idea-of-gamer-2
+permalink: 2021/04/28/idea-of-gamer-2
 ---
+
+# The Idea of the Gamer, 2
 
 [[2021]] / [[blog]]
 

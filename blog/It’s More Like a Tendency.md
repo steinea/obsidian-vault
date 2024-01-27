@@ -4,8 +4,10 @@ category: juvenilia-3
 title: It’s More Like a Tendency
 subtitle: Trajectories of the Literary in <em>Kentucky Route Zero</em>
 date: 2021-03-12
-permalink: 2021/03/12-its-more-like-a-tendency
+permalink: 2021/03/12/its-more-like-a-tendency
 ---
+
+# It’s More Like a Tendency
 
 [[2021]] / [[blog]]
 

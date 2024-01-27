@@ -3,8 +3,10 @@ layout: post
 category: field-notes-2
 title: Compost Epistemology
 date: 2022-06-19
-permalink: 2022/06/19-compost-epistemology
+permalink: 2022/06/19/compost-epistemology
 ---
+
+# Compost Epistemology
 
 [[2022]] / [[blog]]
 

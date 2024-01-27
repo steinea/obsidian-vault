@@ -4,8 +4,10 @@ category: field-notes-2
 title: Ludic Philosophy, 1
 subtitle: From the Laboratory of Ideas
 date: 2019-02-25
-permalink: 2019/02/25-ludic-philosophy
+permalink: 2019/02/25/ludic-philosophy
 ---
+
+# Ludic Philosophy, 1
 
 [[2019]] / [[blog]]
 

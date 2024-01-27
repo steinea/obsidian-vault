@@ -3,8 +3,10 @@ layout: post
 category: field-notes-2
 title: Temporality, World, Enframing
 date: 2019-06-13
-permalink: 2019/06/13-temporality-enframing
+permalink: 2019/06/13/temporality-enframing
 ---
+
+# Temporality, World, Enframing
 
 [[2019]] / [[blog]]
 

@@ -4,8 +4,10 @@ category: field-notes-2
 title: Ludic Philosophy, 2
 subtitle: Anarcho-Formalism
 date: 2021-02-10
-permalink: 2021/02/10-ludic-philosophy-2
+permalink: 2021/02/10/ludic-philosophy-2
 ---
+
+# Ludic Philosophy, 1
 
 [[2021]] / [[blog]]
 

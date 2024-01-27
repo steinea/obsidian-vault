@@ -4,8 +4,10 @@ category: juvenilia-3
 title: Joyful Study
 subtitle: "Review of <em>Experimental Games: Critique, Play, and Design in the Age of Gamification</em> by Patrick Jagoda"
 date: 2021-03-11
-permalink: 2021/03/11-joyful-study
+permalink: 2021/03/11/joyful-study
 ---
+
+# Joyful Study
 
 [[2021]] / [[blog]]
 

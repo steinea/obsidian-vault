@@ -3,8 +3,10 @@ layout: post
 category: field-notes-2
 title: Uncanny Knowledges, 1
 date: 2019-08-20
-permalink: 2019/08/20-uncanny-knowledges
+permalink: 2019/08/20/uncanny-knowledges
 ---
+
+# Uncanny Knowledges, 1
 
 [[2019]] / [[blog]]
 

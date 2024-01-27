@@ -4,8 +4,10 @@ category: juvenilia-3
 title: Production and Pedagogy
 subtitle: Teaching Game Development in the University Classroom
 date: 2022-08-26
-permalink: 2022/08/26-production-and-pedagogy
+permalink: 2022/08/26/production-and-pedagogy
 ---
+
+# Production and Pedagogy
 
 [[2022]] / [[blog]]
 

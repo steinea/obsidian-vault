@@ -4,8 +4,10 @@ category: juvenilia-3
 title: The Dark Sigil Will Guide Thee
 subtitle: The Hollowing Mechanic in FromSoftware's <em>Souls</em> Games
 date: 2020-10-23
-permalink: 2020/10/23-the-dark-sigil-will-guide-thee
+permalink: 2020/10/23/the-dark-sigil-will-guide-thee
 ---
+
+# The Dark Sigil Will Guide Thee
 
 [[2020]] / [[blog]]
 

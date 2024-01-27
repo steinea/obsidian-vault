@@ -4,8 +4,10 @@ category: juvenilia-3
 title: Pure Vessels
 subtitle: The Insect and the Other in <em>Dark Souls</em> and <em>Hollow Knight</em>
 date: 2020-06-19
-permalink: 2020/06/19-pure-vessels
+permalink: 2020/06/19/pure-vessels
 ---
+
+# Pure Vessels
 
 [[2020]] / [[blog]]
 

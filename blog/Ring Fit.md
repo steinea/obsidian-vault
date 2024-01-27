@@ -1,0 +1,19 @@
+---
+layout: record
+category: excurses-3
+title: Ring Fit
+date: 2023-01-01
+permalink: 2023/01/01/ring-fit
+---
+
+# Ring Fit
+
+[[2023]] / [[blog]]
+
+In 2015, I had a catastrophic ankle injury that left me walking on crutches for months. The tendons and ligaments that I damaged never fully recovered, and I have since reinjured the same ankle multiple times—most recently while hiking during the summer of 2022. In 2016, I started graduate school, and though I would not change my decision to pursue graduate studies, nor would I alter the professional path my studies set me upon, the negative side effects to my health as a consequence of this journey have not been insignificant. Though highly active throughout my youth and early twenties, these two personal factors have been the most substantial contributors to the decline in my general wellbeing over the last decade.
+
+But personal factors are never exclusively to blame, and the last few years have made this fact especially clear. The COVID-19 pandemic amplified the precarious social and economic conditions that have defined my adult life, driving me to change industries between bouts of unemployment. Such contingent circumstances have directly impacted my physical and mental health for the worse. Furthermore, groceries have never been more expensive, making healthy choices extremely burdensome. The powers that be seem to think an engineered recession is the solution for our inflationary woes, while acknowledging that such a choice will directly harm regular people. The personal factors noted above have certainly been the most immediate contributors to my diminishing quality of life, but the effects have been noticeably magnified since the beginning of the pandemic in 2020.
+
+As I write this—New Years Eve 2022—I am reminded of the line from Rilke’s “Archaic Torso of Apollo,” and specifically the adaptation of it by Peter Sloterdijk, who takes the line for the title of his book: “You must change your life.” To pull from [Wikipedia](https://en.wikipedia.org/wiki/You_Must_Change_Your_Life), Sloterdijk proposes an “anthropotechnics,” a set of “techniques of individual and collective self-transformation,” the use of which might aid in our negotiation of the “the networks of discipline through which we live our lives and construct our world.” While this page is specifically concerned with an effort of individual self-transformation, I want to emphasize that the personal and collective must always go hand in hand. To this end, I am inspired by Inhabit’s publication, [*Inhabit.Body*](https://territories.substack.com/p/inhabitbody), a “strength and conditioning guide for insurgents,” a manual “aimed at constructing a base of physical power” in order to fashion our bodies into “more capable weapons on the road to becoming ungovernable.” When I first read <em>Inhabit.Body</em> in 2020, I was inspired to think of the health of my body not as a commodity in the circuits of capital, but as an instrument for collective action.
+
+This brings us to the title of this post: Ring Fit. I picked up Nintendo's [*Ring Fit Adventure*](https://ringfitadventure.nintendo.com/) for the Switch on Boxing Day this year, and it is my intention to see just how far this game can get me in 2023 on the road to regaining some of my physical power. *Update*: I originally planned to maintain a log of my exercises, but the practice wore on me, and ended up a deterrent to me being active. So, after [[Spring Cleaning|trail of stars]], this post is all that remains.

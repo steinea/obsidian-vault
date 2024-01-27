@@ -1,0 +1,25 @@
+---
+layout: post
+category: excurses-2
+title: The Spectacle of <em>Stranger Things</em>
+date: 2016-10-05
+permalink: 2016/10/05/the-spectacle-of-stranger-things
+---
+
+# The Spectacle of *Stranger Things*
+
+[[2016]] / [[blog]]
+
+What is so compelling about *Stranger Things?*
+
+To ask such a question invites numerous answers. I would be disappointed if it didn\'t. When presented with a rich cultural object, one can\'t help but ruminate, theorize, dream, allowing the story to coat your synapses, to create structures in your mind and embed itself in the deep places, so that it becomes a part of you, your tradition, your horizon. Such an object is not really an object at all but an event, and *Stranger Things* was the event of the summer. If you haven\'t yet, stop reading now and go watch it. I\'ll see you back here in eight hours. You\'ll thank me.
+
+Now, to our question: what is it that so compels us? The cinematography and design, the characters and performances, the story, the world, the sound, the realism and otherness and familiarity of it all---so much. Too much to quantify here. So I\'ll dabble in impressions, in sensations, the latter of which, in particular, *Stranger Things* does so well.
+
+*Stranger Things* is a show about knowledge---what we know and how we know it---but it explores this concept by making us *feel,* by invoking that negativity of knowing that cannot be rationalized or reasoned with, what has been called the *id* or the *imaginary* or, in neurobiological lingo, a *production of the amygdala*. This feeling is one of churning stomach and electric skin and thudding heart, a feeling that crosses the space between self and screen, screen and self, drawing you into that relation in a way few shows do. You have to watch, you can\'t look away, you can\'t turn off the screen. You\'re scared and elated and impassioned, you\'re brought out of your comfort zone ("I don\'t usually like scary shows") and made a part, played out in the act of *watching* but also in the world of tumblr fan art and coffee shop debates and forum musings. *Stranger Things* is not just something to be watched. *Stranger Things* has created a world for us to participate in, both onscreen and off, a world of creativity and dialogue and reflection. This is television that doesn\'t just entertain but *involves.*
+
+All of this is to say that, in being a show about knowledge, *Stranger Things* is in fact a show about all that we *don\'t* know, about those things that we can\'t clearly perceive, those things that are unframeable, even illogical, that exist beyond the possibility of rational articulation. It does this in the details, in the matter of its world, in the fleshly and the sonorous and the aesthetic, in the *structure* of it all, which is just another way of saying in *play.* Tropes and forms and legacies are all matter to be played with, to be reiterated, recycled, repurposed, represented. And this is all to draw us into its play, to make us part of the drama.
+
+Play is key to *Stranger Things.* There\'s a reason why the first we see of the boys is them playing Dungeons & Dragons. Play is a form, a structure in which we move, a distillation of the flux of life that allows us to understand ourselves, our others, and our world. So when one of the boys is taken, when the others run into a strange girl with otherworldly powers, and when they at last encounter the monster in the flesh (that unknowable horror), their play gives them a structure to frame and take hold of their experience. The monster is inexplicable in the terms of our reality. But for the boys, reality need not be explicable to be played. Reality is not some total, ultimately knowable system but a loose structure through which meaning and knowledge are played out and disclosed. The boys intuitively grasp the fact that knowing occurs in the play of experience, so their lack of rational categories is not a hindrance to them. Rather, the knowledge disclosed in the open and undefined space of play *enables* them to act.
+
+Knowing is a material, experiential process. As temporal beings we are so aware of our finitude, and this process only heightens the sensation. So much is contingent, dependent, transient. Knowing through reasons and categories allows us to control the future, to do away with contingency, and thus persist in the illusion that we are not subject to limitation. But knowing in the flesh reveals something deeper, that our finitude, all that we do not know, is in fact the ground of our freedom, of our ability to act and to choose. So when the neon glow of the title credits is traced onto your retinas and you hear the sounds of that other world strangely echoed in your own, when you *feel* the show, you know you\'ve been caught up, drawn into, played out, and made into more by something so simple as a television show. *Stranger Things* is not just an object for our entertainment. It is an event into which we are drawn. Such a show is rare in this age of spectacle. Enjoy.

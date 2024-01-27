@@ -4,8 +4,10 @@ category: field-notes-2
 title: The Idea of the Gamer, 5
 subtitle: Identity and Agonism
 date: 2021-07-26
-permalink: 2021/07/26-idea-of-gamer-5
+permalink: 2021/07/26/idea-of-gamer-5
 ---
+
+# The Idea of the Gamer, 5
 
 [[2021]] / [[blog]]
 

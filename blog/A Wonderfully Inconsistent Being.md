@@ -4,8 +4,10 @@ category: juvenilia-3
 title: A Wonderfully Inconsistent Being
 subtitle: Review of Timothy Morton’s <em>Spacecraft</em>
 date: 2022-01-19
-permalink: 2022/01/19-a-wonderfully-inconsistent-being
+permalink: 2022/01/19/a-wonderfully-inconsistent-being
 ---
+
+# A Wonderfully Inconsistent Being
 
 [[2022]] / [[blog]]
 

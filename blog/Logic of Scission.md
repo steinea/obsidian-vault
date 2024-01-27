@@ -4,8 +4,10 @@ category: field-notes-2
 title: Logic of Scission
 subtitle: Phaedo
 date: 2022-04-27
-permalink: 2022/04/27-logic-of-scission
+permalink: 2022/04/27/logic-of-scission
 ---
+
+# Logic of Scission
 
 [[2022]] / [[blog]]
 

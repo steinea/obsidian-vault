@@ -4,8 +4,10 @@ category: field-notes-2
 title: Sophistics
 subtitle: Protagoras and the Positivists
 date: 2021-07-19
-permalink: 2021/07/19-sophistics
+permalink: 2021/07/19/sophistics
 ---
+
+# Sophistics
 
 [[2021]] / [[blog]]
 

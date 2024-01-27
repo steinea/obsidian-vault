@@ -4,8 +4,10 @@ category: field-notes-2
 title: Uncanny Knowledges, 2
 subtitle: Against the Computational Model
 date: 2020-01-21
-permalink: 2020/01/21-uncanny-knowledges-2
+permalink: 2020/01/21/uncanny-knowledges-2
 ---
+
+# Uncanny Knowledges, 2
 
 [[2020]] / [[blog]]
 

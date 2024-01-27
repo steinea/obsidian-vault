@@ -4,8 +4,10 @@ category: field-notes-2
 title: Pure Indetermination, 2
 subtitle: Levinas
 date: 2021-07-03
-permalink: 2021/07/03-pure-indetermination
+permalink: 2021/07/03/pure-indetermination
 ---
+
+# Pure Indetermination, 2
 
 [[2021]] / [[blog]]
 

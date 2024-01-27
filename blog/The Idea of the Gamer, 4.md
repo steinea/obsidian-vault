@@ -4,8 +4,10 @@ category: field-notes-2
 title: The Idea of the Gamer, 4
 subtitle: Gaze, Diagram, Interaction
 date: 2021-07-01
-permalink: 2021/07/01-idea-of-gamer-4
+permalink: 2021/07/01/idea-of-gamer-4
 ---
+
+# The Idea of the Gamer, 4
 
 [[2021]] / [[blog]]
 

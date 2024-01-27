@@ -4,8 +4,10 @@ category: juvenilia-3
 title: Beasts and Sovereigns
 subtitle: The Zoopolitical Imagination of FromSoftware’s <em>Demon’s Souls</em>, <em>Bloodborne</em>, and <em>Elden Ring</em>
 date: 2023-06-06
-permalink: 2023/06/01-beasts-and-sovereigns
+permalink: 2023/06/01/beasts-and-sovereigns
 ---
+
+# Beasts and Sovereigns
 
 [[2023]] / [[blog]]
 

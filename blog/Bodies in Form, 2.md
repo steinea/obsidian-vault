@@ -4,8 +4,10 @@ category: juvenilia-3
 title: Bodies in Form, 2
 subtitle: Tabletop Roleplaying as Cosmic Poetics
 date: 2021-05-28
-permalink: 2021/05/28-bodies-in-form-2
+permalink: 2021/05/28/bodies-in-form-2
 ---
+
+# Bodies in Form, 2
 
 [[2021]] / [[blog]]
 

@@ -4,8 +4,10 @@ category: field-notes-2
 title: Generic Science, 1
 subtitle: Heraclitus, Intelligence, and the Common
 date: 2021-03-28
-permalink: 2021/03/28-generic-science
+permalink: 2021/03/28/generic-science
 ---
+
+# Generic Science, 1
 
 [[2021]] / [[blog]]
 

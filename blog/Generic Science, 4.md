@@ -4,8 +4,10 @@ category: field-notes-2
 title: Generic Science, 4
 subtitle: Leucippus, Democritus, Diogenes, Gorgias
 date: 2021-06-10
-permalink: 2021/06/10-generic-science-4
+permalink: 2021/06/10/generic-science-4
 ---
+
+# Generic Science, 4
 
 [[2021]] / [[blog]]
 

@@ -4,8 +4,10 @@ category: field-notes-2
 title: The Idea of the Gamer, 1
 subtitle: Introduction to Amanda Phillips' Gamer Trouble
 date: 2021-03-25
-permalink: 2021/03/25-idea-of-gamer
+permalink: 2021/03/25/idea-of-gamer
 ---
+
+# The Idea of the Gamer, 1
 
 [[2021]] / [[blog]]
 
