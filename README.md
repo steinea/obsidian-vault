@@ -19,13 +19,13 @@ To start exploring this site, check out the sitemap below and click through to w
 
 <br>
 
-#### hCard
+#### 🪪 hCard
 
 * Name: Eric Stein
 * Phonetic: ɛrɪk staɪn
 * Pronouns: he, him, his
 * Honorific(s): MA, CAPM
-* Nickname: [[identities|@steinea]]
+* Nickname: [[resume#Identities|@steinea]]
 * URL: https://www.steinea.ca
 * Email: steinea at protonmail dot com
 * PGP: B5B0 AA7E D450 9C8B
@@ -39,7 +39,7 @@ To start exploring this site, check out the sitemap below and click through to w
 
 <br>
 
-#### License
+#### 🔑 License
 
 © by Eric Stein, 2013–2023. *www.steinea.ca* and all of its [contents](https://github.com/steinea/steinea) are licensed under a Creative Commons Attribution 4.0 International License, except where otherwise noted. To view a copy of this license, visit <https://creativecommons.org/licenses/by/4.0/>.
 
