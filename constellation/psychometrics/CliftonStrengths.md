@@ -1,4 +1,4 @@
-# Clifton Strengths
+# CliftonStrengths
 
 [[psychometrics]]
 
