@@ -11,7 +11,6 @@ To start exploring this site, check out the sitemap below and click through to w
 
 #### 🗺️ Sitemap
 
-* 👤 [[about]]
 * ⚡ [[activity]]
 * 📬 [[blog]]
 * 🗃️ [[collections]]
