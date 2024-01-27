@@ -1,5 +1,7 @@
 # Reading
 
+[[activity]]
+
 ```dataview
 
 TABLE date, category
