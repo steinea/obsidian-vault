@@ -1,5 +1,7 @@
 ---
-permalink: 2016-09-12-medieval-mystics-week-1
+title: Medieval Mystics, Week 1
+date: 2016-09-12
+permalink: 2016/09/12/medieval-mystics-week-1
 ---
 
 # Medieval Mystics, Week 1
