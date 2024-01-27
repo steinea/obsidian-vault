@@ -4,7 +4,7 @@ permalink: collections
 
 # Collections
 
-[[sitemap]]
+[[readme]]
 
 ```dataview
 

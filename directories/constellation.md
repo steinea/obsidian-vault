@@ -4,7 +4,7 @@ permalink: constellation
 
 # 🌌 Constellation
 
-[[sitemap]]
+[[readme]]
 
 ```dataview
 

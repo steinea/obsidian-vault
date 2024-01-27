@@ -1,11 +1,11 @@
-# Skills
+# Capabilities
 
 [[constellation]]
 
 ```dataview
 
 TABLE
-from "constellation/skills"
+from "constellation/capabilities"
 sort file.name ASC
 
 ```

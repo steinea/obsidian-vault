@@ -4,4 +4,12 @@ permalink: activity
 
 # Activity
 
-[[sitemap]]
+[[readme]]
+
+```dataview
+
+TABLE
+from "directories/activity"
+sort file.name ASC
+
+```

@@ -4,7 +4,7 @@ permalink: about
 
 # About
 
-[[sitemap]]
+[[readme]]
 
 ```dataview
 

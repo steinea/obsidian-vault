@@ -4,7 +4,7 @@ permalink: timeline
 
 # 🕒 Timeline
 
-[[sitemap]]
+[[readme]]
 
 ```dataview
 

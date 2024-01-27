@@ -4,7 +4,7 @@ permalink: blog
 
 # 📬 Blog
 
-[[sitemap]]
+[[readme]]
 
 ## Latest
 
