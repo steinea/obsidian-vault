@@ -1,7 +1,7 @@
 ---
 title: GAME 260, Week 6
 date: 2023-10-24
-permalink: 2023-10-24-260-pm-w6
+permalink: 2023/10/24/game-260-week-6
 ---
 
 # GAME 260, Project Management, Week 6

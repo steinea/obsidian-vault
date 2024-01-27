@@ -1,7 +1,7 @@
 ---
 title: GAME 260, Week 4
 date: 2023-10-03
-permalink: 2023-10-03-260-pm-w4
+permalink: 2023/10/03/game-260-week-4
 ---
 
 # GAME 260, Project Management, Week 4

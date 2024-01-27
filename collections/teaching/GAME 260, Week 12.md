@@ -1,7 +1,7 @@
 ---
 title: GAME 260, Week 12
 date: 2023-12-05
-permalink: 2023-12-05-260-pm-w12
+permalink: 2023/12/05/game-260-week-12
 ---
 
 # GAME 260, Project Management, Week 12

@@ -1,7 +1,7 @@
 ---
 title: GAME 260, Week 7
 date: 2023-10-31
-permalink: 2023-10-31-260-pm-w7
+permalink: 2023/10/31/game-260-week-7
 ---
 
 # GAME 260, Project Management, Week 7

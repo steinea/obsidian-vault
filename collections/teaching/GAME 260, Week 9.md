@@ -1,7 +1,7 @@
 ---
 title: GAME 260, Week 9
 date: 2023-11-14
-permalink: 2023-11-14-260-pm-w9
+permalink: 2023/11/14/game-260-week-9
 ---
 
 # GAME 260, Project Management, Week 9

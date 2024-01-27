@@ -1,7 +1,7 @@
 ---
 title: GAME 260, Week 10
 date: 2023-11-21
-permalink: 2023-11-21-260-pm-w10
+permalink: 2023/11/21/game-260-week-10
 ---
 
 # GAME 260, Project Management, Week 10

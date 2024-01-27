@@ -1,7 +1,7 @@
 ---
 title: GAME 260, Week 8
 date: 2023-11-07
-permalink: 2023-11-07-260-pm-w8
+permalink: 2023/11/07/game-260-week-8
 ---
 
 # GAME 260, Project Management, Week 8

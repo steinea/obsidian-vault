@@ -1,7 +1,7 @@
 ---
 title: GAME 260, Week 11
 date: 2023-11-28
-permalink: 2023-11-28-260-pm-w11
+permalink: 2023/11/28/game-260-week-11
 ---
 
 # GAME 260, Project Management, Week 11

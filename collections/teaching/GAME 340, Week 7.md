@@ -1,7 +1,7 @@
 ---
 title: GAME 340, Week 7
 date: 2024-02-27
-permalink: 2024-02-27-340-agd-w7
+permalink: 2024/02/27/game-340-week-7
 ---
 
 # GAME 340, Advanced Game Design, Week 7

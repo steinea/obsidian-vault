@@ -1,7 +1,7 @@
 ---
 title: GAME 260, Week 2
 date: 2023-09-19
-permalink: 2023-09-19-260-pm-w2
+permalink: 2023/09/19/game-260-week-2
 ---
 
 # GAME 260, Project Management, Week 2

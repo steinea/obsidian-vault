@@ -1,7 +1,7 @@
 ---
 title: GAME 340, Week 9
 date: 2024-03-12
-permalink: 2024-03-12-340-agd-w9
+permalink: 2024/03/12/game-340-week-9
 ---
 
 # GAME 340, Advanced Game Design, Week 9

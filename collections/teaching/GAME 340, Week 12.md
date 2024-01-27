@@ -1,7 +1,7 @@
 ---
 title: GAME 340, Week 12
 date: 2024-04-02
-permalink: 2024-04-02-340-agd-w12
+permalink: 2024/04/02/game-340-week-12
 ---
 
 # GAME 340, Advanced Game Design, Week 12

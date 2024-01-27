@@ -1,7 +1,7 @@
 ---
 title: GAME 340, Week 4
 date: 2024-01-30
-permalink: 2024-01-30-340-agd-w4
+permalink: 2024/01/30/game-340-week-4
 ---
 
 # GAME 340, Advanced Game Design, Week 4
