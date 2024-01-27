@@ -11,7 +11,7 @@ tags:
 
 # Ptolemy's Philosophy
 
-[[books]] [[mathematics]]
+[[books]] / [[mathematics]]
 
 Feke, Jacqueline. *Ptolemy's Philosophy: Mathematics as a Way of Life*. Princeton University Press, 2018. [9780691179582](https://press.princeton.edu/books/hardcover/9780691179582/ptolemys-philosophy).
 

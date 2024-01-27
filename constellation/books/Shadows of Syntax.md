@@ -11,7 +11,7 @@ tags:
 
 # Shadows of Syntax
 
-[[books]] [[mathematics]]
+[[books]] / [[mathematics]]
 
 Warren, John. *Shadows of Syntax: Revitalizing Logical and Mathematical Conventionalism*. Oxford University Press, 2020. [9780190086152](https://global.oup.com/academic/product/shadows-of-syntax-9780190086152).
 
