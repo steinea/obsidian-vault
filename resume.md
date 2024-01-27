@@ -59,6 +59,17 @@
 <br>
 
 
+### Specializations
+
+* [[Phenomenology]]
+* [[Hermeneutics]]
+* [[Poststructuralism]]
+* [[Video Games]]
+* [[Narrative]]
+
+<br>
+
+
 ### Recognition
 
 * Humanities Award for Outstanding Academic Achievement ([[Trinity Western University]], 2018)
