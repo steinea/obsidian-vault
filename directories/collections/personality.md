@@ -4,4 +4,4 @@ permalink: personality
 
 # Personality
 
-[[about]]
+[[collections]]

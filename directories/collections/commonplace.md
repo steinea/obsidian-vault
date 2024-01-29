@@ -8,9 +8,8 @@ permalink: commonplace
 
 ```dataview
 
-TABLE author, date, publication
-from "collections"
-where category = "commonplace"
+TABLE date
+from "collections/commonplace"
 sort date DESC
 
 ```

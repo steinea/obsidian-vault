@@ -8,9 +8,8 @@ permalink: annotations
 
 ```dataview
 
-TABLE author, date, tags
-from "collections"
-where category = "annotations"
+TABLE date
+from "collections/annotations"
 sort date DESC
 
 ```
