@@ -1,0 +1,3 @@
+# Asymptote Journal
+
+[[publications]]

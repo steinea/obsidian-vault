@@ -1,0 +1,3 @@
+# Verso
+
+[[publications]]

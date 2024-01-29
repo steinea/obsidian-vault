@@ -1,0 +1,3 @@
+# American Literature
+
+[[journals]]

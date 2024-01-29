@@ -1,0 +1,3 @@
+# Yale Law Journal
+
+[[journals]]

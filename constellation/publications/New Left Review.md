@@ -1,0 +1,3 @@
+# New Left Review
+
+[[publications]]

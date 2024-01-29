@@ -1,0 +1,3 @@
+# Studia Neophilologica
+
+[[journals]]

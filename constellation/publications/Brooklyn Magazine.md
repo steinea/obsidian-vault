@@ -1,0 +1,3 @@
+# Brooklyn Magazine
+
+[[publications]]
