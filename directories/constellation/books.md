@@ -5,8 +5,7 @@
 ```dataview
 
 TABLE author, date, tags
-from "constellation"
-where category = "books"
+from "constellation/books"
 sort date DESC
 
 ```

@@ -5,7 +5,7 @@
 ```dataview
 
 TABLE
-from "constellation/evaluations"
+from "constellation/psychometrics"
 sort file.name ASC
 
 ```

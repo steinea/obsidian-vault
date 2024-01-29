@@ -6,6 +6,6 @@
 
 TABLE
 from "constellation/associations"
-sort date DESC
+sort file.name ASC
 
 ```
