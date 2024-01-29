@@ -1,3 +1,11 @@
 # Conferences
 
 [[collections]]
+
+```dataview
+
+TABLE
+from "constellation/conferences"
+sort file.name ASC
+
+```
