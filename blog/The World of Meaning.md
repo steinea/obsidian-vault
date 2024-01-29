@@ -29,13 +29,11 @@ Having established the role of abduction in the segmentation of the *matter* int
 
 A simple demonstration proves Eco's point. In the Hjelmslevian-Platonic system, the content takes the form of a "Porphyrian tree," a hierarchy or "*ordered* set of meaning postulates" (46, 51). Using the set of nouns given by Hjelmslev, Eco represents the tree as follows:
 
-![../Misc%20Resources/Eco%20Dictionary.png](media/image3.png){width="3.3673611111111112in"
-height="1.8604166666666666in"}
+*Figure 1*
 
 This hierarchical structure Eco refers to as a *dictionary*. Such a structure must, however, be *finite* if it is to be parseable; it must be reducible to a set of mutually opposed simple elements. As Eco will show, if "the tree is not hierarchically organized, one has no more guarantees of dealing with a finite number of markers" (57). The hierarchy allows for a finite order; the world of semiosis does not. In the actual operation of signification, the structure appears more as follows:
 
-![../Misc%20Resources/Eco%20Dictionary%20Breakdown.png](media/image4.png){width="6.49375in"
-height="0.8736111111111111in"}
+*Figure 2*
 
 The "tree can be continually reelaborated and rearranged"; the "classical Porphyrian tree \... *is no longer a hierarchical and ordered structure*. It does not provide any guarantee of being finite" (66). Eco continues:
 

@@ -38,8 +38,7 @@ As Saussure moves into "Part Two: Synchronic Linguistics," we will see the struc
 
 The study of language is (at least in part) the study of signs, and signs "are not abstractions but real objects" (102). They are, therefore, "the *concrete entities*" of linguistic science (102). But the idea of the sign in isolation is misleading, a holdover of the logic of the storehouse; instead, we must emphasize the nature of language as a *treasure*, a whole system of signs. As such, rather than speech being a series of adjacent, elemental signs, it is a contiguous, articulated chain, which Saussure represents as follows (104):
 
-![../Misc%20Resources/Saussure%20Parallel%20Chains.png](media/image5.png){width="4.026186570428696in"
-height="0.9145505249343832in"}
+*Figure 1*
 
 In this model, the chain (A) represents the chain of signifieds, and the chain (B) represents the chain of signifiers. The significance of this representation must be emphasized. Without language, the two chains are nothing but an "indefinite plane of jumbled ideas" and an "equally vague plane of sounds" (112): there is no distinction, no signification, no *meaning*. This is the experience of a monolingual speaker encountering another language. They do not possess the *treasure* of the other language that will allow them to divide the sound-chain into meaningful pieces. For this reason, Saussure contends that "\[w\]ithout language, thought is a vague, uncharted nebula. There are no pre-existing ideas, and nothing is distinct before the appearance of language" (112). Language allows for the "reciprocal delimitation\[\] of units" out of the "two shapeless masses," and so it is, therefore, the "domain of articulations" (112). The "concrete unit" of language is not a *thing* to be taken hold of; it is a "value," and a value is "*a form, not a substance*" (105, 113). Language cannot be a storehouse of word-images; it is an "interdependent whole" only through which its "elements" can be analyzed.
 
@@ -61,20 +60,17 @@ Though Hjelsmlev is sometimes guilty of falling into a linguistic substantialism
 
 Hjelmslev's lasting contribution is not, however, this table of relations, but his treatment of the "*sign function*" (47), which corresponds to Saussure's "mechanism of language," the reciprocally differentiating or articulating apparatus that stands between the "two shapeless masses" of thought and sound (Saussure 112). With Hjelmslev's sign function, the sign is no longer a union of signifier and signified, but of "*expression*" and "*content*" (Hjelmslev 47-48). Thus, in Saussure's diagram above, the chain of signifieds (A) and the chain of signifiers (B) become the "*expression plane*" and "*content plane*" respectively (59). Within each plane there arises a further division between "*form*" and "*substance*" (52). For the undifferentiated masses of thought and sound prior to the articulating action of language, Hjelmslev uses the term "*purport*"; the sign-function acts upon both the "*expression-purport*" and the *content-purport*, giving to each a reciprocally delimited form and substance (50, 55). In effect, Hjelmslev interpolates Saussure's concept of the sign with the chain of articulations. Thus, individual *significations*:
 
-![../Misc%20Resources/Sign2.png](media/image6.png){width="1.616376859142607in"
-height="0.8295745844269466in"}
+*Figure 2*
 
 are resituated in a *system* of signification:
 
-![../Misc%20Resources/Sign-Function4.png](media/image7.png){width="4.279351487314086in"
-height="0.7862084426946632in"}
+*Figure 3*
 
 There is not only a relation between signifier and signified, but relations *between* signifiers and signifiers (expressions) and signifieds and signifieds (contents). Though the second diagram is a highly simplified representation of this dual system of relations, we have employed it here to try and highlight the correlation between Saussure and Hjelmslev's thought. The chain of signifiers (S) is a not just a one-dimensional system of signs but a whole *hierarchy* of systems (phonemic, morphemic, syntagmatic, etc.), while the chain of signifieds (s) is, similarly, a hierarchy of *conceptual* systems.
 
 Though a hierarchy of what we might call 'expressional systems' is relatively easy to conceive, a hierarchy of conceptual systems is more abstract. Hjelmslev provides a useful example, however, in the "paradigm" or "continuum" of colour. He presents the following "schematic" as an illustration (52-53):
 
-![../Misc%20Resources/Hjelmslev%20Colours.png](media/image2.png){width="1.66542760279965in"
-height="1.814753937007874in"}
+*Figure 4*
 
 As the diagram shows, between English (left) and Welsh (right) the continuum of colour (content-substance) is subdivided differently (content-form). The distinctions between *expression-*forms (i.e., between the *words* 'green' and 'blue,' 'gwyrdd' and 'glas') correspond to distinctions between concepts or *content*-forms. Thus, the section of the visible light spectrum in question here is articulated by the English content-form into four content-substances, while the Welsh content-form articulates the same section of the visible light spectrum into only three content-substances. Though this example does not capture the entirety of the hierarchy of content, it serves as a useful instrument for the consideration of the role of the linguistic mechanism in concept formation.
 
@@ -102,13 +98,11 @@ At bottom, this ordering of content, for Greimas, "can only be binary" (25). Lik
 
 The term *s* is the positive term of the relation, the *positive fact* of a signification (the link between signifier and signified in Saussure), which, in Greimas, is the linguistic pre-understanding of a perception as a content-substance with a content-form (and thus, a relation to other contents). The term non *s* is the determining negation of *s*, its necessary counterpart. From this basic dichotomy, a fourfould schema can be elaborated, which Greimas represents as follows (26):
 
-![../Misc%20Resources/Greimas%20Semic%20Terms.png](media/image8.png){width="4.303472222222222in"
-height="1.3923611111111112in"}
+*Figure 5*
 
 The essential capacity of the linguistic mechanism as a mechanism of *differentiation*, as it has been consistently defined through the work of Saussure, Jakobson, and Lacan, can here be seen to apply to the content-plane of language. Any *sign*, any signification *s*, can be analyzed as a content standing in differential relation to its negative, and to the neutral and complex terms manifested by the primary binary relation. This schema will be reformulated by Greimas and Rastier in the "Interaction of Semiotic Constraints" with the diagram now famous in cultural studies, which appears as follows (88):
 
-![../Misc%20Resources/Greimas%20Constraint%20Diagram.png](media/image9.png){width="2.80625in"
-height="1.8220636482939632in"}
+*Figure 6*
 
 No meaning is possessed of an intrinsic substance, standing independently in an isolated significance. Every meaning must be treated as situated in matrix of other meanings. The colour blue, designated by the English sign 'blue,' does not have an *absolute* content-value, but rather is informed with meaning through the reciprocal delimitation of its signifier and signified, its expression and its content; it is a relative *value*, a meaning determined by the network of relations, the "isotopy of discourse" or "signifying whole," to which the signification belongs (78). The differential mechanism is at work in both planes of language.
 
@@ -116,13 +110,11 @@ Following this radical transformation of Hjelmslev's theory, Umberto Eco pushes 
 
 Thus, in Eco, the "notion of *hierarchical level,*" of which Greimas writes in "On Meaning," and which emerges in Chomsky's "deep structures versus surface structures," Freud's "latent level versus manifest level," and Hjelmslev's "immanence versus transcendence" (Greimas 540), is deconstructed---Saussure's two axes of language do not describe two different *planes* or *matters*, but two directions or modes of language within a unitary field. There are intimations of such a *leveling* in Greimas, but it takes Eco's substantial erudition to draw out the philosophical implications of the semiotic findings of his predecessors. We see, then, a collapse of the "sign" and "semiosis" into each other, a unifying of the two halves of the problem of signification: that is, signification and significations. For Eco, the "sign is the origin of the semiosic processes \... and the semiosic process of interpretation is present at the very core of the concept of sign" (1). What is, essentially, at work in signs and semiosis, Eco argues, is the "mechanism of abduction," an inferential movement that draws upon the linguistic *forms* given in language through the differential mechanism of cognition to *infer* and *interpret* the meaning of a perceptual *field*, a sensuous *matter*. It is for this reason that Greimas replaces the term "signified" with "signification," to capture the sense that the "signifier," as a phenomenon in the "world of the senses," brings about an "*effect\[\] of meaning*," rather than a *correspondence* between mind and world (8); and, it is for this reason that, following Eco, we can redistribute the Saussurean sign schema:
 
-![../Misc%20Resources/Sign2.png](media/image6.png){width="2.1102362204724407in"
-height="1.0826771653543308in"}
+*Figure 7*
 
 as a nonhierarchical *inference*:
 
-![../Misc%20Resources/Abduction.png](media/image10.png){width="3.18125in"
-height="0.32765310586176727in"}
+*Figure 8*
 
 As Eco writes, such is "a matter of interpretation," rather than correspondence between signified and signifiers. To "interpret a sign means to define the portion of continuum which serves as its vehicle in its relationship with the other portions of the continuum derived from its global segmentation by the content" (44). Every signifier effects a signification, and every signification can in turn stand as a signifier of a further signification. It is an "infinite process" by which the "matter segmented in order to express something expresses other segmentations of that matter" (2, 45). A segment of sound is connected by inference to a segment of perception, and that segment of perception, in its position within the whole field of perception, yields further significations through its relations. Meaning are inferred from other meanings and, through "this interplay from sign to sign, the world (the continuum, the pulp itself of the matter which is manipulated by semiosis) is called into question" (45). The world is not merely given as a shapeless reality; it is given *preformed*.
 
