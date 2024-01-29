@@ -1,0 +1,20 @@
+---
+layout: entry
+category: commonplace
+author: Orson Scott Card
+title: Satyagraha
+publication: Shadow of the Hegemon
+link: https://en.wikipedia.org/wiki/Shadow_of_the_Hegemon
+date: 2014-12-10
+permalink: 2014/12/10/orson-scott-card-satyagraha
+---
+
+# Satyagraha
+
+### Orson Scott Card
+
+[[2014]] / [[commonplace]] / [[Shadow of the Hegemon]]
+
+"One bears what one must" 
+
+Petra, p. 400

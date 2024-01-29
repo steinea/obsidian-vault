@@ -1,0 +1,18 @@
+---
+layout: entry
+category: commonplace
+author: Elizabeth Bowen
+title: Habit Is a Tender Tie
+publication: The Death of the Heart
+link: https://en.wikipedia.org/wiki/The_Death_of_the_Heart
+date: 2014-05-23
+permalink: 2014/05/23/elizabeth-bowen-habit-is-a-tender-tie
+---
+
+# Habit Is a Tender Tie
+
+### Elizabeth Bowen
+
+[[2014]] / [[commonplace]] / [[The Death of the Heart]]
+
+“Habit is not mere subjugation, it is a tender tie: when one remembers habit it seems to have been happiness.”

@@ -3,7 +3,7 @@ layout: entry
 category: commonplace
 author: Charles Bukowski
 title: so you want to be a writer?
-publication: sifting through the madness for the Word, the line, the way
+publication: Poets
 link: https://poets.org/poem/so-you-want-be-writer
 date: 2013-06-28
 permalink: 2013/06/28/charles-bukowski-so-you-want-to-be-a-writer
