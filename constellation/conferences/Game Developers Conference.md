@@ -1,0 +1,3 @@
+# Game Developers Conference
+
+[[conferences]]
