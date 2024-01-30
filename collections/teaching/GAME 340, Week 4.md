@@ -75,6 +75,11 @@ their artistic meaning” (13)
 
 “the cathedral serves a purpose in the game consonant with its role in the world: that of reprieve for the weary and steadfastness in the face of devastation” (30)
 
+* [i miss the sea of japan](https://nicegeargames.itch.io/i-miss-the-sea-of-japan)
+* [Zen Garden, Portland, The Day Before My Wedding](https://cephalopodunk.itch.io/zen-garden-portland)
+* [A Walk Among the Wild Garlic](https://cephalopodunk.itch.io/wild-garlic)
+* [Stargazer](https://bard.itch.io/stargazer)
+
 <br>
 
 
