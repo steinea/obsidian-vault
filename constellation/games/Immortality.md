@@ -3,8 +3,8 @@ title: Immortality
 date: 2023-08-19
 platform: Game Pass
 link: https://www.exophase.com/game/immortality-xbox/achievements/#2209141
-duration: 16 hours
-trophies: 27 of 27
+duration: 16h
+trophies: 27/27
 progress: complete
 permalink: 2023/08/19/immortality
 ---

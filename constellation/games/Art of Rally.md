@@ -3,8 +3,8 @@ title: Art of Rally
 date: 2023-09-08
 platform: PS5
 link: https://psnprofiles.com/trophies/14211-art-of-rally/barrelofjuice
-duration: 22 hours
-trophies: 44 of 44
+duration: 22h
+trophies: 44/44
 progress: complete
 permalink: 2023/09/08/art-of-rally
 ---

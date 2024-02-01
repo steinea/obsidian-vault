@@ -1,10 +1,10 @@
 ---
 title: Halo Infinite
-date: 2023-10-06
+date:
 platform: Game Pass
 link: https://www.exophase.com/game/halo-infinite-xbox/achievements/#2209141
-duration: 296 hours
-trophies: 131 of 144
+duration: 296h
+trophies: 131/144
 progress: incomplete
 permalink: 2023/10/06/halo-infinite
 ---
