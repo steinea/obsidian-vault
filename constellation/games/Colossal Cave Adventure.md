@@ -1,0 +1,3 @@
+# Colossal Cave Adventure
+
+[[games]]

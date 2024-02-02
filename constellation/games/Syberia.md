@@ -1,0 +1,3 @@
+# Syberia
+
+[[games]]

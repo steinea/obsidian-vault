@@ -1,0 +1,3 @@
+# Fate/stay night
+
+[[games]]
