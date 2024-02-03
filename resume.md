@@ -54,7 +54,7 @@
 * [[Agile Methodologies]]
 * [[Narrative Design]]
 * [[Interactive Storytelling]]
-* [[Game Studies]]
+* [[constellation/proficiencies/Game Studies]]
 
 <br>
 
