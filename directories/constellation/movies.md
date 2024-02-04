@@ -1,6 +1,6 @@
 # Movies
 
-[[collections]]
+[[constellation]]
 
 ```dataview
 

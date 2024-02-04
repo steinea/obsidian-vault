@@ -1,6 +1,6 @@
 # Magazines
 
-[[collections]]
+[[constellation]]
 
 ```dataview
 
