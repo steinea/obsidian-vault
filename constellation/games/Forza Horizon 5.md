@@ -5,7 +5,7 @@ platform: Game Pass
 link: 
 duration: 76h
 trophies: 52/137
-progress: incomplete
+progress: abandoned
 permalink: 
 ---
 
