@@ -8,4 +8,4 @@ permalink: 2024/02/13/game-340-week-6
 
 [[2024]] / [[teaching]]
 
-#### Game Jam, TBD
+#### Game Jam, “Out Of My Head”
