@@ -81,7 +81,7 @@ In the State: “Property is precisely the deterritorialized relation between th
 
 Deleuze and Guattari quote *Children of Dune*: “He moved with the random walk which made only those sounds natural to the desert. Nothing in his passage would [indicate] that human flesh moved there. It was a way of walking so deeply conditioned in him that he didn’t need to think about it. The feet moved of themselves, no measurable rhythm to their pacing” (390)
 
-*Commentator’s Note: I recently read an essay by Terence Blake on Deleuze and Dune, “In Praise of Divergence,” July 8, 2023, <https://terenceblake.wordpress.com/2023/07/08/deleuze-and-dune-in-praise-of-divergence/>, so coming across this direct linkage was a delightful surprise.*
+*Commentator’s Note: I recently read an essay by Terence Blake on Deleuze and Dune, “In Praise of Divergence,” Agent Swarm, July 8, 2023, <https://terenceblake.wordpress.com/2023/07/08/deleuze-and-dune-in-praise-of-divergence/>, so coming across this direct linkage was a delightful surprise.*
 
 “the number is no longer numbered, but becomes a Cipher (*Chiffre*), and it it is in this capacity that it constitutes the ‘esprit de corps’ and invents the secret and its outgrowths (strategy, espionage, war ruses, ambush, diplomacy, etc.)” (390)
 
