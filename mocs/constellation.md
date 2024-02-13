@@ -9,7 +9,7 @@ permalink: constellation
 ```dataview
 
 TABLE
-from "directories/constellation"
+from "mocs/constellation"
 sort file.name ASC
 
 ```
