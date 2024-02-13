@@ -139,6 +139,7 @@
 * “[[Bodies in Form, 1]]: Motricity Across Mediums in *The Last of Us* and *The Last of Us: American Dreams*.” ImageText in Motion: Animation and Comics, University of Florida, Gainesville, FL, April 13, 2019. [Zenodo](https://zenodo.org/record/4603470).
 * “[[The Torqued Horizon]]: Preliminary Notes on the Hypersurface of the Real.” Radical Resistance: Dissent and Boundary Crossing in the Humanities, Duquesne University, Pittsburgh, PA, April 6, 2019. [Zenodo](https://zenodo.org/record/4603406).
 * “[[Thoreau’s Cabin]]: An Economy of Space, Sociality, and the Commons.” Free-Exchange: Community Building as Resistance, University of Calgary, Calgary, AB, March 9, 2019. [Zenodo](https://zenodo.org/record/4603398).
+* “[[Narratives of Blood]]: Justice, Empire, and *Billy Budd, Sailor*.” International Society for the Study of Narrative Conference, Lexington, KY, March 23, 2017. [Zenodo](https://zenodo.org/records/4603305).
 
 <br>
 
