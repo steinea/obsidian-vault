@@ -13,3 +13,7 @@ permalink:
 # Manifold Garden
 
 [[games]]
+
+<https://manifold.garden/>
+
+> Rediscover gravity and explore an Escher-esque world of impossible architecture. Witness infinity in first-person and master its rules to solve physics-defying puzzles. Cultivate a garden to open new paths forward, where an eternal expanse awaits.

@@ -13,3 +13,7 @@ permalink:
 # Genesis Noir
 
 [[games]]
+
+<https://genesisnoirgame.com/>
+
+> Genesis Noir is set before, during, and after The Big Bang. To save your love, you must stop the expansion of the universe.
