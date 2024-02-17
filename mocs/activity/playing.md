@@ -28,7 +28,7 @@ sort platform, file.name ASC
 
 <br>
 
-#### Complete
+#### Completed
 
 ```dataview
 
@@ -41,7 +41,7 @@ sort date DESC
 
 <br>
 
-#### Stopped Playing
+#### Stopped
 
 ```dataview
 
