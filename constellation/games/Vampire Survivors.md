@@ -1,12 +1,12 @@
 ---
 title: Vampire Survivors
-date:
+date: 
 platform: Game Pass
 link: 
 duration: 51h
 trophies: 190/196
-progress: incomplete
-permalink: 
+progress: playing
+permalink:
 ---
 
 # Vampire Survivors

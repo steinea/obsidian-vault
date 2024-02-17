@@ -2,13 +2,13 @@
 
 [[activity]]
 
-#### In Progress
+#### Playing
 
 ```dataview
 
 TABLE date, platform, duration, trophies
 from "constellation/games"
-where progress = "incomplete"
+where progress = "playing"
 sort file.name ASC
 
 ```
@@ -19,10 +19,10 @@ sort file.name ASC
 
 ```dataview
 
-TABLE date, platform, duration, trophies
+TABLE platform, howlongtobeat
 from "constellation/games"
-where progress = "priority"
-sort file.name ASC
+where progress = "toplay"
+sort platform, file.name ASC
 
 ```
 

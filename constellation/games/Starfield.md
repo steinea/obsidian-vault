@@ -5,8 +5,8 @@ platform: Game Pass
 link: 
 duration: 103h
 trophies: 45/50
-progress: incomplete
-permalink: 
+progress: playing
+permalink:
 ---
 
 # Starfield

@@ -5,8 +5,8 @@ platform: Game Pass
 link: 
 duration: 1h
 trophies: 3/56
-progress: incomplete
-permalink: 
+progress: playing
+permalink:
 ---
 
 # Sable

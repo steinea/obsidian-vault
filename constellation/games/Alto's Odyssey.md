@@ -3,10 +3,10 @@ title: Alto's Odyssey
 date: 
 platform: Google Play
 link: 
-duration:
+duration: 
 trophies: 14/22
-progress: incomplete
-permalink: 
+progress: playing
+permalink:
 ---
 
 # Alto’s Odyssey

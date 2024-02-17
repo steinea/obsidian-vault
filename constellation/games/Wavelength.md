@@ -5,8 +5,8 @@ platform: Google Play
 link: 
 duration: 
 trophies: 12/13
-progress: incomplete
-permalink: 
+progress: playing
+permalink:
 ---
 
 # Wavelength
