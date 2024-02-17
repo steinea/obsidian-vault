@@ -41,13 +41,13 @@ sort date DESC
 
 <br>
 
-#### Abandoned
+#### Stopped Playing
 
 ```dataview
 
 TABLE date, platform, duration, trophies
 from "constellation/games"
-where progress = "abandoned"
+where progress = "stopped"
 sort file.name ASC
 
 ```

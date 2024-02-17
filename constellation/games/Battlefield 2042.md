@@ -5,7 +5,7 @@ platform: Steam
 link: 
 duration: 10h
 trophies: 8/34
-progress: abandoned
+progress: stopped
 permalink:
 ---
 

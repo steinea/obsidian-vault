@@ -9,7 +9,7 @@ permalink: activity
 ```dataview
 
 TABLE
-from "directories/activity"
+from "mocs/activity"
 sort file.name ASC
 
 ```

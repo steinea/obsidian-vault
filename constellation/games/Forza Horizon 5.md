@@ -5,8 +5,8 @@ platform: Game Pass
 link: 
 duration: 76h
 trophies: 52/137
-progress: abandoned
-permalink: 
+progress: stopped
+permalink:
 ---
 
 # Forza Horizon 5
