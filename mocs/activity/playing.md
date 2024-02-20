@@ -1,26 +1,26 @@
 # Playing
 
 
-#### Playing
+#### Now
 
 ```dataview
 
 TABLE date, platform, duration, trophies
 from "constellation/games"
-where progress = "playing"
+where progress = "now"
 sort file.name ASC
 
 ```
 
 <br>
 
-#### To Play
+#### Next
 
 ```dataview
 
 TABLE platform, howlongtobeat
 from "constellation/games"
-where progress = "toplay"
+where progress = "next"
 sort platform, file.name ASC
 
 ```
