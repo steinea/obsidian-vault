@@ -2,9 +2,9 @@
 category: books
 title: Kierkegaard
 subtitle: Construction of the Aesthetic
-author: Theodor W. Adorno
+author: Adorno, Theodor W.
 date: 1989
-permalink: '9780816611874'
+permalink: "9780816611874"
 tags:
   - kierkegaard
 ---

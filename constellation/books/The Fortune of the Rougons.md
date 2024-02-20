@@ -2,9 +2,9 @@
 category: books
 title: The Fortune of the Rougons
 subtitle: 
-author: Émile Zola
+author: Zola, Émile
 date: 1871
-permalink: '9780199560998'
+permalink: "9780199560998"
 tags:
   - literature
   - french

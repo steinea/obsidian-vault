@@ -1,10 +1,10 @@
 ---
 category: books
 title: Twice-told Tales
-subtitle:
-author: Nathaniel Hawthorne
+subtitle: 
+author: Hawthorne, Nathaniel
 date: 1837
-permalink: '9780814202029'
+permalink: "9780814202029"
 tags:
   - literature
 ---

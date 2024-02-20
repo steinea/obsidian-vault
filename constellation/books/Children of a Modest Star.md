@@ -2,9 +2,9 @@
 category: books
 title: Children of a Modest Star
 subtitle: Planetary Thinking for an Age of Crises
-author: Jonathn S. Blake and Nils Gilman
+author: Blake, Jonathn S. and Nils Gilman
 date: 2024
-permalink: '9781503637856'
+permalink: "9781503637856"
 tags:
   - politics
   - planet

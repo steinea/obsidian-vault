@@ -1,10 +1,10 @@
 ---
 category: books
 title: The Snow Image and Uncollected Tales
-subtitle:
-author: Nathaniel Hawthorne
+subtitle: 
+author: Hawthorne, Nathaniel
 date: 1852
-permalink: '9780814202043'
+permalink: "9780814202043"
 tags:
   - literature
 ---

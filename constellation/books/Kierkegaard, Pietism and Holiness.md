@@ -2,9 +2,9 @@
 category: books
 title: Kierkegaard, Pietism and Holiness
 subtitle: 
-author: Christopher B. Barnett
+author: Barnett, Christopher B.
 date: 2016
-permalink: '9781138260993'
+permalink: "9781138260993"
 tags:
   - kierkegaard
   - pietism

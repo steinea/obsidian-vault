@@ -1,10 +1,10 @@
 ---
 category: books
 title: Mosses from an Old Manse
-subtitle:
-author: Nathaniel Hawthorne
+subtitle: 
+author: Hawthorne, Nathaniel
 date: 1846
-permalink: '9780814202036'
+permalink: "9780814202036"
 tags:
   - literature
 ---

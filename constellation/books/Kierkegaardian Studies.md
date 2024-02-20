@@ -2,11 +2,11 @@
 category: books
 title: Kierkegaardian Studies
 subtitle: 
-author: Jean Wahl
+author: Wahl, Jean
 date: 1938
-permalink: ''
+permalink: ""
 tags:
-  - kierkegaard 
+  - kierkegaard
 ---
 
 # Kierkegaardian Studies
