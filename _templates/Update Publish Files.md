@@ -6,38 +6,88 @@ const openPublishPanel = app.commands.commands["publish:view-changes"].callback;
 const fileAndQuery = new Map([
   [
 	"dataview-activity",
-	'LIST FROM "mocs/activity" SORT file.name ASC',
+	'LIST FROM "dataview/activity" AND -"dataview/activity/playingcompleted" AND -"dataview/activity/playingnext" AND -"dataview/activity/playingnow" AND -"dataview/activity/playingstopped" SORT file.name ASC',
   ],
   [
 	"dataview-collections",
-	'LIST FROM "mocs/collections" SORT file.name ASC',
+	'LIST FROM "dataview/collections" SORT file.name ASC',
   ],
   [
 	"dataview-constellation",
-	'LIST FROM "mocs/constellation" SORT file.name ASC',
+	'LIST FROM "dataview/constellation" SORT file.name ASC',
   ],
+
+// Activity dataview maps
+
   [
-	"dataview-timeline",
-	'LIST FROM "mocs/timeline" SORT file.name ASC',
-  ],
-  [
-	"Building",
+	"building",
 	'TABLE WITHOUT ID file.link AS Set, series AS Series, item AS Item, pieces AS Pieces, age AS Age, status AS Status FROM "constellation/lego" WHERE status = "built" OR status = "unbuilt" OR status = "wishlist" SORT status ASC, file.name ASC',
   ],
   [
-    "Posting",
+	"dreaming",
+	'TABLE WITHOUT ID file.link AS "Dreaming" FROM "activity/dreaming" SORT date DESC',
+  ],
+  [
+	"drinking",
+	'TABLE WITHOUT ID file.link AS "Drinking" FROM "activity/drinking" SORT date DESC',
+  ],
+  [
+	"exercising",
+	'TABLE WITHOUT ID file.link AS "Exercising" FROM "activity/exercising" SORT date DESC',
+  ],
+  [
+	"listening",
+	'TABLE WITHOUT ID file.link AS "Listening" FROM "activity/listening" SORT date DESC',
+  ],
+  [
+	"playingnow",
+	'TABLE WITHOUT ID file.link AS "Now", platform, duration, trophies FROM "constellation/games" WHERE progress = "now" SORT file.name ASC',
+  ],
+  [
+	"playingnext",
+	'TABLE WITHOUT ID file.link AS "Next", platform, howlongtobeat FROM "constellation/games" WHERE progress = "next" SORT platform, file.name ASC',
+  ],
+  [
+	"playingcompleted",
+	'TABLE WITHOUT ID file.link AS "Completed", date, platform, duration, trophies FROM "constellation/games" WHERE progress = "complete" SORT date DESC',
+  ],
+  [
+	"playingstopped",
+	'TABLE WITHOUT ID file.link AS "Stopped", date, platform, duration, trophies FROM "constellation/games" WHERE progress = "stopped" SORT file.name ASC',
+  ],
+  [
+    "posting",
 	'TABLE WITHOUT ID file.link AS Post, date AS Date FROM "activity/posting" SORT date DESC',
   ],
+  [
+	"reading",
+	'TABLE WITHOUT ID file.link AS "Reading" FROM "activity/reading" SORT date DESC',
+  ],
+  [
+	"sleeping",
+	'TABLE WITHOUT ID file.link AS "Sleeping" FROM "activity/sleeping" SORT date DESC',
+  ],
+  [
+	"traveling",
+	'TABLE WITHOUT ID file.link AS "Traveling" FROM "activity/traveling" SORT date DESC',
+  ],
+  [
+	"watching",
+	'TABLE WITHOUT ID file.link AS "Watching" FROM "activity/watching" SORT date DESC',
+  ],
+
+// Blog dataview maps
+
   [
 	"latest",
 	'TABLE WITHOUT ID file.link AS "Latest", date AS Date FROM "blog" WHERE category ="blog" SORT date DESC',
   ],
   [
-	"juvenilia-3",
+	"juvenilia3",
 	'TABLE WITHOUT ID file.link AS "Juvenilia, 3", date AS Date FROM "blog" WHERE category ="juvenilia-3" SORT date DESC',
   ],
   [
-	"field-notes-2",
+	"fieldnotes2",
 	'TABLE WITHOUT ID file.link AS "Field Notes, 2", date AS Date FROM "blog" WHERE category ="field-notes-2" SORT date DESC',
   ],
   [
@@ -45,7 +95,7 @@ const fileAndQuery = new Map([
 	'TABLE WITHOUT ID file.link AS "Ludology", date AS Date FROM "blog" WHERE category ="ludology" SORT date DESC',
   ],
   [
-	"excurses-3",
+	"excurses3",
 	'TABLE WITHOUT ID file.link AS "Excurses, 3", date AS Date FROM "blog" WHERE category ="excurses-3" SORT date DESC',
   ],
   [
@@ -53,11 +103,11 @@ const fileAndQuery = new Map([
 	'TABLE WITHOUT ID file.link AS "Dialogues", date AS Date FROM "blog" WHERE category ="dialogues" SORT date DESC',
   ],
   [
-	"excurses-2",
+	"excurses2",
 	'TABLE WITHOUT ID file.link AS "Excurses, 2", date AS Date FROM "blog" WHERE category ="excurses-2" SORT date DESC',
   ],
   [
-	"juvenilia-2",
+	"juvenilia2",
 	'TABLE WITHOUT ID file.link AS "Juvenilia, 2", date AS Date FROM "blog" WHERE category ="juvenilia-2" SORT date DESC',
   ],
   [
@@ -69,9 +119,187 @@ const fileAndQuery = new Map([
 	'TABLE WITHOUT ID file.link AS "Juvenilia", date AS Date FROM "blog" WHERE category ="juvenilia" SORT date DESC',
   ],
   [
-	"field-notes",
+	"fieldnotes",
 	'TABLE WITHOUT ID file.link AS "Field Notes", date AS Date FROM "blog" WHERE category ="field-notes" SORT date DESC',
   ],
+
+// Collections dataview maps
+
+  [
+	"annotations",
+	'TABLE WITHOUT ID file.link AS "Annotations", date AS Date FROM "collections/annotations" SORT date DESC',
+  ],
+  [
+	"bibliographies",
+	'TABLE WITHOUT ID file.link AS "Bibliographies", date AS Date FROM "collections/bibliographies" SORT date DESC',
+  ],
+  [
+	"commonplace",
+	'TABLE WITHOUT ID file.link AS "Commonplace", date AS Date FROM "collections/commonplace" SORT date DESC',
+  ],
+  [
+	"personality",
+	'TABLE WITHOUT ID file.link AS "Personality", date AS Date FROM "collections/personality" SORT date DESC',
+  ],
+  [
+	"study",
+	'TABLE WITHOUT ID file.link AS "Study", date AS Date FROM "collections/study" SORT date DESC',
+  ],
+  [
+	"teaching",
+	'TABLE WITHOUT ID file.link AS "Teaching", date AS Date FROM "collections/teaching" SORT date DESC',
+  ],
+
+// Constellation dataview maps
+
+  [
+	"associations",
+	'TABLE WITHOUT ID file.link AS "Associations" FROM "constellation/associations" SORT file.name ASC',
+  ],
+  [
+	"books",
+	'TABLE WITHOUT ID file.link AS "Books", author AS Author, date AS Date FROM "constellation/books" SORT author DESC, date ASC, file.name ASC',
+  ],
+  [
+	"bookseries",
+	'TABLE WITHOUT ID file.link AS "Book Series" FROM "constellation/bookseries" SORT file.name ASC',
+  ],
+  [
+	"certifications",
+	'TABLE WITHOUT ID file.link AS "Certifications" FROM "constellation/certifications" SORT file.name ASC',
+  ],
+  [
+	"channels",
+	'TABLE WITHOUT ID file.link AS "Channels" FROM "constellation/channels" SORT file.name ASC',
+  ],
+  [
+	"climate",
+	'TABLE WITHOUT ID file.link AS "Climate" FROM "constellation/climate" SORT file.name ASC',
+  ],
+  [
+	"collectives",
+	'TABLE WITHOUT ID file.link AS "Collectives" FROM "constellation/collectives" SORT file.name ASC',
+  ],
+  [
+	"comics",
+	'TABLE WITHOUT ID file.link AS "Comics" FROM "constellation/comics" SORT file.name ASC',
+  ],
+  [
+	"companies",
+	'TABLE WITHOUT ID file.link AS "Companies" FROM "constellation/companies" SORT file.name ASC',
+  ],
+  [
+	"concepts",
+	'TABLE WITHOUT ID file.link AS "Concepts" FROM "constellation/concepts" SORT file.name ASC',
+  ],
+  [
+	"conferences",
+	'TABLE WITHOUT ID file.link AS "Conferences" FROM "constellation/conferences" SORT file.name ASC',
+  ],
+  [
+	"conventions",
+	'TABLE WITHOUT ID file.link AS "Conventions" FROM "constellation/conventions" SORT file.name ASC',
+  ],
+  [
+	"economics",
+	'TABLE WITHOUT ID file.link AS "Economics" FROM "constellation/economics" SORT file.name ASC',
+  ],
+  [
+	"funds",
+	'TABLE WITHOUT ID file.link AS "Funds" FROM "constellation/funds" SORT file.name ASC',
+  ],
+  [
+	"games",
+	'TABLE WITHOUT ID file.link AS "Games" FROM "constellation/games" SORT file.name ASC',
+  ],
+  [
+	"institutes",
+	'TABLE WITHOUT ID file.link AS "Institutes" FROM "constellation/institutes" SORT file.name ASC',
+  ],
+  [
+	"jams",
+	'TABLE WITHOUT ID file.link AS "Jams" FROM "constellation/jams" SORT file.name ASC',
+  ],
+  [
+	"journals",
+	'TABLE WITHOUT ID file.link AS "Journals" FROM "constellation/journals" SORT file.name ASC',
+  ],
+  [
+	"lego",
+	'TABLE WITHOUT ID file.link AS "Lego" FROM "constellation/lego" SORT file.name ASC',
+  ],
+  [
+	"literaryreviews",
+	'TABLE WITHOUT ID file.link AS "Literary Reviews" FROM "constellation/literaryreviews" SORT file.name ASC',
+  ],
+  [
+	"magazines",
+	'TABLE WITHOUT ID file.link AS "Magazines" FROM "constellation/magazines" SORT file.name ASC',
+  ],
+  [
+	"movies",
+	'TABLE WITHOUT ID file.link AS "Movies" FROM "constellation/movies" SORT file.name ASC',
+  ],
+  [
+	"music",
+	'TABLE WITHOUT ID file.link AS "Music" FROM "constellation/music" SORT file.name ASC',
+  ],
+  [
+	"people",
+	'TABLE WITHOUT ID file.link AS "People" FROM "constellation/people" SORT file.name ASC',
+  ],
+  [
+	"places",
+	'TABLE WITHOUT ID file.link AS "Places" FROM "constellation/places" SORT file.name ASC',
+  ],
+  [
+	"podcasts",
+	'TABLE WITHOUT ID file.link AS "Podcasts" FROM "constellation/podcasts" SORT file.name ASC',
+  ],
+  [
+	"proficiencies",
+	'TABLE WITHOUT ID file.link AS "Proficiencies" FROM "constellation/proficiencies" SORT file.name ASC',
+  ],
+  [
+	"psychometrics",
+	'TABLE WITHOUT ID file.link AS "Psychometrics" FROM "constellation/psychometrics" SORT file.name ASC',
+  ],
+  [
+	"publications",
+	'TABLE WITHOUT ID file.link AS "Publications" FROM "constellation/publications" SORT file.name ASC',
+  ],
+  [
+	"schools",
+	'TABLE WITHOUT ID file.link AS "Schools" FROM "constellation/schools" SORT file.name ASC',
+  ],
+  [
+	"social",
+	'TABLE WITHOUT ID file.link AS "Social" FROM "constellation/social" SORT file.name ASC',
+  ],
+  [
+	"television",
+	'TABLE WITHOUT ID file.link AS "Television" FROM "constellation/television" SORT file.name ASC',
+  ],
+  [
+	"tools",
+	'TABLE WITHOUT ID file.link AS "Tools" FROM "constellation/tools" SORT file.name ASC',
+  ],
+  [
+	"workshops",
+	'TABLE WITHOUT ID file.link AS "Workshops" FROM "constellation/workshops" SORT file.name ASC',
+  ],
+  [
+	"worldbuilding",
+	'TABLE WITHOUT ID file.link AS "Worldbuilding" FROM "constellation/worldbuilding" SORT file.name ASC',
+  ],
+
+// Timeline dataview maps
+
+  [
+	"dataview/timeline",
+	'LIST FROM "mocs/timeline" SORT file.name ASC',
+  ],
+
 ]);
 
 await fileAndQuery.forEach(async (query, filename) => {
