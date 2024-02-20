@@ -6,7 +6,6 @@
 - [[dataview/activity/exercising.md|exercising]]
 - [[dataview/activity/listening.md|listening]]
 - [[dataview/activity/playing.md|playing]]
-- [[dataview/activity/playingmost.md|playingmost]]
 - [[dataview/activity/posting.md|posting]]
 - [[dataview/activity/reading.md|reading]]
 - [[dataview/activity/sleeping.md|sleeping]]

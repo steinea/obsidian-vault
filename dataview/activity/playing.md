@@ -6,18 +6,16 @@ cssclass: clean-embeds
 
 ![[playingnow]]
 
-<br>
-
 ![[playingnext]]
-
-<br>
 
 ![[playingcompleted]]
 
-<br>
-
 ![[playingstopped]]
 
-<br>
+<p><br></p>
+
+#### Data Filters
 
 ![[playingmost]]
+
+![[playingshortest]]

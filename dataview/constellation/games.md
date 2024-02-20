@@ -111,6 +111,8 @@
 | [[constellation/games/Myst.md\|Myst]]                                                                 |
 | [[constellation/games/Neurocracy.md\|Neurocracy]]                                                     |
 | [[constellation/games/Never Alone.md\|Never Alone]]                                                   |
+| [[constellation/games/Nier Automata.md\|Nier Automata]]                                               |
+| [[constellation/games/Nier Replicant ver.1.22474487139….md\|Nier Replicant ver.1.22474487139…]]       |
 | [[constellation/games/Night in the Woods.md\|Night in the Woods]]                                     |
 | [[constellation/games/Norco.md\|Norco]]                                                               |
 | [[constellation/games/Open Roads.md\|Open Roads]]                                                     |

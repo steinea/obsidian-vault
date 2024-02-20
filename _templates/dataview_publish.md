@@ -6,7 +6,7 @@ const openPublishPanel = app.commands.commands["publish:view-changes"].callback;
 const fileAndQuery = new Map([
   [
 	"dataview-activity",
-	'LIST FROM "dataview/activity" AND -"dataview/activity/playedmost" AND -"dataview/activity/playingcompleted" AND -"dataview/activity/playingnext" AND -"dataview/activity/playingnow" AND -"dataview/activity/playingstopped" SORT file.name ASC',
+	'LIST FROM "dataview/activity" AND -"dataview/activity/playingcompleted" AND -"dataview/activity/playingmost" AND -"dataview/activity/playingnext" AND -"dataview/activity/playingnow" AND -"dataview/activity/playingshortest" AND -"dataview/activity/playingstopped" SORT file.name ASC',
   ],
   [
 	"dataview-collections",
@@ -57,7 +57,11 @@ const fileAndQuery = new Map([
   ],
   [
 	"playingmost",
-	'TABLE WITHOUT ID file.link AS "Most", platform AS Platform, duration.hours AS "Hours" FROM "constellation/games" WHERE progress != "next" SORT duration DESC LIMIT 20',
+	'TABLE WITHOUT ID file.link AS "Most", platform AS Platform, duration.hours AS "Hours" FROM "constellation/games" WHERE progress != "next" SORT duration DESC LIMIT 10',
+  ],
+  [
+	"playingshortest",
+	'TABLE WITHOUT ID file.link AS "Shortest", platform AS Platform, howlongtobeat.hours AS "Hours" FROM "constellation/games" WHERE progress = "next" SORT howlongtobeat ASC LIMIT 10',
   ],
   [
     "posting",

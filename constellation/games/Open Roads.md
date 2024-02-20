@@ -6,7 +6,7 @@ link:
 howlongtobeat: 
 duration: 
 trophies: 
-progress: next
+progress: wishlist
 permalink:
 ---
 
