@@ -1,7 +1,7 @@
 ---
 title: Elden Ring
 date: 2022-03-22
-platform: Elden Ring
+platform: Steam
 link: 
 duration: 136h
 trophies: 42/42

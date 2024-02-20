@@ -1,7 +1,7 @@
 ---
 title: Alto's Adventure
 date: 2024-01-12
-platform: Google Play
+platform: Google
 link: 
 duration: 12h
 trophies: 17/17

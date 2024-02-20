@@ -1,7 +1,7 @@
 ---
 title: Wavelength
 date: 
-platform: Google Play
+platform: Google
 link: 
 duration: 
 trophies: 12/13

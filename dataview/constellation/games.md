@@ -12,6 +12,7 @@
 | [[constellation/games/Alba A Wildlife Adventure.md\|Alba A Wildlife Adventure]]                       |
 | [[constellation/games/Alto's Adventure.md\|Alto's Adventure]]                                         |
 | [[constellation/games/Alto's Odyssey.md\|Alto's Odyssey]]                                             |
+| [[constellation/games/Armored Core VI Fires of Rubicon.md\|Armored Core VI Fires of Rubicon]]         |
 | [[constellation/games/Art of Rally.md\|Art of Rally]]                                                 |
 | [[constellation/games/As Dusk Falls.md\|As Dusk Falls]]                                               |
 | [[constellation/games/Ashen.md\|Ashen]]                                                               |
@@ -31,6 +32,7 @@
 | [[constellation/games/Cocoon.md\|Cocoon]]                                                             |
 | [[constellation/games/Colossal Cave Adventure.md\|Colossal Cave Adventure]]                           |
 | [[constellation/games/Contract Bridge.md\|Contract Bridge]]                                           |
+| [[constellation/games/Control Ultimate Edition.md\|Control Ultimate Edition]]                         |
 | [[constellation/games/Corru Observer.md\|Corru Observer]]                                             |
 | [[constellation/games/Cyberpunk 2077.md\|Cyberpunk 2077]]                                             |
 | [[constellation/games/Danganronpa.md\|Danganronpa]]                                                   |
@@ -81,10 +83,12 @@
 | [[constellation/games/Hyper Light Drifter.md\|Hyper Light Drifter]]                                   |
 | [[constellation/games/Ico.md\|Ico]]                                                                   |
 | [[constellation/games/Immortality.md\|Immortality]]                                                   |
+| [[constellation/games/Immortals of Aveum.md\|Immortals of Aveum]]                                     |
 | [[constellation/games/Inside.md\|Inside]]                                                             |
 | [[constellation/games/Into the Breach.md\|Into the Breach]]                                           |
 | [[constellation/games/Iron Harvest.md\|Iron Harvest]]                                                 |
 | [[constellation/games/ISS Vanguard.md\|ISS Vanguard]]                                                 |
+| [[constellation/games/It Takes Two.md\|It Takes Two]]                                                 |
 | [[constellation/games/Jedi Fallen Order.md\|Jedi Fallen Order]]                                       |
 | [[constellation/games/Jedi Survivor.md\|Jedi Survivor]]                                               |
 | [[constellation/games/Journey.md\|Journey]]                                                           |
@@ -147,6 +151,7 @@
 | [[constellation/games/The Case of the Golden Idol.md\|The Case of the Golden Idol]]                   |
 | [[constellation/games/The Elder Scrolls III Morrowind.md\|The Elder Scrolls III Morrowind]]           |
 | [[constellation/games/The Flower Collectors.md\|The Flower Collectors]]                               |
+| [[constellation/games/The Last of Us Part I.md\|The Last of Us Part I]]                               |
 | [[constellation/games/The Last of Us Part II.md\|The Last of Us Part II]]                             |
 | [[constellation/games/The Last of Us Remastered.md\|The Last of Us Remastered]]                       |
 | [[constellation/games/The Longing.md\|The Longing]]                                                   |
@@ -166,8 +171,11 @@
 | [[constellation/games/Twilight Imperium.md\|Twilight Imperium]]                                       |
 | [[constellation/games/Umurangi Generation.md\|Umurangi Generation]]                                   |
 | [[constellation/games/Unbeatable White Label.md\|Unbeatable White Label]]                             |
-| [[constellation/games/Uncharted.md\|Uncharted]]                                                       |
-| [[constellation/games/Uncharted 2.md\|Uncharted 2]]                                                   |
+| [[constellation/games/Uncharted 2 Remastered.md\|Uncharted 2 Remastered]]                             |
+| [[constellation/games/Uncharted 3 Remastered.md\|Uncharted 3 Remastered]]                             |
+| [[constellation/games/Uncharted 4 Remastered.md\|Uncharted 4 Remastered]]                             |
+| [[constellation/games/Uncharted Remastered.md\|Uncharted Remastered]]                                 |
+| [[constellation/games/Uncharted The Lost Legacy Remastered.md\|Uncharted The Lost Legacy Remastered]] |
 | [[constellation/games/Unpacking.md\|Unpacking]]                                                       |
 | [[constellation/games/Untitled Goose Game.md\|Untitled Goose Game]]                                   |
 | [[constellation/games/Valiant Hearts The Great War.md\|Valiant Hearts The Great War]]                 |
@@ -177,5 +185,6 @@
 | [[constellation/games/Wavelength.md\|Wavelength]]                                                     |
 | [[constellation/games/We Know the Devil.md\|We Know the Devil]]                                       |
 | [[constellation/games/Whist.md\|Whist]]                                                               |
+| [[constellation/games/Wild Hearts.md\|Wild Hearts]]                                                   |
 | [[constellation/games/Wingspan Digital Edition.md\|Wingspan Digital Edition]]                         |
 | [[constellation/games/Zork.md\|Zork]]                                                                 |

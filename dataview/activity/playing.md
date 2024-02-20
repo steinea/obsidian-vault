@@ -1,10 +1,8 @@
 ---
-permalink: activity
 cssclass: clean-embeds
 ---
 
 # Playing
-
 
 ![[playingnow]]
 
@@ -19,3 +17,7 @@ cssclass: clean-embeds
 <br>
 
 ![[playingstopped]]
+
+<br>
+
+![[playingmost]]

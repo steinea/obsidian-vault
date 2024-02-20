@@ -1,7 +1,7 @@
 ---
 title: Monument Valley
 date: 2018-10-21
-platform: Google Play
+platform: Google
 link: 
 duration: 
 trophies: 19/19

@@ -1,7 +1,7 @@
 ---
 title: Monument Valley 2
 date: 2018-11-26
-platform: Google Play
+platform: Google
 link: 
 duration: 
 trophies: 15/15

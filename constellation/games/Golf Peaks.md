@@ -1,7 +1,7 @@
 ---
 title: Golf Peaks
 date: 2023-07-16
-platform: Google Play
+platform: Google
 link: 
 duration: 
 trophies: 12/12

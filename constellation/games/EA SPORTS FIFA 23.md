@@ -1,12 +1,12 @@
 ---
 title: EA SPORTS FIFA 23
-date: 
+date: 2023-08-18
 platform: Steam
-link: 
-duration: 1d 9h
+link: https://steamcommunity.com/id/steinea/stats/1811260/achievements/
+duration: 34h
 trophies: 24/39
 progress: stopped
-permalink:
+permalink: 2023/08/18/ea-sports-fifa-23
 ---
 
 # EA SPORTS FIFA 23

@@ -1,7 +1,7 @@
 ---
-title: 'Golf Club: Wasteland'
+title: "Golf Club: Wasteland"
 date: 2021-11-04
-platform: Google Play
+platform: Google
 link: 
 duration: 
 trophies: 14/14

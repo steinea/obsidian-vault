@@ -1,12 +1,12 @@
 ---
 title: Forza Horizon 5
-date: 
+date: 2022-05-03
 platform: Game Pass
 link: 
 duration: 76h
 trophies: 52/137
 progress: stopped
-permalink:
+permalink: 2022/05/03/forza-horizon-5
 ---
 
 # Forza Horizon 5
