@@ -9,11 +9,11 @@ cssclass: clean-embeds
 
 <br>
 
-![[juvenilia-3]]
+![[juvenilia3]]
 
 <br>
 
-![[field-notes-2]]
+![[fieldnotes2]]
 
 <br>
 
@@ -21,7 +21,7 @@ cssclass: clean-embeds
 
 <br>
 
-![[excurses-3]]
+![[excurses3]]
 
 <br>
 
@@ -29,11 +29,11 @@ cssclass: clean-embeds
 
 <br>
 
-![[excurses-2]]
+![[excurses2]]
 
 <br>
 
-![[juvenilia-2]]
+![[juvenilia2]]
 
 <br>
 
@@ -45,4 +45,4 @@ cssclass: clean-embeds
 
 <br>
 
-![[field-notes]]
+![[fieldnotes]]
