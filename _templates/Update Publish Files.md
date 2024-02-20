@@ -6,7 +6,7 @@ const openPublishPanel = app.commands.commands["publish:view-changes"].callback;
 const fileAndQuery = new Map([
   [
 	"dataview-activity",
-	'LIST FROM "dataview/activity" AND -"dataview/activity/playingcompleted" AND -"dataview/activity/playingnext" AND -"dataview/activity/playingnow" AND -"dataview/activity/playingstopped" SORT file.name ASC',
+	'LIST FROM "dataview/activity" AND -"dataview/activity/playedmost" AND -"dataview/activity/playingcompleted" AND -"dataview/activity/playingnext" AND -"dataview/activity/playingnow" AND -"dataview/activity/playingstopped" SORT file.name ASC',
   ],
   [
 	"dataview-collections",
@@ -41,19 +41,23 @@ const fileAndQuery = new Map([
   ],
   [
 	"playingnow",
-	'TABLE WITHOUT ID file.link AS "Now", platform, duration, trophies FROM "constellation/games" WHERE progress = "now" SORT file.name ASC',
+	'TABLE WITHOUT ID file.link AS "Now", platform AS Platform, duration.hours AS "Hours", trophies AS Trophies FROM "constellation/games" WHERE progress = "now" SORT file.name ASC',
   ],
   [
 	"playingnext",
-	'TABLE WITHOUT ID file.link AS "Next", platform, howlongtobeat FROM "constellation/games" WHERE progress = "next" SORT platform, file.name ASC',
+	'TABLE WITHOUT ID file.link AS "Next", platform AS Platform, howlongtobeat.hours AS "Hours" FROM "constellation/games" WHERE progress = "next" SORT platform, file.name ASC',
   ],
   [
 	"playingcompleted",
-	'TABLE WITHOUT ID file.link AS "Completed", date, platform, duration, trophies FROM "constellation/games" WHERE progress = "complete" SORT date DESC',
+	'TABLE WITHOUT ID file.link AS "Completed", platform AS Platform, duration.hours AS "Hours", trophies AS Trophies, date AS Date FROM "constellation/games" WHERE progress = "complete" SORT date DESC',
   ],
   [
 	"playingstopped",
-	'TABLE WITHOUT ID file.link AS "Stopped", date, platform, duration, trophies FROM "constellation/games" WHERE progress = "stopped" SORT file.name ASC',
+	'TABLE WITHOUT ID file.link AS "Stopped", platform AS Platform, duration.hours AS "Hours", trophies AS Trophies, date AS Date FROM "constellation/games" WHERE progress = "stopped" SORT file.name ASC',
+  ],
+  [
+	"playingmost",
+	'TABLE WITHOUT ID file.link AS "Most", platform AS Platform, duration.hours AS "Hours" FROM "constellation/games" WHERE progress != "next" SORT duration DESC LIMIT 20',
   ],
   [
     "posting",
