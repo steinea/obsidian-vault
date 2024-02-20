@@ -1,6 +1,6 @@
 # Schools
 
-[[constellation]]
+[[Constellation]]
 
 ```dataview
 

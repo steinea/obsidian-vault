@@ -1,6 +1,6 @@
 # Climate
 
-[[constellation]]
+[[Constellation]]
 
 ```dataview
 

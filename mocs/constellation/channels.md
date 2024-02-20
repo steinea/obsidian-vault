@@ -1,6 +1,6 @@
 # Channels
 
-[[constellation]]
+[[Constellation]]
 
 ```dataview
 

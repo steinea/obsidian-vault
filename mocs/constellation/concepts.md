@@ -1,6 +1,6 @@
 # Concepts
 
-[[constellation]]
+[[Constellation]]
 
 ```dataview
 

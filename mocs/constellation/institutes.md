@@ -1,6 +1,6 @@
 # Institutes
 
-[[constellation]]
+[[Constellation]]
 
 
 ```dataview

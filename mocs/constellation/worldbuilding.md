@@ -1,6 +1,6 @@
 # Worldbuilding
 
-[[constellation]]
+[[Constellation]]
 
 ```dataview
 

@@ -1,6 +1,6 @@
 # Magazines
 
-[[constellation]]
+[[Constellation]]
 
 ```dataview
 

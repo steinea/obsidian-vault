@@ -4,8 +4,6 @@ permalink: bibliographies
 
 # Bibliographies
 
-[[collections]]
-
 ```dataview
 
 TABLE author, date, tags

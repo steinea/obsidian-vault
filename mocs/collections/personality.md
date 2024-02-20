@@ -3,5 +3,3 @@ permalink: personality
 ---
 
 # Personality
-
-[[collections]]

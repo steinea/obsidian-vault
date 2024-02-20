@@ -1,6 +1,6 @@
 # Tools
 
-[[constellation]]
+[[Constellation]]
 
 ```dataview
 

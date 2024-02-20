@@ -1,6 +1,6 @@
 # Collectives
 
-[[constellation]]
+[[Constellation]]
 
 ```dataview
 

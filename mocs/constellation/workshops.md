@@ -1,6 +1,6 @@
 # Workshops
 
-[[constellation]]
+[[Constellation]]
 
 ```dataview
 

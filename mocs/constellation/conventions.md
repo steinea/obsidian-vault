@@ -1,6 +1,6 @@
 # Conventions
 
-[[constellation]]
+[[Constellation]]
 
 ```dataview
 

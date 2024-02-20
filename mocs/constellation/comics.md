@@ -1,6 +1,6 @@
 # Comics
 
-[[constellation]]
+[[Constellation]]
 
 ```dataview
 

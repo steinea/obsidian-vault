@@ -1,6 +1,6 @@
 # Funds
 
-[[constellation]]
+[[Constellation]]
 
 ```dataview
 

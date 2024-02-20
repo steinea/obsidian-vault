@@ -1,6 +1,6 @@
 # People
 
-[[constellation]]
+[[Constellation]]
 
 ```dataview
 

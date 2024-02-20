@@ -1,6 +1,6 @@
 # Jams
 
-[[constellation]]
+[[Constellation]]
 
 ```dataview
 

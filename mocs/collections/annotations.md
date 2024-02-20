@@ -4,8 +4,6 @@ permalink: annotations
 
 # ✏️ Annotations
 
-[[collections]]
-
 ```dataview
 
 TABLE date

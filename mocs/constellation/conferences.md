@@ -1,6 +1,6 @@
 # Conferences
 
-[[constellation]]
+[[Constellation]]
 
 ```dataview
 

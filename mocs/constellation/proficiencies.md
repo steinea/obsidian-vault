@@ -1,6 +1,6 @@
 # Proficiencies
 
-[[constellation]]
+[[Constellation]]
 
 ```dataview
 

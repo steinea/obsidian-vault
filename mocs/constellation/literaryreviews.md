@@ -1,6 +1,6 @@
 # Literary Reviews
 
-[[constellation]]
+[[Constellation]]
 
 ```dataview
 

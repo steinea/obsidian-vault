@@ -1,6 +1,6 @@
 # Places
 
-[[constellation]]
+[[Constellation]]
 
 ```dataview
 

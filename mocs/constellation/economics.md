@@ -1,6 +1,6 @@
 # Economics
 
-[[constellation]]
+[[Constellation]]
 
 ```dataview
 

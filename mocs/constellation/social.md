@@ -1,6 +1,6 @@
 # Social
 
-[[constellation]]
+[[Constellation]]
 
 ```dataview
 

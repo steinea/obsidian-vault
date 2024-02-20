@@ -1,6 +1,6 @@
 # Lego
 
-[[constellation]]
+[[Constellation]]
 
 ```dataview
 

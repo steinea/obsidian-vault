@@ -1,6 +1,6 @@
 # Games
 
-[[constellation]]
+[[Constellation]]
 
 ```dataview
 

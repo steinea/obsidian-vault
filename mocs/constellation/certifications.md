@@ -1,6 +1,6 @@
 # Certifications
 
-[[constellation]]
+[[Constellation]]
 
 ```dataview
 

@@ -4,8 +4,6 @@ permalink: commonplace
 
 # Commonplace
 
-[[collections]]
-
 ```dataview
 
 TABLE date

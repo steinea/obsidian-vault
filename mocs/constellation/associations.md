@@ -1,6 +1,6 @@
 # Associations
 
-[[constellation]]
+[[Constellation]]
 
 ```dataview
 

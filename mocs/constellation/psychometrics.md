@@ -1,6 +1,6 @@
 # Psychometrics
 
-[[constellation]]
+[[Constellation]]
 
 ```dataview
 

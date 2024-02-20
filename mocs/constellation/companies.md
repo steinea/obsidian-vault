@@ -1,6 +1,6 @@
 # Companies
 
-[[constellation]]
+[[Constellation]]
 
 ```dataview
 

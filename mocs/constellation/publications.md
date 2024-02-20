@@ -1,6 +1,6 @@
 # Publications
 
-[[constellation]]
+[[Constellation]]
 
 ```dataview
 
