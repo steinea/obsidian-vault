@@ -3,11 +3,11 @@ title: Open Roads
 date: 
 platform: Steam
 link: 
-howlongtobeat:
-duration:
+howlongtobeat: 
+duration: 
 trophies: 
-progress: toplay
-permalink: 
+progress: next
+permalink:
 ---
 
 # Open Roads

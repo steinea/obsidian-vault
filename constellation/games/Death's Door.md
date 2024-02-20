@@ -4,10 +4,10 @@ date:
 platform: Game Pass
 link: 
 howlongtobeat: 15h
-duration:
+duration: 
 trophies: 
-progress: toplay
-permalink: 
+progress: next
+permalink:
 ---
 
 # Death’s Door

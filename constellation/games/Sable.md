@@ -5,7 +5,7 @@ platform: Game Pass
 link: 
 duration: 1h
 trophies: 3/56
-progress: playing
+progress: now
 permalink:
 ---
 

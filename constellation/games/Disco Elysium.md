@@ -5,7 +5,7 @@ platform: Steam
 link: 
 duration: 41h
 trophies: 32/45
-progress: playing
+progress: now
 permalink:
 ---
 

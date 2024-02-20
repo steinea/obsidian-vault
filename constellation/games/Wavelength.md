@@ -5,7 +5,7 @@ platform: Google Play
 link: 
 duration: 
 trophies: 12/13
-progress: playing
+progress: now
 permalink:
 ---
 

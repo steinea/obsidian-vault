@@ -4,10 +4,10 @@ date:
 platform: Steam
 link: 
 howlongtobeat: 6h
-duration:
+duration: 
 trophies: 
-progress: toplay
-permalink: 
+progress: next
+permalink:
 ---
 
 # MirrorMoon EP

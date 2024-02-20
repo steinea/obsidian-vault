@@ -4,10 +4,10 @@ date:
 platform: Game Pass
 link: 
 howlongtobeat: 4h
-duration:
+duration: 
 trophies: 
-progress: toplay
-permalink: 
+progress: next
+permalink:
 ---
 
 # Somerville

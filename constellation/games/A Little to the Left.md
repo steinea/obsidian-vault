@@ -4,10 +4,10 @@ date:
 platform: Steam
 link: 
 howlongtobeat: 8h
-duration:
+duration: 
 trophies: 
-progress: toplay 
-permalink: 
+progress: next
+permalink:
 ---
 
 # A Little to the Left

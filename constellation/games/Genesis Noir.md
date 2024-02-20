@@ -6,7 +6,7 @@ link:
 howlongtobeat: 5h
 duration: 
 trophies: 
-progress: toplay
+progress: next
 permalink:
 ---
 

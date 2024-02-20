@@ -3,11 +3,11 @@ title: Six Ages 2 Lights Going Out
 date: 
 platform: Steam
 link: 
-howlongtobeat:
-duration:
+howlongtobeat: 
+duration: 
 trophies: 
-progress: toplay
-permalink: 
+progress: next
+permalink:
 ---
 
 # Six Ages 2: Lights Going Out

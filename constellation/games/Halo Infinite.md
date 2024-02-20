@@ -5,7 +5,7 @@ platform: Game Pass
 link: https://www.exophase.com/game/halo-infinite-xbox/achievements/#2209141
 duration: 296h
 trophies: 131/144
-progress: playing
+progress: now
 permalink: 2023/10/06/halo-infinite
 ---
 

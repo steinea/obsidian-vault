@@ -6,7 +6,7 @@ link:
 howlongtobeat: 200h
 duration: 
 trophies: 
-progress: toplay
+progress: next
 permalink:
 ---
 

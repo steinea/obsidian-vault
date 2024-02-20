@@ -5,7 +5,7 @@ platform: PS4
 link: 
 duration: 
 trophies: 16/53
-progress: playing
+progress: now
 permalink:
 ---
 
