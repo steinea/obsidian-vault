@@ -1,3 +1,1 @@
 # Sleeping
-
-[[activity]]

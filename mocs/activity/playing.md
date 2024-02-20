@@ -1,6 +1,5 @@
 # Playing
 
-[[activity]]
 
 #### Playing
 

@@ -1,3 +1,1 @@
 # Listening
-
-[[activity]]

@@ -1,3 +1,1 @@
 # Exercising
-
-[[activity]]

@@ -1,3 +1,1 @@
 # Watching
-
-[[activity]]
