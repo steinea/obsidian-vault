@@ -1,8 +1,8 @@
 %% #Ignore update via "Update Publish Files" template %% 
 
-- [[mocs/collections/annotations.md|annotations]]
-- [[mocs/collections/bibliographies.md|bibliographies]]
-- [[mocs/collections/commonplace.md|commonplace]]
-- [[mocs/collections/personality.md|personality]]
-- [[mocs/collections/study.md|study]]
-- [[mocs/collections/teaching.md|teaching]]
+- [[dataview/collections/annotations.md|annotations]]
+- [[dataview/collections/bibliographies.md|bibliographies]]
+- [[dataview/collections/commonplace.md|commonplace]]
+- [[dataview/collections/personality.md|personality]]
+- [[dataview/collections/study.md|study]]
+- [[dataview/collections/teaching.md|teaching]]
