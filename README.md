@@ -16,7 +16,7 @@ To start exploring this site, check out the sitemap below and click through to w
 * 🗃️ [[Collections]]
 * ✨ [[Constellation]]
 * 💼 [[Resume]]
-* 🕒 [[Timeline]]
+* 🕒 [[dataview/timeline]]
 
 <br>
 
