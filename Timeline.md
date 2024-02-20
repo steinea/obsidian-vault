@@ -5,4 +5,4 @@ cssclass: clean-embeds
 
 # 🕒 Timeline
 
-![[dataview-timeline]]
+![[dataview/timeline|timeline]]
