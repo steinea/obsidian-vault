@@ -1,0 +1,102 @@
+table { 
+   width: 100%; 
+}
+
+tbody>tr>:nth-child(2) {
+   width: 25%;
+
+}
+
+
+/* Tables */
+
+.markdown-preview-view th {
+  border-top:none;
+}
+.markdown-preview-view th:last-child,
+.markdown-preview-view td:last-child {
+  border-right:none;
+}
+.markdown-preview-view th:first-child,
+.markdown-preview-view td:first-child {
+  border-left:none;
+  padding-left:0;
+}
+.markdown-preview-view tr:last-child td {
+  border-bottom:none;
+  margin-bottom:50px;
+}
+
+
+/*
+    clean-embeds.css snippet
+
+    Removes title, link, padding, margins from embeds,
+    so they really look like the same note.
+
+    To be used with `cssclass: clean-embeds` in YAML frontmatter.
+
+    2021-08-24 Matthias C. Hormann (Moonbase59)
+*/
+
+/* remove title and the table from the "Metatable" plugin */
+.markdown-preview-view.clean-embeds .markdown-embed-title,
+.markdown-preview-view.clean-embeds .obsidian-metatable {
+  display: none;
+}
+
+
+/* remove embed link */
+.markdown-preview-view.clean-embeds .markdown-embed-link,
+.markdown-preview-view.clean-embeds .file-embed-link {
+  display: none;
+}
+
+
+/* remove border and scroll */
+/* unfortunately needs !important for some themes */
+.markdown-preview-view.clean-embeds .markdown-embed,
+.markdown-preview-view.clean-embeds .file-embed {
+  border: none !important;
+  padding: 0 !important;
+  margin: 0 !important;
+}
+
+.markdown-preview-view.clean-embeds .markdown-embed-content,
+.markdown-preview-view.clean-embeds .markdown-embed-content > .markdown-preview-view { 
+  max-height: unset;
+  padding: 0 !important; /* !important for "Pisum" theme */
+  margin: 0;
+  border: 0;
+}
+
+/* remove <br> between internal embeds */
+.clean-embeds .markdown-preview-section div > br {
+  display: none;
+}
+
+
+/* remove vertical space added by markdown-preview-sizer */
+.clean-embeds div.markdown-preview-sizer.markdown-preview-section {
+  min-height: unset !important;
+  padding-bottom: 0 !important;
+}
+
+/* special considerations for printing (PDF export) */
+@media print {
+
+  /* remove frontmatter box if "Show frontmatter" was enabled */
+  /* Also remove metadata table from "Metatable" plugin */
+  pre.frontmatter,
+  .obsidian-metatable {
+    display: none;
+  }
+}
+Install and activate
+Copy the CSS code and save it into your vault’s .obsidian/snippets folder under the name clean-embeds.css.
+
+Restart Obsidian.
+
+Enable clean-embeds under Settings → Appearance → CSS snippets.
+
+Add this to your YAML frontmatter for notes that should use clean 
