@@ -1,5 +1,0 @@
----
-permalink: teaching
----
-
-# 🎓 Teaching

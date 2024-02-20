@@ -1,5 +1,0 @@
----
-permalink: personality
----
-
-# Personality
