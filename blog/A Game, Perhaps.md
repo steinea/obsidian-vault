@@ -8,7 +8,7 @@ permalink: 2021/02/18/a-game-perhaps
 
 # A Game, Perhaps
 
-[[2021]] / [[blog]]
+[[2021]] / [[Blog]]
 
 A list is a textual algorithm, or what we might also call a *game*.
 

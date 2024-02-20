@@ -9,7 +9,7 @@ permalink: 2016/12/14/the-demand-of-the-text
 
 # The Demand of the Text
 
-[[2016]] / [[blog]]
+[[2016]] / [[Blog]]
 
 #### 1. Language, Being, and Infinity
 

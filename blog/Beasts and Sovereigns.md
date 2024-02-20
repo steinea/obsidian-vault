@@ -9,7 +9,7 @@ permalink: 2023/06/01/beasts-and-sovereigns
 
 # Beasts and Sovereigns
 
-[[2023]] / [[blog]]
+[[2023]] / [[Blog]]
 
 Since my graduate studies, I have been much interested in the figure of the *beast*, and the "couple, coupling, [and] copula" it forms with the figure of the *sovereign*.[^1] I have also devoted thousands upon thousands of words over this same period to the deconstructive work performed by FromSoftware's *Souls* games, games which, I have argued, deliberately invoke the tropes and trappings of western fantasy---inspired by the likes of *Sorcery!*, *Rune Quest*, *Dragon Pass*, and of course, *Dungeons and Dragons*[^2]---while introducing a *torsion* or *tremor* to the implicit metaphysics of the genre, which is also to say, to the implicit metaphysics of the west proper.[^3] On the surface, and most plainly in the three *Dark Souls* games---*Dark Souls* (2011), *Dark Souls II* (2014), and *Dark Souls III* (2016)[^4]---FromSoftware deploys the rhetoric of western sovereignty in the figures of the fire and the sun, only to subvert these figures through an injection of *difference*---the dark---and later through a proliferation of *multiplicities*.[^5] FromSoftware stages a resurgence of the philosophical *cave* (the kiln, the deep, the night, the womb), the groundless ground, the void, the boundless, the supersaturated nothing, deliberately choosing for this primordial reality to be something hidden, something forgotten, that only through play is disclosed.[^6] This is a total work,[^7] not only carried out in the narratives and metaphysics of FromSoftware's games, but in their mechanics[^8] and ecology[^9]---and, as I will argue in this paper, through a specific set of characters and their stories, those titular beasts and sovereigns.
 

@@ -8,7 +8,7 @@ permalink: 2019/01/08/chasm
 
 # Chasm, 1
 
-[[2019]] / [[blog]]
+[[2019]] / [[Blog]]
 
 I am facing this chasm of thought, a chasm I feel in the time it has taken to type these words, the time it has taken to get here, to the unspooling of an intuition, or whatever you might call this sensation lurking in my guts.
 

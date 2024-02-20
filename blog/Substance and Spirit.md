@@ -9,7 +9,7 @@ permalink: 2017/04/19/substance-and-spirit
 
 # Substance and Spirit
 
-[[2017]] / [[blog]]
+[[2017]] / [[Blog]]
 
 #### I. Introduction
 

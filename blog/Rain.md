@@ -8,7 +8,7 @@ permalink: 2022/07/15/rain
 
 # Rain
 
-[[2022]] / [[blog]]
+[[2022]] / [[Blog]]
 
 Rain today, and some wind. First I’ve seen the inlet disturbed. The water has been so still and smooth since we got here. It was humid last night, in advance of the weather coming in, and today I’ve felt the moisture in my left knee and ankle, reminders of injuries that refuse to entirely heal.
 

@@ -8,7 +8,7 @@ permalink: 2022/07/14/corridors-and-more
 
 # Corridors and More
 
-[[2022]] / [[blog]]
+[[2022]] / [[Blog]]
 
 On *corridor thinking* from yesterday, Donna Haraway provides a short bibliography for further reading:
 

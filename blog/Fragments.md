@@ -8,7 +8,7 @@ permalink: 2016/06/27/fragments
 
 # Fragments
 
-[[2016]] / [[blog]]
+[[2016]] / [[Blog]]
 
 Words words words---colliding, rebounding, recoiling. Too many with too little time, stretching on and on, chains and chains of chains, the structure fraying and disintegrating into a boundless field of meaningless data. It becomes a full-time job, sifting through this mass, curating the heap, anthologizing the clutter. Surfaces and forms without content, groundless symbols, the absence not only of sense but of nonsense too, pure static, white noise. We function through automated experience, barely registering the present input as we hurtle on to the next thing, driven by this algorithmic necessity that consistently falls short of desire, and so also its satisfaction. Our word processors are us, our attention cursory, ticking from character to character, string to string, list to list. Knowledge fragments into bits and recombines into something we can process, something we can consume, and so we also become a part of the stream.
 

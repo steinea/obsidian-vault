@@ -9,7 +9,7 @@ permalink: 2016/10/17/the-necessity-of-nothing
 
 # The Necessity of Nothing
 
-[[2016]] / [[blog]]
+[[2016]] / [[Blog]]
 
 Upon encountering the work of Pseudo-Dionysius the Areopagite, many readers enter into conversations about the 'danger' of his thought. This 'danger' is particularly at issue in Pseudo-Dionysius's *Mystical Theology,* the small text that acts as a sort of guide to his entire corpus. Pseudo-Dionysius cannot be read without reference to *The Mystical Theology,* without reckoning with his theology of "divine darkness" (135), of "unseeing and unknowing" (138), and because of this even the more 'conservative' of his texts, such as *The Divine Names,* are, in a way, tainted with his apophatic inclinations. Pseudo-Dionysius (and negative or apophatic theology more broadly) is seen as dangerous by some because, when detached from the positivity of dogma, the risk of doctrinal error is perceived to increase. The unknowability and infinity of God is commonly accepted, but to embrace negativity, that is, to "know\[\] beyond the mind by knowing nothing" (137), is seen by many as discarding reason entirely. This is seen as an opening for heresy. Especially in Protestantism, wherein the tradition of the Church and the Fathers has been supplanted by *sola scriptura* and the individual's interpretive capacity, to put reason aside is not just risky but foolhardy. In fearing works like *The Mystical Theology,* however, we neglect to comprehend a reality that shapes so much of our experience in the world, that *knowing nothing* is not an error or a heresy but an essential part of human understanding, and is in fact necessary for it.
 

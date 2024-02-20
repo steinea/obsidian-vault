@@ -8,4 +8,4 @@ permalink: 2021/04/21/empedocles-and-melissus
 
 # Empedocles and Melissus
 
-[[2021]] / [[blog]]
+[[2021]] / [[Blog]]

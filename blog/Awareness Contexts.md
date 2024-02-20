@@ -8,7 +8,7 @@ permalink: 2022/09/15/awareness-contexts
 
 # Awareness Contexts
 
-[[2022]] / [[blog]]
+[[2022]] / [[Blog]]
 
 In Gary Alan Fine's [*Shared Fantasy: Role-Playing Games as Social Worlds*](https://books.google.ca/books/about/Shared_Fantasy.html?id=rLlLbN0XuSEC) (1983), Fine cites the earlier work by Barney Glaser and Anselm Strauss, “Awareness Contexts and Social Interaction” (1964), drawing on the four awareness contexts they propose—open, closed, suspicion, and pretense—to articulate his own theory of frames and games.
 

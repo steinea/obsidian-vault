@@ -9,7 +9,7 @@ permalink: 2019/03/09/thoreaus-cabin
 
 # Thoreau’s Cabin
 
-[[2019]] / [[blog]]
+[[2019]] / [[Blog]]
 
 #### I
 

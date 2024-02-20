@@ -8,4 +8,4 @@ permalink: 2021/03/08/heraclitus
 
 # Heraclitus
 
-[[2021]] / [[blog]]
+[[2021]] / [[Blog]]

@@ -9,7 +9,7 @@ permalink: 2016/10/26/fields-of-knowing
 
 # Fields of Knowing
 
-[[2016]] / [[blog]]
+[[2016]] / [[Blog]]
 
 Though slight, Michael Polanyi's *The Tacit Dimension* makes some enormous claims. Over the course of the three lectures contained in the book the enormity of Polanyi's argument "emerges" (true to his thesis) remarkably quickly, unfolding through often mind-boggling, but generally convincing, lines of reasoning. In the foreword to the text Amartya Sen writes that the "rapid-fire sequences of insights" that Polanyi articulates "without much pause for examining alternative interpretations and possible counterarguments" can "be a source of relief and delight for the general reader interested in philosophical ideas" (xv). I would argue against Sen, however, in that the quantum physical musings which Polanyi pursues near the conclusion of his text are sufficient in themselves to baffle this so called "general reader." *The Tacit Dimension* is not for the layman, not a work of popular science or philosophy, but an intensely intellectual, jarringly intuitive, and logically difficult work. If one approaches it as such, however, as a philosophical work demanding reflection, rigorous reasoning, and a healthy dose of "commitment" (again a Polanyian theme) the text should prove fruitful. "Hidden," as it were, behind the unassuming surface of Polanyi's text, is a radical reimagining of reality that should not be ignored.
 

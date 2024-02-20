@@ -8,7 +8,7 @@ permalink: 2016/11/16/the-responsibility-of-freedom
 
 # The Responsibility of Freedom
 
-[[2016]] / [[blog]]
+[[2016]] / [[Blog]]
 
 For Michael Polanyi, the "study of man" requires an "ultimate commitment" (98). History, morality, religion---each of these anthropological studies is predicated on this commitment, on a *responsible* act of "recognizing," "judging," and "deciding" (95, 96). Where many would relegate such personal involvement solely to the domain of the human sciences, however, Polanyi argues that the personal cannot be excluded from the pure or natural sciences either. Indeed, all knowledge, all discovery, regardless of domain, depends on personal commitment. In *The Study of Man* (1958), then, precursor to *The Tacit Dimension* (1966) discussed previously in this course, we see Polanyi wrestling with many of the same ideas, but here, contrary to the speculative bent of *The Tacit Dimension,* Polanyi does so in order to mount a defense of the human and the human sciences. The study of man is of vital importance because man cannot be reduced to the workings of biology, chemistry, or physics. There is no simple equation for humanity---attempts at such tend toward one of three fallacies: rationalism, relativism, or determinism (88). In each, man is reduced, made an object to himself. But in Polanyi's thought, man can never be rendered less than what he is, can never be totally determined by external forces: human subjectivity is always entangled with the objective world, a real force possessed of agency and responsibility. Certainly, human physiology obeys objective laws of physics, chemistry, and biology, but *humanity* is more than physiology, in a way that can be described simply here as *freedom*.
 

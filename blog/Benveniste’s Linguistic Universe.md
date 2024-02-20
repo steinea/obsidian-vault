@@ -8,7 +8,7 @@ permalink: 2017/08/21/benvenistes-linguistic-universe
 
 # Benveniste’s Linguistic Universe
 
-[[2017]] / [[blog]]
+[[2017]] / [[Blog]]
 
 Unlike the texts reviewed previously for this course, Emile Benveniste's *Problems in General Linguistics* (1966) does not present the reader with a project or overarching methodology, but rather with a series of essays responding to various linguistic matters---his titular "problems." This is no detriment to our own purpose, however, in charting the development of semiology through Saussure's successors. Benveniste is a capable and clear-eyed scholar, and his various insights presented in this collection indicate a keen awareness of the possibilities and the difficulties of Saussure's legacy. Benveniste is especially useful with respect to the divide between form and substance, and the near constant oscillation between these paradigms that the divide effected in the discipline. He is well aware of the radical basis of the Saussurean revolution, and strives to maintain it, while also endeavouring to work out some of its more persistent kinks. The following paper will attempt to distill the arguments of Benveniste's *Problems*, to identify where he adheres to, deepens, or critiques Saussure, and to reckon with the problems that remain for us at the end of the text. Specifically, there is one problem that will take much of our attention, that of "a universe which our language has first shaped," a point which Benveniste's nuanced studies make patently clear (6).
 

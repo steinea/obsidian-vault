@@ -8,7 +8,7 @@ permalink: 2015/06/01/adventures-in-untranslation
 
 # Adventures in (Un)translation
 
-[[2015]] / [[blog]]
+[[2015]] / [[Blog]]
 
 I want to apply some of my thinking, here, to a rather entertaining experience from today.
 

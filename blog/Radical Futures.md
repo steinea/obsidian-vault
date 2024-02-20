@@ -8,7 +8,7 @@ permalink: 2023/03/01/radical-futures
 
 # Radical Futures
 
-[[2023]] / [[blog]]
+[[2023]] / [[Blog]]
 
 I'm hosting the [#radicalfuturesjam](https://twitter.com/hashtag/radicalfuturesjam) in collaboration with [SPRAG: The Society for the Promotion of Radical Analog Games](https://reimaginingvalue.ca/sprag/). It runs until the end of April, and welcomes all who dream of transforming our social systems and networks of relation for the better.
 

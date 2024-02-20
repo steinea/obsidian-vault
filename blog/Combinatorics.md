@@ -9,7 +9,7 @@ permalink: 2021/04/26/combinatorics
 
 # Combinatorics
 
-[[2021]] / [[blog]]
+[[2021]] / [[Blog]]
 
 In my paper "From Governance to Planning,"[^1] I draw on Jean Baudrillard's description of hyperreality as "produced from a radiating synthesis of combinatory models in a hyperspace without atmosphere" in order to attempt an articulation of a *post-representational real*, the real without double.[^2] This articulation leads to a model of "combinatorial planetarity" that is, in Baudrillard's words, "programmatic, metastable, [and] perfectly descriptive."[^3] There is no longer a need for a *syntax* of the real, a philosophical representation of *what is*, but only for a "*science of appearances*," an "intimate combinatorics" that performs the "labour of analyzing, designing, enumerating, graphing, grouping, and ordering" without reference to an *outside*.[^4]
 

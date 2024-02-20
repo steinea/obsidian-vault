@@ -8,7 +8,7 @@ permalink: 2022/07/19/numeration
 
 # Numeration
 
-[[2022]] / [[blog]]
+[[2022]] / [[Blog]]
 
 Over the weekend, I was contacted by a cousin from a long lost branch of the family, which had severed ties back in the sixties. She and her father had started doing research into their family tree, since most of the information that they had was lost when her grandfather died. She stumbled across a partial family tree that I had uploaded to Ancestry back in 2013, and realized that our great grandmothers were sisters. I mentioned her to my grandmother, and she was full of stories of her childhood with the cousins of that generation prior to the schism; my cousin in turn had some stories featuring my great aunt and my great grandmother from before when my grandmother was born.
 

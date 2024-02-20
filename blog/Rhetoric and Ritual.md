@@ -11,7 +11,7 @@ permalink: 2013/11/24/rhetoric-and-ritual
 
 ### Discourses of Sacrifice and Violence in America
 
-[[2013]] / [[blog]]
+[[2013]] / [[Blog]]
 
 Of Hawthorne's stories, "Young Goodman Brown" and "My Kinsman, Major Molineux" stand out as particularly dark and twisted examples of his craft. Concerned with the inherent violence of humanity, each text centers around a specifically tumultuous point in the history of America. Roughly thirty years after they were published, Hawthorne would explore the tumult of his own day in an article for *The Atlantic.* In it, he is repeatedly censored for his scandalous remarks about the war and his criticism of the rhetoric used by politicians to justify the brutality of the conflict. President Bush would unwittingly employ similar language to address the still reeling nation in the aftermath of the devastating attack on the World Trade Center, praising the "eloquent acts of sacrifice" that normal Americans had made, and denouncing the terrorists as "enemies of human freedom" (Bush). Little did he know the lasting impact his words would have on the face of the world, let alone the profound resonance they would share with his country's troubled past. America is a nation built on ritualized violence, a reality Hawthorne knew all too well. Through an engagement with his writing we can begin to see how the history of the United States is entirely coloured by the blood of patriots and those they fought against, and why the matter of violence in America is just as relevant today as it was one hundred and fifty years ago.
 

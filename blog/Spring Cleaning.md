@@ -8,7 +8,7 @@ permalink: 2023/04/10/spring-cleaning
 
 # Spring Cleaning
 
-[[2023]] / [[blog]]
+[[2023]] / [[Blog]]
 
 So much work over the dark months on this website, such a proliferation of words and pages---possibly too much, or at least too much for me to manage simultaneously. I'm going to wind down updating this journal and focus my efforts elsewhere. I've been pondering a replacement using [ActivityPub](https://activitypub.rocks/), which would also replace my current Twitter and Mastodon accounts. But we will see.
 

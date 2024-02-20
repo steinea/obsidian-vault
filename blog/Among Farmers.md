@@ -8,7 +8,7 @@ permalink: 2020/07/31/among-farmers
 
 # Among Farmers
 
-[[2020]] / [[blog]]
+[[2020]] / [[Blog]]
 
 *Among Farmers* is a work of tactical agriculture. It is a game to be played literally, ideologically, and affectionately. To play, our thought must be engaged concretely, materially, in everyday experience: in our bodies, in our worlds, and with our others.
 

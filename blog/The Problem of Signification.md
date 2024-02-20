@@ -8,7 +8,7 @@ permalink: 2017/08/31/the-problem-of-signification
 
 # The Problem of Signification
 
-[[2017]] / [[blog]]
+[[2017]] / [[Blog]]
 
 #### Introduction
 

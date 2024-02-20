@@ -8,7 +8,7 @@ permalink: 2022/09/09/numbers-and-games
 
 # Numbers and Games
 
-[[2022]] / [[blog]]
+[[2022]] / [[Blog]]
 
 The fact that the description of games in [combinatorial game theory](https://en.wikipedia.org/wiki/Combinatorial_game_theory#Overview) uses the notation &#123; L &#124; R &#125;, a deliberate application of [Dedekind’s cut](https://en.wikipedia.org/wiki/Dedekind_cut) by which he [constructed the set of the real numbers](https://en.wikipedia.org/wiki/Construction_of_the_real_numbers), strikes me as quite remarkable.
 

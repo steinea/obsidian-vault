@@ -11,7 +11,7 @@ permalink: 2023/09/16/determined-figures
 
 ### Empiricism and Subjectivity, 3
 
-[[2023]] / [[blog]]
+[[2023]] / [[Blog]]
 
 <br>
 

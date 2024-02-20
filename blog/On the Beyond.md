@@ -8,7 +8,7 @@ permalink: 2015/07/04/on-the-beyond
 
 # On the Beyond
 
-[[2015]] / [[blog]]
+[[2015]] / [[Blog]]
 
 We material beings are caught between causation and probability, the asymmetric and symmetric, the temporal and the infinite. Regardless of one's philosophical school, whether transcendental Platonist or material Aristotelian, given what we know of the universe through modern physics and mathematics (as discussed in the previous essay), it would seem that we are, in fact, ruled in such a way, subject to two (radically, and, as of
 yet, [irreconcilably](https://en.wikipedia.org/wiki/Theory_of_everything)) different theories.[^1]

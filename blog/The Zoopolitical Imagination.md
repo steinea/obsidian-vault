@@ -9,7 +9,7 @@ permalink: 2017/04/12/the-zoopolitical-imagination
 
 # The Zoopolitical Imagination
 
-[[2017]] / [[blog]]
+[[2017]] / [[Blog]]
 
 #### Introduction
 

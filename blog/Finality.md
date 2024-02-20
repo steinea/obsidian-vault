@@ -8,7 +8,7 @@ permalink: 2015/07/20/finality
 
 # Finality
 
-[[2015]] / [[blog]]
+[[2015]] / [[Blog]]
 
 All things end. This idea---the transience of existence---has been much on my mind this semester. If you have been following along with the essays here, you should be well acquainted with this preoccupation of mine---and perhaps vaguely depressed by it. Contemplating the end of all things is not the most uplifting pass time.
 

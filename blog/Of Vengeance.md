@@ -8,7 +8,7 @@ permalink: 2017/01/19/of-vengeance
 
 # Of Vengeance
 
-[[2017]] / [[blog]]
+[[2017]] / [[Blog]]
 
 While I was completing my undergraduate thesis on Herman Melville's posthumously published novella, *Billy Budd, Sailor,* a certain memory, lodged deep within my mind, constantly perturbed my thinking.
 

@@ -8,7 +8,7 @@ permalink: 2018/03/28/against-narrative-time
 
 # Against Narrative Time
 
-[[2018]] / [[blog]]
+[[2018]] / [[Blog]]
 
 If the back cover of Frank Herbert's 1965 science fiction classic *Dune* is to be believed, Paul Atreides, the novel's protagonist, is a righteous hero, one who "would avenge the traitorous plot against his noble family," and "would bring to fruition humankind's most ancient and unattainable dream." A classic narrative. But this is not the narrative with which Herbert leaves us. Look inside "Science Fiction's Supreme Masterpiece," and you will not find another iteration of the hero's journey. *Dune* poses a challenge to the very idea of the hero, and the stories that we tell about him.
 

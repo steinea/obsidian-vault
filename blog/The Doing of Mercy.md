@@ -8,7 +8,7 @@ permalink: 2016/06/06/the-doing-of-mercy
 
 # The Doing of Mercy
 
-[[2016]] / [[blog]]
+[[2016]] / [[Blog]]
 
 In the previous essay, I concluded that the only productive and worthwhile response to the reality of our social being-together, the only response which does not perpetuate the violence of the systems in which we live, can be a response of *mercy.* I asserted that mercy is "the force beyond our similarities that insists in the differences, the gaps, between people, the force that transcends blood, and interest, and geography, and constitution, the force that is fundamentally open to all that the other is and seeks to be." This is certainly a nice idea, but here I want to back it up, or rather, explore the *concept* of mercy and attempt to draw out the implications of such a counterintuitive philosophy. Thinking nice thoughts alone will not bring about change; as I argued, in our world, which is to say specifically, in our culture and in our laws, there are always "bodies on the line."[^1] Our thoughts and our concepts can only be invested with interpretive force if they are grounded in the embodied here and now*.*
 

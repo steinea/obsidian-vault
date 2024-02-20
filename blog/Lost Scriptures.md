@@ -8,7 +8,7 @@ permalink: 2020/02/26/lost-scriptures
 
 # Lost Scriptures
 
-[[2020]] / [[blog]]
+[[2020]] / [[Blog]]
 
 *Lost Scriptures* is a [Zine Quest 2](https://www.kickstarter.com/projects/vagrantludology/lost-scriptures) project, successfully funded on March 11 by 116 wonderful backers.
 

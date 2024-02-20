@@ -8,7 +8,7 @@ permalink: 2017/03/15/the-machiavellian-challenge
 
 # The Machiavellian Challenge
 
-[[2017]] / [[blog]]
+[[2017]] / [[Blog]]
 
 #### Introduction
 

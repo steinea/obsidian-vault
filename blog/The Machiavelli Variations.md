@@ -9,7 +9,7 @@ permalink: 2017/04/03/the-machiavelli-variations
 
 # The Machiavelli Variations
 
-[[2017]] / [[blog]]
+[[2017]] / [[Blog]]
 
 #### Introduction
 

@@ -9,7 +9,7 @@ permalink: 2017/04/04/thoreaus-cabin
 
 # Thoreau’s Cabin
 
-[[2017]] / [[blog]]
+[[2017]] / [[Blog]]
 
 #### Introduction
 

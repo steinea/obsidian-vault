@@ -8,7 +8,7 @@ permalink: 2022/07/13/hello-world
 
 # Hello, World!
 
-[[2022]] / [[blog]]
+[[2022]] / [[Blog]]
 
 We have made the move from the hustle and bustle of the Fraser Valley to the quiet and calm of [Sechelt](https://en.wikipedia.org/wiki/Sechelt), on the Sunshine Coast of British Columbia. We love it here. We are on the inlet side of town, and this has me thinking about [[Compost Epistemology|corridors]], those geographic passageways that Donna Haraway writes about in *Staying With the Trouble* (2016) as “essential to [the] being” of symbiont life. “The restoration and care of corridors, of connection, is a central task” for the communities that inhabit and travel them. Corridors are “practical and material, as well as fabulous and enspirited.” I want to cultivate “corridor thinking.”
 

@@ -9,7 +9,7 @@ permalink: 2021/08/05/no-dice-no-masters
 
 # No Dice, No Masters
 
-[[2021]] / [[blog]]
+[[2021]] / [[Blog]]
 
 #### Introduction
 

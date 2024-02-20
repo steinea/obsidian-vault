@@ -11,7 +11,7 @@ permalink: 2020/03/19/the-fire-fades
 
 ### Navigating the End of the World in FromSoftware’s *Dark Souls*
 
-[[2020]] / [[blog]]
+[[2020]] / [[Blog]]
 
 #### Introduction
 

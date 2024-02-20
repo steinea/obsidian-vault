@@ -8,4 +8,4 @@ permalink: 2023/04/02/heisenberg
 
 # Heisenberg
 
-[[2023]] / [[blog]]
+[[2023]] / [[Blog]]

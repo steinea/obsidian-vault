@@ -8,7 +8,7 @@ permalink: 2014/10/30/a-structural-study-of-canadian-myth
 
 # A Structural Study of Canadian Myth
 
-[[2014]] / [[blog]]
+[[2014]] / [[Blog]]
 
 In "The Structural Study of Myth" Claude Lévi-Strauss examines the myth through the "Saussurean principle of the arbitrary character of the linguistic signs" (75). Lévi-Strauss explains the two referents of language, *langue* and *parole,* the "revertible" and "non-revertible," the timeless and the timely: *langue* is the structure of language that preexists a speaker; *parole* is the application of *langue* by a speaker, an utterance (76). But in myth, there is a third referent, a combination of the two. Myth "always refers to events alleged to have taken place in time" but the "specific pattern described is everlasting" (76). Myth is both timeless and timely; that is to say, "myth *is* language: to be known, myth has to be told; it is a part of human speech" (75). Myth is the point of meeting for *langue* and *parole,* structure and utterance, the place where eternal forms and momentary instances become one. In the modern world, however, Lévi-Strauss argues that myth has been replaced by politics (76). He takes the French Revolution as his case, arguing that, like a myth, the Revolution is both a "sequence of past happenings" as well as an "everlasting pattern" (76). It is "historial and anhistorical" (76), revertible and non-revertible, which, in Lévi-Strauss's terms, is to say, mythical. Political mythology replaces classical mythology, Robespierre replaces Oedipus, but the structure remains, a structure of meaning-making, of world-building: mythology and politics are concerned with nothing more.
 

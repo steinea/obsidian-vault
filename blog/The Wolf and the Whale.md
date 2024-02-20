@@ -11,7 +11,7 @@ permalink: 2014/03/20/the-wolf-and-the-whale
 
 ### A Prophecy of Doom and the Fate of the American Nation
 
-[[2014]] / [[blog]]
+[[2014]] / [[Blog]]
 
 Doom. So Lawrence proclaims in his chapter on Melville's leviathan in *Studies in Classic American Literature: Moby-Dick,* a prophecy masquerading as sea-epic, foretelling that "terrible fatality," the end "of our white day." Lawrence is awed and appalled by Melville's "last ghastly hunt," by the white desire to consume, which ultimately leads to the White Whale itself---the symbol of whiteness, the "deepest blood-being of the white race"---and the self-cannibalistic suicide of white civilization. Lawrence asks the inevitable next question: "if the Great White Whale sank the ship of the Great White Soul in 1851, what's been happening ever since?" What is America today?
 

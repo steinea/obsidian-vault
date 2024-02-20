@@ -8,7 +8,7 @@ permalink: 2020/01/15/moonfall
 
 # Moonfall
 
-[[2020]] / [[blog]]
+[[2020]] / [[Blog]]
 
 *Moonfall* is a story game about conviction, consequence, and transformation. It is inspired by [*Moon Hunters*](https://kitfoxgames.itch.io/moon-hunters) by Kitfox Games, [*Shooting the Moon*](http://www.blackgreengames.com/shop/romancetrilogypdf) by Emily Care Boss, and [*Trophy*](https://www.drivethrurpg.com/product/268198/Codex--Dark-2-Dec-2018) by Jesse Ross, and hacks elements from each of these games. If you like Moonfall, please support these creators. *Moonfall* could not exist without their work.
 

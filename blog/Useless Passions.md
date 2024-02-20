@@ -8,7 +8,7 @@ permalink: 2020/10/15/useless-passions
 
 # Useless Passions
 
-[[2020]] / [[blog]]
+[[2020]] / [[Blog]]
 
 *Useless Passions* is a philosophy game inspired by Jean-Paul Sartre's work in [*Being and Nothingness*](https://www.routledge.com/Being-and-Nothingness-An-Essay-on-Phenomenological-Ontology/Sartre/p/book/9780415278485). It employs minimalist, player-driven mechanics to mobilize Sartre's philosophical concerns, getting players to explore questions of freedom and personal responsibility through play.
 

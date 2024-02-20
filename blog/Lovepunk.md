@@ -9,4 +9,4 @@ permalink: 2020/11/15/lovepunk
 
 # Lovepunk
 
-[[2020]] / [[blog]]
+[[2020]] / [[Blog]]

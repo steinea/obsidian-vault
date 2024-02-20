@@ -9,7 +9,7 @@ permalink: 2020/06/19/pure-vessels
 
 # Pure Vessels
 
-[[2020]] / [[blog]]
+[[2020]] / [[Blog]]
 
 #### Introduction
 

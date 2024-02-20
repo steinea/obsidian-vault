@@ -9,7 +9,7 @@ permalink: 2017/03/23/narratives-of-blood
 
 # Narratives of Blood
 
-[[2017]] / [[blog]]
+[[2017]] / [[Blog]]
 
 Today I would like to speak about the myth of law. I do not use the word "myth" to cast the law as an illusion. Neither do I wish to move in the opposite direction, however, and render the law eternal, affording it 'ontological' status; instead, I would like to approach the law 'phenomenologically,' which is to say, to treat it as phenomenally real in practice, insofar as practice is historically conditioned, presently borne out, and futurally inclined. Further more, though the law weighs heavily upon the individual, as we will see that it does in *Billy Budd, Sailor,* in practice it is always socially mediated, and so today I will be treating the law as, first and foremost, a *social* phenomenon.
 

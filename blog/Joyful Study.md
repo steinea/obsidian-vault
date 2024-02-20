@@ -9,7 +9,7 @@ permalink: 2021/03/11/joyful-study
 
 # Joyful Study
 
-[[2021]] / [[blog]]
+[[2021]] / [[Blog]]
 
 Patrick Jagoda’s *Experimental Games* is a thorough, insightful elaboration of an art-critical practice that he describes as a “joyful study” of digital games in the twenty-first century. Central to this project is Jagoda’s broad understanding of games (digital and otherwise) as an “experimental form” with “the potential to alter the conditions of the historical present.” Put more boldly, the premise that undergirds Jagoda’s project is that “games make realities,” and it is this practice of *making* that guides the book’s theorization and analysis of games.
 

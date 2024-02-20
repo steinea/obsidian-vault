@@ -9,7 +9,7 @@ permalink: 2017/08/07/being-and-time-3
 
 # Being and Time, 3
 
-[[2017]] / [[blog]]
+[[2017]] / [[Blog]]
 
 With Chapter 5 of *Being and Time,* "Being-in as Such," Heidegger finally touches upon the being of the understanding being (Dasein) that is furthest from itself, which is to say, least familiar to it, and yet, *most true*, thus requiring a phenomenological analysis of the *everydayness* of Dasein (i.e., that which is closest to it) so as to discover the truth of that being that is hidden. More simply, with the question of "being-in" the question of the meaning of being takes a substantial step forward. Having "achieved" through "concrete analysis" an understanding of the "world" and the "who" of being-in-the-world, Heidegger now turns to the "phenomenon of being-in" which, through the ensuing sections, will allow him to approach the "*totality of the structural whole*" that is Dasein (127, 175). Before he can assert the "*equiprimordiality* of constitutive factors" of Dasein, he must examine these factors in their distinctive everyday realizations, an examination which will prove to be a new introduction to the remainder of the text (128). The final several hundred pages of *Being and Time* hinge upon Chapter 5 and the concept of "being-in."
 

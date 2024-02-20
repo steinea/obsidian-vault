@@ -9,7 +9,7 @@ permalink: 2023/05/16/tactile-thematics-2
 
 # Tactile Thematics, 2
 
-[[2023]] / [[blog]]
+[[2023]] / [[Blog]]
 
 #### Introduction
 

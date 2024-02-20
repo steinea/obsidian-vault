@@ -8,4 +8,4 @@ permalink: 2021/02/08/milesians
 
 # Milesians
 
-[[2021]] / [[blog]]
+[[2021]] / [[Blog]]

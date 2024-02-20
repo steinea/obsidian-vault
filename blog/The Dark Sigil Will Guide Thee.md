@@ -9,7 +9,7 @@ permalink: 2020/10/23/the-dark-sigil-will-guide-thee
 
 # The Dark Sigil Will Guide Thee
 
-[[2020]] / [[blog]]
+[[2020]] / [[Blog]]
 
 #### Introduction
 

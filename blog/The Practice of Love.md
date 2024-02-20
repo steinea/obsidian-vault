@@ -8,7 +8,7 @@ permalink: 2016/11/07/the-practice-of-love
 
 # The Practice of Love
 
-[[2016]] / [[blog]]
+[[2016]] / [[Blog]]
 
 The anonymous author of the fourteenth century spiritual handbook, *The Cloud of Unknowing,* writes from within the long tradition of Christian apophatic thought. Far from being a simple repetition of a trendy doctrine, however, *The Cloud of Unknowing* is a unique and inventive addition to the corpus. Though, as noted in the introduction to the text, the work of Pseudo-Dionysius had been hugely influential throughout Medieval Europe, there is no "*direct* influence of the authentic teaching" of Pseudo-Dionysius that can be identified in *The Cloud of Unknowing* (50-51)*.* Rather, the author of *The Cloud* participates in the broader milieu of Western mysticism, and brings an especially practical and compassionate sensibility to bear on his subject matter. Pseudo-Dionysius's *Mystical Theology* is highly intellectual, steeped as it is in Neo-Platonic philosophy. *The Cloud of Unknowing,* on the other hand, sees the intellectual as but a means, and that, when we are brought to the divine darkness, to the cloud of unknowing, our only hope to remain in that place is love. The task of forgetting and unknowing cannot be a task of the mind, for it is precisely the mind that stands in the way. What *The Cloud of Unknowing* teaches is that it is *love* that must lead, and that it is *love* that will draw us through. And in love, the apophatic way is no longer simply a *necessity* for theologians encountering the infinity and eternity of the divine*,* but a radically practical form of communion and everyday relationship with the invisible God.
 

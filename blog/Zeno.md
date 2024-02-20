@@ -8,4 +8,4 @@ permalink: 2021/04/12/zeno
 
 # Zeno
 
-[[2021]] / [[blog]]
+[[2021]] / [[Blog]]

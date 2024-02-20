@@ -9,7 +9,7 @@ permalink: 2020/02/19/tactile-thematics
 
 # Tactile Thematics, 1
 
-[[2020]] / [[blog]]
+[[2020]] / [[Blog]]
 
 #### Introduction
 

@@ -9,7 +9,7 @@ permalink: 2017/04/19/the-spirit-of-history
 
 # The Spirit of History
 
-[[2017]] / [[blog]]
+[[2017]] / [[Blog]]
 
 #### I.
 

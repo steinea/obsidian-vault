@@ -9,7 +9,7 @@ permalink: 2020/06/03/praise-the-sun
 
 # Praise the Sun
 
-[[2020]] / [[blog]]
+[[2020]] / [[Blog]]
 
 #### Introduction
 

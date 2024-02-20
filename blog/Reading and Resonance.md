@@ -8,7 +8,7 @@ permalink: 2015/07/14/reading-and-resonance
 
 # Reading and Resonance
 
-[[2015]] / [[blog]]
+[[2015]] / [[Blog]]
 
 In the structural anthropology of Claude Lévi-Strauss, specifically as detailed in his essay "The Structural Study of Myth,"[^1] myths are important insofar as they are meaningful. The difficulty for Lévi-Strauss, as an anthropologist working after the birth of structural linguistics, is that the myth, which "*is* language" (430, his emphasis), cannot derive its meaning from language itself, as the fundamental tenet of Saussurian linguistics, [the arbitrariness of the sign,](https://en.wikipedia.org/wiki/Sign_(semiotics)) makes clear. Language in itself, Saussure's *langue,* the unconscious, socially generated and maintained structure of language, is arbitrary. It is only through relation with its *parleurs* and their *parole* that the arbitrary structure gains objective, statistical significance. To put it more concretely, the word "pink" has no literal connection to the colour, but is, rather, arbitrarily associated with it by collective and traditional usage. Thus, for Saussure, and Lévi-Strauss, language has a "double structure," existing simultaneously in "revertible" and "non-revertible" time (Lévi-Strauss 430). Together, these contrary but cooperative "time referents" of language, *langue* and *parole,* produce what we refer to, simply, as *language.*
 

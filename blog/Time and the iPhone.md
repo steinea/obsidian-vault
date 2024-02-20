@@ -8,7 +8,7 @@ permalink: 2017/10/11/time-and-the-iphone
 
 # Time and the iPhone
 
-[[2017]] / [[blog]]
+[[2017]] / [[Blog]]
 
 I am a child of the smartphone generation. This is not to say that I was unfamiliar with prior iterations of the cell phone---I can make jokes about indestructible Nokias, reminisce about T9, and recall the envy I felt toward my classmates who upgraded to the LG Keybo before I ever got my first phone. So I was familiar with the cell phone before the smartphone, which is much like saying I was familiar with social networking before Facebook. But it was with Facebook and with the smartphone that both of these domains entered a new phase of existence, and it was Facebook and the smartphone that would serve as the technological background for my transition from high school to adulthood. I cannot ignore their influence.
 

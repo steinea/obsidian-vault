@@ -8,7 +8,7 @@ permalink: 2021/03/28/earth-without-us
 
 # Earth Without Us
 
-[[2021]] / [[blog]]
+[[2021]] / [[Blog]]
 
 *Earth Without Us* is a 12-page zine based on Lukáš Likavčan's *Introduction to Comparative Planetology* (Strelka Press, 2019). It takes his concluding five instructions for an "infrastructural geopolitics of climate emergency" and converts them into a "geoludics," a simple worldbuilding exercise with the goal of generating a real planetary praxis.
 

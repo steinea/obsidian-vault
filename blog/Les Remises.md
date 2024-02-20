@@ -8,7 +8,7 @@ permalink: 2015/07/15/les-remises
 
 # Les Remises
 
-[[2015]] / [[blog]]
+[[2015]] / [[Blog]]
 
 I would like to return to Hemingway once more, and I hope, in doing so, to demonstrate the importance of such, which is to say, the importance of *returning.* First, a quotation:
 

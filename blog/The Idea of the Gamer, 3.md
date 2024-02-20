@@ -9,7 +9,7 @@ permalink: 2021/05/30/idea-of-gamer-3
 
 # The Idea of the Gamer, 3
 
-[[2021]] / [[blog]]
+[[2021]] / [[Blog]]
 
 Chapter two of Amanda Phillips' *Gamer Trouble*[^1] begins with an epigraph from Gloria Anzaldúa's *Making Face, Making Soul* (1990):
 

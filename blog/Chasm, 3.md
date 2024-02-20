@@ -9,7 +9,7 @@ permalink: 2019/05/28/chasm-3
 
 # Chasm, 3
 
-[[2019]] / [[blog]]
+[[2019]] / [[Blog]]
 
 > *As a deer longs for flowing streams, / so my soul longs for you, O God. / My souls thirsts for the living God. / When shall I come and behold / the face of God? / My tears have been my food / day and night, / while people say to me continually, /* "Where is your God?" ---A Maskil of the Korahites
 

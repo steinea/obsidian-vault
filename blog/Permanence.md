@@ -8,7 +8,7 @@ permalink: 2015/06/30/permanence
 
 # Permanence
 
-[[2015]] / [[blog]]
+[[2015]] / [[Blog]]
 
 If the beyond calls, what, exactly is it? Or perhaps an easier question: *where* is it? We material, impermanent beings erect monuments as antidotes to our ephemerality, we come, we see, we conquer, we write blog posts and use adjectives like "ephemerality" that our computers' built in digital dictionaries underline with a red squiggle, we do all these things, and yet, any one of us could be crossing a busy Parisian street and be struck by a careening, careless vehicle at any moment. The monument remains; we do not. As we fade from memory, if we are lucky, a curious historian may link our unique subjectivity to its trace, to a cathedral or a book or a collection of photos, and we may live again in his studies; if we are not, we will continue to fade into nothingness, and our trace will become a relic, an enigma, a simple, unobservable *absence.* This is not a comforting thought. And so the question remains, *what,* or *where,* is permanence? 
 

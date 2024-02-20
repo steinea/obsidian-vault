@@ -9,7 +9,7 @@ permalink: 2021/02/10/ludic-philosophy-2
 
 # Ludic Philosophy, 1
 
-[[2021]] / [[blog]]
+[[2021]] / [[Blog]]
 
 "James Clifford once described [Hayden] White as an 'anarcho-formalist.' The formalism was more visible than the anarchism but no less important. White was not naive enough to believe that thinkers were free to imagine any damn thing they liked, thereby recreating the world according to their desires. As he saw it, thinking tended to fall into a narrow range of forms, tropes, narrative structures. As critical as he was of history’s pretensions to be an objective science, there was more than a bit of the scientist, even the mad scientist, in his investigation of thought’s inescapable formality."[^1]
 

@@ -8,7 +8,7 @@ permalink: 2020/11/28/living-failures
 
 # Living Failures
 
-[[2020]] / [[blog]]
+[[2020]] / [[Blog]]
 
 *The Hunter slew your Kin and left the Lady of the Clocktower to bleed out on the throne room floor. But the Hunter didn't see you, hiding there amongst the lumenflowers and the corpses of your brethren. Now, you are all that is left, the only one able to tend to the tower, the garden, the hall, as you and everything around you crumbles into dreams and phantasms. All is quiet. Perhaps a corpse like this should be left well alone...*
 

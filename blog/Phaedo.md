@@ -8,4 +8,4 @@ permalink: 2022/04/23/phaedo
 
 # Phaedo
 
-[[2022]] / [[blog]]
+[[2022]] / [[Blog]]

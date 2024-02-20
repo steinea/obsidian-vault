@@ -9,7 +9,7 @@ permalink: 2017/05/12/being-and-time-2
 
 # Being and Time, 2
 
-[[2017]] / [[blog]]
+[[2017]] / [[Blog]]
 
 Having established "being-in-the-world" as a "fundamental structure of Dasein," Heidegger will continue to analyze, in Chapters 3 and 4, two "factors" of that "primordial\[\] and constant\[\] whole" (39): the "world" (63) and the "they" (111). Because Dasein is "always already 'outside' together with some being encountered in the world already discovered," and "in this 'being outside' together with its object, Dasein is 'inside,' correctly understood" (62), it is necessary to analyze these "outside" factors in terms of which Dasein initially understands itself. To talk about Dasein's capacity for "knowing" or knowledge, such an analysis is vital; knowing is predicated on Dasein's being *with* in its "fundamental constitution" (62).
 

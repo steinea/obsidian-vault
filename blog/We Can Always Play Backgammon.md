@@ -11,7 +11,7 @@ permalink: 2023/05/26/we-can-always-play-backgammon
 
 ### Empiricism and Subjectivity
 
-[[2023]] / [[blog]]
+[[2023]] / [[Blog]]
 
 <br>
 

@@ -9,7 +9,7 @@ permalink: 2020/08/28/it-cant-be-for-nothing
 
 # It Can’t Be For Nothing
 
-[[2020]] / [[blog]]
+[[2020]] / [[Blog]]
 
 #### Introduction
 

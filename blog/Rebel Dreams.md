@@ -8,7 +8,7 @@ permalink: 2017/01/25/rebel-dreams
 
 # Rebel Dreams
 
-[[2017]] / [[blog]]
+[[2017]] / [[Blog]]
 
 "Rebellions are built on hope."
 

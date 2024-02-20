@@ -9,7 +9,7 @@ permalink: 2023/05/26/imagined-agency
 
 # Imagined Agency
 
-[[2023]] / [[blog]]
+[[2023]] / [[Blog]]
 
 Throughout the media we enjoy, from novels to films to video games, we encounter games that exist as “part[s] of fictional worlds,” games that “cannot actually be—or at least were not originally meant to be—played.” Games like Suzerainty from *Disco Elysium*, Calvinball from *Calvin and Hobbes*, and (originally) Pai Sho from *Avatar: The Last Airbender* are just a few of many such examples of fictional games from popular culture. For philosopher game-designers Stefano Gualeni and Riccardo Fassone, it is precisely this unplayability that makes games like these worthy of further study–a task they undertake in their new book from Bloomsbury Academic, [*Fictional Games: A Philosophy of Worldbuilding and Imaginary Play*](https://bookshop.org/a/79715/9781350277083) (2023).
 

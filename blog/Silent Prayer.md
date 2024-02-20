@@ -8,7 +8,7 @@ permalink: 2020/11/17/silent-prayer
 
 # Silent Prayer
 
-[[2020]] / [[blog]]
+[[2020]] / [[Blog]]
 
 This game does not attempt to reproduce John Cage’s *4’33”* in game space, but rather to *extend* it, to re-enter the scene with new instruments.
 

@@ -8,7 +8,7 @@ permalink: 2022/09/14/bridge-laws
 
 # Bridge Laws
 
-[[2022]] / [[blog]]
+[[2022]] / [[Blog]]
 
 [Terence Blake](https://terenceblake.wordpress.com/)’s work has been quite influential for me over the years—specifically, his conception of the “incommensurable.” This line of thought can be traced back to his paper “[Image is the Measure: Notes on Incommensurability and the Dream](https://terenceblake.files.wordpress.com/2020/04/image-is-the-measure.pdf),” which in turn emerges out of the tradition of French continental philosophy. Blake considers his work a “metaphysical research program” in the mode of [Karl Popper](https://plato.stanford.edu/entries/popper/) and [Imre Lakatos](https://plato.stanford.edu/entries/lakatos/), and I have taken this heuristic to be characteristic of my own method as well.
 

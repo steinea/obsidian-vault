@@ -8,7 +8,7 @@ permalink: 2016/01/25/the-concept-as-method
 
 # The Concept as Method
 
-[[2016]] / [[blog]]
+[[2016]] / [[Blog]]
 
 Before returning to some issues raised in the previous entry, I would like to discuss a way of thinking introduced to me by the *Negotiations* of Gilles Deleuze and Claire Parnet. In the chapter "On Philosophy" Deleuze puts forward his own theory of philosophy, that of "portraiture" (135). The philosopher's task is to produce "mental, conceptual portraits," a "likeness" of reality that allows for new and productive analysis (135). Unlike an actual portrait, however, this "likeness" is distinctly a *new* production, rather than a mere *re*production. Philosophy is not simply a matter of *repeating* what other philosophers have said, but of "inventing new concepts" (136). It is, thus, an innovative task.
 

@@ -9,7 +9,7 @@ permalink: 2023/06/18/a-model-of-actions
 
 # A Model of Actions
 
-[[2023]] / [[blog]]
+[[2023]] / [[Blog]]
 
 <br>
 

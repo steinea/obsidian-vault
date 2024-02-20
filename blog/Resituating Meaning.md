@@ -9,7 +9,7 @@ permalink: 2017/08/14/resituating-meaning
 
 # Resituating Meaning
 
-[[2017]] / [[blog]]
+[[2017]] / [[Blog]]
 
 In his *Structural Semantics* (1966), Algirdas-Julien Greimas continues the project of Ferdinand de Saussure's *Course in General Linguistics* (1916) and Louis Hjelmslev's *Prolegomena to a Theory of Language* (1943), extending the principles of structural linguistics to the "problem of signification" (Greimas 3). Where Saussure and Hjelmslev are primarily concerned with form, Greimas shifts the attention of the discipline to *meaning*, to that which is conveyed by the form. But to understand this shift, and other significant movements of his study, we must pay careful attention to certain tenets and unexamined premises in both Saussure and Hjelmslev, so reading Greimas with respect to the milieu in which he was operating, and to which he was responding. Indeed, Greimas sits at an important juncture between the French and Copenhagan schools of semiotics, while also introducing a phenomenological dimension to the field under the influence of Maurice Merleau-Ponty. Though many shortcomings can be identified in his thought, and in the thought of his predecessors, the following paper will attempt to delineate the positive potentialities of *Structural Semantics* with respect to both its historical position and its contemporary relevance. Through his incisive and provocative treatment of signification, Greimas responds to the challenges of Saussure's and Hjelmslev's projects, removing meaning from the narrow confines of the mind, and resituating it in the domain of perception.
 

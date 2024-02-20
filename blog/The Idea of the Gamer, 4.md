@@ -9,7 +9,7 @@ permalink: 2021/07/01/idea-of-gamer-4
 
 # The Idea of the Gamer, 4
 
-[[2021]] / [[blog]]
+[[2021]] / [[Blog]]
 
 #### Foucault
 

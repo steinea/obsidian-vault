@@ -8,7 +8,7 @@ permalink: 2017/03/29/logan-and-the-figure-of-love
 
 # *Logan* and the Figure of Love
 
-[[2017]] / [[blog]]
+[[2017]] / [[Blog]]
 
 In his dialogue with the historian Elisabeth Roudinesco, *For What Tomorrow*\..., Jacques Derrida argues that all theory owes a "debt" to "a performative power structured by fiction, by a figural invention." Theory, law, ethics, politics---these are not natural systems, but artefacts, artifices, *works of art*. Art exists in excess of nature, which means that, in the words of another philosopher, Hans-Georg Gadamer, art causes an *increase of being* in the world. Art *adds* to nature. Theory, law, ethics, politics---these cannot be reduced to natural systems, but emerge from human invention, are generated and grow, are performed, practiced, and represented by a myriad of actors in a multiplicity of contexts. This should not be taken to mean that fictions and fantasies and figures and fables are *unreal,* however, but that these arts of invention are the very roots of the social apparatuses and forces and norms that give shape to our everyday lives.
 

@@ -9,7 +9,7 @@ permalink: 2020/05/29/teaching-for-food-2
 
 # Teaching for Food, 2
 
-[[2020]] / [[blog]]
+[[2020]] / [[Blog]]
 
 > *But you are not to be called rabbi, for you have one teacher, and you are all students.* ---Matthew 23:8 NRSV
 

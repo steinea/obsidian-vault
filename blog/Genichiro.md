@@ -8,7 +8,7 @@ permalink: 2019/10/28/genichiro
 
 # Genichiro
 
-[[2019]] / [[blog]]
+[[2019]] / [[Blog]]
 
 The logic of immersion is a false logic---it implies that there can also be distance, frictionless, specular distance, the space of the eye, which has been called the space of power. But in *Sekiro: Shadows Die Twice*, there is a different logic at work.
 

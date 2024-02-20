@@ -8,7 +8,7 @@ permalink: 2022/09/13/art-and-space
 
 # Art and Space
 
-[[2022]] / [[blog]]
+[[2022]] / [[Blog]]
 
 In 1979, Jean-Pierre Luminet published his paper “[Image of a Spherical Black Hole with Thin Accretion Disk](https://www.researchgate.net/publication/234464726_Image_of_a_spherical_black_hole_with_thin_accretion_disk)” in *Astronomy and Astrophysics* in which he presented the world’s first simulated photograph of a black hole and its accretion disk. In 2019, the first real image of a black hole was captured by the Event Horizon Telescope Collaboration and published in the paper “[Focus on the First Event Horizon Telescope Results](https://iopscience.iop.org/journal/2041-8205/page/Focus_on_EHT)” in *Astrophysical Journal Letters*. Luminet [remarked](https://www.cnrs.fr/en/first-ever-image-black-hole-cnrs-researcher-had-simulated-it-early-1979) on the striking continuity between the two images (and [other](https://arxiv.org/abs/1902.11196) early computer simulations that followed), art prefiguring radio imagery by way of mathematics.
 

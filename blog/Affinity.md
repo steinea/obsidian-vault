@@ -9,6 +9,6 @@ permalink: 2019/08/03/affinity
 
 # Affinity
 
-[[2019]] / [[blog]]
+[[2019]] / [[Blog]]
 
 *Affinity* is an analog plugin for any tabletop roleplaying game that uses *experience*, *levels*, *ability scores*, etc., to formalize the powers of its player-characters. It is intended to subvert the ways in which we abstract bodies away from the messy entanglements of lived experience.

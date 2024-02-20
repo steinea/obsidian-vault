@@ -8,7 +8,7 @@ permalink: 2016/10/19/the-sequel-as-myth
 
 # The Sequel as Myth
 
-[[2016]] / [[blog]]
+[[2016]] / [[Blog]]
 
 In Roland Barthes\' semiology, myth is termed a \"second-order\" signification. Myth is an extension or appropriation of the \"first-order\" of signification, bare language, language that is as close to the world and to immediate action as possible. For Barthes the sign TREE, for instance, is of the first-order to the woodsman who purposes to cut it down. For him, TREE is not just a name; it is a thing with which he interacts, to which he has a meaningful relation. The necessity of his condition, the labour of his task, and the speaking of the thing, together constitute an experience, and in this way the sign TREE becomes the signification of an *event*. To borrow a phrase from Heidegger, the tree itself is *ready-to-hand* in the speaking of it. The woodsmen, the tree, and the word are entangled with each other, caught up in a meaningful presence.
 

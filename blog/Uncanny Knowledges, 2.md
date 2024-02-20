@@ -9,7 +9,7 @@ permalink: 2020/01/21/uncanny-knowledges-2
 
 # Uncanny Knowledges, 2
 
-[[2020]] / [[blog]]
+[[2020]] / [[Blog]]
 
 *Knowledge not at home*. This is the question at hand, the question of uncanny knowledge, which previously I described as the possibility of knowledge as such, the possibility of a 'legitimate' knowledge derived from a plurality of illegitimate sources,[^1] which is to say, the originary leakiness, porosity, and contingency of knowledge in its very constitution. There is no pure knowledge, only "quotations of voices."[^2] Every "enunciation" is "displaced," existential ventriloquism.[^3]
 

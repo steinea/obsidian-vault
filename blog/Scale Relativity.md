@@ -8,7 +8,7 @@ permalink: 2022/09/17/scale-relativity
 
 # Scale Relativity
 
-[[2022]] / [[blog]]
+[[2022]] / [[Blog]]
 
 Last year, Terence Blake tweeted about [Mark Wilson](https://en.wikipedia.org/wiki/Mark_Wilson_(philosopher)) and the concept of “scale relativity,” and I have had the related clippings sitting in my notes since then, unsure of how to proceed—mostly because the work exceeds me, as with much of my research and reading of late. So perhaps a summary will suffice for now.
 

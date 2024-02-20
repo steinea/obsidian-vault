@@ -9,7 +9,7 @@ permalink: 2021/04/10/from-governance-to-planning
 
 # From Governance to Planning
 
-[[2021]] / [[blog]]
+[[2021]] / [[Blog]]
 
 #### I
 

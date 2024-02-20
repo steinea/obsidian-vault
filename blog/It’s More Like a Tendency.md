@@ -9,7 +9,7 @@ permalink: 2021/03/12/its-more-like-a-tendency
 
 # It’s More Like a Tendency
 
-[[2021]] / [[blog]]
+[[2021]] / [[Blog]]
 
 #### Introduction
 

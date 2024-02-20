@@ -9,7 +9,7 @@ permalink: 2020/04/17/uncanny-knowledges-3
 
 # Uncanny Knowledges, 3
 
-[[2020]] / [[blog]]
+[[2020]] / [[Blog]]
 
 #### 1
 

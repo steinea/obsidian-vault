@@ -9,7 +9,7 @@ permalink: 2019/01/29/theory-fiction
 
 # Theory-Fiction
 
-[[2019]] / [[blog]]
+[[2019]] / [[Blog]]
 
 I am wrestling with an awful zeal for the authority of completeness. To be solid, to be one: what a terrible passion, and yet, how comfortable.
 

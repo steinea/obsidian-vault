@@ -9,7 +9,7 @@ permalink: 2022/08/26/production-and-pedagogy
 
 # Production and Pedagogy
 
-[[2022]] / [[blog]]
+[[2022]] / [[Blog]]
 
 For several years now I have been interested in, and indeed troubled by, the power dynamics of the pedagogical relationship. Something about teaching as a *profession*, as the execution of a certain *authority*, feels like a betrayal of the very impetus of teaching itself, a betrayal of the dynamics of the classroom, of *study*, those same dynamics that swept me along into graduate studies and then into a teaching role, and that keep me coming back, semester after semester, year after year.[^1] I have stayed with this trouble, interrogating it periodically, but always find myself unable to resolve these feelings---apart from whatever statements of refusal I can muster.[^2] But as time wears on, it becomes ever more pressing that I arrive at such an elusive resolution, especially if I am to continue gleaning my food from the university's halls. It is appropriate, then, with this ceaseless forward progress of the clock, that it is with *time* that I will begin.
 

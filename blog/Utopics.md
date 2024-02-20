@@ -8,7 +8,7 @@ permalink: 2021/06/09/utopics
 
 # Utopics
 
-[[2021]] / [[blog]]
+[[2021]] / [[Blog]]
 
 "To live utopia means constructing the representation which will speak its impossibility and simultaneously indicate it as that which it excludes. It is the empty space bordering and framing representation. This is the space of blessedness in representation, the permanent instant of happiness, all in one moment loss, limit and the neutral." —Marin, *Utopics*, xxvi
 

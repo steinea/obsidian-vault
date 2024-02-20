@@ -8,7 +8,7 @@ permalink: 2021/03/15/skin-and-stars
 
 # Skin and Stars
 
-[[2021]] / [[blog]]
+[[2021]] / [[Blog]]
 
 This is a game of the body cosmic. It is a hack of John Harper’s [*Lasers & Feelings*](https://johnharper.itch.io/lasers-feelings), with inspiration from Ben Roswell’s [*War in the Year 3000*](https://roswellian.itch.io/war-in-the-year-3000) and Sundae Month’s [*Diaries of a Spaceport Janitor*](https://tinybuild.itch.io/diaries-of-a-spaceport-janitor).
 

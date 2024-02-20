@@ -9,7 +9,7 @@ permalink: 2016/11/21/three-figures
 
 # Three Figures
 
-[[2016]] / [[blog]]
+[[2016]] / [[Blog]]
 
 #### Introduction
 

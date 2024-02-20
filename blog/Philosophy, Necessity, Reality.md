@@ -8,7 +8,7 @@ permalink: 2016/05/29/philosophy-necessity-reality
 
 # Philosophy, Necessity, Reality
 
-[[2016]] / [[blog]]
+[[2016]] / [[Blog]]
 
 To return, now, to the *procession of the word*, as discussed in the first entry here, we can see that this idea of "procession" is, in fact, a *concept*, in the Deleuzian sense---which is to say that, this idea is not simply *novel* but *necessary*. Indeed, the idea I attempted to express through my use of that particular word is not novel in the least, one articulated by many of the great (and mostly continental) philosophers of the twentieth century---which is to say, specifically, the concept of the [*signifying chain*](http://nosubject.com/Signifying_Chain)---but my application of the concept of procession is certainly necessary, and is, as Deleuze would have it, a "response to \[a\] real problem\[\]" (136).
 

@@ -9,7 +9,7 @@ permalink: 2019/06/14/exscription
 
 # Exscription
 
-[[2019]] / [[blog]]
+[[2019]] / [[Blog]]
 
 ... The otherwise that is given *within* the totalized and totalizing world-machine can be described with a term coined by Jean-Luc Nancy: *exscription*. Nancy employs this term to read the nullity (the thrownness, projection, or no-thingness) of Heidegger's Dasein: being-in-the-world as the being that is always already ahead of itself, that "always understands itself ... in terms of its possibility to be itself or not to be itself," but is not *merely* itself in the manner of an object, of an objective, self-identical presence.[^1] Nancy writes:
 

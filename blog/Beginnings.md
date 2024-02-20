@@ -8,7 +8,7 @@ permalink: 2016/01/25/beginnings
 
 # Beginnings
 
-[[2016]] / [[blog]]
+[[2016]] / [[Blog]]
 
 In via. En route. On the way. However you translate the phrase, there is a certain quality of *procession* involved, a word I use with particular care. No word ever makes its way alone, no text is an isolate, no speech is self-contained and originary, and so, for the word to *proceed*, to move *in procession*, is for the word to be always already accompanied (a construction of speech which, in its etymology, illustrates the point I am trying to make)---by words and contexts and connotations. So, we might say, the word is never *in itself* (a phrase with its own echoes, to be pursued another time). But before we proceed, let us untangle some of the knots I have created.
 

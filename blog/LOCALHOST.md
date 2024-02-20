@@ -8,7 +8,7 @@ permalink: 2017/11/22/localhost
 
 # *LOCALHOST*
 
-[[2017]] / [[blog]]
+[[2017]] / [[Blog]]
 
 *5:43am.*
 

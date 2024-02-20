@@ -9,7 +9,7 @@ permalink: 2015/06/06/so-i-ate-guinea-fowl-the-other-day
 
 # So I Ate Guinea Fowl the Other Day
 
-[[2015]] / [[blog]]
+[[2015]] / [[Blog]]
 
 Oh, how the mind wanders.
 

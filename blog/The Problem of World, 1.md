@@ -9,7 +9,7 @@ permalink: 2017/12/02/the-problem-of-world-1
 
 # The Problem of World, 1
 
-[[2017]] / [[blog]]
+[[2017]] / [[Blog]]
 
 This first study in a series of four takes as its impetus a claim made by French phenomenologist Maurice Merleau-Ponty regarding his two titanic influences, the German progenitors of the phenomenological school, Edmund Husserl and Martin Heidegger. In the preface to his *Phenomenology of Perception* (1945), Merleau-Ponty argues that "all of *Sein und Zeit* emerges from Husserl's suggestion, and in the end is nothing more than a making explicit of the "*natürlichen Weltbegriff*" \[natural concept of the world\] or the "*Lebenswelt*" \[life-world\] that Husserl, toward the end of his life, presented as the fundamental theme of phenomenology" (lxx-lxxi, translator's insertions).[^741] This "suggestion" of Husserl's to which Merleau-Ponty refers originated as the suggestion of a "philosophy that aspires to be an "exact science,"" but "also an account of "lived" space," a double project which, Merleau-Ponty notes, brings about a contradiction in terms (lxx). But in fact, as Merleau-Ponty will go on to demonstrate, and as this series of studies intends to pursue through a comparative analysis of the thought of four different phenomenologists, this contradiction only exists for those perspectives that privilege either pole of the relation between "man and the world" (lxx). Phenomenology begins with "existence," and thus begins with the "facticity" of man and world, their *togetherness*, their indissoluble *belonging* with each other. This factical union of man and world was described by Husserl (following Franz Brentano) as *intentionality*, a concept essential to all those who followed him.
 

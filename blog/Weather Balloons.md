@@ -8,7 +8,7 @@ permalink: 2022/11/27/weather-balloons
 
 # Weather Balloons
 
-[[2022]] / [[blog]]
+[[2022]] / [[Blog]]
 
 I learned about weather balloons from Mark Rober's latest YouTube video, "[Egg Drop From Space](https://www.youtube.com/watch?v=BYVZh5kqaFg)," and I had no idea the planetary-scale human coordination that goes into tracking the weather. It's obvious, after the fact, but I still find it remarkable. As per [Wikipedia](https://en.wikipedia.org/wiki/Weather_balloon):
 

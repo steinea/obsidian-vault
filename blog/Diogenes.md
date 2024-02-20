@@ -8,4 +8,4 @@ permalink: 2021/05/18/diogenes
 
 # Diogenes
 
-[[2021]] / [[blog]]
+[[2021]] / [[Blog]]

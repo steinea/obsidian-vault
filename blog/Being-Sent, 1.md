@@ -8,7 +8,7 @@ permalink: 2018/12/02/being-sent
 
 # Being-Sent, 1
 
-[[2018]] / [[blog]]
+[[2018]] / [[Blog]]
 
 These words are a radical infolding, a turbulent involution, of my autofoundational desires. Fred Moten, “to consent not to be a single being”:
 

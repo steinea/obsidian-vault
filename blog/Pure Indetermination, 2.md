@@ -9,7 +9,7 @@ permalink: 2021/07/03/pure-indetermination
 
 # Pure Indetermination, 2
 
-[[2021]] / [[blog]]
+[[2021]] / [[Blog]]
 
 "Every relation or possession is situated within the non-possessable which envelops or contains without being able to be contained or enveloped. We shall call it the elemental."[^1]
 

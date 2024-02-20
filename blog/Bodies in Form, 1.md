@@ -9,7 +9,7 @@ permalink: 2019/04/13-bodies-in-form
 
 # Bodies in Form, 1
 
-[[2019]] / [[blog]]
+[[2019]] / [[Blog]]
 
 I have been ruminating on *The Last of Us*[^1] for years, ever since my first obsessive encounter with the game in September of 2013. I played through Naughty Dog's critically acclaimed post-apocalyptic survival story four times that Autumn: back to back to back to back. Every time the camera focused in on Ellie's face, every time the plucking of Gustavo Santaolla\'s signature ronroco rose to fill my ears, every time the credits rolled, I couldn't help but sit, swept away, waiting for the scroll to end so I could start the game all over again. *The Last of Us* captured me. It was the only media I consumed that semester. And it has yet to release its grip.
 

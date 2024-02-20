@@ -9,4 +9,4 @@ permalink: 2021/01/31/dead-letters
 
 # Dead Letters
 
-[[2021]] / [[blog]]
+[[2021]] / [[Blog]]

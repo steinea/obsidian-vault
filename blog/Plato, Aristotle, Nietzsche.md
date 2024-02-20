@@ -8,7 +8,7 @@ permalink: 2017/02/15/plato-aristotle-nietzsche
 
 # Plato, Aristotle, Nietzsche
 
-[[2017]] / [[blog]]
+[[2017]] / [[Blog]]
 
 #### Introduction
 

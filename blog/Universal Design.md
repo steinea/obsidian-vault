@@ -8,7 +8,7 @@ permalink: 2022/08/02/universal-design
 
 # Universal Design
 
-[[2022]] / [[blog]]
+[[2022]] / [[Blog]]
 
 I have been thinking about [useability](https://www.iso.org/standard/31176.html) a lot of late, especially with respect to how people interface with abstract forms like knowledge or code, and the ways in which abstraction mediates use. Today in my ongoing study I learned about [universal design](https://projects.ncsu.edu/ncsu/design/cud/about_ud/udprinciplestext.htm), which got me thinking about design for games and the web *beyond* aspirations of useability. Universal design is a vision of useability or accessibility not as a reaction to a hostile environment, but as a foundational principle for any given environment we might create.
 

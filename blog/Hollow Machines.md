@@ -8,7 +8,7 @@ permalink: 2019/09/26/hollow-machines
 
 # Hollow Machines
 
-[[2019]] / [[blog]]
+[[2019]] / [[Blog]]
 
 *Hollow Machines* is a simple, semi-complete game about armour and positionality. It builds on some of the ideas put forward in my [*Affinity*](https://vagrantludology.itch.io/affinity-dream) plugin.
 
