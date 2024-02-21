@@ -6,7 +6,7 @@ const openPublishPanel = app.commands.commands["publish:view-changes"].callback;
 const fileAndQuery = new Map([
   [
 	"dataview-activity",
-	'LIST FROM "dataview/activity" AND -"dataview/activity/playingcompleted" AND -"dataview/activity/playingmost" AND -"dataview/activity/playingnext" AND -"dataview/activity/playingnow" AND -"dataview/activity/playingshortest" AND -"dataview/activity/playingstopped" SORT file.name ASC',
+	'LIST FROM "dataview/activity" AND -"dataview/activity/playingcompleted" AND -"dataview/activity/playingmost" AND -"dataview/activity/playingnext" AND -"dataview/activity/playingnow" AND -"dataview/activity/playingshortest" AND -"dataview/activity/playingstopped" AND -"dataview/activity/watchingfilm" AND -"dataview/activity/watchingtelevision" SORT file.name ASC',
   ],
   [
 	"dataview-collections",
@@ -80,8 +80,12 @@ const fileAndQuery = new Map([
 	'TABLE WITHOUT ID file.link AS "Traveling" FROM "activity/traveling" SORT date DESC',
   ],
   [
-	"watching",
-	'TABLE WITHOUT ID file.link AS "Watching" FROM "activity/watching" SORT date DESC',
+	"watchingfilm",
+	'TABLE WITHOUT ID file.link AS "Film", rating AS Rating, liked AS Liked, date AS Date FROM "activity/watching" WHERE category = "film" SORT date DESC',
+  ],
+  [
+	"watchingtelevision",
+	'TABLE WITHOUT ID file.link AS "Television", rating AS Rating, liked AS Liked, date AS Date FROM "activity/watching" WHERE category = "television" SORT date DESC',
   ],
 
 // Blog dataview maps
@@ -213,6 +217,14 @@ const fileAndQuery = new Map([
 	'TABLE WITHOUT ID file.link AS "Economics" FROM "constellation/economics" SORT file.name ASC',
   ],
   [
+	"episodes",
+	'TABLE WITHOUT ID file.link AS "Episodes" FROM "constellation/episodes" SORT date DESC',
+  ],
+  [
+	"film",
+	'TABLE WITHOUT ID file.link AS "Film" FROM "constellation/film" SORT file.name ASC',
+  ],
+  [
 	"funds",
 	'TABLE WITHOUT ID file.link AS "Funds" FROM "constellation/funds" SORT file.name ASC',
   ],
@@ -243,10 +255,6 @@ const fileAndQuery = new Map([
   [
 	"magazines",
 	'TABLE WITHOUT ID file.link AS "Magazines" FROM "constellation/magazines" SORT file.name ASC',
-  ],
-  [
-	"movies",
-	'TABLE WITHOUT ID file.link AS "Movies" FROM "constellation/movies" SORT file.name ASC',
   ],
   [
 	"music",
