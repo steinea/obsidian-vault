@@ -41,7 +41,7 @@ const fileAndQuery = new Map([
   ],
   [
 	"playingnow",
-	'TABLE WITHOUT ID file.link AS "Now", platform AS Platform, duration.hours AS "Hours", trophies AS Trophies FROM "constellation/games" WHERE progress = "now" SORT file.name ASC',
+	'TABLE WITHOUT ID file.link AS "Now", platform AS Platform, duration.hours AS "Hours", trophies AS Trophies FROM "constellation/games" WHERE progress = "now" SORT duration DESC',
   ],
   [
 	"playingnext",
@@ -275,6 +275,10 @@ const fileAndQuery = new Map([
   [
 	"publications",
 	'TABLE WITHOUT ID file.link AS "Publications" FROM "constellation/publications" SORT file.name ASC',
+  ],
+  [
+	"standards",
+	'TABLE WITHOUT ID file.link AS "Standards" FROM "constellation/standards" SORT file.name ASC',
   ],
   [
 	"schools",
