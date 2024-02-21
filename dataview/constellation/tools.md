@@ -5,6 +5,7 @@
 | [[constellation/tools/Academic Audio Transcription.md\|Academic Audio Transcription]]     |
 | [[constellation/tools/Advanced Tables.md\|Advanced Tables]]                               |
 | [[constellation/tools/Better Dialogue Font.md\|Better Dialogue Font]]                     |
+| [[constellation/tools/Booklet Maker.md\|Booklet Maker]]                                   |
 | [[constellation/tools/Business Ethics in a Box.md\|Business Ethics in a Box]]             |
 | [[constellation/tools/Commander.md\|Commander]]                                           |
 | [[constellation/tools/Dataview.md\|Dataview]]                                             |

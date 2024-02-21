@@ -31,6 +31,7 @@
 - [[dataview/constellation/publications.md|publications]]
 - [[dataview/constellation/schools.md|schools]]
 - [[dataview/constellation/social.md|social]]
+- [[dataview/constellation/standards.md|standards]]
 - [[dataview/constellation/television.md|television]]
 - [[dataview/constellation/tools.md|tools]]
 - [[dataview/constellation/workshops.md|workshops]]

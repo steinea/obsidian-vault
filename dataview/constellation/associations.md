@@ -31,6 +31,7 @@
 | [[constellation/associations/International Association for the Fantastic in the Arts.md\|International Association for the Fantastic in the Arts]]               |
 | [[constellation/associations/International Digital Media and Arts Association.md\|International Digital Media and Arts Association]]                             |
 | [[constellation/associations/International Game Developers Association.md\|International Game Developers Association]]                                           |
+| [[constellation/associations/International Requirements Engineering Board.md\|International Requirements Engineering Board]]                                     |
 | [[constellation/associations/Kanban University.md\|Kanban University]]                                                                                           |
 | [[constellation/associations/London Science Fiction Research Community.md\|London Science Fiction Research Community]]                                           |
 | [[constellation/associations/Modern Language Associations.md\|Modern Language Associations]]                                                                     |

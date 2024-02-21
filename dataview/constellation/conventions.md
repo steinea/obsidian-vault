@@ -27,3 +27,4 @@
 | [[constellation/conventions/When Words Collide.md\|When Words Collide]]                                           |
 | [[constellation/conventions/World Fantasy Convention.md\|World Fantasy Convention]]                               |
 | [[constellation/conventions/Worldcon.md\|Worldcon]]                                                               |
+| [[constellation/conventions/Zona Warpa.md\|Zona Warpa]]                                                           |
