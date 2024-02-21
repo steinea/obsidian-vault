@@ -1,4 +1,9 @@
-%% #Ignore update via "Update Publish Files" template %% 
+---
+cssclass: clean-embeds
+---
 
-| Watching |
-| -------- |
+# Watching
+
+![[watchingtelevision]]
+
+![[watchingfilm]]
