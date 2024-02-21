@@ -45,3 +45,5 @@ Rust: “Yeah, you’re right about that.”
 Rust: “You’re looking at it wrong, the sky thing.”
 
 Marty: “How’s that?”
+
+Rust: “Well, once there was only dark. You ask me, the light’s winning.”
