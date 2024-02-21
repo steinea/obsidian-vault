@@ -11,7 +11,7 @@ tags:
 
 # Because Without Cause
 
-[[books]] / [[mathematics]]
+[[books]] / [[Mathematics]]
 
 Lange, Marc. *Because Without Cause: Non-Causal Explanations in Science and Mathematics*. Oxford University Press, 2016. [9780190269487](https://global.oup.com/academic/product/because-without-cause-9780190269487).
 

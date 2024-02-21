@@ -12,7 +12,7 @@ tags:
 
 # Kierkegaard, Pietism and Holiness
 
-[[books]] / [[Søren Kierkegaard]] / [[pietism]]
+[[books]] / [[Søren Kierkegaard]] / [[Pietism]]
 
 Barnett, Christopher B. *Kierkegaard, Pietism and Holiness.* Routledge, 2016. [9781138260993](https://www.routledge.com/Kierkegaard-Pietism-and-Holiness/Barnett/p/book/9781138260993).
 

@@ -11,7 +11,7 @@ tags:
 
 # The Snow Image and Uncollected Tales
 
-[[books]] / [[literature]]
+[[books]] / [[Literature]]
 
 Hawthorne, Nathaniel. *The Snow Image and Uncollected Tales*. 1852. [[Ohio State University Press]]. [9780814202043](https://ohiostatepress.org/books/BookPages/HawthorneCentenary.htm).
 

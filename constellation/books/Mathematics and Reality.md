@@ -11,7 +11,7 @@ tags:
 
 # Mathematics and Reality
 
-[[books]] / [[mathematics]]
+[[books]] / [[Mathematics]]
 
 Leng, Mary. *Mathematics and Reality*. Oxford University Press, 2013. [9780199674688](https://global.oup.com/academic/product/mathematics-and-reality-9780199674688).
 

@@ -11,7 +11,7 @@ tags:
 
 # Twice-told Tales
 
-[[books]] / [[literature]]
+[[books]] / [[Literature]]
 
 Hawthorne, Nathaniel. *Twice-told Tales*. [[Ohio State University Press]]. [9780814202029](https://ohiostatepress.org/books/BookPages/HawthorneCentenary.htm).
 

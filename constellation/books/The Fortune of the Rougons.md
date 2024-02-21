@@ -12,7 +12,7 @@ tags:
 
 # The Fortune of the Rougons
 
-[[books]] / [[literature]] 
+[[books]] / [[Literature]] 
 
 #### Citation
 
