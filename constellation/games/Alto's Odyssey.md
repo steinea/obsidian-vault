@@ -3,7 +3,7 @@ title: Alto's Odyssey
 date: 
 platform: Google
 link: 
-duration: 
+duration: 11h
 trophies: 17/22
 progress: now
 permalink:
