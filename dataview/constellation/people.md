@@ -8,11 +8,16 @@
 | [[constellation/people/Élie Faure.md\|Élie Faure]]                       |
 | [[constellation/people/Elinor Ostrom.md\|Elinor Ostrom]]                 |
 | [[constellation/people/Franz Brentano.md\|Franz Brentano]]               |
+| [[constellation/people/Fumihiko Yasuda.md\|Fumihiko Yasuda]]             |
 | [[constellation/people/Jackson Pollock.md\|Jackson Pollock]]             |
 | [[constellation/people/Jessica Flack.md\|Jessica Flack]]                 |
 | [[constellation/people/M. K. Badru.md\|M. K. Badru]]                     |
 | [[constellation/people/Maurice Merleau-Ponty.md\|Maurice Merleau-Ponty]] |
+| [[constellation/people/Motomu Toriyama.md\|Motomu Toriyama]]             |
 | [[constellation/people/Nam Jun Paik.md\|Nam Jun Paik]]                   |
+| [[constellation/people/Naoki Yoshida.md\|Naoki Yoshida]]                 |
+| [[constellation/people/Ryota Suzuki.md\|Ryota Suzuki]]                   |
 | [[constellation/people/Sara I. Walker.md\|Sara I. Walker]]               |
 | [[constellation/people/Søren Kierkegaard.md\|Søren Kierkegaard]]         |
+| [[constellation/people/Tetsuya Nomura.md\|Tetsuya Nomura]]               |
 | [[constellation/people/Wilfrid Sellars.md\|Wilfrid Sellars]]             |
