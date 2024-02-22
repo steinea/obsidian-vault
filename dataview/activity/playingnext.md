@@ -1,6 +1,6 @@
 %% #Ignore update via "Update Publish Files" template %% 
 
-| Next                                                                                                  | Platform  | Hours |
+| Game                                                                                                  | Platform  | Hours |
 | ----------------------------------------------------------------------------------------------------- | --------- | ----- |
 | [[constellation/games/Citizen Sleeper.md\|Citizen Sleeper]]                                           | Game Pass | 12    |
 | [[constellation/games/Cocoon.md\|Cocoon]]                                                             | Game Pass | 5     |

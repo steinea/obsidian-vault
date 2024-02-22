@@ -1,6 +1,6 @@
 %% #Ignore update via "Update Publish Files" template %% 
 
-| Completed                                                                                 | Platform  | Hours | Trophies | Date       |
+| Game                                                                                      | Platform  | Hours | Trophies | Date       |
 | ----------------------------------------------------------------------------------------- | --------- | ----- | -------- | ---------- |
 | [[constellation/games/Alto's Adventure.md\|Alto's Adventure]]                             | Google    | 12    | 17/17    | 2024-01-12 |
 | [[constellation/games/Art of Rally.md\|Art of Rally]]                                     | PS5       | 22    | 44/44    | 2023-09-08 |

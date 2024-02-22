@@ -1,6 +1,6 @@
 %% #Ignore update via "Update Publish Files" template %% 
 
-| Now                                                                       | Platform  | Hours | Trophies |
+| Game                                                                      | Platform  | Hours | Trophies |
 | ------------------------------------------------------------------------- | --------- | ----- | -------- |
 | [[constellation/games/Halo Infinite.md\|Halo Infinite]]                   | Game Pass | 313   | 131/144  |
 | [[constellation/games/Dragon Age Inquisition.md\|Dragon Age Inquisition]] | PS4       | 267   | 59/70    |

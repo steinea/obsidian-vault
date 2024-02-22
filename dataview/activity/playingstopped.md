@@ -1,6 +1,6 @@
 %% #Ignore update via "Update Publish Files" template %% 
 
-| Stopped                                                         | Platform  | Hours | Trophies | Date       |
+| Game                                                            | Platform  | Hours | Trophies | Date       |
 | --------------------------------------------------------------- | --------- | ----- | -------- | ---------- |
 | [[constellation/games/Battlefield 2042.md\|Battlefield 2042]]   | Steam     | 10    | 8/34     | 2022-09-27 |
 | [[constellation/games/EA SPORTS FIFA 23.md\|EA SPORTS FIFA 23]] | Steam     | 34    | 24/39    | 2023-08-18 |
