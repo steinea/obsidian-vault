@@ -7,6 +7,10 @@ tbody>tr>:last-child {
 
 }
 
+.mermaid svg {
+   max-width: 100%;
+   height: auto;
+}
 
 /* Tables */
 
