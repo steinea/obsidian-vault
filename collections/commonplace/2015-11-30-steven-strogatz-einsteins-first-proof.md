@@ -1,0 +1,27 @@
+---
+layout: entry
+category: commonplace
+author: Steven Strogatz
+title: Einstein’s First Proof
+publication: The New Yorker
+link: https://www.newyorker.com/tech/annals-of-technology/einsteins-first-proof-pythagorean-theorem
+date: 2015-11-30
+---
+
+"This little gem of reasoning foreshadows the man he became, scientifically, stylistically, and temperamentally. His instinct for symmetry, his economy of means, his iconoclasm, his tenacity, his penchant for thinking in pictures—they’re all here, just as they are in his theory of relativity."
+ 
+"You may once have memorized the Pythagorean theorem as a series of symbols: a2 + b2 = c2. It concerns right triangles, meaning triangles that have a right (ninety-degree) angle at one of their corners. The theorem says that if a and b are the lengths of the triangle’s legs (the sides that meet at the right angle), then the length of the hypotenuse (the side opposite the right angle) is given by c, according to the formula above."
+
+"Twenty-four years ago, however, an alternative contender for the lost proof emerged. In his book “Fractals, Chaos, Power Laws,” the physicist Manfred Schroeder presented a breathtakingly simple proof of the Pythagorean theorem whose provenance he traced to Einstein. Schroeder wrote that the proof had been shown to him by a friend of his, the chemical physicist Shneior Lifson, of the Weizmann Institute, in Rehovot, Israel, who heard it from the physicist Ernst Straus, one of Einstein’s former assistants, who heard it from Einstein himself. Though we cannot be sure the following proof is Einstein’s, anyone who knows his work will recognize the lion by his claw."
+
+"The proof relies on two insights. The first is that a right triangle can be decomposed into two smaller copies of itself (Steps 1 and 3). That’s a peculiarity of right triangles. If you try instead, for example, to decompose an equilateral triangle into two smaller equilateral triangles, you’ll find that you can’t. So Einstein’s proof reveals why the Pythagorean theorem applies only to right triangles: they’re the only kind made up of smaller copies of themselves. The second insight is about additivity. Why do the squares add up (Step 6)? It’s because the triangles add up (Step 2), and the squares are proportional to the triangles (Step 4)."
+
+"What we’re seeing here is a quintessential use of a symmetry argument. In science and math, we say that something is symmetrical if some aspect of it stays the same despite a change. A sphere, for instance, has rotational symmetry; rotate it about its center and its appearance stays the same. A Rorschach inkblot has reflectional symmetry: its mirror image matches the original. In Step 4 of his proof, Einstein exploited a symmetry known as scaling. Take a right triangle with a square on its hypotenuse and rescale both of them by the same amount, as if on a photocopier. That rescaling changes some of their features (their areas and side lengths) while leaving others intact (their angles, proportions, and area ratio). It’s the constancy of the area ratio that undergirds Step 4."
+
+"What we’re seeing here is a quintessential use of a symmetry argument. In science and math, we say that something is symmetrical if some aspect of it stays the same despite a change. A sphere, for instance, has rotational symmetry; rotate it about its center and its appearance stays the same. A Rorschach inkblot has reflectional symmetry: its mirror image matches the original. In Step 4 of his proof, Einstein exploited a symmetry known as scaling. Take a right triangle with a square on its hypotenuse and rescale both of them by the same amount, as if on a photocopier. That rescaling changes some of their features (their areas and side lengths) while leaving others intact (their angles, proportions, and area ratio). It’s the constancy of the area ratio that undergirds Step 4."
+
+"Throughout his career, Einstein would continue to deploy symmetry arguments like a scalpel, getting to the hidden heart of things. He opened his revolutionary 1905 paper on the special theory of relativity by noting an asymmetry in the existing theories of electricity and magnetism: “It is known that Maxwell’s electrodynamics—as usually understood at the present time—when applied to moving bodies, leads to asymmetries which do not appear to be inherent in the phenomena.” Those asymmetries, Einstein sensed, must be a clue to something rotten at the core of physics as it was then formulated. In his mind, everything else—space, time, matter, energy—was up for grabs, but not symmetry. Think of the courage it required to reformulate nearly all of physics from the ground up, even if it meant revising Newton and Maxwell along the way."
+
+"Both special and general relativity are also profoundly geometrical theories. They conceive of the universe as having a dimension beyond the usual three; that fourth dimension is time. Rather than considering the distance between two points (a measure of space), the special-relativistic counterpart of the Pythagorean theorem considers the interval between two events (a measure of space-time)."
+
+"In general relativity, where space-time itself becomes warped and curved by the matter and energy within it, the Pythagorean theorem still has a part to play; it morphs into a quantity called the metric, which measures the space-time separation between infinitesimally close events, for which curvature can temporarily be overlooked. In a sense, Einstein continued his love affair with the Pythagorean theorem all his life."

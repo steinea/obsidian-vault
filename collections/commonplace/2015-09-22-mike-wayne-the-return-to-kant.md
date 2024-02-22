@@ -1,0 +1,19 @@
+---
+layout: entry
+category: commonplace
+author: Mike Wayne
+title: The Return to Kant
+publication: Los Angeles Review of Books
+link: https://lareviewofbooks.org/article/the-return-to-kant/
+date: 2015-09-22
+---
+
+"Kant and his interlocutors were struggling not just within a specific set of circumstances — such as monarchical rule in Germany, and the emergence of a revolutionary republic on its borders in France — but also an emerging and novel mode of economic production. This mode barely figures in their discourse, and yet is crucial for thinking about the context of their ideas and their relevance to us today. Enlightenment rationalism and its conservative opponents must be considered within their unconscious relationship with market capitalism."
+
+"The reason why it is worth returning to Kant today is that the limits of his political philosophy still mark our own limits. Where Kant gestures toward contradictions in his own political philosophy, such as whether freedom is compatible with a free market economy, he holds up a mirror to the confusions and impasses which entrap us today when the free market has both gone global and penetrated every aspect of our capacity for reasoned intersubjective communication — what another German philosopher, Jürgen Habermas, called the “life-world.”"
+
+"Enlightenment reason was not built to interrogate its own historical conditions. Accepting its ideals as ahistorical, as Maliks tacitly does, is a considerable weakness, as we’ve possessed the intellectual tools to understand those historical conditions since the mid-19th century. When we unpack those conditions, what we find is that the historical origins of rationalism are clearly connected with the development of the market system of production and exchange. The market makes equations between goods that level out their differences by finding what they have in common according to a standardized measure of value (money). This was the novel economic foundation, or material base, for the progressive spread of political ideals that stressed a universal equality between all persons — which not even the slave-owning ancient Greek democracy had dared to proclaim. An unconscious analogy between the formal equality of commodities and the ideals of freewill and moral choices was spreading around Europe. But if the market promoted those ideals, it was also destined to badly compromise them. In the meantime, Enlightenment rationalism came into severe conflict with the residues of feudalism and monarchism, and the conservative political cultures attached to them."
+
+"Consider today how those with economic power mold political debate in terms of corporate tax rates and breaks as well as direct subsidies designed to make local, national, and regional locations attractive to global capital. Kant was not wrong: dependency on those with private property rights over others does indeed corrupt the democratic process, making political deliberation unfree of such coercive influences. He was wrong, however, in his supposition that those with private property rights over others (the owners of the means of production, as Marx would say) would exercise their democratic rights in the political sphere for the sake of the commonwealth, rather than their own private property or class interests."
+
+"There is an inherent tension within capitalism between its need for a social order that makes the existence of labour and capital possible, and its self-dissolving repression of the social because of its foundation built on private ownership of the means of production. In its popular “social Darwinist” ideology, capitalism openly revels in comparing itself with the state of nature where only the “fittest survive” and where poverty and destitution daily break the social bonds that validate an order."

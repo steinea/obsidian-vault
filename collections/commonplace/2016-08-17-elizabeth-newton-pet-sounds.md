@@ -1,0 +1,39 @@
+---
+layout: entry
+category: commonplace
+author: Elizabeth Newton
+title: Pet Sounds
+publication: Real Life
+link: http://reallifemag.com/pet-sounds/
+date: 2016-08-17
+---
+
+“It has always struck me as ironic that audiophiles are often mediocre listeners. Careful listening to music defines the audiophile’s identity, yet conversations with them can be frustrating affairs. They believe themselves to hold special insights into sound, which they impart with little prompting: knowledge of the best books about audio fidelity, of the highest quality recordings, of historic hi-fi landmarks, of the best speakers, speaker cables, speaker polish. The audiophile tends toward monologues, impervious to disinterest — or dissent.”
+
+“When Baudrillard, in his 1979 book Seduction, personifies hi-fi recording, he may as well be describing the audiophile. Such recording, he argues, “gives you so much — color, luster, sex, all in high fidelity, and with all the accents (that’s life!) — that you have nothing to add, that is to say, nothing to give in exchange. Absolute repression: by giving you a little too much one takes away everything. Beware of what has been so well ‘rendered,’ when it is being returned to you without you ever having given it!””
+
+“This portrait resonates with the figure of the oppressive teacher critiqued by educator Paulo Freire. In Pedagogy of the Oppressed (1968), Freire theorizes education in terms of listening. He argues that bad educational practice forces students to behave as docile listening subjects who can be filled with knowledge, as though they were empty vessels before receiving it. During this process, which “anesthetizes and inhibits” the students’ creativity, the lecturer speaks as if reality were static and predictable, draining words of their concreteness until they become a “hollow, alienated, and alienating verbosity.””
+
+“In a sense, such words function like catcalls; they are comments presented as valuable insights that come off more like surveillance, threat, or ridicule. The catcaller feels authorized by his social position to speak without a filter, evaluating subjects he only dimly comprehends. Reflecting on the weariness many women feel at this attention, Autumn Whitefield-Madrano writes, “I suppose what I’d want to happen is for men to just know what they’re saying when they say it — or rather, for men to know what women hear when they speak. To know that the two are not the same.” Audiophiles, like catcallers, are often unaware of the resonance of their own voice.”
+
+“Listening differs from hearing in that listening takes account of the “situation of audition,” in anthropologist Paul Carter’s words. The implications of aural gestures emerge neither at the point of intention nor reception, but somewhere in the space between, amid a tangle of waves in air. For Freire, a liberating model of education involves not merely transferals of information, but conscientização: shared critical consciousness between teacher and student, a tug of war between the act of listening and the act of listening in the world.”
+
+“The critical underrepresentation of women in conversations about audio, then, is no surprise. It’s clear why some aspects of the popular audio-recording website gearslutz.com might turn women off to the field as defined by wealthy men. Beyond the site’s asinine URL, the equivalences between price and quality drawn all over the site’s message boards are indicative of the community’s complacency. On one of the site’s forums, “The Moan Zone,” the moderators emphasize that no discussion of politics or religion is allowed. No feminism, no feelings, no cults — except that of unbridled consumerism.”
+
+“Tidal’s advertisement exemplifies the mansplainer’s lack of self-awareness: The video’s premise is flawed, the information delivered is misleading if not entirely inaccurate, and the imagined audience is openly belittled. Like an audiophile, a sugar daddy, or a dull pedagogue, the video’s makers assume listeners can’t or won’t appreciate the object under explanation, but they proceed to explain anyway. Like catcallers, they tell us what we should be hearing without knowing what they are really saying about us. The final frame of the video reads: “Ready to hear it as it should sound?””
+
+“Although listening closely is widely considered a laudable act, listening inevitably involves restraint. Writing during the Cold War, Jacques Derrida, in The Ear of the Other, warned readers against listening too well lest they become subjects of totalitarian rule. He, in a reversal of Baudrillard, uses the metaphor of a “high-fidelity receiver”:
+
+The hypocritical hound whispers in your ear through his educational systems, which are actually acoustic or acromatic devices. Your ears grow larger and you turn into long-eared asses when, instead of listening with small, finely tuned ears and obeying the best master and the best of leaders, you think you are free and autonomous with respect to the State … Having become all ears for this phonograph dog, you transform yourself into a high-fidelity receiver.”
+
+“Unlike eyes, ears don’t close. Listening leaves individuals especially susceptible to external influence. Many good listeners find this vulnerability exhilarating; they let mansplainers finish for the pleasures listening brings and the insights they absorb. In John Cage’s formulation, listening to anything at all can render it artful by virtue of it being fully heard. But interest easily lapses into false curiosity, unwarranted attention offered to those who don’t deserve it. With this in mind, a mansplainer’s speech (described by Julia Baird as a “manalogue”) could be considered a form of coercion that exploits the labor of patient listeners. To protect ourselves, we must tune things out, and our choices about what to sacrifice are often fraught.”
+
+“To listen ethically is to engage the ambiguity between what we choose to disregard and what we need to hear. Although it’s probably wise to follow Derrida’s advice to listen with “small, finely tuned ears,” reflexive auto-curation can be cloistering if it becomes a way of life. Masking, one of the sonic principles underlying audio compression, enables the manipulation of frequencies deemed inaudible on a digital audio file, which makes the files manageable by saving space. Convenient accessibility to the music depends upon the exclusion of what is deemed expendable, based on generalizations about the typical human ear. Audiophiles debate whether the missing frequencies can be detected, which raises a question: Can we resist what we can’t hear, or what we simply ignore?”
+
+“In recent years, widespread accessibility to noise-canceling headphones has led to an association of the device with certain types of listeners: millennial aesthetes, estranged from the communities through which they commute. For philosopher Michel Serres, dialogue is defined by the exclusion of an imagined third party, “noise,” from a pair. And headphones — like all technologies of listening, be it a gadget or a mode of etiquette — are often used to cancel noise without starting conversation in any meaningful sense, defending their users against histories of conflict and inconvenient realities.”
+
+“Close listening can help attune us to the world and to each other.”
+
+“When the din of political spectacle becomes intolerable, silence can feel like a form of refuge.”
+
+“On a metaphorical level, a loss of hearing may seem welcome, but it is a luxury to treat noise as a metaphor. The World Health Organization recently announced that 1.1 billion people worldwide are at risk of partial or full hearing loss, a serious threat posed by excessive and prolonged exposure to loud environments. Although noise might ultimately overwhelm us, we can nonetheless resist deafening ourselves to what challenges and moves us most.”

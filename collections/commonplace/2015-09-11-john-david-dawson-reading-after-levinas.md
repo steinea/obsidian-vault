@@ -1,0 +1,17 @@
+---
+layout: entry
+category: commonplace
+author: John David Dawson
+title: Reading After Levinas
+publication: Bryn Mawr College
+link: https://www.brynmawr.edu/bmrcl/rev10eaglestone.html
+date: 2015-09-11
+---
+
+"How does Levinas discover responsibility in reading, especially given his well-known "deep-seated antipathy to art" (p. 98)? In Totality and Infinity, Levinas had discovered the ethical to lie in one's face-to-face encounter with the presence of another person, not through the presence or absence of representation. But Derrida, in "Violence and Metaphysics," showed that this conception of ethics was unable to escape language, representation, and the metaphysics of presence, despite all of its efforts to do so. Eaglestone argues that Levinas took to heart Derrida's deconstructive reading of Totality and Infinity by executing a linguistic turn in Otherwise than Being: "Levinas abandons his previous position which demanded 'true representation' and instead offers a way of understanding ethics philosophically through representation, through the phenomenon of language" (p. 135)."
+
+"How, then, is ethics understood "through language"? The key lies in grasping the double nature of language, its character as "amphibology." Language interweaves "the saying" (le dire) with "the said" (le dit). All persons find themselves already within "the saying," in proximity to others to whom they are already responsible. Responsibility is not an act of will by which one person decides he or she is obligated to another; it is an a priori condition of ethical possibility, a site in which one finds oneself already bound up with the other, unable to do anything other than respond. Individual self-identity is subsequent to one's more primordial stance within the saying. Like would-be biblical prophets proclaiming "Here I am" in response to a divine call, persons find themselves immediately available and obliged to others as a function of their status "beyond" or "otherwise than being.""
+
+"In contrast to the transcendent saying, "the said" is the realm of space and time in which the saying is always "incarnated." But this incarnation does not manifest so much as it hides and immobilizes: "The said has this hold because it designates, and, in designating, denies the transcendence of the saying" (p. 145). "The saying, unthematisable, becomes trapped in the said" (p. 146). Nonetheless, ethics requires the said, for the saying does not exist in pure form: ". . . without the interweaving of the said and the saying there could be no ethics" (p. 149), though it is the saying which is "the site of our responsibility for the other" (p. 144). The heart of the ethics of reading, then, consists in the interruption of the said for the sake of releasing or manifesting the saying. Although Eaglestone uses the term "transcendence" (ruling out any suggestion of divinity) to designate the saying, the saying can also be characterized as any critical approach that "interrupt[s] established understandings, the said." It turns out that it is the very "disruptive power" of the saying that is ethical--the state of "not being at home, the strangeness of the ineluctable call to responsibility" (p. 177), which is also, Eaglestone notes, a call to love."
+
+"Levinas's notion that one is always already responsible to and for others is compelling but arises largely as a circular, phenomenologically-grounded assertion: it will be compelling for those to whom it is compelling."

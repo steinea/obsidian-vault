@@ -1,0 +1,41 @@
+---
+layout: entry
+category: commonplace
+author: Adam Gopnik
+title: The Troubling Genius of G. K. Chesterton
+publication: The New Yorker
+link: https://www.newyorker.com/magazine/2008/07/07/the-back-of-the-world
+date: 2015-05-06
+---
+
+"'“The Man Who Was Thursday' is one of the hidden hinges of twentieth-century writing, the place where, before our eyes, the nonsense-fantastical tradition of Lewis Carroll and Edward Lear pivots and becomes the nightmare-fantastical tradition of Kafka and Borges. It is also, along with Chesterton’s “The Napoleon of Notting Hill,” the nearest thing that this masterly writer wrote to a masterpiece."
+
+"The last generation of writers who had anything like the same signature presence were the Americans who first encountered television, in the fifties—Mailer and Capote and Vidal—and for the same reason: they lent prestige to a new mass medium that hadn’t yet learned how easily it could get along without them."
+
+"Chesterton’s point is that childhood is not a time of illusion but a time when illusion and fact exist (as they should) at the same level of consciousness, when the story and the world are equally numinous"
+
+"'I have a notion that the real advice I could give to a young journalist, now that I am myself an old journalist, is simply this: to write an article for the Sporting Times and another for the Church Times, and put them into the wrong envelopes.'"
+
+"Most of the inconveniences that make men swear or women cry are really sentimental or imaginative inconveniences—things altogether of the mind. For instance, we often hear grown-up people complaining of having to hang about a railway station and wait for a train. Did you ever hear a small boy complain of having to hang about a railway station and wait for a train? No; for to him to be inside a railway station is to be inside a cavern of wonder and a palace of poetical pleasures. Because to him the red light and the green light on the signal are like a new sun and a new moon. Because to him when the wooden arm of the signal falls down suddenly, it is as if a great king had thrown down his staff as a signal and started a shrieking tournament of trains. I myself am of little boys’ habit in this matter. They also serve who only stand and wait for the two fifteen."
+
+"An adventure is only an inconvenience rightly considered. An inconvenience is only an adventure wrongly considered."
+
+"Chesterton liked to pair himself, congenially, with Shaw, as his opposite, and he was right to do so, for they were the two most perceptive critics of capitalism in their decade. The chief bourgeois vices are hypocrisy and homogenization. Mercantile capitalist societies profess values that their own appetites destroy; calls for public morality come from the same people who use prostitutes. Meanwhile, the workings of capital turn the local artisan into a maker of mass-produced objects and every high street into an identical strip mall. Shaw is the great critic of the hypocrisy of bourgeois society—its inconsistencies and absurdities, the way it robs the poor and then demands that they be “deserving.” Chesterton is the great critic of its homogenization, the levelling of difference in the pursuit of cash. He is the grandfather of Slow Food, of local eating, of real ale, the first strong mind that saw something evil in the levelling of little pleasures."
+
+"'A city is, properly speaking, more poetic even than a countryside, for while nature is a chaos of unconscious forces, a city is a chaos of conscious ones. The crest of the flower or the pattern of the lichen may or may not be significant symbols. But there is no stone in the street and no brick in the wall that is not actually a deliberate symbol—a message from some man, as much as if it were a telegram or a post card.'"
+
+"'Anarchism,' for Chesterton, has the same resonance that 'terrorism' has for English writers like Amis and Hitchens exactly a century later: it represents a kind of vengeful, all-devouring nihilism that is assumed to be pervasive and—this is the crucial thing—profoundly seductive, sweeping through whole classes, of intellectuals, or immigrants, or, especially, immigrant intellectuals."
+
+"Where the ordinary liberal scoffs at the idea that apocalyptic terror represents a real threat to his society, the awakened humanist, like Syme the poet-policeman or Chesterton himself, believes that everyone else has missed the reality, by refusing to accept how plausible and alluring the argument for destruction is."
+
+"Yet Chesterton still had his wits about him, and recognizes, at the end of his book, that the demon-terrorists are largely a projection of the policeman’s mind. Or is it, perhaps, that the anarchists, who are really policemen, secretly wish to be anarchists? This double vision, where the appetite for romantic violence is imagined as the flip side of the desire for absolute order, gives the book its permanence."
+
+"His defenders insist that, whatever harm he did to himself and his reputation by his prejudices, the often long, always didactic, and specifically Catholic books to which he devoted himself after his conversion more than make up for it, since they are both profound and genuinely universal, insisting on a pan-national commonality in the true faith. I have had these books—'The Everlasting Man,' a study of Jesus and Christianity; his life of St. Francis; his defense of Thomas Aquinas—pressed on me by Catholic friends with something like the same enthusiasm with which I have proselytized for the pre-Catholic Chesterton."
+
+"Nobody gets up on a soapbox and shouts about the comfort of his sofa and chairs. He just invites other people to sit in them."
+
+"There are two great tectonic shifts in English writing. One occurs in the early eighteenth century, when Addison and Steele begin The Spectator and the stop-and-start Elizabethan-Stuart prose becomes the smooth, Latinate, elegantly wrought ironic style that dominated English writing for two centuries. Gibbon made it sly and ornate; Johnson gave it sinew and muscle; Dickens mocked it at elaborate comic length. But the style—formal address, long windups, balance sought for and achieved—was still a sort of default, the voice in which leader pages more or less wrote themselves."
+
+"The second big shift occurred just after the First World War, when, under American and Irish pressure, and thanks to the French (Flaubert doing his work through early Joyce and Hemingway), a new form of aerodynamic prose came into being. The new style could be as limpid as Waugh or as blunt as Orwell or as funny as White and Benchley, but it dethroned the old orotundity as surely as Addison had killed off the old asymmetry. Chestertonian mannerisms—beginning sentences with 'I wish to conclude' or 'I should say, therefore' or 'Moreover,' using the first person plural un-self-consciously ('What we have to ask ourselves . . .'), making sure that every sentence was crafted like a sword and loaded like a cannon—appeared to have come from some other universe. Writers like Shaw and Chesterton depended on a kind of comic and complicit hyperbole: every statement is an overstatement, and understood as such by readers. The new style prized understatement, to be filled in by the reader. What had seemed charming and obviously theatrical twenty years before now could sound like puff and noise. Human nature didn’t change in 1910, but English writing did. (For Virginia Woolf, they were the same thing.) The few writers of the nineties who were still writing a couple of decades later were as dazed as the last dinosaurs, post-comet. They didn’t know what had hit them, and went on roaring anyway."
+
+"We can take the belief in that puppet to be a delusion, as the rationalists did. Or we can take it to be an intimation, as Chesterton did, of the existence of another world, in which the things that we sense as shadows will become real, and we will see ourselves as puppets that have come alive in the hand of God. Or we can believe that the credit we give the puppet show is the credit it deserves, that the wonder of it cannot be explained, up or down, but only experienced; that the side we see is the side there is to look at, and that the white radiance of wonder shines from inside, which is where the light is."

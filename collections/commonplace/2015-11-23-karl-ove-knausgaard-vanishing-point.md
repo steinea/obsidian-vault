@@ -1,0 +1,31 @@
+---
+layout: entry
+category: commonplace
+author: Karl Ove Knausgaard
+title: Vanishing Point
+publication: The New Yorker
+link: https://www.newyorker.com/books/page-turner/vanishing-point
+date: 2015-11-23
+---
+
+"To me, as I sit here at my desk, all this is but a series of images in the mind, conceptions, imagination."
+
+"In our humanity, there is a vanishing point. We step in and out of it; it’s a kind of zone in which we shift in each other’s perspective from definite to indefinite, and vice versa. This vanishing point has to do with remoteness and is inevitable. The indefinite human, faceless and devoid of character, the mass human, lives its life in patterns by which it is bound and is the material of statistics."
+
+"These movements can easily be simulated by a computer with few variables, for regardless of what we think about as we cross the frozen waters on our way home to our flat, regardless of how utterly original our thoughts might be as we bow our heads and stare down at the trampled snow, we are at the same time completely predictable, always part of some greater movement, like a bird in an enormous flock suddenly changing direction as one and resembling, at that moment, a great, waving hand."
+ 
+"But such a perspective, whereby we view human beings as part of a mass rather than as unique individuals, may also be a strategy by which soldiers are trained so as to be able to kill, and it is a prerequisite of all massacres, as it was, for instance, in the Germany of the Second World War, when the Jews were deprived of their identity, first at the national, then the individual level, their names replaced by numbers, each individual scraped into the nameless, faceless mass to be slaughtered like sheep or cattle, gassed or burned as creatures without identity. And of course the same goes for the inhabitants of Dresden or Hiroshima, wiped out by bombs from above, but tiny dots to their executioners, figures in a calculation thereby concluded."
+
+"There is a vanishing point in our humanity, a point at which the other goes from being definite to indefinite. But this point is also the locus for the opposite movement, in which the other goes from indefinite to definite—and if there is an ethics of the novel, then it is here, in the zone that lies between the one and the all, that it comes into force and takes its basis."
+
+"The novel is an oddly intimate genre: at root, it is always a matter between two individuals, writer and reader, whose first encounter occurs when the writer writes—for in writing, the very act of it, there is always an appeal to a you, redeemed only by the insertion of a reader. This you may be inserted at any time, even hundreds of years after the event of writing, the way, for instance, we might read a novel written in seventeenth-century Spain, or eighteenth-century Russia, or early-twentieth-century Germany, and yet still induce the voice of the self to rise anew within us, remoteness dissolving."
+
+"The difference between engaging with a real neighbor and one in a novel is that the former occurs in the social sphere, within the boundaries of its rules and practical constraints, whereas the latter occurs outside of it, in the reader’s own most private, intimate sphere, where the rules that govern our social interaction do not apply and its practical constraints do not exist."
+
+"Only there, in that encounter, are we able to see the concept of the social and see exactly what it is. And only there, in that encounter, are we able to see what a human being is outside of that concept, in itself and on its own terms. This space—that is, the novel’s—is idiosyncratic, particular, and singular: in other words, it represents the exact opposite of the media, which strives toward the universal and general."
+
+"When the German philosopher Hannah Arendt, in “The Life of the Mind,” wrote, “Clichés, stock phrases, adherence to conventional, standardized codes of expression and conduct have the socially recognized function of protecting us against reality,” she was writing about Adolf Eichmann, but the sentence is valid far beyond that one case, and far beyond the time to which he belonged. For the need to protect oneself against reality is constant, and the remoteness established by standardized language and a standardized form is something all communities strive toward, even if they may not be aware of it."
+
+"We have an image, too, of the man from whose regime he fled, Adolf Hitler, and it is an image we view from a very remote distance, insofar as we feel compelled to protect ourselves from what he represented. If we allowed that remoteness to dissolve, what we would see would no longer be the very image of evil, but a boy growing up in Austria with a violent, authoritarian father and a mother whom he loved. We would see a sixteen-year-old so shy he hadn’t the courage to speak to a girl with whom he was in love, able only to profess his feelings by sending an anonymous card. We would see a man who, in order to survive, distanced himself from all in his proximity. We would see a man who loved cakes and was so fond of sugar he put it in even the most expensive of white wines. We would see a man with a gift of imitating others, who was especially good at putting on the accent of Göring’s Swedish wife. We would see a man who, in an astonishingly skillful manner, was able to pick up on popular currents of opinion and give voice to them in near-perfect pitch. We would also see a petty, mean-spirited man, a man who felt himself hard done by, an insufferably self-important man who always believed himself to know better. And we would see a man who, more than anything else, hated Jews, a hatred that would seem to defy explanation—all of a sudden, it was there in his life, hideous and repugnant. If we were to do this, we would see a human being."
+
+"This human being would, moreover, be conjoined with all other human beings around him: it wasn’t just Hitler who had a violent and authoritarian father and who loved his mother, who felt himself drawn toward art and music, who saw his friends die in the trenches, saw the heaps of corpses, everywhere, every day, for as long as that war endured. Hitler was part of a generation and a culture that shared the same basic experiences and which comprised a society that collapsed into barbarism."

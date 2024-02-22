@@ -1,0 +1,15 @@
+---
+layout: entry
+category: commonplace
+author: Kevin Berger
+title: The Ingenious Mazviita Chirimuuta
+publication: Nautilus
+link: https://nautil.us/issue/26/color/ingenious-mazviita-chirimuuta
+date: 2015-07-13
+---
+
+"I think of color as a property, or something that can only be understood in terms of the particular ways that we interact with the world. That’s my way of saying that we should try and see those inner and outer domains as not as separate from each other as we think. Really, there’s this constant back and forth between the two and that’s how visual experience is generated, and knowledge maybe more generally."
+
+ "The way the debate has standardly gone is to say, “well, if color is anything, if color exists, then it’s a property of objects.” So if you’re a realist, you’ll say “yeah, the maroon property belongs to this seat; the whiteness property belongs to that wall.” If you’re an anti-realist, you’ll just say “no, no objects have those properties; color doesn’t exist.” What I’ve done is say that actually, a better way of thinking about color is not as a property of objects, but as a property of interactions that perceivers have with objects. In my view, which is the view I call color adverbialism, there are perceptual processes that are going on all the time. Every time we look around a room, light’s bouncing off the walls into my eyes and my brain’s processing this information and I’m saying that that whole extended interaction between myself and my surroundings, that’s the thing that has color, not the objects that I see. So when I talk about what’s there in my surroundings, I say that color is my way of seeing those things, so I see that wall in a white way, so really the whiteness is modifying that perceptual experience. It’s more a property of the experience or that process, that activity I’m doing, rather than the wall itself."
+ 
+"In terms of talking about experience and how it’s become different over time, I think it’s really interesting to look at the cultural evolution of color. If we just look at the history of Western civilization, or if we look at texts from ancient Greece, how color is written about is very different from how we would write and think about color now, which suggests that people experienced the visual world—at least to describe it—in a way that was quite different. For example, they would group colors, certain colors, together that we would think are different. A famous phrase in Homer, “the wine dark sea”—when we read that we think well, the sea’s blue, it’s not red. But the word that he was using was probably for some dark shade that wasn’t associated with blue or red and those hues, but actually was more about the tonality of color; whereas, our color concepts are much more tied to hues, you know, those color boxes and those crayons that we remember from children. That’s our primary means of grasping color concepts—it’s specific rainbow shades; whereas other cultures pay more attention to light and darkness and also material qualities of color like how shiny and dull they are."

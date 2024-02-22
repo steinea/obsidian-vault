@@ -1,0 +1,31 @@
+---
+layout: entry
+category: commonplace
+author: Mark Linsenmayer
+title: Quine on Language, Logic, and Science
+publication: Partially Examined Life
+link: https://partiallyexaminedlife.com/2012/10/17/topic-for-66-quine-on-language-logic-and-science/
+date: 2017-01-25
+---
+
+Willard Van Orman Quine (1908–2000) was a prototypical American analytic philosopher. Following Frege, Russell, and Wittgenstein, he was concerned with how logic provides a foundation for mathematics, which in turn grounds physics and the other sciences.
+
+We'll be reading two of his most famous essays, both of which can be found in the collection, From a Logical Point of View (1953): "On What There Is" and "Two Dogmas of Empiricism."
+
+"On What There Is" (1948) discusses the ontological commitments of various theories, i.e. what entities these theories allege to exist. We know, for instance, that a word can refer to an object, but what if, as in the case of "Pegasus," we know that there's no such object? Frege said that the word still has a "sense," and that moreover when two designations like "Superman" and "Clark Kent" refer to the same person, those terms still have different "senses." Well, is the "sense" an object too? Frege is often accused of being a Platonist about senses and other abstract entities, meaning that while these don't exist in space and time, they still exist in some sense, i.e. they have to be part of our ontology, our metaphysics.
+
+Quine wants us to have as small an ontology as we need to support the sciences. While he doesn't in this essay end up giving us an ontology, he does give us a formula for determining what ontological commitments a theory has. Just because we have a name Pegasus in our language doesn't mean we're committed to any creature picked out by that name, because (following Russell's theory of definite descriptions) we can analyze a claim about Pegasus as saying "For all x, if x is a horse with wings, then such and such will be true of it." There simply is no such x, yet we still understand the name, because we understand the description. The ontology of a theory is just the range of entities that "x" here draws from: "To be assumed as an entity is, purely and simply, to be reckoned as the value of a variable. In terms of the categories of traditional grammar, this amounts roughly to saying that to be is to be in the range of reference of a pronoun." This might sound uninformative, but it provides a helpful way to think about theories: does my theory require that numbers, or universal concepts, or linguistic meanings, or quarks for that matter are real or not? Well, can I analyze statements made in the course of the theory such that I can omit explicit reference to those entities? This may require heavy-duty logical analysis.
+
+In "Two Dogmas of Empiricism" (1951), Quine focuses on the notion of meaning. In keeping with his small-ontology philosophy (and an affection for behaviorism), he doesn't like the division that thinkers since Kant had made between claims whose truth or falsity is a matter of the state of the world ("all bachelors are tidy"), and those made true (or not) by virtue of the meanings of words ("all bachelors are unmarried"); this is also known as the analytic/synthetic distinction. Quine thinks defining "analytic" is problematic: we can try to define it in terms of synonymy (words with the same meaning), but end up in a circle. Instead, Quine thinks that supposedly analytic claims really can be (rationally) changed in light of experience, and conversely that any claim can be held even in the face of counter-evidence. This is because our beliefs are a web, with some of them closer to the data of particular experiences and some of them (like the laws of logic, basic laws of science, and our definitions) closer to the center of that web.
+
+The second "dogma" has to do with the behaviorist attempt to define meaning in terms of behavior, i.e. we can tell what a word means by how it is used, like what perceptual experiences it goes with. Despite his behaviorist suspicion of terms like "meaning" (which connotes some entity that he doesn't want in his ontology, while "significance," he thinks does not), he doesn't think that this kind of reduction works, even in principle.
+
+Buy the book or read the essays online here and here.
+
+Both of these essays have been heavily anthologized and discussed in analytic philosophy circles. A famous response to "Two Dogmas" that you may want to look at is "In Defense of a Dogma," by H.P. Grice and P.F. Strawson, which is outlined here. The thrust of their argument is that Quine is being too restrictive in what counts for an adequately clear term, and that we understand "meaning" enough to go on using it just fine.
+
+Both of Quine's essays can be seen as in dialogue with Rudolph Carnap, a student of Frege's whose Aufbau project we'll be looking at for ep. 67. This project was reductionist, and did rely on analyticity. In responding to "On What There is," Carnap wrote "Empiricism, Semantics, and Ontology" (1950); listeners can get the gist just by reading sections 1-3. Carnap thought that explanatory theories in whatever realm don't make ontological commitments in the old-style metaphysical sense, because all those old-style questions are meaningless. So a framework of explanation can refer to numbers or properties or sets or physical objects for that matter, meaning that, within that framework, yes, those things "exist" by definition. But do they really exist? Are numbers real? It's a foolish and meaningless question.
+
+Carnap also responded to the attack on analyticity by challenging Quine's claims about changing beliefs in light of evidence. The easiest way to get a handle on this is to read David Chalmers's account of this; sections 1 and 2 of that essay are sufficient to give Carnap's response, while the rest of the essay grapples with the positive challenge for Carnap then in distinguishing between cases where a belief in light of evidence really changes from cases where the belief stays the same but the definitions of the words involve change.
+
+Listeners may also be interested in Quine's own assessment of his "Two Dogmas" essay much later in his life (1991): "Two Dogmas in Retrospect."

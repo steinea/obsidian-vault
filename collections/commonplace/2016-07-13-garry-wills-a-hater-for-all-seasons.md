@@ -1,0 +1,22 @@
+---
+layout: entry
+category: commonplace
+author: Garry Wills
+title: A Hater for All Seasons
+publication: New York Review of Books
+link: http://www.nybooks.com/daily/2016/06/29/trump-eliot-objective-correlatives-hater-for-all-seasons/
+date: 2016-07-13
+---
+
+“T. S. Eliot popularized the notion of “an objective correlative”—what he described as “a set of objects, a situation, a chain of events” that becomes the “formula” that anchors what would otherwise just be fugitive emotions of fear, suspicion, and belief. Eliot was speaking in aesthetic terms, where the objective correlative was not meant to convey truths but to carry instantly felt emotions. This is a form of artistry that, translated into the realm of political speech, Trump has mastered. He partly disguises but enhances the force of a whole series of interlocking hates—black hate, Muslim hate, woman hate, and “Mexican” hate—by giving each an objective correlative.”
+
+“Black Hate. Trump first stumbled on the power of his objective correlatives in 2011, when he said he had sent private investigators to Hawaii to expose Obama’s birth certificate fraud. These fictitious investigators of a fictitious crime are typical of the way Trump creates a concrete image to let people fill with whatever uneasinesses they feel about a person. He does not have to say outright that Obama should not be in the White House because he is black. The objective correlative is like a Rorschach ink blot. People will see different things in it.”
+
+“Muslim Hate. Trump has famously called for Muslims to be kept from entering the United States—an idea he reasserted after the mass shooting in Orlando. He did not bring this notion out of nowhere. It was prepared for last November, when Trump claimed he saw thousands of New Jersey’s “Arab population” cheering when the World Trade Center towers came down. There is no evidence this occurred, but he has never renounced the notion. It is too effective. It hits several nerves—the notion that there is an “enemy within” our country; that we are not the aggressors, they are; that they can be known by giveaway looks; that their ethnicity and or religion are accountable in ways that do not need to be spelled out. Trump’s cheering thousands work so effectively because they are an objective correlative for all the feelings of xenophobia, religious fear, frightened patriotism, and anti-mob mobism that could not be better triggered. It works.”
+
+“Women Hate (sometimes known as Hillary Hate). Trump, of course, loves women—as long as they are blonde, slim, have “a great rack” (no flat-chested woman can be a “ten”), and never contradict him. There are many men who “love women” in this way, and do not realize that this is a particularly virulent form of misogyny. If a woman puts on weight, she is a pig (like Rosie O’Donnell); if she is mean, it is because she is menstruating (like Megyn Kelly); if she is late, it is because she is urinating (like Hillary Clinton). Trump is a notorious clean freak, in need of constant Purell-ing. Women are too messy for him. They secrete too much—tears, menstrual blood, urine. He comes naturally by his objective correlative for misogyny—his busty and subservient blonde wives are the norm against which he can dismiss or despise any other kind of women.”
+
+““Mexican” Hate. Trump thinks of all people from Latin America as Mexicans, and of most Mexicans as undesirables. They not only take “our” jobs. They take our women. They are “rapists.” This is the oldest way of vilifying an enemy. The Antebellum South maintained its anti-black rigor by a sedulously cultivated fear that blacks were about to rape your wife or sister or daughter. Maine Governor Paul LePage recently drew on this old trope when he pledged to protect the “young white girls” of his state from Connecticut or New York heroin dealers who come to “impregnate” them. List all the ways you can brand supposed inferiors—they are lazy, thieving, greedy, dishonest, gluttonous. These are all harsh judgments. But add “rapists” to the list and it jumps out and stays as the most vivid and instantaneously tainting. That is why “Mexican rapists” works so well as the kind of objective correlative Trump knows how to use.”
+
+“Trump’s use of objective correlatives lets him avoid expressing hate openly except for about things everyone is opposed to—and allows him to adjust the meaning of his hate depending on his current poll numbers.”
+

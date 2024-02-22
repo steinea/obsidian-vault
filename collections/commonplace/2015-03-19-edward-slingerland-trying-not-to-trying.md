@@ -1,0 +1,29 @@
+---
+layout: entry
+category: commonplace
+author: Edward Slingerland
+title: Trying Not to Try
+publication: Nautilus
+link: https://nautil.us/issue/22/slow/trying-not-to-try
+date: 2015-03-19
+---
+
+"When I first began cutting up oxen, all I could see was the ox itself. After three years, I no longer saw the ox as a whole. And now—now I meet it with my spirit and don’t look with my eyes. My senses and conscious awareness have shut down and my spiritual desires take me away. I follow the Heavenly pattern of the ox, thrusting into the big hollows, guiding the knife through the big openings, and adapting my motions to the fixed structure of the ox. In this way, I never touch the smallest ligament or tendon, much less a main joint."
+
+"The result is that Butcher Ding is not so much cutting up the ox as releasing its constituent parts, letting the razor-sharp edge of his cleaver move through the spaces between the bones and ligaments without encountering the slightest resistance."
+
+"wu-wei, or effortless action. Wu-wei literally translates as “no trying” or “no doing,” but it’s not at all about dull inaction. In fact, it refers to the dynamic, spontaneous, and unselfconscious state of mind of a person who is optimally active and effective. For a person in wu-wei, proper and effective conduct follows as automatically as the body gives in to the seductive rhythm of a song. This state of harmony is both complex and holistic, involving as it does the integration of the body, the emotions, and the mind."
+
+"Just as Butcher Ding’s blade remains razor-sharp because it never touches a bone or ligament—moving only through the gaps in between—so does the wu-wei person move only through the open spaces in life, avoiding the difficulties that damage one’s spirit and wear out one’s body."
+
+"There is now general agreement that human thought is characterized by two distinct systems that have very different characteristics. The first and most important of these (tacit, hot cognition, or “System 1”) is fast, automatic, effortless, and mostly unconscious, corresponding roughly to what we think of as “the body” and what the Zhuangzi calls the “Heavenly mechanism.” The second (explicit, cold cognition, or “System 2”) is slow, deliberate, effortful, and conscious, corresponding roughly to our “mind”—that is, our conscious, verbal selves."
+
+"So if I say that I had to force myself not to reach for that second helping of tiramisu, there is a more than metaphorical struggle going on. My conscious, cold system, which is concerned about long-range issues like health and weight gain, is fighting to control the more instinctive hot system, which really likes tiramisu and doesn’t share my cold system’s concerns about the consequences."
+
+"This isn’t because hot cognition doesn’t take future consequences into account. The problem is that this system’s conception of relevant consequences was fixed a long time ago, evolutionarily speaking, and is fairly rigid. “Sugar and fat: good” was for most of our evolutionary history a great principle to live by, since acquiring adequate nutrition was a constant challenge. Today, on the contrary, allowing ourselves to indulge in them to excess has a variety of negative consequences. The great advantage of cold cognition is that it is capable of changing its priorities in light of new information. So another way to think about how the systems differ is that hot cognition is evolutionarily older and more rigid, while cold cognition is evolutionarily newer and more flexible—and therefore more likely to adapt to novel behavioral consequences."
+
+"So although talk of “mind” and “body” is technically inaccurate, it does capture an important functional difference between two systems: a slow, cold, conscious mind and a fast, hot, unconscious set of bodily instincts, hunches, and skills. “We” tend to identify with the cold, slow system because it is the seat of our conscious awareness and our sense of self. Beneath this conscious self, though, is another self—much bigger and more powerful—that we have no direct access to. It is this deeper, more evolutionarily ancient part of us that knows how to spit and move our legs around. It’s also the part that we are struggling with when we try to resist that tiramisu or drag ourselves out of bed for an important meeting."
+
+"The goal of wu-wei is to get these two selves working together smoothly and effectively. For a person in wu-wei, the mind is embodied and the body is mindful; the two systems—hot and cold, fast and slow—are completely integrated."
+
+"In the Stroop task presented above, you were asked to read the word LOWER but say the word upper. The ACC lets the lateral PFC know about the conflict between your perception of the word’s case and your knowledge of the word’s meaning. The lateral PFC then draws upon its understanding of what the task requires—you’ve been asked to say aloud the case, not read the word itself—and decides that saying “upper” should take precedence. It then sends a signal telling the visual system, which detects case, to get on with its business; this strengthening of the visual system encourages the word recognition system to just shut up. This whole rigmarole is what results in the slight delay and the feeling of effort that you don’t get when the word lower is actually printed in lowercase letters. In the latter case, the two regions work together happily, the ACC conflict detector is not activated, and the lateral PFC is not called upon to adjudicate between squabbling sets of neurons. You can also get a sense of what cognitive control feels like internally if you think about the process of learning a new skill (driving, kayaking, whatever). In the early stages, constant vigilance and effort are required (the ACC and lateral PFC are very active), but as you master the skill, control gets passed to subconscious, automatic systems, and your conscious mind is now freed for other tasks."
