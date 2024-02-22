@@ -6,7 +6,7 @@ const openPublishPanel = app.commands.commands["publish:view-changes"].callback;
 const fileAndQuery = new Map([
   [
 	"dataview-activity",
-	'LIST FROM "dataview/activity" AND -"dataview/activity/playingcompleted" AND -"dataview/activity/playingmost" AND -"dataview/activity/playingnext" AND -"dataview/activity/playingnow" AND -"dataview/activity/playingshortest" AND -"dataview/activity/playingstopped" AND -"dataview/activity/watchingfilm" AND -"dataview/activity/watchingtelevision" SORT file.name ASC',
+	'LIST FROM "dataview/activity" AND -"dataview/activity/playingcompleted" AND -"dataview/activity/playingmost" AND -"dataview/activity/playingnext" AND -"dataview/activity/playingnow" AND -"dataview/activity/playingshortest" AND -"dataview/activity/playingstopped" AND -"dataview/activity/playingwishlist" AND -"dataview/activity/watchingfilm" AND -"dataview/activity/watchingtelevision" SORT file.name ASC',
   ],
   [
 	"dataview-collections",
@@ -41,19 +41,19 @@ const fileAndQuery = new Map([
   ],
   [
 	"playingnow",
-	'TABLE WITHOUT ID file.link AS "Now", platform AS Platform, duration.hours AS "Hours", trophies AS Trophies FROM "constellation/games" WHERE progress = "now" SORT duration DESC',
+	'TABLE WITHOUT ID file.link AS "Game", platform AS Platform, duration.hours AS "Hours", trophies AS Trophies FROM "constellation/games" WHERE progress = "now" SORT duration DESC',
   ],
   [
 	"playingnext",
-	'TABLE WITHOUT ID file.link AS "Next", platform AS Platform, howlongtobeat.hours AS "Hours" FROM "constellation/games" WHERE progress = "next" SORT platform, file.name ASC',
+	'TABLE WITHOUT ID file.link AS "Game", platform AS Platform, howlongtobeat.hours AS "Hours" FROM "constellation/games" WHERE progress = "next" SORT platform, file.name ASC',
   ],
   [
 	"playingcompleted",
-	'TABLE WITHOUT ID file.link AS "Completed", platform AS Platform, duration.hours AS "Hours", trophies AS Trophies, date AS Date FROM "constellation/games" WHERE progress = "complete" SORT date DESC',
+	'TABLE WITHOUT ID file.link AS "Game", platform AS Platform, duration.hours AS "Hours", trophies AS Trophies, date AS Date FROM "constellation/games" WHERE progress = "complete" SORT date DESC',
   ],
   [
 	"playingstopped",
-	'TABLE WITHOUT ID file.link AS "Stopped", platform AS Platform, duration.hours AS "Hours", trophies AS Trophies, date AS Date FROM "constellation/games" WHERE progress = "stopped" SORT file.name ASC',
+	'TABLE WITHOUT ID file.link AS "Game", platform AS Platform, duration.hours AS "Hours", trophies AS Trophies, date AS Date FROM "constellation/games" WHERE progress = "stopped" SORT file.name ASC',
   ],
   [
 	"playingmost",
@@ -62,6 +62,10 @@ const fileAndQuery = new Map([
   [
 	"playingshortest",
 	'TABLE WITHOUT ID file.link AS "Shortest", platform AS Platform, howlongtobeat.hours AS "Hours" FROM "constellation/games" WHERE progress = "next" SORT howlongtobeat ASC LIMIT 10',
+  ],
+  [
+	"playingwishlist",
+	'TABLE WITHOUT ID file.link AS "Game", platform AS Platform, howlongtobeat.hours AS "Hours" FROM "constellation/games" WHERE progress = "wishlist" SORT file.name ASC',
   ],
   [
     "posting",
@@ -152,6 +156,10 @@ const fileAndQuery = new Map([
   [
 	"personality",
 	'TABLE WITHOUT ID file.link AS "Personality", date AS Date FROM "collections/personality" SORT date DESC',
+  ],
+  [
+	"playlists",
+	'TABLE WITHOUT ID file.link AS "Playlists", date AS Date FROM "collections/playlists" SORT date DESC',
   ],
   [
 	"study",
