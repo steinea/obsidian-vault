@@ -89,7 +89,7 @@ const fileAndQuery = new Map([
   ],
   [
 	"watchingtelevision",
-	'TABLE WITHOUT ID file.link AS "Television", rating AS Rating, liked AS Liked, date AS Date FROM "activity/watching" WHERE category = "television" SORT date DESC',
+	'TABLE WITHOUT ID file.link AS "Television", date AS Date FROM "activity/watching" WHERE category = "television" SORT date DESC',
   ],
 
 // Blog dataview maps
