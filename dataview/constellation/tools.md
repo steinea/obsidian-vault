@@ -29,6 +29,8 @@
 | [[constellation/tools/Obsidian Digital Garden.md\|Obsidian Digital Garden]]               |
 | [[constellation/tools/PC Performance Strategy.md\|PC Performance Strategy]]               |
 | [[constellation/tools/Picrew.md\|Picrew]]                                                 |
+| [[constellation/tools/PS3.md\|PS3]]                                                       |
+| [[constellation/tools/PS4.md\|PS4]]                                                       |
 | [[constellation/tools/Publish.md\|Publish]]                                               |
 | [[constellation/tools/QuickAdd.md\|QuickAdd]]                                             |
 | [[constellation/tools/Rebuilding Tech.md\|Rebuilding Tech]]                               |

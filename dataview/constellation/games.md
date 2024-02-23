@@ -56,6 +56,7 @@
 | [[constellation/games/Dorfromantik.md\|Dorfromantik]]                                                           |
 | [[constellation/games/Dragon Age Inquisition.md\|Dragon Age Inquisition]]                                       |
 | [[constellation/games/Dragon's Dogma Dark Arisen.md\|Dragon's Dogma Dark Arisen]]                               |
+| [[constellation/games/Drakengard 3.md\|Drakengard 3]]                                                           |
 | [[constellation/games/Dwarf Fortress.md\|Dwarf Fortress]]                                                       |
 | [[constellation/games/EA SPORTS FC 24.md\|EA SPORTS FC 24]]                                                     |
 | [[constellation/games/EA SPORTS FC 25.md\|EA SPORTS FC 25]]                                                     |
@@ -205,4 +206,5 @@
 | [[constellation/games/Wild Hearts.md\|Wild Hearts]]                                                             |
 | [[constellation/games/Wingspan Digital Edition.md\|Wingspan Digital Edition]]                                   |
 | [[constellation/games/Wo Long Fallen Dynasty.md\|Wo Long Fallen Dynasty]]                                       |
+| [[constellation/games/YoRHa Dark Apocalypse.md\|YoRHa Dark Apocalypse]]                                         |
 | [[constellation/games/Zork.md\|Zork]]                                                                           |

@@ -21,3 +21,4 @@
 | [[constellation/people/Søren Kierkegaard.md\|Søren Kierkegaard]]         |
 | [[constellation/people/Tetsuya Nomura.md\|Tetsuya Nomura]]               |
 | [[constellation/people/Wilfrid Sellars.md\|Wilfrid Sellars]]             |
+| [[constellation/people/Yoko Taro.md\|Yoko Taro]]                         |

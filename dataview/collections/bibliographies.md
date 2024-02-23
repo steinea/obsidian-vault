@@ -26,6 +26,10 @@
 | [[collections/bibliographies/2023-02-24-mountain-literature.md\|2023-02-24-mountain-literature]]                 | 2023-02-24 |
 | [[collections/bibliographies/2023-02-07-ultra-prominent-peaks.md\|2023-02-07-ultra-prominent-peaks]]             | 2023-02-07 |
 | [[collections/bibliographies/2023-02-07-franchise-studies.md\|2023-02-07-franchise-studies]]                     | 2023-02-07 |
+| [[collections/bibliographies/2023-02-03-necessary-fictions.md\|2023-02-03-necessary-fictions]]                   | 2023-02-03 |
+| [[collections/bibliographies/2023-01-31-close-reading.md\|2023-01-31-close-reading]]                             | 2023-01-31 |
+| [[collections/bibliographies/2023-01-26-long-distance.md\|2023-01-26-long-distance]]                             | 2023-01-26 |
+| [[collections/bibliographies/2023-01-26-reader-response.md\|2023-01-26-reader-response]]                         | 2023-01-26 |
 | [[collections/bibliographies/2023-01-20-game-histories.md\|2023-01-20-game-histories]]                           | 2023-01-20 |
 | [[collections/bibliographies/2023-01-19-theoretical-biology.md\|2023-01-19-theoretical-biology]]                 | 2023-01-19 |
 | [[collections/bibliographies/2023-01-15-platform-hermeneutics.md\|2023-01-15-platform-hermeneutics]]             | 2023-01-15 |
