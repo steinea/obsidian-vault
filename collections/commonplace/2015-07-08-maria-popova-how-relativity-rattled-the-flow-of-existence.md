@@ -8,6 +8,8 @@ link: https://www.themarginalian.org/2015/05/07/rebecca-goldstein-incompleteness
 date: 2015-07-08
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "however convincing our intuitive sense that time is a mutable abstraction shaped by the subjective grab-bag of attributes and experiences we call the self, there remains the empirical nature of time as a measurable, observable, concrete dimension of reality — and the rift between these two conceptions of time is one of the most disorienting yet fascinating aspects of existence."
  
 "The nature of reality that spills forth from Einstein’s physics is so much more startling than the simplistic, undergraduate-beloved shibboleth: everything is relative to subjective points of view. In Einstein’s physics, there is no passage of time, no unidirectional flow from the fixed past and toward the uncertain future. The temporal component of space-time is as static as its spatial components; physical time is as still as physical space. It is all laid out, the whole spread of events, in the tenseless four-dimensional space-time manifold."

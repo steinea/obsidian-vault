@@ -8,6 +8,8 @@ link: https://lareviewofbooks.org/article/in-an-empire-of-the-dead-stone/
 date: 2015-07-20
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "we turn toward things when words won’t do"
 
 "we find voice in the material world and its muteness"

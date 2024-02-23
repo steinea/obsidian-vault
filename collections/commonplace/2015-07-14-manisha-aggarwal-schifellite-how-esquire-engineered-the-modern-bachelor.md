@@ -8,6 +8,8 @@ link: https://www.theawl.com/2015/07/how-esquire-engineered-the-modern-bachelor/
 date: 2015-07-14
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "the baby boomer period of the late forties and fifties ushered in a new era of suburban development and a return to an idyllic family structure that the government promoted as socially and economically necessary for defeating communism. Women were encouraged to leave the jobs they had held throughout the war, and men were encouraged to take on the breadwinner role and aggressively retain the masculinity of wartime heroism."
  
 "Ultimately, these cultural critics decided that if men couldn’t control their work or their home lives, they would become emasculated sissies and the nation would fall apart."

@@ -8,6 +8,8 @@ link: https://aeon.co/opinions/cosmologists-should-be-more-skeptical-of-dark-mat
 date: 2015-11-30
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "Back in 1620, Francis Bacon published his Novum Organum (The New Method). In his description of how to investigate nature, he cautioned would-be scientists about four ‘idols of the mind’."
  
 "Idola tribus (idols of the tribe) – which occur when people try to feed new facts into their preconceived ideas. ‘The human understanding is like a false mirror,’ Bacon wrote, ‘which, receiving rays irregularly, distorts and discolours the nature of things by mingling its own nature with it.’"

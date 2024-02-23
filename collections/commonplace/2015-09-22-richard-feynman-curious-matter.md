@@ -8,6 +8,8 @@ link: https://www.preposterousuniverse.com/blog/2013/09/04/atoms-with-consciousn
 date: 2015-09-22
 ---
 
+[[2015]] / [[commonplace]] / 
+
 There are the rushing waves
 <br>mountains of molecules
 <br>each stupidly minding its own business

@@ -8,6 +8,8 @@ link: http://aeon.co/magazine/society/what-next-for-the-egyptian-revolution/
 date: 2015-11-05
 ---
 
+[[2015]] / [[commonplace]] / 
+
 “The modern Egyptian state was not founded on the flimsiest notion of constitutionalism or the rule of law. We entered into no social contract that tied us to our ruler, who descended on us with his ilk like vultures ravaging town and country.
 
 It is a state that has repeatedly failed its citizens, is inherently despotic, and suffers from a foundational legitimacy crisis.”

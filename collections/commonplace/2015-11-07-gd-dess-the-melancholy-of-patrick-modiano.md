@@ -8,6 +8,8 @@ link: https://lareviewofbooks.org/article/the-melancholy-of-patrick-modiano/
 date: 2015-11-07
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "IN 2014, FRENCH AUTHOR Patrick Modiano was awarded the Nobel Prize in literature “for the art of memory with which he has evoked the most ungraspable human destinies and uncovered the life-world of the occupation.”"
 
 "Generally Modiano writes short, easy-to-read novels (most are around 200 pages long, some shorter) with big themes: memory, loss, identity, seeking. They are easily approachable and satisfying to read. Despite this, he is still not widely read in the United States."

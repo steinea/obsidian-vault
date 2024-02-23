@@ -8,6 +8,8 @@ link:
 date: 2015-09-03
 ---
 
+[[2015]] / [[commonplace]] / 
+
 Stanford Archeology, Theory of Assemblage
 
 Assemblage is one of these “bridging concepts” that connect various disciplines while retaining their specificity. Commonly used in geology, paleontology, archaeology and art, recently it regains popularity in different fields (political sciences - Manuel DeLanda, science studies – Bruno Latour, cultural studies - Brian Massumi). This process of reappearance of the concept is accompanied by serious attempts to theorize assemblage mainly by reference to Deleuze and Guattari’s understanding of the term (French agencement).

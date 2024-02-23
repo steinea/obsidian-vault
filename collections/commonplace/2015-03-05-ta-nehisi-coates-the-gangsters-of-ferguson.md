@@ -8,6 +8,8 @@ link: https://www.theatlantic.com/politics/archive/2015/03/The-Gangsters-Of-Ferg
 date: 2015-03-05
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "Justice in Ferguson is not a matter of "racism without racists," but racism with racists so secure, so proud, so brazen that they used their government emails to flaunt it."
 
 ...

@@ -8,4 +8,6 @@ link: https://onbeing.org/programs/elizabeth-alexander-words-that-shimmer/
 date: 2015-09-15
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "Poetry awakens an essential interest in us for our others."

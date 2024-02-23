@@ -8,6 +8,8 @@ link: https://web.archive.org/web/20001020052019/https://prelectur.stanford.edu/
 date: 2015-06-16
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "The effect of mimicry is camouflage"
 
 "If colonialism takes power in the name of history, it repeatedly exercises its authority through the figures Of farce."

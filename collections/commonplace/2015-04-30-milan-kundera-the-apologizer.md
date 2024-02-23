@@ -8,6 +8,8 @@ link: https://www.newyorker.com/magazine/2015/05/04/the-apologizer
 date: 2015-04-30
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "Heading for your death, you don’t worry about what you’ve dropped along the way."
 
 "Feeling guilty or not feeling guilty—I think that’s the whole issue. Life is a struggle of all against all. It’s a known fact. But how does that struggle work in a society that’s more or less civilized? People can’t just attack each other on sight. So instead they try to cast the shame of culpability on each other. The person who manages to make the other one guilty will win. The one who confesses his crime will lose."

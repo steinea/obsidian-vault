@@ -8,6 +8,8 @@ link: https://www.theatlantic.com/politics/archive/2015/12/obama-the-analyst/419
 date: 2015-12-08
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "Note “minimize,” rather than eliminate. There are evils and forms of damage that societies can reduce, without imagining that they can be brought to zero."
  
  "The same is true of terrorism. No society, not even a fully totalitarian state, can guarantee that all its members will always be safe against a renegade bomber, shooter, knifer, etc. Protection and resilience, yes. Perfect safety, no."

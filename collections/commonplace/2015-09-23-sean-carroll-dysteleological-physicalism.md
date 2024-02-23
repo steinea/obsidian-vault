@@ -8,6 +8,8 @@ link: http://www.preposterousuniverse.com/blog/2011/01/17/dysteleological-physic
 date: 2015-09-23
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "The world consists of things, which obey rules."
  
 "Physicalism holds that all that really exists are physical things. Our notion of what constitutes a “physical thing” can change as our understanding of physics improves; these days our best conception of what really exists is a set of interacting quantum fields described by a wave function. What doesn’t exist, in this doctrine, is anything strictly outside the physical realm — no spirits, deities, or souls independent of bodies. It is often convenient to describe the world in other than purely physical terms, but that is a matter of practical usefulness rather than fundamental necessity."

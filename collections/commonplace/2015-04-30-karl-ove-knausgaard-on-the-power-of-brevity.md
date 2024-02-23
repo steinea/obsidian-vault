@@ -8,6 +8,8 @@ link: https://www.theatlantic.com/entertainment/archive/2015/04/karl-ove-knausga
 date: 2015-04-30
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "In the Bible, if it’s very important, it’s very short. If it’s not important, it’s very long. That’s a rule in almost all texts."
 
 "Though I haven’t shown this to anyone who’s mastered the language, so I may get everything wrong, this is my sense of the Hebrew original, when Cain has seen his sacrifice rejected by God: "It burned in Cain and his face fell. Jehovah said to Cain: “Why do you burn, and why does your face fall?” The simplicity, and the complexity in the simplicity: It’s bottomless. These are texts people have written about for thousands of years, and keep having different kinds of understandings about. The text is so rich and complex that you can take out one element and look at it, and find it expresses something deeply true. It can support all kinds of different interpretations depending on the way you live, or when you live, or who you are."

@@ -8,6 +8,8 @@ link: https://aeon.co/magazine/psychology/is-the-feeling-that-were-immortal-inna
 date: 2015-08-19
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "What I have discovered by looking at children’s untaught intuitions is that, rather than intelligence, the part of the self that is most central to our ideas about eternal life is our capacity for feeling and desiring."
  
 "Intentional burials show a level of empathy that seems a core part of us: when found in other species, we cannot help but feel connected to them."

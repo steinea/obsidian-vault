@@ -8,6 +8,8 @@ link: https://thenewinquiry.com/full-brightness/
 date: 2015-12-20
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "SLEEP Cycle’s logo—a blocky, iconographized clock—looks like the icons for PHONE or ­TOILET on signs along highways, announcing the sleep-tracking service it offers as a basic need."
 
 "Only unspeaking, unthinking things require such brute proof they’re there."

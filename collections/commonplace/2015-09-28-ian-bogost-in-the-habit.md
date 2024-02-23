@@ -8,6 +8,8 @@ link: https://lareviewofbooks.org/article/in-the-habit/
 date: 2015-09-28
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "Truly great games dominate us, subject us to pattern. They take over our brains, in the same way drugs do an addict’s. By replacing emotion with pattern. By separating humans from their humanity."
 
 "In Gamelife, Clune argues that games build an exoskeleton of cool, steady logic around a human world obsessed with warm, weird experience. By “logic” I don’t mean “reason,” by the way, but structure and repetition. Pattern. A way of doing things. If used properly, logic can help stanch experience’s tendency to oversupply sensations — the source of all torments — by explaining them as part of a larger cosmic order."

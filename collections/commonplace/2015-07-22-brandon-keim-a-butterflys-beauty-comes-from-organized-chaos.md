@@ -8,6 +8,8 @@ link: https://nautil.us/blog/a-butterflys-beauty-comes-from-organized-chaos
 date: 2015-07-22
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "a lesson about uncertainty"
 
 "At pattern boundaries, scales of different colors intermingle. Transitions and shading are achieved by varying the proportions of the mix. It’s beautiful. It is also, in the language of molecular biology, a model for a stochastic mechanism of gene expression."

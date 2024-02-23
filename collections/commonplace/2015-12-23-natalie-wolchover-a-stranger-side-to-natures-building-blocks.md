@@ -8,6 +8,8 @@ link: https://www.quantamagazine.org/string-theory-black-holes-and-a-strange-sup
 date: 2015-12-23
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "According to modern quantum theory, energy fields permeate the universe, and flurries of energy in these fields, called “particles” when they are pointlike and “waves” when they are diffuse, serve as the building blocks of matter and forces. But new findings suggest this wave-particle picture offers only a superficial view of nature’s constituents."
 
 "If each energy field pervading space is thought of as the surface of a pond, and waves and particles are the turbulence on that surface, then the new evidence strengthens the argument that a vibrant, hidden world lies beneath."

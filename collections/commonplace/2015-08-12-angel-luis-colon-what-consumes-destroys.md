@@ -8,6 +8,8 @@ link: https://lareviewofbooks.org/article/what-consumes-destroys-don-winslow/
 date: 2015-08-12
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "Capitalism demands that desire be our church. There needs to be someone on top and the rest need to be ice skating up that hill. Maybe some of us will even make it up there only to find another hill — another thing we’ll need."
 
 "In The Cartel, Don Winslow’s masterfully crafted follow-up to The Power of the Dog, we’re provided with a stark window into the effects of extreme human desire."

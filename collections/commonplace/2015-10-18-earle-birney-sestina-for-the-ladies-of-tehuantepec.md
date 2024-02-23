@@ -8,6 +8,8 @@ link: https://canpoetry.library.utoronto.ca/birney/poem3.htm
 date: 2015-10-18
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "Teh. has six claims to fame:      its numerous hotsprings
 <br>(radioactive, therapeutic); moderate earthquakes
 <br>(none in several years) ; herbivorous iguanas

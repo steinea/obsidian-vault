@@ -8,6 +8,8 @@ link: https://en.wikisource.org/wiki/35_Sonnets
 date: 2015-03-05
 ---
 
+[[2015]] / [[commonplace]] / 
+
 XXV. 
 
 We are in Fate and Fate's and do but lack

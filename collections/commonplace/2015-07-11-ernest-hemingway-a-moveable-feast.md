@@ -8,6 +8,8 @@ link: https://en.wikipedia.org/wiki/A_Moveable_Feast
 date: 2015-07-11
 ---
 
+[[2015]] / [[commonplace]] / 
+
 It was a sad, evilly run café where the drunkards of the quarter crowded together and I kept away from it because of the smell of dirty bodies and the sour smell of drunkenness.
 LOCATION: 10
 

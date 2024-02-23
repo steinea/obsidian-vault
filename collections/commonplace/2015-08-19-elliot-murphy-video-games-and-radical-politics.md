@@ -8,6 +8,8 @@ link: https://lareviewofbooks.org/article/always-a-lighthouse-video-games-and-ra
 date: 2015-08-19
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "VIDEO GAMES, as Robert Cassar recently noted in his Games and Culture essay “Gramsci and Games,” are often “sophisticated texts that can represent not just ideas but entire worlds, which invite players to explore them.”"
  
 "Likewise, games (in particular role-playing games like the Elder Scrolls and Final Fantasy titles) deliver “embodied empathy for complex systems” in the words of James Paul Gee, encouraging players to feel as if they are part of the system under analysis and not mere spectators."

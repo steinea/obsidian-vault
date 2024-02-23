@@ -8,6 +8,8 @@ link: https://lareviewofbooks.org/article/no-crisis-2/
 date: 2015-12-12
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "Real critique, rare thing that it is, usually pays dreck, in no small part because it threatens systems of valuation."
  
 "The crisis of criticism, in other words, won’t show itself in the quality of the written. It’s in what no longer gets written, in what never gets written in the first place."

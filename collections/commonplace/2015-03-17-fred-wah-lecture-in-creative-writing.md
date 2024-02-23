@@ -8,6 +8,8 @@ link:
 date: 2015-03-17
 ---
 
+[[2015]] / [[commonplace]] / 
+
 Writing is a paradoxical activity, both very alone and very public.
 
 There are doldrums you get into where you just really dry, just can't move.

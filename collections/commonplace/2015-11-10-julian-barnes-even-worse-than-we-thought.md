@@ -8,6 +8,8 @@ link: https://www.nybooks.com/articles/2015/11/19/jedwabne-even-worse-we-thought
 date: 2015-11-10
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "Even those who come at the book from a historical and geographical distance will be obliged to pace themselves. It is not just a question of taking in individual spasms of bestial cruelty. It is also a broader question: the rate at which we can stomach the truths of man’s inhumanity to man, and ruminate on their causes."
 
 "When the Germans returned to Jedwabne in July 1941, they would have had fresh in their minds the directive issued days earlier, on June 29, by Reinhard Heydrich, then chief of the Reich Main Security Office: No obstacles should be placed in the way of aspirations toward self-cleansing in anti-Communist or anti-Jewish circles in the newly occupied territories. Rather, such aspirations should be provoked without leaving traces, and if need be they should be intensified and led onto the right track…. The aim is to produce popular local pogroms."

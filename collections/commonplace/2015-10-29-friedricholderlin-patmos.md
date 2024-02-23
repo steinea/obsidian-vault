@@ -8,6 +8,8 @@ link: https://harpers.org/2007/07/patmos/
 date: 2015-10-29
 ---
 
+[[2015]] / [[commonplace]] / 
+
 *for the Landgrave of Homburg*
 
 God is near

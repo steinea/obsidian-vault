@@ -8,6 +8,8 @@ link: https://lareviewofbooks.org/article/the-return-to-kant/
 date: 2015-09-22
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "Kant and his interlocutors were struggling not just within a specific set of circumstances — such as monarchical rule in Germany, and the emergence of a revolutionary republic on its borders in France — but also an emerging and novel mode of economic production. This mode barely figures in their discourse, and yet is crucial for thinking about the context of their ideas and their relevance to us today. Enlightenment rationalism and its conservative opponents must be considered within their unconscious relationship with market capitalism."
 
 "The reason why it is worth returning to Kant today is that the limits of his political philosophy still mark our own limits. Where Kant gestures toward contradictions in his own political philosophy, such as whether freedom is compatible with a free market economy, he holds up a mirror to the confusions and impasses which entrap us today when the free market has both gone global and penetrated every aspect of our capacity for reasoned intersubjective communication — what another German philosopher, Jürgen Habermas, called the “life-world.”"

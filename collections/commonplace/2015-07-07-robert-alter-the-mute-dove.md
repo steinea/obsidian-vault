@@ -8,4 +8,6 @@ link: https://books.google.ca/books/about/The_Book_of_Psalms.html?id=wD1nhHvmTpM
 date: 2015-07-07
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "jonath elem rehokim. This is one of the most mysterious of the musical terms in Psalms. The literal sense of the three Hebrew words is haunting: the mute dove of distant places."

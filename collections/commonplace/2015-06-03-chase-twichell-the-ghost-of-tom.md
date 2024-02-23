@@ -8,6 +8,8 @@ link: https://www.poetryfoundation.org/poetrymagazine/poems/58146/the-ghost-of-t
 date: 2015-06-03
 ---
 
+[[2015]] / [[commonplace]] / 
+
 At family gatherings,
 <br> a Family Friend liked gathering
 <br> the girls to make us sing rounds.

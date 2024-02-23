@@ -8,6 +8,8 @@ link: https://global.oup.com/academic/product/the-varieties-of-religious-experie
 date: 2015-02-12
 ---
 
+[[2015]] / [[commonplace]] / 
+
 two orders of inquiry concerning anything.
 LOCATION: 126
 

@@ -8,6 +8,8 @@ link: https://www.theguardian.com/technology/2014/jul/20/rise-of-data-death-of-p
 date: 2015-10-31
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "This “smartification” of everyday life follows a familiar pattern: there’s primary data – a list of what’s in your smart fridge and your bin – and metadata – a log of how often you open either of these things or when they communicate with one another."
 
 "O’Reilly makes an intriguing case for the virtues of algorithmic regulation – a case that deserves close scrutiny both for what it promises policymakers and the simplistic assumptions it makes about politics, democracy and power."

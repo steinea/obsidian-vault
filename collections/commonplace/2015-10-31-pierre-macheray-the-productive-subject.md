@@ -8,6 +8,8 @@ link: https://viewpointmag.com/2015/10/31/the-productive-subject/
 date: 2015-10-31
 ---
 
+[[2015]] / [[commonplace]] / 
+
 “It is impos­si­ble at the present time to write his­tory with­out using a whole range of con­cepts directly or indi­rectly linked to Marx’s thought and sit­u­at­ing one­self within a hori­zon of thought which has been defined and described by Marx. One might even won­der what dif­fer­ence there could ulti­mately be between being a his­to­rian and being a Marx­ist.”
 
 “In the con­clud­ing sec­tion to The Will to Knowl­edge, Fou­cault explains what led him to con­sider power, as it exists today, not from a neg­a­tive per­spec­tive – as a con­straint that is ini­tially juridi­cal in form – but from a pos­i­tive one, inas­much as power relies on mech­a­nisms that mate­ri­ally orga­nize and even help to “pro­duce” human life, instead of impos­ing bound­aries on it.”

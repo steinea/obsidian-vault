@@ -8,6 +8,8 @@ link: https://aeon.co/magazine/technology/why-have-digital-books-stopped-evolvin
 date: 2015-10-02
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "Containers matter. They shape stories and the experience of stories. Choose the right binding, cloth, trim size, texture of paper, margins and ink, and you will strengthen the bond between reader and text. Choose badly and the object becomes a wedge between reader and text."
 
 "Once bought by a reader, a book moves through a routine. It is read and underlined, dog-eared and scuffed and, most importantly, reread. To read a book once is to know it in passing. To read it over and over is to become confidants. The relationship between a reader and a book is measured not in hours or minutes but, ideally, in months and years."

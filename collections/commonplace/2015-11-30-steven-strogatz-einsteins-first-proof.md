@@ -8,6 +8,8 @@ link: https://www.newyorker.com/tech/annals-of-technology/einsteins-first-proof-
 date: 2015-11-30
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "This little gem of reasoning foreshadows the man he became, scientifically, stylistically, and temperamentally. His instinct for symmetry, his economy of means, his iconoclasm, his tenacity, his penchant for thinking in pictures—they’re all here, just as they are in his theory of relativity."
  
 "You may once have memorized the Pythagorean theorem as a series of symbols: a2 + b2 = c2. It concerns right triangles, meaning triangles that have a right (ninety-degree) angle at one of their corners. The theorem says that if a and b are the lengths of the triangle’s legs (the sides that meet at the right angle), then the length of the hypotenuse (the side opposite the right angle) is given by c, according to the formula above."

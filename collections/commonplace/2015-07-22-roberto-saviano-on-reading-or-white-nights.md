@@ -8,6 +8,8 @@ link: https://thepenguinclassics.tumblr.com/post/124572015604/on-reading-or-whit
 date: 2015-07-22
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "‘Do not read, as children do, to amuse yourself, or like the ambitious, for the purpose of instruction. No, read in order to live’ Gustave Flaubert"
  
 "When I hold a book, I often think about how it doesn’t just consist of words, but is made up of time as well: the time it took to write, the time it takes to read. I’ve always thought of reading as multiplying time: as if my life has never really been enough for me and reading has always enhanced it. And not because it makes you cleverer or a better person; it allows you to discern the paths of life."

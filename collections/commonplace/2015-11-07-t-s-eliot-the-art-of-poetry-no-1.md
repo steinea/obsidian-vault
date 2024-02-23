@@ -8,6 +8,8 @@ link: https://www.theparisreview.org/interviews/4738/the-art-of-poetry-no-1-t-s-
 date: 2015-11-07
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "INTERVIEWER You have mentioned in print that Pound cut The Waste Land from a much larger poem into its present form. Were you benefited by his criticism of your poems in general? Did he cut other poems? ELIOT Yes. At that period, yes. He was a marvelous critic because he didn’t try to turn you into an imitation of himself. He tried to see what you were trying to do."
  
 "ELIOT No, no, no. I don’t think one was constantly trying to reject things, but just trying to find out what was right for oneself. One really ignored poet laureates as such, the Robert Bridges. I don’t think good poetry can be produced in a kind of political attempt to overthrow some existing form. I think it just supersedes. People find a way in which they can say something. “I can’t say it that way, what way can I find that will do?” One didn’t really bother about the existing modes."

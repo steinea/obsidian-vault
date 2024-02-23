@@ -8,6 +8,8 @@ link: https://www.theglobeandmail.com/news/politics/the-death-of-the-laurentian-
 date: 2015-08-19
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "From Confederation until quite recently, the direction of this country was determined by the elites in Toronto, Ottawa, Montreal and other cities along the St. Lawrence River or its watershed. On all of the great issues of the day, the Laurentian elites debated among themselves, reached a consensus and implemented that consensus. In short, they governed the country."
 
 "And they governed it well. The National Policy of high tariffs provided a decent wage for millions of workers. The Laurentianists guided this country through two wars. They created the national social security system that many Canadians still consider a defining national value. They navigated the shoals of Quebec separatism, and brought home a Constitution with a Charter of Rights and Freedoms that is an example to the world. Most importantly, they promoted an open-door immigration policy. The result is the world’s first post-national state: the urban, polyglot, intensely creative country that we live in, and celebrate, today."

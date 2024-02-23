@@ -8,6 +8,8 @@ link: https://lareviewofbooks.org/essay/toward-a-new-fantastic-stop-calling-it-s
 date: 2015-12-28
 ---
 
+[[2015]] / [[commonplace]] / 
+
 “In 1957, Roland Barthes illustrated how semiotic units are animated by forces outside of themselves by showing how the lack of a pure signifier means that any sign is subject to being taken up and deployed for multiple uses. Barthes used this modulation away from a sign’s apparent meaning — what Barthes referred to as myth — to articulate the ways in which ideology saturates language.”
 
 “the situation is almost always one where the historical crises that make the story possible — global warming in WALL-E or healthcare in Big Hero 6 — are effaced in order to highlight how technology, posing as science (itself tied up with those historical crises), will save us in the end.”

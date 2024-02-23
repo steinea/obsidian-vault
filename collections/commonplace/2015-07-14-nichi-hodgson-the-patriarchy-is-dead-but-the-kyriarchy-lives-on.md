@@ -8,6 +8,8 @@ link: https://www.theguardian.com/commentisfree/2010/sep/10/kyriarchy-and-patria
 date: 2015-07-14
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "kyriarchy, the system identified by Harvard theologian Elisabeth Schussler Fiorenza, which explains how ethnicity, class, economics and education, as well as gender, intersect to oppress us all, men as well as women."
 
 "Where patriarchy – literally, rule of the father – explains only how traditional male authority dictates to, and subjugates women, kyriarchy (from the Greek: kyrios – lord/master; archion – dominion/rule) relates how each of us, whatever our gender, is a bundle of privileges we can all too readily abuse by invoking the “master power”, whether that’s as a black female barrister, a mixed-race trans male teacher, or a white immigrant male labourer. At the same time, the term’s connotations of elite authority perfectly tap into the legacy of oppression that western feminists, from Mary Wollstonecraft to Germaine Greer, have dedicatedly derided."

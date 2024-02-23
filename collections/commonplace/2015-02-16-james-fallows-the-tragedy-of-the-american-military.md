@@ -8,6 +8,8 @@ link: https://www.theatlantic.com/magazine/archive/2015/01/the-tragedy-of-the-am
 date: 2015-02-16
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "He told members of the military that the nation was grateful for their nonstop deployments and for the unique losses and burdens placed on them through the past dozen years of open-ended war. He noted that they were often the face of American influence in the world, being dispatched to Liberia in 2014 to cope with the then-dawning Ebola epidemic as they had been sent to Indonesia 10 years earlier to rescue victims of the catastrophic tsunami there. He said that the “9/11 generation of heroes” represented the very best in its country, and that its members constituted a military that was not only superior to all current adversaries but no less than “the finest fighting force in the history of the world.”"
  
 "This reverent but disengaged attitude toward the military—we love the troops, but we’d rather not think about them—has become so familiar that we assume it is the American norm. But it is not. When Dwight D. Eisenhower, as a five-star general and the supreme commander, led what may have in fact been the finest fighting force in the history of the world, he did not describe it in that puffed-up way. On the eve of the D-Day invasion, he warned his troops, “Your task will not be an easy one,” because “your enemy is well-trained, well-equipped, and battle-hardened.” As president, Eisenhower’s most famous statement about the military was his warning in his farewell address of what could happen if its political influence grew unchecked."

@@ -8,6 +8,8 @@ link: https://web.archive.org/web/20080202111332/http://graduate.engl.virginia.e
 date: 2015-11-17
 ---
 
+[[2015]] / [[commonplace]] / 
+
 The Gothic: Materials for Study
 <br> A hypertext anthology for
 <br> ENEC 981: The Novel of Sensibility

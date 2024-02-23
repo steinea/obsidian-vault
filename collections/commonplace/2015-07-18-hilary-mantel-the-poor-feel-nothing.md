@@ -8,6 +8,8 @@ link: https://en.wikipedia.org/wiki/A_Place_of_Greater_Safety
 date: 2015-07-18
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "‘An equal chance? It seems against nature.’ 
 
 ‘Other nations conduct themselves differently. Look at England. You can’t say it’s a human trait, to be oppressed.’ 

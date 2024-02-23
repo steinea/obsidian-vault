@@ -8,6 +8,8 @@ link: https://lareviewofbooks.org/article/liberalism-as-drama/
 date: 2015-06-17
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "Liberalism: The Life of an Idea author: Edmund Fawcett publisher: Princeton University Press pub date: 05.04.2014 pp: 488 tags: Politics & Economics Andrew Sabl on Liberalism: The Life of an Idea"
 
 "Fawcett takes liberalism to be primarily a response to change, to the shocks of industrial capitalism and 18th-century revolutions, heralding a new age of flux and uncertainty. Liberalism embraced the insight — both “dream” and “nightmare” — that modern political orders, in the face of such change, could never be static."

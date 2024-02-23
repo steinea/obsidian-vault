@@ -8,6 +8,8 @@ link: https://www.nybooks.com/online/2015/07/21/ukraine-kharkiv-edge-of-europe/
 date: 2015-07-24
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "The crisis of the European Union has two sides. One is political, about the lack of democracy within European institutions; the other is philosophical, about the erosion of Europe as a source of and home for universal values."
  
 "The political crisis is on view in Germany and Greece. As we observe today, it never made sense to create a currency union (the Euro zone) without a fiscal union (a substantial common budget). A fiscal union would require more European democracy to legitimate the taxing and spending. When the Euro was established, the hope was that the common currency would create political solidarity that could foster European democracy; this simply has not happened. The Greek crisis has become a clash of multiple European democracies, in which the weak must bend to the strong. Greeks are not getting the policies they voted for; but then again Germans and other Europeans would not have voted, given the chance, to bail out Greece. Without a European budget, crises of this nature are inevitable; without European democracy all solutions will lack political legitimacy."

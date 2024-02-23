@@ -8,6 +8,8 @@ link: https://www.poetryfoundation.org/poems/45009/the-house-of-life-19-silent-n
 date: 2015-10-18
 ---
 
+[[2015]] / [[commonplace]] / 
+
 Your hands lie open in the long fresh grass,— 
 <br>   The finger-points look through like rosy blooms: 
 <br>   Your eyes smile peace. The pasture gleams and glooms 

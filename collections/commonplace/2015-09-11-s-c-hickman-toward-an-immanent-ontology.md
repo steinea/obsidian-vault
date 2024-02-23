@@ -8,6 +8,8 @@ link: https://socialecologies.wordpress.com/2012/10/09/nick-srnicek-toward-an-im
 date: 2015-09-11
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "“Bring something incomprehensible into the world!” — Gilles Deleuze (A Thousand Plateaus: Capitalism and Schizophrenia)"
 
 "Nick Srnicek tells us that this “work holds interest to me insofar as he defines religion in terms of a belief in transcendence. The history of secularization, therefore, is the story of the emergence of immanence over time.”"

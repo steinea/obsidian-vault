@@ -8,6 +8,8 @@ link: https://thenewinquiry.com/the-clock-inside-us/
 date: 2015-12-14
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "IF time is money, then sleep is theft. Today’s cult of busyness regards sleep as a defect that threatens to render people competitively unfit."
 
 "enthusiasm for sleeplessness seems to make an executive virtue out of a capitalistic necessity"

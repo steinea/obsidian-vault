@@ -8,6 +8,8 @@ link: https://www.poetryfoundation.org/poems/42891/stopping-by-woods-on-a-snowy-
 date: 2015-10-18
 ---
 
+[[2015]] / [[commonplace]] / 
+
 Whose woods these are I think I know.   
 <br>His house is in the village though;   
 <br>He will not see me stopping here   

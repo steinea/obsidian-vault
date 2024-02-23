@@ -8,6 +8,8 @@ link: https://ca.answers.yahoo.com/question/index?qid=20090423013431AABs7Gy
 date: 2015-12-17
 ---
 
+[[2015]] / [[commonplace]] / 
+
 It's written on Ludwig Boltzmann's tombstone, and it means that "entropy is the logarithm of multiplicity." It's a thermodynamics and statistical mechanics fact. 
 
 Let's step back a bit. 

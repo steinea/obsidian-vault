@@ -8,6 +8,8 @@ link: https://lithub.com/80-books-no-woman-should-read/
 date: 2015-12-20
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "Scanning the list, which is full of all the manliest books ever, lots of war books, only one book by an out gay man, I was reminded that though it’s hard to be a woman it’s harder in many ways to be a man, that gender that’s supposed to be incessantly defended and demonstrated through acts of manliness."
  
 "I looked at that list and all unbidden the thought arose, no wonder there are so many mass murders. Which are the extreme expression of being a man when the job is framed this way, though happily many men have more graceful, empathic ways of being in the world."

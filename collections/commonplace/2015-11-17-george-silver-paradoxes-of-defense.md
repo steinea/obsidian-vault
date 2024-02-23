@@ -8,7 +8,9 @@ link: http://www.pbm.com/~lindahl/paradoxes.html
 date: 2015-11-17
 ---
 
-[ George Silver's Paradoxes of Defense was published in 1599. A companion volume, Brief Instructions Upon My Paradoxes of Defence, was not published until 1898 by Captain Cyril G. R. Matthey, based on a manuscript found in the British Museum. Today, this book is available in two editions: one, containing both books from the 1898 edition and a useful introduction, is in Three Elizabethan Fencing Manuals, edited by James L. Jackson, and the other is a facsimile of only the 1599 edition of Paradoxes, published by Da Capo Press, Amsterdam, 1968.
+[[2015]] / [[commonplace]] / 
+
+George Silver's Paradoxes of Defense was published in 1599. A companion volume, Brief Instructions Upon My Paradoxes of Defence, was not published until 1898 by Captain Cyril G. R. Matthey, based on a manuscript found in the British Museum. Today, this book is available in two editions: one, containing both books from the 1898 edition and a useful introduction, is in Three Elizabethan Fencing Manuals, edited by James L. Jackson, and the other is a facsimile of only the 1599 edition of Paradoxes, published by Da Capo Press, Amsterdam, 1968.
 
 A facsimile of Matthey's book can be found at: http://www.sirwilliamhope.org/Library/Silver/Silver.php?title=Matthey&plate=4.
 

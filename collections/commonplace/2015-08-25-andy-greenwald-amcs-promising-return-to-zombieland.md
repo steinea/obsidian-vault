@@ -8,6 +8,8 @@ link: http://grantland.com/hollywood-prospectus/dead-again-amcs-promising-return
 date: 2015-08-25
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "But going by the first two hours of Fear, Kirkman and his hand-selected showrunner, Dave Erickson (Sons of Anarchy), have learned from previous mistakes. Fear has more than adrenaline on its side. It has a pulse."
 
 "One of the sharpest choices made in Fear the Walking Dead is the way it doesn’t rush past the frustrating banalities of existence en route to the apocalypse. Perspective matters: We need to appreciate the leaky faucet before we can attend to the gushing artery."

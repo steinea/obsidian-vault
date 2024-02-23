@@ -8,6 +8,8 @@ link: https://lareviewofbooks.org/article/absolved-of-the-absolute/
 date: 2015-11-04
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "is there any place for the non-place, for the outside?"
  
  "This outside would not be the Great Outdoors, with all its wondrous but frighteningly imperiled green stuff, or some secluded space “off the grid,” and even less a transcendent realm outside of mundane material existence, but rather something that eludes or dis-places this totalizing logic of location, containment, and management. What is at stake then is not an outside of the world, but an outside in the world itself — but where might such an outside be accessed, and how would it be thought and put into practice?"

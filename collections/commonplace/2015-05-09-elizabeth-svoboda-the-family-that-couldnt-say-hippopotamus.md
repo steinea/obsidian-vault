@@ -8,6 +8,8 @@ link: https://nautil.us/issue/24/error/the-family-that-couldnt-say-hippopotamus-
 date: 2015-05-09
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "four of the world’s largest language groups: Uto-Aztecan, Indo-European, Bantu, and Austronesian"
  
 "Researchers like Faisal think that as toolmaking skills became more common in the population, humans may have acquired the mental horsepower requisite for language. “A lot of people would say that toolmaking came [before language]—that’s the general prevailing view,” Uomini says. “I would just say that they co-evolved.”"

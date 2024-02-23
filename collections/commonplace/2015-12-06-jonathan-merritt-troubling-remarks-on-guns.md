@@ -8,6 +8,8 @@ link: https://www.theatlantic.com/politics/archive/2015/12/jerry-falwell-jrs-tro
 date: 2015-12-06
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "Liberty University’s motto is “training champions for Christ.” Apparently, the training offered by the evangelical college will now include a free concealed-weapons course for its students."
 
 "Can they claim the Bible as their chief authority if they ignore it when politically expedient?"

@@ -8,6 +8,8 @@ link: https://jacobin.com/2016/07/hegel-bastille-day-burke-french-revolution
 date: 2015-07-24
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "Hegel once told his friend Immanuel Niethammer that to be a philosopher was to be an “expositus,” an exposed person. Once the French Revolution rediscovered that Nous, reason, governs the world, Hegel, the philosopher of reason, would inevitably find himself — whether he liked it or not as a Prussian state philosophy professor — allied to those progressive and potentially rebellious forces. The philosophy of absolute reason thus had real political consequences."
 
 "We also find this passage preserved in the historical studies, which may be an instance of Hegel’s early Jacobin oratory, addressed to a reactionary defender of the status quo against the unleashed revolutionary energies of the people: There is a great difference between the passivity of military subordination (under a monarchy) and the rage of insurrection; between the order of a general and the flame of enthusiasm which liberty establishes through all the veins of a living being. It is this sacred flame which strained all nerves; it is for this flame, it is to enjoy it, that they exerted themselves. These efforts are enjoyments of liberty, and you wish the people to renounce them. These activities, this endeavor on behalf of the public, this interest is the active principle, and you wish the people to throw itself more into inaction and torpor."

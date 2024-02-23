@@ -8,6 +8,8 @@ link: https://yourdailygerman.com/2013/10/23/german-prefix-ver-meaning/
 date: 2015-03-16
 ---
 
+[[2015]] / [[commonplace]] / 
+
 In essence, it's a combination of verbessern ("to improve") and verschlimmern ("to make worse").  Here, then, is a verb that is able to express the idea of something simultaneously improving and worsening.  Think about it!
 
 Ver- is one of the most elusive prefixes in German, and historically it's actually two or three prefixes collapsed into one, as explained here and here.

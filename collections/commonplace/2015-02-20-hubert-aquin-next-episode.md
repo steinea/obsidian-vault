@@ -8,6 +8,8 @@ link: https://en.wikipedia.org/wiki/Next_Episode
 date: 2015-02-20
 ---
 
+[[2015]] / [[commonplace]] / 
+
 Packed inside my sentences,
 LOCATION: 58
 

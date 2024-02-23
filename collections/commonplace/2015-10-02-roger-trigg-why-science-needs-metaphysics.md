@@ -8,6 +8,8 @@ link: https://nautil.us/issue/29/scaling/why-science-needs-metaphysics
 date: 2015-10-02
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "Those who say that science can answer all questions are themselves standing outside science to make that claim. That is why naturalism—the modern version of materialism, seeing reality as defined by what is within reach of the sciences—becomes a metaphysical theory when it strays beyond methodology to talk of what can exist."
  
 "Denying metaphysics and upholding materialism must itself be a move within metaphysics. It involves standing outside the practice of science and talking of its scope. The assertion that science can explain everything can never come from within science. It is always a statement about science."

@@ -8,6 +8,8 @@ link: https://www.theatlantic.com/entertainment/archive/2015/07/true-detective-g
 date: 2015-07-12
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "This new solemnity could be seen as a sign of status anxiety: a byproduct of both serial television’s desire to disassociate from its soapy origins, and genre programming’s striving for cultural legitimacy."
 
  

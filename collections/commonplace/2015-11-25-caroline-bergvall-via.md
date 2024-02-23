@@ -8,6 +8,8 @@ link: https://carolinebergvall.com/work/fig/
 date: 2015-11-25
 ---
 
+[[2015]] / [[commonplace]] / 
+
 48 Dante Variations   
 
 Nel mezzo del cammin di nostra vita 

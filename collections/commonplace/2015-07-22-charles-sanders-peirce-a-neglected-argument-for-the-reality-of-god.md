@@ -8,6 +8,8 @@ link: https://en.wikisource.org/wiki/A_Neglected_Argument_for_the_Reality_of_God
 date: 2015-07-22
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "The word "God," so "capitalised" (as we Americans say), is the definable proper name, signifying Ens necessarium"
 
 "Of the three Universes of Experience familiar to us all, the first comprises all mere Ideas, those airy nothings to which the mind of poet, pure mathematician, or another might give local habitation and a name within that mind. Their very airy-nothingness, the fact that their Being consists in mere capability of getting thought, not in anybody's Actually thinking them, saves their Reality. The second Universe is that of the Brute Actuality of things and facts. I am confident that their Being consists in reactions against Brute forces, notwithstanding objections redoubtable until they are closely and fairly examined. The third Universe comprises everything whose being consists in active power to establish connections between different objects, especially between objects in different Universes. Such is everything which is essentially a Sign — not the mere body of the Sign, which is not essentially such, but, so to speak, the Sign's Soul, which has its Being in its power of serving as intermediary between its Object and a Mind."

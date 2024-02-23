@@ -8,6 +8,8 @@ link: https://www.nybooks.com/online/2015/11/16/isis-from-mumbai-to-paris/
 date: 2015-11-16
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "Yet the recent string of ISIS attacks across the Middle East and now in Europe suggests that its aims, and methods, are more complicated. In October a bombing in Ankara that killed 102 people was blamed on ISIS by the Turkish government. A few weeks later, ISIS’s Sinai affiliate claimed to have brought down a Russian airliner, killing 224 people. On November 12, ISIS claimed responsibility for a double-suicide bombing of a busy shopping street in a Hezbollah stronghold in Beirut that left forty-four people dead. There were bombings in Baghdad. And then there was Paris."
 
 "In fact none of these targets is random. What they show is that ISIS is now determined to launch attacks against those states that are waging war against it. Turkey has just given the US government permission to use some of its airbases for strikes against ISIS; Hezbollah is helping Bashar al-Assad fight ISIS. The Russians are now bombing ISIS and other groups, while the French are crucial partners in the anti-ISIS coalition. French warplanes bombing ISIS from runways in the Gulf states are about to get a fresh boost as the French government sends its only aircraft carrier to the Gulf."

@@ -8,6 +8,8 @@ link: https://www.themarginalian.org/2014/07/18/adam-phillips-on-risk-and-solitu
 date: 2015-06-17
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "“All of humanity’s problems,” the French scientist and philosopher Blaise Pascal wrote in 1654, “stem from man’s inability to sit quietly in a room alone.”"
 
 "An affinity for solitude is comparable only to one’s affinity for certain other people. And yet one’s first experience of solitude, like one’s first experience of the other, is fraught with danger… The absence of the visible and the absence of the object; and the risk, as in dreams, that innermost thoughts will come to light. For this reason, perhaps, it is the phobia relating to solitude that for some people persists throughout life."

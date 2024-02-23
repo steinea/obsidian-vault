@@ -8,6 +8,8 @@ link: https://www.anthonydoerr.com/books/all-the-light-we-cannot-see
 date: 2015-07-10
 ---
 
+[[2015]] / [[commonplace]] / 
+
 They cross the Channel at midnight. There are twelve and they are named for songs: Stardust and Stormy Weather and In the Mood and Pistol-Packin’ Mama.
 LOCATION: 23
 

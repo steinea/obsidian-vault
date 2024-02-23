@@ -8,6 +8,8 @@ link: https://www.nybooks.com/articles/2015/09/24/marilynne-robinson-fear/
 date: 2015-09-12
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "We are identified in the world at large with this religion because some of us espouse it not only publicly but also vociferously. As a consequence, we carry a considerable responsibility for its good name in the world, though we seem not much inclined to consider the implications of this fact. If we did, some of us might think a little longer about associating the precious Lord with ignorance, intolerance, and belligerent nationalism."
  
 "my thesis is always the same, and it is very simply stated, though it has two parts: first, contemporary America is full of fear. And second, fear is not a Christian habit of mind."

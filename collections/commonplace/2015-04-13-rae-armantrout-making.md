@@ -8,6 +8,8 @@ link: https://www.newyorker.com/magazine/2015/04/20/making-poem-rae-armantrout
 date: 2015-04-13
 ---
 
+[[2015]] / [[commonplace]] / 
+
 “What made this happen?”
 <br>you ask every time
 

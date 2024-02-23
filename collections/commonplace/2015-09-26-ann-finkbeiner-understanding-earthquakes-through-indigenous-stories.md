@@ -8,4 +8,6 @@ link: https://www.theatlantic.com/technology/archive/2015/09/understanding-the-p
 date: 2015-09-26
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "This turns out to be a story about stories—how they merge into histories, how fragile they are, and how urgent."

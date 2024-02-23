@@ -8,6 +8,8 @@ link: https://web.archive.org/web/20151121053258/https://nautil.us/issue/30/iden
 date: 2015-11-24
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "There is a sense in which our notions of identity are insecure. How can we be sure who someone is, even someone close? How can we be sure who we are, or that we are? What can identity mean in a world that is constantly changing?"
 
 "elementary particles are the end of the line. They are made of nothing, being, as they are, the most basic building blocks of the material world. An electron is a point, taking up quite literally no space at all. Every electron is defined solely in terms of its mass (tiny), its spin (1/2) and its charge (negative). Those three features comprise in toto the complete and comprehensive identity of the electron, as its want for spatial extent bears no room to house any further attributes."

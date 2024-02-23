@@ -8,6 +8,8 @@ link: https://granta.com/products/granta-128-american-wild/
 date: 2015-03-23
 ---
 
+[[2015]] / [[commonplace]] / 
+
 I remind myself when I reach the pond at sunset 
 <br> how far water reveals itself by night, 
 <br> as the moon shimmering across the surface, 

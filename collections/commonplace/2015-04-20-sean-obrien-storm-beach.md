@@ -8,6 +8,8 @@ link: https://www.newyorker.com/magazine/2015/04/27/storm-beach
 date: 2015-04-20
 ---
 
+[[2015]] / [[commonplace]] / 
+
 It feels like an achievement, emptiness
 <br>Reorganized to make the matter plain.
 <br>In the long pool trapped behind the shingle bank

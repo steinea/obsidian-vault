@@ -8,6 +8,8 @@ link: https://www.poetryfoundation.org/poetrymagazine/poems/56878/the-judgment-t
 date: 2015-10-21
 ---
 
+[[2015]] / [[commonplace]] / 
+
 Over the growing shadows fell the dead weight of  light.
 
 With a long bark mules metered the distance and turned back.

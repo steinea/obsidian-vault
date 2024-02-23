@@ -8,6 +8,8 @@ link: https://www.theatlantic.com/international/archive/2015/11/isis-paris-attac
 date: 2015-11-16
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "Terrorism is designed to provoke an overreaction—either complete disengagement or a massive show of force."
 
 "Terror campaigns are used by weak states that feel threatened."

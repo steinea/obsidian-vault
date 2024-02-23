@@ -8,6 +8,8 @@ link: https://aeon.co/magazine/philosophy/free-will-is-back-and-maybe-we-can-mea
 date: 2015-10-24
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "By the standards of most life on Earth, cats have highly sophisticated brains. This gives them a range of behavioural options – a degree of freedom, we might say."
  
 "It is often thought that science has shown that there is no such thing as free will. If all things are bound by the same impersonal cosmic laws, then (the story goes) our paths are no freer than those of rocks tumbling down a hill. But this is wrong. Science is giving us a very powerful and clear way to understand freedom of the will. We have just been looking for it in the wrong place. Instead of using an electron microscope or a brain-scanner, we should go to the zoo."

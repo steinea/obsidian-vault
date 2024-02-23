@@ -8,6 +8,8 @@ link: https://lareviewofbooks.org/article/the-sound-and-the-fury/
 date: 2015-05-06
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "The audience can’t be confused about the differences between the oppressor and the oppressed for the neoliberal politics of diversity to work."
 
 "Ultimately it doesn’t matter to Tarantino’s viewers how violent things are because the horrors are directed against Nazis and racist slaveholders. We can leave the theater feeling that we got strong medicine, but it was curative. Our moral compasses remain fixed on the lodestone of collective agreement."

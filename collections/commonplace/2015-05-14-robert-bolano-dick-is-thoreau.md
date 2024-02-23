@@ -8,4 +8,6 @@ link: https://www.ndbooks.com/book/between-parentheses/
 date: 2015-05-14
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "[Philip K.] Dick is Thoreau plus the death of the American dream."

@@ -8,6 +8,8 @@ link: https://press.princeton.edu/books/paperback/9780691020280/kierkegaards-wri
 date: 2015-02-14
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "A human being is a spirit. But what is spirit?"
 
 "Spirit is the self. But what is self?"

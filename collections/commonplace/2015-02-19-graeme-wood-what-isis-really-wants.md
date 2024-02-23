@@ -8,6 +8,8 @@ link: https://www.theatlantic.com/magazine/archive/2015/03/what-isis-really-want
 date: 2015-02-19
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "Bin Laden viewed his terrorism as a prologue to a caliphate he did not expect to see in his lifetime. His organization was flexible, operating as a geographically diffuse network of autonomous cells. The Islamic State, by contrast, requires territory to remain legitimate, and a top-down structure to rule it. (Its bureaucracy is divided into civil and military arms, and its territory into provinces.)"
 
 "Virtually every major decision and law promulgated by the Islamic State adheres to what it calls, in its press and pronouncements, and on its billboards, license plates, stationery, and coins, “the Prophetic methodology,” which means following the prophecy and example of Muhammad, in punctilious detail."

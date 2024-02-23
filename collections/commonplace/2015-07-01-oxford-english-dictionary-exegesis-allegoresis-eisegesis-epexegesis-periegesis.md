@@ -8,6 +8,8 @@ link: https://www.oed.com/
 date: 2015-07-01
 ---
 
+[[2015]] / [[commonplace]] / 
+
 EXEGESIS
 
 Pronunciation:  Brit. /ˌɛksᵻˈdʒiːsɪs/ , U.S. /ˌɛksəˈdʒisᵻs/

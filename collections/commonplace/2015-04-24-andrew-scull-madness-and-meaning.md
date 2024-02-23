@@ -8,4 +8,6 @@ link: https://www.theparisreview.org/blog/2015/04/22/madness-and-meaning/
 date: 2015-04-24
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "Madness indeed has its meanings, elusive and evanescent as our attempts to capture them have been."

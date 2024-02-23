@@ -8,6 +8,8 @@ link: https://thenewinquiry.com/blog/when-game-of-thrones-stopped-being-necessar
 date: 2015-06-15
 ---
 
+[[2015]] / [[commonplace]] / 
+
 “I’ve been fascinated by the notion that a rape scene should be (or could be) necessary.”
 
 “There is a larger question being subsumed here. Is violence “necessary”? Was it necessary to kill Ned Stark, Catelyn Stark, Rob Stark, and Talisa Stark and her plus one? Was Joffrey’s killing of Ros necessary? Did they have to kill off Lady, the wolf? The list goes on and on.”

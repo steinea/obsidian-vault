@@ -8,6 +8,8 @@ link: https://www.poetryfoundation.org/poetrymagazine/poems/58162/variation-on-a
 date: 2015-06-19
 ---
 
+[[2015]] / [[commonplace]] / 
+
 *Variation on a Line from Elizabeth Bishop’s “Five Flights Up”*
 
 Sometimes it’s the shoes, the tying and untying,

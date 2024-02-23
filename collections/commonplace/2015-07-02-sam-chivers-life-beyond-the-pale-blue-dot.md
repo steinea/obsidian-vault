@@ -8,6 +8,8 @@ link: https://nautil.us/issue/26/color/life-beyond-the-pale-blue-dot
 date: 2015-07-02
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "The Pale Blue Dot was the latest in a long history of association of the color blue with our home in the universe, and with life itself. Two decades before Voyager, as Apollo 8 circled the moon, astronauts recorded the now-famous “Earthrise”—a stunning color photograph of a bright blue-white hemisphere suspended above a gray lunar landscape. Four years later, the Apollo 17 mission captured a beguiling whole-Earth image that became “The Blue Marble.”"
  
 "These space-age portraits drive home the fact that we evolved on a blue planet. Some people, like Wallace Nichols, the scientist and author of Blue Mind, have suggested that we have a primal, near irrational, desire for water and its blue oceans and lakes. This thesis is supported by a recent global survey suggesting that blue is our favorite color. In the United Kingdom alone, a world-beating 33 percent of respondents ranked blue above anything else, with red a runner-up at about 15 percent."

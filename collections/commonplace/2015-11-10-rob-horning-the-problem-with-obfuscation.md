@@ -8,6 +8,8 @@ link: https://lareviewofbooks.org/article/hide-and-seek-the-problem-with-obfusca
 date: 2015-11-10
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "By various means of seduction, coercion, and co-optation, everyday life has been irresistibly colonized by forces collectively known as Big Data: the corporations and state agencies that use communications networks and digital surveillance to amass huge quantities of information on the activities of individuals and groups in hopes of predicting and containing their next moves."
  
 "Short of a total renunciation of the now routine conveniences of contemporary life and voluntary exile from the spaces where almost all social belonging and recognition takes place, you cannot escape."

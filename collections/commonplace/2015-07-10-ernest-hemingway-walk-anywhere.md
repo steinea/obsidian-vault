@@ -8,6 +8,8 @@ link: https://en.wikipedia.org/wiki/A_Moveable_Feast
 date: 2015-07-10
 ---
 
+[[2015]] / [[commonplace]] / 
+
 We can walk anywhere and we can stop at some new café where we don’t know anyone and nobody knows us and have a drink.” 
 
 “We can have two drinks.” 

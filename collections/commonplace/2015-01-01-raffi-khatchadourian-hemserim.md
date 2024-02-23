@@ -8,6 +8,8 @@ link: http://www.newyorker.com/magazine/2015/01/05/century-silence
 date: 2015-01-01
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "hemşerim," "a person of this place" (Armenian)
 
 

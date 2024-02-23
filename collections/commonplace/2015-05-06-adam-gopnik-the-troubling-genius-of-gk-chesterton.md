@@ -8,6 +8,8 @@ link: https://www.newyorker.com/magazine/2008/07/07/the-back-of-the-world
 date: 2015-05-06
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "'“The Man Who Was Thursday' is one of the hidden hinges of twentieth-century writing, the place where, before our eyes, the nonsense-fantastical tradition of Lewis Carroll and Edward Lear pivots and becomes the nightmare-fantastical tradition of Kafka and Borges. It is also, along with Chesterton’s “The Napoleon of Notting Hill,” the nearest thing that this masterly writer wrote to a masterpiece."
 
 "The last generation of writers who had anything like the same signature presence were the Americans who first encountered television, in the fifties—Mailer and Capote and Vidal—and for the same reason: they lent prestige to a new mass medium that hadn’t yet learned how easily it could get along without them."

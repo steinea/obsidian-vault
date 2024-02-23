@@ -8,5 +8,7 @@ link: https://academic.oup.com/liverpool-scholarship-online/book/43332/chapter-a
 date: 2015-02-04
 ---
 
+[[2015]] / [[commonplace]] / 
+
 “postcolonialism and its rhetoric of resistance have themselves become consumer products"
 

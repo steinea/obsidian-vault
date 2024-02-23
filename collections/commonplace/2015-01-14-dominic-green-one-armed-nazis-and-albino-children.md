@@ -8,6 +8,8 @@ link: https://newrepublic.com/article/120769/problem-anthony-doerrs-all-light-we
 date: 2015-01-14
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "Historians call this sort of thing “normalization,” or, if they are German, Vergangenheitsbewältigung, “coming to terms with the past.” Through books and films, we process the exceptional and traumatic into the banal and mildly diverting."
  
 "Rosenfeld identifies three types of normalization: relativization, universalization, and aestheticization."

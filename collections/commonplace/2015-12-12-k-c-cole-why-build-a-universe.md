@@ -8,6 +8,8 @@ link: https://lareviewofbooks.org/article/why-build-a-universe/
 date: 2015-12-12
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "To create something beautiful, concludes Nobel laureate physicist Frank Wilczek in his relentlessly engaging new book, A Beautiful Question. “Many motivations have been ascribed to the Creator,” he points out, “but artist ambition is rarely prominent among them.”"
 
 "The beautiful question the book considers, stated simply, is this: “Does the world embody beautiful ideas?” The answer is an emphatic yes: “You bet it does,” Wilczek writes. “And so do you.”"

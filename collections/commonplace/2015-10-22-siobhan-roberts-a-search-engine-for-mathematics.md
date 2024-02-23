@@ -8,6 +8,8 @@ link: https://nautil.us/issue/29/scaling/how-to-build-a-search-engine-for-mathem
 date: 2015-10-22
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "Search the keyword “cloud,” for instance, and you get sequence A136281: Among the references you find the comment: “These are thunderstorm graphs. Their connected components are a single cycle (clouds), a path (lightning bolts), or an isolated vertex (raindrops).”"
 
 "Enter the keyword “sky” and you get sequence A074481 with the comment: “These primes form a pattern similar to an astronomical radiant (the point in the sky from which a meteor shower appears to originate).”"

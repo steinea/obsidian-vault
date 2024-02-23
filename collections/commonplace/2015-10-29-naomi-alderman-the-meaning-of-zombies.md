@@ -8,6 +8,8 @@ link: https://granta.com/the-meaning-of-zombies/
 date: 2015-10-29
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "We will all die. When we’re young, a voice inside says ‘but not me, surely not me’. But that voice fades in time, leaving us only with the longing for eternal life. And so these myths comfort us: vampires are lonely, ghosts are intangible, werewolves are bestial, this is the price of immortality. To become a zombie exacts an even sharper price: brainless, repulsive, no one would choose that fractional life over the peace of death. Perhaps the zombie represents our society’s increasing yearning for immortality, and the increasing necessity therefore to imagine it as horrifying."
  
 "The zombie apocalypse is the death of civilization, the moment when all that becomes important is: do you have food? Do you have guns? We want to practise this in fantasy, to imagine it all the way through, especially in times of economic crisis. We live in cities now; far from sources of food, not knowing our neighbours. Zombies are the horrifying crowd of the urban poor, the grasping hands reaching out for something which, if you gave it to them, would destroy you. They’re the interchangeable anonymous people we encounter on our daily commute, those whose humanity we cannot acknowledge."

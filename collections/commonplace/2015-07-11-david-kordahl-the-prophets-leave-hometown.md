@@ -8,6 +8,8 @@ link: https://lareviewofbooks.org/article/the-prophets-leave-hometown-three-phys
 date: 2015-07-11
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "HERE’S THE PART that everyone forgets: when Schrödinger made up the cat thing, he meant it as a complaint."
 
 "I may as well go in order — in publication order, but also (coincidentally, and in my own opinion) from most crazed to most rational. The possibility that this puts them in descending order of reading fun hints, if nothing else, at the pitfalls of science writing. I also think it might tell us about the human need for prophets, and about why it’s so easy to trip when you search for truth… but let’s not get ahead of ourselves."

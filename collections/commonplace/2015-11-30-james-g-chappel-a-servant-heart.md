@@ -8,6 +8,8 @@ link: https://www.bostonreview.net/articles/james-chappel-servant-heart-religion
 date: 2015-11-30
 ---
 
+[[2015]] / [[commonplace]] / 
+
 “Faith Based: Religious Neoliberalism and the Politics of Welfare in the United States, Jason Hackworth, University of Georgia Press, $22.95 (paper)”
 
 “The Moral Neoliberal: Welfare and Citizenship in Italy, Andrea Muehlebach, University of Chicago Press, $32 (paper)”

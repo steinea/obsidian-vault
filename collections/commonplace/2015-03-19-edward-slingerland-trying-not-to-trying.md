@@ -8,6 +8,8 @@ link: https://nautil.us/issue/22/slow/trying-not-to-try
 date: 2015-03-19
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "When I first began cutting up oxen, all I could see was the ox itself. After three years, I no longer saw the ox as a whole. And now—now I meet it with my spirit and don’t look with my eyes. My senses and conscious awareness have shut down and my spiritual desires take me away. I follow the Heavenly pattern of the ox, thrusting into the big hollows, guiding the knife through the big openings, and adapting my motions to the fixed structure of the ox. In this way, I never touch the smallest ligament or tendon, much less a main joint."
 
 "The result is that Butcher Ding is not so much cutting up the ox as releasing its constituent parts, letting the razor-sharp edge of his cleaver move through the spaces between the bones and ligaments without encountering the slightest resistance."

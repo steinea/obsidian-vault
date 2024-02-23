@@ -8,6 +8,8 @@ link: https://nautil.us/issue/26/color/about-your-skin
 date: 2015-07-12
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "I see it as my autobiography. My skin has seen everything that I have, all of the weather, the sorrow, the happiness, the toil. I love the changes that I see in my skin, and I see it as part of my human story."
  
  "The key insight behind our research is that protective melanin pigmentation evolved primarily not to protect us from skin cancer but to preserve our folate so that we could continue to reproduce."

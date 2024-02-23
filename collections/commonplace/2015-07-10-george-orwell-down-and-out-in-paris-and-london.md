@@ -8,6 +8,8 @@ link: https://en.wikipedia.org/wiki/Down_and_Out_in_Paris_and_London
 date: 2015-07-10
 ---
 
+[[2015]] / [[commonplace]] / 
+
 Poverty frees them from ordinary standards of behaviour, just as money frees people from work.
 LOCATION: 43
 

@@ -8,6 +8,8 @@ link: https://en.wikipedia.org/wiki/Sappho_31
 date: 2015-03-22
 ---
 
+[[2015]] / [[commonplace]] / 
+
 He seems an equal of the gods,
 <br>That man who sits across from you
 <br>And your sweet speaking, being near,

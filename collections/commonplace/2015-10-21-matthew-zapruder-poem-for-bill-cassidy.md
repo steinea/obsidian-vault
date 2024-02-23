@@ -8,6 +8,8 @@ link: https://www.poetryfoundation.org/poetrymagazine/poems/56893/poem-for-bill-
 date: 2015-10-21
 ---
 
+[[2015]] / [[commonplace]] / 
+
 I wish I would
 <br>like a ship
 <br>that all night carries

@@ -8,4 +8,6 @@ link: https://jacobin.com/2015/11/noam-chomsky-interview-isis-syria-intervention
 date: 2015-11-24
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "As always, his underlying belief in our capacity to build a better society shines through."

@@ -8,6 +8,8 @@ link: https://www.theparisreview.org/blog/2015/03/05/wittgenstein-schoolteacher/
 date: 2015-12-22
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "his Tractatus Logico-Philosophicus, at once an austere work of analytic philosophy and—for some readers, Wittgenstein apparently included—an almost mystical experience. In it, he claimed charmingly and not without reason to have solved all the problems of philosophy."
 
 "This was because of the book’s famous “picture theory of meaning,” which held that language is meaningful because, and only because, of its ability to depict possible arrangements of objects in the world."

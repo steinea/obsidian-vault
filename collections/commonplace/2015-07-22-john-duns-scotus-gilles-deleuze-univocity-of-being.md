@@ -8,6 +8,8 @@ link: https://en.wikipedia.org/wiki/Univocity_of_being
 date: 2015-07-22
 ---
 
+[[2015]] / [[commonplace]] / 
+
 Univocity of being is the idea that words describing the properties of God mean the same thing as when they apply to people or things, even if God is vastly different in kind.
 
 In medieval disputes over the nature of God, many theologians and philosophers (such as Thomas Aquinas) held that when one says that "God is good", God's goodness is only analogous to human goodness. John Duns Scotus argued to the contrary that when one says that "God is good", the goodness in question is exactly the same sort of goodness that is meant when one says "Jane is good". That is, God only differs from us in degree, and properties such as goodness, power, reason, and so forth are "univocally" applied, regardless of whether one is talking about God, a man, or a flea.

@@ -8,6 +8,8 @@ link: https://tinhouse.com/blog/41314/on-pandering.html
 date: 2015-12-01
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "Lewisburg, and countless other so-called college towns like it, is Bedford Falls in loco parentis. It’s a country-mouse theme park for young people wanting the illusion of distance, wanting the sense of being away on a journey and all the self-discovery that promises. It’s for them, and it’s for their parents, who will tolerate this distance and this freaky looming self-discovery, so long as it comes with the quaintness of the country, the control of a company town, and all the safety that $62,368 can buy. All to say that for the past four years, I lived in a landscape of pandering."
 
 "I read women (some, but not enough) but I didn’t watch them. I didn’t give them megaphones in my mind. The writers with megaphones in my mind were not Mary Austin, or Louise Erdrich, or Joan Didion, or Joy Williams, or Toni Morrison, though all have been as important to me as any of the male writers I mentioned, or more. Still, I watched the boys, watched to learn. I wanted to write something Cormac McCarthy would like, something Thomas Pynchon would come out of hiding to endorse, something David Foster Wallace would blurb from beyond the grave."

@@ -8,6 +8,8 @@ link: https://aeon.co/magazine/philosophy/could-we-do-without-cause-and-effect
 date: 2015-06-30
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "Why not see both the probabilistic independence assumption and the common-cause principle as mutually dependent aspects of causal structures? We can accept that these structures have an important role to play in physics, just as they do in other sciences and in common sense, without having to commit to the metaphysical priority of either."
  
 "This third view is reminiscent of the late US physicist Richard Feynman’s view about physical laws. Feynman argued that the laws of physics do not exhibit a unique, logical structure, such that one set of statements is more fundamental than another. Instead of a hierarchical ‘Euclidean conception’ of theories, Feynman argued that physics follows what he calls the ‘Babylonian tradition’, according to which the principles of physics provide us with an interconnected structure with no unique, context-independent starting point for our derivations. Given such structures, Feynman said: ‘I am never quite sure of where I am supposed to begin or where I am supposed to end.’"

@@ -8,6 +8,8 @@ link: https://larvalsubjects.wordpress.com/2009/10/08/deleuze-on-assemblages/
 date: 2015-09-11
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "In assemblages you you find states of things, bodies, various combinations of bodies, hodgepodges; but you also find utterances, modes of expression, and whole regimes of signs."
 
 "Hodgepodges are combinations of interpenetrating bodies. These combinations are well-known and accepted"

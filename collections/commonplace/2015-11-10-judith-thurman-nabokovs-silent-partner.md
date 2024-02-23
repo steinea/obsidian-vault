@@ -8,6 +8,8 @@ link: https://www.newyorker.com/magazine/2015/11/16/silent-partner-books-judith-
 date: 2015-11-10
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "the two selves of the Nabokovs were valves of the same heart"
 
 "each of them found a lodestar in the other"

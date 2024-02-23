@@ -7,6 +7,9 @@ publication: The New Yorker
 link: https://www.newyorker.com/magazine/2015/06/01/the-duniazat
 date: 2015-06-10
 ---
+
+[[2015]] / [[commonplace]] / 
+
 "favorites go out of fashion"
  
 "“To be thin-skinned, farsighted, and loose-tongued,” he said, “is to feel too sharply, see too clearly, speak too freely. It is to be vulnerable to the world when the world believes itself invulnerable, to understand its mutability when it thinks itself immutable, to sense what’s coming before others sense it, to know that the barbarian future is tearing down the gates of the present while others cling to the decadent, hollow past."

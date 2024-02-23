@@ -8,6 +8,8 @@ link: https://www.poetryfoundation.org/poetrymagazine/poems/56891/consequences-o
 date: 2015-10-21
 ---
 
+[[2015]] / [[commonplace]] / 
+
 When Albert Murray said
 <br>the second law adds up to
 <br>the blues that in other words

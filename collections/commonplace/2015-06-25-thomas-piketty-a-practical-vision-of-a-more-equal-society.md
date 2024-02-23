@@ -8,6 +8,8 @@ link: http://www.nybooks.com/articles/2015/06/25/practical-vision-more-equal-soc
 date: 2015-06-25
 ---
 
+[[2015]] / [[commonplace]] / 
+
 “Toward a New Radical Reformism”
 
 “Inequality: What Can Be Done?

@@ -8,6 +8,8 @@ link: https://lareviewofbooks.org/article/a-therapeutic-cartography/
 date: 2015-07-22
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "AN OLDER WITTGENSTEIN looked back on his younger self and realized something: “A picture held us captive. And we could not get outside it, for it lay in our language and language seemed to repeat it to us inexorably.” There is a picture — a “worldview,” you might say — carried in our language like a stowaway ideology. This tacit picture frames our experience and governs our observation. How we talk shapes how we see."
  
 "We’re suckers for simplistic, captivating pictures, mostly because we don’t even realize that we’re being sold a “frame”; we think we’re just seeing “the way things are,” when, in fact, we are buying into a paradigm. That’s why, all too often, while trying to talk our way out of a problem we only dig deeper holes. The exercises and aphorisms that comprise Wittgenstein’s Philosophical Investigations, be it said in passing, are a response to this realization. His project is a kind of image therapy, an attempt to help us see that a picture holds us captive and then offer an alternative frame."

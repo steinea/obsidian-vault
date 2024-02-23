@@ -8,6 +8,8 @@ link: https://www.nybooks.com/articles/1971/11/04/a-special-supplement-the-quest
 date: 2015-10-26
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "There is prima facie something strange about so violent a disparity of judgments. What other thinker has presented so many facets to the students of his ideas? What other writer—and he not even a recognized philosopher—has caused his readers to disagree about his purposes so deeply and so widely? Yet I must repeat, Machiavelli does not write obscurely; nearly all his interpreters praise him for his terse, dry, clear prose. What is it that has proved so arresting to so many?"
 
 "If ethics is confined to, let us say, Stoic or Christian or Kantian, or even some types of utilitarian ethics, where the source and criterion of value are the word of God, or eternal reason, or some inner sense or knowledge of good and evil, of right and wrong, voices which speak directly to the individual consciousness with absolute authority, this might have been tenable. But there exists an equally time-honored ethics, that of the Greek polis, of which Aristotle provided the clearest exposition. Since men are beings made by nature to live in communities, their communal purposes are the ultimate values from which the rest are derived, or with which their ends as individuals are identified. Politics—the art of living in a polis—is not an activity that can be dispensed with by those who prefer private life: it is not like seafaring or sculpture which those who do not wish to do so need not undertake. Political conduct is intrinsic to being a human being at a certain stage of civilization, and what it demands is intrinsic to living a successful human life."

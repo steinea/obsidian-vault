@@ -8,6 +8,8 @@ link: https://jezebel.com/taylor-swift-is-definitely-in-her-zone-1718196417
 date: 2015-07-22
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "girls and mothers, all adorable and almost all white, who had come to the annual Taylor Swift Young Leadership Conference to engage in the safest possible fantasy with 41,887 of their best friends."
 
 "The 1989 tour is an extended set, and her face, her body, her chirrup, her attention, her effort, and her notably improved voice were all stadium macro—clean, symbolic, magnificent—while also so tuned on the micro-level, so whittled to the essentials, that nothing about Swift seemed remotely capable of causing offense."

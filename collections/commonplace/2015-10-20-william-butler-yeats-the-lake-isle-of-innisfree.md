@@ -8,6 +8,8 @@ link: https://www.poetryfoundation.org/poems/43281/the-lake-isle-of-innisfree
 date: 2015-10-20
 ---
 
+[[2015]] / [[commonplace]] / 
+
 I will arise and go now, and go to Innisfree, 
 <br>And a small cabin build there, of clay and wattles made; 
 <br>Nine bean-rows will I have there, a hive for the honey-bee, 

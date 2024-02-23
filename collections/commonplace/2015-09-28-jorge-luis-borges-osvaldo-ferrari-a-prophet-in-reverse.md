@@ -8,6 +8,8 @@ link: https://www.nybooks.com/online/2015/09/24/prophet-reverse-borges/
 date: 2015-09-28
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "It’s as if each country looks for a form of antidote in the author it chooses. In France’s case, however, it has such a rich literary tradition that it hasn’t chosen one figure, but if one goes for Hugo—clearly, Hugo isn’t like the majority of French people."
 
 "Borges: Yes, and as Rubén Darío said: Doubtless Homer had his own Homer. Since literature always presupposes a precursor, or a tradition. One could say that language is itself a tradition—each language offers a range of possibilities and of impossibilities as well, or difficulties."

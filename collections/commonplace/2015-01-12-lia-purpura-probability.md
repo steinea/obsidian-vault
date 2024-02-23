@@ -8,6 +8,8 @@ link: https://www.newyorker.com/magazine/2015/01/19/probability
 date: 2015-01-12
 ---
 
+[[2015]] / [[commonplace]] / 
+
 Most coincidents are not
 <br>miraculous, but way more
 <br>common than we think—

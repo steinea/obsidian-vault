@@ -8,6 +8,8 @@ link: https://www.poetryfoundation.org/poems/45134/ode-to-the-west-wind
 date: 2015-10-18
 ---
 
+[[2015]] / [[commonplace]] / 
+
 I
 <br>O wild West Wind, thou breath of Autumn's being,
 <br>Thou, from whose unseen presence the leaves dead

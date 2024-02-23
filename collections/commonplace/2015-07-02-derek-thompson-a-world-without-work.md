@@ -8,6 +8,8 @@ link: https://www.theatlantic.com/magazine/archive/2015/07/world-without-work/39
 date: 2015-07-02
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "“Youngstown’s story is America’s story, because it shows that when jobs go away, the cultural cohesion of a place is destroyed,” says John Russo, a professor of labor studies at Youngstown State University. “The cultural breakdown matters even more than the economic breakdown.”"
 
 "What may be looming is something different: an era of technological unemployment, in which computer scientists and software engineers essentially invent us out of work, and the total number of jobs declines steadily and permanently."

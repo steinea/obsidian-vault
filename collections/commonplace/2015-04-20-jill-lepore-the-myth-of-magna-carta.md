@@ -8,6 +8,8 @@ link: https://www.newyorker.com/magazine/2015/04/20/the-rule-of-history
 date: 2015-04-20
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "Few men have been less mourned, few legal documents more adored."
 
 "Much has been written of the rule of law, less of the rule of history. Magna Carta, an agreement between the King and his barons, was also meant to bind the past to the present, though perhaps not in quite the way it’s turned out. That’s how history always turns out: not the way it was meant to."

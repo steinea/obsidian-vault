@@ -8,6 +8,8 @@ link: https://www.theatlantic.com/magazine/archive/2015/10/our-fragile-constitut
 date: 2015-10-10
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "Which posed the greater threat, legislative tyranny or monarchy? Had America revolted against a king, or against his parliament?"
 
 "In the end, Nelson argues persuasively, the royalists won. In this telling, the Constitution created not a radical democracy, but a very traditional mixed monarchy. At its head stood a king—an uncrowned one called a president—with sweeping powers, whose steadying hand would hopefully check the factionalism of the Congress."

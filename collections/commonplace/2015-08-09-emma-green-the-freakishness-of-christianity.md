@@ -8,6 +8,8 @@ link: https://www.theatlantic.com/politics/archive/2015/08/russell-moore-christi
 date: 2015-08-09
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "the cultural preoccupation with perfectionist conservatism has largely come to an end"
 
 "Some see this as a loosely defined form of “secularization.” These are the people, Moore said, who approach him after church and ask, fearfully, whether Christianity is dying. “Behind that question is an assumption that Christianity is a sub-culture of American life,” he told me. “I think what is dying is cultural, nominal Christianity, and I don’t think we should panic about that. I think we should see that as an act of God’s grace.”"

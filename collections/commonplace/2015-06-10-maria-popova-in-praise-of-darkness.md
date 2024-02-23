@@ -8,6 +8,8 @@ link: https://www.themarginalian.org/
 date: 2015-06-10
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "“For a moment of night we have a glimpse of ourselves and of our world islanded in its stream of stars — pilgrims of mortality, voyaging between horizons across eternal seas of space and time.”"
  
 "“Were it not for shadows, there would be no beauty,” wrote the Japanese novelist Junichiro Tanizaki in his glorious 1933 love letter to darkness, enveloped in a lament about the perils of excessive illumination. It seems like, having never quite grown out of our perennial childhood fear of the dark, at some point in the twentieth century we took Carl Jung’s poetic assertion that “the sole purpose of human existence is to kindle a light in the darkness of mere being” a little too literally and set out to illuminate darkness into nonexistence. But darkness — like silence, like solitude — belongs to that class of blessings increasingly endangered in modern life yet vitally necessary to the human spirit."

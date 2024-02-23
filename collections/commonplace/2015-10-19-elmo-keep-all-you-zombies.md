@@ -8,6 +8,8 @@ link: https://www.theawl.com/2015/10/all-you-zombies/
 date: 2015-10-19
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "Apocalypse stories enduring appeal as a genre is in the thought experiment undertaken by the viewer or reader: if this actually happened, what kind of person would I be?"
 
 "In this world civilization might have fallen, but so have all your debts. Your very existence might be threatened in your every waking moment, but you are made new. No trees may ever grow again, but who cares, you can prove your mettle against the world with nothing but a golf club at your disposal and see how far you get. This is the end of the world as escape fantasy."

@@ -8,6 +8,8 @@ link: https://thenewinquiry.com/lying-like-cuttlefish/
 date: 2015-09-23
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "Fantasies of life-like machines decouple life from living. It is only from the position of being stuck in the world that we learn to engage with it anew"
 
 "The EMM suggests that what we need is liberation from nature. The manifesto refers to this process of liberation as “decoupling.” So poised against the “people-haters” of radical environmentalism, the EMM avowedly embraces “an optimistic view toward human capacities and the future.”"

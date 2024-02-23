@@ -8,6 +8,8 @@ link: https://lareviewofbooks.org/review/the-endless-war/
 date: 2015-12-28
 ---
 
+[[2015]] / [[commonplace]] / 
+
 “For war’s a banker, flesh his gold.There by the furnace of Troy’s field,Where thrust meets thrust, he sits to holdHis scale, and watch the spearpoint sway;And back to waiting homes he sendsSlag from the ore, a little dustTo drain hot tears from hearts of friends;Good measure, safely stored and sealed
 In a convenient jar — the just
 Price for the man they sent away.

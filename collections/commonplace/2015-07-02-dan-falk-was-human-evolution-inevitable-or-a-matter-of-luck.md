@@ -8,6 +8,8 @@ link: https://aeon.co/magazine/science/was-human-evolution-inevitable-or-a-matte
 date: 2015-07-02
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "Was the appearance of intelligent life an evolutionary fluke, or was it inevitable? This was one of the central themes in Stephen Jay Gould’s book, Wonderful Life: The Burgess Shale and the Nature of History (1989). If we re-played the tape of evolution, so to speak, would Homo sapiens – or something like it – arise once again, or was humanity’s emergence contingent on a highly improbable set of circumstances?"
  
 "Evolution, we’re told, does not have a ‘direction’, and biologists balk at any mention of ‘progress’. (The most despised image of all is the ubiquitous monkey-to-man diagram found in older textbooks – and in newer ones too, if only because the authors feel the need to denounce it.) And yet, when we look at the fossil record, we do, in fact, see, on average, a gradual increase in complexity."

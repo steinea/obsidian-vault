@@ -8,6 +8,8 @@ link: https://en.wikisource.org/wiki/35_Sonnets
 date: 2015-03-03
 ---
 
+[[2015]] / [[commonplace]] / 
+
 XXI. 
 
 Thought was born blind, but Thought knows what is seeing.

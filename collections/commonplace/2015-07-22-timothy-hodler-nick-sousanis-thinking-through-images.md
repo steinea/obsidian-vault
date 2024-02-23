@@ -8,6 +8,8 @@ link: https://www.theparisreview.org/blog/2015/07/20/thinking-through-images-an-
 date: 2015-07-22
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "Rudolf Arnheim art theory meets Herbert Marcuse radicalism meets Scott McCloud comics boosterism"
  
 "Wild enthusiasm and plunge-taking fearlessness aside, Sousanis seems like a solid citizen; while his ideas are radically utopian, their flavor is resolutely wholesome."

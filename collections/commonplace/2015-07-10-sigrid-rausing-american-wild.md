@@ -8,6 +8,8 @@ link: https://granta.com/products/granta-128-american-wild/
 date: 2015-07-10
 ---
 
+[[2015]] / [[commonplace]] / 
+
 ‘It is one of the great unspoken facts of America that the land of the free largely belongs to the state,’
 LOCATION: 86
 

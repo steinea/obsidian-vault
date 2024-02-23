@@ -8,4 +8,6 @@ link: https://www.nytimes.com/2009/03/08/style/tmagazine/08rawsthorn.html
 date: 2015-09-05
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "organizational identities (to give logos their posh name)"

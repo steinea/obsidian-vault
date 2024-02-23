@@ -8,6 +8,8 @@ link: https://aeon.co/magazine/philosophy/what-the-heaven-tourism-memoir-can-tel
 date: 2015-07-22
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "a soul leaves the body only to return with a message – is a narrative arc that pervades all ages, literatures and cultures"
  
 "A rational response to the silence of death. Though endless in style and form, it was long unified by one inalterable truth: it can never be verified or thoroughly denounced."

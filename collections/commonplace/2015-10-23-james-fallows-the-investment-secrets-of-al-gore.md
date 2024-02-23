@@ -8,6 +8,8 @@ link: https://www.theatlantic.com/magazine/archive/2015/11/the-planet-saving-cap
 date: 2015-10-23
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "The formal name for the concept he and Gore are advancing is sustainable capitalism, which sounds both more familiar and less hard-edged than what I understand to be the real underlying idea. The idea is that if some tenets of “long term” and “value based” investing are extended to include the environmental and social ramifications of corporate activity, the result can be better financial performance, rather than returns that are “nearly as good” or “worth it when you think of the social benefits.”"
 
 "The chain of logic behind this argument starts with the assumption that capitalism has shown its superiority to all other systems—as Gore put it to me, “it has proven to unlock a higher fraction of human potential” than any alternative system for making money—and markets are the most efficient way to allocate resources. But markets often overshoot, creating bubbles and busts like the destructive subprime real-estate disaster of the 2000s, and through its history the global capitalist system as a whole has periodically overshot, causing national or worldwide crises. The financial and industrial crises of the late 19th century led to reforms in the United States (and revolution in Russia) but were never fully resolved in Europe. The more profound crisis of the Great Depression led to the modern welfare state."

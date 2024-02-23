@@ -8,6 +8,8 @@ link: http://grantland.com/hollywood-prospectus/amc-walking-dead-season-five-rev
 date: 2015-08-25
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "The Walking Dead is a stronger show when it tries to make us care instead of trying to prove a point."
 
 "Rick still isn’t winning any popularity contests, not among fans nor his fellow survivors. But what I like about the character under Gimple is that Rick now appears as haunted by his own errors as he is by the horrors of the world around him. Rick is a stronger leader now, in that he doesn’t shy away from direct, often violent action. But there’s no question that this tack has broken something essential within him. He no longer makes promises he can’t keep. It’s just that the ones he does make tend to involve machetes."

@@ -8,6 +8,8 @@ link: Aeon
 date: 2015-07-18
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "A merlin falcon hunting its prey, a hummingbird suspended in the air beside a flower, the self-reproduction of a bacterial cell: all are instances of stunning control and precision. How could anything so complex have originated from inert matter?"
 
 "living things have certain properties that seem to set them apart from other aggregations of inert matter. They have many different subparts – instantiating biological adaptations – all coordinating to some function."

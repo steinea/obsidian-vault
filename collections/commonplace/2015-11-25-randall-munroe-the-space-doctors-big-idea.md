@@ -8,6 +8,8 @@ link: https://www.newyorker.com/tech/annals-of-technology/the-space-doctors-big-
 date: 2015-11-25
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "it’s just a question of what you say is sitting still"
  
 "It was the space doctor who figured out the answer. He said that if our ideas about light were right, then our ideas about distance and seconds must be wrong. He said that time doesn’t pass the same for everyone. When you go fast, he said, the world around you changes shape, and time outside starts moving slower."

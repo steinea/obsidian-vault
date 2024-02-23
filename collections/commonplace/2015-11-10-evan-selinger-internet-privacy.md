@@ -8,6 +8,8 @@ link: https://lareviewofbooks.org/article/internet-privacy-stepping-up-our-self-
 date: 2015-11-10
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "Brunton and Nissenbaum’s outrage centers on two points. First, they insist that major tech companies are actively trying to keep us in the dark, and they’re capitalizing on our limited knowledge of how data mining and analysis works."
 
 "Second, Brunton and Nissenbaum maintain that tech companies engage in lots of machinations to exploit our vulnerabilities and keep us powerless."

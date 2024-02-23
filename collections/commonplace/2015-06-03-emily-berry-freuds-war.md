@@ -8,6 +8,8 @@ link: https://www.poetryfoundation.org/poetrymagazine/poems/58144/freuds-war
 date: 2015-06-03
 ---
 
+[[2015]] / [[commonplace]] / 
+
 *A cento*
 
 I became a therapist against my will

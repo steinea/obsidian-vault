@@ -8,6 +8,8 @@ link: https://www.nybooks.com/online/2015/09/01/clearing-up-ambiguity/
 date: 2015-09-05
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "So what is it about ambiguity that it has to be praised to high heaven by all and sundry? Above all, how did it come to take on, at least for some, a cloak of liberal righteousness, to shift from being an aesthetic to a moral virtue, as if the text that wasn’t clear, that didn’t state its preferences clearly, were ethically superior to the text that does."
 
  "In every other sphere of expression ambiguity is a flaw. Clarity is prized. Politicians are condemned for their ambiguity. There is nothing worse than bureaucratic forms or technical instructions that are not clear. It is famously said that the disastrous charge of the Light Brigade during the Crimean War was the result of an ambiguously worded order. Hundreds died. But in literature ambiguity is positive. “Authors and readers alike have a stake in textual ambiguity,” writes critic Janet Solberg, because “literature both illustrates and depends on the ability of language to create and to obscure ‘meaning.’”"

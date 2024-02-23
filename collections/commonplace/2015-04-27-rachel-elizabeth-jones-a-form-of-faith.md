@@ -8,6 +8,8 @@ link: http://thenewinquiry.com/essays/a-form-of-faith/
 date: 2015-04-27
 ---
 
+[[2015]] / [[commonplace]] / 
+
 “Anyone can be a curator online, arranging image-objects and images of objects as they please, even if they may never see these objects in person. In its relationship to digital imagery, the trend in curation subtly undermines awareness of the structures that deny true access both to material goods and space.”
 
 “Altars resist this erasure. As installations, they are inherently site-specific. Sometimes, as with memorial altars, the reasoning behind the site is obvious, and other times it may seem more arbitrary.”

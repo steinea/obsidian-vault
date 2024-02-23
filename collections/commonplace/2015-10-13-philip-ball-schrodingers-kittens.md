@@ -8,6 +8,8 @@ link: https://nautil.us/issue/29/scaling/how-big-can-schr246dingers-kittens-get
 date: 2015-10-13
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "Imagine a broken drying machine that spits out pairs of unmatched socks. They come in complementary contrasts: if one is red, the other is green. Or, if one is white, the other is black, and so on. We don’t know which of these options we’ll get until we look—but we do know that if we find one is red, we can be sure the other is green. Whatever the actual colors are, they are correlated with one another."
  
 "Now imagine the quantum mechanical version of this same machine. According to the Copenhagen interpretation of quantum mechanics developed in the mid-1920s by Niels Bohr, Werner Heisenberg, and collaborators, quantum socks in a correlated state (where the color of one is linked to the color of the other) don’t actually have any fixed colors until we look. The very act of looking at one quantum sock determines the color of the other. If we look in one way, the first sock might be red (and the other therefore green). If we look in another, the first is white (and the other black)."

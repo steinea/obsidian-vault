@@ -8,6 +8,8 @@ link: https://www.theparisreview.org/blog/2015/08/31/on-the-pleasures-of-not-rea
 date: 2015-09-05
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "There are writers we instinctively, permanently dislike: not only will we never read them, we will quietly relish the not-reading, finding in it a pleasure that can occasionally rival reading itself."
  
  "After years of suspecting that I hated Michel Houellebecq, I began to assert as fact that I hated Michel Houellebecq; more recently, I discovered that I deeply enjoy Michel Houellebecq. It took impassioned pleas by not one but several friends to get me to read him—an almost literal conversion effort. People have become Catholic for less."

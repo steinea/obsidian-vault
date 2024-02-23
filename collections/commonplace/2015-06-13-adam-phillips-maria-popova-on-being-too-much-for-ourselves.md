@@ -8,6 +8,8 @@ link: https://www.themarginalian.org/2015/06/08/adam-phillips-on-balance/
 date: 2015-06-13
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "when we call our reactions overreactions what we mean is just that they are stronger than we would like them to be. In other words, we sometimes call ourselves and other people excessive as a way of invalidating or tempering the truths we tell ourselves or that other people tell us. It is impossible to overreact."
 
 "When we make Freudian slips we try to cover our tracks by claiming that we have said more than we mean, when in fact we have meant more than we had wanted to say… We may feel like we are saying too much, but we may be saying just the right amount; adding things to the conversation that are worth talking about and trying out. We can’t decide not to make Freudian slips; but even when we use ordinary language intentionally, we often say more than we intend. If I say to you that I am a great admirer of your work, I am telling you about my greatness as well as yours; when I say, 'See you tomorrow,' I am assuming I know what isn’t going to happen in the interim. Our language, without which we couldn’t imagine our lives, is too much for us in the sense that it can surprise us: we hear in it — and we say in it — more than we intend to. And more than we attend to."

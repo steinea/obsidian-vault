@@ -8,6 +8,8 @@ link: https://thenewinquiry.com/coal-comfort/
 date: 2015-11-24
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "Malm opposes any history that treats the rise of fossil fuels as natural or inevitable. His account is about labor and the contingencies that allowed fossil fuels to emerge as an indispensable tool in capital’s struggles to control it."
 
 "In one of the book’s most evocative asides, Malm points out that though the English word power describes both energy currents and hierarchical structures between people, there’s no similar drift in French, Spanish, or German, the languages of other centers of capitalist development. “Why” he asks, “did the two poles collapse into one in English?”"

@@ -8,6 +8,8 @@ link: https://lareviewofbooks.org/article/the-tribe-and-the-language-of-cinema/
 date: 2015-12-10
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "But we should only feel anxiety if our attentions have been so brutalized by convention that we have forgotten that a formally rigorous film will teach us how to watch it, that it may want to prime our attention, to direct it differently than we expect."
 
 "Like Sergey’s chillingly deliberate headsmashing, this is also one of the moments that make The Tribe a “difficult” movie to watch or might lead us to confuse it with a document of human awfulness. But it makes no final sense that pain — especially female pain — should not be seen or heard, especially not when that pain is exposed in a setting whose formal logic protects it from gratuitousness but does not dull its emotional or physiological effects."

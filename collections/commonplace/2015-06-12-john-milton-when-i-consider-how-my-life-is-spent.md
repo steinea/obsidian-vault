@@ -8,6 +8,8 @@ link: https://www.poetryfoundation.org/poems/44750/sonnet-19-when-i-consider-how
 date: 2015-06-12
 ---
 
+[[2015]] / [[commonplace]] / 
+
 When I consider how my light is spent,
 <br>Ere half my days in this dark world and wide,
 <br>And that one talent which is death to hide

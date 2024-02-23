@@ -8,6 +8,8 @@ link: https://jacobin.com/2015/08/peter-singer-charity-effective-altruism/
 date: 2015-08-28
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "The moral principle in both cases is the same: we ought to reduce the suffering of others so long as doing so does not require “sacrificing anything nearly as important.” In the drowning child case, your clothing and shoes aren’t nearly as important as a child’s life, and in the case of philanthropy, the monetary equivalent of that clothing and shoes isn’t nearly as important as saving a child’s life if you have the financial means."
  
 "The core problem is the bourgeois moral philosophy that the movement rests upon. Effective Altruists abstract from — and thereby exonerate — the social dynamics constitutive of capitalism. The result is a simultaneously flawed moral and structural analysis that aspires to fix the world’s most pressing problems on capital’s terms."

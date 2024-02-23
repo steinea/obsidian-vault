@@ -8,6 +8,8 @@ link: https://www.nybooks.com/online/2015/11/16/paris-attacks-isis-strategy-chao
 date: 2015-11-18
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "the greater the hostility toward Muslims in Europe and the deeper the West becomes involved in military action in the Middle East, the closer ISIS comes to its goal of creating and managing chaos."
  
 "This is a strategy that has enabled it to confound far superior international forces, while enhancing its legitimacy in the eyes of its followers. The complexity of the French plot also suggests how successful ISIS has been at cultivating sources of support within the native populations of secular Western countries. Attacking ISIS in Syria will not contain this global movement, which now includes more than two thousand French citizens."

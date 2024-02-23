@@ -8,6 +8,8 @@ link: https://www.rattle.com/product/i47/
 date: 2015-06-18
 ---
 
+[[2015]] / [[commonplace]] / 
+
 *Haibun*
 
 Who are the ones who awake without hearing 

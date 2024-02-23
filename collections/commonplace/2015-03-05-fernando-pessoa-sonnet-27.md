@@ -8,6 +8,8 @@ link: https://en.wikisource.org/wiki/35_Sonnets
 date: 2015-03-05
 ---
 
+[[2015]] / [[commonplace]] / 
+
 XXVII. 
 
 How yesterday is long ago! The past

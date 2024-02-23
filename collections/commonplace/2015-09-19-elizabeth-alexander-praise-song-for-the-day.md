@@ -8,6 +8,8 @@ link: https://poets.org/poem/praise-song-day
 date: 2015-09-19
 ---
 
+[[2015]] / [[commonplace]] / 
+
 *A Poem for Barack Obama’s Presidential Inauguration*
 
 Each day we go about our business, 

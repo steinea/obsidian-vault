@@ -8,6 +8,8 @@ link: https://thenewinquiry.com/hall-of-mirrors/
 date: 2015-09-07
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "A self is not true or false when it is illegible, uncontained"
 
 "“One’s incommunicability with oneself is the great vortex of the nothing.”  —Clarice Lispector, A Breathe of Life"

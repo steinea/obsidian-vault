@@ -8,6 +8,8 @@ link: https://lareviewofbooks.org/article/power-powerlessness-thinking-and-futur
 date: 2015-10-19
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "To think powerlessness is difficult because it is also and firstly to think the impotence of thinking itself, its inability to pass from dunamis (power or potential in Greek) into action (energeia). This also and at the same time necessarily involves thinking the relations between knowledge and power, or knowledges and powers, and so on."
 
 "Behind all this lies proletarianization, which today affects all forms of knowledge, and firstly as a destruction of knowledge — of how to live, do, and conceptualize. Those who define themselves as “intellectuals” internalize this situation, oblivious to the fact that today they themselves have been proletarianized. And here we should recall that in The Communist Manifesto Marx and Engels defined proletarianization not in terms of poverty but by the loss of knowledge (one consequence of which is pauperization), which in the end, they say, affects “all layers of the population.”"

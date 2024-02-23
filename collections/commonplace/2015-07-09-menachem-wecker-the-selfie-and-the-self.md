@@ -8,6 +8,8 @@ link: https://www.theatlantic.com/entertainment/archive/2015/07/facebook-rainbow
 date: 2015-07-09
 ---
  
+[[2015]] / [[commonplace]] / 
+
 "Just as social media users today are performing for the public and posturing themselves in a variety of ways—whether they’re aware of it or not— portraiture has long incorporated symbols and other design elements to help define and express identity, while also associating its subjects with particular causes or traditions."
  
 "Sam Redman, an assistant professor of history and culture at the University of Massachusetts Amherst, points out that Facebook’s rainbow filters are part of a strong tradition of associating social movements with colors and symbols."

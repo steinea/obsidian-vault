@@ -8,6 +8,8 @@ link: https://www.theatlantic.com/health/archive/2015/10/hallucinations-born-fro
 date: 2015-10-14
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "What you see at any given moment is only partially based on what’s actually in front of you. Sensory information is part of visual perception, but the other part is the knowledge you already hold about your environment—what you expect to see."
  
  

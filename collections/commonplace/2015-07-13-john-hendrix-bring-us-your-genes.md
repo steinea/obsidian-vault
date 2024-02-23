@@ -8,6 +8,8 @@ link: https://nautil.us/issue/26/color/bring-us-your-genes
 date: 2015-07-13
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "Iceland had an obsession with genealogy, a tradition of centralized medical record keeping, and an altruistic populace. The nation had a massive tissue bank that had been preserving samples from autopsies since 1915, and had recorded every single case of cancer diagnosed since 1952."
 
 "As for his coveted job at America’s most famous college? “Harvard is a lousy university,” Stefansson said. “It’s a loose confederacy of independent institutions and I was eager to get away from there. It was a boring place.”"

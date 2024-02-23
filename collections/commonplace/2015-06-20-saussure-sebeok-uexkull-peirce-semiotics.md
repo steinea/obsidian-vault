@@ -8,6 +8,8 @@ link: https://en.wikipedia.org/wiki/Semiotics
 date: 2015-06-20
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "While the Saussurean semiotic is dyadic (sign/syntax, signal/semantics), the Peircean semiotic is triadic (sign, object, interpretant), being conceived of as philosophical logic studied in terms of signs that are not always linguistic or artificial. The Peircean semiotic addresses not only the external communication mechanism, as per Saussure, but the internal representation machine, investigating not just sign processes, or modes of inference, but the whole inquiry process in general. Peircean semiotics further subdivides each of the three triadic elements into three sub-types. For example, signs can be icons, indices and symbols."
  
 "Thomas Sebeok assimilated "semiology" to "semiotics" as a part to a whole,[19] and was involved in choosing the name Semiotica for the first international journal devoted to the study of signs."

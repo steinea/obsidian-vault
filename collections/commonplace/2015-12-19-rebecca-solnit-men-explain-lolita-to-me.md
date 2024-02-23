@@ -8,6 +8,8 @@ link: https://lithub.com/men-explain-lolita-to-me/
 date: 2015-12-19
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "This paying attention is the foundational act of empathy, of listening, of seeing, of imagining experiences other than one’s own, of getting out of the boundaries of one’s own experience."
  
 "the whole point of reading is to be able to explore and also transcend your gender (and race and class and nationality and moment in history and age and ability) and experience being others"

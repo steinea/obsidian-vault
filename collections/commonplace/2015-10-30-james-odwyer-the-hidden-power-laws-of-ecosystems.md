@@ -8,6 +8,8 @@ link: https://nautil.us/issue/29/scaling/the-hidden-power-laws-of-ecosystems
 date: 2015-10-30
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "Why shouldn’t an ecosystem be just as beautifully perfect as an ideal gas, and why can’t ecologists have as much predicting power as a physicist? The answers to these questions just might be “it is,” and “they can.” But only when viewed from a particular perspective."
  
 "In the 1980s, two ecologists, Jim Brown at the University of New Mexico and Brian Maurer at Brigham Young University, coined the term macroecology, which gave a name and intellectual home to researchers searching for emergent patterns in nature."

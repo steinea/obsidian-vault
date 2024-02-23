@@ -8,6 +8,8 @@ link: https://www.nybooks.com/online/2015/06/26/reading-is-forgetting/
 date: 2015-07-01
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "Opening a new book called Forgetting by the Dutch writer Douwe Draaisma, I am told almost at once that our immediate visual memories “can hold on to stimuli for no more than a fraction of a second.” This fact—our inevitable forgetting, or simply barely registering most of the visual input we receive—is acknowledged with some regret since we are generally encouraged, Draaisma reflects, “to imagine memory as the ability to preserve something, preferably everything, wholly intact.”"
  
 "The same day I read this, I ran across a quotation from Vladimir Nabokov on the Internet: “Curiously enough,” the author of Lolita tells us, “one cannot read a book: one can only reread it.” Intrigued by this paradox, I checked out the essay it came from. “When we read a book for the first time,” Nabokov complains, “the very process of laboriously moving our eyes from left to right, line after line, page after page, this complicated physical work upon the book, the very process of learning in terms of space and time what the book is about, this stands between us and artistic appreciation.” Only on a third or fourth reading, he claims, do we start behaving toward a book as we would toward a painting, holding it all in the mind at once."

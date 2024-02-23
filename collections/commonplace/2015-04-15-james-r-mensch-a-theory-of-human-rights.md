@@ -8,6 +8,8 @@ link: https://www.opendemocracy.net/en/james-r-mensch/theory-of-human-rights/
 date: 2015-04-15
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "Freedom is the goal rather than the ground of human rights. But freedom is also essentially dependent on others and other cultures. Achieving the conditions for freedom - human rights - is humanity's overriding moral obligation."
 
 "The question I want to explore is the nature of the relationship between these two types of rights.  Their differences are clear.  Civil and political rights, in abstracting from specific content, are value-neutral.  As such, they express an abstract freedom, generally understood as a freedom from government interference."

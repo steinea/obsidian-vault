@@ -8,6 +8,8 @@ link: https://coreyrobin.com/2014/11/13/david-ricardo-machiavelli-of-the-margin/
 date: 2015-10-26
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "In my course this semester at the Graduate Center, “The Political Theory of Capitalism,” we’ve been exploring how some of the classics of modern political economy translate, traduce, transmit, efface, revise, and/or sublimate traditional categories of and concepts in Western political theory: consent, obedience, rule, law, and so forth."
 
 "Through economic thinkers like Smith, Ricardo, Keynes, Schumpeter, Jevons, and the like, we try and read political economy as the distinctively modern idiom of political theory. In the same way that religion provided a distinctive language and vocabulary for political thought after Rome and before the Renaissance, might not economics provide modern political theory with its own distinctive idiom and form? In other words, our interest in the political moment of economic discourse is not when the state intervenes or intrudes; it’s when economic discourse seems to be most innocent of politics. That’s when we find the most resonant and pregnant political possibilities."

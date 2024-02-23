@@ -8,6 +8,8 @@ link: https://thesouthernreview.org/issues/detail/Spring-1941/211/
 date: 2015-10-18
 ---
 
+[[2015]] / [[commonplace]] / 
+
 I
 
 Around them boomed the rhetoric of time,

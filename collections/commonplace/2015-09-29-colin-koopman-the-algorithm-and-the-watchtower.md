@@ -8,6 +8,8 @@ link: https://thenewinquiry.com/the-algorithm-and-the-watchtower/
 date: 2015-09-29
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "All the data that is ceaselessly being produced about us and by us is so important to us in part because we are constantly invited to live our lives through updates, comments, shares, and other manner of informational self-presentation. This invitation is extended to us not only by the cool new social media startups and digital device manufacturers who profit from all the data, but it is also the message we frequently get from colleagues, contacts, family, and above all the “friends” who implicitly promise to pay attention to the data we produce."
 
 "The sheer number of facts being collected is unprecedented if not in fact unfathomable. To make sense of the new political power that can be built out of all this data requires metaphors, and these metaphors themselves are not without political stakes. Metaphors help shape the meanings of the activities in which we are engaged and they thereby help condition what possible actions we can conceive ourselves as undertaking. Metaphors thus have a political stakes in that they define the forms of power that control us and the forms of possible resistance to power we can imagine."

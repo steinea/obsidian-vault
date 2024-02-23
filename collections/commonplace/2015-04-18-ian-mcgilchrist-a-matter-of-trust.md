@@ -8,6 +8,8 @@ link: https://lareviewofbooks.org/article/matter-trust/
 date: 2015-04-18
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "BELIEF IS NOT what you think. In either sense."
 
 "Nowadays belief is often viewed as simply a feeble form of knowing, as in I believe (but am not certain) that the train leaves at 6:13. But this has not always been the case. The word belief has nowhere buried in it the idea of signing up to a proposition, certain or uncertain. It is not a matter of cognition, but of recognition. It comes from the same root as the word love, a sense preserved in the now archaic word lief, familiar to us from Shakespeare, with which one once described ones friend, sweetheart, or lord someone in whom one believed."

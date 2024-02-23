@@ -8,6 +8,8 @@ link: https://www.newyorker.com/magazine/2015/07/20/the-really-big-one
 date: 2015-07-19
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "we now know that the Pacific Northwest has experienced forty-one subduction-zone earthquakes in the past ten thousand years. If you divide ten thousand by forty-one, you get two hundred and forty-three, which is Cascadia’s recurrence interval: the average amount of time that elapses between earthquakes. That timespan is dangerous both because it is too long—long enough for us to unwittingly build an entire civilization on top of our continent’s worst fault line—and because it is not long enough. Counting from the earthquake of 1700, we are now three hundred and fifteen years into a two-hundred-and-forty-three-year cycle."
 
 "Certain disasters stem from many small problems conspiring to cause one very large problem. For want of a nail, the war was lost; for fifteen independently insignificant errors, the jetliner was lost. Subduction-zone earthquakes operate on the opposite principle: one enormous problem causes many other enormous problems."

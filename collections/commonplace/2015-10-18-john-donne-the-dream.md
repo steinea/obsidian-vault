@@ -8,6 +8,8 @@ link: https://www.poetryfoundation.org/poems/44098/the-dream-56d2230d79f0b
 date: 2015-10-18
 ---
 
+[[2015]] / [[commonplace]] / 
+
 Elegies
 X. The Dream
 

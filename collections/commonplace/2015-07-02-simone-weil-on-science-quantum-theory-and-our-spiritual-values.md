@@ -8,6 +8,8 @@ link: https://www.themarginalian.org/2015/06/24/simone-weil-on-science-necessity
 date: 2015-07-02
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "the capital-T truth science purports to produce is merely the average of the various subjectivities of the villagers"
  
 "Science, like every effort of thought, consists in interpreting experience… It is a mistake to think that experiment is of any use for this purpose, because all human thought, including beliefs which appear completely absurd, is experimental and claims to be based on and confirmed by experience… All thought is an effort of interpretation of experience, and experience provides neither model nor rule nor criterion for the interpretation; it provides the data of problems but not a way of solving or even of formulating them. This effort requires, like all other efforts, to be oriented towards something; all human effort is oriented and when man is not going in any direction he remains motionless. He cannot do without values. For all theoretical study the name of value is truth. It is impossible, no doubt, for men of flesh and blood in this world to have any representation of truth which is not defective; but they must have on — an imperfect image of the non-representable truth which we once saw, as Plato says, beyond the sky."

@@ -8,6 +8,8 @@ link: https://plato.stanford.edu/entries/peirce-semiotics/
 date: 2015-11-25
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "Peirce’s Sign Theory, or Semiotic, is an account of signification, representation, reference and meaning."
 
 "Peirce also treated sign theory as central to his work on logic, as the medium for inquiry and the process of scientific discovery, and even as one possible means for ‘proving’ his pragmatism."

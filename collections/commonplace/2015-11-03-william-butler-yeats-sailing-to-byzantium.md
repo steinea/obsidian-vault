@@ -8,6 +8,8 @@ link: https://www.poetryfoundation.org/poems/43291/sailing-to-byzantium
 date: 2015-11-03
 ---
 
+[[2015]] / [[commonplace]] / 
+
 I 
 
 That is no country for old men. The young 

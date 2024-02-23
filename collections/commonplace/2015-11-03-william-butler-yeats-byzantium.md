@@ -8,6 +8,8 @@ link: https://www.poetryfoundation.org/poems/43296/byzantium
 date: 2015-11-03
 ---
 
+[[2015]] / [[commonplace]] / 
+
 The unpurged images of day recede; 
 <br>The Emperor's drunken soldiery are abed; 
 <br>Night resonance recedes, night-walkers' song 

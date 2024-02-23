@@ -8,6 +8,8 @@ link: https://nautil.us/issue/29/scaling/will-quantum-mechanics-swallow-relativi
 date: 2015-11-05
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "A basic assumption in Einstein’s physics—an assumption going all the way back to Aristotle, really—is that space is continuous and infinitely divisible, so that any distance could be chopped up into even smaller distances. But Hogan questions whether that is really true. Just as a pixel is the smallest unit of an image on your screen and a photon is the smallest unit of light, he argues, so there might be an unbreakable smallest unit of distance: a quantum of space."
 
 "For most of today’s theorists, though, belief in the primacy of quantum mechanics runs deeper still. At a philosophical—epistemological—level, they regard the large-scale reality of classical physics as a kind of illusion, an approximation that emerges from the more “true” aspects of the quantum world operating at an extremely small scale. Chunky space certainly aligns with that worldview."

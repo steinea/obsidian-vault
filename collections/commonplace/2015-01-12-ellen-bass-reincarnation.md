@@ -8,6 +8,8 @@ link: https://www.newyorker.com/magazine/2015/01/19/reincarnation-3
 date: 2015-01-12
 ---
 
+[[2015]] / [[commonplace]] / 
+
 Who would believe in reincarnation
 <br>if she thought she would return as
 <br>an oyster? Eagles and wolves

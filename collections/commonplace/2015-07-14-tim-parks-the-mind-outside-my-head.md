@@ -8,6 +8,8 @@ link: https://www.nybooks.com/online/2012/04/10/mind-outside-head-consciousness/
 date: 2015-07-14
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "“There are no images.” This was the first time I noticed Riccardo Manzotti. It was a conference on art and neuroscience. Someone had spoken about the images we keep in our minds. Manzotti seemed agitated. The girl sitting next to me explained that he built robots, was a genius. “There are no images and no representations in our minds,” he insisted. “Our visual experience of the world is a continuum between see-er and seen united in a shared process of seeing.”"
 
 "Manzotti is what they call a radical externalist: for him consciousness is not safely confined within a brain whose neurons select and store information received from a separate world, appropriating, segmenting, and manipulating various forms of input. Instead, he offers a model he calls Spread Mind: consciousness is a process shared between various otherwise distinct processes which, for convenience’s sake we have separated out and stabilized in the words subject and object. Language, or at least our modern language, thus encourages a false account of experience."

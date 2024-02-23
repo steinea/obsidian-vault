@@ -8,6 +8,8 @@ link: https://lareviewofbooks.org/article/the-idea-of-europe/
 date: 2015-08-21
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "those features — such as coffeehouses, ample pedestrian spaces, and a humanized landscape — which George Steiner finds define Europe."
  
 "CB: I almost always find reading Steiner to be a very stimulating experience. Even when I disagree with him. What’s important to me as a reader is not whether he is right or wrong, but the place to which he is taking me, and the intellectual process of which he makes me part. He calls that — a touch too pompously perhaps, but not exactly wrong — an “invitation into meaning.” I, for one, feel very much at home in Steiner’s way of thinking, of addressing an issue, of framing and asking a question. Steiner is the European intellectual par excellence: polymath, polyglot, culturally self-aware, firmly rooted in a body of complex intellectual, philosophical, and literary traditions — not only shaped but perhaps even dominated by it."

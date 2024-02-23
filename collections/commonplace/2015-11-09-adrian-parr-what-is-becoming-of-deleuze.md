@@ -8,6 +8,8 @@ link: https://lareviewofbooks.org/article/what-is-becoming-of-deleuze/
 date: 2015-11-08
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "it’s worth remembering some of Deleuze’s key ideas. There is, for example, his famous point that philosophy is the creation of concepts. Without the creation of new concepts, there can be no thinking with a difference, no line of flight in thought. Second, and closely related to this, Deleuze proposed that concepts are tools of analysis, not recognition."
 
 "True to his word, Deleuze left behind a vibrant conceptual apparatus — the “line of flight” is one of them — with some of his concepts (and the ones he coined with his friend and writing partner, Félix Guattari) taking the form of conceptual connectives: deterritorialization and reterritorialization, smooth space and striated space, the molar and the molecular, majoritarian and minoritarian. These are not to be confused with dualistic pairs. Rather each holds an immanent relation to the other, with the one contained within the other (where the majoritarian can turn into the minoritarian and vice versa)."

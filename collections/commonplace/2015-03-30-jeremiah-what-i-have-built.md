@@ -8,6 +8,8 @@ link: https://en.wikipedia.org/wiki/Jeremiah_45
 date: 2015-03-30
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "Behold, what I have built I am breaking down, and what I have planted I am plucking up— that is, the whole land."
 
 45:4

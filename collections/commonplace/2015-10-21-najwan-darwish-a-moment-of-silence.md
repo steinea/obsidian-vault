@@ -8,6 +8,8 @@ link: https://www.poetryfoundation.org/poetrymagazine/poems/56904/a-moment-of-si
 date: 2015-10-21
 ---
 
+[[2015]] / [[commonplace]] / 
+
 And what did the Armenians say?
 
 An Umayyad monk

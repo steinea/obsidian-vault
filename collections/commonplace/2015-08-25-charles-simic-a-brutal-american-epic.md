@@ -8,6 +8,8 @@ link: https://www.nybooks.com/online/2015/08/25/brutal-american-epic-reznikoff-t
 date: 2015-08-25
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "The child, about six, thin and feeble and sick of a disorder of its bowels, was whipped by its father for befouling its bed: twenty or more “licks” with a switch as thick as its father’s finger, and large “whelks” left on its body. And then, on a cold and rainy December day, sent to its grandfather’s in another county— where it died in a few days."
 
 "Reznikoff learned the value of concision from Pound’s and William Carlos Williams’s Imagism. Out of thousands of volumes of court cases and hundreds of pages of transcripts in some trial, he took only this to make a poem out of it: When they told her husband that she had lovers all he said was: one of them might have a cigar and set the barn on fire."

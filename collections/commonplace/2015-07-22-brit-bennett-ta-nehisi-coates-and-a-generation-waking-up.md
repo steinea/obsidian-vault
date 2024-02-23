@@ -8,6 +8,8 @@ link: https://www.newyorker.com/culture/cultural-comment/ta-nehisi-coates-and-a-
 date: 2015-07-22
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "To Coates, a defining feature of black life is that your body can be taken from you easily, and with little consequence."
  
 "To Coates, to be black in a white supremacist society is to live in constant fear of disembodiment. Even if your body is not stolen from you, the fear of losing your body steals your energy, your time, and your freedom."

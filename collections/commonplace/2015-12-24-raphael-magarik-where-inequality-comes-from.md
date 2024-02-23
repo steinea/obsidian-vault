@@ -8,6 +8,8 @@ link: https://lareviewofbooks.org/article/where-does-inequality-come-from/
 date: 2015-12-24
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "The Thatcherite revolution of the 1980s not only physically but also ideologically dismantled the British social welfare state. In particular, centrist liberals jettisoned their party’s goal of economic equality in favor of the more modest goal of alleviating poverty."
  
 "Tony Blair changed the infamous Clause IV of the British Labour party constitution, with its aspiration “to secure for the workers by hand or by brain the full fruits of their industry and the most equitable distribution thereof.” Blair wanted to enhance the standard of living of the poor — not to reshape the distribution of wealth or to threaten the position of the rich."

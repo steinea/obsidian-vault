@@ -8,6 +8,8 @@ link: https://lareviewofbooks.org/article/troubles-with-three-ism-body-mind-and-
 date: 2015-11-30
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "my soul, unlike my mind, seemed a bit too vague and general to be “me.” I wanted to be in heaven with me as me myself. Such were the vicissitudes of boyhood. I was troubled by three-ism. I was not, and am not, alone."
 
 "The old dichotomies of body and soul now became a three-way contest between body, soul, and mind, with the last term existing somewhere between scientific discourse with its prerequisites of materialism, mechanization, and quantification, and the metaphysical credos of an immaterial human essence."

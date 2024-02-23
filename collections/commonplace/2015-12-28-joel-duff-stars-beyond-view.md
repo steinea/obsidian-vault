@@ -8,6 +8,8 @@ link: http://thenaturalhistorian.com/2015/12/26/nh-notes-john-ray-on-the-purpose
 date: 2015-12-28
 ---
 
+[[2015]] / [[commonplace]] / 
+
 “The question of the day that Ray is addressing is whether all parts of creation were made for man or whether some parts were made solely for the Glory of God irrespective of man’s position in creation.”
 
 “Here we see that John Ray seems to take the view that not all creation finds its purpose solely in relationship to man but has purpose on its own without reference to man. Notice that he makes a strong argument that at the moment of his writing he believes that there must be stars beyond view and organisms not ever taken notice of by man and therefore of no use to him.”

@@ -8,6 +8,8 @@ link: https://jacobin.com/2015/07/chomsky-interview-citizens-united-democracy-hi
 date: 2015-07-29
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "Definitions are basically parts of theoretical structures. A definition doesn’t mean anything unless it’s embedded in some theory of some explanatory scope."
  
 "terms are in fact used very loosely. They have a strong ideological component."

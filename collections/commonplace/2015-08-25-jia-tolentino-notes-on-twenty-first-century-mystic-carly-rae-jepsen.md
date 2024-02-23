@@ -8,6 +8,8 @@ link: https://www.theawl.com/2015/08/notes-on-21st-century-mystic-carly-rae-jeps
 date: 2015-08-25
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "Carly Rae Jepsen is a pop artist zeroed in on love’s totipotency: the glance, the kaleidoscope-confetti-spinning instant, the first bit of nothing that contains it all."
 
 "This is audible and immediate in her voice, whose definitive quality is a childlike ardency inflected with coyness; she sings like her smile is bursting, like there are stars imploding in her eyes."

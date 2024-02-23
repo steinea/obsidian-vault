@@ -8,6 +8,8 @@ link: https://www.theatlantic.com/magazine/archive/2005/12/is-god-an-accident/30
 date: 2015-11-24
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "It is easy for those of us who reject supernatural beliefs to agree with Stephen Jay Gould that the best way to accord dignity and respect to both science and religion is to recognize that they apply to "non-overlapping magisteria": science gets the realm of facts, religion the realm of values."
 
 "For better or worse, though, religion is much more than a set of ethical principles or a vague sense of transcendence. The anthropologist Edward Tylor got it right in 1871, when he noted that the "minimum definition of religion" is a belief in spiritual beings, in the supernatural."

@@ -8,6 +8,8 @@ link: https://en.wikipedia.org/wiki/Ender_in_Exile
 date: 2015-01-04
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "You are the man you have always been: one who takes responsibility, one who foresees consequences and acts to protect other and, yes, yourself. That man will not easily surrender a burden."
 
 Graff to Ender, Ender in Exile, p. 400

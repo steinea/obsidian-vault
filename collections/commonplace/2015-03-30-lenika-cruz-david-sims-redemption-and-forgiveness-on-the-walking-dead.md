@@ -8,6 +8,8 @@ link: https://www.theatlantic.com/entertainment/archive/2015/03/the-walking-dead
 date: 2015-03-30
 ---
 
+[[2015]] / [[commonplace]] / 
+
 The show's fifth-season finale wisely chose story over the typical explosion of violence.
 
 Every week for the fifth season of AMC's post-apocalyptic drama The Walking Dead, Lenika Cruz and David Sims discussed the latest threat—human, zombie, or otherwise—to the show's increasingly hardened band of survivors.

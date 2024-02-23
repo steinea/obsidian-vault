@@ -8,6 +8,8 @@ link: https://lareviewofbooks.org/article/clickbait-ideology-goes-viral/
 date: 2015-11-17
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "IN DECEMBER 2006, Time magazine famously awarded its Person of the Year Award to “you.” The decision was a nod to the advent of a new and prominent actor in online communications and media, one that promised to revolutionize the way in which we generated and consumed online content: the user."
  
 "“Like”-driven online media economy."

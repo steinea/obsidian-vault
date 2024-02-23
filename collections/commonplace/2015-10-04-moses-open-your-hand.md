@@ -8,6 +8,8 @@ link: https://en.wikipedia.org/wiki/Book_of_Deuteronomy
 date: 2015-10-04
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "If there is among you anyone in need, a member of your community in any of your towns within the land that the LORD your God is giving you, do not be hard-hearted or tight-fisted toward your needy neighbor. You should rather open your hand, willingly lending enough to meet the need, whatever it may be. 
 
 ...

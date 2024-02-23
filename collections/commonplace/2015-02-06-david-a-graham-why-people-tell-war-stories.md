@@ -8,6 +8,8 @@ link: https://www.theatlantic.com/national/archive/2015/02/NBC-Anchor-Brian-Will
 date: 2015-02-06
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "Tim O'Brien, the Vietnam veteran, Purple Heart winner, and great writer of war, meditated on "true war stories." "You can tell a true war story by its absolute and uncompromising allegiance to obscenity and evil," O'Brien wrote:"
 
 "You can tell a true war story by the way it never seems to end .... In the end, of course, a true war story is never about war. It's about the special way that dawn spreads out on a river when you know you must cross the river and march into the mountains and do things you are afraid to do. It's about love and memory. It's about sorrow. It's about sisters who never write back and people who never listen."

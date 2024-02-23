@@ -8,6 +8,8 @@ link: https://www.vatican.va/content/francesco/en/speeches/2014/october/document
 date: 2015-07-29
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "God and Christ are walking with us and are also present in nature, as the Apostle Paul stated in his discourse at the Areopagus: “In him we live and move and have our being” (Acts 17:28)."
  
 "When we read the account of Creation in Genesis we risk imagining that God was a magician, complete with an all powerful magic wand. But that was not so. He created beings and he let them develop according to the internal laws with which He endowed each one, that they might develop, and reach their fullness."

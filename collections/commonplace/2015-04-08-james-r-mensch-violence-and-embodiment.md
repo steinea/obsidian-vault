@@ -8,6 +8,8 @@ link: https://www.opendemocracy.net/en/article/violence_and_embodiment/
 date: 2015-04-08
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "the role of the embodied "I can" is crucial"
  
 "Without it, we could not acquire and enact the practical senses we gain from others. We could not articulate them. Thus, everything from learning to eat at the table to learning how to write presupposes a functioning body."

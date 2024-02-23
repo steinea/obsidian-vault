@@ -8,6 +8,8 @@ link: https://lareviewofbooks.org/article/three-contemporary-spinozas/
 date: 2015-04-23
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "I shall consider human actions and appetites just as if it were a question of lines, planes and bodies. — Baruch Spinoza"
  
 "the core of Spinoza’s ambitious philosophical agenda is an insistence upon the truth, achieved through the operations of reason, regardless of its social and political consequences"

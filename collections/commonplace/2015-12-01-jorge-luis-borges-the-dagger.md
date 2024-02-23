@@ -8,6 +8,8 @@ link: https://www.penguinrandomhouse.ca/books/331320/selected-poems-by-jorge-lui
 date: 2015-12-01
 ---
 
+[[2015]] / [[commonplace]] / 
+
 A dagger rests in a drawer.
 
 It was forged in Toledo at the end of the last century. Luis Melian Lafinur gave it to my father, who brought it from Uruguay. Evaristo Carriego once held it in his hand.

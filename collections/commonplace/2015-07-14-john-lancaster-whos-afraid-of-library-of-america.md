@@ -8,6 +8,8 @@ link: https://www.lrb.co.uk/the-paper/v30/n12/john-lanchester/short-cuts
 date: 2015-07-14
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "American books are in general printed to much higher standards than British books. (Ask publishers about that, and they always say that it’s to do with economies of scale: five times as big an audience equals higher print runs equals lower costs equals the possibility to make nicer books. So they say.)"
 
 "A paperback is a paperback; the collected writings of a writer, any writer, have the air of belonging to Culture in the abstract. That’s off-putting. With cheap and cheerful editions it seems natural to move around from the latest overpraised tripe to masterpieces you should have read years ago. This might be one reason classics publishing has so thrived in paperback. Penguin Classics (for whom I briefly worked, I should declare) is, in terms of overall sales and the ability to keep books in print indefinitely, the most successful publishing list in the world. Part of that must be to do with a sense that the books are easy to pick up and put down; literally and metaphorically, not too heavy."

@@ -8,6 +8,8 @@ link: https://www.dappledthings.org/7978/the-miracle-of-language/
 date: 2015-10-01
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "Through symbol, we are able to make the leap from a particular thing or situation requiring a response and into the realm of universals."
  
 "Language is an irreducible triad connecting us to real objects and allowing us to make a conceptual leap to the whole. I say that it is irreducible because the clues to how we communicate seem to be irretrievably hidden in pre-linguistic clues. You either communicate or you don’t. Even an infant child, although physically inferior to pretty much every other creature at the same age of development, seems to be capable of communication. Any mother will tell you so. The ability to communicate reveals the intellect that is the distinguishing mark of our species. We are rational animals."

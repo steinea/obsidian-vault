@@ -8,6 +8,8 @@ link: https://www.theawl.com/2015/07/the-pixar-theory-of-labor/
 date: 2015-07-22
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "A lot of Pixar films come packaged with a quasi-humanist narrative hook that enables the public digestion of their work."
  
 "It is in the nature of modern capitalism that corporations, especially ones of a certain size and influence, glaze a veneer of enlightenment over a brutal, instrumental value system."

@@ -8,6 +8,8 @@ link: https://lareviewofbooks.org/article/neal-stephensons-ideal-forms/
 date: 2015-08-21
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "NEAL STEPHENSON has been publishing important novels every few years (like clockwork – appropriate, given his use of clock imagery) for over 20 years. In 1992, he wrote Snow Crash, one of the two great cyberpunk novels, before he helped bury the genre with The Diamond Age, which won a Hugo award in 1995. He has written seven novels since then; all have been big sellers and have earned acclaim from critics. If there is a single word critics use to describe Stephenson, that word is big. He writes big books (The Diamond Age was his last novel that clocked in at fewer than seven hundred pages). In them, he engages with big ideas. The action in his novels spans big spaces and big stretches of time. We hear a lot about how big his ideas are, but we get little substantive engagement with these ideas, especially outside of science fiction circles."
  
 "This is a shame. Stephenson’s writing and ideas deserve a more considered critique, both for their own sake and as part of literary history. Moreover, Stephenson is the rare writer who provides something like a key to help decipher how his fiction reflects his ideas. This key is embedded six hundred pages deep within Anathem, his greatest work to date."

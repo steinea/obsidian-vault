@@ -8,6 +8,8 @@ link: https://www.theatlantic.com/national/archive/2015/12/obama-speech-san-bern
 date: 2015-12-08
 ---
  
+[[2015]] / [[commonplace]] / 
+
 "President Obama called a mass shooting in California this week “an act of terrorism designed to kill innocent people.”"
 
 "Obama said that investigators do not believe the killers “were directed by a terrorist organization overseas or that they were part of a broader conspiracy here at home.”"

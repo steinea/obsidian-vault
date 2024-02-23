@@ -8,6 +8,8 @@ link: https://lareviewofbooks.org/article/establish-justice-gates/
 date: 2015-04-02
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "How can I be well, when my sister is not well; how can I not be well if my brother has found love? […] in this concept, when one person is diminished, everybody is diminished. When one person is triumphant, we are all triumphant. This is what it means to be truly human; to know that you are bound up in the bond of life.           — Rabbi Sharon Brous"
 
 "Historical amnesia and incuriousness about the violence of the past is the luxury of the oppressor.           — Simon Critchley, The Faith of the Faithless"

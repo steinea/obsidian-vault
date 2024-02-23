@@ -8,6 +8,8 @@ link: https://houseofanansi.com/products/cockroach
 date: 2015-03-18
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "All was good, all was natural, all was accepted by the underworld."
 
 Cockroach, pg. 156

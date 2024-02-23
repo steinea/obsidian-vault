@@ -8,6 +8,8 @@ link: https://en.wikisource.org/wiki/The_Ambitious_Guest
 date: 2015-10-27
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "The daughter had just uttered some simple jest that filled them all with mirth, when the wind came through the Notch and seemed to pause before their cottage--rattling the door, with a sound of wailing and lamentation, before it passed into the valley. For a moment it saddened them, though there was nothing unusual in the tones."
 
 ""The old mountain has thrown a stone at us, for fear we should forget him," said the landlord, recovering himself. "He sometimes nods his head and threatens to come down; but we are old neighbors, and agree together pretty well upon the whole. Besides we have a sure place of refuge hard by if he should be coming in good earnest.""

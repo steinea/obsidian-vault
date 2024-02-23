@@ -8,6 +8,8 @@ link: https://nautil.us/blog/the-hidden-connection-between-morality-and-language
 date: 2015-08-10
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "a distance is created between emotional and moral topics when speaking in a second language"
 
 "People are more likely to act less emotionally and more rationally when speaking their second language, according to Geipel. Nelson Mandela seemed to have understood this dynamic decades ago when he said, “If you talk to a man in a language he understands, that goes to his head. If you talk to him in his language, that goes to his heart.”"

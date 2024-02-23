@@ -8,6 +8,8 @@ link: https://www.lrb.co.uk/the-paper/v37/n05/adam-phillips/against-self-critici
 date: 2015-03-09
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "A life without a so-called critical faculty would seem an idiocy: what are we, after all, but our powers of discrimination, our taste, the violence of our preferences?"
 
 "conscience is the consequence of uncompleted revenge"

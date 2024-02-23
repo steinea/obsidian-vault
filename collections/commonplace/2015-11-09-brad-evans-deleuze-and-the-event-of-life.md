@@ -8,5 +8,7 @@ link: https://lareviewofbooks.org/article/gilles-deleuze-the-event-of-life/
 date: 2015-11-09
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "For Deleuze, the event marks a rupture in the continuity of one’s historical experiences. Events are by definition untimely. An event is time “out of joint.” From this perspective, the event has no evident starting point or terminus. While some may argue that the significance of an event must be measured quantitatively (for example, by how many people are affected by it), one shouldn’t underestimate the importance of the qualitatively singular."
 

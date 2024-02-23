@@ -8,6 +8,8 @@ link: https://www.theatlantic.com/international/archive/2015/10/how-isis-started
 date: 2015-11-18
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "“It is perfectly true, as the philosophers say, that life must be understood backwards. But they forget the other proposition: that it must be lived forwards.” This observation was made in 1843 by the Danish philosopher Søren Kierkegaard in a journal entry, but it might have been written about the contemporary Middle East."
 
 "We have been living the Islamic State forwards, surprised at every turn, but we can perhaps begin to understand it backwards. Although ISIS took most of the world by surprise when it swept into the Iraqi city of Mosul in June 2014, the group and its forebears had been proclaiming their goals for a decade. Like many consequential events, this one didn’t sneak up on policymakers; they simply didn’t see what was taking shape in front of them. ISIS told us exactly what it was going to do, and then did it. This was a secret conspiracy hiding in plain sight."

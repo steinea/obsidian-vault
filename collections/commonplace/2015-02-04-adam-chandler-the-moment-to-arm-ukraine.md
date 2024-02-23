@@ -8,4 +8,6 @@ link: https://www.theatlantic.com/international/archive/2015/02/ukraine-lethal-a
 date: 2015-02-04
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "For his part, Ukrainian President Petro Poroshenko also addressed a session of Congress in September during which he practically begged the United States to provide weapons, stressing that 'blankets, night-vision goggles are also important. … But one cannot win the war with blankets. Even more, we cannot keep the peace with a blanket. ... In Ukraine, you don’t build a democracy. It already exists. You just defend it.'"

@@ -8,6 +8,8 @@ link: http://www.salon.com/2015/01/11/leo_tolstoys_theory_of_everything/
 date: 2015-01-24
 ---
 
+[[2015]] / [[commonplace]] / 
+
 zadushevnuiu — innermost (Russian), literally, the “behind-the-soul”
 
 

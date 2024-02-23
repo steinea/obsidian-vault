@@ -8,5 +8,7 @@ link: https://aeon.co/essays/orwell-was-wrong-doublethink-is-as-clear-as-languag
 date: 2015-12-14
 ---
  
+[[2015]] / [[commonplace]] / 
+
 "Metaphysics is intellectual ergonomics."
  

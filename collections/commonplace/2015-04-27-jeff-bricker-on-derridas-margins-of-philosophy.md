@@ -8,6 +8,8 @@ link: https://www.amazon.ca/review/R3PFLSBZICQ5KF/ref=cm_cr_dp_title?ie=UTF8&ASI
 date: 2015-04-27
 ---
 
+[[2015]] / [[commonplace]] / 
+
 By Jeff Bricker on Jan. 30 2003
 
 Format: Paperback

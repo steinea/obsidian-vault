@@ -8,6 +8,8 @@ link: http://bs.dayabook.com/poetry/po-chu-i-selected-poems/the-dragon-of-the-bl
 date: 2015-01-26
 ---
 
+[[2015]] / [[commonplace]] / 
+
 Deep the waters of the Black Pool, colored like ink;
 <br>They say a Holy Dragon lives there, whom men have never seen.
 <br>Beside the Pool they have built a shrine; the authorities have established a ritual;

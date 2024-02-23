@@ -8,6 +8,8 @@ link: https://web.archive.org/web/20151028075917/https://nautil.us/blog/heres-wh
 date: 2015-10-26
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "experimental results published last year, from a lab at Lund University in Sweden, hint that we need to change our approach. They suggest the brain learns in a way more analogous to that of a computer: It encodes information into molecules inside neurons and reads out that information for use in computational operations."
 
 "A computer does not learn by rewiring itself; it learns by encoding facts into sequences of ‘0s’ and ‘1s’ called bit strings, which it stores in addressable registers. Registers are strings of tiny switches. When a switch is set one way, it physically represents ‘1’; when set the other way, it physically represents ‘0’. The registers in a computer’s memory are numbered, and the numbers constitute addresses. The computer stores a bit string by choosing an available address and setting the switches in accord with the string to be stored there."

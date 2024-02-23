@@ -8,6 +8,8 @@ link: https://aeon.co/magazine/science/the-universal-constants-that-drive-physic
 date: 2015-09-22
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "Electromagnetic theory gave a first crucial insight 150 years ago. The Scottish physicist James Clerk Maxwell showed that when electric and magnetic fields change in time, they interact to produce a travelling electromagnetic wave. Maxwell calculated the speed of the wave from his equations and found it to be exactly the known speed of light. This strongly suggested that light was an electromagnetic wave – as was soon definitively confirmed."
  
 "Until quantum theory came along, electromagnetism was the complete theory of light. It remains tremendously important and useful, but it raises a question. To calculate the speed of light in a vacuum, Maxwell used empirically measured values for two constants that define the electric and magnetic properties of empty space. Call them, respectively, Ɛ0 and μ0. The thing is, in a vacuum, it’s not clear that these numbers should mean anything. After all, electricity and magnetism actually arise from the behaviour of charged elementary particles such as electrons. But if we’re talking about empty space, there shouldn’t be any particles in there, should there? This is where quantum physics enters. In the advanced version called quantum field theory, a vacuum is never really empty. It is the ‘vacuum state’, the lowest energy of a quantum system. It is an arena in which quantum fluctuations produce evanescent energies and elementary particles."

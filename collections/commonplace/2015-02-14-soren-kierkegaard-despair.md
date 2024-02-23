@@ -8,6 +8,8 @@ link: https://press.princeton.edu/books/paperback/9780691020280/kierkegaards-wri
 date: 2015-02-14
 ---
 
+[[2015]] / [[commonplace]] / 
+
 A. Despair is the sickness unto death 
 
    I. Despair is a sickness of the spirit, of the self, and accordingly can take three forms:

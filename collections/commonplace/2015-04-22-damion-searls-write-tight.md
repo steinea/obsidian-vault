@@ -8,6 +8,8 @@ link: https://www.theparisreview.org/blog/2015/04/21/write-tight/
 date: 2015-04-22
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "Poetry is from the Greek poiein, “to make”: a poem is something made, or in English we would more naturally say crafted. Yet everyone agrees good prose is well crafted, too. Prose means, literally, “straightforward,” from the Latin prosa, proversus, “turned to face forward” (whereas verse is all wound up, twisty and snaky, “turned” in every direction except, apparently, forward). Yet we all know that poems can be clear and direct, too, especially when they’re songs."
  
 "Sidelining sonnets and quarantining quatrains in the poetry ghetto does produce a certain clarity. But of course it also creates problems when translating from languages that gerrymander poetry differently. In German, for example, writer is a word even more literal than the English “someone who writes”: it’s Schriftsteller, a put-down-on-paper-er (Schrift = “writing,” stellen = “to place, to put”). Autor is a word used a bit less often for pretty much the same thing, unlike in English, where there’s a difference: author expresses a professional and financial identity (there are no “unpublished authors,” unless maybe the manuscript is finished and the contract is signed), while a writer is someone pursuing an activity (published or not, paid or not, read or not)."

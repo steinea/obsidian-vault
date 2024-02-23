@@ -8,6 +8,8 @@ link: https://www.newyorker.com/magazine/2014/05/12/the-end-of-food
 date: 2015-12-17
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "“Most of people’s meals are forgotten,” he told me. He imagines that, in the future, “we’ll see a separation between our meals for utility and function, and our meals for experience and socialization.” Soylent isn’t coming for our Sunday potlucks. It’s coming for our frozen quesadillas."
 
 "the farm-to-table ethos has essentially bypassed the working class, which is left, instead, to live with the fallout of the low-cost food industry—obesity, diabetes, and, ironically, malnutrition. A recent U.N. report warned that climate change is threatening the global food supply, and that its impact will worsen in ways that aren’t confined to the poor."

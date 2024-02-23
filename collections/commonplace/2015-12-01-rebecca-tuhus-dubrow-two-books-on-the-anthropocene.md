@@ -8,6 +8,8 @@ link: https://lareviewofbooks.org/article/impurity-two-books-on-the-anthropocene
 date: 2015-12-01
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "That’s what we didn’t, perhaps, understand: that there would be no before and after to catastrophic climate change, that the dystopian could be so cozy with the quotidian."
  
 "The term is a little too fashionable these days, but it is useful because it assigns a name to something we all uneasily recognize: a world whose rules are fundamentally different from the ones we were taught."

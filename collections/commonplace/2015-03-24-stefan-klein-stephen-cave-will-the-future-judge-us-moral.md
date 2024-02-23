@@ -8,6 +8,8 @@ link: https://aeon.co/magazine/philosophy/what-will-morality-look-like-100-years
 date: 2015-03-24
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "the more people feel connected with others, the more moral they are, as recent research shows"
  
  

@@ -8,6 +8,8 @@ link: https://zunguzungu.wordpress.com/about/
 date: 2015-05-16
 ---
 
+[[2015]] / [[commonplace]] / 
+
 “I was an mzungu in Tanzania, and now I’m an mzungu in California. In Tanzania, you learn that you’re an mzungu when children shout “zunguzungu!” and follow you around, and in California you learn to forget because they aren’t there to remind you.”
 
 “But you still are, so I’ve kept the name, even though I’m now writing about other things.”

@@ -8,6 +8,8 @@ link: https://nautil.us/blog/heres-why-millennials-really-arent-that-different
 date: 2015-11-25
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "They confuse life stage differences and generational differences. They’ll look at the fairly predictable changes that happen over someone’s life—when you’re starting off, you’re not very attached and don’t have a spouse, a child, a mortgage—and they will often say, ‘Oh this generation is so much different.’ That often is not true, and it’s one of the lessons we keep on having to relearn."
 
 "Every new generation is much better at using the new technology than previous ones. You can almost define them based on what the current technology was when they came of age."

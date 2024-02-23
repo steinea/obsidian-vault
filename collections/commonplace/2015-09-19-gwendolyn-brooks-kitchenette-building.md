@@ -8,6 +8,8 @@ link: https://www.poetryfoundation.org/poems/43308/kitchenette-building
 date: 2015-09-19
 ---
 
+[[2015]] / [[commonplace]] / 
+
 We are things of dry hours and the involuntary plan,
 <br>Grayed in, and gray. “Dream” makes a giddy sound, not strong
 <br>Like “rent,” “feeding a wife,” “satisfying a man.”

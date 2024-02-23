@@ -8,4 +8,6 @@ link: https://lareviewofbooks.org/article/the-thief-the-friend-his-wife-and-her-
 date: 2015-12-25
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "The power and completeness of all human systems must be continually tested […] at the risk of freedom, of life. — Saul Bellow, Herzog"

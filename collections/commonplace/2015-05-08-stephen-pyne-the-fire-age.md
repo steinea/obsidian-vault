@@ -8,6 +8,8 @@ link: https://aeon.co/magazine/science/how-our-pact-with-fire-made-us-what-we-ar
 date: 2015-05-08
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "Among the ancient elements, fire is the odd one out. Earth, water, air – all are substances. Fire is a reaction. It synthesises its surroundings, takes its character from its context. It burns one way in peat, another in tallgrass prairie, and yet another through lodgepole pine; it behaves differently in mountains than on plains; it burns hot and fast when the air is dry and breezy, and it might not burn at all in fog. It’s a shapeshifter."
  
 "The intellectual idea of fire is a shapeshifter, too. The other elements have academic disciplines behind them. The only fire department on a university campus is the one that sends emergency vehicles when an alarm sounds. In ancient times, fire had standing with the other elements as a foundational axiom of nature. In 1720, the Dutch botanist Herman Boerhaave could still declare that: ‘If you make a mistake in your exposition of the Nature of Fire, your error will spread to all the branches of physics, and this is because, in all natural productions, Fire… is always the chief agent.’"

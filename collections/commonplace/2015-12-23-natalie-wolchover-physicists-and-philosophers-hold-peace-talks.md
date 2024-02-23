@@ -8,6 +8,8 @@ link: https://www.theatlantic.com/science/archive/2015/12/physics-philosophy-str
 date: 2015-12-23
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "Theory has detached itself from experiment. The objects of theoretical speculation are now too far away, too small, too energetic or too far in the past to reach or rule out with our earthly instruments."
  
 "Today, most physicists judge the soundness of a theory by using the Austrian-British philosopher Karl Popper’s rule of thumb. In the 1930s, Popper drew a line between science and non-science in comparing the work of Albert Einstein with that of Sigmund Freud. Einstein’s theory of general relativity, which cast the force of gravity as curves in space and time, made risky predictions—ones that, if they hadn’t succeeded so brilliantly, would have failed miserably, falsifying the theory. But Freudian psychoanalysis was slippery: Any fault of your mother’s could be worked into your diagnosis. The theory wasn’t falsifiable, and so, Popper decided, it wasn’t science."

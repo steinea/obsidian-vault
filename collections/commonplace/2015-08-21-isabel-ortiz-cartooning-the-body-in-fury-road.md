@@ -8,6 +8,8 @@ link: https://lareviewofbooks.org/article/cartooning-the-body-in-mad-max-fury-ro
 date: 2015-08-21
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "If to animate an object is to give it life, to cartoon the same object is to play roulette with that life, for entertainment value."
 
 "As a live-action film with a cartoon sensibility, Fury Road is notable for transferring not only the rule-bound integrity of the cartoon genre onto fleshy heroes and heroines, but also the physics and bodily elasticity. Just as the animated body can stretch and recoil to absorb the impact of dizzying attacks, in Miller’s film human forms are endowed with the plasticity of cartoon characters. This renders them impervious to harm, which of course means that the film throws as much harm at them as possible — extreme durability is met with extreme violence. The film’s animated texture empowers many of its characters to survive explosions, shoddy blood transfusions, and other potentially lethal obstacles. They spray-paint, brand, and pigment their skin as if it were cel paper. They catapult themselves through the air using an endlessly regenerating supply of whacked-out combat tools à la ACME corporation: vaulting poles, cool knives, guns, surprise guns, and backup surprise guns."

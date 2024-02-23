@@ -8,6 +8,8 @@ link: https://global.oup.com/academic/product/the-varieties-of-religious-experie
 date: 2015-01-31
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "in these inner alterations one may find one unsuspected depth below another, as if the possibilities of character lay disposed in a series of layers or shells, of whose existence we have no premonitory knowledge."
 
 Lecture IX, Conversion

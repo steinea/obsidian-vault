@@ -8,6 +8,8 @@ link: https://www.newyorker.com/magazine/2015/02/02/tell-us-story-grandma
 date: 2015-01-26
 ---
 
+[[2015]] / [[commonplace]] / 
+
 I wonder which ones I will remember:
 <br>That I loved my boyfriend’s best friend?
 <br>That I rode the lonely train to Boston?

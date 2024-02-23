@@ -8,6 +8,8 @@ link: https://www.theatlantic.com/international/archive/2015/11/isis-paris-attac
 date: 2015-11-16
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "The Paris attack was a horrific surprise orchestrated by France’s enemies. It wasn’t a “wake-up call” unless you believe its ultimate author was France itself."
  
 "According to the French government, the Islamic State perpetrated Friday’s attacks. Rubio, however, said what occurred in Paris is a “clash of civilizations.”"

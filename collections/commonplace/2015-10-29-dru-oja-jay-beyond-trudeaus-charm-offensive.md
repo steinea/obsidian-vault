@@ -8,6 +8,8 @@ link: https://medium.com/@druojajay/beyond-trudeau-s-charm-offensive-a-social-mo
 date: 2015-10-29
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "There are essentially two ways to respond to Trudeau’s charm offensive."
 
 "The first, we can call “give him a chance”. On this account, the role of Prime Minister is that of a leader who will work better if we give him some breathing room. Folks with this perspective are exhorting us to not be so critical, enjoy the fact that we got rid of Harper, and wait and see what Mr. Trudeau has in store."

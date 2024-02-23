@@ -8,6 +8,8 @@ link: https://www.poetryfoundation.org/poems/43333/the-waking-56d2220f25315
 date: 2015-09-22
 ---
 
+[[2015]] / [[commonplace]] / 
+
 I wake to sleep, and take my waking slow.   
 <br>I feel my fate in what I cannot fear.   
 <br>I learn by going where I have to go. 

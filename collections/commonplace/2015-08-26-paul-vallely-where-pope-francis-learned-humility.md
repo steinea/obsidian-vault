@@ -8,6 +8,8 @@ link: https://www.theatlantic.com/international/archive/2015/08/pope-francis-cor
 date: 2015-08-26
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "one reporter asked what was in the briefcase. “The keys to the atomic bomb aren’t in it,” Francis joked. So what did it contain? “My razor, my breviary, my diary, a book to read—on St Therese of Lisieux to whom I am devoted. ... I always take this bag when I travel. It’s normal. We have to get used to this being normal,” he added."
  
 "It’s a new normal: Francis has presented himself to the world as an icon of simplicity and humility, eschewing papal limousines and the grand Apostolic Palace, and instead being driven in a Ford Focus and living in the Vatican guesthouse. But being simple can be a complex business if you are the leader of one of the world’s largest religious denominations and also a head of state. And Francis’s life story shows that humility is not an innate quality of his, but a calculated religious, and sometimes political, choice."

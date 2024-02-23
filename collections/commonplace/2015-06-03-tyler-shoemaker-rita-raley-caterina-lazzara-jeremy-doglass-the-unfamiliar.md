@@ -8,6 +8,8 @@ link: https://lareviewofbooks.org/article/the-unfamiliar/
 date: 2015-06-03
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "As reviewers at the outset of a multiyear project, all we can offer is an inventio, the first steps in the direction of developing a critical heuristic, the concepts, questions, and techniques with which sense might begin to be made of this serialized work, the scale of which will eclipse even Marcel Proust’s In Search of Lost Time and Karl Ove Knausgaard’s My Struggle. It is not incidental that the Ancient Greek rhetorician Hermagoras of Temnos should appear just nine pages into the primary narrative, because what one must do at the outset of any inquiry is identify the concrete elements: who, what, when, where, how, in what manner, by what means (quis, quid, quando, ubi, cur, quem ad modum, quibus adminiculis). Bloom’s taxonomy of learning is referenced on the same page, and in its terms our work is less to evaluate (Bloom’s highest level in the cognitive domain) than it is to annotate, mark, and comment upon as we start to familiarize the unfamiliar."
 
 "The challenge for practiced readers of Danielewski’s work will be to learn to read the novel they have, rather than the novel they imagine it to be."

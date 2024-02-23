@@ -8,4 +8,6 @@ link: https://lareviewofbooks.org/article/translation/
 date: 2015-02-06
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "In a poem from 35 Sonnets (1918), for example, he asks, “How many masks wear we, and undermasks, / Upon our countenance of soul, and when, / If for self-sport the soul itself unmasks, / Knows it the last mask off and the face plain?”"

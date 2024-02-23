@@ -8,6 +8,8 @@ link: https://lareviewofbooks.org/article/postcards-from-the-threshold/
 date: 2015-09-28
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "To touch the edge of a theory, to talk about forces and dimensions and vibrating energy, is beautiful and fearful, the kind of fear that is good, like fearing God."
 
 "There is a striking idea in modern physics that other dimensions do in fact exist, and that there is knowledge of them because theorists have taken what I — and a number of them, it seems — would construe as a leap of faith. Apparently, there might be as many as seven possible dimensions, and these seven, as my brother puts it, interact in a way similar to the sacrament of communion; that is, they engage between the observable and the unseen, making possible, at least theoretically, the reality of transubstantiation."

@@ -8,6 +8,8 @@ link: https://lareviewofbooks.org/article/self-with-or-without-selfies/
 date: 2015-05-08
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "It seems obvious to many of us that the ability to conjure up, construct, or develop a “self” is directly dependent on the complex brain that has evolved in humans, and on the unique human capacity for language. What’s notable about language is the device known as “grammar,” the set of rules or algorithms that allows us to combine and re-combine the thousands of items in our total vocabularies (both lexical — e.g., “apple,” “ball,” “the,” “self,” etc. — and referential — e.g., “World War I,” “Justin Bieber,” “Iran,” “New York Yankees,” etc.) to generate new sentences, thoughts, and ideas. There are no doubt other “vocabularies” of images, sounds, and movement that also come into play. As far as we know, no other animals share this generative capacity (despite a good deal of sentimentality about animals we like) and, in a sense, that’s why we have rocket science and chimpanzees don’t."
  
 "It’s also the case, or appears to be, that the self is a developmental entity, connected to brain growth after birth, the previously noted language acquisition capacity, and the continuing experience of embodiment, as well as intersubjective experiences with others and the world, sometimes described, perhaps a bit romantically, as being-in-the-world-with-others. The development of a self is, then, a process, and the self is capable, through self-reflection, of making significant changes of belief and behaviour in the course of a lifetime."

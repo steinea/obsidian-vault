@@ -8,6 +8,8 @@ link: https://www.newyorker.com/magazine/2015/02/23/holy-writ
 date: 2015-02-19
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "The comma as we know it was invented by Aldo Manuzio, a printer working in Venice, circa 1500. It was intended to prevent confusion by separating things. In the Greek, komma means “something cut off,” a segment. (Aldo was printing Greek classics during the High Renaissance. The comma was a Renaissance invention.)"
 
 "As the comma proliferated, it started generating confusion. Basically, there are two schools of thought: One plays by ear, using the comma to mark a pause, like dynamics in music; if you were reading aloud, the comma would suggest when to take a breath. The other uses punctuation to clarify the meaning of a sentence by illuminating its underlying structure. Each school believes that the other gets carried away. It can be tense and kind of silly, like the argument among theologians about how many angels can fit on the head of a pin. How many commas can fit into a sentence by Herman Melville? Or, closer to home, into a sentence from The New Yorker?"

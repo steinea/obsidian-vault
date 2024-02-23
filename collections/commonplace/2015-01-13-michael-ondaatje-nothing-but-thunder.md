@@ -8,6 +8,8 @@ link: https://www.penguinrandomhouse.ca/books/124591/in-the-skin-of-a-lion-by-mi
 date: 2015-01-13
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "—They don't want your revolution, Patrick said to Alice. 
 —No. They won't be involved. Just you. You're a mongrel, like me. Not like my daughter here. But like me.
 —So what do you want?

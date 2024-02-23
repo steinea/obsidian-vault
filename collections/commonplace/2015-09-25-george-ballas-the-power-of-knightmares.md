@@ -8,6 +8,8 @@ link: https://lareviewofbooks.org/article/the-power-of-knightmares/
 date: 2015-09-25
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "Because superheroes stand in for failed institutions, they can assume the moral authority of those institutions and act on behalf of the State with force that falls well beyond ordinary legal and ethical boundaries."
 
 "But Christopher Nolan’s Dark Knight trilogy proves to be an exception. The trilogy probes the question of what gives Bruce Wayne the moral authority to become Batman, an outlaw who is permitted to break the law “in the name of the law.” It’s a story of the tit-for-tat escalation of violence created when criminals and rule-bending authorities collide, which begins with vigilantism but ultimately leads to terrorism, impunity, and war. Remove the fantastic superhero elements and the high-concept action scenes, and what is left is a surprisingly complex exploration of the nature of war, justice, and authority in the postmodern era — an extended allegory of America and American leadership during the War on Terror."

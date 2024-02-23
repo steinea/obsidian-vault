@@ -8,6 +8,8 @@ link: https://lareviewofbooks.org/article/spaces-where-maps-fail/
 date: 2015-07-14
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "Taken together, Looking Backward and King Solomon’s Mines comprise the complementary halves of what we can call a collective cartography. If the mapping of social space into tightly controlled regularities in Bellamy’s Boston finds its counterpart in the mapping of the African interior as the repository of hidden treasure in Haggard’s fantasy, the figure of the map here is more than just a metaphor."
 
 "One of the most extensive and significant scientific projects in history, it could be argued, was the British empire’s mapping of the world in the 19th century — a project that not only surveyed the coasts and then the interiors of the non-European world for military and commercial purposes, but also yielded the theory of natural selection, independently arrived at by both Charles Darwin and Alfred Russell Wallace via the evidence provided by its mapping of the distribution of species. It is against the contours of this cartographic project, including not just scientific mapping of the world but capitalist management of social space and the imaginary representation of the world’s availability to colonial expropriation, that Siobhan Carroll’s An Empire of Air and Water: Uncolonizable Space in the British Imagination 1750-1850 takes shape."

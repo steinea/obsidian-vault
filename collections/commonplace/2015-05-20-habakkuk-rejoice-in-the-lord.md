@@ -8,6 +8,8 @@ link: https://en.wikipedia.org/wiki/Habakkuk_3
 date: 2015-05-20
 ---
 
+[[2015]] / [[commonplace]] / 
+
 Though the fig tree should not blossom,
 <br>    nor fruit be on the vines,
 <br>the produce of the olive fail

@@ -8,6 +8,7 @@ link: https://en.wikipedia.org/wiki/Gilead_(novel)
 date: 2015-02-11
 ---
 
+[[2015]] / [[commonplace]] / 
 
 "When the Lord says you must 'become as one of these little ones,' I take Him to mean you must be stripped of all the accretions of smugness and pretence and triviality."
 

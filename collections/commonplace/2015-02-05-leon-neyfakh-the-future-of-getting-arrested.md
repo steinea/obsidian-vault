@@ -8,6 +8,8 @@ link: https://www.theatlantic.com/magazine/archive/2015/01/the-future-of-getting
 date: 2015-02-05
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "A Brief History of Arrests 
 
 1862: The first adjustable handcuffs are patented. 

@@ -8,6 +8,8 @@ link: https://www.businessinsider.com/lasting-relationships-rely-on-traits-2015-
 date: 2015-11-30
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "the disasters showed all the signs of arousal — of being in fight-or-flight mode — in their relationships"
  
 "The masters, by contrast, showed low physiological arousal. They felt calm and connected together, which translated into warm and affectionate behavior, even when they fought. It’s not that the masters had, by default, a better physiological make-up than the disasters; it’s that masters had created a climate of trust and intimacy that made both of them more emotionally and thus physically comfortable."

@@ -8,6 +8,8 @@ link: https://scholarship.law.gwu.edu/faculty_publications/948/
 date: 2015-01-18
 ---
 
+[[2015]] / [[commonplace]] / 
+
 In war and in times of crisis, it has often been said that liberty must be sacrificed to further security (2443).
 
 

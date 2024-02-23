@@ -8,6 +8,8 @@ link: https://lareviewofbooks.org/article/profoundly-american-marilynne-robinson
 date: 2015-12-14
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "Calvin is a modern, concerned with “revelation” (rather than illumination, as the Fathers were, or apocalypsis, uncovering, as the writers of the New Testament were) and with knowing what God is like rather than what sort of being God is."
  
 "The given is “lawful,” and also “emergent”"

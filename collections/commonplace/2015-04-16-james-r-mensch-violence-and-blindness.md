@@ -8,6 +8,8 @@ link: https://www.opendemocracy.net/en/article/violence-and-blindness-the-case-o
 date: 2015-04-16
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "I have to examine the visibility and, hence, the light of the public space we share in our social and political relations. Aristotle defined light as the actualization of the visible. Allowing things to appear, its absence makes us blind. The question of public blindness is actually that of the light that makes things publicly visible."
 
 "Each particular "I can" that accomplishes a project is both disclosure of the world and a self-disclosure. Through it, we exhibit our identity as the accomplisher of some action."

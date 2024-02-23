@@ -8,6 +8,8 @@ link: https://web.archive.org/web/20150909185200/https://www.thsppl.com/i-racist
 date: 2015-12-02
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "“The only difference between people in the North and people in the South is that down here, at least people are honest about being racist.”"
 
 "White people do not think in terms of we. White people have the privilege to interact with the social and political structures of our society as individuals. You are “you,” I am “one of them.” Whites are often not directly affected by racial oppression even in their own community, so what does not affect them locally has little chance of affecting them regionally or nationally. They have no need, nor often any real desire, to think in terms of a group. They are supported by the system, and so are mostly unaffected by it."

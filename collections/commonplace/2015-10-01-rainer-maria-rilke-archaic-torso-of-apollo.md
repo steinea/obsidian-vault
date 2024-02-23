@@ -8,6 +8,8 @@ link: https://poets.org/poem/archaic-torso-apollo
 date: 2015-10-01
 ---
 
+[[2015]] / [[commonplace]] / 
+
 We cannot know his legendary head
 <br>with eyes like ripening fruit. And yet his torso
 <br>is still suffused with brilliance from inside,

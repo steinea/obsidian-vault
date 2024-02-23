@@ -8,6 +8,8 @@ link: https://www.gutenberg.org/files/14328/14328-h/14328-h.htm#Page_229
 date: 2015-11-30
 ---
 
+[[2015]] / [[commonplace]] / 
+
 Book V, Chs 2, 3, & 6 
 
 1. FREE WILL

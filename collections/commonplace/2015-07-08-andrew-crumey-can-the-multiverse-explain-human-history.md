@@ -8,4 +8,6 @@ link: https://web.archive.org/web/20150414163123/http://aeon.co/magazine/science
 date: 2015-07-08
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "Borges himself refers to Blanqui in his 1936 essay ‘A History of Eternity’."

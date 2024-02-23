@@ -8,6 +8,8 @@ link: http://shakespeare.mit.edu/macbeth/full.html
 date: 2015-02-10
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "She should have died hereafter;
 <br>There would have been a time for such a word.
 <br>— To-morrow, and to-morrow, and to-morrow,

@@ -8,6 +8,8 @@ link: https://www.nybooks.com/articles/2015/11/19/behind-king-lear-history-revea
 date: 2015-11-06
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "To see Shakespeare as a court official working to please his political masters is not to reduce him to the level of functionary or propagandist. It is to marvel anew at the ways in which he could use even such humbling demands as sources of imaginative energy. Though it may be incidental to his purpose, Shapiro effectively overturns the Romantic conception of the artist as the champion of freedom over necessity. We begin to see a Shakespeare for whom the distinction between freedom and necessity is scarcely relevant. Here is Shakespeare as an opportunist in every sense, a political operator taking advantage of a shift in power and a voracious artist for whom the need to please new masters is not a restriction but a creative stimulus."
 
 "Indeed, what comes across most strongly is Shakespeare’s genius for transforming what is, objectively, a servile relationship with his sovereign, master, and employer into a breathtaking act of appropriation. Shakespeare doesn’t just write to James’s order—he somehow manages to absorb James’s interests into his own imagination. In fact—though Shapiro does not go this far—it does not seem unreasonable to think of Shakespeare treating James (who was, after all, attempting to alter the consciousness and identity of his subjects) as a fellow dramatist, and then doing what he always did with fellow dramatists: taking their best ideas and plots and reprocessing them."

@@ -8,4 +8,6 @@ link: https://en.wikipedia.org/wiki/A_Moveable_Feast
 date: 2015-07-11
 ---
 
+[[2015]] / [[commonplace]] / 
+
 “But I remembered the Gulf Stream and the sea and other things."

@@ -8,6 +8,8 @@ link: https://lareviewofbooks.org/article/the-questionable-orthodoxy-of-genres/
 date: 2015-10-13
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "Consider Joris-Karl Huysmans’s Against Nature, Fyodor Dostoevsky’s The Brothers Karamazov, Thomas Mann’s The Magic Mountain and Doctor Faustus, Jean-Paul Sartre’s Nausea, or Robert Musil’s The Man without Qualities: What do these novels share? What kind of novels are they? Are these books truly novels, or are they another form altogether?"
 
 "As he states at the outset of his study, the novel-essay has a “significance […] for the history of the novel and for modern culture,” since it is also “the symbolic form of the crisis of modernity.”"

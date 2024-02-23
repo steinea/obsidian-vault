@@ -8,6 +8,8 @@ link: http://www.theguardian.com/sustainable-business/2015/mar/18/fully-automate
 date: 2015-03-18
 ---
 
+[[2015]] / [[commonplace]] / 
+
 “At a time when robots crowd factory lines, algorithms steer cars and smart screens litter the checkout aisles, automation is the new spectre. The robots, they say, are coming for our jobs.”
 
 “Let them, reply the luxury communists.”

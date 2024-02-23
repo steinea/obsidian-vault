@@ -8,6 +8,8 @@ link: https://www.theatlantic.com/business/archive/2015/07/college-major-rich-fa
 date: 2015-07-09
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "In 1780, John Adams wrote a letter to his wife, Abigail, in which he laid out his plans for what his children and grandchildren would devote their lives to. Having himself taken the time to master “Politicks and War,” two revolutionary necessities, Adams hoped his children would go into disciplines that promoted nation-building, such as “mathematicks,” “navigation,” and “commerce.” His plan was that in turn, those practical subjects would give his children’s children room “to study painting, poetry, musick, architecture, statuary, tapestry, and porcelaine.”"
 
 "this progression—“from warriors to dilettantes,” in the words of the literary scholar Geoffrey Galt Harpham—plays out much as Adams hoped it would: Once financial concerns have been covered by their parents, children have more latitude to study less pragmatic things in school"

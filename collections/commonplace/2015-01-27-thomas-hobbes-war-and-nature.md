@@ -8,6 +8,8 @@ link: http://oregonstate.edu/instruct/phl302/texts/hobbes/leviathan-c.html
 date: 2015-01-27
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "if any two men desire the same thing, which nevertheless they cannot both enjoy, they become enemies; and in the way to their end (which is principally their own conservation, and sometimes their delectation only) endeavour to destroy or subdue one another."
 
 "The first maketh men invade for gain; the second, for safety; and the third, for reputation. The first use violence, to make themselves masters of other men's persons, wives, children, and cattle; the second, to defend them; the third, for trifles, as a word, a smile, a different opinion, and any other sign of undervalue, either direct in their persons or by reflection in their kindred, their friends, their nation, their profession, or their name."

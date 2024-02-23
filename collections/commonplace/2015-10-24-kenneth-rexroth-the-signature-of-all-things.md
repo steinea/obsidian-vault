@@ -8,6 +8,8 @@ link: https://books.google.ca/books/about/The_Signature_of_All_Things_Poems_Song
 date: 2015-10-24
 ---
 
+[[2015]] / [[commonplace]] / 
+
 My head and shoulders, and my book
 <br>In the cool shade, and my body
 <br>Stretched bathing in the sun, I lie

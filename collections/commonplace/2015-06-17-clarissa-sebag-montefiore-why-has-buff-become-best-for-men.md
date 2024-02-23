@@ -8,6 +8,8 @@ link: https://aeon.co/magazine/culture/why-has-buff-become-best-for-men
 date: 2015-06-17
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "‘We’ve idolised this athletic warrior type, but it’s been accepted that most people didn’t aspire to be that,’ explained Timothy Baghurst, a specialist in male body image at Oklahoma State University. ‘Portraits in the 16th century aren’t of tough soldiers – they are more commanders and leaders whose physique isn’t that important.’ In post-subsistence industrialised societies, brains and birthrights have always trumped brawn."
 
 "In a 2005 study of pastoral nomads of northern Kenya, Harrison G Pope, Professor of Psychiatry at Harvard, and the psychologists Shaun Filiault and Benjamin C Campbell at Boston University discovered that perceptions of masculinity hung not on muscle mass but on other forms of overt virility, such as raiding, and protecting livestock. In the US, by contrast, the overt use of physical force is now unacceptable in society. Muscles, and the lionisation of sport – essentially a tribal pursuit – have risen to fill the gap."

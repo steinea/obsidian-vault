@@ -8,6 +8,8 @@ link: https://aeon.co/magazine/philosophy/is-it-ever-worth-not-knowing-the-truth
 date: 2015-08-25
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "Many people do seem to have an intuition that truth has some intrinsic value. The late Harvard philosopher Robert Nozick’s thought experiment, the ‘experience machine’ of 1974, helps to illustrate this intuition. Imagine you had the option of being hooked up to a machine that could give you whatever desirable or pleasurable experiences you could possibly want – and you could even make it so that you had no idea that your experiences weren’t real. Hooked up to the experience machine, you could experience a happy and fulfilled life – the only catch being that none of your experiences would actually correspond to any external reality. Would you choose the machine over real life?"
 
 "Most people react strongly, insisting that they would not allow themselves to be connected to the experience machine. This suggests that we care about more than simply having pleasurable experiences – we want those experiences to be real. There are also ‘profound’ truths that seem worth knowing, even if they aren’t useful for anything. Even if we knew for certain that understanding the origin of the universe would have no practical significance for anyone’s life, it still seems like we’d want to know how the world began."

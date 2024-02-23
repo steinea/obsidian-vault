@@ -8,6 +8,8 @@ link: https://press.princeton.edu/books/paperback/9780691020280/kierkegaards-wri
 date: 2015-02-14
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "This is why there can be two forms of despair in the strict sense. If a human self had itself established itself, then there could be only one form: not to will to be oneself, to will to do away with oneself, but there could not be the form: in despair to will to be oneself."
 
 "This second formulation is specifically the expression for the complete dependence of the relation (of the self), the expression for the inability of the self to arrive at or to be in equilibrium and rest by itself, but only, in relating itself to itself, by relating itself to that which has established the entire relation."

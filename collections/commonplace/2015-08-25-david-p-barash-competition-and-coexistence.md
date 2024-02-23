@@ -8,6 +8,8 @@ link: https://lareviewofbooks.org/article/competition-and-coexistence-a-pushmi-p
 date: 2015-08-25
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "As this rather endearing cetacean plummeted toward the surface of the planet Magrathea, it was in fact asking a perfectly reasonable question, but one that has no reasonable answer. It had been “called into existence” by that Infinite Improbability Drive, and as the improbably constructed consequence thereof, had no purpose whatsoever. The same can be said about every living thing in our own nonfictional world … including you, dear reader, and me. We have all been called into existence by a highly improbable event — meiosis combined with the union of a particular sperm with a particular egg — and so (to pluralize a recent cliché) we are what we are. “Purpose” does not come prepackaged with existence; if we want the former, we must achieve it by how we live."
 
 "I also agree with the author’s claim that the basic facts of biology dismember all philosophical arguments for “free will,” leaving us with the paradoxical situation of knowing subjectively that we have it, but understanding that scientifically it is indefensible."

@@ -8,6 +8,8 @@ link: https://us.macmillan.com/books/9780374528614/withoutend
 date: 2015-12-01
 ---
 
+[[2015]] / [[commonplace]] / 
+
 Try to praise the mutilated world.
 <br> Remember June's long days,
 <br> and wild strawberries, drops of rosé wine.

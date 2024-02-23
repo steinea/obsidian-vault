@@ -8,6 +8,8 @@ link: https://www.theatlantic.com/technology/archive/2015/02/what-blogging-has-b
 date: 2015-02-27
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "BuzzFeed is a venture-backed, metrics-optimized ying built for Facebook’s venture-backed, metrics-optimized yang."
  
 "Topic triumphs over author. Medium doesn’t want you to read something because of who wrote it; Medium wants you to read something because of what it’s about. And because of the implicit promise that Medium = quality."

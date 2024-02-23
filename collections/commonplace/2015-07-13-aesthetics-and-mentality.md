@@ -8,6 +8,8 @@ link: https://lareviewofbooks.org/article/on-aesthetics-and-mentality-in-specula
 date: 2015-07-13
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "With analytical philosophers under the spell of Wittgenstein’s philosophy of language and Continentals enamored with Husserlian and Heideggerian phenomenology, Whitehead’s brazen adoption of an outmoded philosophical method fated his work to gather dust on bookshelves for the rest of the 20th century."
 
 "In her companion to Whitehead’s Process and Reality, Elizabeth M. Kraus notes that, “Process and Reality undoubtedly ranks as one of the most difficult works in philosophical literature, second only to Kant’s Critique of Pure Reason and Hegel’s Logic.”"

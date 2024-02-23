@@ -8,6 +8,8 @@ link: https://www.nytimes.com/2015/12/06/magazine/white-debt.html
 date: 2015-12-06
 ---
 
+[[2015]] / [[commonplace]] / 
+
 “The word for debt in German also means guilt.”
 
 “While I was in the bank signing the paperwork that would allow me to spend money I hadn’t yet earned, I thought of Eddie Murphy’s skit in which he goes undercover as a white person and discovers that white people at banks give away money to other white people free.”

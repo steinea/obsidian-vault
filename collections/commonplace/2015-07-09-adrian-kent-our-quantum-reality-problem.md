@@ -8,6 +8,8 @@ link: https://web.archive.org/web/20150906055003/http://aeon.co/magazine/science
 date: 2015-07-09
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "the theory itself is both mathematically precise and extremely well confirmed by experiment."
 
 "I believe that Einstein would have remained convinced that a deeper theory was needed. None of the ways we have so far found of looking at quantum theory are entirely believable. In fact, it’s worse than that. To be ruthlessly honest, none of them even quite makes sense. But that might be about to change."

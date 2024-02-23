@@ -8,6 +8,8 @@ link: https://en.wikipedia.org/wiki/Lamentations_3
 date: 2015-03-15
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "The steadfast love of the Lord never ceases;[a]
 <br>his mercies never come to an end;
 <br>they are new every morning;

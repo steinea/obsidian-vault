@@ -8,6 +8,8 @@ link: https://en.wikipedia.org/wiki/Diamond_Grill
 date: 2015-03-04
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "The food, the names, the geography, the family history—the filiated dendrita of myself displayed before me."
 
 Diamond Grill, p. 138

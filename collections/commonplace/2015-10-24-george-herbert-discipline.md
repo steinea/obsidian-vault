@@ -8,6 +8,8 @@ link: https://www.poetryfoundation.org/poems/50702/discipline
 date: 2015-10-24
 ---
 
+[[2015]] / [[commonplace]] / 
+
 “Throw away thy rod,
 <br>Throw away thy wrath:
 <br>     O my God,

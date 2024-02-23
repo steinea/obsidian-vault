@@ -8,6 +8,8 @@ link: https://thenewinquiry.com/further-materials-toward-a-theory-of-the-man-chi
 date: 2015-10-13
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "Semiotext(e) published translations of Tiqqun’s Introduction to Civil War and This is Not a Program between 2009 and 2011, and the anarchist press Little Black Cart books distributed Tiqqun 1 and Theory of Bloom in 2011 and 2012. Though their cops-and-robbers bombast sometimes raised our eyebrows, we read these with interest. Then, late last year, Semiotext(e) put out its next Tiqqun ­installment. Enclosed in a bright pink cover, and bookended with what looked like low-grade xerox collages of glossy magazine ads and soft porn, Preliminary Materials for a Theory of the Young-Girl confirmed all that we had begun to suspect."
 
 "Theory of the Young-Girl opens with a 10-page excursus sketching the “total war” that contemporary capitalism wages against anyone who dares oppose it. Echoing the work of Michel Foucault and Gilles Deleuze, Tiqqun argues that capitalism compels individuals to internalize its imperatives to live (and thus consume) in certain ways. Because the entire conflict is invisible, Tiqqun professes that “rethinking the offensive for our side is a matter of making the battlefield manifest,” revealing the processes by which contemporary society compels us to commodify even our intimate lives. Where can they best expose the front lines where capitalism is waging its invisible war? The “Young-Girl,” a figure Tiqqun invents to play both the exemplary subject of and the agent reproducing this system."

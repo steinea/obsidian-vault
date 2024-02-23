@@ -8,6 +8,8 @@ link: https://aeon.co/magazine/society/why-we-need-arnold-toynbees-muscular-huma
 date: 2015-07-02
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "He was an expert in world civilisations who made the cover of Time magazine in 1947, praised for writing ‘the most provocative work of historical theory… since Karl Marx’s Capital’."
  
 

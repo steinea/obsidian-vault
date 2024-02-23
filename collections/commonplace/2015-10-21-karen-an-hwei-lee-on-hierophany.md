@@ -8,6 +8,8 @@ link: https://www.poetryfoundation.org/poetrymagazine/poems/56898/on-hierophany
 date: 2015-10-21
 ---
 
+[[2015]] / [[commonplace]] / 
+
 One example of *hierophany* is the apparition of angels. 
 <br>This is a new word I overheard this morning. It occurs
 <br>when the divine realm manifests — or the word intrudes —  

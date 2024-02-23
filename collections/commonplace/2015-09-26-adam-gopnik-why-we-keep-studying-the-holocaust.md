@@ -8,6 +8,8 @@ link: https://www.newyorker.com/magazine/2015/09/21/blood-and-soil
 date: 2015-09-26
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "How you feel about things as seemingly remote as Iranian deals and Putin’s aggressions is shaped by—or shapes—your judgment of the historical micro-details."
 
 "More broadly, if you believe, with Snyder, that the Second World War was really about subject peoples robbed of their states and their identity at a moment of environmental crisis and pitted against one another by a brutal colonialism, you are likely to see in Rwanda a similar kind of tragedy, as Snyder does—and you are likely to be sympathetic, as Snyder is, to protecting small-state identities and encouraging their nationalisms. If, with the Israeli historian Alon Confino, whose recent “A World Without Jews” is written in quiet opposition to Snyder’s views, you see in the Shoah the vengeance of atavistic tribalism on liberal modernity, you are likely to worry about all incantations of authenticity. Far from being sympathetic to revived nationalisms as bulwarks of the oppressed, you are likely to be suspicious of them (possibly even extending to the renascent Jewish kind)."

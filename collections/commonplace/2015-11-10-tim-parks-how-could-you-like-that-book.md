@@ -8,6 +8,8 @@ link: https://www.nybooks.com/online/2015/11/10/how-could-you-like-that-book/
 date: 2015-11-10
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "However “adult” the material, one is reminded of the way one read as a child: to know what happens."
  
 "I live under the constant impression that other people, other readers, are allowing themselves to be hoodwinked. They are falling for charms they shouldn’t fall for. Or imagining charms that aren’t there. They should be making it a little harder for their authors."

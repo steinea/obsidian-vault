@@ -8,6 +8,8 @@ link: https://nautil.us/issue/29/scaling/metaphors-are-us-rp
 date: 2015-10-22
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "present-tense emotionality is what communication by animals is mostly about."
  
 "Language pries apart a message from its meaning, and as our hominid ancestors kept getting better at this separation, great individual and social advantages accrued. We became capable of representing emotions in the past and possible emotions in the future, as well as things that have nothing to do with emotion. We evolved a uniquely dramatic means of separating message from meaning and intent: lying. And we invented asthetic symbolism; after all, those 30,000-year-old paintings of horses in Chauvet cave are not really horses."

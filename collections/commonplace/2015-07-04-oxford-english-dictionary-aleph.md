@@ -8,6 +8,8 @@ link: https://www.oed.com/view/Entry/4833
 date: 2015-07-04
 ---
 
+[[2015]] / [[commonplace]] / 
+
 Pronunciation:  Brit. /ˈalɛf/ , /ˈɑːlɛf/ , /ˈalɪf/ , /ˈɑːlɪf/ , U.S. /ˈɑlɛf/ , /ˈɑləf/
 
 Forms:  ME allef, ME– aleph, 15–16 alephe, 18– alef (in sense 2). Also with capital initial.

@@ -8,6 +8,8 @@ link: https://aeon.co/magazine/philosophy/people-do-violence-because-their-moral
 date: 2015-06-20
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "Especially for the most heinous crimes, we can’t help but see the perpetrators as ‘bad’ people: inhuman monsters who lack basic moral feeling. Baumeister called this phenomenon ‘the myth of pure evil’. A myth because it isn’t true."
  
 "In spite of widespread beliefs about its existence, sadism is so rare that it is not even an official psychiatric diagnosis. Its closest relative is psychopathy, but psychopathy is not characterised by malevolent joy at the suffering of others. Admittedly, psychopaths lack moral emotions and empathy toward victims. And they can be quite violent: in large-scale studies of criminal offenders, it has been found that around 10 per cent of violent crimes are committed by those who score above the cut-off for psychopathy, whereas such people make up less than 1 per cent of the general population worldwide. Clearly, psychopaths account for more than their fair share of harm."

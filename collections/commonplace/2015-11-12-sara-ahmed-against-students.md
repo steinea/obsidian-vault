@@ -8,6 +8,8 @@ link: https://thenewinquiry.com/against-students/
 date: 2015-11-12
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "it is in the bodies of students that the failure is located"
  
 "Students have become an error message"

@@ -8,6 +8,8 @@ link: https://www.newyorker.com/magazine/2015/02/02/essay-clouds
 date: 2015-01-26
 ---
 
+[[2015]] / [[commonplace]] / 
+
 Maybe a whale,
 <br>as Hamlet mused, or a camel or weasel,
 <br>more likely a hill,

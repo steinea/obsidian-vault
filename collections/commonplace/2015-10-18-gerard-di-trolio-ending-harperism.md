@@ -8,5 +8,7 @@ link: https://jacobin.com/2015/10/canada-general-election-ndp-harper-trudeau-mul
 date: 2015-10-18
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "If Harper didn’t create Canada’s neoliberal consensus, his government certainly deepened it, forcing opponents to debate within its terms."
 

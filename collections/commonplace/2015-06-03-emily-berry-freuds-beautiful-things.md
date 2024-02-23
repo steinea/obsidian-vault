@@ -8,6 +8,8 @@ link: https://www.poetryfoundation.org/poetrymagazine/poems/58143/freuds-beautif
 date: 2015-06-03
 ---
 
+[[2015]] / [[commonplace]] / 
+
 *A cento*
 
 I have some sad news for you

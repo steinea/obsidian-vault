@@ -8,6 +8,8 @@ link: https://thenewinquiry.com/the-lossless-self/
 date: 2015-09-22
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "The word analog, like fidelity, is pure gimmick. These terms easily detach from any clear meaning and become fetishes ready to be enlisted in the service of a variety of agendas."
 
 "We know the concept of fidelity to be a sham, yet many of us still pursue it as a mode of resistance to haste, waste, and careless consumerism."

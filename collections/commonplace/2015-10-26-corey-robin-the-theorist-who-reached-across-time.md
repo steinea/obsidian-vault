@@ -8,6 +8,8 @@ link: https://jacobin.com/2015/10/wolin-politics-and-vision-berkeley-machiavelli
 date: 2015-10-26
 ---
  
+[[2015]] / [[commonplace]] / 
+
 "Modern Political Theory (Machiavelli to Smith) and Radical Political Thought (Paine to Foucault)"
 
 "he read like a New Critic. The opening paragraph or page of every text was the site of an extended exploration and explication, as if the key to all of the Second Discourse was to be found in that arresting image of the statue of Glaucus which Rousseau mentions at the outset."

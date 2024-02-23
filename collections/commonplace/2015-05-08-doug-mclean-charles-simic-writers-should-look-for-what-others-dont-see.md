@@ -8,6 +8,8 @@ link: https://www.theatlantic.com/entertainment/archive/2015/05/by-heart-charles
 date: 2015-05-08
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "We keep killing Christ, or someone Christ-like, over and over again. It’s a vision of our collective madness. Of course, in Whitman’s time there were a lot of people who read that poem and felt this was blasphemous—the idea of putting Christ there. But this is the power of the poem."
 
 "To me, the ideal poem is one a person can read and understand on the first level of meaning after one reading. An accessible quality, I think, is important. Give them something to begin with. Something that seems plain and simple but has something strange—something about it that’s not quite ordinary, that will cause them to do repeated readings or to think about it. The ambition is that, each time they read, they will get to another level of the poem."

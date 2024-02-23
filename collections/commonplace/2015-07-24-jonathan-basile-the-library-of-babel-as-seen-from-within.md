@@ -8,6 +8,8 @@ link: https://www.theparisreview.org/blog/2015/07/23/the-library-of-babel-as-see
 date: 2015-07-24
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "Though the story’s librarian-narrator believes in the possible triumph of reason, the principle force underlying the library is irrationality. Any expression, even the most elegant or undeniably true, is nonetheless possible without sincerity, or even any intention towards signification."
 
 "The library makes this hidden power explicit: anything that can be referenced in language or accessible to experience must be separable from itself—a thought, a perception, a word can be made of it. This may undermine our sense of the simple presence of things, but it allows for everything interesting in the world: fantasy, lies, illusions, imagination, and fiction. If it weren’t possible for us to say “Here is a human” when nothing of the sort is present, fiction would be impossible, and we would never have embarked on the strange pursuit that, for some time now, we have called literature. Borges’s story isn’t simply one among others, but the story of all fiction, and with it all reality."

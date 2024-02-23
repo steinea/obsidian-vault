@@ -8,6 +8,8 @@ link: https://www.saltproject.org/progressive-christian-blog/2021/12/13/black-ro
 date: 2015-10-18
 ---
 
+[[2015]] / [[commonplace]] / 
+
 On the stiff twig up there
 <br>Hunches a wet black rook
 <br>Arranging and rearranging its feathers in the rain.

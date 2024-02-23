@@ -8,6 +8,8 @@ link: https://topicalcream.org/features/fuccbois-beta-bros-softboys-man-children
 date: 2015-10-05
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "The problem is that self-styling, here, is self-definition through the expression of taste, aesthetics, and cultural consumption instead of through work, values, and—most importantly from my perspective—interpersonal relationships."
 
 "Class maintenance was more creative than material or physical. So I have always been around popular boys who weren’t jocks. Like pretty much every other straight girl in my orbit, I’ve often pined for them and occasionally dated them. When I Instagrammed a screen shot of the Nike frees conversation, two women commented in quick succession: “I really disagree dude frees are hot” and “Frees are a green light for me.” Our gaze toward these boys is lusty. They’ve had traditional sexual and emotional power over me and over my friends, and yet, I’ve often seen them map their social alienation onto the facts of not being muscular, not liking sports, not wanting to work in finance, having sometimes been mistaken as gay. I’m not saying that gender norms can’t be anxiety-inducing for straight white boys or men. The thing is, speaking on a general level, I’ve never seen these guys be anything other than affirmed, centered, and rewarded—sexually and otherwise—for embodying their brand of masculinity."

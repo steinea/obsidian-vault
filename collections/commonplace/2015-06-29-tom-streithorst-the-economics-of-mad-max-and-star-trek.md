@@ -8,6 +8,8 @@ link: https://lareviewofbooks.org/article/the-economics-of-mad-max-and-star-trek
 date: 2015-06-29
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "The dream we can call Star Trek, the nightmare Mad Max."
  
 "Star Trek notes our remarkable technological advances and recognizes we are hurtling towards a post-scarcity economy. Mad Max reminds us our depredations of the planet may prove untenable and the Earth might just bite back."

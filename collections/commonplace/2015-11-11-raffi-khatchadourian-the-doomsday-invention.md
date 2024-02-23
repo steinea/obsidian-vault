@@ -8,6 +8,8 @@ link: https://www.newyorker.com/magazine/2015/11/23/doomsday-invention-artificia
 date: 2015-11-10
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "“Before the prospect of an intelligence explosion, we humans are like small children playing with a bomb,” he concludes. “We have little idea when the detonation will occur, though if we hold the device to our ear we can hear a faint ticking sound.”"
  
  "Discussions at F.H.I. range from conventional philosophic topics, like the nature of compromise, to the optimal structure of space empires—whether a single intergalactic machine intelligence, supported by a vast array of probes, presents a more ethical future than a cosmic imperium housing millions of digital minds."

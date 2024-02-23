@@ -8,6 +8,8 @@ link: https://www.theatlantic.com/entertainment/archive/2015/12/leonardo-dicapri
 date: 2015-12-02
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "DiCaprio can qualify for a whole new category: endurance acting, the macho, Method heroics that so often speak to Oscar voters."
  
  

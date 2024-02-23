@@ -8,6 +8,8 @@ link: https://thenewinquiry.com/fossil-fools/
 date: 2015-09-07
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "This trainwreck is often referred to as the “carbon economy.” The carbon economy began when the primary motive force in human industrial production, transportation, and heat production moved away from organic sources—human and animal power or water and wood power—and substituted instead fossilized carbon—coal, oil, and other fossil fuels. Calling it an economy adds some heft to the arrangement, making it harder to imagine ever altering."
 
 "The very notion of a carbon-based economy relies on a cluster of other concepts like “modernity,” “capitalism,” and “industrialization.”"

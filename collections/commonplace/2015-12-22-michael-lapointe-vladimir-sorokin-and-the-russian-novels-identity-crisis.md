@@ -8,6 +8,8 @@ link: https://www.theatlantic.com/entertainment/archive/2015/12/the-blizzard-vla
 date: 2015-12-22
 ---
  
+[[2015]] / [[commonplace]] / 
+
 "Vast, grand, breathtaking—English-language readers typically associate such words with the 19th-century Russian novel. Bleak, brave, subversive—those go with 20th-century Russian fiction. If it’s epic or dissident, we know how to make sense of it."
  
  

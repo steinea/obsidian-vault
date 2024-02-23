@@ -8,6 +8,8 @@ link: https://en.wikipedia.org/wiki/The_Aleph_(short_story)
 date: 2015-07-21
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "O God! I could be bounded in a nutshell, and count myself a King of infinite space... Hamlet, II, 2 But they will teach us that Eternity is the Standing still of the Present Time, a Nunc-stans (as the schools call it); which neither they, nor any else understand, no more than they would a Hic-stans for an Infinite greatness of Place. Leviathan, IV, 46"
  
 "Beatriz had been tall, frail, slightly stooped; in her walk there was (if the oxymoron may be allowed) a kind of uncertain grace, a hint of expectancy."

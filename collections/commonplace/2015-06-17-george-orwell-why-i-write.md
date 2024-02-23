@@ -8,6 +8,8 @@ link: https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-o
 date: 2015-06-17
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "I had the lonely child’s habit of making up stories and holding conversations with imaginary persons, and I think from the very start my literary ambitions were mixed up with the feeling of being isolated and undervalued. I knew that I had a facility with words and a power of facing unpleasant facts, and I felt that this created a sort of private world in which I could get my own back for my failure in everyday life."
 
 "I do not think one can assess a writer’s motives without knowing something of his early development. His subject matter will be determined by the age he lives in — at least this is true in tumultuous, revolutionary ages like our own — but before he ever begins to write he will have acquired an emotional attitude from which he will never completely escape. It is his job, no doubt, to discipline his temperament and avoid getting stuck at some immature stage, in some perverse mood; but if he escapes from his early influences altogether, he will have killed his impulse to write."

@@ -8,6 +8,8 @@ link: https://lareviewofbooks.org/article/purposeful-motion/
 date: 2015-10-05
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "it is Birkerts’s thinking that is the highlight throughout; his musing aloud on a deep-seated fear “[t]hat we have a different, much diminished sense of human presence now … that something deep in the human ecology has been disturbed”"
 
 "his sharp-eyed analysis of the shape of that disturbance and the ways in which its effects are seen throughout society — We feel it as anxiety, as self-detachment, as a sense of incompleteness, a private distress to which we respond, if we do at all, by turning to therapy, to prescriptions, to meditation and endorphin-releasing exertions."

@@ -8,6 +8,8 @@ link: http://www.theatlantic.com/entertainment/archive/2015/07/el-doctorows-mast
 date: 2015-07-23
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "There’s no greater sin in journalism—known colloquially as the 'first draft of history'—than fabrication"
 
 

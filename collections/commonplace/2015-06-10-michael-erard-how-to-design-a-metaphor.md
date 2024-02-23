@@ -8,6 +8,8 @@ link: https://aeon.co/magazine/culture/how-to-design-a-metaphor
 date: 2015-06-10
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "Pretty much every metaphor designer is inspired by Metaphors We Live By (1980), by the Berkeley linguist George Lakoff and the philosopher Mark Johnson at the University of Oregon. It’s the classic look at how metaphors structure the way we think and talk, and once you’ve read it, you can’t help but agree that, at a conceptual level, life is a journey, and arguments are wars (you take sides, there can be only one winner, evidence is a weapon)."
 
 "It was the Princeton psycholinguist Sam Glucksberg who in 2003 argued that metaphors are really categorisation proposals. Provocations, you might call them. You’re suggesting that one thing belongs with another."

@@ -8,6 +8,8 @@ link: http://www.compilerpress.ca/Competitiveness/Anno/Anno%20Hillman%20Egal%201
 date: 2015-07-24
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "Esse is percipi George Berkeley, Of the Principles of Human Knowledge, I, 3"
 
 "Three persistent irritations have urged me to this topic. Perhaps you will understand the topic better if I can portray the irritations. The first has to do with elitism. Nature, said Jung, is aristocratic and esoteric (CW 11, §537; 7, §198). It is profligate; only few events come to birth, far fewer to full flowering. Jungians are concerned with these rare events, the opus of individuation, working on one’s individuality so as to be wholeheartedly all that one is. This requires differentiation (by which word Jung defines individuation - CW 6 §755, 757, 761), elaborating differences within oneself and between oneself and others. This stress upon the djfferentness of individual personality and the private modes of its development means that an avowed Jungian suffers the charge of elitism. So, our first problem is how to work with individual uniqueness without at the same time becoming elitist. This problem must be met by every Platonist man of the spirit who at the same time would be a democratic citizen and polytheistic liberal in soul. One way of attempting the dilemma is to examine the other side of elitist fantasy, i.e., egalitarianism."

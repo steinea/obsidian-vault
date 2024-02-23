@@ -8,6 +8,8 @@ link: http://contemporary-home-computing.org/art-and-tech/not/
 date: 2015-12-25
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "But there are many obstacles on my way. Three years ago I grasped and boiled them down to three: technology, experience and people. Or rather “technology,” “experience” and “people”—I have nothing against any of these concepts unless they are used by hardware and software companies as substitutes for “computer,” “interface” and “users.”"
  
 "First of all because in our field you should always go for the new, the next term if you are unsatisfied with the current one,—not backwards, at least not to the nearest past. Nobody wants to be called “user.” The effort to deface this word was enormous and successful."

@@ -8,7 +8,8 @@ link: https://www.newyorker.com/magazine/2015/10/05/something-borrowed-wilkinson
 date: 2015-10-05
 ---
 
-Tags: #instapaper #ifttt
+[[2015]] / [[commonplace]] / 
+
 "He believes that the propositions his writing presents—uncreative writing’s permission to borrow entire texts, for example—are more interesting than the writing itself. “I don’t have a readership,” he said. “I have a thinkership.”"
 
 "He tends to speak slowly and enunciate clearly, in a stagy voice, and he models his public manner on Andy Warhol and Salvador Dali. He is an obsessive reader of difficult books and a patient and close listener. He does not try to dominate a room, but when the spotlight falls on him he is prepared. Periodically, he embodies the archetype of the trickster who sometimes pushes things too far, even against his own interests."

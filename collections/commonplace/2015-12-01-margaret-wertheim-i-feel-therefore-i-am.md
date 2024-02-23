@@ -8,6 +8,8 @@ link: https://aeon.co/essays/how-and-why-exactly-did-consciousness-become-a-prob
 date: 2015-12-01
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "A spectrometer does not perceive blue. So what then, does it mean to be ‘conscious’ of colour?"
  
 "First coined in 1995 by the Australian philosopher David Chalmers, this ‘hard problem’ of consciousness highlights the distinction between registering and actually feeling a phenomenon. Such feelings are what philosophers refer to as qualia: roughly speaking, the properties by which we classify experiences according to ‘what they are like’."

@@ -8,6 +8,8 @@ link: https://en.wikipedia.org/wiki/Rhetoric#Canons
 date: 2015-11-04
 ---
 
+[[2015]] / [[commonplace]] / 
+
 The Romans, as well as the Greeks were interested in argument and rhetoric. The five canons of rhetoric appear in Cicero's first century Latin text, Rhetorica ad Herennium, which contained four books that detail the rhetorical approach of the day, and was highly influential for many subsequent centuries: 
 
 1. Invention: Finding ways to persuade.

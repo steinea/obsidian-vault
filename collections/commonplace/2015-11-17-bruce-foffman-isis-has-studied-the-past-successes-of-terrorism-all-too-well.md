@@ -8,6 +8,8 @@ link: https://aeon.co/opinions/political-leaders-say-terrorism-doesn-t-work-they
 date: 2015-11-17
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "Begin’s success in undermining the foundations of British rule and thereby hastening Britain’s withdrawal from Palestine shows that, despite the repeated denials of governments, terrorism can – in the right conditions and with the appropriate strategy and tactics – succeed in advancing its practitioners’ political agendas."
  
 "So while governments regularly decry terrorism as ineffective, the terrorists themselves have an abiding faith in their violence, and for good reason. Terrorism’s intractability is also due to the capacity of terrorist groups to learn from one another. Those terrorist groups that survive the onslaught directed against them by governments and their police, military, and intelligence and security services do so because they absorb and apply lessons learned from their predecessors. Theirs is a trade and they learn it from one other."

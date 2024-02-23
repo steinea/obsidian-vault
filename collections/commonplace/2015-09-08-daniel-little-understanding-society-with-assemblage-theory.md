@@ -8,6 +8,8 @@ link: https://understandingsociety.blogspot.com/2012/11/assemblage-theory.html
 date: 2015-09-08
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "Deleuze's theory (metaphor?) of assemblage as a way of thinking about the social world is an intriguing one. Fundamentally the idea is that there does not exist a fixed and stable ontology for the social world that proceeds from "atoms" to "molecules" to "materials". Rather, social formations are assemblages of other complex configurations, and they in turn play roles in other, more extended configurations."
 
 "The assemblage approach suggests a different set of metaphors for the social world: mosaic, patchwork, heterogeneity, fluidity, transitory configuration. And this seems like a more realistic way of characterizing large extended social formation like states or regulatory agencies."

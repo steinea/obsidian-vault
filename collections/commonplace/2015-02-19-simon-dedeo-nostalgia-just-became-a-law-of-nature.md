@@ -8,6 +8,8 @@ link: https://nautil.us/issue/21/information/nostalgia-just-became-a-law-of-natu
 date: 2015-02-19
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "Still and her collaborators showed how dissipation is bounded by the unnecessary information a system retains—information irrelevant to the system’s future behavior. With an admirable poetry of mind, they referred to this as nostalgia, the memories of the past that are useless for the future. What they showed is that the nostalgia of a system puts a minimum on the amount of work you will lose in acting on it."
 
 "Quite literally, work: Whirlpools set up when you jam down a piston are not (yet) lost—with careful tracing, one can jitter the piston back to recover their energy. It is only over time, as they break apart and become unknowable, as they become increasingly unpredictable to you, that the work that went into their creation is lost."

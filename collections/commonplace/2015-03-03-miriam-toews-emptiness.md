@@ -8,6 +8,8 @@ link: https://www.penguinrandomhouse.ca/books/179091/a-complicated-kindness-by-m
 date: 2015-03-03
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "It's hard to know what to do with your emptiness when you're not supposed to have emptiness."
 
  p. 173

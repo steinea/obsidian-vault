@@ -8,6 +8,8 @@ link: https://emersoncentral.com/texts/essays-first-series/intellect/
 date: 2015-07-16
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "Intellect is the simple power anterior to all action or construction."
  
 "How can we speak of the action of the mind under any divisions, as of its knowledge, of its ethics, of its works, and so forth, since it melts will into perception, knowledge into act?"

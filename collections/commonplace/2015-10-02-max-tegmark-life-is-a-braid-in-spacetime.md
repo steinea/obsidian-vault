@@ -8,6 +8,8 @@ link: https://nautil.us/issue/29/scaling/life-is-a-braid-in-spacetime-rp
 date: 2015-10-02
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "Our language reveals how differently we think of space and time: The first as a static stage, and the second as something flowing. Despite our intuition, however, the flow of time is an illusion. Einstein taught us that there are two equivalent ways of thinking about our physical reality: Either as a three-dimensional place called space, where things change over time, or as a four-dimensional place called spacetime that simply exists, unchanging, never created, and never destroyed."
 
 "As Einstein put it, “The distinction between past, present, and future is only a stubbornly persistent illusion.” When we think about the present, we mean the time slice through spacetime corresponding to the time when we’re having that thought. We refer to the future and past as the parts of spacetime above and below this slice."

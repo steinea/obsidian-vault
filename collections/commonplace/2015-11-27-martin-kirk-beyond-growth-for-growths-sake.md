@@ -8,6 +8,8 @@ link: https://aeon.co/opinions/it-s-time-to-move-beyond-growth-for-growth-s-sake
 date: 2015-11-27
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "Economic growth sits at the root of all plans to tackle poverty. The two concepts – growth and poverty reduction – are treated as practically interchangeable. Nowhere is this more apparent than in the new UN Sustainable Development Goals (SDGs), which promise to eradicate poverty ‘in all its forms everywhere’ by 2030. The entire formula for success rests on economic growth; at least 7 per cent per annum in the least developed countries, and higher levels of economic productivity across the board. Goal 8 is entirely dedicated to this objective."
  
 "This feels intuitive and logical. If economic growth equals more money, and poverty equals a lack of money, then economic growth equals less poverty. And this is, of course, the prevailing logic for all human development. The idea that if you’re not growing you must be dying is writ large. Every country, every company, every individual must grow their material wealth over time; both the whole and every one of its parts must be on a constant growth curve."

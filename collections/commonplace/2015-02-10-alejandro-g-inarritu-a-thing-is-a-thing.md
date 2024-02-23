@@ -8,6 +8,8 @@ link: https://www.imdb.com/title/tt2562232/
 date: 2015-02-10
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "A thing is a thing, not what is said of that thing." --Riggan Thomson
 
 

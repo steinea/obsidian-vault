@@ -8,6 +8,8 @@ link: https://en.wikipedia.org/wiki/In_the_Shadow_of_the_Sword_(book)
 date: 2015-07-10
 ---
 
+[[2015]] / [[commonplace]] / 
+
 Do not look for a fight with the enemy. Beg God for peace and security. But if you do end up facing the enemy, then show endurance, and remember that the gates of Paradise lie in the shadow of the sword. Saying of Muhammad, as recorded by Salih Muslim
 LOCATION: 67
 

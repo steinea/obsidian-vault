@@ -8,6 +8,8 @@ link: http://www.theparisreview.org/blog/2015/03/20/staff-picks-mendelsohn-micro
 date: 2015-03-21
 ---
 
+[[2015]] / [[commonplace]] / 
+
 Richard Avedon’s definition of charm as “the ability to be truly interested in other people.”
 
 

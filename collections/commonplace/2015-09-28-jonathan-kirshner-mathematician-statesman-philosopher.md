@@ -8,6 +8,8 @@ link: https://lareviewofbooks.org/article/mathematician-statesman-philosopher-th
 date: 2015-09-28
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "The Burke essay is especially valuable, Skidelsky explains, as it illustrates Keynes’s lifelong emphasis on “the doctrine of prudence,” which had “a profound effect” both on his theory of economic policy and of statesmanship. “Burke ever held, and held rightly,” the young Keynes wrote, that “our power of prediction is so slight, and our knowledge of remote consequences so uncertain, that it is seldom wise to sacrifice a present benefit for a doubtful advantage in the future.” This early piece (along with an excerpt from Keynes’s early book A Treatise on Probability) hint at his future epiphany regarding the difference between risk (making a bet knowing the true odds) and uncertainty (making one’s best guesses in an environment characterized by unknowables), that would inform The General Theory."
 
 "Summarily dismissing laissez-faire capitalism in 1933, Keynes wrote: “It is not intelligent, it is not beautiful, it is not just, it is not virtuous — and it doesn’t deliver the goods. […] But when we wonder what to put in its place, we are extremely perplexed.” Certainly Marxism, in either theory or practice, held no appeal. Unlike many interwar intellectuals, Keynes had a profound aversion to communism, long before Stalin’s horrors became apparent."

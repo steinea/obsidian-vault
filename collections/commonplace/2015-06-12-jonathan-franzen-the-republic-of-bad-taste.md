@@ -8,6 +8,8 @@ link: https://www.newyorker.com/magazine/2015/06/08/the-republic-of-bad-taste
 date: 2015-06-12
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "Seeing her again, after a week of merely imagining her, Andreas was overwhelmed by the contrast between love and lust. Love turned out to be soul-crippling, stomach-turning, weirdly claustrophobic: a sense of endlessness bottled up inside him, endless weight, endless potential, with only the small outlet of a shivering pale girl in a bad rain jacket to escape through. Touching her was the farthest thing from his mind. The impulse was to throw himself at her feet."
  
  "He sat down not very close to her. For a long time, for several minutes, they didn’t speak. Love altered the way he perceived her uneven mouth-breathing and her trembling hands—again the disparity between the largeness of her mattering and the ordinariness of the sounds she made, the everydayness of her schoolgirl fingers. He had the strange thought that it was wrong, wrong as in evil, to think of killing a man who, in however sick a way, was also in love with her, that he instead ought to have compassion for that man."

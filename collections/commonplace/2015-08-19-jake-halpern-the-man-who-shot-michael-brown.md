@@ -8,6 +8,8 @@ link: https://www.newyorker.com/magazine/2015/08/10/the-cop
 date: 2015-08-19
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "Ta-Nehisi Coates, in his new book, “Between the World and Me,” writing of the psychological impact of incidents like the Brown shooting, says, “It does not matter if the destruction is the result of an unfortunate overreaction. It does not matter if it originates in a misunderstanding.” Coates also notes, “There is nothing uniquely evil in these destroyers or even in this moment. The destroyers are merely men enforcing the whims of our country.”"
 
 "I showed the four reports to Erin Murphy, an N.Y.U. law professor who studies Fourth Amendment issues. Murphy said that, in the case of Simmons, there was no legitimate reason for detaining him. The other ped checks were less dramatic, but also reflected “questionable constitutional behavior.” These reports, she noted, painted “a familiar picture of contemporary law enforcement.” Police officers, she added, are not entirely to blame—often, they are trying to “enforce vague standards for detaining people that they don’t really understand.” (Wilson conceded that the failure-to-comply ordinance was exploited as an “easy way to arrest someone.” True violations, he said, involved more resistance than “you telling someone to come here, and them saying, ‘No, screw you.’ ” But when I asked him to explain the ordinance further, he said, “I’d have to read it again.”)"

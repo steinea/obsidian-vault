@@ -8,6 +8,8 @@ link: https://lareviewofbooks.org/article/the-warm-equations/
 date: 2015-07-01
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "New novels out this summer from Kim Stanley Robinson (Aurora) and Neal Stephenson (Seveneves) dismantle the fantastic Star Trek vision of space travel in favor of a portrayal of space exploration with more vertigo, more friction, more weight, and more gravity."
 
 "For someone raised (as I was) on dreams of spaceflight, these novels are simultaneously exhilarating and completely horrifying. The fact is that we just shouldn’t live in space, but we want to anyway — these novels envision the start, the wonderful and terrible start, of what it would take to even begin to manage living up there permanently."

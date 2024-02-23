@@ -8,6 +8,8 @@ link: https://www.theatlantic.com/health/archive/2015/12/evolution-of-morality-s
 date: 2015-12-02
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "But as Tomasello argues in his book, this “social intelligence hypothesis” is something of an understatement. A social nature isn’t enough to fully distinguish between humans and chimpanzees—male chimpanzees can form political alliances, for example, and sometimes work together to hunt, both of which require advanced social skills. Humans are not just socially intelligent, then; as Tomasello and others have put it, we’re “ultra-social” in ways that the great apes are not, with an enhanced capacity for cooperation that arose somewhere along our species’ evolutionary path."
 
 "Even when chimpanzees do collaborate, there’s been no evidence to date that they have the ability to adopt complementary roles in group efforts or establish a complex division of labor."

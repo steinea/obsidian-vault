@@ -8,6 +8,8 @@ link: https://www.urbanomic.com/document/gilles-chatelet-mental-ecology/
 date: 2015-12-03
 ---
 
+[[2015]] / [[commonplace]] / 
+
 Two Interviews
 
 "In these interviews dating from 1998, Gilles Châtelet amplifies the major themes of To Live and Think Like Pigs, discusses his method of dramatisation and the crucial importance of style; and touches on subjects from dialectics to dope smoking, from Yoplait to slavery, along the way introducing some of the book’s key concepts: cybercattle, the average man, the tapeworm-citizen, and of course the pitiful couple Cyber-Gideon and Turbo-Bécassine."

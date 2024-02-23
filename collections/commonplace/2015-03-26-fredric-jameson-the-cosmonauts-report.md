@@ -8,6 +8,8 @@ link: https://newleftreview.org/issues/ii92/articles/fredric-jameson-the-aesthet
 date: 2015-03-26
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "the word I should have used was not postmodernism but rather postmodernity: for I had in mind not a style but a historical period"
 
 "after my initial work on what I would now call postmodernity, a new word began to appear, and I realized that this new term was what I had been missing from my original description. The word, along with its new reality, was globalization; and I began to realize that it was globalization that formed, as it were, the substructure of postmodernity, and constituted the economic base of which, in the largest sense, postmodernity was the superstructure."

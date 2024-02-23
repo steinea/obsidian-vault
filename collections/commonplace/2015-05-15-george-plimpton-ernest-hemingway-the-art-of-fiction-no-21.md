@@ -8,6 +8,8 @@ link: https://www.theparisreview.org/interviews/4825/the-art-of-fiction-no-21-er
 date: 2015-05-15
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "On the shelf opposite Hemingway’s knee as he stands up to his “work desk” are Virginia Woolf’s The Common Reader, Ben Ames Williams’s House Divided, The Partisan Reader, Charles A. Beard’s The Republic, Tarle’s Napoleon’s Invasion of Russia, How Young You Look by Peggy Wood, Alden Brooks’s Shakespeare and the Dyer’s Hand, Baldwin’s African Hunting, T. S. Eliot’s Collected Poems, and two books on General Custer’s fall at the battle of the Little Big Horn."
 
 "the craft of writing should not be tampered with by an excess of scrutiny—“that though there is one part of writing that is solid and you do it no harm by talking about it, the other is fragile, and if you talk about it, the structure cracks and you have nothing.”"

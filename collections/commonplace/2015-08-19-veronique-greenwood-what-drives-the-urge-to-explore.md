@@ -8,6 +8,8 @@ link: https://aeon.co/magazine/culture/what-drives-the-urge-to-explore
 date: 2015-08-19
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "People tend to go out to the edges of things. Which things, exactly, depends on the era: 1.8 million years ago, our early ancestors moved overland out of Africa. Thousands of years ago, early Polynesians sailed outrigger canoes over the horizon, eventually populating the entire Pacific. In the late 19th century, nearly every year a new batch of European explorers headed northwards, throwing themselves into the jaws of the ice. Today, the planet’s atmosphere seems to be the edge of choice. It is not clear how many people applied to be on Mars One’s much-discussed mission to colonise the Red Planet, but what is clear is that a one-way ticket away from Earth sets some people’s eyes alight."
  
 "People who score high in thrill-seeking have a penchant for physically dangerous activities, such as sky-diving and base‑jumping. Disinhibition is a trait associated with a preference for out-of-control activities, such as risky sex or heavy drinking. Experience-seeking involves looking for novel experiences in areas such as art, music, a non‑conformist lifestyle or travel. Boredom-acceptability is a measure of aversion to dullness. Together, the picture painted by these measures helped to describe the variation in human interest in novelty."

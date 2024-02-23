@@ -8,6 +8,8 @@ link: https://www.theparisreview.org/interviews/228/the-art-of-fiction-no-177-jo
 date: 2015-11-10
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "In that sense, I’m a native. When you say I don’t appear paranoiac to you, I figure you mean I don’t traffic in the thin membrane of social paranoia. Why bother? We live in a fallen universe. We can at least be kind to one another and not jump on one another’s slightest errors or moods. In a desperate situation, pick your battles."
 
 "I’d be the American Calvino, but nourished by scruffy genre roots."

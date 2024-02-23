@@ -8,6 +8,8 @@ link: https://homepages.uc.edu/~druryjp/Sidney,%20A%20Double%20Sestina.htm
 date: 2015-10-18
 ---
 
+[[2015]] / [[commonplace]] / 
+
 *A Double Sestina*
 
 Strephon. 

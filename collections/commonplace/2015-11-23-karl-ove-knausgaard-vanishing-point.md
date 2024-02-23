@@ -8,6 +8,8 @@ link: https://www.newyorker.com/books/page-turner/vanishing-point
 date: 2015-11-23
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "To me, as I sit here at my desk, all this is but a series of images in the mind, conceptions, imagination."
 
 "In our humanity, there is a vanishing point. We step in and out of it; it’s a kind of zone in which we shift in each other’s perspective from definite to indefinite, and vice versa. This vanishing point has to do with remoteness and is inevitable. The indefinite human, faceless and devoid of character, the mass human, lives its life in patterns by which it is bound and is the material of statistics."

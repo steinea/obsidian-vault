@@ -8,6 +8,8 @@ link: https://www.theatlantic.com/international/archive/2015/11/france-syria-ira
 date: 2015-11-16
 ---
 
+[[2015]] / [[commonplace]] / 
+
 "In a statement translated by SITE, ISIS said: Let France and those who walk in its path know that they will remain on the top of the list of targets of the Islamic State, and that the smell of death will never leave their noses as long as they lead the convoy of the Crusader campaign, and dare to curse our Prophet, Allah’s peace and blessings be upon him, and are proud of fighting Islam in France and striking the Muslims in the land of the Caliphate with their planes, which did not help them at all in the streets of Paris and its rotten alleys."
 
 "Assad, meanwhile, criticized France for backing rebels against his regime; the attacks, he argued, showed that he and France were in the same predicament. “Wrong polices adopted by Western states, particularly France, towards events in the region, and its ignorance of the support of a number of its allies to terrorists, are reasons behind the expansion of terrorism,” he said."
