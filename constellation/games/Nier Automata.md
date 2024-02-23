@@ -1,5 +1,6 @@
 ---
 title: Nier Automata
+releaseDate: 2017-02-23
 date: 
 platform: PS4
 link: 
