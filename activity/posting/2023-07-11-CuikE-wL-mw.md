@@ -8,4 +8,6 @@ twitterID: CuikE-wL-mw
 date: 2023-07-11
 ---
 
+[[2023]] / [[posting]]
+
 My Kickstarter copy of Miru 2 by @hinokodo arrived today, along with this very fun bookmark rpg from @rattiincantati. Miru 1 was excellent, so I can't wait to dig into this on the weekend.
