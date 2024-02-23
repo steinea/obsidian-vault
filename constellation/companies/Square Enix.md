@@ -1,0 +1,3 @@
+# Square Enix
+
+[[companies]]
