@@ -10,25 +10,120 @@ permalink: 2024/02/27/game-340-week-7
 
 #### *How To Do Things With Videogames,* Chapter 6: Transit
 
+“there was a time when one had no choice but to think of the journey as part of the trip, simply because it took so long to get anywhere” (45)
+
+“In the mid-eighteenth century, for example, it would have taken ten days to travel from London to Edinburgh by horse and carriage under the best conditions. By the 1830s the trip took less than two days by railroad” (45)
+
+“by removing the majority of time from a journey, the railroad also removed much of the experience of the space traversed” (45)
+
+“Wolfgang Schivelbusch describes it as follows: ‘On the one hand, the railroad opened up new spaces that were not as easily accessible before; on the other, it did so by destroying space, namely the space between points. That in-between, or travel space, which it was possible to “savor” while using the slow, work-intensive eotechnical form of transport, disappeared on the railroads’” (45-46)
+
+“While waypoints along a route had once been connected to one another continuously through the slow traversal of foot, horse, or carriage, the railroad disrupted this uninterrupted flow. As Schivelbusch explains, ‘What was experienced as being annihilated was the traditional space-time continuum which characterized the old transportation technology. Organically embedded in nature as it was, that technology, in its mimetic relationship to the space traversed, permitted the traveler to perceive that space as a living entity’” (46)
+
+“If the carriage functioned more like a landscape painting, the railway functioned like a cinema camera” (46)
+
+“travel is not a universal experience but one mediated by the particular forms that give rise to it” (47)
+
+“A continuous, sensory voyage through slowly transforming countryside characterized travel by carriage. In the age of rail, the train produced a staccato vista through its single view. And of course today, in the era of the airplane, the vistas of travel have been removed entirely, replaced by the white blanket of clouds or the vague pattern of farmland five miles below” (47)
+
+“If the panorama anticipated a kind of travel yet to come, the videogame looks back on one that’s already passed. Games restore the experience of resistance and adventure that the rail (and the airplane after it) had removed from travel, even if only through simulation” (48)
+
+“a videogame constantly asks its players to *act*” (48)
+
+“videogames tend to offer continuous rather than discontinuous space that must be traversed deliberately and actively, the opposite of the panorama show and the railway” (48)
+
+“Places once felt isolated from one another, and the process of traveling *itself* served to unite them. Before the railroad, the traveler also doubled as adventurer, taming the spaces in between destinations by passing through them, both literally via foot or horse or carriage and figuratively by vision and judgment. The former gets you from place to place, but the latter solidifies the continuous space of transit and the real effort required to get there” (50)
+
+“even as these simulated places may not embrace *real* remoteness by remaining so easy to access, once there players experience a new, *simulated* remoteness” (50)
+
+“For these locations to simulate remoteness effectively, they must start out entirely unfamiliar, inviting the player to come to understand them through slow transit rather than the speed of transportation technologies” (50)
+
+“in-videogame transit re-creates a past in which reality had not yet been dissolved into bits, but had to be traversed deliberately” (50-51)
+
+* [ENDLESS SCROLL](https://haraiva.itch.io/endless-scroll)
+* [continental drift](https://haraiva.itch.io/continental-drift)
+
 <br>
 
 
 #### *How To Do Things With Videogames,* Chapter 7: Branding
+
+“Monopoly Here & Now bears a lesson about advertising’s role in commercial videogames. Most developers are concerned with the appropriateness of brands in games, and even large publishers have shown their unwillingness to hawk in-game space even at high premiums” (54)
+
+“Yet some developers and players also believe that branding is appropriate when it enhances realism in a game. This principle is usually cited in reference to urban and sports environments, which are littered with advertising in the real world” (54)
+
+“In cases like these, realism usually implies *visual authenticity*—correct appearances” (54)
+
+“our understanding of particular rules of interaction in the world has become bonded to products and services. In a game, the behavior of a character, situation, or idea changes when aspects of that behavior can be offloaded from the simulation into a branded product or service” (55)
+
+“In Obama’s case, the campaign focused on sports and racing titles, including Burnout: Paradise, an auto racing game, and Madden ’09, the popular football game. The result was red, white, and blue, Obama-emblazoned ads skirting racetracks and stadiums, bearing appeals to vote” (56)
+
+“The feat made Obama the first presidential candidate to advertise inside a videogame” (56)
+
+“Such an ad says nothing about the candidate’s qualifications or platform, of course, but it’s not meant to do so. Instead, the Obama spots borrow the contemporary, technical, and computational aura of the videogame and apply them to the candidate” (57)
+
+“In a campaign that ran on the very concept of ‘change,’ Obama had much to gain by importing the abstract values of videogames into his image. Rather than apply Obama branding in the game, this was a case of the game branding Obama” (57)
 
 <br>
 
 
 #### *How To Do Things With Videogames,* Chapter 8: Electioneering
 
+“The 2004 election marked a turning point, however, with the birth and quick rise of the offi cial political videogame. It was the year candidates and campaign organizations got into games, using the medium for publicity, fund-raising, platform communication, and more”
+
+“Drunk on such videogame election elation, I remember making a prediction in a press interview that year: in 2008, I foolishly divined, every major candidate would have their own PlayStation 3 game” (58)
+
+“We couldn’t have been more wrong. Videogames played a minor role in the U.S. 2008 election (and no role whatsoever in the mid-term elections of 2010)” (58)
+
+“Three decades after its coin-op release, it’s disillusioning to realize that *Space Invaders* has become the gold standard for political game design” (60)
+
+“There are reasons games have grown slowly compared with other technologies for political outreach. The most important one is also the most obvious: by 2008 online video and social networks had become the big thing, as blogs had been in 2004. Instead of urging voters to “play my game,” as Loftus and I surmised, candidates urged their constituents to ‘watch my video’” (60)
+
+“Precedent aside, reskinning classic arcade games and placing billboards in virtual racetracks doesn’t take advantage of the potential games have to offer to political speech” (60)
+
+“When we make videogames, we construct simulated worlds in which different rules apply. To play games involves taking on roles in those worlds, making decisions within the constraints they impose, and then forming judgments about living in them. Videogames can synthesize the raw materials of civic life and help us pose the fundamental political question, *What should be the rules by which we live?*” (61)
+
+“the best solution may be to abandon the ‘election game’ entirely, in favor of the public policy game” (63)
+
 <br>
 
 
 #### *How To Do Things With Videogames,* Chapter 9: Promotion
 
+“There are several ways advertising and games intersect. One is the *advergame*, a custom-developed title, usually played on a web page, built from the ground up to promote a product or service. Another is *product placement*, the insertion of branding or products into commercial games, a technique discussed in chapter 7 in the context of Monopoly. And a third is *in-game advertising*, the static (fi xed at development time) or dynamic (delivered over the Internet) insertion of billboards, objects, or videos into commercial titles” (64)
+
+“As commodity goods continue to proliferate, brand companies have sought new ways to differentiate themselves from their competitors” (65)
+
+“the Burger King games are the first titles developed from the ground up for that platform [Xbox 360] as advertisement—and with the exception of a game development contest sponsored by Doritos in 2009–10, they remain the only such specimens” (66)
+
+“In the case of the Burger King Xbox games, the downright cheap cost per game further accentuates the promotion’s power: would-be burger lovers who already own an Xbox 360 proved more than willing to fork over $4 for a videogame when the going rate for commercial titles easily reaches fifteen times that price” (67)
+
+“We use the term *advergames* to describe videogames whose primary purpose is to promote a company’s brand, products, or services through gameplay” (67)
+
+“I suggest the name *promogames* to videogames whose primary purpose is to promote the purchase of a product or service secondary or incidental to the game itself” (67-68)
+
 <br>
 
 
 #### *How To Do Things With Videogames,* Chapter 10: Snapshots
+
+“The Brownie, and later the 35 mm camera that replaced it, didn’t just simplify the process of making pictures; they also ushered in a new kind of picture: the snapshot. Snapshots value ease of capture and personal value of photographs over artistic or social value” (70)
+
+“today’s computer culture values a similar strain of creative populism” (71)
+
+“Websites and software provide tools that promise to ‘democratize’ the creative process. Cheaper, more powerful hardware and inexpensive, easy-to-use software have made professional video editing and DVD production available to everyone” (71)
+
+“Following this trend, several companies have attempted to do for videogames what the Brownie did for photography. Big players like Microsoft (Popfly Game Creator) and Electronic Arts (Sims Carnival) have gotten into the game-maker game, as have start-ups like Metaplace, Gamebrix, WildPockets, PlayCrafter, and Mockingbird. While many of these products have since been shuttered or changed direction, each offers a slightly different perspective on simplifying game creation.1 Sims Carnival offers three methods: a wizard, an image customizer, and a downloadable visual-scripting tool. PlayCrafter relies on physics, Gamebrix on behaviors, Mockingbird on goals. Popfly uses templates” (71)
+
+*Commentator’s Note: This very much dates the book. Today, the obvious example would be Roblox.*
+
+“Long before Sims Carnival and its brethren, desktop game-creation software used genre conventions as the formal model for add-assets-and-script type tools: GameMaker fashions tile-based action/arcade games; Adventure Game Studio makes graphical adventures; RPGMaker outputs role-playing games” (71)
+
+“Photography doesn’t make such a distinction; a camera can just as easily take a landscape as a portrait” (72)
+
+“There is simply no magic box we can put in front of the world that, when a button is pressed, turns what it sees into a videogame” (72)
+
+“The snapshot didn’t just popularize photography as disposable, it also helped greater numbers of ordinary people appreciate photography as craft. A successful game creation platform is one that fulfills such a role” (76)
 
 <br>
 
