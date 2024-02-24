@@ -202,7 +202,7 @@ Logistics and strategy “together constitute the science of the articulation of
 
 <br>
 
-#### Weapons and Tools
+##### Weapons and Tools
 
 “PROPOSITION VII. *Nomad existence has for ‘affects’ the weapons of a war machine.”
 
