@@ -10,7 +10,7 @@ permalink: 2024/02/06/game-340-week-5
 
 #### *A Thousand Plateaus,* pp. 374-387
 
-#### Thought
+##### Thought
 
 "PROBLEM II. *Is there a way to extricate thought from the State model?*
 
@@ -71,7 +71,7 @@ This is an important distinction, because a Marxist critique of ideology still d
 <br>
 
 
-#### Counterthoughts
+##### Counterthoughts
 
 Counterthoughts "are violent in their acts and discontinuous in their appearances," and their "existence is mobile in history" (376)
 
@@ -108,7 +108,7 @@ This describes *A Thousand Plateaus*---no conceivable reproduction, only *relays
 <br>
 
 
-#### Pathos
+##### Pathos
 
 "*pathos*" is "an *antilogos* and an *antimythos*" (377)
 
@@ -147,7 +147,7 @@ There's a lot to unpack here, and this is the first I've heard of Kenneth White.
 <br>
 
 
-#### Nomadism
+##### Nomadism
 
 "AXIOM II. *The war machine is the invention of the nomads (insofar as it is exterior to the State apparatus and distinct from the military institution). As such, the war machine has three aspects, a spatiogeographic aspect, an arithmmetic or algebraic aspect, and an affective aspects.*
 
@@ -194,7 +194,7 @@ The nomos is the exterior of mythos-logos.
 <br>
 
 
-#### Deserts
+##### Deserts
 
 "nomads have no points, paths, or land"---i.e., they do not *possess* them (381)
 
@@ -223,7 +223,7 @@ The nomad, however, "is in a *local absolute*, an absolute that is manifested lo
 <br>
 
 
-#### Religion
+##### Religion
 
 "Making the absolute appear in a particular place---is that not a very general characteristic of religion"? (382)
 
@@ -260,7 +260,7 @@ The nomad, however, "is in a *local absolute*, an absolute that is manifested lo
 <br>
 
 
-#### Land
+##### Land
 
 "Smooth or nomad space lies between two striated spaces: that of the forest, with its gravitational verticals, and that of agriculture, with its grids and generalized parallels, its now independent arborescence, its art of extracting the tree and wood from the forest" (384)
 

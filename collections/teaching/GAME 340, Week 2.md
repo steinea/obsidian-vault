@@ -10,7 +10,7 @@ permalink: 2024/01/16/game-340-week-2
 
 #### *A Thousand Plateaus,* pp. 351-374
 
-#### Nomadology
+##### Nomadology
 
 “AXIOM I. *The war machine is exterior to the State apparatus.*
 
@@ -61,7 +61,7 @@ Indra “sees all things in relations of *becoming*, rather than implementing bi
 <br>
 
 
-#### Games
+##### Games
 
 First example: "the theory of games" (352)
 
@@ -90,7 +90,7 @@ Pure strategy is opposed to a semiology, because semiology is concerned with the
 <br>
 
 
-#### The Warrior
+##### The Warrior
 
 "The warrior is in the position of betraying everything, including the function of the military, *or* of understanding nothing" (354)
 
@@ -146,7 +146,7 @@ When the war machine is at last conquered by the State, it "scatters into thinki
 
 <br>
 
-#### The State
+##### The State
 
 "PROBLEM I. *Is there a way of warding off the formation of a State apparatus (or its equivalents in a group)?*
 
@@ -207,7 +207,7 @@ State and war, interior and exterior, exist not "in terms not of independence, b
 <br>
 
 
-#### Minor Science
+##### Minor Science
 
 "PROPOSITION III. *The exteriority of the war machine is also attested to by epistemology, which intimates the existence and perpetuation of a 'nomad' or 'minor science'*" (361)
 
@@ -273,7 +273,7 @@ Figures of nomad science (363):
 <br>
 
 
-#### Cathedrals
+##### Cathedrals
 
 From sociologist and urbanist [Anne Querrien](https://fr.wikipedia.org/wiki/Anne_Querrien), a different kind of geometry.
 
@@ -294,7 +294,7 @@ Ultimately royal science carries out a "prohibition of this operative or minor g
 <br>
 
 
-#### The Collective Body
+##### The Collective Body
 
 "What is a collective *body*?" (366)
 
@@ -323,7 +323,7 @@ The family's power "is related to the potential (*puissance*) of a vortical body
 <br>
 
 
-#### Protogeometry
+##### Protogeometry
 
 "Husserl speaks of a protogeometry that addresses *vague*, in other words, vagabond or nomadic, morphological essences" (367)
 
@@ -368,7 +368,7 @@ Haecceity means *thisness* ([Wikipedia](https://en.wikipedia.org/wiki/Haecceity)
 <br>
 
 
-#### Space
+##### Space
 
 "Homogeneous space is in no way a smooth space; on the contrary, it is the form of striated space. The space of *pillars*. It is striated by the fall of bodies, the verticals of gravity, the distribution of matter into parallel layers, the lamellar and laminar movement of flows" (370)
 
@@ -389,7 +389,7 @@ The difference between "gravity-celerity, heavy-light, slow-rapid" is not quanti
 <br>
 
 
-#### Two Sciences
+##### Two Sciences
 
 Quoting Serres: "Physics is reducible to two sciences, a general theory of routes and paths, and a global theory of waves" (372)
 

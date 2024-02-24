@@ -130,7 +130,7 @@ permalink: 2024/02/27/game-340-week-7
 
 #### *A Thousand Plateaus,* pp. 387-403
 
-#### Number
+##### Number
 
 "PROPOSITION VI. *Nomad existence necessarily implies the numerical elements of a war machine*" (387)
 
