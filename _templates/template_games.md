@@ -1,12 +1,17 @@
 ---
 title: 
-date: 
+developer:
+publisher:
 platform: 
-link: 
-howlongtobeat:
+releaseDate:
+howlongtobeat: 
+difficulty: 
+trophyGuide: 
 duration:
 trophies: 
 progress: 
+link: 
+date: 
 permalink: 
 ---
 

@@ -1,0 +1,3 @@
+# PlatinumGames
+
+[[companies]]

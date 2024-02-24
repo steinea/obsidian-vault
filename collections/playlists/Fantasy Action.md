@@ -26,20 +26,14 @@ permalink: 2024/02/21/fantasy-action
 * [[Final Fantasy VII Remake Intergrade]], 2020-04-10
 * [[Stranger of Paradise Final Fantasy Origin]], 2022-03-14
 * [[Crisis Core Final Fantasy VII Reunion]], 2022-12-13
+* [[Forspoken]], 2023-01-24
 * [[Wo Long Fallen Dynasty]], 2023-03-03
 * [[Final Fantasy XVI]], 2023-06-22
 * [[Final Fantasy VII Rebirth]], 2024-02-29
 * [[Rise of the Ronin]], 2024-03-22
+* [[Dragon's Dogma 2]], 2024-03-22
+* [[Stellar Blade]], 2024-04-26
 
-<p><br></p>
-
-#### Developers
-
-* [[Motomu Toriyama]]
-* [[Tetsuya Nomura]]
-* [[Ryota Suzuki]]
-* [[Fumihiko Yasuda]]
-* [[Naoki Yoshida]]
 
 <p><br></p>
 
@@ -54,6 +48,7 @@ LRFFXIII(["Lightning Returns Final Fantasy XIII"])
 
 FFXIVO(["Final Fantasy XIV Online"])
 FFXVRE(["Final Fantasy XV Royal Edition"]) 
+FRSPKN(["Forspoken"])
 
 FFVIIRI(["Final Fantasy VII Remake Intergrade"])
 CCFFVIIR(["Crisis Core Final Fantasy VII Reunion"])
@@ -68,11 +63,14 @@ ROTR(["Rise of the Ronin"])
 DDDA(["Dragon's Dogma Dark Arisen"])
 DMC5SE(["Devil May Cry 5 Special Edition"])
 FFXVI(["Final Fantasy XVI"])
+DD2(["Dragon's Dogma 2"])
 
 NIERRV(["Nier Replicant ver.1.22474487139…"])
 DG3(["Drakengard 3"])
 NIERA(["Nier Automata"])
 YORHADA(["YoRHa Dark Apocalypse"])
+
+STELLAR(["Stellar Blade"])
 
 FFXIII --> FFXIII2 --> LRFFXIII --> FFXIVO --> FFXVRE --> FFVIIRI --> SOPFFO --> CCFFVIIR --> FFXVI --> FFVIIR
 
@@ -80,10 +78,16 @@ NIOH --> NIOH2 --> SOPFFO --> WLFD --> ROTR
 
 DDDA --> DMC5SE --> FFXVI
 
+DDDA --> DD2
+
 FFXIVO --> YORHADA
 
 NIERRV --> DG3 --> NIERA --> YORHADA
 
-class FFXIII,FFXIII2,LRFFXIII,FFXVRE,FFVIIRI,CCFFVIIR,NIOH,NIOH2,SOPFFO,WLFD,DDDA,DMC5SE,FFXVI,FFVIIR,ROTR,FFXIVO,DG3,NIERRV,NIERA,YORHADA internal-link;
+FFXVRE --> FRSPKN
+
+NIERA -.-> STELLAR
+
+class FFXIII,FFXIII2,LRFFXIII,FFXVRE,FFVIIRI,CCFFVIIR,NIOH,NIOH2,SOPFFO,WLFD,DDDA,DMC5SE,FFXVI,FFVIIR,ROTR,FFXIVO,DG3,NIERRV,NIERA,YORHADA,DD2,FRSPKN,STELLAR internal-link;
 
 ```
