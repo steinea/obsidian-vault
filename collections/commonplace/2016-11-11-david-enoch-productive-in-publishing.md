@@ -8,6 +8,8 @@ link: http://dailynous.com/2016/11/11/productive-publishing-2-david-enoch/
 date: 2016-11-11
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 Yesterday, I posted an outline of Jason Brennan’s advice to graduate students on how to be productive in publishing (when you read that, do note the further details Brennan supplies in response to some of the comments). In what follows, David Enoch, the Rodney Blackman Chair in the Philosophy of Law in the Faculty of Law and the Philosophy Department at Hebrew University of Jerusalem, replies to Brennan.
 
 My first reaction, when reading Jason Brennan’s advice for grad students on productivity and publishing was, “No, no, no!”. This is why I am writing this response. Still, there’s a lot to like about Brennan’s advice: First, I think that Brennan is right that (with very few exceptions) graduating without publications is a very bad idea. Second, some of his advice is right and helpful. Third, I think that some of his wrong advice can be useful – in correcting for mistakes many graduate students often make. For instance, “Don’t read, write.” is a horrible piece of advice understood literally. But, if addressed at a specific grad student who will not write anything until s/he has read everything, it may be useful advice nonetheless, because it would push him/her in the right direction. And if there’s reason to think that this feature is common to all or most grad student, perhaps it can be useful even more generally.

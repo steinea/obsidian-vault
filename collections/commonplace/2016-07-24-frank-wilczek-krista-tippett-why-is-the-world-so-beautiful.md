@@ -8,6 +8,8 @@ link: https://onbeing.org/programs/frank-wilczek-beauty-as-a-compass-for-truth/
 date: 2016-07-24
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 "All colours are one thing, seen in different states of motion."
 
 —Tippett, quoting Wilczek

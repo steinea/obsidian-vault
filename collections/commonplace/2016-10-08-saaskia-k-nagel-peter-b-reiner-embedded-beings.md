@@ -8,6 +8,8 @@ link: https://aeon.co/ideas/embedded-beings-how-we-blended-our-minds-with-our-de
 date: 2016-10-08
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “Like life itself, technologies evolve.”
 
 “proximity is a red herring. The real issue is the seamless way in which we are already hybridising our cognitive space with our devices. In ways both quotidian and profound, they are becoming extensions of our minds.”

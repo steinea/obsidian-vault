@@ -8,6 +8,8 @@ link: https://en.wikipedia.org/wiki/The_Bacchae_of_Euripides
 date: 2016-04-25
 ---
  
+[[2016]] / [[commonplace]] / 
+ 
 Compassion, the deeper justice
  
 Seven paths: Oil, wine, blood, spring, rain, sperm

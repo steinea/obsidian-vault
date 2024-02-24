@@ -8,6 +8,8 @@ link: https://en.wikipedia.org/wiki/Existence_precedes_essence
 date: 2016-01-07
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 This article is about the existentialist phrase coined by Jean-Paul Sartre. For the transcendent theosophy founder, see Mulla Sadra.
 
 The proposition that existence precedes essence (French: l'existence précède l'essence) is a central claim of existentialism, which reverses the traditional philosophical view that the essence (the nature) of a thing is more fundamental and immutable than its existence (the mere fact of its being).[1] To existentialists, human beings—through their consciousness—create their own values and determine a meaning for their life because the human being does not possess any inherent identity or value. That identity or value must be created by the individual. By posing the acts that constitute him or her, he or she makes his or her existence more significant.[2][3]

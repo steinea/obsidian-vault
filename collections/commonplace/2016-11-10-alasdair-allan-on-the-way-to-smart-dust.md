@@ -8,6 +8,8 @@ link: http://motherboard.vice.com/read/the-internet-of-things-is-just-a-pit-stop
 date: 2016-11-10
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “As processors get faster and smaller we seem to reach points of inflection, our technological progress allows us to do something that wasn’t really possible before, or at least wasn’t practical. We’ve seen this before: computers the size of rooms gave way to ones that fit under the desk. In time those too gave way to slabs of aluminium and glass that we carried around in bags, and then to computers that fit in our pockets, and just happen to also be able to make phone calls.”
 
 “Known as Bell’s law, this proposition is intimately intertwined with the far more well known Moore’s law. But while Moore’s law may be dying, Bell’s law, at least for one last turn of the wheel, seems to be holding.”

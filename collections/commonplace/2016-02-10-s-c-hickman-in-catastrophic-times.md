@@ -8,6 +8,8 @@ link: https://socialecologies.wordpress.com/2015/12/30/isabelle-stengers-in-cata
 date: 2016-02-10
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 ““In writing this book I am situating myself amongst those who want to be the inheritors of a history of struggles undertaken against the perpetual state of war that capitalism makes rule. It is the question of how to inherit this history today that makes me write.” 
 ………….– Isabelle Stengers, In Catastrophic Times”
 

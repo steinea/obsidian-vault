@@ -8,6 +8,8 @@ link: http://www.theatlantic.com/entertainment/archive/2016/01/when-a-video-game
 date: 2016-01-15
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “In English, the word “apocalypse”—ety. Greek, n. apo (un-) + kaluptein (-veil)—has three non-exclusive meanings.”
 
 “The first and most common is simply the end of the world, whether by divine punishment or whatever transpires in movies directed by Roland Emmerich.”

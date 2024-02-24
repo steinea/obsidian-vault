@@ -8,6 +8,8 @@ link: https://www.marxists.org/reference/subject/philosophy/works/fr/lyotard.htm
 date: 2016-02-28
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “The Postmodern Condition: A Report on Knowledge
 
 Source: The Postmodern Condition (1979) publ. Manchester University Press, 1984. The First 5 Chapters of main body of work are reproduced here.”

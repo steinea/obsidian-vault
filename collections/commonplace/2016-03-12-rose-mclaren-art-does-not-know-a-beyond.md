@@ -8,6 +8,8 @@ link: http://www.thewhitereview.org/features/art-does-not-know-a-beyond-on-karl-
 date: 2016-03-12
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “KARL OVE KNAUSGAARD’S MY STRUGGLE HAS AN ODDLY MEDIEVAL FORM: a cycle, composed of six auto-biographical books about the Norwegian author’s life.”
 
 

@@ -8,6 +8,8 @@ link: http://www.preposterousuniverse.com/blog/2016/07/18/space-emerging-from-qu
 date: 2016-07-19
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “The quantum state of the universe is not a collection of things distributed through space, but something called a wave function.”
 
 “The wave function gives us a way of calculating the outcomes of measurements: whenever we measure an observable quantity like the position or momentum or spin of a particle, the wave function has a value for every possible outcome, and the probability of obtaining that outcome is given by the wave function squared.”

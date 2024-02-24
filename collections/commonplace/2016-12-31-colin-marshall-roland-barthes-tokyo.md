@@ -8,6 +8,8 @@ link: https://lareviewofbooks.org/article/ways-seeing-japan-roland-barthess-toky
 date: 2016-12-31
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “ROLAND BARTHES FIRST VISITED Japan in 1966, not long after the defeated and reconstructed country announced its return to the international community with the 1964 Summer Olympics in Tokyo.”
 
 “Now, half a century after the semiotician from Cherbourg walked its streets, the Japanese capital prepares for its second Summer Olympics in 2020, in hopes of signaling another reemergence: not from wartime devastation by the most advanced weapons known to man, but from the long hangover of the postwar economic bubble, burst in the 1990s, and the subsequent “lost decade” now turning into a lost quarter century.”

@@ -8,6 +8,8 @@ link: http://thenewinquiry.com/essays/joe-cool/
 date: 2016-03-08
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “Why isn’t the popular grocery store Trader Joe’s on social media?”
 
 “TODAY’S consumerism is riddled with elaborate and often meaningless choices”

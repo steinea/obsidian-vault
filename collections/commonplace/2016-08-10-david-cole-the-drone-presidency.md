@@ -8,6 +8,8 @@ link: http://www.nybooks.com/articles/2016/08/18/the-drone-presidency/
 date: 2016-08-10
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “Greenwald summarizes Obama’s approach to drones as follows:
 
 The centerpiece of his drone assassination program is that he, and he alone, has the power to target people, including American citizens, anywhere they are found in the world and order them executed on his unilateral command, based on his determination that the person to be killed is a terrorist.”

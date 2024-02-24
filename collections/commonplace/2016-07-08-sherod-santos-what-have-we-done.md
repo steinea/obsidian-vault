@@ -8,6 +8,8 @@ link: http://bostonreview.net/poetry/sherod-santos-david-baker-scavenger-loop
 date: 2016-07-08
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “Why not, David Baker asks, express ideas in such a way that we perceive them as sensations? That we comprehend them not as argument or discourse or information but as lived experience—“thought through my eyes,” as Joyce described it—closing the gap in that binary divide.”
 
 “This is poetry of a very high order, yet its pathos is uncompromised by ostentation, didacticism, or self-consciousness. It is “less the way we know,” he reminds himself, “than by the trees, / by the death of the trees, by the millions.””

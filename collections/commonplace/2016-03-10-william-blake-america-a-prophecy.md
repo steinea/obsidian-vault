@@ -7,7 +7,9 @@ publication: Bartleby
 link: https://www.bartleby.com/235/257.html
 date: 2016-03-10
 ---
-        
+   
+[[2016]] / [[commonplace]] / 
+      
 Preludium
 
 The shadowy Daughter of Urthona stood before red Orc,

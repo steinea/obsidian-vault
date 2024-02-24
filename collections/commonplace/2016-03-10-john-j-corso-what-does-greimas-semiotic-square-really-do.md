@@ -8,6 +8,8 @@ link: https://www.jstor.org/stable/44030128
 date: 2016-03-10
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 Semiotician A.J. Greimas introduced the semiotic square to consider semiotic relationships (and constraints) between binary terms. Literary, art, and music critics have seized upon the procedure to analyze actants, narrative structures, and discursive paradigms. This essay argues that current literature ignores the visual aspects of the square. 
 
 The semiotic square is a graphic representation of the deep structure of a semiotic system (Greimas and Rastier 87). Greimas uses the device to "bring into view" contrary and contradictory terms, thereby "framing narrative segments" within a given discourse (Greimas, Courtis, and Rengstorf 571). In The Prison-House of Language, Frederic Jameson states that the "semantic rectangle" is "designed to diagram the way in which, from any given starting point S, a whole complex of meaning possibilities, indeed a complete meaning, may be derived" (163). (Jameson is right to call the figure a rectangle but, owing to convention, I will continue to call it a square.) Elsewhere, Nancy Armstrong writes that the square allows us to "identify the preconditions for the meaning of particular narratives" (53). In these cases, the square allows a visualization of two particular kinds of relationships: those of "opposition" and "contradiction" (Prison-House 162). 

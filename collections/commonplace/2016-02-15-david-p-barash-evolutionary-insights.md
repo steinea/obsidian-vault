@@ -8,6 +8,8 @@ link: https://lareviewofbooks.org/review/five-blockbuster-evolutionary-insights-
 date: 2016-02-15
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 ““THE MASS OF MEN,” according to Thoreau, “lead lives of quiet desperation.” I always thought this an overstatement, and still do. Nonetheless, in a perverse way, this dictum might be true of many — perhaps most — great scientists, especially if we substitute “concentration” for “desperation.”
 
 “As Thomas Kuhn famously proposed, most scientists do normal science. Trivers didn’t do much of that. Instead, he was into paradigmatic revolutions. Indeed, he takes the prize when it comes to research of foundational consequence and originality. (He was in fact awarded the Crafoord Prize, an alternative Nobel.)”

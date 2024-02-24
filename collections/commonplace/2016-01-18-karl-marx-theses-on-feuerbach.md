@@ -8,6 +8,8 @@ link: https://www.marxists.org/archive/marx/works/1845/theses/theses.htm
 date: 2016-01-18
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “The chief defect of all hitherto existing materialism – that of Feuerbach included – is that the thing, reality, sensuousness, is conceived only in the form of the object or of contemplation, but not as sensuous human activity, practice, not subjectively.”
 
 “Hence, in contradistinction to materialism, the active side was developed abstractly by idealism – which, of course, does not know real, sensuous activity as such.”

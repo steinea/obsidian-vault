@@ -8,6 +8,8 @@ link: https://www.theatlantic.com/entertainment/archive/2016/12/martin-scorsese-
 date: 2016-12-21
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “It’s a striking cinematographic choice and an apt metaphor for Scorsese’s depiction of faith: Humans can attempt to describe, emulate, and revere God, but ultimately, this is only imitation, the director seems to say.”
 
 “As the priests discover, sometimes it is impossible to know what this imitation should look like. Yet, no matter how they implore God to speak and show them the way, he is often as loud as a painting. He is, in other words, silent.”

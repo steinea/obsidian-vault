@@ -8,6 +8,8 @@ link: http://www.preposterousuniverse.com/blog/2012/04/28/a-universe-from-nothin
 date: 2016-02-17
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “Very roughly, there are two different kinds of questions lurking around the issue of “Why is there something rather than nothing?””
 
 “One question is, within some framework of physical laws that is flexible enough to allow for the possible existence of either “stuff” or “no stuff” (where “stuff” might include space and time itself), why does the actual manifestation of reality seem to feature all this stuff?”

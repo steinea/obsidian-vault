@@ -8,6 +8,8 @@ link: http://www.e-flux.com/journal/76/69843/transdemocracy/
 date: 2016-10-01
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “in the context of the current refugee crisis, Turkey has been turned into an EU buffer state: the outer frontier of the supranational project which now operates as the new extralegal border”
 
 

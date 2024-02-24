@@ -8,6 +8,8 @@ link: https://www.jacobinmag.com/2016/01/huws-sharing-economy-crowdsource-precar
 date: 2016-01-06
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “First there’s an economic crisis. Then comes an enormous restructuring of capital — and with it a restructuring of labor — throwing past certainties into doubt. Old industries, companies, and occupations disappear and new ones emerge, enabled by new technologies. As people struggle to find a way to describe the seismic upheavals in the economic and social landscape, a linguistic mist arises, muddling the features of this new landscape, blurring attempts to analyze and map it.”
 
 “This time around, among the first commentators on the scene were techno-utopians, offering terms like “sharing economy” and “peer-to-peer networking” to conjure up a vision of a positive new development that, they claim, prefigures what a cooperative, post-capitalist society might look like. This is a society in which the Internet allows services to be freely shared between those who need them and those who can supply them, eliminating the capitalist intermediary. With 3-D printing, they even speculate, we can cut out factories too, allowing goods to be produced when they are needed.”

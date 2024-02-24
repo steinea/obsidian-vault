@@ -8,6 +8,8 @@ link: https://www.quantamagazine.org/20141015-at-the-far-ends-of-a-new-universal
 date: 2016-02-02
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “Systems of many interacting components — be they species, integers or subatomic particles — kept producing the same statistical curve, which had become known as the Tracy-Widom distribution. This puzzling curve seemed to be the complex cousin of the familiar bell curve, or Gaussian distribution, which represents the natural variation of independent random variables like the heights of students in a classroom or their test scores.”
 
 “Like the Gaussian, the Tracy-Widom distribution exhibits “universality,” a mysterious phenomenon in which diverse microscopic effects give rise to the same collective behavior. “The surprise is it’s as universal as it is,” said Tracy, a professor at the University of California, Davis.”

@@ -8,6 +8,8 @@ link: http://motherboard.vice.com/read/we-need-to-save-the-internet-from-the-int
 date: 2016-10-06
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “Basically, it's a size vs. size game. If the attackers can cobble together a fire hose of data bigger than the defender's capability to cope with, they win. If the defenders can increase their capability in the face of attack, they win.”
 
 “What was new about the Krebs attack was both the massive scale and the particular devices the attackers recruited. Instead of using traditional computers for their botnet, they used CCTV cameras, digital video recorders, home routers, and other embedded computers attached to the internet as part of the Internet of Things.”

@@ -8,6 +8,8 @@ link: http://www.theatlantic.com/international/archive/2016/06/complex-languages
 date: 2016-07-13
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “German is, overall, busier than English, and yet Germans feel their way of putting things is as normal as English speakers feel their way is.”
 
 “Other languages occupy still other places on the linguistic axis of “busyness,” from prolix to laconic, and it’s surprising what a language can do without.”

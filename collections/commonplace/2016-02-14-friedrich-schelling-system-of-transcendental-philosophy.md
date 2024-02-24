@@ -8,6 +8,8 @@ link: https://www.marxists.org/reference/subject/philosophy/works/ge/schellin.ht
 date: 2016-02-14
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “1. All knowledge is founded upon the coincidence of an objective with a subjective. - For we know only what is true; but truth is generally taken to consist in the coincidence of presentations with their objects.”
 
 

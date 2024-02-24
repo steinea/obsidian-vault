@@ -8,6 +8,8 @@ link: https://lareviewofbooks.org/article/the-network-imaginary/
 date: 2016-11-01
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “1989 saw the introduction of the World Wide Web: the information space whose name metaphorized the network form which commonly characterizes and defines contemporary life”
 
 “I think of the world in which we now live as a web or a network of connections, in part because I’ve never known anything else. Yet the relative youth of the network form, or at least the technology that has helped it proliferate, should give us some hint that it is not at all a stable one, and our understanding of its function and role in our day-to-day experiences is anything but complete.”

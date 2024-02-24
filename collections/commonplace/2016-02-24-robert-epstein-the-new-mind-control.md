@@ -8,6 +8,8 @@ link: https://aeon.co/essays/how-the-internet-flips-elections-and-alters-our-tho
 date: 2016-02-24
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “In The Iron Heel (1908), the American writer Jack London pictured a world in which a handful of wealthy corporate titans – the ‘oligarchs’ – kept the masses at bay with a brutal combination of rewards and punishments. Much of humanity lived in virtual slavery, while the fortunate ones were bought off with decent wages that allowed them to live comfortably – but without any real control over their lives.”
 
 

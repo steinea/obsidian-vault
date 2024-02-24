@@ -8,6 +8,8 @@ link: http://thenewinquiry.com/essays/our-brand-could-be-your-crisis/
 date: 2016-07-24
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “These first-wave millennials are largely skeptical of their generational younger siblings, for whom the tools and spaces of work, leisure, and identity formation have become in many cases become identical.”
 
 “We’ve reached the end of our anxious retread of the past that gave us white guys with handlebar mustaches, the 90s aren’t “back,” they’re being appropriated anew, and we’ve lost the sense of anticipation and speculation that fueled all our current bubbles. Now we only await collapse.”

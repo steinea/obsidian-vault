@@ -8,6 +8,8 @@ link: http://www.nybooks.com/daily/2016/12/30/consciousness-does-information-sme
 date: 2016-12-30
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “our questions today are: Why this apparent consensus in the absence of convincing evidence? And what new ideas are internalists exploring to advance the science?”
 
 “Tim Parks: Riccardo, I know I should be asking the questions, not answering them. But I’m going to suggest that one reason for this consensus is that we are in thrall to the analogy of the brain as computer.”

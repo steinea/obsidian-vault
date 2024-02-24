@@ -8,6 +8,8 @@ link: https://aeon.co/essays/treating-acute-psychosis-with-drugs-can-prolong-the
 date: 2016-08-14
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “She frames a question that carries deep implications of challenge and shame: ‘Do you think they are real?’
 
 An answer came out of my mouth that I had never quite thought before, but as I heard the words, they seemed true: ‘It’s not as simple a question as we usually think. We usually think that whatever we perceive is what is there. Perception equals reality. But research shows that every perception we have is actually constructed by the unconscious mind, which then instantly hands it to consciousness. What the unconscious mind uses to do this constructing is largely sensory stimulations. We grasp this information with our senses, we process it with our brains unconsciously, and the product enters our consciousness. Because we all share this sensory world, we do very similar unconscious constructing. We can both look at a lamp like this one and see the same lamp, as far as we can ever know. It’s easy to say, this lamp is real.’

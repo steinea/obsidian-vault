@@ -8,6 +8,8 @@ link: http://www.musicandliterature.org/reviews/2013/10/28/bla-tarr-the-time-aft
 date: 2016-03-10
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “Jacques Rancière’s latest work, Béla Tarr, The Time After, is that awkward thing: an essay-book. It appears primarily to serve as a manifesto of Rancière’s theory of cinema, via a ponderous and dogmatic guide to the Hungarian filmmaker, Béla Tarr.”
 
 “Rancière, like Adorno and Žižek, has come to be feted as a philosopher of the arts, and this fluid translation by Erik Beranek is essentially a book of academic film criticism, in the tradition of Roland Barthes or Susan Sontag.”

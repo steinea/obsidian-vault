@@ -8,6 +8,8 @@ link: https://terenceblake.wordpress.com/2016/10/22/reading-disparities-2-dispar
 date: 2016-10-22
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 Reading DISPARITIES (2)
 
 “There is no need for the one-sided fantasmatic identification with the thought of one of these figures and scathing condemnation of the rest.”

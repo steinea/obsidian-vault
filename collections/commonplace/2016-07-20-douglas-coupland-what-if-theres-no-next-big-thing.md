@@ -8,6 +8,8 @@ link: http://www.e-flux.com/journal/what-if-theres-no-next-big-thing/
 date: 2016-07-20
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “What if tech itself is the next big thing in the art world?”
 
 “Fifty years after McLuhan’s Understanding Media, the medium that drives the message is still the message—and sometimes it seems like the only hope for any message at all.”

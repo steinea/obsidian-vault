@@ -8,6 +8,8 @@ link: http://www.theatlantic.com/international/archive/2016/02/ungern-sternberg-
 date: 2016-02-02
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “as Ungern-Sternberg amassed power, people found political and personal reasons to play along with his desire for religious legitimacy”
 
 “The cruelty and capriciousness of the baron’s rule ultimately alienated his followers, and his messianic worldview did not prove conducive to sound strategic thinking.”

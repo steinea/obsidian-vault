@@ -8,6 +8,8 @@ link: http://jonmills.tripod.com/Dasein.htm
 date: 2016-07-28
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 From Heidegger to Sartre and Psychoanalysis.
 
 

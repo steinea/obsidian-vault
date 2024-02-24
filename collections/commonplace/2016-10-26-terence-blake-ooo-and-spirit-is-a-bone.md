@@ -8,6 +8,8 @@ link: https://terenceblake.wordpress.com/2016/10/26/reading-disparities-7-ooo-an
 date: 2016-10-26
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 Reading DISPARITIES (7)
 
 “In Zizek’s account the subject is the outcome of the failure of symbolization. This failure concerns not just reference to the object but the object itself. The object can never be its own interpretation, it can never completely be just an object.This is Zizek’s way to avoid both “correlationism” and the sort of meta-correlationism that he is arguing is instituted by OOO.”

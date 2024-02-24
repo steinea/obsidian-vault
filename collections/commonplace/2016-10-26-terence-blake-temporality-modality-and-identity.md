@@ -8,6 +8,8 @@ link: https://xenoswarm.wordpress.com/2016/08/15/the-last-days-of-new-paris-2-te
 date: 2016-10-26
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 THE LAST DAYS OF NEW PARIS (2)
 
 “My approach to science fiction starts from an adoption and generalisation of Darko Suvin’s thesis that science fiction is the “literature of cognitive estrangement”.”

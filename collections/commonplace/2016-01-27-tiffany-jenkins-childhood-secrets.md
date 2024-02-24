@@ -8,6 +8,8 @@ link: https://aeon.co/essays/we-ve-forgotten-how-to-give-children-the-space-to-h
 date: 2016-01-27
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “Secrets in this novel are disclosed only once their protective shelter is no longer required.”
 
 “The word secrecy derives from the Latin secretum, which means to set apart, and from secernere, which means to separate, as with a sieve, which suggests that secrecy is a method of separating and dividing, placing something – or someone – out of the way.”

@@ -8,6 +8,8 @@ link: http://www.theatlantic.com/business/archive/2016/04/total-inequality/47623
 date: 2016-04-03
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “In rich countries, the distribution of wealth is more unequal than the distribution of income; wealth will continue to grow faster than income (r>g); and, therefore, a small elite will inherit the wealth of the world with little left over for the many poor.”
 
 “His thesis had its share of nitpickers and weighty detractors, but it succeeded in moving the U.S. debate about the rich and poor from a discussion of income, which is annual, to a discussion of wealth, which is cumulative. This was important.”

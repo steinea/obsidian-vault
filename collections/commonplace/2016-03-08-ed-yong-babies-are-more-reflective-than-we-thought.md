@@ -8,6 +8,8 @@ link: http://www.theatlantic.com/science/archive/2016/03/babies-know-when-they-k
 date: 2016-03-08
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “When we take a test, we have some idea of how well we’re going to do. When we start a task, we can predict how long it’ll take us to finish it. When we field a question, we can judge whether we need to consult the oracle of Google.”
 
 “We can do all of this because of a skill called metacognition—the ability to reflect upon our own minds, to monitor their degree of certainty, to have knowledge about our knowledge.”

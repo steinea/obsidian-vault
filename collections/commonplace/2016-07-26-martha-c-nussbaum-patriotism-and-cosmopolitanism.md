@@ -8,6 +8,8 @@ link: http://bostonreview.net/martha-nussbaum-patriotism-and-cosmopolitanism
 date: 2016-07-26
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “When anyone asked him where he came from, he said, ‘I am a citizen of the world.’
 —Diogenes Laertius, Life of Diogenes the Cynic”
 

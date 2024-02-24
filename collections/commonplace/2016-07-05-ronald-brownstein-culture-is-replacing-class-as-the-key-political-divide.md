@@ -8,6 +8,8 @@ link: http://www.theatlantic.com/politics/archive/2016/06/britain-united-states/
 date: 2016-07-05
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “Both geographically and demographically, the British referendum split the U.K. along lines familiar in America. An extensive election-day survey by Lord Michael Ashcroft, a British pollster, found that the leave campaign carried over three-fifths of those without four-year college degrees, a comparable number of seniors, and a narrow majority of all whites. Election results showed the leave campaign amassing big margins outside of major cities. The campaign to remain won over two-thirds of non-whites, about three-fifths of college graduates, and big majorities among younger and urban voters. In London, which recently elected one of the western world’s first Muslim mayors, 60 percent voted to stay.”
 
 “All of this replicates American patterns. Democrats now rely on an urbanized coalition of Millennials, minorities, and socially liberal college-educated and single whites (especially women). Republicans thrive among older, non-college educated and religiously devout whites, especially outside of major cities. In 2012, President Obama carried less than one-fourth of America’s counties; he won fewer counties than any presidential winner since at least 1920. But because Obama so dominated the nation’s population centers, he triumphed by 5 million votes.”

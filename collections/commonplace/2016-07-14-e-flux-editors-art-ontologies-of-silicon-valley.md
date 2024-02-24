@@ -8,6 +8,8 @@ link: http://www.e-flux.com/journal/editorial-art-ontologies-of-silicon-valley/
 date: 2016-07-14
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “Tech is never simply technology.”
 
 “t never appears in the abstract, any more than the characters “H2O” appear anywhere on water.”

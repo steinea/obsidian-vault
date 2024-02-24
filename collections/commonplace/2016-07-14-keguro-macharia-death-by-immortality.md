@@ -8,6 +8,8 @@ link: http://thenewinquiry.com/essays/death-by-immortality/
 date: 2016-07-14
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “Cancer cells are “immortal”: they replicate incessantly, refusing to obey signals to moderate their speed or to die. They are, in fact, death-defying cells that kill.”
 
 “Immortality cannot survive in our bodies. From a cancer cell’s perspective, debility, that condition most associated with aging, is for other cells, cells that do not know how to adapt, how to beat death, how to live forever. That cancer cells produce debility because they are immortal speaks to one of the central contradictions of aging: increases in life expectancy are heralded as signs of progress, even as debility inevitably accompanies such increase. The bonus is tainted.”

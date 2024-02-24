@@ -8,6 +8,8 @@ link: http://www.theguardian.com/media/2016/jul/12/how-technology-disrupted-the-
 date: 2016-07-12
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “Oakeshott went even further to absolve herself of any journalistic responsibility: “It’s up to other people to decide whether they give it any credibility or not,” she concluded. This was not, of course, the first time that outlandish claims were published on the basis of flimsy evidence, but this was an unusually brazen defence. It seemed that journalists were no longer required to believe their own stories to be true, nor, apparently, did they need to provide evidence. Instead it was up to the reader – who does not even know the identity of the source – to make up their own mind. But based on what? Gut instinct, intuition, mood?
 
 Does the truth matter any more?”

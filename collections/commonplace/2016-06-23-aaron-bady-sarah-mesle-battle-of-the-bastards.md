@@ -8,6 +8,8 @@ link: https://lareviewofbooks.org/article/game-thrones-season-6-battles-bastards
 date: 2016-06-23
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “At the level of language, this show was about the miserable wastefulness of violent patriarchy. But how to square that with the full half of this episode spent in wrenchingly rendered blood and gore?”
 
 “You know, I think a lot my complaints about Game of Thrones boil down to demanding that it be psychologically coherent and consistent (or just socially non-nonsensical) when that might be asking it to be a different show.”

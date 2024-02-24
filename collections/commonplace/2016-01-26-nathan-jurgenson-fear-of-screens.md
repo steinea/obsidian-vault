@@ -8,6 +8,8 @@ link: http://thenewinquiry.com/essays/fear-of-screens/
 date: 2016-01-26
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “Rather than seek to describe specific changes or uneven distributions in how we relate and communicate, this genre instead takes a medicalized view of digital connectivity and seeks to diagnose the threats it poses to our very humanity.”
 
 “These critiques begin with a received definition of what makes us human — having “authentic” selves and “real” emotions, moral sensitivity and “deep” social connection.”

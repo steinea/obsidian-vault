@@ -8,6 +8,8 @@ link: https://www.marxists.org/reference/subject/philosophy/works/at/catharsis.h
 date: 2016-03-05
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “the doctor uncovers the resistances which are unknown to the patient; when these have been got the better of, the patient often relates the forgotten situations and connections without any difficulty”
 
 “The aim of these different techniques has, of course, remained the same. Descriptively speaking, it is to fill in gaps in memory; dynamically speaking, it is to overcome resistances due to repression.”

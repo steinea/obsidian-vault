@@ -8,6 +8,8 @@ link: http://bostonreview.net/books-ideas/martin-oneill-tm-scanlon-inequality
 date: 2016-09-07
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “What We Owe to Each Other (1998), develops and defends a distinctive approach to interpersonal morality, known as contractualism.”
 
 “Scanlon’s ideas about equality are philosophically significant. They also have the potential to inform how we ought to approach day-to-day politics.”

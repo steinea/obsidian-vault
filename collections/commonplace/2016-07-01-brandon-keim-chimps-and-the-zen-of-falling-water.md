@@ -8,6 +8,8 @@ link: https://nautil.us/blog/chimps-and-the-zen-of-falling-water
 date: 2016-07-01
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 "“I can’t help feeling that this waterfall display, or dance, is perhaps triggered by feelings of awe and wonder,” says Goodall in the video. “The chimpanzee brain is similar to ours. They have emotions that are clearly similar to those that we call happiness and sadness and fear and despair and so forth. So why wouldn’t they also have feelings of some kind at spirituality? Which is, really, being amazed at things outside yourself.”"
  
  "What might water evoke in a being capable of rich abstraction, eminently aware of water’s vitality, but with a different and less mechanistic body of knowledge? Suddenly it doesn’t seem so far-fetched to imagine chimps experiencing some seed of what, in Homo sapiens, eventually grew into water myths found in just about every human society."

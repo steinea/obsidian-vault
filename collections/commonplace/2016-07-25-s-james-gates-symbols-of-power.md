@@ -8,6 +8,8 @@ link: http://www.onbeing.org/blog/symbols-power-adinkras-and-nature-reality/2438
 date: 2016-07-25
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “In the land of theoretical physics, equations have always been king.”
 
 

@@ -8,6 +8,8 @@ link: https://lareviewofbooks.org/article/question-concerning-heidegger/
 date: 2016-07-14
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “Echoing Nietzsche’s saying that “truth is a mobile army of metaphors,” Derrida calls metaphor “the beginning of language” and says that “language itself is metaphysics.””
 
 “So Derrida’s project is not to think, speak, or write without metaphors, but to realize that we have been driven by metaphors all along.”

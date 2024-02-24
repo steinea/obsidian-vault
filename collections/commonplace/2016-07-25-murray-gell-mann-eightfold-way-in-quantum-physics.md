@@ -8,6 +8,8 @@ link: https://en.wikipedia.org/w/index.php?title=Eightfold_Way_(physics)&oldid=7
 date: 2016-07-25
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 Eightfold Way (physics)
 
 The meson octet. Particles along the same horizontal line share the same strangeness, s, while those on the same diagonals share the same charge, q.

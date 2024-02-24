@@ -8,6 +8,8 @@ link: http://www.nybooks.com/articles/1998/06/11/justice-for-scalia/
 date: 2016-02-17
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “Much concerned with questions of legal theory, he has brought to the bench a sharp intelligence, lively prose that fairly jumps from the dreary pages of the Supreme Court reports, and a determined commitment to reform the ways courts interpret the law.”
 
 

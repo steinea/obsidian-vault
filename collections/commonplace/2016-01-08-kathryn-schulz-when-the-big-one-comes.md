@@ -8,6 +8,8 @@ link: http://www.newyorker.com/tech/elements/how-to-stay-safe-when-the-big-one-c
 date: 2016-01-08
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “for journalists, or at least this one, fear is not an end in itself. At best, it is a means to an end, a way to channel emotion into action.”
 
 “To achieve that, however, you need to navigate between the twin obstacles of panic (which makes you do all the wrong things) and fatalism (which makes you do nothing).”

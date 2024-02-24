@@ -8,6 +8,8 @@ link: https://www.marxists.org/archive/lukacs/works/history/hcc05.htm
 date: 2016-02-02
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “To be radical is to go to the root of the matter. For man, however, the root is man himself.
 Marx: Critique of Hegel’s Philosophy of Right.”
 

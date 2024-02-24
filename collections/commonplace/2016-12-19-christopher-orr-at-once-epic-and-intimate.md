@@ -8,6 +8,8 @@ link: https://www.theatlantic.com/entertainment/archive/2016/12/the-best-movies-
 date: 2016-12-19
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 Like the last couple of years (and in contrast to 2013), 2016 was light on great films but offered a solid share of good ones—so many, in fact, that I’ve considerably expanded my list of honorable mentions. As always, my favorites are somewhat eclectic and the individual awards that follow more eclectic still. And I should again caveat the entire enterprise with the note that, while I saw a great many films this year there are still quite a few of the more than 700 movies released domestically that I missed. If a favorite of yours goes unmentioned that may be why. And with that…
 
 1. Arrival

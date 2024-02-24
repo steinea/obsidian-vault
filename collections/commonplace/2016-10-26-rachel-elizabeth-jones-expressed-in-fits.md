@@ -8,6 +8,8 @@ link: http://thenewinquiry.com/essays/expressed-in-fits/
 date: 2016-10-26
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “Dancing represents work towards reaching a powerful, controlled feminine ideal of sexiness and strength. The fits are a closely related inverse; they are highly physical and gendered, but instead represent the loss of bodily control through a mysterious spasm.”
 
 “Are the fits purely a metaphor for the trauma of women’s coming-of-age? The film never quite says. As the viewer is left grasping for a specific antagonist, a more important question arises: What purpose would diagnosing the origins of the illness serve? Which is also to ask: who would it serve best?”

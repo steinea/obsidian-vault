@@ -8,6 +8,8 @@ link: http://www.theatlantic.com/entertainment/archive/2016/06/game-of-thrones-p
 date: 2016-07-05
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “The demolition of the Sept of Baelor would seem to be a major milestone in the ongoing, somewhat submerged narrative running throughout Game of Thrones about the brutal relationship between lords and peasants. The show has long hinted at a popular revolution, and Cersei either just quashed it or ignited it.”
 
 “the increasingly supernatural significance of the Starks and Targaryen also imply bloodline hierarchy to be just and divinely willed”

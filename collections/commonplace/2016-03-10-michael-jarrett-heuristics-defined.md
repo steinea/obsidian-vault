@@ -8,6 +8,8 @@ link: http://www2.york.psu.edu/~jmj3/home.html
 date: 2016-03-10
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 "While readers might associate heuretics with a varied set of connotators--eureka, heuristics, heretics, and, yes, diuretics--the word originated as a theological term, as the flip-side or repressed Other of hermeneutics. One could interpret scripture (read through a hermeneutic), or one could employ scripture as a means of invention (read it heuretically). Hermeneutics asks, What can be made of the Bible? Heuretics asks, What can be made from the Bible?
 
 Hermeneutics was secularized early on. It provided methodologies of reading, legitimated the study of texts and, in effect, created the Renaissance humanist. Heuretics enjoyed neither prestige nor currency, and though I suspect the word popped up now and again during witch trials (in the mouths of prosecutors), its systematic use has been largely confined to the fine arts.

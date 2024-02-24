@@ -8,6 +8,8 @@ link: http://reallifemag.com/clash-rules-everything-around-me/
 date: 2016-07-04
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “Clash isn’t especially addictive (I know what that looks like), but it puts me in constant low-grade anxiety”
 
 “There is a trite-and-true political argument that’s often made about such games: how they’re capitalism simulators, models of military-industrial neoliberalism, ideologies encoded as entertainment”

@@ -8,6 +8,8 @@ link: https://lareviewofbooks.org/article/untying-bodies/
 date: 2016-09-24
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “Kali’s third hand is what Peter Szendy would call an “effiction,” a concept he borrows from an old figure of Latin rhetoric (effictio) that denoted the head-to-toe verbal fashioning of a body.”
 
 “But Szendy also hears in this term a contraction of “fiction” and “efficacy.” The phantom limb is fabricated and yet effective. It has “a strange modality of insistence and persistence.””

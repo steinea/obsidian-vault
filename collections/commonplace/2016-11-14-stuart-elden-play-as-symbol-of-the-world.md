@@ -8,6 +8,8 @@ link: https://ndpr.nd.edu/news/71322-play-as-symbol-of-the-world-and-other-writi
 date: 2016-11-14
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “The inspiration for the whole work can perhaps be found in Heraclitus's fragment which declares that aion, which Fink renders as Weltlauf, 'course of the world', is 'like a child playing a game' (i.e. p. 51). The game, or play -- Spiel -- is the theme throughout this work, though regularly related back to the world, and the human-world relation. As he states, "Our question concerning play is led by a fundamental philosophical problem. This problem is the relation between the human being and the world" (p. 80).”
 
 “Fink's mode of operating in this work is to think about the question of play in relation to myth, ritual and philosophy. Along the way, he discusses sport, cults, theatre and theology, among other themes. He makes a clear case that play has been neglected as a philosophical topic, and seen as trivial. He insists on its fundamental nature and its parallel importance to other topics: "Play has an extraordinary status in its being an existential basic phenomenon, just as primordial as mortality, love, work, and struggle" (p. 204).”

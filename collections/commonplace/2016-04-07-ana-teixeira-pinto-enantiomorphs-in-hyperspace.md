@@ -8,6 +8,8 @@ link: http://www.e-flux.com/journal/enantiomorphs-in-hyperspace-living-and-dying
 date: 2016-04-07
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “Space is the order of the coexistence of bodies, just as time is nothing other than the order of the succession of events.”
 
 “Prior to Kant, Leibniz had argued that “space has no reality apart from material things; it is nothing more than an abstract, mathematical description of relations that hold between objects.””

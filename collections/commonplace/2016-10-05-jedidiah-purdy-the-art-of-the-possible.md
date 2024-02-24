@@ -8,6 +8,8 @@ link: https://lareviewofbooks.org/article/art-possible-peter-frases-four-futures
 date: 2016-10-05
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “HISTORY, THE SOCIAL THEORIST Roberto Unger once observed, is genuinely surprising: it does not just seem that way.”
 
 “A corollary comes from Yogi Berra: it’s hard to make predictions, especially about the future.”

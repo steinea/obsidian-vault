@@ -8,6 +8,8 @@ link: http://www.nybooks.com/articles/2016/06/23/depths-of-the-digital-age/
 date: 2016-07-25
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “Every technological revolution coincides with changes in what it means to be a human being, in the kinds of psychological borders that divide the inner life from the world outside.”
 
 “The explicit common theme of these books is the newly public world in which practically everyone’s lives are newly accessible and offered for display. The less explicit theme is a newly pervasive, permeable, and transient sense of self, in which much of the experience, feeling, and emotion that used to exist within the confines of the self, in intimate relations, and in tangible unchanging objects—what William James called the “material self”—has migrated to the phone, to the digital “cloud,” and to the shape-shifting judgments of the crowd.”

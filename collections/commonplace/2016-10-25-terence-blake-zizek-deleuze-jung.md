@@ -8,6 +8,8 @@ link: https://terenceblake.wordpress.com/2013/08/06/zizek-deleuze-jung-the-analo
 date: 2016-10-25
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “Zizek: “my thesis is that in Anti-Oedipus Deleuze/Guattari do to Lacan what Carl Gustav Jung did to Freud”. (Zizek, Notes on a Debate“From Within the People”).”
 
 “It is often a good idea with Zizek to interpret his references to his major philosophical adversaries under the sign of the anxiety of influence. Zizek procedes by violent denegation based on micro-differentiation, i.e. whenever some thought is to close to (and I would add prior to) his own thought he concentrates on one little detail that differentiates the position he defends from that of these predecessors and influences, then he proceeds to denounce them vociferously, ignoring both the affinity and the probable influence.”

@@ -8,6 +8,8 @@ link: https://lareviewofbooks.org/review/on-extinction-and-capitalism/
 date: 2016-07-13
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “we are in the midst of the sixth mass extinction in the history of the planet, in which 25 to 40 percent of all species are expected to disappear by 2050.”
 
 “Which leads to the question that Ashley Dawson’s slim and forceful book, Extinction: A Radical History, aims to answer: how can we stem the tide? By identifying capitalism as the primary culprit, and placing the current mass extinction in the context of ongoing struggles for social and environmental justice, Dawson points the way toward appropriate forms of conservation for an era of devastating loss.”

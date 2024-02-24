@@ -8,6 +8,8 @@ link: http://thenewinquiry.com/blogs/wiathi/toward-freedom/
 date: 2016-03-09
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “Wiathi is a grounding and grounded word, a world-imagining, world-building word.”
 
 “I return, as always, to the example of my grandfather, who taught in what were called independent schools, systems established to think beyond the frames the British created for the natives. Independent schools pursued freedom. When those schools were closed, Kenyan education changed forever, moving from pursuing freedom to creating state-building skills, suitable for the colonial and post-independent state.”

@@ -8,6 +8,8 @@ link: http://partiallyexaminedlife.com/2013/04/08/fink-on-the-split-subject-laca
 date: 2016-12-21
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 Fink on the Split Subject (Lacan vs. Sartre)
 
 April 8, 2013 by Mark Linsenmayer 

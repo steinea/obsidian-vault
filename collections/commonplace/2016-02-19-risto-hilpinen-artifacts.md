@@ -8,6 +8,8 @@ link: http://plato.stanford.edu/entries/artifact/
 date: 2016-02-19
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “Aristotle divided existing things into those that “exist by nature” and those existing “from other causes.” The former include “animals and their parts, … and the plants and the simple bodies (earth, fire, air, water)”, the latter include “a bed and a coat and anything of that sort, qua receiving these designations, i.e., in so far as they are products of art.””
 
 “Aristotle makes here a distinction between natural objects and artifacts (“artificial products”, ibid., 192 b 28), and describes the latter as products of the art of making things.”

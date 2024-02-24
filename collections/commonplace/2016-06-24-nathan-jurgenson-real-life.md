@@ -8,6 +8,8 @@ link: https://reallifemag.com/dispatches/editors-letter/
 date: 2016-06-24
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “Videodrome is the best film ever made about the internet. When I first watched David Cronenberg’s 1983 masterpiece, I was studying the sociology of knowledge and beginning to apply these theories to the web, which researchers and everyday commentators seemed to treat as weirdly foreign.”
 
 “I felt that we needed a fundamental shift in understanding when it came to what new, social technologies are: something implosive, interpenetrative, bloody and breathing, not something virtual, separate, or parallel, far away and cold as outer space.”

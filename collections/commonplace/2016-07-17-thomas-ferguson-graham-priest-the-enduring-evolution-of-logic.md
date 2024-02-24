@@ -8,6 +8,8 @@ link: http://dailynous.com/2016/07/11/enduring-evolution-logic-ferguson-priest/
 date: 2016-07-17
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “In very general terms, it is the study of what (conclusions) follows from what (premises)—logical consequence”
 
 “In the development of Western logic, there have been three very significant phases interspersed with two periods of stasis—and even forgetfulness. (Logic in Eastern philosophy has its own story to tell.) The first was in Ancient Greece, where logic was developed quite differently by Aristotle and the Stoics. The second phase was at the hands of the great Medieval logicians, such as Jean Buridan and William of Ockham. They took up their Ancient heritage, but developed it in many new ways, with theories of suppositio (truth conditions), insolubilia (paradoxes), consequentia (logical consequence), and other things. The rise of Humanism in Europe had a profound effect. Scholasticism was swept away, and with it went all the great Medieval advances in logic. Indeed, it was only in the second half of the 20th Century that we have come to discover the many things that were lost. All that remained in the 18th Century was a somewhat stylized form of Aristotelian logic. That is what Kant knew, and that is why he believed that there had been no advances since Aristotle.”

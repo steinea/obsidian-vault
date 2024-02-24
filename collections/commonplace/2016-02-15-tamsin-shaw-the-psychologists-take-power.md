@@ -8,6 +8,8 @@ link: http://www.nybooks.com/articles/2016/02/25/the-psychologists-take-power/
 date: 2016-02-15
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “The psychological school of behaviorism sought to replace the idea of human beings as autonomous agents with the “scientific” view of them as biological organisms, responding to external stimuli, whose behavior could be modified by altering their environment.”
 
 “Neuroscience, it is claimed, has revealed that our brains operate with a dual system for moral decision-making. In 2001, Joshua Greene, a philosophy graduate student, teamed up with the neuroscientist Jonathan Cohen to analyze fMRIs of people’s brains as they responded to hypothetical moral dilemmas. They inferred from looking at neural activity in different regions that moral judgment involved two distinct psychological processes. One of the processes, a fast and intuitive one, took place by and large in areas of the brain associated with emotional processing, such as the medial prefrontal cortex and the amygdala. The other process, which was slow and rational, took place by and large in regions associated with cognitive processing, such as the dorsolateral prefrontal cortex and the parietal lobe.”

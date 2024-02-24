@@ -8,6 +8,8 @@ link: http://thenewinquiry.com/essays/city-hunger/
 date: 2016-02-02
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “ARCHITECTURE has a limited vocabulary for hunger.”
 
 “Desire is a way of “negotiating the real,” as historian K. Michael Hays has written, and as the concretion of the real itself, architecture is less about built objects than lived experience.”

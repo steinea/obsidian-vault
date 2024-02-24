@@ -8,4 +8,6 @@ link: https://aeon.co/opinions/why-science-needs-to-break-the-spell-of-reductive
 date: 2016-05-22
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “History enters when the space of what is possible is vastly larger than what can actually happen.”

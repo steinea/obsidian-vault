@@ -8,6 +8,8 @@ link: http://www.theatlantic.com/entertainment/archive/2016/06/labyrinth-capture
 date: 2016-07-13
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “For all its flaws and superficial delights, Labyrinth reacquainted audiences with an old idea that Hollywood had long neglected: Childhood is a scary and dangerous place, an inherently strange time filled with dead-ends, wrong turns, lies, and traps. In other words: It’s not the Muppets.”
 
 “To access art is to access darkness, and to dwell in childhood is to dwell in a place of death, the potential deepest darkness.”

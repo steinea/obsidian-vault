@@ -8,6 +8,8 @@ link: https://www.jacobinmag.com/2016/04/thomas-more-utopia-socialism-progress-w
 date: 2016-05-08
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “Utopia turns five hundred this year. Thomas More — lawyer, author, theorist, radical, martyr, saint — gave us the word with his 1516 book Utopia.”
 
 “In many ways More merely described the contours of an imagined land that had always existed, from the coasts of Plato’s Republic to the hills of medieval Cockaigne. Yet in painting a picture of that aspirational place, More bequeathed to radicals one of our most potent concepts.”

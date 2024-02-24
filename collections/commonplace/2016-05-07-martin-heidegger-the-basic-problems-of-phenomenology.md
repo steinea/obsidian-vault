@@ -8,6 +8,8 @@ link: https://www.marxists.org/reference/subject/philosophy/works/ge/heidegge.ht
 date: 2016-05-07
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “Phenomenology must develop its concept out of what it takes as its theme and how it investigates its object.”
 
 

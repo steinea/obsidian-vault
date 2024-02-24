@@ -8,6 +8,8 @@ link: http://www.theatlantic.com/science/archive/2016/03/how-we-repurposed-virus
 date: 2016-03-03
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “Hundreds of millions of years ago, prehistoric viruses inserted their genes into the genomes of our ancestors. They found their way into eggs or sperm, and then into embryos. As they passed down from one generation to the next, they picked up mutations that disabled their ability to infect new cells. Eventually, they became permanent fixtures of our genomes, as much a part of our DNA as our own genes.”
 
 “Today, these ‘endogenous retroviruses’ or ERVs make up 8 percent of our genome. They are genetic fossils—remnants of our viral ancestors, and records of epidemics past.”

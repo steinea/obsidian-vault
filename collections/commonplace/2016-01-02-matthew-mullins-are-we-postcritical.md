@@ -8,6 +8,8 @@ link: https://lareviewofbooks.org/review/are-we-postcritical/
 date: 2016-01-02
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “Whether she takes a formalist or a queer approach, the critic’s job is to interrogate the text, diagnose its complicity with social forces, rebel against this complicity, and extol the virtues of texts that do this work for us. The authority of critique depends, in part, on its dispassionate tone, its ability to provide the critic with enough distance to identify and interrogate what seems like common sense. If she does not engage in critique, then the critic is thought to be naive, uninterested in politics, or, far worse, a humanist!”
 
 “Felski’s argument does not do away with critical thinking. Instead, by examining what critique can and cannot do, she rethinks politics altogether and reimagines the contribution literary critics might make to the university and the culture at large.”

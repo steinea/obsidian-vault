@@ -8,6 +8,8 @@ link: https://lareviewofbooks.org/article/between-the-living-and-the-dead-an-int
 date: 2016-12-25
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “ALICE NOTLEY has been hailed as one of the United States’s greatest living poets. She is the author of more than 25 books of poetry and the recipient of numerous awards, including, most recently, the Ruth Lilly Poetry Prize. Certain Magical Acts is her latest book.”
 
 “Notley’s work, which consistently pushes up against the limitations of language, seems to issue from an alternate reality. Among her most notable works is The Descent of Alette, an epic poem about the narrator’s katabasis into the subterranean bowels of the subway.”

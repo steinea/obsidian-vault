@@ -8,6 +8,8 @@ link: https://asynsis.wordpress.com/2011/05/26/dynamical-symmetries-asynsis/
 date: 2016-02-02
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 ““The designs we see in nature are not chance. They rise naturally, spontaneously,
 because they enhance access to flow…”
 

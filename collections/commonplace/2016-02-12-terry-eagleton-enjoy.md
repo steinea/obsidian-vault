@@ -8,6 +8,8 @@ link: http://www.lrb.co.uk/v19/n23/terry-eagleton/enjoy
 date: 2016-02-12
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “Schopenhauer saw us all as permanently pregnant with monsters, bearing at the very core of our being something implacably alien to it.”
 
 “He called this the Will, which was the stuff out of which we were made and yet was utterly indifferent to us, lending us an illusion of purpose but itself aimless and senseless.”

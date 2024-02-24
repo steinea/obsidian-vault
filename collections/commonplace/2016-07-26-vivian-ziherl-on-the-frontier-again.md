@@ -8,6 +8,8 @@ link: http://www.e-flux.com/journal/on-the-frontier-again/
 date: 2016-07-26
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “Like the stick pulled through sand to create a line, the frontier marks the point at which the soaring ideals of modernity touch ground.”
 
 “In this morphology of contact, the frontier concerns how the “outside” is produced, exploited, and policed.”

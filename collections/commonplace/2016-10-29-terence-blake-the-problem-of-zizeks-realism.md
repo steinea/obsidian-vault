@@ -8,6 +8,8 @@ link: https://terenceblake.wordpress.com/2016/10/29/reading-disparities-9-the-pr
 date: 2016-10-29
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 Reading DISPARITIES (9)
 
 “I was looking for some way to speak of this dead paradigm of OOO when I came across Zizek’s critique. It provided me with the appropriate occasion.”

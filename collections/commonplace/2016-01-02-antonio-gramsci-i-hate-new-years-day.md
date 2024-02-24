@@ -8,6 +8,8 @@ link: https://www.jacobinmag.com/2016/01/antonio-gramsci-new-years-day/
 date: 2016-01-02
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “these New Year’s that fall like fixed maturities, which turn life and human spirit into a commercial concern with its neat final balance, its outstanding amounts, its budget for the new management.”
 
 “They make us lose the continuity of life and spirit. You end up seriously thinking that between one year and the next there is a break, that a new history is beginning; you make resolutions, and you regret your irresolution, and so on, and so forth. This is generally what’s wrong with dates.”

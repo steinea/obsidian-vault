@@ -8,6 +8,8 @@ link: https://aeon.co/ideas/the-divine-fire-of-philip-k-dick-s-religious-visions
 date: 2016-08-17
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “Although the earliest psychoanalysts saw religion as neurotic, the modern mental health field has stopped pathologising religious beliefs.”
 
 “However, the field has made less progress when it comes to actual religious experiences.”

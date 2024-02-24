@@ -8,6 +8,8 @@ link: http://tripleampersand.org/brief-notes-ideological-complicity/
 date: 2016-09-17
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “Ideology is a cynical self defence against the subject’s inability to reconcile themselves with their social existence, the selection between ideal adaptations to the world.*”
 
 “It is neither a surface effect or ‘false consciousness’ of an exterior force with which the subject [subjectum] contends, nor a material substrate of subjection.”

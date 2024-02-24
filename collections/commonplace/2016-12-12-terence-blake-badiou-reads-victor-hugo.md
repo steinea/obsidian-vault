@@ -8,6 +8,8 @@ link: https://terenceblake.wordpress.com/2016/12/22/badiou-reads-victor-hugo-1-t
 date: 2016-12-22
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 Badiou’s strategy involves beginning with a critique of the dominant ideology of modern society, which is no longer based on a finitude of stability and repetition but on a new form of finitude, one of movement and innovation. The critique of the dogma of human finitude will lead him to elaborate a new theory of the infinite.
 
 In his seminar Badiou proposes a philosophical critique of the ideology of finitude, but he also spends a lot of time discussing examples of the “poetic critique of finitude”. We have seen him mobilise René Char’s vision of the exhausted life and of its hebetude, and Arthur Rimbaud’s description of the “not too discontented” life. Both are figures of the dissolution of intensities under the regime of circulation.

@@ -8,6 +8,8 @@ link: https://aeon.co/ideas/deep-time-s-uncanny-future-is-full-of-ghostly-human-
 date: 2016-10-31
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “We are accustomed to the idea of geology and astronomy speaking the secrets of ‘deep time’, the immense arc of non-human history that shaped the world as we perceive it.”
 
 “The concept of ‘deep time’ was first described in 1788 by the Scottish geologist James Hutton, although only coined as a term 200 years later, by the American author John McPhee. Hutton posited that geological features were shaped by cycles of sedimentation and erosion, a process of lifting up then grinding down rocks that required timescales much grander than those of prevailing Biblical narratives. This dizzying Copernican shift threw both God and man into question. ‘The mind seemed to grow giddy by looking so far back into the abyss of time,’ was how John Playfair, a scientist who accompanied Hutton on several crucial expeditions, described the effect of looking over the stratified promontory of Siccar Point in Scotland.”

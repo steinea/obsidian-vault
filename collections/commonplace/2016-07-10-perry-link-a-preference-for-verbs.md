@@ -8,6 +8,8 @@ link: https://www.nybooks.com/online/2016/06/30/the-mind-less-puzzling-in-chines
 date: 2016-07-10
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “People who study other cultures sometimes note that they benefit twice: first by learning about the other culture and second by realizing that certain assumptions of their own are arbitrary.”
 
 “In reading Colin McGinn’s fine recent piece, “Groping Toward the Mind,” in The New York Review, I was reminded of a question I had pondered in my 2013 book Anatomy of Chinese: whether some of the struggles in Western philosophy over the concept of mind—especially over what kind of “thing” it is—might be rooted in Western language. The puzzles are less puzzling in Chinese.”

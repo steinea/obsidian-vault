@@ -8,6 +8,8 @@ link: https://aeon.co/essays/how-consciousness-works-and-why-we-believe-in-ghost
 date: 2016-07-12
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “The effect is automatic: being social animals, we project awareness onto the puppet. Indeed, part of the fun of ventriloquism is experiencing the illusion while knowing, on an intellectual level, that it isn’t real.”
 
 “Many thinkers have approached consciousness from a first-person vantage point, the kind of philosophical perspective according to which other people’s minds seem essentially unknowable.”

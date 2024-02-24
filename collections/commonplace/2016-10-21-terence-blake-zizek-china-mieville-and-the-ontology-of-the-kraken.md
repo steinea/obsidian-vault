@@ -8,6 +8,8 @@ link: https://terenceblake.wordpress.com/2016/10/21/reading-disparities-1-zizek-
 date: 2016-10-21
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 Reading DISPARITIES (1)
 
 “In Zizek’s mind “Jung” is the symbol of all that is homogeneous, harmonious and holistic, whereas Deleuze in fact uses Jung for his disparate pluralist potential.”

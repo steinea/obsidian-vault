@@ -8,6 +8,8 @@ link: https://lareviewofbooks.org/article/question-concerning-heidegger/
 date: 2016-07-14
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “The truth in this charge is that Derrida did, in fact, question the ideal of a final account, an ultimate system — not by bombing, but by tickling and teasing.”
 
 

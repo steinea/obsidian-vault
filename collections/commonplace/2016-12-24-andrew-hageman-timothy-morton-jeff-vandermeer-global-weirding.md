@@ -8,6 +8,8 @@ link: https://lareviewofbooks.org/article/a-conversation-between-timothy-morton-
 date: 2016-12-24
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “THE SEEDS OF THIS CONVERSATION were planted when I saw an online announcement for Timothy Morton’s new book, Dark Ecology. Immediately I felt the cover design resonated with the amazing covers of Jeff VanderMeer’s Southern Reach trilogy. When I mentioned this to Tim at an academic conference, he said it was a sort of lovely and weird coincidence because he and Jeff had recently started communicating with each other — appreciating each other’s work, ideas, and aesthetics.”
 
 “Soon after, Gerry Canavan and I started collaborating on “Global Weirding,” a special issue of the academic journal Paradoxa, and we agreed that Jeff and Tim would make an engaging and provocative pair to feature in conversation with each other.”

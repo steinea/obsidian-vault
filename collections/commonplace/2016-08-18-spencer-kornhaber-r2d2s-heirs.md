@@ -8,4 +8,6 @@ link: http://www.theatlantic.com/entertainment/archive/2016/08/star-wars-a-new-d
 date: 2016-08-18
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “K-2SO may not compete with R2-D2 to become the iconic fan-favorite droids of the series, but he will show that the porous boundary between good and evil is one that concerns machines as well as man.”

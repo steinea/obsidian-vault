@@ -8,6 +8,8 @@ link: http://www.nybooks.com/daily/2016/12/08/color-of-consciousness/
 date: 2016-12-08
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “In the first of our dialogues about the mind, Riccardo Manzotti and I established that by “consciousness” we mean the feeling that accompanies our being alive, the fact that we experience the world rather than simply interacting with it mechanically.”
 
 “We also touched on the problem that traditional science cannot explain this fact and does not include it in its account of reality.”

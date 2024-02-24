@@ -8,6 +8,8 @@ link: https://lareviewofbooks.org/essay/why-conservatives-hate-fiscal-policy/
 date: 2016-03-03
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “Obstinate ignorance is usually a manifestation of underlying political motives.
 
 — Michal Kalecki”

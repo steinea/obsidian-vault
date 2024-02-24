@@ -8,6 +8,8 @@ link: http://tripleampersand.org/flusser-on-fiction/
 date: 2016-05-12
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “Originally published as DA FICÇÃO in Jornal O Diário de Ribeirão Preto, São Paulo, on 26 August 1966.”
 
 “Consider Newton’s famous sentence: “hypothese non fingo” (my hypotheses are not feigned).”

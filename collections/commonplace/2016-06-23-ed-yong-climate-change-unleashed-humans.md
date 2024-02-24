@@ -8,6 +8,8 @@ link: https://www.theatlantic.com/science/archive/2016/06/how-climate-change-unl
 date: 2016-06-23
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “Why did warming climates doom the megafauna? It’s not clear, but Cooper has some guesses. The rising temperatures brought summer droughts, variable rainfall, and other weather anomalies. They also fueled the rapid growth of forests, which broke up the open habitats that these large animals were used to.
 
 And within that changing landscape, there were people, armed with bows and spears. They may have grown faster, or roamed over greater distances. Their populations could have boomed. They might have found it easier to kill the megafauna, which had been herded into ever narrower ranges. And in a newly fragmented world, there was no way for distant populations of hunted beasts to replace those that had been hunted out.”

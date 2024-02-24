@@ -8,6 +8,8 @@ link: https://lareviewofbooks.org/review/myths-as-mitochondria/
 date: 2016-03-08
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “ARCHANGEL — the debut science fiction novel by Marguerite Reed — powerfully invokes the wonder of myth: Reed draws on fairy tales, legends, holy works, and prayer to create the speech and personality of her protagonist.”
 
 “It’s often difficult for a sci-fi novel to create a myth that resonates with readers, for an alien world’s truths to echo our own.”

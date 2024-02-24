@@ -8,6 +8,8 @@ link: https://lareviewofbooks.org/interview/low-art-denise-mina/
 date: 2016-03-21
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “Crime is a social system, not an aberrant individual, but in character-led novels it always comes down to two individuals.”
 
 “Narrative is political because available narrative shapes the way we see the world. If there are no stories about you, you can’t even imagine yourself. When I was young all gay characters were victims and all trans characters were murderers.”

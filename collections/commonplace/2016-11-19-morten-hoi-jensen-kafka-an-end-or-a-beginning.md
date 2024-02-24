@@ -8,6 +8,8 @@ link: https://lareviewofbooks.org/article/kafka-end-beginning/
 date: 2016-11-19
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “HOW STRANGE to return to Kafka. It takes just a few pages for all our preconceptions about literature to become unmoored. The old tools — character, plot, style — are useless to us; those solemn tomes of theory might as well be returned to their exile on the lower shelves; the recourse to undergraduate Freudianism had better be checked. None of it will guide us here. Erich Heller once wrote of the “pathetic plight of critics in the face of Kafka’s novels.” How one sympathizes! Kafka’s entire oeuvre is an assault on interpretation, on meaning; it is the most formidable rebuttal in the history of literature to the undying but misguided question: “What does this text mean?””
 
 “And yet, ironically, few authors are so burdened with the cargo of meaning as Kafka.”

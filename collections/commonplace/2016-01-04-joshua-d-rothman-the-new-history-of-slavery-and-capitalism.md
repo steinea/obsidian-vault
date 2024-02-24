@@ -8,6 +8,8 @@ link: https://aeon.co/opinions/how-capitalist-was-american-slavery
 date: 2016-01-04
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “human bondage gave rise to a modern Western superpower”
 
 “an emphasis on the darker side of capitalism’s history comports well with the world today. It is a world where, following the financial meltdown of 2008, the fragility of the economic system is apparent. It is a world in which almost anything can be commoditised and securitised for the benefit of a small minority, while those at the bottom struggle to scrape by. In this world, a past in which the most vulnerable literally belonged to forces of capital that manipulated their labour and their lives for profit makes perfect sense.”

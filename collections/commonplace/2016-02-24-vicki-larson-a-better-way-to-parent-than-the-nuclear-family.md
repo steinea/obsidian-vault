@@ -8,6 +8,8 @@ link: https://aeon.co/opinions/there-is-a-better-way-to-parent-than-the-nuclear-
 date: 2016-02-24
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “Is the nuclear family all it’s cracked up to be?”
 
 “Despite the belief that monogamous male-female bonding is how mothers and children were supported and thrived, the anthropologist Sarah Blaffer Hrdy and others believe it was actually female cooperative breeding, or alloparenting – ‘sharing and caring derived from the pooled energy’ of a network of ‘grandparents, aunts, uncles, siblings, distantly related kin, and non-kin’ – that shaped our evolution.”

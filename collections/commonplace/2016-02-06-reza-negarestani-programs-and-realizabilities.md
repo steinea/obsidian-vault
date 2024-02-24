@@ -8,6 +8,8 @@ link: http://www.e-flux.com/journal/what-is-philosophy-part-two-programs-and-rea
 date: 2016-02-06
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “§4. Viewed from an Archimedean point in the future of thought’s unfolding, philosophy is seen as what has instructed thinking to become a systematic program, only as a way of organizing it into a project for the emancipation of intelligence.”
 
 

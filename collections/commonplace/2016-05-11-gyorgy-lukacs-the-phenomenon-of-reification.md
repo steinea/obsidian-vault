@@ -8,6 +8,8 @@ link: https://plato.stanford.edu/entries/lukacs/
 date: 2016-05-11
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 3.1 Reification Theory
 
 

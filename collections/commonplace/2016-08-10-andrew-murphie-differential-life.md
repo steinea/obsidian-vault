@@ -8,6 +8,8 @@ link: http://www.culturemachine.net/index.php/%20cm/article/viewArticle/32/39
 date: 2016-08-10
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “The living being is above all a thoroughfare, and . . . the essence of life is in the movement by which life is transmitted. (Bergson, 1911: 128)”
 
 “Life (anima -- on the side of the mental image) is always already cinema (animation -- image-object). (Stiegler, in Derrida & Stiegler, 2002: 162)”

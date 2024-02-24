@@ -8,6 +8,8 @@ link: https://ndpr.nd.edu/news/66506-hegels-theory-of-intelligibility/
 date: 2016-07-23
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “For Pippin, most, if not all, of the connotations of Hegel's key concept that might worry the modernist -- the concept of "spirit" (Geist) -- can be sidelined by correctly placing it in relation to Kant's notion of the "transcendental unity of apperception". "Spirit" is not the name of some spooky non-natural substance. Rather, at its heart is the type of normative requirement that any finite rational individual integrate their beliefs into a consistent whole. This is the demand for unification expressed in the moral context in Kant by the idea of acting on the Categorical Imperative.”
 
 “Rocío Zambrana's book helps us to start seeing beyond all these divisions. On a first reading, she comes out as a qualified but clear supporter of Pippin's post-Kantian reading. Like Pippin, Zambrana criticizes approaches that treat Hegel's logic as expressive of an ontology -- in this work, a position effectively represented by Stephen Houlgate -- and describes Pippin as showing that "Hegel's philosophy seems to inherit the 'apperception theme' in Kant.”

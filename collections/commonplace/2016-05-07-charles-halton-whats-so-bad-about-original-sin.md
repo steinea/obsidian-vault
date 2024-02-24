@@ -8,6 +8,8 @@ link: https://lareviewofbooks.org/review/whats-so-bad-about-original-sin/
 date: 2016-05-07
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “CONSIDER THIS: for almost 2,000 years and counting the entirety of Western culture has been brainwashed. The fields of biology, economics, religion, and psychology are built on a lie. Even those who self-consciously reject this falsehood are subconsciously shaped by it. It’s unavoidable and all pervasive. It’s made us who we are. Indeed, it’s turning us into monsters. What is this lie exactly? It’s the assumption that humans are born bad.”
 
 “This grand deception began with an honest mistake, James Boyce tells us. The fourth-century theologian Augustine of Hippo propagated a mistranslation of the Apostle Paul. Frustratingly, Boyce never directly cites this passage (“Wherefore, as by one man sin entered into the world, and death by sin; and so death passed upon all men, for that all have sinned” — Romans 5:12), even though he places a lot of weight on the phrase. Unpacking this theological mishap involves some angels-dancing-on-the-head-of-pins-type minutiae, so feel free to skip the remainder of this paragraph. Boyce summarizes the issue concisely: “The original Greek text had Paul saying that, after Adam, death spread to all because all have sinned. The Latin Vulgate version was that death spread to all through Adam, in whom all sinned.””

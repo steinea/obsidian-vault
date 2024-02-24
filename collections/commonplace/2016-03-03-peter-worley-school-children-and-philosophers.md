@@ -8,6 +8,8 @@ link: https://aeon.co/opinions/to-see-philosophy-in-action-visit-a-primary-schoo
 date: 2016-03-03
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “‘Everything’s a time machine,’ someone else announces later. And when asked to say more about this, adds: ‘Because everything is moving into the future one second at a time.’ I have seen two students respond to this point in the same way on two separate occasions: ‘I’m travelling through time one second at a time, but if I stand up…’ [student stands up] ‘…I’m still travelling through time, so the chair isn’t a time machine; it’s not making me travel through time.’ Elegant.”
 
 “There are many examples of dialogue in the history of ideas. Consider the obvious examples first: Socrates’s discourses in the agora, Plato’s, Hume’s and Berkeley’s dialogues; the dialogues between philosophers by correspondence: Leibniz and Newton, Descartes and Hobbes; there are the dialogues between books such as those between Descartes’s work (Discourse, Meditations) and Spinoza’s (Emendation or Ethics), or Rawls’s A Theory of Justice and Nozick’s Anarchy, State and Utopia; there’s the intellectual discourse of ideas, very much in the Hegelian dialectical model, such as that between Thales (thesis: water), Heraclitus (antithesis: fire) and Empedocles (synthesis: water and fire); and again between Empedocles (thesis: earth, air, water and fire), Parmenides (antithesis: the one, not the many) and Democritus (synthesis: atoms, or the one and the many) and so on; there is also the often-overlooked dialogue-in-one-voice such as Descartes’s Meditations, or much of Wittgenstein’s writing (Wittgenstein is said to have stated that this is the only way to do philosophy; the moment others are involved it’s no longer philosophy but rhetoric).”

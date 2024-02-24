@@ -8,6 +8,8 @@ link: http://www.theatlantic.com/entertainment/archive/2016/04/superman-batman-a
 date: 2016-04-03
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “These superheroes are approaching a point of such rigid physical perfection that Hollywood is hovering dangerously close to the uncanny valley, a place of eerie, manufactured humanity.”
 
 “As this ideal becomes duplicated ad nauseam, it might end up disconnecting with viewers—because this echo chamber of muscle men neglects what’s actually compelling about superheroes: the place where “super” and “human” intersect.”

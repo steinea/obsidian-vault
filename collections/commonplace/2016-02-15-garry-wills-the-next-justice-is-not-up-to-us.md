@@ -8,6 +8,8 @@ link: http://www.nybooks.com/daily/2016/02/15/next-supreme-court-justice-not-up-
 date: 2016-02-15
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “Senator Ted Cruz, the presidential candidate, Senate Judiciary Committee member, and self-styled guardian of the Constitution, wrote on Twitter, “We owe it to him, [Scalia] & the Nation, for the Senate to ensure that the next President names his replacement.” That is, we owe it to the archetypal originalist, where the Constitution is concerned, to ignore and defy the original Constitution.”
 
 “One thing the framers of the Constitution set out to prevent was a popular say in who should be a Supreme Court justice. The aim of the document was to ensure there would be an independent judiciary—independent of Congress (by ensuring justices’ salaries), independent of changing administrations (by granting them life tenure), and not subject to popular election.”

@@ -8,6 +8,8 @@ link: https://terenceblake.wordpress.com/2016/09/17/blogos-synopticon-six-years-
 date: 2016-10-25
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “My constant theme has been epistemological and ontological pluralism.”
 
 “In fact, pluralism has been my concern for over 44 years, it was behind my coming to live in France 36 years ago.”

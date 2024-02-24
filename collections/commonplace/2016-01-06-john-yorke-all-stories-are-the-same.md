@@ -8,6 +8,8 @@ link: http://www.theatlantic.com/entertainment/archive/2016/01/into-the-woods-ex
 date: 2016-01-06
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “Though they are superficially different, they all share the same framework and the same story engine: All plunge their characters into a strange new world; all involve a quest to find a way out of it; and in whatever form they choose to take, in every story “monsters” are vanquished. All, at some level, too, have as their goal safety, security, completion, and the importance of home.”
 
 “Why would a child unconsciously echo a story form that harks back centuries? Why, when writing so spontaneously, would he display knowledge of story structure that echoes so clearly generations of tales that have gone before? Why do we all continue to draw our stories from the very same well? It could be because each successive generation copies from the last, thus allowing a series of conventions to become established. But while that may help explain the ubiquity of the pattern, its sturdy resistance to iconoclasm and the freshness and joy with which it continues to reinvent itself suggest something else is going on.”

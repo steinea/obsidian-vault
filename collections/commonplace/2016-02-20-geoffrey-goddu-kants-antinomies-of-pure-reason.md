@@ -8,6 +8,8 @@ link: https://philosophy.richmond.edu/faculty/ggoddu/
 date: 2016-02-20
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 Philosophy 272: Handout K1
 
 1st Antinomy: Thesis: The world is limited with regard to (a) time and (b) space.

@@ -8,6 +8,8 @@ link: http://www.theatlantic.com/international/archive/2016/05/military-jargon-i
 date: 2016-05-07
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “The soldiers’ vernacular must provide words for things that civilians don’t need to describe, like grades of officers and kinds of weapons. But it has deeper purposes too.”
 
 “What does this say about Israel’s military? Perhaps something about the agricultural preoccupations of the kibbutz and of the socialist militias that spawned the army in the early years of the state.”

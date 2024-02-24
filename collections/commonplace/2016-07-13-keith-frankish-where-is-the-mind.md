@@ -8,6 +8,8 @@ link: https://aeon.co/ideas/the-mind-isn-t-locked-in-the-brain-but-extends-far-b
 date: 2016-07-13
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 The mind isn’t locked in the brain but extends far beyond it – Keith Frankish
 
 “Where is your mind? Where does your thinking occur? Where are your beliefs? René Descartes thought that the mind was an immaterial soul, housed in the pineal gland near the centre of the brain.”

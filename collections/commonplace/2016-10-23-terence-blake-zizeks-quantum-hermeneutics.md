@@ -8,6 +8,8 @@ link: https://terenceblake.wordpress.com/2016/10/23/reading-disparities-3-zizeks
 date: 2016-10-23
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 Reading DISPARITIES (3)
 
 “It is a disappointing feature of much of the discussion in Continental Philosophy that it is dominated by the vocal supporters of one or another master thinker.”

@@ -8,6 +8,8 @@ link: https://lareviewofbooks.org/article/make-wrong-choice-rereading-conrads-vi
 date: 2016-08-10
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “I hadn’t traveled to Kenya to flee a shameful past, and yet, the mysterious mechanisms of connectivity that run the world arrived, as they always do in Conrad, to make sure that I remained part of the world I thought I had left behind”
 
 “No matter how remote Conrad’s characters attempt to go, circumstance always closes in on them. Conrad’s view is uniformly pessimistic: circumstance strikes down the smart and the dumb, the humble and the proud alike.”

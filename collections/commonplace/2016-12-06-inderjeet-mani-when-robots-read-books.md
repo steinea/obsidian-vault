@@ -8,6 +8,8 @@ link: https://aeon.co/essays/how-ai-is-revolutionising-the-role-of-the-literary-
 date: 2016-12-06
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “Such ‘computational folkloristics’ raise a big question: what can algorithms tell us about the stories we love to read?”
 
 “Can literature really be sliced up into computable bits of ‘information’, or is there something about the experience of reading that is irreducible?”

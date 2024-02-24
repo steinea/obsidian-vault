@@ -8,6 +8,8 @@ link: https://aeon.co/opinions/how-beards-put-a-brave-face-on-threatened-masculi
 date: 2016-03-10
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “Disconnection from nature and the increasing irrelevance of physical strength, along with the gradual rise of women in public life, threatened to destabilise common understandings of manliness at the very moment when manhood had achieved new political status.”
 
 “Facial hair served as a tangible symbol of gender difference that was in danger of becoming intangible. It is fair to say that a beard made the man.”

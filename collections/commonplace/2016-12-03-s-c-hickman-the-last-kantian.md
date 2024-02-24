@@ -8,6 +8,8 @@ link: https://socialecologies.wordpress.com/2016/12/03/ernst-cassirer-the-last-k
 date: 2016-12-03
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “Cassirer occupies a unique place in twentieth-century philosophy. His work pays equal attention to foundational and epistemological issues in the philosophy of mathematics and natural science and to aesthetics, the philosophy of history, and other issues in the “cultural sciences” broadly conceived.”
 
 “More than any other German philosopher since Kant, Cassirer thus aims to devote equal philosophical attention both to the (mathematical and) natural sciences (Naturwissenschaften) and to the more humanistic disciplines (Geisteswissenschaften).”

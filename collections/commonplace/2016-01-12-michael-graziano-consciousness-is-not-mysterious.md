@@ -8,6 +8,8 @@ link: http://www.theatlantic.com/science/archive/2016/01/consciousness-color-bra
 date: 2016-01-12
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “When Isaac Newton was 17 years old, he performed a series of experiments with prisms and light beams. Within weeks he discovered the scientific explanation for color, invented the reflecting telescope, proposed the particle theory of light, and deduced that the human eye contained three receptor types corresponding to the three primary colors. Not bad for a teen.”
 
 “Newton’s insights were not easily accepted. At the time, the prevailing theory of color was metaphysical. White light was thought to be pure, heavenly, and scrubbed of all contaminants, whereas colored light was contaminated by the worldly surfaces it touched. To scholars, the exact process by which white light became dirtied was a philosophical hard problem worthy of debate.”

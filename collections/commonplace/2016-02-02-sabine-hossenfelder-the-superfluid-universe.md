@@ -8,6 +8,8 @@ link: https://aeon.co/essays/is-dark-matter-subatomic-particles-a-superfluid-or-
 date: 2016-02-02
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “Most of the matter in the Universe is invisible, composed of some substance that leaves no mark as it breezes through us – and through all of the detectors the scientists have created to catch them. But this dark matter might not consist of unseen particle clouds, as most theorists have assumed. Instead, it might be something even stranger: a superfluid that condensed to puddles billions of years ago, seeding the galaxies we observe today.”
 
 “Superfluid dark matter has important conceptual implications as well. It suggests that the common picture of the Universe as a mass of individual particles bound together by forces – almost like a tinker toy model – misses much of the richness of nature.”

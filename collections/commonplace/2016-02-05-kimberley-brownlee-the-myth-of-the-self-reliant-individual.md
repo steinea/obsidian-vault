@@ -8,6 +8,8 @@ link: https://aeon.co/opinions/what-lies-behind-the-myth-of-the-strong-self-reli
 date: 2016-02-05
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 The self-reliant individual is a myth that needs updating — Kimberley Brownlee 
 
 “The great loners embody an idea of freedom from the vagaries and stresses of social life. As human beings, we are vulnerable to each other’s moods, proclivities, ideologies, perceptions, knowledge and ignorance. We are vulnerable to our society’s conventions, policies and hierarchies. We need other people’s blessing and often their help in order to get resources. When we’re young and when we’re old, we are vulnerable enough that our lives are happy only if other people choose to care about us.”

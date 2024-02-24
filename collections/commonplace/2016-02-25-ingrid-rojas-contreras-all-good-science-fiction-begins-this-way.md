@@ -8,6 +8,8 @@ link: https://lareviewofbooks.org/essay/all-good-science-fiction-begins-this-way
 date: 2016-02-25
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “We don’t want to conquer space at all. 
 We want to expand earth endlessly. 
 We don’t want other worlds; we want a mirror.

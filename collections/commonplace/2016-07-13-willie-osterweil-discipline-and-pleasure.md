@@ -8,6 +8,8 @@ link: http://thenewinquiry.com/essays/discipline-and-pleasure/
 date: 2016-07-13
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “DEPRESSION and addiction are hard to distinguish when they happen simultaneously; they seem to overlap and reinforce each other, becoming an endless cycle.”
 
 

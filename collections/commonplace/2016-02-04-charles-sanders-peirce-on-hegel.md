@@ -8,6 +8,8 @@ link: https://www.marxists.org/reference/subject/philosophy/works/us/peirce3.htm
 date: 2016-02-04
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “The critical logicians have been much affiliated to the theological seminaries.”
 
 “So shut up are they in this conception of the world that when the seminarist Hegel discovered that the universe is everywhere permeated with continuous growth (for that, and nothing else, is the “Secret of Hegel”) it was supposed to be an entirely new idea, a century and a half after the differential calculus had been in working order.”

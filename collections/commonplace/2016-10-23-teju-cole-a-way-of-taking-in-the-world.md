@@ -8,6 +8,8 @@ link: https://lareviewofbooks.org/article/a-way-of-taking-in-the-world/
 date: 2016-10-23
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “Cole brings us his discoveries and celebrations of the often lesser-known artists he has come upon in his wanderings. An outsider and a flâneur, he is a man of many interests and several strong compulsions — and he makes his way forward by following the flights of his restless sensibility.”
 
 “One way to get at this sensibility — I don’t know that there is any best way — is by looking at the essay “Always Returning,” his anecdotal and deceptively casual recounting of that visit to Sebald’s grave. In just a few pages, we see Cole’s essayistic method and get some hint of his deeper preoccupations.

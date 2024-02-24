@@ -8,6 +8,8 @@ link: https://theintercept.com/2016/10/26/best-of-luck-with-the-wall/
 date: 2016-10-26
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “Borders begin as fictions. They are performed. They are lines drawn in the sand, spaces that bend and break and make exceptions for certain kinds of bodies.”
 
 “But borders are made real by the policies built around them. The fact that borders are performed does not make them any less real. The border is quite literally what gives the nation its shape.”

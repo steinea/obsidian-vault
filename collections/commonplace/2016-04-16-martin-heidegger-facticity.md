@@ -8,6 +8,8 @@ link: https://en.wikipedia.org/w/index.php?title=Facticity&oldid=706533128
 date: 2016-04-16
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 Facticity
 
 In philosophy, facticity (French: facticité, German: Faktizität) has a multiplicity of meanings from "factuality" and "contingency" to the intractable conditions of human existence[1]

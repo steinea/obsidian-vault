@@ -8,6 +8,8 @@ link: http://socialmediacollective.org/reading-lists/critical-algorithm-studies/
 date: 2016-01-29
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 This list is an attempt to collect and categorize a growing critical literature on algorithms as social concerns. The work included spans sociology, anthropology, science and technology studies, geography, communication, media studies, and legal studies, among others. Our interest in assembling this list was to catalog the emergence of “algorithms” as objects of interest for disciplines beyond mathematics, computer science, and software engineering.
 
 As a result, our list does not contain much writing by computer scientists, nor does it cover potentially relevant work on topics such as quantification, rationalization, automation, software more generally, or big data, although these interests are well-represented in these works’ reference sections of the essays themselves.

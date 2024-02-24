@@ -8,6 +8,8 @@ link: http://www.nybooks.com/daily/2016/06/29/trump-eliot-objective-correlatives
 date: 2016-07-13
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “T. S. Eliot popularized the notion of “an objective correlative”—what he described as “a set of objects, a situation, a chain of events” that becomes the “formula” that anchors what would otherwise just be fugitive emotions of fear, suspicion, and belief. Eliot was speaking in aesthetic terms, where the objective correlative was not meant to convey truths but to carry instantly felt emotions. This is a form of artistry that, translated into the realm of political speech, Trump has mastered. He partly disguises but enhances the force of a whole series of interlocking hates—black hate, Muslim hate, woman hate, and “Mexican” hate—by giving each an objective correlative.”
 
 “Black Hate. Trump first stumbled on the power of his objective correlatives in 2011, when he said he had sent private investigators to Hawaii to expose Obama’s birth certificate fraud. These fictitious investigators of a fictitious crime are typical of the way Trump creates a concrete image to let people fill with whatever uneasinesses they feel about a person. He does not have to say outright that Obama should not be in the White House because he is black. The objective correlative is like a Rorschach ink blot. People will see different things in it.”

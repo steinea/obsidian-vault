@@ -8,6 +8,8 @@ link: http://www.e-flux.com/journal/light-industry-toxic-waste-and-pastoral-capi
 date: 2016-07-23
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “This dislocated sense of history suits a place that is often perceived less as historical landscape and more as a synecdoche for an entire way of life.”
 
 “Whether it’s being spoken of with overwhelming contempt or feverish faith, critics and champions alike tend to talk about Silicon Valley as a condition rather than as a concrete geography. It isn’t a place that exists so much as something that happens to people and industries and other cities.”

@@ -8,6 +8,8 @@ link: http://thenewinquiry.com/blogs/marginal-utility/reacting-to-reactions/
 date: 2016-03-12
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “identity construction on social media as a form of labor, and the role the idea of “authenticity” plays in extracting that labor”
 
 “Facebook reportedly settled on these five added reactions after surveying what the most common one-word comments on newsfeed posts were, and after consulting with social scientists about how to accurately taxonomize the “range of human emotion.””

@@ -8,6 +8,8 @@ link: https://lareviewofbooks.org/review/on-algorithmic-communism/
 date: 2016-01-09
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “IN THE NEXT FEW DECADES, your job is likely to be automated out of existence. If things keep going at this pace, it will be great news for capitalism. You’ll join the floating global surplus population, used as a threat and cudgel against those “lucky” enough to still be working in one of the few increasingly low-paying roles requiring human input. Existing racial and geographical disparities in standards of living will intensify as high-skill, high-wage, low-control jobs become more rarified and centralized, while the global financial class shrinks and consolidates its power. National borders will continue to be used to control the flow of populations and place migrant workers outside of the law. The environment will continue to be the object of vicious extraction and the dumping ground for the negative externalities of capitalist modes of production.”
 
 “Nick Srnicek and Alex Williams’s Inventing the Future argues that the contemporary left must revive its historically central mission of imaginative engagement with futurity.”

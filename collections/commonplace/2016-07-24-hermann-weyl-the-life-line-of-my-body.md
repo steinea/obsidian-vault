@@ -8,4 +8,6 @@ link: https://press.princeton.edu/books/paperback/9780691141206/philosophy-of-ma
 date: 2016-07-24
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 "The objective world simply is, it does not happen. Only to the gaze of my consciousness, crawling upward along the life line of my body, does a section of this world come to life as a fleeting image in space which continuously changes in time."

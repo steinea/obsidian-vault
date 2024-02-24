@@ -8,6 +8,8 @@ link: http://thenewinquiry.com/blogs/marginal-utility/contortions-of-self-consci
 date: 2016-04-30
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “we mistake observation of an emotional state as the ability to also identify its cause — noticing my spontaneity made me spontaneous, so I should just think about being spontaneous more!”
 
 “I wonder if we sometimes hope that our social-media profiles could function in a similar way, allowing us to actively experience what happens to that profile a kind of radical passivity that passes for “naturalness.””

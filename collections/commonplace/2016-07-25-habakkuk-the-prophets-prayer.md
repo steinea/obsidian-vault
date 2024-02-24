@@ -8,6 +8,8 @@ link: https://en.wikipedia.org/wiki/Habakkuk_3
 date: 2016-07-25
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 O LORD, I have heard of your renown,  
 <br>and I stand in awe, O LORD, of your work.
 <br>In our own time revive it; 

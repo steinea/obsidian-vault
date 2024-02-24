@@ -8,6 +8,8 @@ link: https://ndpr.nd.edu/news/66488-the-structure-of-perceptual-experience/
 date: 2016-07-24
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “The philosophy of perception has many parts. Some border on epistemology, some on the philosophy of psychology, and some on enquiries into the metaphysics of consciousness.”
 
 “The volume under review is concerned with the parts relating to perception's structure.”

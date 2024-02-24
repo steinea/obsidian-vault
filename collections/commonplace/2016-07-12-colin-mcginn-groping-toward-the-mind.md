@@ -8,6 +8,8 @@ link: http://www.nybooks.com/articles/2016/06/23/groping-toward-modern-mind/
 date: 2016-07-12
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “There are three things that might be meant by “the emergence of the modern mind”:”
 
 “first, the emergence of modern ways of thinking about the universe”

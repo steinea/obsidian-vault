@@ -8,6 +8,8 @@ link: http://www.theatlantic.com/business/archive/2016/11/how-humans-became-cons
 date: 2016-11-28
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 ““Consumption is the sole end and purpose of all production,” Adam Smith confidently announced in The Wealth of Nations in 1776.”
 
 “Smith’s quote is famous, but in reality this was one of the few times he explicitly addressed the topic. Consumption is conspicuous by its absence in The Wealth of Nations, and neither Smith nor his immediate pupils treated it as a separate branch of political economy.”

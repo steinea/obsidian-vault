@@ -8,6 +8,8 @@ link: https://lareviewofbooks.org/article/soul-dual-dothead-amit-majmudar/
 date: 2016-10-12
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “THE EPIGRAPH of Amit Majmudar’s new poetry collection Dothead comes from Dr. Seuss: “It is fun to have fun / But you have to know how.””
 
 “Though Seuss’s lines may seem like an unusual touchstone for a book that explores such weighty subjects, they capture a central element of Majmudar’s writing. In Dothead and his previous collections, 0˚, 0˚ and Heaven and Earth, Majmudar reveals himself as a poet for whom nothing is more serious than play, a quality that keeps even his most politically oriented work rooted in poetry rather than polemics.”

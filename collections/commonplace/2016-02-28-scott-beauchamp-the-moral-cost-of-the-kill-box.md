@@ -8,6 +8,8 @@ link: http://www.theatlantic.com/politics/archive/2016/02/the-cost-of-the-kill-b
 date: 2016-02-28
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “In laymen’s terms, “kill boxes” sound like torture devices. In military jargon, they are almost incomprehensible; as defined in the Department of Defense Dictionary, they are “a three-dimensional area reference that enables timely, effective coordination and control and facilitates rapid attacks.””
 
 “They are three-dimensional cubes of space on a battlefield in which members and allies of the United States military are completely free to open fire.”

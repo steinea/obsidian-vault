@@ -8,6 +8,8 @@ link: https://lareviewofbooks.org/article/neoliberal-tools-archives-political-hi
 date: 2016-07-24
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “Advocates position Digital Humanities as a corrective to the “traditional” and outmoded approaches to literary study that supposedly plague English departments.”
 
 “Like much of the rhetoric surrounding Silicon Valley today, this discourse sees technological innovation as an end in itself and equates the development of disruptive business models with political progress.”

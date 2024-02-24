@@ -8,6 +8,8 @@ link: http://www.e-flux.com/journal/76/72759/male-fantasies-the-sequel-s/
 date: 2016-10-05
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “the question of fascism, or rather the question of why might people vote for their own oppression, has never ceased to haunt political philosophy”
 
 “Marxist theory, according to Reich, consistently depicts fascism as a mistaken choice resulting from false consciousness: the masses are ignorant and gullible, and thus easily led into contradictions. Refusing to absolve those who cheered for Hitler, Reich proposes an alternative theory. Marxism, he contends, was “unable to understand the power of an ideological movement like Nazism” because it lacked an adequate conception of ideology’s “material force as an emotional or affective structure.””

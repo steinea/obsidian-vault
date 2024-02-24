@@ -8,6 +8,8 @@ link: http://nautil.us/issue/34/adaptation/the-classic-metal-behind-the-origins-
 date: 2016-03-27
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “Where the other “omes” are full of complex structures and intricate biomachinery, the metallome is much simpler. It’s just a collection of metal atoms.”
 
 “It has enabled the chemistry at the heart of the other omes, acted as an interface between them and the changing environment of the Earth, and helped to drive the evolution of life itself for over 3 billion years.”

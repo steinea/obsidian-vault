@@ -8,6 +8,8 @@ link: https://rsbakker.wordpress.com/2011/06/21/what-is-the-semantic-apocalypse/
 date: 2016-02-10
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “In social terms, you could suggest that the Semantic Apocalypse has already happened. Consumer society is a society where liberal democratic states have retreated from the ‘meaning game,’ leaving the intractable issue to its constituents. Given the interpretative ambiguity that permeates the Question of Meaning, there is no discursive or evidential way of commanding any kind of consensus: this is why states past and present had to resort to coercion to promote meaning solidarity. Absent coercion, people pretty much climb on whatever dogmatic bandwagon that appeals to them, typically the ones that most resonate with their childhood socialization, or as we like to call it, their ‘heart.’”
 
 “The result of this heterogeniety is a society lacking any universal meaning-based imperatives: all the ‘shoulds’ of a meaningful life are either individual or subcultural. As a result, the only universal imperatives that remain are those arising out of our shared biology: our fears and hungers. Thus, consumer society, the efficient organization of humans around the facts of their shared animality.”

@@ -8,6 +8,8 @@ link: http://www.newyorker.com/magazine/2016/02/22/why-leftists-go-right
 date: 2016-02-17
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “The most common explanation is the one variously attributed to Churchill, Clemenceau, and Lloyd George: “Any man who is not a socialist at age twenty has no heart. Any man who is still a socialist at age forty has no head.” The move rightward is thus a sign of the hard wisdom that comes with age and experience—or, perhaps, the callousness and curdled dreams that accompany stability and success.”
 
 “Irving Kristol, the ex-Trotskyist who became the godfather of neoconservatism, quipped that a neoconservative was “a liberal who has been mugged by reality.” Most people are hardly aware of the shift until it’s exposed by a crisis, like a major political realignment that forces us to cross party lines.”

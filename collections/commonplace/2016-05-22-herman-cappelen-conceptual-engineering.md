@@ -8,6 +8,8 @@ link: http://dailynous.com/2016/05/19/philosophers-win-3-6-million-for-conceptua
 date: 2016-05-22
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “Professor Cappelen offers a description of the project:”
 
 “In any inquiry, whether scientific or practical, we use concepts to frame questions about reality.”

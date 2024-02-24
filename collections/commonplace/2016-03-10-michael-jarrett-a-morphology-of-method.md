@@ -8,6 +8,8 @@ link: http://www2.york.psu.edu/~jmj3/home.html
 date: 2016-03-10
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 All discourses on method, including this essay, share a common set of elements. Ulmer identifies them as:
 
 * Contrast--opposing a new method to an old one,

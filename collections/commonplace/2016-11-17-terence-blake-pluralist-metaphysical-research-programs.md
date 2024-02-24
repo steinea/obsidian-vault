@@ -8,6 +8,8 @@ link: https://terenceblake.wordpress.com/2016/11/17/pluralist-metaphysical-resea
 date: 2016-11-17
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “My long-term philosophical project is the critical analysis of the differing pluralist French Continental philosophies, those of Deleuze, Laruelle, Zizek, Serres, Stiegler, Badiou and Latour, as competing alternative metaphysical research programmes (in the sense proposed by Karl Popper).”
 
 “I describe, analyse and evaluate these diverse metaphysical research programmes in terms of a loose partially overlapping set of criteria:

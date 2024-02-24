@@ -8,6 +8,8 @@ link: https://thepointmag.com/2016/examined-life/add-your-own-egg
 date: 2016-01-13
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “Morality: An Introduction to Ethics by Bernard Williams.”
 
 “I went quickly over the opening lines: “Writing about moral philosophy should be a hazardous business,” not least because in doing so “one is likely to reveal the limitations and inadequacies of one’s own perceptions.””

@@ -8,6 +8,8 @@ link: https://www.marxists.org/archive/ilyenkov/works/essays/essay1.htm
 date: 2016-02-19
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “The fact is that what are now called logic are doctrines that differ considerably in their understanding of the boundaries of this science. Each of them, of course, lays claim not so much simply to the title as to the right to be considered the sole modern stage in the development of world logical thought. That, therefore, is why we must go into the history of the matter.”
 
 “The term ‘logic’ was first introduced for the science of thinking by the Stoics, who distinguished by it only that part of Aristotle’s actual teaching that corresponded to their own views on the nature of thinking.”

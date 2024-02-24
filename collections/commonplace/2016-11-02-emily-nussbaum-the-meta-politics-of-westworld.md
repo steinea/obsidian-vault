@@ -8,6 +8,8 @@ link: http://www.newyorker.com/magazine/2016/10/24/the-meta-politics-of-westworl
 date: 2016-11-02
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “Self-cannibalism and the snake that eats its own tail: that’s a fair description of “Westworld,” a come-hither drama that introduces itself as a science-fiction thriller about cyborgs who become self-aware, then reveals its true identity as what happens when an HBO drama struggles to do the same.”
 
 “This unsettling motif is one of the most effective aspects of “Westworld”—we keep seeing the cyborgs waking from nightmares they can’t understand, or shuddering with trauma until a technician soothes them with a command.”

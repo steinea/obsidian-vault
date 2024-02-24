@@ -8,6 +8,8 @@ link: https://lareviewofbooks.org/article/metafictional-machinations-william-luv
 date: 2016-12-27
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “WILLIAM LUVAAS is probably best known for his 2013 book Ashes Rain Down, a linked collection of stories depicting a mountain community trying to subsist in a near future in which climate change has wreaked its havoc and the world order has apparently collapsed.”
 
 “Prior to this book, Luvaas had published two novels, The Seductions of Natalie Bach (1987) and Going Under (1994), as well as another collection of stories, A Working Man’s Apocrypha (2007).”

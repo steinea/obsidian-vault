@@ -8,6 +8,8 @@ link: http://cosmologicsmagazine.com/devin-singh-debt-cancellation-as-sovereign-
 date: 2016-02-05
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “It’s in part because of its proximity to language of salvation and its association with divine activity that debt cancellation has garnered an altruistic aura. It smacks of profound mercy and justice. Progressive social movements, whether religiously inspired or not, champion debt cancellation in various forms, from the famed Jubilee 2000 campaign to groups associated with Occupy Wall Street. Thus, Jubilee is part of a set of purportedly radical options marshaled to challenge the excesses and abuses of our current global capitalist order.”
 
 “If we assess the originary logic and historical context of Jubilee, however, it’s clear that we should pause before we champion debt cancellation policies today. For debt cancellation in its ANE context is unquestionably an act and prerogative of sovereign power. Jubilee is an exceptional act, occurring in moments of transition in sovereignty or in times of crisis. It is a declaration of sovereignty, a statement of total supremacy over the economy and society of a territory or empire”

@@ -8,6 +8,8 @@ link: http://www.theparisreview.org/blog/2016/03/24/how-to-get-out-of-bed/
 date: 2016-03-27
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “In his Meditations, Marcus Aurelius wrote,”
 
 “At dawn, when you have trouble getting out of bed, tell yourself: “I have to go to work—as a human being. What do I have to complain of, If I’m going to do what I was born for—the things I was brought into the world to do? Or is this what I was created for? To huddle under the blankets an stay warm?”

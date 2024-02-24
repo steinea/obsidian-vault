@@ -8,6 +8,8 @@ link: http://www.nytimes.com/2016/12/14/magazine/the-great-ai-awakening.html
 date: 2016-12-14
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “Everybody wondered: How had Google Translate become so uncannily artful?”
 
 “The Google of the future, Pichai had said on several occasions, was going to be “A.I. first.””

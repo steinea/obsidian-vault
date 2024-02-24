@@ -8,6 +8,8 @@ link: https://xenoswarm.wordpress.com/2016/08/17/the-last-days-of-new-paris-3-we
 date: 2016-10-26
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 THE LAST DAYS OF NEW PARIS (3)
 
 “I have argued that the term noetic estrangement, or in Deleuzian language noetic deterritorialisation, best describes the type of non-mimetic fiction or Weird realism that can be found in China Miéville’s works (amongst others).”

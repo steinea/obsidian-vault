@@ -8,6 +8,8 @@ link: http://www.theguardian.com/commentisfree/2016/apr/07/panama-papers-taxes-u
 date: 2016-04-09
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “Called a universal basic income by supporters, the idea has has attracted support throughout American history, from Thomas Paine to Martin Luther King Jr.”
 
 “But it has also faced unending criticism for one particular reason: the advocates of “austerity” say we simply can’t afford it – or any other dramatic spending on social security.”

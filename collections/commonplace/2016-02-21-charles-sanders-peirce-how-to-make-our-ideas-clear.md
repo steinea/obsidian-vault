@@ -8,6 +8,8 @@ link: http://www.peirce.org/writings/p119.html
 date: 2016-02-21
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “A clear idea is defined as one which is so apprehended that it will be recognized wherever it is met with, and so that no other will be mistaken for it. If it fails of this clearness, it is said to be obscure.”
 
 “I take it, however, that when the logicians speak of "clearness," they mean nothing more than such a familiarity with an idea, since they regard the quality as but a small merit, which needs to be supplemented by another, which they call distinctness.”

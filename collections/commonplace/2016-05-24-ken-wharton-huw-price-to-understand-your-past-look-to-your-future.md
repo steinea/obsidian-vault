@@ -8,6 +8,8 @@ link: http://nautil.us/issue/36/aging/to-understand-your-past-look-to-your-futur
 date: 2016-05-24
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “You’re thinking about time all wrong, according to our best physical theories. In Einstein’s general theory of relativity, there’s no conceptual distinction between the past and the future, let alone an objective line of “now.” There’s also no sense in which time “flows”; instead, all of space and time is just there in some four-dimensional structure. What’s more, all the fundamental laws of physics work essentially the same both forward and backward.”
 
 “None of these facts are easy to accept, because they’re in direct conflict with our subjective experience of time. But don’t feel too bad: They’re hard even for physicists to accept, an ongoing tension that places physics in conflict not just with common sense but also with itself. As much as physicists talk about time symmetry, they do not allow themselves to invoke the future, only the past, when seeking to explain occurrences in the world.”

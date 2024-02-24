@@ -8,6 +8,8 @@ link: https://www.marxists.org/reference/subject/philosophy/works/us/quine.htm
 date: 2016-02-26
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “Source: The Emergence of Logical Empiricism (1996) publ. Garland Publishing Inc. The second half of Quine's contribution to series is reproduced here.”
 
 

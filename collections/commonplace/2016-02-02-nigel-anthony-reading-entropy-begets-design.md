@@ -8,6 +8,8 @@ link: https://asynsis.wordpress.com/2014/09/05/entropy-begets-design-qed-2/
 date: 2016-02-02
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “Design is an emergent property of and irreversibility and entropy.”
 
 “Complexity increase in nature can then be seen as ultimately – a result of a geometric imperative, as an evolutionary, asymptotic convergence in open dynamical systems that explains the phenomena of emergence via dynamical systems Universality.”

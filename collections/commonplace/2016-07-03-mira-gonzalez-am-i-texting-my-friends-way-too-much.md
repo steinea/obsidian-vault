@@ -8,6 +8,8 @@ link: http://reallifemag.com/ok-pls-thx-am-i-texting-my-friends-way-too-much/
 date: 2016-07-03
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “We are all hopelessly terrified of the Beyond and so addicted to our phones that we look to them for answers to almost everything.”
 
 “I view this habit as simply the first part of us becoming full-on cyborgs, which I am super excited for.”

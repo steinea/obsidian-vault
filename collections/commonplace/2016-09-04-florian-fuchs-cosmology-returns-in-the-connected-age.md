@@ -8,6 +8,8 @@ link: https://lareviewofbooks.org/article/cosmology-returns-connected-age-werner
 date: 2016-09-04
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “Within this optical ecosystem Herzog has developed a special care for those images, spectacles, and phenomena that must be kept clean from cinematic vision so that they may remain visible off screen, in their own habitat. Essentially, his is a concern not for particular phenomena, but for unguarded seeing itself.”
 
 “WERNER HERZOG is the filmmaker of the unfilmable, not because he attempts to film what is technically unfilmable, but because his documentaries acknowledge what must remain undocumented.”

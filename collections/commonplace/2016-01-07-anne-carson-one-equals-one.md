@@ -8,6 +8,8 @@ link: http://www.newyorker.com/magazine/2016/01/11/1-equals-1
 date: 2016-01-07
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “There is a pressure to swim well and to use this water correctly. People think swimming is carefree and effortless. A bath! In fact, it is full of anxieties. Every water has its own rules and offering. Misuse is hard to explain. Perhaps involved is that commonplace struggle to know beauty, to know beauty exactly, to put oneself right in its path, to be in the perfect place to hear the nightingale sing, see the groom kiss the bride, clock the comet. Every water has a right place to be, but that place is in motion. You have to keep finding it, keep having it find you. Your movement sinks into and out of it with each stroke. You can fail it with each stroke. What does that mean, fail it.”
 
 “Water is as different from air as from stones, and you must find your way through its structures, its ancientness, the history of an entity without response to you and yet complicit in your obstinate intrusion.”

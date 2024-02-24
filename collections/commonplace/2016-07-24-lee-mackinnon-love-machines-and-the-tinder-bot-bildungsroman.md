@@ -8,6 +8,8 @@ link: http://www.e-flux.com/journal/love-machines-and-the-tinder-bot-bildungsrom
 date: 2016-07-24
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “I have elsewhere considered love from the point of view of two technical systems of delivery and distribution that reflect this split between a temporal, calculable, analog discourse, and an ultra-rapid, digital, and computational one.”
 
 “Friedrich Kittler might refer to these as discrete discourse machines, considered according to the technical devices and systems of communication they deploy.”

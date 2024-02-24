@@ -8,6 +8,8 @@ link: https://lareviewofbooks.org/review/a-historical-nullity-you-need-to-read-a
 date: 2016-01-12
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “What seems epochal to later generations, Bruegel seems to suggest, may have been trivial to actual witnesses.”
 
 “Anyone who wants more evidence for Steven Pinker’s claim that the world has gotten kinder will find it here. Ancient Rome was a brutal world, and Spiró does not hide its depredations. Monsters of particular virulence, like Caligula, are exaggerations of the general trend of abuse by the powerful, submission and cunning manipulation by the weak, and a sense of powerlessness on the part of the vast majority of people.”

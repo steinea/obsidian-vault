@@ -8,6 +8,8 @@ link: http://www.nybooks.com/articles/2016/11/10/kierkegaards-rebellion/
 date: 2016-11-10
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “Kierkegaard is widely considered the most important religious thinker of the modern age. This is because he dramatized with special intensity the conflict between religion and secular reason, between private faith and the public world, and he went so far as to entertain the thought that a genuine reconciliation between them is impossible.”
 
 “Society, for Kierkegaard, is a place of leveling conventions, and the ethical principles that bind us together ignore the genuine self. It is faith alone, uncontaminated by public understanding, that distinguishes the authentic individual, and faith is something wholly interior, a leap into paradox.”

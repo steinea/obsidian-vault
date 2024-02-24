@@ -8,6 +8,8 @@ link: https://lareviewofbooks.org/article/world-according-stanislaw-lem/
 date: 2016-12-10
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “THERE’S A PARADOX at the heart of science fiction. The most basic aspiration of the genre — its very essence, really — is to transcend time and place.”
 
 “Not just to predict the future, but to imagine things that are totally foreign to human experience.”

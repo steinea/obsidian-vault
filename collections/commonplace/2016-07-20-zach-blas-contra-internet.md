@@ -8,6 +8,8 @@ link: http://www.e-flux.com/journal/contra-internet/
 date: 2016-07-20
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “What does it mean to kill the internet?”
 
 “To understand withdrawing access to the internet as killing emphasizes a potentially grievable loss or a violation of international human rights laws, as the United Nations claims.”

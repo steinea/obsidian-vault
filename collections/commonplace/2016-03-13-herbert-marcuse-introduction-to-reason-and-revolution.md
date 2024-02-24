@@ -8,6 +8,8 @@ link: https://www.marxists.org/reference/archive/marcuse/works/reason/ch01-1.htm
 date: 2016-03-13
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “Religious and political problems were discussed in terms of eighteenth century rationalism, the dignity of man was extolled, as was his right to shape his own life against all obsolete forms of authority and tradition, and tolerance and justice were praised.”
 
 “But the young generation that was then attending the theological University of Tubingen – among them Hegel, Schelling, and Hölderlin – was above all impressed by the contrast between these ideals and the miserable actual condition of the German Reich.”

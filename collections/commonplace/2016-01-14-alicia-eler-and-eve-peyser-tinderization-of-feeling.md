@@ -8,6 +8,8 @@ link: http://thenewinquiry.com/essays/tinderization-of-feeling/
 date: 2016-01-14
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “LIVING with a sense of overwhelming choice means exerting an insane amount of emotional energy in making the most banal decisions. What should you watch on Hulu tonight? Make a Facebook status asking for recommendations. Tweet the question to your followers. After perusing for an hour, settle comfortably into Seinfeld, which you’ve seen a million times before. Wonder whether you made the wrong choice. Do it again anyway. There is some comfort in sameness.”
 
 “When the mundane act of choosing a television show to watch is emotionally taxing, relationships are next-level shit. But millennials have a solution: Tinderize it. Tinderize it all.”

@@ -8,6 +8,8 @@ link: http://www.theatlantic.com/science/archive/2016/01/the-incredible-thing-we
 date: 2016-01-06
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “Conversations have a far greater number of possible responses, which ought to saddle us with lengthy gaps between turns. Those don't exist because we build our responses during our partner's turn. We listen to their words while simultaneously crafting our own, so that when our opportunity comes, we seize it as quickly as it's physically possible to.”
 
 “they uncovered what Levinson describes as a “basic metabolism of human social life”— a universal tendency to minimize the silence between turns, without overlaps. (Overlaps only happened in 17 percent of turns, typically lasted for just 100 milliseconds, and were mostly slight misfires where one speaker unexpectedly drew out their last syllable.)”

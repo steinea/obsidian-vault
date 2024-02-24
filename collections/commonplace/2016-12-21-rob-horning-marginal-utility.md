@@ -8,6 +8,8 @@ link: http://thenewinquiry.com/blogs/marginal-utility/mass-authentic/
 date: 2016-12-21
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “(This is the text from a talk I gave at the Impakt Festival in Utrecht in October; it synthesizes some earlier posts from this blog and elsewhere.)”
 
 “Why can’t we get rid of the idea of authenticity?”

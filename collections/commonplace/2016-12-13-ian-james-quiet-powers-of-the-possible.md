@@ -8,6 +8,8 @@ link: https://ndpr.nd.edu/reviews/quiet-powers-of-the-possible-interviews-in-con
 date: 2016-12-13
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 Tarek R. Dika and W. Chris Hackett (eds.)
 
 Quiet Powers of the Possible: Interviews in Contemporary French Phenomenology

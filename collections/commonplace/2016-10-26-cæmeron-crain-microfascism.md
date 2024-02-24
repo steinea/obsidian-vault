@@ -8,6 +8,8 @@ link: https://www.themantle.com/philosophy/microfascism
 date: 2016-10-26
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 The Mantle is excited to present the first in series of blog posts by Cæmeron Crain exploring key concepts in contemporary political philosophy, beginning with the work of the seminal French theorists, Gilles Deleuze and Felix Guattari. 
 
 Long after the appearance of Deleuze and Guattari's collaborative works Anti-Oedipus (1972), and A Thousand Plateaus (1980, together volumes one and two of Capitalism and Schizophrenia), the influence of the notoriously difficult philosophers, clinical psychotherapists, and activists is, paradoxically, widespread. Academics, graphic designers, currency traders, social media managers, security consultants, and political radicals have all have appropriated the language of multiplicities, flows, arrangements, rhizomes. This is because, as Michel Foucault claimed in his preface to Anti-Oedipus, these "seemingly abstract notions" address the question of how to proceed in an increasingly complex world. But as the above list of often antagonistic disciplines suggests, the answer to the question of how to proceed is unresolved, as is the question of whether embedded somewhere in Capitalism and Schizophrenia is a positive political program. 

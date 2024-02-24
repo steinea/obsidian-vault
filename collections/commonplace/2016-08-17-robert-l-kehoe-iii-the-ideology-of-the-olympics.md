@@ -8,6 +8,8 @@ link: http://bostonreview.net/world/robert-kehoe-ideology-olympics
 date: 2016-08-17
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “the leaders of the XXXI Olympiad will echo their claim that anything done in the name of sport is above and beyond public scrutiny or political protest”
 
 “This is a far cry from the way the Greeks would have seen it. According to historian Nigel Spivey, the games of antiquity never ignored or hid from their political significance, serving as an unabashed display of military power. Far from an apolitical exercise, stadiums were

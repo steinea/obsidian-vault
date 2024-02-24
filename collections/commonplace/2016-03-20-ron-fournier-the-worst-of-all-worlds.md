@@ -8,5 +8,7 @@ link: http://www.theatlantic.com/politics/archive/2016/03/clinton-vs-trump-the-w
 date: 2016-03-20
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “The candidates are not equally revolting. But for millions of voters, today begins a process driven by their aspersions toward one candidate rather than their aspirations for another—the acceleration of a grim trend that political scientists call “negative partisanship.””
 

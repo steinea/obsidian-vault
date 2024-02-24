@@ -8,6 +8,8 @@ link: http://www.theatlantic.com/technology/archive/2016/06/gps-goes-adrift/4873
 date: 2016-06-23
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 ““This, we speculated, is due to the way in which these apps are recording the GPS inaccuracies and counting these as actual, physical movements,” they continued. “In reality, these odd asymmetrical star-shaped tracks offer a map of the shifts of the phone attempting to locate itself.” It is not you, then, but a mathematical error, a phantom version of yourself wandering in the blind spots of military satellites.”
 
 “If even something as stationary as an art gallery in Manhattan can appear to slide back and around again through the surrounding neighborhood, then, in a very real sense, the entire world is also always night-running, departing from its apparent fixedness without ever appearing to move. Your smartphone was in a different neighborhood last night, perhaps even stumbling through someone’s home or slipping across state borders.”

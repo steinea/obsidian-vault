@@ -8,6 +8,8 @@ link: https://lareviewofbooks.org/article/the-soviet-matrix-on-the-strugatsky-br
 date: 2016-11-05
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “The older Arkady and the younger Boris began as devout communist idealists in thrall of the revolutionary Soviet project, and they ended as its harshest critics and opponents, equating the drabness and nightmares of Kafka’s world with Soviet values.”
 
 “Science fiction for them, however, was not merely a ploy, a method for speaking of the forbidden through allegories and Aesopian language; it was the only suitable artistic response to their time’s moral and technological collapses and a deeply philosophical enterprise.”

@@ -8,6 +8,8 @@ link: https://terenceblake.wordpress.com/2016/12/18/badious-inquiry-1-six-charac
 date: 2016-12-18
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 Badiou explicitly calls his research in view of writing a third book to complete the system begun with BEING AND EVENT and continued with LOGICS OF WORLDS an “inquiry“. The first two books constituted an “analytic“, but the third book requires a “conversion”. He is no longer deducing the conditions of possibility of truths from the point of view of their being (ontology) or of their appearing in a world (phenomenology). He is concerned in this third stage of his with exploring what a world is when examined from the point of view of a truth. Given his emphasis that a truth is a practice we can perhaps call this a pragmatic conversion, but Badiou himself does not use this term.
 
 Badiou begins his three and a half year seminar devoted to the immanence of truths with a summary of his concept of truth, listing six characteristics of truths. This is what he calls in the second class the “material” of the inquiry :

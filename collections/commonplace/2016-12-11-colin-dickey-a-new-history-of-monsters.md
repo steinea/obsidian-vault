@@ -8,6 +8,8 @@ link: https://lareviewofbooks.org/article/darkness-new-history-monsters/
 date: 2016-12-11
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “WE HAVE ALWAYS HAD monsters in our lives.”
 
 “They have occupied our imaginations and our nightmares for millennia, lurking at the edges of the known world.”

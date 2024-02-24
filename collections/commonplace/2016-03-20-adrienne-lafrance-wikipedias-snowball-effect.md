@@ -8,6 +8,8 @@ link: http://www.theatlantic.com/technology/archive/2016/03/wikipedia-cumulative
 date: 2016-03-20
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “If there’s a unifying theory here, a rule about why some topics have sprawling Wikipedia pages and others are relative blips, it’s not immediately evident. A lot of the heftiest articles are in list format, but the topics are all over the map.”
 
 “There is at least one explanation. Wikipedia editing seems to beget more editing, according to a study published in the journal Management Science. Researchers found that even though Wikipedia editors don’t tend to change much—they typically add delete, or alter about half-a-sentence at a time—even small edits to an article prompt other people to jump in and make edits of their own. And those edits encourage even more edits. And so on.”

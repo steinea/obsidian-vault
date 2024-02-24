@@ -8,6 +8,8 @@ link: https://nplusonemag.com/issue-4/essays/afternoon-of-the-sex-children/
 date: 2016-07-26
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “Not long ago I took part in one of the conversations you’re not supposed to have. It turned on whether Vladimir Nabokov, author of Lolita, really desired underage girls. The usual arguments came out: Nabokov was a master of personae, and Humbert Humbert a game to him. Kinbote, analogous narrator of Pale Fire, didn’t make you think Nabokov loved boys. The late novels were Nabokov’s allegories of the seductions of aestheticism, which transfigures the forbidden into the beautiful; or moral paintings of our acceptance of crime, when crime is presented alluringly. So love of the wrong object becomes a metaphor for art, ethics, personality, and so forth.”
 
 “I was reluctant to say that I felt these explanations were inadequate and even in bad faith. The trouble with Lolita is plainly its ability to describe what a sexual 12-year-old looks like. What her dress is like when it brushes her knees, what her toes are like with painted nails, how the color sits on the plump bow of her lips — the phrase for this is that it is “too real”; that’s the scandal. It continues to be the scandal fifty years after publication, and it will be a scandal whenever any adult acknowledges the capacity to upend his vision and see a child, protected larval stage of the organism, as a sexual object. The girl is still a child, only now she is a sex child. Yet this makes me feel Nabokov was not a pedophile, but something he is not credited with being — a social critic.”

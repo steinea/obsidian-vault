@@ -8,6 +8,8 @@ link: https://lareviewofbooks.org/review/the-sharp-edge-that-finds-us-edward-men
 date: 2016-03-14
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “In his essay “The Sharp Edge of Life,” Saul Bellow argued, “The great issue of fiction is the stature of characters. It starts with something like the Psalmist’s question, ‘What is man that though art mindful of him?’ Responses range from ‘a little lower than the angels’ to ‘a poor bare, forked animal.’” Today we could add to that range of responses, featuring various utopian or apocalyptic suppositions about our shared natural or digital future. But interestingly enough, it seems that contemporary literary criticism has less to say about our expanding range of answers than it does about the presumed futility of the question.”
 
 “Perhaps the most notable example of this presumption is Mark Greif’s The Age of the Crisis of Man: Thought and Fiction in America, 1933­–1973, where we are told, quite directly, to “stop” asking dubious, socially constructed and (now) exhausted metaphysical questions about ‘M’an, or ‘W’oman.”

@@ -8,6 +8,8 @@ link: https://lareviewofbooks.org/article/game-thrones-season-6-winds-winter/
 date: 2016-07-14
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “Has there been a Game of Thrones episode that felt so resolutely Game of Thrones-centric? So totally uninterested in the larger world? I mean, this was an episode that paid off so many of its own plots, that resolved all sorts of things and moved the ball forward, but the show feels much less like a mirror held up to our reality than it often has in the past.”
 
 “My sense is that the show has fully committed to a new approach. At the beginning, the subject of this show was: politics. How to establish a steady government. As many, including me, have often said: “politics” is not a problem with any kind of tidy end point. There is no satisfying resolution to the question “Who will be king?” because the answer is always going to be, “Well, someone, for a while, and then someone.” History, as we have come to see, doesn’t end!”

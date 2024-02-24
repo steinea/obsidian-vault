@@ -8,6 +8,8 @@ link: http://www.nybooks.com/daily/2016/02/15/justice-antonin-scalia-constitutio
 date: 2016-02-16
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “In life, Scalia insisted that the content of constitutional law must be determined by the “original public meaning” of the text adopted by the framers some two hundred and forty years ago, and should be unaffected by contemporary politics;”
 
 “in the wake of his death, the inescapable influence of politics on constitutional interpretation could not be more clear.”

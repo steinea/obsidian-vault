@@ -8,6 +8,8 @@ link: https://lareviewofbooks.org/review/the-deep-wound/
 date: 2016-03-08
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “Matt Bell’s book-length essay Baldur’s Gate II: Shadows of Amn is a book about shame. Using a playthrough of the eponymous Dungeons & Dragons computer game as a framework, Bell explores his history with D&D, fantasy, and computer games, and the friction between his fantasy life and his literary life”
 
 “My deep wound is video games. In the same way Bell “pretended to be someone else whenever [he] stepped outside of the house” and learned “to never talk about computer games in class or on the school bus,” I learned that my love for video games was excessive and embarrassing. I was swept away by those worlds in a way that nobody else seemed to be, and I walked around with my head full of pixels and quests and ideas. Video games made me very happy and very lonely.”

@@ -8,6 +8,8 @@ link: https://lareviewofbooks.org/article/allegorical-knowledge-the-art-of-alche
 date: 2016-12-21
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “ALCHEMY. The word suggests transformative practices and the mutation of base substances into precious ones through mysterious processes that depend on secret knowledge.”
 
 “The third-century corpus hermeticum is attributed to the mythic figure of Hermes Trismegistus, whose identity combined qualities of the Egyptian god Thoth and the Greek Hermes.”

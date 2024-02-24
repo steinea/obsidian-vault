@@ -8,6 +8,8 @@ link: https://www.jacobinmag.com/2016/01/robespierre-rousseau-religion-separatio
 date: 2016-01-14
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 "But it seems unlikely that Robespierre would have much sympathy for the secular motivations to ban the hijab, any more than he would have sympathy for prohibiting other forms of religious expression. Robespierre was more committed to justice and the oppressed than to mere fidelity to the secular state. Hence his statement that “atheism is aristocratic, whereas belief in a Supreme Being who watches over oppressed innocence and punishes the crimes of the oppressor is popular.”"
 
 "As Nisbett argues, “[Robespierre] saw atheism not as false, but as a luxury of a privileged bourgeois and aristocratic education and habitus.” The real goal was to establish true popular sovereignty, and that meant respecting the existing religious preferences of the people. For Robespierre, those who hated religion with such ferocity masked their own aristocratic and bourgeois contempt for the poor."

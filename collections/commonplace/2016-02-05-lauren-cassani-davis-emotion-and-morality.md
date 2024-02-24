@@ -8,6 +8,8 @@ link: http://www.theatlantic.com/science/archive/2016/02/how-do-emotions-sway-mo
 date: 2016-02-05
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “Should subjective feelings matter when deciding right and wrong? Philosophers have debated this question for thousands of years. Some say absolutely: Emotions, like our love for our friends and family, are a crucial part of what give life meaning, and ought to play a guiding role in morality. Some say absolutely not: Cold, impartial, rational thinking is the only proper way to make a decision. Emotion versus reason—it’s one of the oldest and most epic standoffs we know.”
 
 “Davis: You describe moral decision-making as a process that combines two types of thinking: “manual” thinking that is slow, consciously controlled, and rule-based, and “automatic” mental processes that are fast, emotional, and effortless. How widespread is this “dual-process” theory of the human mind?”

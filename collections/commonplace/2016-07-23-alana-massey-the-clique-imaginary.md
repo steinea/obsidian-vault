@@ -8,6 +8,8 @@ link: http://thenewinquiry.com/essays/the-clique-imaginary/
 date: 2016-07-23
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “outsiders are preoccupied with how the members of the clique perceive them, while clique members are not preoccupied with outsiders at all”
 
 “In the public imaginary, cliques are almost universally characterized as not only female but as hyper-feminine, and they are held to demonstrate the absolute worst that young women have to offer: cattiness, exclusivity, cruelty, and ruthless social ambition.”

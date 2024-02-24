@@ -8,6 +8,8 @@ link: http://www.theatlantic.com/science/archive/2016/02/all-physics-is-local/46
 date: 2016-02-15
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “Finding gravitational waves indicates that Einstein was (once again) right, and opens a new window onto energetic events occurring around the universe. But there’s a deeper lesson, as well: a reminder of the central importance of locality, an idea that underlies much of modern physics.”
 
 “Locality can be thought of as the simple notion that “what happens here is affected by what’s happening nearby, not by what’s happening far away.” Signals and influences don’t zip instantaneously across the universe; they take time to propagate through space. Sounds obvious, but before Einstein came along, that’s not how we thought gravity worked.”

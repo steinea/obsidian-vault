@@ -8,6 +8,8 @@ link: https://ndpr.nd.edu/reviews/kierkegaard-s-relation-to-hegel-reconsidered/
 date: 2016-08-25
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “In Kierkegaard’s Relation to Hegel Reconsidered, Jon Stewart provides a detailed historical argument which challenges the standard assumption that Kierkegaard’s position was developed in opposition to Hegel’s philosophy, and as such is antithetical to it.”
 
 “It is worth noting that, in Hegel: Myths and Legends, Stewart criticized the ’either / or’ from the other direction, arguing that Hegel is not the arch-rationalist he is often taken to be”

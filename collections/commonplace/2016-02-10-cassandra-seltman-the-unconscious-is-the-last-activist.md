@@ -8,6 +8,8 @@ link: https://lareviewofbooks.org/interview/the-unconscious-is-the-last-activist
 date: 2016-02-10
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “PATRICIA GHEROVICI is a Lacanian psychoanalyst practicing in Philadelphia whose work seeks to bridge several key divides: between psychoanalysis and activism, and between the complex language of theory and the needs of a broad readership.”
 
 “Gherovici’s work shows how psychoanalysis can have relevance in a trans discourse that has become simplified by pop culture journalism.”

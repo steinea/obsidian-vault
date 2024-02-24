@@ -8,6 +8,8 @@ link: https://theawl.com/when-truth-falls-apart-b4667d39575b
 date: 2016-11-03
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “If I have recognized the spread in drug warnings and financial doublespeak, where the corporate use of language approaches the absurd, where the shell of a communicative form is used to foreclose communication, I have also recognized it in forms of poetry that deliberately push us to confront the contingency and craziness of our culture’s use and abuse of words.
 —Ben Lerner, “Contest of Words,” Harper’s Magazine October 2012”
 

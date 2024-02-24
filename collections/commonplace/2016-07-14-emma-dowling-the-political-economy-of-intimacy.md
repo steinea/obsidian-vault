@@ -8,6 +8,8 @@ link: http://www.versobooks.com/blogs/2499-love-s-labour-s-cost-the-political-ec
 date: 2016-07-14
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “Emma Dowling makes a powerful case for thinking about the structure of social relationships rather than simply 'the one'.”
 
 “Her excavation of the political economy of intimacy analyses how the ideology of work has penetrated the affective registers of our social lives, while at the same time, we are paying for capitalism's crisis as financialisation and austerity attack our structures of social reproduction.”

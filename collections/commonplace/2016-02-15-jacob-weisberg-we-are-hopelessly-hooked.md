@@ -8,6 +8,8 @@ link: http://www.nybooks.com/articles/2016/02/25/we-are-hopelessly-hooked/
 date: 2016-02-15
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 ““As smoking gives us something to do with our hands when we aren’t using them, Time gives us something to do with our minds when we aren’t thinking,” Dwight Macdonald wrote in 1957. With smartphones, the issue never arises. Hands and mind are continuously occupied texting, e-mailing, liking, tweeting, watching YouTube videos, and playing Candy Crush.”
 
 “Among some groups, the numbers range much higher. In one recent survey, female students at Baylor University reported using their cell phones an average of ten hours a day. Three quarters of eighteen-to-twenty-four-year-olds say that they reach for their phones immediately upon waking up in the morning. Once out of bed, we check our phones 221 times a day—an average of every 4.3 minutes—according to a UK study. This number actually may be too low, since people tend to underestimate their own mobile usage. In a 2015 Gallup survey, 61 percent of people said they checked their phones less frequently than others they knew.”

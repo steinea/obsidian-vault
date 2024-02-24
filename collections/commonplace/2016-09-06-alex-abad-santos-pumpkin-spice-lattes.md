@@ -8,6 +8,8 @@ link: http://www.vox.com/2014/9/10/6126359/pumpkin-spice-latte-starbucks-season-
 date: 2016-09-06
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “the crown jewel of this pumpkin berserker rage is what's known as the pumpkin spice latte, an unctuous, pungent, saccharine brown liquid, equal parts dairy and diabetes, served in paper cups and guzzled down by the liters”
 
 “Pumpkin spice is a blend of spices that spice manufacturers sell. Going by the ingredients in The Old Farmer's Almanac, the spices in pumpkin spice are usually made up of cinnamon, nutmeg, ginger, and allspice, with occasional ingredient variations like cloves.”

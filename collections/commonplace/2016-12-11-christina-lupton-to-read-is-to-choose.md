@@ -8,6 +8,8 @@ link: https://lareviewofbooks.org/article/to-read-is-to-choose/
 date: 2016-12-11
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “His stated purpose in The Untold Story of the Talking Book is not to weigh up the comparative advantages of media forms but to parse the whole concept of reading through the history of one of them.”
 
 “What do we mean when we say we’ve read, or in Hungerford’s case, not read, a book? How do we imagine it getting into our brain? Rubery’s pitch for this as his real question is risky given that what he actually delivers is a detailed, lively, and well-peopled history of the technologies, economies, and organizations that have driven the recording of novels over the last 150 years. The more abstract question of what reading is floats around, mostly out of sight, as something the book leaves us to answer for ourselves.”

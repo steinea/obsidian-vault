@@ -8,6 +8,8 @@ link: http://thenewinquiry.com/essays/human-nature/
 date: 2016-01-27
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “Although not a book on political movements, the philosopher Jason W. Moore’s Capitalism in the Web of Life: Ecology and the Accumulation of Capital seeks to analyze the root cause of this impasse for environmentalism: the widely-shared view that “the environment” is a separate and unique part of existence outside of capitalism that capitalism devalues.”
 
 “Instead of examining the degradation of nature as an aspect of accumulation, Moore proposes that nature is instead always in capital, and likewise, capitalism is always in historical natures.”

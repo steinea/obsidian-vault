@@ -8,6 +8,8 @@ link: https://terenceblake.wordpress.com/2016/10/25/reading-disparities-6-the-fa
 date: 2016-10-25
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 Reading DISPARITIES (6)
 
 “OOO reinforces the very dualism that it purports to escape. The naturalisation of the object is accompanied by the substantialisation of the subject, which in turn must be compensated by a more or less poetic re-subjectivation (or “re-enchantment”) of the real.”

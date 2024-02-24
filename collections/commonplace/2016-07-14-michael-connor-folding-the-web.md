@@ -8,6 +8,8 @@ link: http://rhizome.org/editorial/2016/jun/16/folding-the-web/
 date: 2016-07-14
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “The yarn is neither metaphorical nor literal, but quite simply material, a gathering of threads which twist and turn through the history of computing, technology, the sciences, and arts. In and out of the punched holes of automated looms, up and down through the ages of spinning and weaving, back and forth through the fabrication of fabrics, shuttles and looms, cotton and silk, canvas and paper, brushes and pens, typewriters, carriages, telephone wires, synthetic fibers, electrical filaments, silicon strands, fiber-optic cables, pixeled screens, telecom lines, the World Wide Web, the Net, and matrices to come.
 
 – Sadie Plant, Zeros + Ones: Digital Women and the New Technoculture, London: Fourth Estate, 1998.”

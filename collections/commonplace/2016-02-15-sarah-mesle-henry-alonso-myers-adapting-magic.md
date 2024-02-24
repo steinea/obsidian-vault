@@ -8,4 +8,6 @@ link: https://lareviewofbooks.org/interview/adapting-magic-an-interview-with-tv-
 date: 2016-02-15
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “the novel, lauded for both its riveting story and its sophisticated prose, posed both opportunities and challenges for adaptation.”

@@ -8,6 +8,8 @@ link: http://www.theatlantic.com/science/archive/2016/02/babylonians-scientists/
 date: 2016-02-10
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “We’ve never escaped the influence of the Babylonians. That there are 60 seconds in a minute, 60 minutes in an hour, and 360 degrees in a full circle, are all echoes of the Babylonian preference for counting in base 60. An affinity for base 12 (inches in a foot, pence in an old British shilling) is also an offshoot, 12 being a factor of 60.”
 
 “All this suggests that the Babylonians had a mathematics worth copying, which was why the Greeks did copy it and thereby rooted these number systems in Western tradition.”

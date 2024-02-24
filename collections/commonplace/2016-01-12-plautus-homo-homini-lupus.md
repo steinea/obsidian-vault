@@ -8,6 +8,8 @@ link: https://en.wikipedia.org/wiki/Homo_homini_lupus
 date: 2016-01-12
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 Homo homini lupus, or in its unabridged form Homo homini lupus est, is a Latin proverb meaning "A man is a wolf to another man," or more tersely "Man is wolf to man." It has meaning in reference to situations where people are known to have behaved in a way comparably in nature to a wolf. The wolf as a creature is thought, in this example, to have qualities of being predatory, cruel, inhuman i.e. more like an animal than civilized.
 
 

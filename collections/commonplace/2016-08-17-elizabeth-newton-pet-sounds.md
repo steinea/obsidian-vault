@@ -8,6 +8,8 @@ link: http://reallifemag.com/pet-sounds/
 date: 2016-08-17
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “It has always struck me as ironic that audiophiles are often mediocre listeners. Careful listening to music defines the audiophile’s identity, yet conversations with them can be frustrating affairs. They believe themselves to hold special insights into sound, which they impart with little prompting: knowledge of the best books about audio fidelity, of the highest quality recordings, of historic hi-fi landmarks, of the best speakers, speaker cables, speaker polish. The audiophile tends toward monologues, impervious to disinterest — or dissent.”
 
 “When Baudrillard, in his 1979 book Seduction, personifies hi-fi recording, he may as well be describing the audiophile. Such recording, he argues, “gives you so much — color, luster, sex, all in high fidelity, and with all the accents (that’s life!) — that you have nothing to add, that is to say, nothing to give in exchange. Absolute repression: by giving you a little too much one takes away everything. Beware of what has been so well ‘rendered,’ when it is being returned to you without you ever having given it!””

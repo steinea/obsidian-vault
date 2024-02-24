@@ -8,6 +8,8 @@ link: https://www.marxists.org/reference/subject/philosophy/works/fr/kojeve.htm
 date: 2016-02-25
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “Alexandre Kojève (1934)
 
 Source: Introduction to the Reading of Hegel, Basic Books, 1969; the final chapter only reproduced here.”

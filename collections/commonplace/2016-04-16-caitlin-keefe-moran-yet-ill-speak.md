@@ -8,6 +8,8 @@ link: http://the-toast.net/2016/04/13/yet-ill-speak-othellos-emilia/
 date: 2016-04-16
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “Iago, sensing that she’s about to expose him, tells her to shut up and go home. She responds with a speech that puts the rest of the characters of the play to shame:
 
 No, I will speak as liberal as the north:

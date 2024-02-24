@@ -8,6 +8,8 @@ link: http://www.nybooks.com/daily/2016/11/05/disciples-of-distrust-trump-iraq-w
 date: 2016-11-05
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “Coughlin was a priest tending a shrine to Saint Thérèse of Lisieux who found that he had a syrupy radio voice. McCarthy was a ferret who fancied himself the Grand Inquisitor from the Dostoevsky novel he was not literate enough to read. Wallace was a strutting little fellow dwarfed by the doorway he stood in to keep blacks out. Trump looks like an overripe former matinee idol, a male Norma Desmond insisting that he is still wonderful (make Hollywood great again). These are not people of great charm.”
 
 “Some suspect that the demagogues must have twisted or damaged psyches; but probing such muddied puddles does not get us far. Leaders are made by followers. The real question should be: what did the followers want that they could supply?”

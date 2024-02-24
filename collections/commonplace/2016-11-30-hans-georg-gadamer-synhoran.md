@@ -1,1 +1,19 @@
----layout: entrycategory: commonplaceauthor: Hans-Georg Gadamertitle: Synhoranpublication: Truth and Methodlink: https://en.wikipedia.org/wiki/Truth_and_Methoddate: 2016-11-30---συνορᾶν (synhoran)german translation_gr: zusammen sehen, mit ansehen, ansehen, ansichtig werden English: together-see, with-look at, look at, to be seen
+---
+layout: entry
+category: commonplace
+author: Hans-Georg Gadamer
+title: Synhoran
+publication: Truth and Method
+link: https://en.wikipedia.org/wiki/Truth_and_Method
+date: 2016-11-30
+---
+
+[[2016]] / [[commonplace]] / 
+ 
+συνορᾶν (synhoran)
+
+german translation_gr: 
+
+zusammen sehen, mit ansehen, ansehen, ansichtig werden
+ 
+English: together-see, with-look at, look at, to be seen

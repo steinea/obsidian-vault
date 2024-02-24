@@ -8,6 +8,8 @@ link: https://newrepublic.com/article/134651/bros-homes
 date: 2016-07-03
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “The superiority of experiences has become our era’s reigning banality.”
 
 “This new minimalism doesn’t just promise improved leisure time, but professional success, too.”

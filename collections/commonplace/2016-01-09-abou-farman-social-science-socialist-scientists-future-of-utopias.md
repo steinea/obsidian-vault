@@ -8,6 +8,8 @@ link: http://blog.castac.org/2015/09/socialist-scientists/
 date: 2016-01-09
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “JD Bernal’s 1929 warning about “human dimorphism”: Bernal wondered about a future in which “mechanizers” would live an enhanced, technoscientifically-evolved form of life, separated from the “humanizers,” the masses whose physical needs would be equally gratified thanks to scientific advancements—but who would prefer to exist in an atavistic human way, enjoying mundanities such as friendliness, poetry, dancing, drinking, singing, and art.”
 
 “The word transhumanist was, in fact, coined by Bernal’s more famous acquaintance, Julian Huxley—Julian was Aldous’ socialist brother, who had his own visions of a quasi-eugenicist utopia.”

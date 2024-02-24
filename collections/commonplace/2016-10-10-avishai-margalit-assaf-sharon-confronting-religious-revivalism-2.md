@@ -8,6 +8,8 @@ link: https://bostonreview.net/forum/confronting-religious-revivalism/michael-wa
 date: 2016-10-10
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “The old maxim holds for all of us: keep trying. I am in favor of many parallel efforts. Let Margalit and Sharon take the high road of principled secularism, and I will take the low road of compromised secularism, and we will see who gets to the “disenchanted” state first. I hope that we succeed together.”
 
 “I agree, as well, that the goal has to be the utter defeat of the religious counterrevolution.”

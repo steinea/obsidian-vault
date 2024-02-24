@@ -8,6 +8,8 @@ link: https://ndpr.nd.edu/news/68693-a-process-philosophy-of-signs/
 date: 2016-08-10
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “In this book, James Williams develops his own approach to, and understanding of, what constitutes process and how this can be dealt with philosophically. All of this unfolds within a very careful and insightful reconfiguring of the status of signs.”
 
 “Williams makes it clear that the full sense of both his process philosophy and his account of signs will only appear gradually, becoming clearer and richer as his arguments and analyses develop. As a result, it is only though the discussion of different, even opposed, theories of the sign that his own stance will come to the fore.”

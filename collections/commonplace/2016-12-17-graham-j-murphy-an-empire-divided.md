@@ -8,6 +8,8 @@ link: https://lareviewofbooks.org/article/an-empire-divided/
 date: 2016-12-17
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “SPACE OPERA has a long and rich history within science fiction, but it has only started to achieve a degree of recognition and respectability over the last few decades.”
 
 “As David G. Hartwell and Kathryn Cramer write in their introduction to The Space Opera Renaissance (2007), the star-spanning subgenre “reentered the serious discourse on contemporary SF in the 1980s” and has since permitted writers “to embark on a science fiction project that is ambitious in both commercial and literary terms.””

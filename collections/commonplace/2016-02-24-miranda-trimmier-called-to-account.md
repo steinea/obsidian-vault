@@ -8,6 +8,8 @@ link: http://thenewinquiry.com/essays/called-to-account/
 date: 2016-02-24
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “Put simply, Miranda Joseph’s Debt to Society argues that we are made by capitalist accounting practices.”
 
 “Joseph’s “we” isn’t a 99-percent monolith but people who find themselves thrown into intimate relation because of the ways capital differentiates them by race, class, and gender.”

@@ -8,6 +8,8 @@ link: https://slate.com/culture/2012/06/prometheus-why-are-academics-so-obsessed
 date: 2016-03-10
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 (“Metaphors in the Aliens Trilogy,” Quarterly Journal of Speech, 1995). Even Jones the cat got his own diagram, courtesy of James H. Kavangh’s essay “Son of a Bitch: Feminism, Humanism, and Science in Alien” (October, No. 13, 1980), which sought to align the alien attack on humans with an Althusserian-Marxist takedown of humanism in general:
 
 	S <————————> —S

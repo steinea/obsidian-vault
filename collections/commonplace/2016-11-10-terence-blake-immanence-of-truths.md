@@ -8,6 +8,8 @@ link: https://terenceblake.wordpress.com/2016/11/10/badious-immanence-of-truths-
 date: 2016-11-10
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 1) Alain Badiou, Argument Seminar 2012-2013:
 
 “In BEING AND EVENT, published in 1988, I proposed a new theory (at least I think it is…) concerning the triplet of being, the subject and truth. It was a matter of showing that, under the condition of a chance (the event), and in a determinate situation, a creative process could be deployed, a process that is both infinite and of universal value, and that we had good reasons to call a truth. I further showed that the being of a truth is not different from that which constitutes the being of the situation where this truth arises, namely a multiplicity of multiplicities, whose possible thought is always mathematical in type (this is the equation : mathematics = ontology). There is thus no dualism, a truth is constructed of the same stuff as the place where it is progressively created. Lastly, I defined what a subject is — different from the individual in that it is always the subject of a truth — as the local differential point of a process of truth.

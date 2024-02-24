@@ -8,6 +8,8 @@ link: http://www.theatlantic.com/politics/archive/2016/03/how-will-young-people-
 date: 2016-03-20
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “People in their 20s and early 30s account for more than a third of the country’s “nones,” an academic nickname for the religiously disaffiliated.”
 
 “Religion is no longer the mode through which many people live their lives, and this relatively new state of affairs affects even those who remain religious: It opens up the possibility of beliefs and practices that are not simply inherited, but actively chosen.”

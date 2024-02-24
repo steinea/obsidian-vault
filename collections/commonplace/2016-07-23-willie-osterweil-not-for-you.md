@@ -8,6 +8,8 @@ link: http://thenewinquiry.com/essays/not-for-you/
 date: 2016-07-23
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “Studies on inequality tend to focus, with good reason, on income and wealth. But marketing, advertising, mass culture, retail trends, and other aspects of society that dominate our day-to-day lives outside work are driven by consumption — the money actually spent on goods and services, not put into investment, savings, taxes or debt repayment — which is reflected only indirectly by income or wealth.”
 
 “Unsurprisingly, inequality in consumption has also increased steadily across the past few decades, though this has happened at a necessarily less dramatic pace than income inequality — sustaining consumer demand is how capitalists recoup the wages they pay out.”

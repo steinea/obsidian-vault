@@ -8,6 +8,8 @@ link: https://aeon.co/opinions/huge-currency-zones-don-t-work-we-need-one-per-ci
 date: 2016-01-06
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “How many currencies does the world need? Actually, let’s make this more concrete. The euro was a colossal bet on the proposition that Europe, at any rate, needs only one. You will have noticed that the experiment is going badly.”
 
 “Historians of money as diverse as J K Galbraith, Jane Jacobs, Bernard Lietaer, and Niall Ferguson have pointed out that most of history was multi-currency, with distinct currencies linked to cities not countries.”

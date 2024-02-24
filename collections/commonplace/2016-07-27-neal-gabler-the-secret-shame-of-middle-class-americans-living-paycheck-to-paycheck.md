@@ -8,6 +8,8 @@ link: http://www.theatlantic.com/magazine/archive/2016/05/my-secret-shame/476415
 date: 2016-07-27
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “Financial impotence goes by other names: financial fragility, financial insecurity, financial distress. But whatever you call it, the evidence strongly indicates that either a sizable minority or a slim majority of Americans are on thin ice financially.”
 
 “How thin? A 2014 Bankrate survey, echoing the Fed’s data, found that only 38 percent of Americans would cover a $1,000 emergency-room visit or $500 car repair with money they’d saved.”

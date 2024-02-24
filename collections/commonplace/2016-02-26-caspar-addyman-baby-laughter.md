@@ -8,6 +8,8 @@ link: https://aeon.co/opinions/why-playing-peekaboo-with-babies-is-a-very-seriou
 date: 2016-02-26
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “Laughter and smiles transcend barriers of age, language and culture, and babies know this better than anyone. They don’t speak our language. They don’t share our culture; and they are at least a generation younger than us. All the same, we can easily share a laugh.”
 
 “while research in cognitive science has long recognised the importance of cuteness in early bonding, very few researchers have dug deeper.”

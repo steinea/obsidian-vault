@@ -8,6 +8,8 @@ link: http://reallifemag.com/in-the-eye-of-the-coder/
 date: 2016-07-14
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “a definitive, quantified measure of your appeal, as measured by the computer, the ultimate objective eye, but without the inherent competitiveness of being measured against other people”
 
 “But if “beauty is in the eye of the beholder,” as the aphorism has it, what happens when the beholder is a computer? What power does that seemingly objective beholder share with the beautiful, or the not beautiful? And what does the ability to be seen through a computer’s eyes say about the desire to be seen by our fellow humans?”

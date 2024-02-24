@@ -8,6 +8,8 @@ link: http://www.lostgarden.com/2016/11/autumn-of-indie-game-markets.html
 date: 2016-11-17
 --- 
 
+[[2016]] / [[commonplace]] / 
+ 
 “To everything there is a season, and game markets follow predictable patterns of growth, harvest and if you’ve been luckily enough, stockpiling for the coming frost.”
 
 “Historical context matters.”

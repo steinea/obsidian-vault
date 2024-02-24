@@ -8,4 +8,6 @@ link: https://lareviewofbooks.org/review/book-of-revelations/
 date: 2016-02-10
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 ““NOT EVERYTHING can survive translation,” said Shira Greene, when confronted for the first time since graduate school with an Italian manuscript and a blank page. “Hence the age-old notion that she who translates is both translator and traitor to the text: traduttore e traditore.””

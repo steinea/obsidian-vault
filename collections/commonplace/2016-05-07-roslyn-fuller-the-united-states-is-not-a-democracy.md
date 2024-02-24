@@ -8,6 +8,8 @@ link: https://lareviewofbooks.org/review/the-united-states-is-not-a-democracy/
 date: 2016-05-07
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “It all has to do with the root of the word “democracy,” which comes from two Greek words: “demos,” meaning “people,” and “kratos,” which translates as “power.” The original use of the word demokratia in ancient Greece therefore meant something like “people power” or, as some have translated it, “the capacity of the people to do things.””
 
 “The ancient Greeks took this “capacity of the people to do things” very seriously in the way they organized political life, and it is this form of democracy — not the modern one we are familiar with — that Paul Cartledge takes as his basis for Democracy: A Life.”

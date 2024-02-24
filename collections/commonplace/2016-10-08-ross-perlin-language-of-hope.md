@@ -8,6 +8,8 @@ link: https://lareviewofbooks.org/article/esperanto-language-of-hope-esther-scho
 date: 2016-10-08
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “It’s easy to see why the League was so enamored. Modern, efficient, progressive, Esperanto embodied a certain spirit of early 20th-century internationalism. Channeling what he called “the spirit of European languages,” Zamenhof had forged a hybrid of Romance, Germanic, and Slavic elements, streamlined for maximum transparency (no irregular verbs!) but distinctive and ingenious when it came to word formation.”
 
 “Chains of prefixes and suffixes work virtuoso wonders in Esperanto, with –eg- making anything bigger, -et- making anything smaller, and mal- turning anything into its opposite.”

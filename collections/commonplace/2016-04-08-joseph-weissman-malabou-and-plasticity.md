@@ -8,6 +8,8 @@ link: https://fractalontology.wordpress.com/2016/04/08/malabou/
 date: 2016-04-08
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “Catherine Malabou has created a meticulous and profound new concept of the brain.”
 
 “Malabou analyses the functions which neuroscience has discovered, conducting a contemporary synthesis of neuroplasticity, crystallizing a new concept which acts as a curious new abstract machine with many parts.”

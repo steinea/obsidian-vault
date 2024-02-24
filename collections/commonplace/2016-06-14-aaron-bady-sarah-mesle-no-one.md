@@ -8,6 +8,8 @@ link: https://lareviewofbooks.org/article/game-thrones-season-6-no-one/
 date: 2016-06-14
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “Violence, in this episode, was strange and complicated — but brutal, even when it was defused, or pushed aside, or displayed only obliquely.”
 
 “Yes! This episode was all about things happening somewhere else, about violence suggested and then… not happening, or happening off-screen. “Oh, the Blackfish? Yeah, he’s totally dead. So.””

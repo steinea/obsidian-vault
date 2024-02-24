@@ -8,6 +8,8 @@ link: https://aeon.co/opinions/human-evolution-is-more-a-muddy-delta-than-a-bran
 date: 2016-02-10
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “This approach yielded the now-ubiquitous image of the human family tree, with Homo sapiens – the one and only living hominid – sitting alone, seemingly inevitable, at the top. It’s a powerful metaphor, but it also turns out to be a deeply mistaken one. Where once we saw each branch in isolation, DNA evidence now reveals a network of connections.”
 
 “From an African origin more than 1.8 million years ago, human ancestors flowed into different populations, following separate paths for hundreds of thousands of years, yet still coming together to mix their genes.”

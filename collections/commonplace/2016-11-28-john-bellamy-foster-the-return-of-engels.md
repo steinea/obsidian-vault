@@ -8,6 +8,8 @@ link: https://www.jacobinmag.com/2016/11/engels-marx-ecology-climate-crisis-mate
 date: 2016-11-28
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “It was Engels, McLellan contended, who had introduced positivism into Marxism”
 
 “The very idea that Marx had “a methodology” was attributed to Engels, and hence declared false. Removed from his association with Engels and stripped of all determinate content, Marx was easily made acceptable to the status quo, as a kind of intellectual forerunner. As Carver recently put it, with no apparent sense of irony, “Marx was a liberal thinker.””

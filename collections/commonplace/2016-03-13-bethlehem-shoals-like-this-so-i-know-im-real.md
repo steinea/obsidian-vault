@@ -8,6 +8,8 @@ link: http://hazlitt.net/feature/so-i-know-im-real
 date: 2016-03-13
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “These new reactions aren’t contradictions, they’re all variations on that simple “I see you” of the “like.””
 
 “Despite the recent changes at Facebook, the “like” has very little to do with the actual emotional content of a response. It’s a simple nod in your direction. But it also serves as the ultimate validating gesture.”

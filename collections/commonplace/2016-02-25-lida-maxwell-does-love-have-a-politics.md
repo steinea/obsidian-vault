@@ -8,6 +8,8 @@ link: https://lareviewofbooks.org/essay/does-love-have-a-politics/
 date: 2016-02-25
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “IF FRIENDSHIP pulls us into the world, love tends to pull us out of it. We socialize with friends in public and semipublic settings, while love seems to demand that the world be kept at bay. In love, we focus, in a kind of tunnel vision, on the one who has become the beloved — taking in, even devouring, every detail of their person and life.”
 
 “This “worldlessness” of love, in Hannah Arendt’s words, has led thinkers like Arendt and Michael Warner to cast love as antipolitical.”

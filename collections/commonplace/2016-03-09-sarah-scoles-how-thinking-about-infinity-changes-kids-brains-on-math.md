@@ -8,6 +8,8 @@ link: https://aeon.co/opinions/how-thinking-about-infinity-changes-kids-brains-o
 date: 2016-03-09
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “According to the constructivist philosophy of education, built on the ideas of the late philosopher Ernst von Glasersfeld, this experience altered my brain’s perception of mathematics, even though it didn’t involve doing math in the traditional sense.”
 
 “The same is true of all experiential brushes with mathematical concepts, but no mathematical concept is more intense than infinity. Which makes infinity uniquely relevant to addressing some key concerns about modern education.”

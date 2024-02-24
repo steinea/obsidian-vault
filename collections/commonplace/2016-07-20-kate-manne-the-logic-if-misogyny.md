@@ -8,6 +8,8 @@ link: http://bostonreview.net/forum/kate-manne-logic-misogyny
 date: 2016-07-20
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “Whereas old-school misogynists condemn and punish women for their sexual powers and transgressions, this new kind of misogynist competes with other men for heterosexual dominance—and for the ladies.”
 
 “Trump’s misogyny is not the historical moralistic misogyny. Traditional misogyny blames women for the lustful, licentious and powerful urges that men sometimes feel in their presence. In this misogyny, women are the powerful, disgusting corrupters—the vixens, sirens and monsters.”

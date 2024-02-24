@@ -8,6 +8,8 @@ link: https://lareviewofbooks.org/review/type-slowly-word-processing-and-literar
 date: 2016-05-08
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “For those of us who’ve spent all or much of our writing lives in the era of personal computers, it’s sometimes hard to fathom the drudgery (and delegation) that went into the production of pre-digital books.”
 
 “In his new study, Track Changes: A Literary History of Word Processing, Matthew G. Kirschenbaum is especially concerned with how word processing has changed the embodied labor of writing — its actual tasks, tools, and physical demands — and with how literary writers have embraced, resisted, and interpreted that transformation.”

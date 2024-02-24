@@ -8,6 +8,8 @@ link: https://www.washingtonpost.com/news/the-fix/wp/2016/09/30/why-donald-trump
 date: 2016-09-30
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “While most American voters were asleep, Trump was up and tweeting about things that were making him angry.”
 
 “Trump is a Twitter addict and a night owl.”

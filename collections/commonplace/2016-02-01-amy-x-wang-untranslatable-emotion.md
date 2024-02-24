@@ -8,6 +8,8 @@ link: http://qz.com/605935/there-are-hundreds-of-positive-emotions-that-have-no-
 date: 2016-02-01
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 "There are hundreds of positive emotions that have no direct English translation"
 
 “Ah-un (Japanese): Unspoken communication between close friends”

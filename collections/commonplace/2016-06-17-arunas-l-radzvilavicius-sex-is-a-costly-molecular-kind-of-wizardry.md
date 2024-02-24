@@ -8,6 +8,8 @@ link: https://aeon.co/ideas/sex-is-a-costly-molecular-kind-of-wizardry-why-evolv
 date: 2016-06-17
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “At its heart, sex is a process of genetic mixing: it creates unique sets of genes and trait combinations different from either of the two parents.”
 
 “Evolutionary theorists agree that cloning, in many ways, is a more efficient mode of reproduction, which, in a world governed by the rules of natural selection, should readily outcompete sex.”

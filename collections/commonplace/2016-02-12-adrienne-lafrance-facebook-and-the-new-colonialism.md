@@ -8,6 +8,8 @@ link: http://www.theatlantic.com/technology/archive/2016/02/facebook-and-the-new
 date: 2016-02-12
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 ““Anti-colonialism has been economically catastrophic for the Indian people for decades,” Andreessen wrote. “Why stop now?””
 
 “The kerfuffle elicited a torrent of criticism for Andreessen, but the connection he made—between Facebook’s global expansion and colonialism—is nothing new.”

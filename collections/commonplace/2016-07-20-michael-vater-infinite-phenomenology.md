@@ -8,6 +8,8 @@ link: https://ndpr.nd.edu/news/67644-infinite-phenomenology-the-lessons-of-hegel
 date: 2016-07-20
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “J.N. Findlay remarked that it was not worth the effort to read the 19th and 20th century British Idealists as heirs of Kant or Hegel because their grand systems smacked too much of empire, colonialism, and Eurocentrism. The march of abstract categories to the triumph of the Universal was just too systematic, and reason far too hegemonic for the power of the negative and the persistence of the particular (‘ethicality’) to manifest their true force.”
 
 “Following French 20th century interpretations of Hegel instead, which increasingly focused on the Phenomenology rather than the Encyclopedia of Philosophical Sciences, Russon produces a reading of Hegel attuned not to a false beyond of an imagined universality, but to the stickiness of particularity as we experience it.”

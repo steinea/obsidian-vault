@@ -8,6 +8,8 @@ link: https://lareviewofbooks.org/essay/the-limits-of-absurdity/
 date: 2016-03-23
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “Jean-Paul Sartre, had preceded him to New York in 1945. Playing the role of existentialism’s John the Baptist, Sartre spoke at great length about Camus to a reporter from, of all places, the American edition of Vogue.”
 
 “Liebling noted in his “Talk of the Town” article, “M. Camus seemed unduly cheerful.” When Liebling asked why, Camus replied: “Just because you have pessimistic thoughts, you don’t have to act pessimistic. One has to pass the time somehow. Look at Don Juan.””

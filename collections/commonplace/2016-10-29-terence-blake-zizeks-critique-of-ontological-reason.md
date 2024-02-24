@@ -8,6 +8,8 @@ link: https://terenceblake.wordpress.com/2016/10/27/reading-disparities-8-zizeks
 date: 2016-10-29
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 Reading DISPARITIES (8)
 
 “Zizek agrees with Althusser’s thesis that philosophy is class struggle in the field of theory, and specifies that here it is a question of a “struggle against the different forms of obfuscating disparity”. He favours division and struggle rather than dialogue and consensus. He wishes to draw a line of demarcation between the deployment of disparity (or “ontological difference”) and its obfuscation.”

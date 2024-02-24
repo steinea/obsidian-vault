@@ -8,6 +8,8 @@ link: http://www.theatlantic.com/science/archive/2016/02/what-made-ancient-athen
 date: 2016-02-10
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “But the apex of their civilization, sandwiched between two wars, lasted just 24 years—in human history, a lightning flash across the summer sky.
 
 For much of its history, Athens was either preparing for war, at war, or recovering from war. But in the window between the Persian and Peloponnesian Wars, from 454 to 430 B.C., the city was at peace, and it flourished.”

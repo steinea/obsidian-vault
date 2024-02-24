@@ -8,6 +8,8 @@ link: http://thenewinquiry.com/essays/speaking-in-tongues/
 date: 2016-06-28
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “Then he spent the rest of the night with her in embracing and clipping, plying the particle of copulation in concert and joining the conjunctive with the conjoined, whilst her husband was a cast-out nunnation of construction. —Arabian Nights, 1706”
 
 “It follows that the collusion of grammar (of rhetoric or scholasticism) and the erotic is not only ‘funny’; it marks out with precision and seriousness a transgressive site where two taboos are lifted: that of language and that of sex. —Roland Barthes, “The Old Rhetoric,” 1970”

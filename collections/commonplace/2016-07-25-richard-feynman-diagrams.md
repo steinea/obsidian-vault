@@ -8,6 +8,8 @@ link: https://simple.wikipedia.org/w/index.php?title=Feynman_diagram&oldid=53892
 date: 2016-07-25
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 In this Feynman diagram, an electron and positron destroy each other, producing a virtual photon which becomes a quark-antiquark pair. Then one radiates a gluon
 
 A Feynman diagram is a diagram that shows what happens when elementary particles collide.[1]

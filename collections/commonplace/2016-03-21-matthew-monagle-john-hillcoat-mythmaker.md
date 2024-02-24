@@ -8,6 +8,8 @@ link: https://lareviewofbooks.org/essay/john-hillcoat-mythmaker/
 date: 2016-03-21
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “For fans of Hillcoat’s work, the timing of this release is more than a little serendipitous; this June marks the 10th anniversary of The Proposition, a revenge Western that launched the director to international acclaim and a career outside his native Australia. In the decade since The Proposition, Hillcoat has regularly returned to the mythic properties of his most successful feature; the subsequent release of The Road (2009) and Lawless (2012) formed a loose trilogy that focused on the permeability of historical eras and the “frontier myth” of the American Western.”
 
 “What makes a Western? While film scholars have offered a number of answers to this question — drawing upon structuralist analyses and reception histories alike — we might start where Matthew Carter does, with the frontier myth. In his book Myth of the Western: New Perspectives on Hollywood’s Frontier Narrative (2014), Carter describes the original frontier myth as a projection of American exceptionalism, of men and women who traveled west to bring order to the wilderness of America.”

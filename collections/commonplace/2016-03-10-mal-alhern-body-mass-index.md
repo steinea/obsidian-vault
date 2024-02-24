@@ -8,6 +8,8 @@ link: http://thenewinquiry.com/essays/body-mass-index/
 date: 2016-03-10
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “Of all the troubles Bullock faces, her own body is rarely one of them. Like most action heroes, she’s immune to the baser functions that plague the rest of us.”
 
 “In the postfeminist idiom of magazine journalism, it apparently reads as progressive to lavish praise on the physique of an accomplished 49-year-old woman. Better her than Her; at least Bullock has a body. “Her body was sick,” Juli Weiner wrote in Vanity Fair.”

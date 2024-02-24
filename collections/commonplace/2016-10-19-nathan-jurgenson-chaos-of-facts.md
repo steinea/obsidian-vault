@@ -8,6 +8,8 @@ link: http://reallifemag.com/chaos-of-facts/
 date: 2016-10-19
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “The candidates are brands, and the debates have almost no discussion of ideas or positions, let alone much bearing on what being president actually requires. Instead, debates signify “politics” while allowing for depoliticized analysis”
 
 “Then, after nearly a decade of a president who was a movie actor, Joan Didion’s dispatch from the 1988 campaign trail, “Insider Baseball,” described presidential campaigns as merely media events, made to be covered by specialists “reporting that which occurs only in order to be reported” — a reiteration of Boorstin’s concept of the “pseudo-event.””

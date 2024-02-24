@@ -8,6 +8,8 @@ link: http://www.nybooks.com/articles/2016/08/18/hot-sex-young-girls/
 date: 2016-08-22
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “American Girls: Social Media and the Secret Lives of Teenagers
 by Nancy Jo Sales”
 

@@ -8,6 +8,8 @@ link: https://en.wikipedia.org/wiki/Isaiah_25
 date: 2016-04-24
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 O Lord, you are my God;
 <br>I will exalt you, I will praise your name;
 <br>for you have done wonderful things,

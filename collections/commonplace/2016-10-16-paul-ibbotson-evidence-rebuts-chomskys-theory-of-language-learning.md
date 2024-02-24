@@ -8,6 +8,8 @@ link: http://www.scientificamerican.com/article/evidence-rebuts-chomsky-s-theory
 date: 2016-10-16
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “The research suggests a radically different view, in which learning of a child’s first language does not rely on an innate grammar module.”
 
 

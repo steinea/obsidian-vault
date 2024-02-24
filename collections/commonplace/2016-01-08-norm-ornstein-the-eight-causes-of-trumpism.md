@@ -8,6 +8,8 @@ link: http://www.theatlantic.com/politics/archive/2016/01/the-eight-causes-of-tr
 date: 2016-01-08
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “Trump and a broader phenomenon—call it Trumpism—are stronger and deeper than most veteran political analysts realized or were willing to acknowledge.”
 
 “They are neither immediate nor transitory phenomena. The disdain for the status quo, for authority figures of both parties and other institutions, and the anger at inexorable changes in society, are real, enduring, and especially deep on the Republican side.”

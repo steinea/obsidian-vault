@@ -8,6 +8,8 @@ link: https://bostonreview.net/books-ideas/gregory-jones-katz-deconstruction-ame
 date: 2016-10-09
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “Central to the story of deconstruction, but often neglected, are the various American contexts that cultivated and disseminated deconstructive undertakings.”
 
 “Even though the image—to some, the bogeyman—of the European theorist persists, the truth is that deconstructive literary theory was largely an indigenous creation.”

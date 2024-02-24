@@ -8,6 +8,8 @@ link: https://ndpr.nd.edu/news/66679-freedom-and-self-creation-anselmian-liberta
 date: 2016-07-23
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “Rogers wishes to introduce into the free will debate a new (old) position, Anselmian libertarianism.”
 
 “As she reads Anselm, created agents such as human beings and angels must be capable of at least a limited form of self-creation and this requires creaturely aseity: God cannot be the direct creator of (all) their choices, but (some of) their choices must flow strictly from themselves alone, in latin "a se".”

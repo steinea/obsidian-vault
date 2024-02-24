@@ -8,6 +8,8 @@ link: http://blog.castac.org/2016/05/anthro-class/
 date: 2016-05-12
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “my copy of Latour and Woolgar’s (1986[1979]) Laboratory Life has been unpacked four times since I finished my Ph.D.”
 
 “Treating science as a cultural process, aesthetic, or institution presents distinctive challenges for the anthropology classroom. Science may seem too close to home on the college campus for anthropology’s new student initiates. This semester I worked with prospective converts to the anthropological cause in a mid-level course pitched as “Science and Politics” alongside a more advanced undergraduate offering with one of those older anthropological titles, “Magic, Witchcraft, and Religion.””

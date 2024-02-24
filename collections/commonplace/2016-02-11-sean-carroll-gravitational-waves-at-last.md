@@ -8,6 +8,8 @@ link: http://www.preposterousuniverse.com/blog/2016/02/11/gravitational-waves-at
 date: 2016-02-11
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “Our universe is mind-bogglingly vast, complex, and subtle. It is also fantastically, indisputably knowable.”
 
 “I don’t want to be complacent about it, however. The fact that Einstein’s prediction has turned out to be right is an enormously strong testimony to the power of science in general, and physics in particular, to describe our natural world. Einstein didn’t know about black holes; he didn’t even know about lasers, although it was his work that laid the theoretical foundations for both ideas.”

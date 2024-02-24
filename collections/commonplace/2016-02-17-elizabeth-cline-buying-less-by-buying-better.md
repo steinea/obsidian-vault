@@ -8,6 +8,8 @@ link: http://www.theatlantic.com/business/archive/2016/02/buying-less-by-buying-
 date: 2016-02-17
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “According to a recent survey commissioned by the British charity Barnardo’s, a majority of women’s garments are worn a mere seven times before being pushed to the back of the closet or tossed into the garbage.”
 
 “Combatting this wastefulness is at the heart of a growing number of clothing brands offering alternatives to so-called “fast fashion,” the trendy, throwaway method of selling clothes pioneered by companies such as H&M, and the cultural force to blame for the world’s overflowing and underutilized closets. Among the other startups positioning themselves as durable and ethical alternatives to throwaway fads are the online retailers Zady, Cuyana, Of a Kind, Everlane, and The 30 Year Sweatshirt.”

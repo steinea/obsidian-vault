@@ -8,6 +8,8 @@ link: https://terenceblake.wordpress.com/2016/11/10/badiou-the-one-the-infinite-
 date: 2016-11-10
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “In the introduction to his seminar L’INFINI: ARISTOTE, SPINOZA, HEGEL (1984-1985) Badiou lists eight fundamental theses concerning the concepts of the One and the Infinite.”
 
 “Three are contained in BEING AND EVENT (1988) :”

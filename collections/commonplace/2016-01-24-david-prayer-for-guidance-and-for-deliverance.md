@@ -8,6 +8,8 @@ link: https://en.wikipedia.org/wiki/Psalm_25
 date: 2016-01-24
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 Of David.
 
 1 To you, O Lord, I lift up my soul.

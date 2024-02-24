@@ -8,6 +8,8 @@ link: http://www.newyorker.com/science/maria-konnikova/the-secret-formula-for-re
 date: 2016-05-07
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “Resilience presents a challenge for psychologists. Whether you can be said to have it or not largely depends not on any particular psychological test but on the way your life unfolds.”
 
 “If you are lucky enough to never experience any sort of adversity, we won’t know how resilient you are. It’s only when you’re faced with obstacles, stress, and other environmental threats that resilience, or the lack of it, emerges: Do you succumb or do you surmount?”

@@ -8,6 +8,8 @@ link: https://www.marxists.org/reference/archive/habermas/1968/theory-knowledge.
 date: 2016-03-11
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “The greatness of Hegel’s phenomenology and its end result-the dialectic of negativity as motive and productive principle-is thus ... that Hegel grasps the self-generation of man as a process, objectification as de-objectification, as alienation and the overcoming of this alienation; in other words, that he grasps the essence of labour and comprehends objective man, who is true man because of his reality, as the result of his own labour. [Marx, Critique of Hegel’s Philosophy in General]”
 
 

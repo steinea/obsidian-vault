@@ -8,6 +8,8 @@ link: https://lareviewofbooks.org/review/a-peculiar-oceanography/
 date: 2016-02-15
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “WHEN YOU HEAR someone arguing that scientific knowledge is limited, you could be excused for expecting to find a creationist or a tobacco industry spokesperson. Instead, here we have a distinguished Ivy League physicist contending that science gives us only a fraction of reality. In The Island of Knowledge, Marcelo Gleiser wants to forge a third way between scientism and obscurantism whereby we can embrace both the power and incompleteness of science.”
 
 “Many people suggest we should trust science because it is almost finished — final explanations for everything from quarks to consciousness are here or just around the corner. As Gleiser tells us, this is a dangerously distorted perspective. He provides a compelling list of reasons to think that science is not done and, indeed, that it will never be done. Some of these reasons are technical, some conceptual. As our instruments improve, we will see things that we cannot even conceive of now. The limitation of light speed and our particular location in the history of the universe mean that we can only observe a tiny slice of the cosmos. Gödel’s incompleteness theorems and the halting problem keep us from any mathematical road to final truth.”

@@ -8,6 +8,8 @@ link: http://geoffboeing.com/2015/03/chaos-theory-logistic-map/
 date: 2016-03-10
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “Chaos theory is a branch of mathematics that deals with nonlinear dynamical systems.”
 
 “A system is just a set of interacting components that form a larger whole.”

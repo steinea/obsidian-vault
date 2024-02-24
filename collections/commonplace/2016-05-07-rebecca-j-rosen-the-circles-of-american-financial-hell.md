@@ -8,6 +8,8 @@ link: http://www.theatlantic.com/business/archive/2016/05/american-financial-hel
 date: 2016-05-07
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “For people earning between $40,000 and $100,000 (i.e. not the very poorest), 44 percent said they could not come up with $400 in an emergency (either with cash or with a credit card whose bill they could pay off within a month). Even more astonishing, 27 percent of those making more than $100,000 also could not. This is not poverty. So what is it?”
 
 “As people move up the income ladder, they escape material shortages and consume more. They have “things”—goods, houses, and, most importantly, education—to show for their higher earnings, but they do not have healthy finances.”

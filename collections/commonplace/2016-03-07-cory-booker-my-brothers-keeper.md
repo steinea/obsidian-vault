@@ -8,6 +8,8 @@ link: http://www.theatlantic.com/politics/archive/2016/03/my-brothers-keeper/471
 date: 2016-03-07
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “I was 29. I had just been elected to the Central Ward council seat in an upset. I had beaten an incumbent who was more than 40 years my senior and had held the seat for 16 years. I was a year out of law school, where I had spent a lot of time sitting in classes—but not like this one. Those classes were in ivy-covered buildings, modern and comfortable, with very few black men. Those classes did not fully explore how the broken legal system damages communities such as Newark. I felt that every law-school student should see rooms like that one in the Willie T. Wright Apartments—that America should see.”
 
 “I was holding the free clinic to help men learn how to expunge their records. Expungement, in the criminal-justice sense, means to clear one’s record.”

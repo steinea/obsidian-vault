@@ -8,6 +8,8 @@ link: https://www.marxists.org/reference/archive/althusser/1962/overdeterminatio
 date: 2016-01-25
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “We cannot go on reiterating indefinitely approximations such as the difference between system and method, the inversion of philosophy or dialectic, the extraction of the ‘rational kernel’, and so on, without letting these formulae think for us, that is, stop thinking ourselves and trust ourselves to the magic of a number of completely devalued words for our completion of Marx’s work”
 
 “On the other hand, anyone who wants to attack it, even if the odds are apparently against him, need only discover this one weakness to make all its power precarious. So far there is no revelation here for readers of Machiavelli and Vauban, who were as expert in the arts of the defence as of the destruction of a position, and judged all armour by its faults.”

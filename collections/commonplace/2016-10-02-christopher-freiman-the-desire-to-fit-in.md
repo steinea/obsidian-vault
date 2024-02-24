@@ -8,6 +8,8 @@ link: https://aeon.co/ideas/the-desire-to-fit-in-is-the-root-of-almost-all-wrong
 date: 2016-10-02
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “Notice that Plato assumes that we stray from the moral path through being tempted by personal gain – that’s why he tries to show that virtue is more valuable than the gold we can get through vice. He isn’t alone in making this assumption. In Leviathan (1651), Thomas Hobbes worries about justifying morality to the ‘fool’ who says that ‘there is no such thing as justice’ and breaks his word when it works to his advantage. And when thinking about our reasons to prefer virtue to vice, in his Enquiry Concerning the Principles of Morals (1751) David Hume confronts the ‘sensible knave’, a person tempted to do wrong when he imagines ‘that an act of iniquity or infidelity will make a considerable addition to his fortune’.”
 
 “Some of history’s greatest philosophers, then, agree that wrongdoing tends to be motivated by self-interest. Alas, I’m not one of history’s greatest philosophers.”

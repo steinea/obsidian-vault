@@ -8,6 +8,8 @@ link: https://lareviewofbooks.org/review/empire-nation-and-time/
 date: 2016-03-08
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “BENEDICT ANDERSON, in Imagined Communities, suggests that the novel is a product of national culture.”
 
 “Through the simultaneous unfolding of multiple plotlines involving multitudes of characters existing in “homogeneous empty time,” the novel creates a nation and its people. The novel’s readers become aware of history as a communal experience, occurring in multiple places at once.”

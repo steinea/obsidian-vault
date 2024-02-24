@@ -8,6 +8,8 @@ link: https://aeon.co/essays/why-life-is-not-a-thing-but-a-restless-manner-of-be
 date: 2016-01-11
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “Russell posited a whole new geological phenomenon to explain it: undersea hydrothermal hotspots where mineral-rich water spewed from Earth’s interior and then precipitated in the cool surrounding water, creating chemical gardens of towering, hollow rocks growing up from the ocean floor.
 
 That was a huge intuitive leap, but it soon led Russell to an even more outlandish thought. ‘I had the epiphany that life emerged from those rocks,’ he said.”

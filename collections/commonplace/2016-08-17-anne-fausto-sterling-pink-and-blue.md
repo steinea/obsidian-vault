@@ -8,6 +8,8 @@ link: http://bostonreview.net/wonders/anne-fausto-sterling-trans-kids
 date: 2016-08-17
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “children do not begin life with a sense of body permanence”
 
 “At first they don’t even see their future as species specific. Gradually during their first five years or so, they come to understand that, except for increasing in size, their bodies will not change into something utterly different”

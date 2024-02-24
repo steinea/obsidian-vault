@@ -8,6 +8,8 @@ link: http://www.theatlantic.com/politics/archive/2016/05/parenting-theology/480
 date: 2016-05-02
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “We have our texts that guide our thinking, and we have the rabbis and the teachers throughout the ages who have commented on the primary texts, and we have logical reasoning and philosophy. The tradition hasn’t always known what to do with experience that isn’t mediated through those things, like being in a relationship or having children.”
 
 “Women’s work with bodies and fluids is not just “not holy,” but profane. Not just “soft,” but really not a part of spiritual life.”

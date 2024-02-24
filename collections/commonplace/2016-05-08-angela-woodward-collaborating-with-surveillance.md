@@ -8,6 +8,8 @@ link: https://lareviewofbooks.org/review/collaborating-with-surveillance-wolfgan
 date: 2016-05-08
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “NOW, IN THE ERA of unabashed and unprecedented mass surveillance, is the time to read East German literature.”
 
 “New translations in 2015 brought us two extraordinary books by East German writer Wolfgang Hilbig, the story collection The Sleep of the Righteous and his novel about a Stasi informant, ‘I’. Hilbig’s brooding, lyrical prose brings the pettiness and squalor of the security state to life.”

@@ -8,6 +8,8 @@ link: http://bostonreview.net/noam-chomsky-responsibility-of-intellectuals-redux
 date: 2016-10-09
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “intellectuals as defenders of justice, confronting power with courage and integrity”
 
 “Who then were the intellectuals? The minority inspired by Zola (who was sentenced to jail for libel, and fled the country)? Or the immortals of the academy? The question resonates through the ages, in one or another form, and today offers a framework for determining the “responsibility of intellectuals.””

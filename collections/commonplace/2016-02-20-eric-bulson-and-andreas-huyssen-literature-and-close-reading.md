@@ -8,6 +8,8 @@ link: http://lareviewofbooks.org/interview/literature-and-close-reading/
 date: 2016-02-20
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “ANDREAS HUYSSEN, whose name is widely recognized, though regularly mispronounced and misspelled, has been writing about modernism and postmodernism for more years than he’d like to admit. At Columbia University, he continues to teach a legendary course on Frankfurt School Critical Theory — a major body of work by 20th-century German intellectuals — that confounds, inspires, and enlightens undergraduate and graduate students alike. I was among those lucky enough to watch him unpack Georg Lukács’s masterpiece, History and Class Consciousness, and follow it up with a robust explanation for why the debates about aesthetics and politics between Lukács and Theodor Adorno, Walter Benjamin, and Bertolt Brecht, are as urgent today as ever.”
 
 “Modernist miniatures are short prose texts written for little magazines or newspaper feuilletons (arts supplements) by major German, French, and Austrian modernists. Always published in groups, they reflect on the fleeting experiences of modern city life, especially as it was shaped by the arrival of photography and early cinema. As such, they register the resulting historical transformation in perceptions of time and space in the later 19th and earlier 20th centuries. These feuilleton texts, which we now read in book form — for example, Baudelaire’s Le Spleen de Paris or Benjamin’s One-Way Street — sought to capture the visceral feeling of acceleration and compression, social conflict, and cultural upheaval that defined urban existence.”

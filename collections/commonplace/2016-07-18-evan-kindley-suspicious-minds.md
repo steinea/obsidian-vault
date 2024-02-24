@@ -8,6 +8,8 @@ link: https://nplusonemag.com/issue-25/reviews/suspicious-minds-2/
 date: 2016-07-18
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “Luc Boltanski is, himself, a slightly mysterious figure, at least to American readers. A star pupil of Pierre Bourdieu’s in the late 1970s, he has since established himself internationally as a powerful social theorist in his own right. His idiosyncratic body of work on subjects including class formation, love, theology, decision-making, capitalism, trade unions, philosophy, the left after May ’68, TV news, comic strips, and abortion has been gradually appearing in En-glish translation over the course of the past two decades.”
 
 “Mysteries & Conspiracies is yet another surprise in an endlessly surprising oeuvre: it is, at least in part, a work of literary criticism. In it Boltanski deals with endlessly rich source material — the canon of French and English detective and spy fiction from roughly 1880 to 1970 — and draws knowledgeably on scholarly predecessors like Siegfried Kracauer, Umberto Eco, and Carlo Ginzburg.”

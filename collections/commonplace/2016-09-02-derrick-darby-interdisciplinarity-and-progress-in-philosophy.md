@@ -8,6 +8,8 @@ link: http://dailynous.com/2016/09/02/interdisciplinarity-progress-philosophy/
 date: 2016-09-02
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “I am trying to establish an alternative to the race consciousness championed by the American left and the colorblindness defended by the American right.”
 
 “Doing justice to this question has required venturing outside the disciplinary boundaries of philosophy, seeking knowledge from elsewhere and in collaboration with other scholars laboring on the race problem.”

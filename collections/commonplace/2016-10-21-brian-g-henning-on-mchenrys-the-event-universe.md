@@ -8,6 +8,8 @@ link: https://ndpr.nd.edu/news/70867-the-event-universe-the-revisionary-metaphys
 date: 2016-10-21
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “After decades of careful and productive philosophical work, it may be that the seams of descriptive metaphysics have been all but mined out. Fortunately, as Leemon B. McHenry beautifully illustrates, after more than a half-century of slumber the speculative impulse has been reawakened.”
 
 “McHenry is attempting, fallibly if not immodestly, nothing less than "a general theory of the world" (vii). Building on the work of Bertrand Russell, W. V. O. Quine, and, most especially, Alfred North Whitehead, the author's aim is to frame an event ontology that is fully consistent with contemporary physics, especially physicists' attempts to create a unified theory or so-called Theory of Everything (TOE). For those readers who are eager to place this pigeon in its proper hole, McHenry characterizes his project as revisionary, naturalistic, and realistic.”

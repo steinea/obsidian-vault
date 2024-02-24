@@ -8,6 +8,8 @@ link: https://lareviewofbooks.org/article/heavy-metal-parking-lot-and-the-meanin
 date: 2016-09-01
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “Viewers see behavior that’s definitely juvenile and often illegal. But is it really rebellion or simply a desperate performance? What’s the value of performing rebellion?”
 
 “the concertgoers are performing rather than practicing radical behavior”

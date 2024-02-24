@@ -8,6 +8,8 @@ link: https://lareviewofbooks.org/review/embarrassing-ourselves/
 date: 2016-07-18
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “Like other seismic events of thought, Derrida’s insight is quite simple, yet in its very simplicity hard to grasp.”
 
 “Identities in general (of whatever kind, at whatever level) arise out of difference, but difference is not itself any identity or indeed any thing at all. It is not that there are first things, and then differences and relations between them: the “things” emerge only from the differences and relations, which have an absolute priority, and that emergence is never complete.”

@@ -8,6 +8,8 @@ link: http://www.thewhitereview.org/features/the-prosaic-sublime-of-bela-tarr/
 date: 2016-03-10
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “I have to recognise it’s cosmical; the shit is cosmical. It’s not just social, it’s not just ontological, it’s really huge. And that’s why we expand. (Béla Tarr, 2007)”
 
 “Jonathan Rosenbaum, the American film critic, has dubbed Tarr a ‘despiritualised Tarkovsky’. I find him a less lapsed and more conflicted creature: a hopeful cynic or scatological mystic, whose films are as aggressively earthbound as they are inspiring.”

@@ -8,6 +8,8 @@ link: http://thenewinquiry.com/blogs/marginal-utility/the-overload/
 date: 2016-05-02
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “Not only can’t we curate our information feeds, but we can’t curate our personal desires, so we welcome ads and algorithms to solve the overwhelming problem for us.”
 
 “Using social media that implements an algorithmically curated feed reinforces for users that they shouldn’t be expected to deliberate over any desires or guide their own information-search processes. Such platforms teach users helplessness.”

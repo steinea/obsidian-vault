@@ -8,6 +8,8 @@ link: http://www.theatlantic.com/science/archive/2016/02/phantom-limbs-explain-c
 date: 2016-02-05
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “The reason for the phantom is both simple and profound. The brain constructs a model of the self that neuroscientists call the body schema. The body schema is a simulation.”
 
 “It takes in touch, vision, and baseline information about what’s connected to what, and builds a virtual model of your body.”

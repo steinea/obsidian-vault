@@ -8,6 +8,8 @@ link: http://reallifemag.com/pajama-rich/
 date: 2016-08-30
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “The size of the market for athleisure — a coinage officially adopted into Merriam-Webster’s lexicon this April — grew five percent each year between 2009 and 2014, from $54 billion to $68 billion.”
 
 “It is not simply ease or convenience that puts women in athleisure. The look physically connects us to an ideal. Social psychologists have coined the expression “enclothed cognition” to describe “the systematic influence that clothes have on a wearer’s psychological process.””

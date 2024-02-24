@@ -8,6 +8,8 @@ link: https://www.laphamsquarterly.org/lines-work/what-human-becomes-animal
 date: 2016-05-01
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 "It is true that labor produces for the rich wonderful things—but for the worker it produces privation. It produces palaces—but for the worker, hovels. It produces beauty—but for the worker, deformity. It replaces labor by machines—but some of the workers it throws back to a barbarous type of labor, and the other workers it turns into machines. It produces intelligence—but for the worker idiocy, cretinism."
 
 "The direct relationship of labor to its produce is the relationship of the worker to the objects of his production. The relationship of the man of means to the objects of production and to production itself is only a consequence of this first relationship—and confirms it."

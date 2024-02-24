@@ -8,6 +8,8 @@ link: http://www.preposterousuniverse.com/blog/2013/05/21/time-born-again/
 date: 2016-02-15
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 ““Time” is something that physicists understand quite well. Quantum gravity remains mysterious, of course, so it’s possible that the true status of time in the fundamental ontology of the world is something that remains to be discovered. But as far as how time works at the level of observable reality, we’re in good shape. Relativity has taught us how to deal with time that is non-universal, and it turns out that’s not such a big deal. The arrow of time—the manifold differences between the past and future – is also well-understood, as long as one swallows one giant fine-tuning: the extreme low entropy of the early universe. Given that posit, we know of nothing in physics or cosmology or biology or psychology that doesn’t fit into our basic understanding of time.”
 
 “But the early universe is a real puzzle. Is it puzzling enough, as Smolin suggests, to demand a radical re-thinking of how we conceive of time? He summarizes his view by saying “time is real,” but by “time” he really means “the arrow of time” or “an intrinsic directedness of physical evolution,” and by “real” he really means “fundamental rather than emergent.” (Opposing “real” to “emergent” is an extremely unfortunate vocabulary choice, but so be it.)”

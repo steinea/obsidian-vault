@@ -8,6 +8,8 @@ link: https://aeon.co/ideas/the-link-between-language-and-cognition-is-a-red-her
 date: 2016-07-05
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “It is far too easy to invent post-hoc reasons for one’s behaviour, to be silent about one’s sexual habits, to downplay excessive eating or drinking, or to present oneself as more admirable than one really is.”
 
 “Now that I think of it, my distrust of language goes even deeper, because I am also unconvinced of its role in the thinking process. I am not sure that I think in words, and I never seem to hear any inner voices. This caused a bit of an embarrassment once at a meeting about the evolution of conscience, when fellow scholars kept referring to an inner voice that tells us what is right and wrong. I am sorry, I said, but I never hear such voices.”

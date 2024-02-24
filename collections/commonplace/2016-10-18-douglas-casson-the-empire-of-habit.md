@@ -8,6 +8,8 @@ link: https://ndpr.nd.edu/news/70560-the-empire-of-habit-john-locke-discipline-a
 date: 2016-10-18
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “By resisting the power of habitual associations, such individuals exhibit a freedom "which few men have the notion of in themselves, and fewer are allowed the practice of by others." (CU §41). Intellectual freedom, for Locke, involves contesting the empire of habit.”
 
 “Yet, as John Baltes observes, Locke not only celebrates resistance to habit's power, he also deploys that power for his own purposes.”

@@ -8,6 +8,8 @@ link: http://www.apadivisions.org/division-39/publications/reviews/assembly.aspx
 date: 2016-07-23
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “Harris challenges her readers to engage in their own thinking with the detailed information she provides on developmental theories, chaos theory, gender development, psycholinguistics, attachment theory and developmental psycholinguistics.”
 
 “Harris explains that she was trained in her early professional life as a developmental psychologist who was never taught to think of development in terms of linear, unfolding structures but rather in terms of functional and dynamically transformational processes.”

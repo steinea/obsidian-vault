@@ -8,6 +8,8 @@ link: https://lareviewofbooks.org/article/political-surrealism-surreal-politics/
 date: 2016-12-26
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “WHAT IS THE RELATIONSHIP between radical aesthetic practices and actual political radicalism?”
 
 “There are many — and various — answers to this question. One of the most interesting is suggested by a famous exchange between Lenin and the Romanian-Jewish writer Valeriu Marcu.”

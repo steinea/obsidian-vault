@@ -8,6 +8,8 @@ link: http://www.e-flux.com/journal/74/59816/contra-internet/
 date: 2016-07-20
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 Internet
 
 1. an architecture or structure of power coexstensive with the space of the social

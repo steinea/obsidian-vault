@@ -8,6 +8,8 @@ link: http://www.theparisreview.org/blog/2016/07/12/via-activa/
 date: 2016-07-17
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “At our best, we emulated the Review's founder and editor, George Plimpton, who, I now see, was an exemplar of a mid-twentieth-century ideal of vigorous masculinity.”
 
 “He was athletic enough for journalistic stunts, like playing quarterback for the Detroit Lions, boxing against Archie Moore, standing in as goalie in a hockey game, and taking a few turns on a circus trapeze, all of which he recounted in brilliantly hilarious books. His was an ethos of play—of recreation rather than training. And so he maintained a strong tennis game well into his sixties; he liked bird watching; he never took a taxi or the subway (let alone drove a car) when he could bike instead. But running or lifting weights, anything that might unduly spike the heart rate or tax the muscles, was out of the question: they would have interfered with the nightly revelry.”

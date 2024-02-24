@@ -8,6 +8,8 @@ link: https://www.jacobinmag.com/2016/05/ethiopia-addis-ababa-development-midroc
 date: 2016-07-10
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “Ethiopia has a new nickname: “The African Lion.” Like China (“The Asian Dragon”), Ethiopia’s economy is growing: 10 percent annually from 2003 to 2014.”
 
 “But the moniker also has less savory connotations. Ethiopia’s economic expansion is taking place against a backdrop of privatization, immiseration, and incursions on democratic rights.”

@@ -8,6 +8,8 @@ link: https://www.marxists.org/reference/archive/debord/society.htm
 date: 2016-01-18
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “But certainly for the present age, which prefers the sign to the thing signified, the copy to the original, representation to reality, the appearance to the essence... illusion only is sacred, truth profane.”
 
 “Nay, sacredness is held to be enhanced in proportion as truth decreases and illusion increases, so that the highest degree of illusion comes to be the highest degree of sacredness.”

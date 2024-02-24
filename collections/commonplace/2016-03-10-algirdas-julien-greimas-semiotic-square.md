@@ -8,6 +8,8 @@ link: https://en.wikipedia.org/wiki/Semiotic_square
 date: 2016-03-10
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 Oxford Reference, Semiotic Square
 
 A spatial representation of the logical relations of a semantic category. Greimas introduced the semiotic square as a means of mapping the logical conjunctions and disjunctions relating key semantic features in a text. If we begin by drawing a horizontal line linking two familiarly paired terms such as ‘beautiful’ and ‘ugly’, we turn this into a semiotic square by making this the upper line of a square in which the two other logical possibilities—‘not ugly‘ and ‘not beautiful’—occupy the lower corners. The semiotic square reminds us that this is not simply a binary opposition because something which is not beautiful is not necessarily ugly and that something which is not ugly is not necessarily beautiful. Occupying a position within such a framework invests a sign with meanings. The semiotic square can be used to highlight ‘hidden’ underlying themes in a text or practice.

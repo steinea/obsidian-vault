@@ -8,6 +8,8 @@ link: http://www.e-flux.com/journal/editorial-48/
 date: 2016-05-07
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “All things have borders that make them what they are.”
 
 “Some borders are spatial, like the edge of a painting, and some are chronological, like the end of a play.”

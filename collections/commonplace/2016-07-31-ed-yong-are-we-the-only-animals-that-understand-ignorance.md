@@ -8,6 +8,8 @@ link: https://www.theatlantic.com/science/archive/2016/07/are-we-the-only-animal
 date: 2016-07-31
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 You’re holding a surprise party for a friend. The door opens, the lights flick on, everyone leaps out... and your friend stands there silent and unmoved. Now, you’re the one who’s surprised. You assumed she had no idea, and based on that, you made a (wrong) prediction about how she would react. You were counting on her ignorance. This ability to understand that someone else might be missing certain information about the world comes so naturally to us that describing it feels mundane and trite.
 
 And yet, according to two psychologists, it’s a skill that only humans have. “We think monkeys can’t do that,” says Alia Martin from Victoria University of Wellington.

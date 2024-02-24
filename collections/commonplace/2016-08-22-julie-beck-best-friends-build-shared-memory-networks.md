@@ -8,6 +8,8 @@ link: https://www.theatlantic.com/health/archive/2016/08/how-best-friends-share-
 date: 2016-08-22
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “They’re always reminding me of things I’ve forgotten. They’re an extra hard drive for my limited memory capacity.”
 
 “In science, this is known as a transactive memory system. Transactive memory systems (TMS) are repositories of knowledge that are shared between two or more people.”

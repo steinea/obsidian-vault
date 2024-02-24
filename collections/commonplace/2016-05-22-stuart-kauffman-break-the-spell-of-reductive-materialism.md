@@ -8,6 +8,8 @@ link: https://aeon.co/opinions/why-science-needs-to-break-the-spell-of-reductive
 date: 2016-05-22
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “The central framework of current physics is that of entailing laws.”
 
 “The central image is the billiard table as boundary conditions and the set of all possible initial conditions of position and momenta of the balls on the table.”

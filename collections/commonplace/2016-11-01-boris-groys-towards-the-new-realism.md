@@ -8,6 +8,8 @@ link: http://www.e-flux.com/journal/77/77109/towards-the-new-realism/
 date: 2016-11-01
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “Recently we have seen a growing interest in realism, which for a long time seemed historically passé.”
 
 “One often understands “realism” to mean the production of mimetic images of “reality.””

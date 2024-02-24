@@ -8,6 +8,8 @@ link: http://www.bellhooksinstitute.com/blog/2016/5/9/moving-beyond-pain
 date: 2016-05-18
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “Commodities, irrespective of their subject matter, are made, produced, and marketed to entice any and all consumers.”
 
 “Beyoncé’s audience is the world and that world of business and money-making has no color.”

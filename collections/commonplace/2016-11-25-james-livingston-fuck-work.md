@@ -8,6 +8,8 @@ link: https://aeon.co/essays/what-if-jobs-are-not-the-solution-but-the-problem
 date: 2016-11-25
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “Work means everything to us Americans.”
 
 “The official unemployment rate in the United States is already below 6 per cent, which is pretty close to what economists used to call ‘full employment’, but income inequality hasn’t changed a bit. Shitty jobs for everyone won’t solve any social problems we now face.”

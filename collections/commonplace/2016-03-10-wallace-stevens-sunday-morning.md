@@ -8,6 +8,8 @@ link: https://www.poetryfoundation.org/poetrymagazine/poems/13261/sunday-morning
 date: 2016-03-10
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
       I
 
 Complacencies of the peignoir, and late 

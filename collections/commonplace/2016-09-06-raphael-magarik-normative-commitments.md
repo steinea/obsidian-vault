@@ -8,6 +8,8 @@ link: https://lareviewofbooks.org/article/normative-commitments-a-philosophical-
 date: 2016-09-06
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “How can public universities teach theology if they are forbidden from endorsing particular theological claims?”
 
 “Lewis proposes something else altogether. When he argues that scholars of religious studies should become more “philosophical,” he means that they should be more willing to make and defend normative claims, to meditate self-reflexively on their own concepts, and to concern themselves with their own historical context.”

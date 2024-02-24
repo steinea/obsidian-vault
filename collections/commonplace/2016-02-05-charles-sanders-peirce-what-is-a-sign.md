@@ -8,6 +8,8 @@ link: https://www.marxists.org/reference/subject/philosophy/works/us/peirce1.htm
 date: 2016-02-05
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “What Is a Sign?”
 
 “This is a most necessary question, since all reasoning is an interpretation of signs of some kind. But it is also a very difficult question, calling for deep reflection.”

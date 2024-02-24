@@ -8,6 +8,8 @@ link: http://www.nybooks.com/articles/1995/06/22/ur-fascism/
 date: 2016-09-02
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “In May we heard that the war was over. Peace gave me a curious sensation. I had been told that permanent warfare was the normal condition for a young Italian. In the following months I discovered that the Resistance was not only a local phenomenon but a European one. I learned new, exciting words like réseau, maquis, armée secrète, Rote Kapelle, Warsaw ghetto. I saw the first photographs of the Holocaust, thus understanding the meaning before knowing the word. I realized what we were liberated from.”
 
 

@@ -8,6 +8,8 @@ link: https://aeon.co/opinions/do-conservative-think-tanks-help-to-balance-polic
 date: 2016-04-29
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “While agreeing with these criticisms, I think they largely miss the point. To fully understand Brooks’s paean to ideological diversity, we have to understand the history of Brooks’s own institutional home: the conservative think tank.”
 
 “Conservative think tanks have always alleged liberal bias in academia in order to justify their own existence and their own necessary public role of ‘balancing’ policy debates. Brooks was merely continuing in this long tradition.”

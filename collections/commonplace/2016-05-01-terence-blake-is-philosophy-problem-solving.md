@@ -8,6 +8,8 @@ link: https://terenceblake.wordpress.com/2016/04/28/is-philosophy-problem-solvin
 date: 2016-05-01
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “There is not a single real concept in this post, except the presupposed, scientistic, concept of philosophy as problem-solving. It is more an opinion piece than a serious philosophical attempt to raise a real question. It partakes of the concept-blindness that characterises both much of modern analytic philosophy and speculative realism. In cinematic terms this amounts to seeing THE MARTIAN as a greater film than 2001 A SPACE ODYSSEY because the second film presents more problems than it solves.”
 
 “Philosophy is much more the construction of problematics than the resolution of problems (though it is that too).”

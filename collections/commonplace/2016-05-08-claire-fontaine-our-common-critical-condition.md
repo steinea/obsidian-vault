@@ -8,6 +8,8 @@ link: http://www.e-flux.com/journal/our-common-critical-condition/
 date: 2016-05-08
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “The adjective “critical,” which he uses here to define a condition, refers both to the medical sense of the term, as well as its philosophical sense, where “critical” comes by way of the Greek verb krino, meaning to discern, to separate things by means of the intellect.”
 
 “The entire aesthetic field, as Foster describes it, found itself under enormous strain; it was, he writes, “already breached from without and eroded from within.” “As we know,” he continues,

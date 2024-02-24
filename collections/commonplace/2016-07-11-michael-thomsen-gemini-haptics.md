@@ -8,6 +8,8 @@ link: http://reallifemag.com/gemini-haptics/
 date: 2016-07-11
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “Owning a new computer never seems to satisfy the desire for one. It’s like committing to a different arranged marriage every few years out of a belief in the institution itself rather than any potential partner. They induce a hopefulness that’s out of step with their day-to-day use.”
 
 “Computers assume a basket of needs in their users and offer them productive mechanisms for meeting each, a simulated mini-society made of components capable of working in concert for a greater good.”

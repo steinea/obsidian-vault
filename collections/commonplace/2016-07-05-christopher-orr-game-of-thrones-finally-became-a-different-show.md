@@ -8,6 +8,8 @@ link: http://www.theatlantic.com/entertainment/archive/2016/06/how-game-of-thron
 date: 2016-07-05
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “John le Carre, but with dragons.”
 
 “The ill-fated Robb Stark put it well back in season three when he noted, “I’ve won every battle, yet somehow I’m losing the war.” The great warriors at the heads of noble houses displayed a profound tendency to find themselves dead—Ned Stark (and later his son Robb), Robert Baratheon (and later his brother Stannis)—or at the very least unmanned (Jaime Lannister).”

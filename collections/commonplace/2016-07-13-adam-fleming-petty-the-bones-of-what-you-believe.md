@@ -8,6 +8,8 @@ link: https://lareviewofbooks.org/review/the-bones-of-what-you-believe/
 date: 2016-07-13
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “How did these 12 men, perennially slow on the uptake, manage to turn the teachings of an obscure Galilean Jew into the most widely dispersed religion in history? This is the question Tom Bissell looks to answer, or at least grapple with, in Apostle: Travels Among the Tombs of the Twelve.”
 
 “The other aspect of the book is knottier. In between the sketches of crypts and bearded priests, Bissell carries out a deep, double-backing work of biblical exegesis as he culls the New Testament, early church histories, and countless apocryphal texts for mention of the exploits of the 12 apostles.”

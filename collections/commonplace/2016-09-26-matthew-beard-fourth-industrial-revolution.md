@@ -8,6 +8,8 @@ link: http://www.theguardian.com/sustainable-business/2016/sep/26/with-robots-is
 date: 2016-09-26
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “When Aristotle described “the complete happiness of man”, he thought it would include, among other things, “self-sufficiency, leisureliness and unweariedness”.”
 
 “Unfortunately the philosopher concluded that “such a life would be too high for man” – it was suitable only for the gods. All the same, he encouraged humanity to keep striving to get as close to “complete happiness” as possible.”

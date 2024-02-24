@@ -8,6 +8,8 @@ link: https://lareviewofbooks.org/article/stranger-things-season-one/
 date: 2016-08-30
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “But that shouldn’t be the last thing we say about it. I mean, if you want to un-suspend your disbelief and tease out different derivations of the show’s narrative strands, we can easily turn one show into a game of spotting its dozens and dozens of narrative ancestors. This is especially easy because, for at least the first part of the show, the many different characters in the show actually inhabit different genres: the show is a monster fantasy for some, a sci-fi conspiracy mystery for others, plus overlapping shades of the teen coming-of-age drama, horror movie, mother’s quest to find her lost child, sheriff’s battle with his past demons in a quest for redemption, the outcast’s search for sociality, etc, etc. It’s very hard to name much there that’s original: what they are all doing—and what we, through them, are doing—is inhabiting different worlds, cinematic and otherwise, weaving them together into one, oddly seamless, show.”
 
 “And that’s the thing that really interests me about Stranger Things: when have we last seen such a lack of anxiety when it comes to influence?”

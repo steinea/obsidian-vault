@@ -8,6 +8,8 @@ link: https://terenceblake.wordpress.com/2016/02/15/principles-of-non-philosophy
 date: 2016-02-15
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “Laruelle’s PRINCIPLES OF NON-PHILOSOPHY was published in French in 1996. Some people have claimed that it is in part a response to Deleuze and Guattari’s WHAT IS PHILOSOPHY?, published in 1991.”
 
 “I do not think this is so, which is just as well as in this case it would be a very bad reply. It reads more like part of Laruelle’s continuing reply to Deleuze’s DIFFERENCE AND REPETITION (1968).”

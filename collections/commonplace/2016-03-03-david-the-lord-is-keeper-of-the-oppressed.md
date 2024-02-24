@@ -8,6 +8,8 @@ link: https://en.wikipedia.org/wiki/Psalm_146
 date: 2016-03-03
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 God cares for the:
 
 * oppressed

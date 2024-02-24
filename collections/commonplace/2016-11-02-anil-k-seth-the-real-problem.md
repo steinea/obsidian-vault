@@ -8,6 +8,8 @@ link: https://aeon.co/essays/the-hard-problem-of-consciousness-is-a-distraction-
 date: 2016-11-02
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “Its key is to recognise that explaining why consciousness exists at all is not necessary in order to make progress in revealing its material basis – to start building explanatory bridges from the subjective and phenomenal to the objective and measurable.”
 
 “But there is an alternative, which I like to call the real problem: how to account for the various properties of consciousness in terms of biological mechanisms; without pretending it doesn’t exist (easy problem) and without worrying too much about explaining its existence in the first place (hard problem).”

@@ -8,6 +8,8 @@ link: http://thenewinquiry.com/essays/a-declaration-of-the-dignity-image/
 date: 2016-09-17
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “The act of creating and modifying online identities by deciding which images to share is also an act of erecting boundaries between self-conception and assimilation to an avatar. Avatars are vulnerable to exploitation by social media platforms.”
 
 “Like its competitor Google, Facebook is a company that aims to be a central Internet institution for the various forms of exchange — cultural, financial, social, and so on.”

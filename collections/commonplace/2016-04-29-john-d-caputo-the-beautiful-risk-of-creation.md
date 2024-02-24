@@ -8,6 +8,8 @@ link: https://books.google.ca/books/about/The_Weakness_of_God.html?id=8t4cl5rgDb
 date: 2016-04-29
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 Twenty-six attempts preceded the present genesis,
 <br>all of which were destined to fail.
 <br>The world of man has arisen out of the chaotic heart

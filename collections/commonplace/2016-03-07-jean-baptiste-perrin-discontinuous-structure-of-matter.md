@@ -8,6 +8,8 @@ link: http://www.nobelprize.org/nobel_prizes/physics/laureates/1926/perrin-lectu
 date: 2016-03-07
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “A fluid such as air or water seems to us at first glance to be perfectly homogeneous and continuous; we can put more water or less water into this glass, and the experiment seems to suggest to us that the amount of water contained in it can vary by an infinitely small amount, which is the same as saying that water is "indefinitely divisible". Similarly, a sphere of glass or of quartz, a crystal of alum, are received by our senses as being perfectly continuous, and particularly when we see this alum crystal growing in a supersaturated solution, each of the planes bounding the crystal moves parallel to itself in a continuous manner.”
 
 “However, this can be taken for granted only up to the degree of subtlety reached by the resolving power of our senses which, for example, would certainly be unable to distinguish between two positions of the crystal face one millionth of a millimetre apart. Beyond the things which our senses separate in this manner, our imagination remains free, and ever since ancient times, just as the philosophers who started from the " full" or the "void", has hesitated between two hypotheses.”

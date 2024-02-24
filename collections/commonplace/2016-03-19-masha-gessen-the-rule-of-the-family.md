@@ -8,6 +8,8 @@ link: http://www.nybooks.com/daily/2016/03/14/putin-mafia-state-lesin-killing/
 date: 2016-03-19
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 ““Part half-decayed empire on ice and part gas station,” a description offered by political scientist Lilia Shevtsova, was probably the most colorful, but the current fashion among the Russian intellectual class is to call Russia a “hybrid regime,” one that combines elements of dictatorship and democracy.”
 
 “the kind of state Russia actually is: a mafia state.”

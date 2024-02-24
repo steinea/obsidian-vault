@@ -8,6 +8,8 @@ link: https://terenceblake.wordpress.com/2014/04/24/ontology-abundance-vs-withdr
 date: 2016-10-26
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “Graham Harman’s philosophy of science promulgates an absolute difference between the “real” object as posited in his philosophy and the “sensual” object, i.e. both the theoretical object of science and the ideological object of common sense and of the humanities.”
 
 “Despite apparent connivences between Harman and Bruno Latour, everything separates them on the issue of realism in relation to the sciences. Latour distinguishes in his Gifford Lecures between an illusory monist, a-historical “Science One” claiming direct access to the world and a really existing “Science Two” that is realist precisely because it is pluralist, historical, animated, mediated, and controversy-rich.”

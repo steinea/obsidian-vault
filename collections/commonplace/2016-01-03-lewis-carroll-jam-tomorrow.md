@@ -8,6 +8,8 @@ link: https://en.wikipedia.org/wiki/Through_the_Looking-Glass
 date: 2016-01-03
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “The rule is, jam tomorrow and jam yesterday—but never jam today.”
 
 “It must come sometimes to ‘jam today,’” Alice objected.

@@ -8,6 +8,8 @@ link: https://www.marxists.org/reference/archive/hegel/works/sp/suspirit.htm
 date: 2016-02-04
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “Mind has defined itself as the truth of soul and consciousness – the former a simple immediate totality, the latter now an infinite form which is not, like consciousness, restricted by that content, and does not stand in mere correlation to it as to its object, but is an awareness of this substantial totality, neither subjective nor objective. Mind, therefore, starts only from its own being and is in correlation only with its own features.”
 
 

@@ -8,6 +8,8 @@ link: http://thenewinquiry.com/essays/solving-desire/
 date: 2016-03-10
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “Though Addyi is sometimes called the “pink” or “female” Viagra, how similar are the two drugs really? It turns out that the approaches the two drugs take to sexual dysfunction are entirely different, drawing on very different sets of assumptions about men’s and women’s sexuality.”
 
 “Administering these drugs to patients also means administering a particular theory of sexuality and sexual difference, which has deep roots extending back to the earliest sexology texts of the Victorian era.”

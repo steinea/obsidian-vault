@@ -8,6 +8,8 @@ link: https://www.marxists.org/archive/lukacs/works/1949/existentialism.htm
 date: 2016-01-31
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “the leading German existentialists and their precursor, Husserl, have made great conquests in France and in America – not only in the United States but in Latin America as well.”
 
 

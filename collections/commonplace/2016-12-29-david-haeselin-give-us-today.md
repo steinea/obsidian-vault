@@ -8,6 +8,8 @@ link: https://lareviewofbooks.org/article/give-us-today/
 date: 2016-12-29
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “Scott Cutler Shershow’s Bread, the newest entry from Bloomsbury’s Object Lessons series, maintains this connection between food and work, insisting that the meaning of bread not be separated from questions of labor.”
 
 “For Shershow, bread is everywhere because it is a miracle, and miraculous because it is everywhere.”

@@ -8,6 +8,8 @@ link: https://lareviewofbooks.org/review/englishness-in-an-apocalypse/
 date: 2016-03-03
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “scarcity echoes the destruction brought about by the Norman Conquest of 1066. A farmer who struggles to find eels symbolizes the invaders’ power to create a world in which deprivation will become the new normal.”
 
 “The Wake, Paul Kingsnorth’s deliriously experimental imagining of the Norman Conquest as both natural and cultural apocalypse, is rather like Buccmaster’s fens.”

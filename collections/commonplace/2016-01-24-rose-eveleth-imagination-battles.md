@@ -8,6 +8,8 @@ link: https://lareviewofbooks.org/review/imagination-battles-what-will-the-futur
 date: 2016-01-24
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “The same sentiment is expressed a bit more clearly by Samuel Delany, in a remark filed under “Speculation”: “The healthiest way I know to use the future is to think about what sort of future you would like, then research the factors that would make such a future possible.””
 
 “The thing is, you couldn’t use this book to do that. None of these segments are fleshed out enough or detailed enough to give you the tools to build a future. A few of them suggest approaches, but none of the passages are long enough to prove that they are viable. Here’s an example: In the section on “Population,” Ted Nelson says: “At some point the world population will drop precipitously. I say ‘precipitously’ because, as you can see, humans never do things rationally. We overbuild and overbuild until an earthquake smashes it all.” While that prediction might very well be an accurate one, it doesn’t exactly present what Delany would call a “viable approach” to changing the world.”

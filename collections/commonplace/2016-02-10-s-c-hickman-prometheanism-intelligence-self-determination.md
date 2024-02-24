@@ -8,6 +8,8 @@ link: https://socialecologies.wordpress.com/2016/01/13/reza-negarestani-promethe
 date: 2016-02-10
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “In this post I will revisit both Negarestani’s and Brassier’s Prometheanism, which implies a critique of all those philosophies that have been based on forms of Will and Voluntarism.”
 
 

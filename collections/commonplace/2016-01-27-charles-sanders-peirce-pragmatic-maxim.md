@@ -8,6 +8,8 @@ link: https://en.wikipedia.org/wiki/Pragmatic_maxim
 date: 2016-01-27
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “Serving as a normative recommendation or a regulative principle in the normative science of logic, its function is to guide the conduct of thought toward the achievement of its purpose, advising on an optimal way of "attaining clearness of apprehension".”
 
 “Here is its original 1878 statement in English when it was not yet named:

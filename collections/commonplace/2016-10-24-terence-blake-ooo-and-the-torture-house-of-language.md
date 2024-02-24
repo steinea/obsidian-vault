@@ -8,6 +8,8 @@ link: https://terenceblake.wordpress.com/2016/10/24/reading-disparities-5-ooo-an
 date: 2016-10-24
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 Reading DISPARITIES (5)
 
 “I think that Zizek has located an important weak point in OOO, namely its philosophy of language. How can we say anything meaningful about that which withdraws behind an apophatic veil? However Zizek’s own solution is left vague and undevelopped.”

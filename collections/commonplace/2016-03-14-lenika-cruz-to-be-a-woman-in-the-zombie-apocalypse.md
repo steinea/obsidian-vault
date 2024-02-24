@@ -8,5 +8,7 @@ link: http://www.theatlantic.com/entertainment/archive/2016/03/the-walking-dead-
 date: 2016-03-14
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “And though Rick and the rest clearly had no intention of waiting patiently for the Saviors to agree to a deal, the fact is that no one saved Maggie and Carol—except, of course, for Maggie and Carol.”
 

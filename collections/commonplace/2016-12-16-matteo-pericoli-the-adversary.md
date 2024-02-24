@@ -8,6 +8,8 @@ link: https://www.theparisreview.org/blog/2016/12/16/carrere-the-adversary/
 date: 2016-12-16
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 "*Matteo Pericoli is the founder of the Laboratory of Literary Architecture, an interdisciplinary project that looks at fiction through the lens of architecture, designing and building stories as architectural projects. In this series, he shares some of his designs and what they reveal about the stories they’re modeled on.*
   
 “My problem is … finding my proper place with respect to your story. … I thought I could … remain objective. But objectivity, in such an undertaking, is a delusion.” In The Adversary, Emmanuel Carrère tells us the unbelievable yet true story of Jean-Claude Romand, a man who, in 1993, tried to commit suicide after brutally killing his wife, his two children, and his parents. The investigation reveals that Romand, an impeccable family man with a degree in medicine and a researcher at the World Health Organization, well-off and well-liked by everyone, in reality was an impostor. Every aspect of his life is a lie—a giant and unsustainable scaffolding created to support his fabrication. 

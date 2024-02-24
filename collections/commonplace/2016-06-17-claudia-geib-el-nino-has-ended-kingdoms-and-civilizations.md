@@ -8,6 +8,8 @@ link: http://nautil.us/blog/el-nio-has-ended-kingdoms-and-civilizations
 date: 2016-06-17
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “What Louis could not have known was that one root of his “misfortunes” was not any one of his subjects. It was El Niño, the climatic fluctuation that has sown misfortune for humankind for millennia. Today, as global temperatures rise, El Niño events will likely become more dramatic—causing longer, drier droughts, extreme floods, and more unpredictable weather.”
 
 “Stories of how El Niño shaped history are thus more than mere curiosities, says Brian Fagan, author of Floods, Famines, and Emperors: El Niño and the Fate of Civilizations.”

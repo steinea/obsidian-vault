@@ -8,6 +8,8 @@ link: http://rabble.ca/blogs/bloggers/views-expressed/2016/01/five-keys-to-liber
 date: 2016-01-12
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “here are five key characteristics any solid national strategy should include.”
 
 “1. It has to be comprehensive.

@@ -8,6 +8,8 @@ link: http://thenewinquiry.com/essays/dark-pools/
 date: 2016-03-31
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “Narratives of financial complexity obscure how capitalist realisms are made—and might be unmade”
 
 “The post goes on to attempt a partial explanation, but that first line is telling. It has the ring of a familiar joke, one that practically writes itself. For literary critic Leigh Claire La Berge, it’s part of the abstraction side of popular financial-media discourse that tends to unfold through the twin poles of scandals and abstractions.”

@@ -8,6 +8,8 @@ link: http://www.theatlantic.com/technology/archive/2013/08/what-is-medium/27896
 date: 2016-10-08
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “Perhaps Medium can continue to do precisely what it has been doing, and their brand value will continue to grow while these major questions remain unresolved. The center will hold because there is no center.”
 
 “In a world when every post stands on its own, atomistically, perhaps it's silly to think a publication can't be incoherent.”

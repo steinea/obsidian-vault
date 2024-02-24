@@ -8,6 +8,8 @@ link: https://terenceblake.wordpress.com/2016/10/24/reading-disparities-4-non-st
 date: 2016-10-24
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 Reading DISPARITIES (4)
 
 “In the introduction and the first chapter to DISPARITIES Zizek has emphasised that his work is not only to be understood in terms of ideological critique but also as ontological critique. He is not just a media critic or a theorist in the field of cultural studies but first and foremost a philosopher who is proposing a new, non-standard ontology.”

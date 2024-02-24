@@ -8,6 +8,8 @@ link: http://nome.unak.is/wordpress/08-3/c69-conference-paper/kierkegaard-s-crit
 date: 2016-08-22
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “For Kierkegaard, it is a matter of uncovering the ethical demand’s special characteristics in the original Ur-Christianity, as this relationship has become veiled through Ethical Life, since it was formed through cultural Christianity. In this way, Kierkegaard’s project may be said to be diametrically opposite to Hegel’s. Since, Hegel’s project is to account for the ethical’s mediation in Ethical Life as mediated through cultural Christianity.”
 
 “The beautiful thing about Kierkegaard’s critique of Hegel is that he attempts to explode Hegel’s world-historical perspective from within, with a reference to the fact that we still encounter the world spirit in Ur-Christianity, rather than in cultural Christianity. There is an amazing radicality in this critique, because it turns the movement of Hegel’s world-historical spirit inside out while still maintaining the entirety of Hegel’s world-historical perspective.”

@@ -8,6 +8,8 @@ link: https://www.marxists.org/reference/subject/ethics/kant/reason/ch01.htm
 date: 2016-02-04
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “THERE can be no doubt that all our knowledge begins with experience. For how should our faculty of knowledge be awakened into action did not objects affecting our senses partly of themselves produce representations, partly arouse the activity of our understanding to compare these representations, and, by combining or separating them, work up the raw material of the sensible impressions into that knowledge of objects which is entitled experience?”
 
 

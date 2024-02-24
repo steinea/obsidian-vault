@@ -8,6 +8,8 @@ link: http://www.theatlantic.com/technology/archive/2016/03/the-digital-security
 date: 2016-03-31
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “Many of the devices that run Android software have cheap or out-of-date hardware that can’t handle continuous encryption and decryption. Google recently required that all new Android devices encrypt device data by default—but exempted slower (and therefore cheaper) phones, making encryption a de-facto luxury feature.”
 
 “That disparity affects most smartphone users in the U.S. According to recent data from comScore, a company that studies technology use, about 53 percent of the 198.5 million smartphone owners in the U.S. use Android phones. That’s about 105 million people.”

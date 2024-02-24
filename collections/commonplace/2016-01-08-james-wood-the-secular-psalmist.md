@@ -8,6 +8,8 @@ link: http://www.newyorker.com/magazine/2016/01/04/like-a-prayer
 date: 2016-01-08
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “When we encounter a natural style, Pascal says, we are surprised and delighted, because we expected to find an author and instead found a man.”
 
 “He is often ironic, but his irony is as generous as sincerity: he is always adding, not subtracting.”

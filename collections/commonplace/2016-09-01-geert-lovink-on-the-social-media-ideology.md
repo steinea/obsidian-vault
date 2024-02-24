@@ -8,6 +8,8 @@ link: http://www.e-flux.com/journal/on-the-social-media-ideology/
 date: 2016-09-01
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “The slogan “You are what you share” (Charles Leadbeater) expresses the transformation of the autonomous unit of the self into an outgoing entity that is constantly reproducing its social capital through the transmission of value (data) to others.”
 
 

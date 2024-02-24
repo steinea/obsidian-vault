@@ -8,6 +8,8 @@ link: http://lareviewofbooks.org/essay/making-things-right-star-wars-episode-vii
 date: 2016-01-08
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “Piloting, shooting, and self-teaching are the interactions through which the social network of the story operates. And just as the movie spins off bits of itself for marketing, it also takes fairly seriously the question of exchanges within the network of its young stars. When Kylo captures Poe, the pilot smart-mouths him: “Do I talk first or you talk first? I talk first?” (Good guys ask; bad guys insist: they are the First Order.) Slick interactions are the movie’s strong suit. In one bravura shot during the Battle on Takodana, the camera executes a complex left-to-right track and pan, shifting its attention from Finn on the ground to Poe in his X-wing back to Finn back to Poe. Finn punctuates the moment by proclaiming “That’s one hell of a pilot!” He is, or isn’t, talking about the cinematographer.”
 
 “In short, The Force Awakens is tighter than it has been given credit for. The problem — the problem that most reviewers have had with it, the problem that its defenders have had to shunt aside — is that the resonances with earlier versions are far too strong.”

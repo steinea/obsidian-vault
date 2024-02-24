@@ -8,6 +8,8 @@ link: http://www.e-flux.com/journal/ideology-form/
 date: 2016-02-18
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “In 2011, Kurdish revolutionaries, in alliance with Arabs, Assyrians, and other peoples from the region, declared Rojava independent from the Assad regime and established a system that they refer to as “democratic confederalism,” or stateless democracy.”
 
 

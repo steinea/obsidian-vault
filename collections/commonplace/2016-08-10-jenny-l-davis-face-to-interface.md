@@ -8,6 +8,8 @@ link: http://reallifemag.com/face-to-interface/
 date: 2016-08-10
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “This false universality, and the indifference it can breed, is the crux of privilege: The privileged group needn’t worry themselves with the nuts and bolts of social navigation, because the system has evolved to accommodate them.”
 
 “That is, they have used their sociopolitical dominance to replicate their advantage as part of the natural order. Privilege can be explicit (e.g., “Whites Only!”), but more often, it blends in with the mundanity of social organization (e.g., sidewalks without wheelchair-accessible curb cuts).”

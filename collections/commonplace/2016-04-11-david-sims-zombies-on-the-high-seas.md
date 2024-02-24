@@ -8,5 +8,7 @@ link: http://www.theatlantic.com/entertainment/archive/2016/04/fear-the-walking-
 date: 2016-04-11
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “Strand illustrates how simple and arbitrary “laws” can become at the end of the world—and how willing people are to abide by them if it means they’ll be safe.”
 

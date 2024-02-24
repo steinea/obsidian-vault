@@ -8,6 +8,8 @@ link: https://www.marxists.org/reference/subject/philosophy/works/fr/descarte.ht
 date: 2016-02-03
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “Good sense is of all things in the world the most equally distributed, for everybody thinks himself so abundantly provided with it, that even those most difficult to please in all other matters do not commonly desire more of it than they already possess.”
 
 

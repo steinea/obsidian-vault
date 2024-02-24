@@ -8,6 +8,8 @@ link: https://www.marxists.org/archive/pilling/works/capital/ch05.htm
 date: 2016-02-10
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 Marx's ‘Capital’, Philosophy and Political Economy by Geoffrey Pilling 1980
 
 When therefore Galiani says: Value is a relation between persons ... he ought to have added: a relation between persons expressed as a relation between things. (I, p. 74)

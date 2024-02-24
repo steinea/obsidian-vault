@@ -8,6 +8,8 @@ link: https://lareviewofbooks.org/review/the-triumph-of-atheism/
 date: 2016-03-10
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “In short, religion, at least in the United States, is dying out with its (aging) adherents, pretty much as it has in northern Europe.”
 
 “Why all the chutzpah? Because, he says, in the fight against faith, “we’re winning.” Winners do not need to hedge or apologize. Yes, he’s preaching to the choir, but it has been a singularly timid choir, and he is writing to embolden it.”

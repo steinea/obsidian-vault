@@ -8,6 +8,8 @@ link: http://nymag.com/daily/intelligencer/2016/11/andrew-sullivan-president-tru
 date: 2016-11-09
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “We are witnessing the power of a massive populist movement that has now upended the two most stable democracies in the world — and thrown both countries into a completely unknown future.”
 
 “In Britain, where the polls did not pick up the latent support for withdrawal from the European Union, a new prime minister is now navigating a new social contract with the indigenous middle and working classes forged by fear of immigration and globalization.”

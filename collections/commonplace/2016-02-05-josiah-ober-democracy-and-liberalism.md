@@ -8,6 +8,8 @@ link: https://aeon.co/essays/the-marriage-of-democracy-and-liberalism-is-not-ine
 date: 2016-02-05
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “The history of citizen self-government in the Greek city-states clarifies what democracy is – and what it does (and does not) deliver. Ancient Athens, like some other Greek city-states, was a democracy, not a liberal democracy. Ancient Athenians neither embraced human rights nor separated religion from coercive state authority. Liberalism is a moral ideal born of the 18th-century Enlightenment and centred on the value of individual autonomy. Liberalism offers reasons why rights should be regarded as universal, as inhering in each individual human being, and why a coercive state must be neutral in regard to religion. A political regime might be liberal but not democratic – the 19th century Austro-Hungarian empire, for example.”
 
 

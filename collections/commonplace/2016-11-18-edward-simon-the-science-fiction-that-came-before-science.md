@@ -8,6 +8,8 @@ link: http://www.theatlantic.com/science/archive/2016/11/the-science-fiction-tha
 date: 2016-11-18
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “A reading list of these early stories includes works of varying canonicity, such as Thomas More’s Utopia (1516), Francis Bacon’s New Atlantis (1627), Johannes Kepler’s Somnium (1634), Margaret Cavendish’s The Blazing World (1666), Henry Neville’s The Isle of Pines (1688), and Jonathan Swift’s Gulliver’s Travels (1726).”
 
 “Though obscure today, Godwin’s The Man in the Moone captivated 17th-century readers with its tale of a Spaniard who travels in a ship powered by geese.”

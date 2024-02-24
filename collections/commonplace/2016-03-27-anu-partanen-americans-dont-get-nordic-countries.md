@@ -8,6 +8,8 @@ link: http://www.theatlantic.com/politics/archive/2016/03/bernie-sanders-nordic-
 date: 2016-03-27
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “Nordic countries are the way they are, I’m told, because they are small, homogeneous “nanny states” where everyone looks alike, thinks alike, and belongs to a big extended family. This, in turn, makes Nordic citizens willing to sacrifice their own interests to help their neighbors. Americans don’t feel a similar kinship with other Americans, I’m told, and thus will never sacrifice their own interests for the common good.”
 
 “But this vision of homogenous, altruistic Nordic lands is mostly a fantasy. The choices Nordic countries have made have little to do with altruism or kinship. Rather, Nordic people have made their decisions out of self-interest. Nordic nations offer their citizens—all of their citizens, but especially the middle class—high-quality services that save people a lot of money, time, and trouble. This is what Americans fail to understand: My taxes in Finland were used to pay for top-notch services for me.”

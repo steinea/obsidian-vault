@@ -8,6 +8,8 @@ link: http://www.theatlantic.com/politics/archive/2016/03/bernies-rage-against-t
 date: 2016-03-15
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “Whether he wins the Democratic Party nomination or not—and his chances are increasingly viable—the candidacy of Bernie Sanders has already won, by vastly enlarging America’s political conversation and possibilities.”
 
 “Sanders has reinvigorated the national discourse with an unapologetic, unwavering progressivism—a powerful appeal that’s inspiring a broad swath, from New Deal/New Left Baby Boomers, to working-class and Independent voters, to tradition-skeptical Millennials.”

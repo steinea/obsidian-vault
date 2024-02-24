@@ -8,6 +8,8 @@ link: https://lareviewofbooks.org/article/provisionally-speaking-interview-jonat
 date: 2016-10-16
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “being in the presence of this writer’s talented talk is like being in the presence of his novelistic voice — an exhilarating experience, instructive, freewheeling, earnest, sometimes confusing, intimidating, occasionally overwhelming, spirited, high-speed, funny, fun.”
 
 “You start to think, well, we are all plastic in some sense, or “propositional,” the word I just used for Los Angeles. We’re subject to rearrangement.”

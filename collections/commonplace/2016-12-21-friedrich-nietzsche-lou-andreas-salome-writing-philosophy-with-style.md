@@ -8,6 +8,8 @@ link: http://dailynous.com/2016/12/21/writing-philosophy-style/
 date: 2016-12-21
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “Lou Andreas-Salomé, who was at one time a friend and romantic interest of Friedrich Nietzsche’s, included in her book on the philosopher his “ten rules of writing.””
 
 “Of prime necessity is life: a style should live.”

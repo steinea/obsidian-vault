@@ -8,6 +8,8 @@ link: http://thenewinquiry.com/essays/seconds-of-pleasure/
 date: 2016-02-02
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “Living in what Walter Benjamin had predicted would be a “culture of distraction,” we now experience and enjoy hundreds of apparently mindless things that function to fill our time — not only mobile-phone games and internet tabs but also phenomena like social-media notifications and YouTube clips.”
 
 “we urgently yearn to steal seconds of pleasure in the middle of the work day”

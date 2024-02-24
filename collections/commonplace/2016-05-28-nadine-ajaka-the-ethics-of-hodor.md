@@ -8,6 +8,8 @@ link: http://www.theatlantic.com/entertainment/archive/2016/05/the-ethics-of-hod
 date: 2016-05-28
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “In the 2014 scholarly essay “A Song of Ice and Fire’s Ethics of Disability,” Lauryn S. Mayer of Washington and Jefferson College and Pascal J. Massie of Miami University of Ohio examined the disability themes in George R.R. Martin’s book series. They wrote that the saga seemed interested in “dismantling the clichés of disability, examining the costs of ableist ideologies, and uncovering the fear of mortality and vulnerability that compels people to build a wall separating themselves from the disabled.””
 
 “Lauryn S. Mayer: Medieval and fantasy literature has been noted by a lot of scholars for providing a space to imagine something different: another world—utopian, dystopian—or a particular way of thinking, different social structures, those kinds of things. The thing that I found interesting with Martin was that he takes a world in which people are particularly vulnerable and he plays that up.”

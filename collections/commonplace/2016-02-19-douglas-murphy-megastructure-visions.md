@@ -8,6 +8,8 @@ link: http://www.versobooks.com/blogs/2481-megastructure-visions-an-extract-from
 date: 2016-02-19
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “Many architectural proposals and experiments of the early 1960s were eventually gathered under the umbrella term of ‘megastructure’.”
 
 “This word evoked not only the sheer size of the new architecture but also the method in which a single initial construction would serve as a frame, augmented by infrastructure such as transport and electricity and capable of being added to or dismantled.”

@@ -8,6 +8,8 @@ link: http://bostonreview.net/wonders/fausto-sterling-evidence-memory
 date: 2016-07-20
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “Long before cognitive science was a glint in Donald Hebb’s eye, Freud understood that memories do not precisely mirror the past.”
 
 “More recently the idea that memory is dynamic and constructive rather than passive and fixed has gained currency among neurobiologists.”

@@ -8,6 +8,8 @@ link: https://lareviewofbooks.org/article/nature-dive-interview-poet-mandy-kahn/
 date: 2016-12-16
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “AFTER SELLING OUT its original UK edition on Eyewear Publishing, Mandy Kahn’s remarkable first collection of poems, Math, Heaven, Time, is now available in an American paperback edition.”
 
 “Of the influences she names, Thoreau seems to have left his transcendental nature print most prominently. There’s also a sense of Yeats’s splendor and, at times, the concision of Dickinson, but as with all true visionaries, her alchemy creates a completely new sound — a melopoeia that is both familiar and otherworldly.”

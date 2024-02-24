@@ -8,6 +8,8 @@ link: https://www.theatlantic.com/politics/archive/2016/03/how-the-kobayashi-mar
 date: 2016-03-10
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 My colleague Jeffrey Goldberg’s cover story will serve as a Rosetta Stone for scholars and analysts trying to decode President Obama’s foreign policy. I won’t try to summarize it; it deserves to be read in full. But at one point, Jeff writes of Obama: “He is, by nature, Spockian.”
 
 We’ve been publishing this magazine for 158 years, and as best I can tell, it’s the first time that adjective has appeared in our pages—and the first time we’ve compared a sitting president to a pointy-eared Vulcan.

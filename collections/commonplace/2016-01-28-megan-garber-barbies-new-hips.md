@@ -8,5 +8,7 @@ link: http://www.theatlantic.com/entertainment/archive/2016/01/barbies-hips-dont
 date: 2016-01-28
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “This was that oldest and most American of things: cultural change by way of capitalism.”
 

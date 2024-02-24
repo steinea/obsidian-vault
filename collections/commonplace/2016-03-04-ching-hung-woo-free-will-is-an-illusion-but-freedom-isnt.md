@@ -8,6 +8,8 @@ link: https://philosophynow.org/issues/112/Free_Will_Is_An_Illusion_But_Freedom_
 date: 2016-03-04
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “All the events in the world, however, obey the law of physics, including those that happen inside a brain. If all events in the brain unfold according to classical physics, then free will in the above sense does not exist. This is because classical physics is deterministic: the state of the world at any moment is the inevitable consequence of its state at an earlier moment. Hence the alternatives are only apparently available to the decision-maker, as in fact only a single alternative is destined to be the one chosen.”
 
 “In quantum physics the so-called probability amplitude evolves according to deterministic laws but the transformation from many possible outcomes to one actual outcome takes place purely by chance. The statistical distribution for such chance events follows strict rules, but the outcome of an individual chance event is unpredictable and cannot be controlled by will.”

@@ -8,6 +8,8 @@ link: https://terenceblake.wordpress.com/2016/11/01/lacans-graph-sexuation-or-an
 date: 2016-11-01
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “Lacan’s graph of sexuation “prefigures” Deleuze and Guattari’s distinction of the different images of thought, embodying the fundamental choice between pluralism or monism, and between immanence or transcendance, after the event because it was first expounded in his seminar in 1973, one year after the publication of ANTI-OEDIPUS, and it represented a very weak and watered down appropriation of insights that Deleuze and Guattari had elaborated over the preceding four years.”
 
 “Guattari tells us:

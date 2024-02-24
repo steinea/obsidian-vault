@@ -8,6 +8,8 @@ link: https://theintercept.com/2016/01/23/surveillance-bernard-harcourt-why-do-w
 date: 2016-01-26
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “1984, Harcourt acknowledges, was an astoundingly farsighted text, but Orwell failed to anticipate the role pleasure would come to play in our culture of surveillance — specifically, the way it could be harnessed, as opposed to suppressed, by powerful interests. Oceania’s “Hate Week” is nowhere to be found; instead, we live in a world of likes, favorites, and friending. Foucault’s panopticon, in turn, needs a similar update; mass incarceration aside, the panopticon — for the rest of us — has become participatory, more of an amusement park or shopping mall than a penal institution. Rather than being coerced to reveal secrets, today we seem to enjoy self-exposure, giving away “our most intimate information and whereabouts so willingly and passionately — so voluntarily.””
 
 “Riffing on the work of another French philosopher, Gilles Deleuze, and his evocative 1992 fragment “Postscript on the Societies of Control,” Harcourt settles upon the phrase “Expository Society” to describe our current situation, one in which we “have become dulled to the perils of digital transparence” and enamored of exposure.”

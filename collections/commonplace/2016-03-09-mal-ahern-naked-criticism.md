@@ -8,6 +8,8 @@ link: http://thenewinquiry.com/essays/naked-criticism/
 date: 2016-03-09
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “But is it possible to write criticism—or even to write critically—while at the same time refusing the critic’s authority? Can a work be coherent, meaningful, and precise without its author dressing it as a piece of art criticism—or as an interview, a short story, a book of photos, a psychoanalytic case study, an autobiography?”
 
 “In 1980, Michel Foucault gave an anonymous interview for Le Monde because he was, in his words, “nostalgic for a time when, being quite unknown, what I said had some chance of being heard.” Calling himself the “Masked Philosopher,” he suggested that the unknown author has an “unrippled” “surface of contact” with the reader, and that the book without an author might “land in unexpected places and form shapes that I had never thought of.” He temporarily shed the authority of his name, because “a name makes reading too easy.””

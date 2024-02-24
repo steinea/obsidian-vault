@@ -8,6 +8,8 @@ link: http://lareviewofbooks.org/review/etymologies-of-sadness/
 date: 2016-01-06
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 ““I SEE A WORD like a Russian nesting doll. How can I strip it to what its imagined core would be?” asks Hannah Sanghee Park in an interview with Jessica Laser. Her Walt Whitman Award–winning poetry collection, The Same-Different, searches relentlessly for the “core” of its own language.”
 
 “She treats language as a semantic force field that shapes and fragments her speakers’ self-expression.”

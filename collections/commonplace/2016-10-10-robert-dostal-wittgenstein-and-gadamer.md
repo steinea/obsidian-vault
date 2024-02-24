@@ -8,6 +8,8 @@ link: http://ndpr.nd.edu/news/24813-wittgenstein-and-gadamer-towards-a-post-anal
 date: 2016-10-10
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “Wittgenstein did not and could not have known Gadamer's work in this area. Gadamer tells us that he had not seriously read Wittgenstein until after the publication of Truth and Method (1960).”
 
 “Though Gadamer comments in several essays on the proximity of his views about language to the views of Wittgenstein, he does not explore the connection. Coming from different contexts and with different philosophical motivations, these two thinkers appear to many, including Gadamer, to have developed convergent views, at least in part, with regard to language -- a central theme for both thinkers.”

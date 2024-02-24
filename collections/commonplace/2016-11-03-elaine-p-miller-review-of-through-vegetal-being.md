@@ -8,6 +8,8 @@ link: https://ndpr.nd.edu/news/71015-through-vegetal-being-two-philosophical-per
 date: 2016-11-03
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “joint project by Luce Irigaray and Michael Marder”
 
 “The book could be described as a nostalgic undertaking, one which conceives of nature, and in particular vegetal being, as a home, a realm prior to culture, language, and social relations, to which we can retreat or appeal in response to inauthentic forms of being-in-the-world.”

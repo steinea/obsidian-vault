@@ -8,6 +8,8 @@ link: https://ndpr.nd.edu/news/mctaggarts-paradox/
 date: 2016-12-11
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “J. M. E. McTaggart is well known for distinguishing two ways of conceptualizing time: first, as a series of positions ordered by 'past', 'present', and 'future', which he calls the A-series; secondly, as a series of positions ordered by 'earlier than', 'later than', and 'simultaneous with', which he calls the B-series.”
 
 “He argues that the A-series is both essential to time and contradictory, so time cannot exist.”

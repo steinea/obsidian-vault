@@ -8,6 +8,8 @@ link: https://lareviewofbooks.org/review/the-conservative-mindset/
 date: 2016-03-21
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “A plump, bespectacled gentleman who feigned disdain for technology, Kirk was something of a spiritualist with a penchant for the weird. He considered himself a Stoic before he had converted to Catholicism, a regeneration that makes sense in light of the relation of Stoic to Pauline thought.”
 
 “Kirk fell in love with the University of St. Andrews, however, where he took his doctorate and wrote a lengthy dissertation on Edmund Burke that would later become his magnum opus, The Conservative Mind. Kirk revised The Conservative Mind throughout his life, adding new permutations and nuances in an attempt to ensure the continued resonance of his cultural mapping.”

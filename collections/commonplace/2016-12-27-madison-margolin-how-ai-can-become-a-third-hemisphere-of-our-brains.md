@@ -8,6 +8,8 @@ link: http://motherboard.vice.com/read/how-ai-can-become-a-third-hemisphere-of-o
 date: 2016-12-27
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “it can free up our minds and responsibilities for the tasks and social interactions we humans are best suited for”
 
 “while it may threaten jobs, the ability to merge with technology, to coexist with AI could help us become "super humans," Hausler said.”

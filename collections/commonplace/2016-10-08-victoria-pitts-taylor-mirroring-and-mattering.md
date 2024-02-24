@@ -8,6 +8,8 @@ link: https://lareviewofbooks.org/article/mirroring-and-mattering-science-politi
 date: 2016-10-08
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “Over the last several years, “mirror neurons” have become key players in biological research and popular discourse. They are alleged to endow our brains with a built-in capacity for empathy, mediating sociality and binding us to the suffering of others.”
 
 “According to the critic Victoria Pitts-Taylor, mirror neurons enable the brain to “[generate] a grasp of the other, not with language and thinking but via simulated action and feeling.””

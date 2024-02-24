@@ -8,6 +8,8 @@ link: https://ndpr.nd.edu/news/experiencing-time/
 date: 2016-12-01
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “Our experience of time has long puzzled theorists from very different perspectives: psychologists and physicists, metaphysicians and philosophers of mind.”
 
 “Experiencing Time is, first and foremost, an attack on the A-theory of time and so a defence of the B-theory.”

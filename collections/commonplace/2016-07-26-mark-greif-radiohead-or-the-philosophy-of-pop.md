@@ -8,6 +8,8 @@ link: https://nplusonemag.com/issue-3/essays/radiohead-or-philosophy-pop/
 date: 2016-07-26
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “Radiohead belong to “rock,” and if rock has a characteristic subject, as country music’s is small pleasures in hard times (getting by), and rap’s is success in competition (getting over), that subject must be freedom from constraint (getting free).”
 
 “A description of the condition of the late 1990s could go like this: At the turn of the millennium, each individual sat at a meeting point of shouted orders and appeals, the TV, the radio, the phone and cell, the billboard, the airport screen, the inbox, the paper junk mail.”

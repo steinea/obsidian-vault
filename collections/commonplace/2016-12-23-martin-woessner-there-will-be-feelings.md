@@ -8,6 +8,8 @@ link: https://lareviewofbooks.org/article/will-feelings-george-toless-paul-thoma
 date: 2016-12-23
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “LIKE ME, the esteemed film scholar George Toles thinks that Paul Thomas Anderson didn’t really come into his own as a director until he made There Will Be Blood (2007), his fifth feature film.”
 
 “But as I read Toles’s intriguing new book on Anderson — part of the increasingly influential “Contemporary Film Directors” series published by the University of Illinois Press — I began to realize that he and I value the film for very different, perhaps even incommensurable reasons.”

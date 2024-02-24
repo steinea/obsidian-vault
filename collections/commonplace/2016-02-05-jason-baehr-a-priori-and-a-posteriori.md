@@ -8,6 +8,8 @@ link: http://www.iep.utm.edu/apriori/
 date: 2016-02-05
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “The terms "a priori" and "a posteriori" are used primarily to denote the foundations upon which a proposition is known.”
 
 

@@ -8,6 +8,8 @@ link: http://www.nybooks.com/daily/2016/05/24/wittgensteins-handles/
 date: 2016-07-23
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “I doubt that the return to philosophy was prompted by social connections, which were always a mixed bag for the antisocial Wittgenstein. I prefer to believe that the prompt was in the handle.”
 
 “For when Wittgenstein returned to philosophy, the idea that drove him beyond all others was that the nature of language had been misunderstood by philosophers, “including,” he noted winningly, “the author of the Tractatus.””

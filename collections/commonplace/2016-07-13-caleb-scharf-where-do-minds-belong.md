@@ -8,6 +8,8 @@ link: http://aeon.co/essays/intelligent-machines-might-want-to-become-biological
 date: 2016-07-13
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “If machine intelligence is the inevitable end-point of both technology and biology, then perhaps the aliens are hyper-evolved machines so off-the-charts advanced, so far removed from familiar biological forms, that we wouldn’t recognise them if we saw them.”
 
 “Similarly, we can imagine that interstellar machine communication would be so optimised and well-encrypted as to be indistinguishable from noise. In this view, the seeming absence of intelligent life in the cosmos might be an illusion brought about by our own inadequacies.”

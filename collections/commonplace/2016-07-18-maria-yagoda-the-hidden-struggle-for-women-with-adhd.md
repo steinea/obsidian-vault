@@ -8,6 +8,8 @@ link: https://broadly.vice.com/en_us/article/adhd-women-better-together-festival
 date: 2016-07-18
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “Courtney was diagnosed with Obsessive Compulsive Disorder in middle school, anxiety and depression in high school, and ADHD just five months prior to the festival. Now, she wonders if the childhood OCD was a misdiagnosis, as she's learning that many of her rituals stem from the chaos of navigating ADHD.”
 
 “"I thought I was stupid. I couldn't figure out this material. I would read the same page over and over again and not retain anything. It felt like there was a missing piece. People told me, 'You need to study harder!' But there was no one who studied harder than I did."”

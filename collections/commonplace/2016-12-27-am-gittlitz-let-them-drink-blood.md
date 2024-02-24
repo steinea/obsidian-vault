@@ -8,6 +8,8 @@ link: http://thenewinquiry.com/essays/let-them-drink-blood/
 date: 2016-12-27
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “Silicon Valley futurists plan to live forever by harvesting both the labor and the body parts of the working class”
 
 “SILICON Valley’s elites are a revolutionary vanguard party developing the not-too-distant future of cybernetic capitalist reconstruction.”

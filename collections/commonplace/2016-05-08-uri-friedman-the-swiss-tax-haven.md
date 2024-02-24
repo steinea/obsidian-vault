@@ -8,6 +8,8 @@ link: http://www.theatlantic.com/international/archive/2016/04/panama-papers-tax
 date: 2016-05-08
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “the index is a valuable exercise in complicating binary thinking about financial secrecy—the notion that a state is either an otherworldly no- or low-tax haven, or it’s not.”
 
 “Instead, “a global industry has developed involving the world’s biggest banks, law practices, accounting firms and specialist providers who design and market secretive offshore structures for their tax- and law-dodging clients,” the Tax Justice Network writes. “‘Competition’ between jurisdictions to provide secrecy facilities has, particularly since the era of financial globalisation really took off in the 1980s, become a central feature of global financial markets.””

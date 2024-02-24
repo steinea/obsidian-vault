@@ -8,6 +8,8 @@ link: https://www.marxists.org/reference/subject/philosophy/works/fr/hyppolit.ht
 date: 2016-02-25
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “Jean Hyppolite (1952)
 
 Source: Logic & Existence from State University of New York Press, 1997. Final Chapter before Conclusion reproduced here.”

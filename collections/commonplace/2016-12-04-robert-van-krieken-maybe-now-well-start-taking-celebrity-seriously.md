@@ -8,6 +8,8 @@ link: https://thesociologicalreview.org/collections/2016-us-election/maybe-now-w
 date: 2016-12-04
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “Donald J. Trump has snuck up on most of us, spending a lifetime building up his celebrity identity, refining Brand Trump, accumulating not just cash, but a huge pile of attention capital that he has cashed in at just the right time, when the discontents of globalisation reached fever pitch.”
 
 “In looking for the historical origins of the Trump Republic, one could pick different starting points.”

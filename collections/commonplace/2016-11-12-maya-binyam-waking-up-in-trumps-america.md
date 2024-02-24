@@ -8,6 +8,8 @@ link: http://thenewinquiry.com/essays/waking-up-in-trumps-america-part-1/
 date: 2016-11-12
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “The imperative to ironize violence necessarily relies on the presumption that hate originates from a point of distance.”
 
 “Because hate–and its attendant calls for security, sovereignty, and control–is cathected through the desire for isolation, it’s difficult to convince white people that their safety is an illusion.”

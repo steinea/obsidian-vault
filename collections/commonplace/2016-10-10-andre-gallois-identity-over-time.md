@@ -8,6 +8,8 @@ link: http://plato.stanford.edu/entries/identity-time/
 date: 2016-10-10
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “Traditionally, this puzzle has been solved in various ways. Aristotle, for example, distinguished between “accidental” and “essential” changes.”
 
 “Accidental changes are ones that don’t result in a change in an objects’ identity after the change, such as when a house is painted, or one’s hair turns gray, etc.”

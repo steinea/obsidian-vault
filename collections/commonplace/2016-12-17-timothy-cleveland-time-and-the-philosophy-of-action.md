@@ -8,6 +8,8 @@ link: https://ndpr.nd.edu/news/time-and-the-philosophy-of-action-2/
 date: 2016-12-17
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “Action takes time, unfolds in time.”
 
 “Intentions persist through time, our deliberations are sensitive to time, our commitments maintained through time.”

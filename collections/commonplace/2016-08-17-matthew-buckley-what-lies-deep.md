@@ -8,6 +8,8 @@ link: http://bostonreview.net/books-ideas/matthew-buckley-search-new-physics-cer
 date: 2016-08-17
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “The Standard Model, as I have explained, requires a Higgs field: a field with a nonzero value everywhere that allows the matter (fermion) fields and W and Z bosons to gain masses and that creates electromagnetism by mixing up the weak and hypercharge forces (breaking their gauge symmetries).”
 
 “To understand this problem, recall two facts about quantum fields. First, the mass of a field tells you its natural frequency. Like a guitar string, the field has a frequency at which it wants to oscillate. If an excitation of the field has the right energy and momentum—adding up to the mass—the field will sustain that oscillation, instead of dying away. So when we say the Higgs mass is 125 GeV, we’re saying that the Higgs field likes to oscillate with a frequency related to this particular energy.”

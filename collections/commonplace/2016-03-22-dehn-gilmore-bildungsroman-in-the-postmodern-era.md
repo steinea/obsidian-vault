@@ -8,6 +8,8 @@ link: https://lareviewofbooks.org/review/bildungsroman-in-the-postmodern-era/
 date: 2016-03-22
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “studies briefly with a Buddhist guru, whose advice is to “[e]xamine every thought, desire, sensation until you fully understand its source. Expect nothing from the world. Then you will naturally wake up to your true state.””
 
 “reading Elsie’s confessions is like listening to a friend who has made some questionable choices but reflects with intelligence and emotional integrity upon them.”

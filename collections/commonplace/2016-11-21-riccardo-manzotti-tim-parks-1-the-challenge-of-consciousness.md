@@ -8,6 +8,8 @@ link: http://www.nybooks.com/daily/2016/11/21/challenge-of-defining-consciousnes
 date: 2016-11-21
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “some reflections on the social implications of the various theories for what we think about consciousness, which is as much as to say what we think about who and what we are, inevitably has consequences for how we relate to one another, and to the world”
 
 “But our first problem will be one of definition.”

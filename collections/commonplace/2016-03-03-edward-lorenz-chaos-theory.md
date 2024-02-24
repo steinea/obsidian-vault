@@ -8,6 +8,8 @@ link: https://en.wikipedia.org/wiki/Chaos_theory
 date: 2016-03-03
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 Chaos theory is the field of study in mathematics that studies the behavior and condition of dynamical systems that are highly sensitive to initial conditions—a response popularly referred to as the butterfly effect.[1]Small differences in initial conditions (such as those due to rounding errors in numerical computation) yield widely diverging outcomes for such dynamical systems, rendering long-term prediction impossible in general.[2] This happens even though these systems are deterministic, meaning that their future behavior is fully determined by their initial conditions, with no random elements involved.[3] In other words, the deterministic nature of these systems does not make them predictable.[4][5]This behavior is known as deterministic chaos, or simply chaos. The theory was summarized by Edward Lorenz as:[6]
 
 Chaos: When the present determines the future, but the approximate present does not approximately determine the future.

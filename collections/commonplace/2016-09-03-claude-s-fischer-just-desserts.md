@@ -8,6 +8,8 @@ link: http://bostonreview.net/made-america/claude-fischer-just-deserts
 date: 2016-09-03
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “This puzzle recalls the hoary question of why there is no socialism in America. Why is the United States distinctive among Western nations in the weakness of its labor movement, absence of universal health care and other public goods, and reluctance to redistribute income where the elderly are not concerned?”
 
 “Generations of answers have ranged from the American mindset (say, individualism) to exercises of brute political power (e.g., strike-breakers, campaign money) to the formal structure of government (such as single-member districts).”

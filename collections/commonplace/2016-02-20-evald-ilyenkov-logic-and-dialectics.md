@@ -8,6 +8,8 @@ link: https://www.marxists.org/archive/ilyenkov/works/essays/essay3.htm
 date: 2016-02-20
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “First of all we must note that it was German classical philosophy that clearly recognised and sharply expressed the fact that all problems of philosophy as a special science somehow or other turned on the question of what thought was and what were its interrelations with the external world.”
 
 “Understanding of this fact, already matured earlier in the systems of Descartes and Locke, Spinoza and Leibniz, was now transformed into the consciously established jumping-off point of all investigations, into the basic principle of a critical rethinking of the results of the preceding development.”

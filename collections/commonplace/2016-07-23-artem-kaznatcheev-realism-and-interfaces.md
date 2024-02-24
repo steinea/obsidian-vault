@@ -8,6 +8,8 @@ link: https://egtheory.wordpress.com/2014/11/30/interface-philosophy/
 date: 2016-07-23
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “In an earlier post, I discussed three theories of perception: naive realism, critical realism, and interfaces.”
 
 “To remind you of the terminology: naive realism is the stance that the world is exactly as we perceive it and critical realism is that perception resembles reality, but doesn’t capture all of it.”

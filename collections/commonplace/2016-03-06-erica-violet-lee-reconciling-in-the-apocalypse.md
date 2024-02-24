@@ -8,6 +8,8 @@ link: https://www.policyalternatives.ca/publications/monitor/reconciling-apocaly
 date: 2016-03-06
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “few have an understanding of what it means to practice reconciliation in the face of ongoing colonialism”
 
 “we aren’t past the stage where Canada’s biggest magazines will still pay for regurgitated ideas of reserves and Northern communities like La Loche as “doomed,” and of Indigenous peoples as inherently “tragic,” disregarding the theft and dispossession preceding these labels”

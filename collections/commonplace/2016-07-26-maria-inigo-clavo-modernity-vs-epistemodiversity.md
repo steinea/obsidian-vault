@@ -8,6 +8,8 @@ link: http://www.e-flux.com/journal/modernity-vs-epistemodiversity/
 date: 2016-07-26
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “Postcolonial theorists from both Europe and the rest of the world have illustrated how ideals of emancipation, equality, freedom, and scientific and industrial development were only possible through their opposites: colonial exploitation, inequality, slavery, torture, and suffering in the Global South.”
 
 “That’s why, during the 1990s, theorists felt it was necessary to insist that coloniality was the other face of modernity, the “dark side of the renaissance,” as Walter Mignolo famously put it.”

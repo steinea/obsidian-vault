@@ -8,6 +8,8 @@ link: https://www.marxists.org/archive/marx/works/1877/anti-duhring/ch09.htm
 date: 2016-01-09
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “To which we might answer with Spinoza: Ignorantia non est argumentum. Ignorance is no argument.”
 
 “But when a person undertakes to compose a legal philosophy for all worlds and all ages, he should at least have some degree of acquaintance with legal systems like those of the French, English and Americans, nations which have played quite a different role in history from that played by the little corner of Germany in which Prussian law flourishes.”

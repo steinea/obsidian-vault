@@ -8,6 +8,8 @@ link: https://www.marxists.org/reference/subject/ethics/kant/reason/ch04.htm
 date: 2016-01-29
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “All ignorance is either ignorance of things or of the functions and limits of knowledge.”
 
 

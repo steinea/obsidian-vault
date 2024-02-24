@@ -8,6 +8,8 @@ link: https://aeon.co/opinions/why-humanitarian-intervention-goes-horribly-wrong
 date: 2016-03-31
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “Two decades have shown that plans to protect people from massacres are so rife with practical and political shortcomings that we might be better off discarding the ideal.”
 
 “The best-known plan is ‘The Responsibility to Protect’ (R2P) doctrine. It warns governments slaughtering their citizens that they will be stopped, with military might if essential, and that sovereignty will no longer provide them with cover to act with impunity.”

@@ -8,6 +8,8 @@ link: http://daily.jstor.org/inventing-rituals-for-the-digital-world/
 date: 2016-10-08
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “As such, our online milestones are not yet surrounded with the traditions or rituals that mark significant offline turning points.”
 
 “But there is a reason that ritual is such a pervasive part of human experience that it appears in every culture, and dissected by a wide range of disciplines. As Peter Maclaren points out in “Rethinking Ritual,” rituals are “the symbolic codes for interpreting and negotiating events of everyday existence.””

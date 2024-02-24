@@ -8,6 +8,8 @@ link: https://ndpr.nd.edu/news/66649-the-age-of-the-poets-and-other-writings-on-
 date: 2016-07-23
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “Badiou's touchstone is Stéphane Mallarmé (1842-98), specifically Mallarmé's conception of la poésie pur in which the poem is no longer a form of mediation but a materialization of language whose words are scattered as if by chance across the white space of the printed page.”
 
 “In "Crise de vers" (1896), for example, Mallarmé writes:

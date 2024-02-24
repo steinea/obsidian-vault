@@ -8,6 +8,8 @@ link: https://poets.org/poem/song-myself-44
 date: 2016-09-29
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 It is time to explain myself—Let us stand up.
  
 What is known I strip away;

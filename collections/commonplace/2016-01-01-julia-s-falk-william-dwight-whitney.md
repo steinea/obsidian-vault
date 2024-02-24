@@ -7,7 +7,9 @@ publication: American National Biography
 link: https://www.anb.org/view/10.1093/anb/9780198606697.001.0001/anb-9780198606697-e-1400696#anb-9780198606697-e-1400696
 date: 2016-01-01
 ---
-	 
+
+[[2016]] / [[commonplace]] / 
+ 
 William Dwight Whitney. Albumen silver print, c. 1868, by Garrett Brothers.
 
 National Portrait Gallery, Smithsonian Institution; gift of the Emma Willard School.

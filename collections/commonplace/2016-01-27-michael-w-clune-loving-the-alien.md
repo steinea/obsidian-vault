@@ -8,6 +8,8 @@ link: https://lareviewofbooks.org/review/loving-the-alien-thomas-ligotti-and-the
 date: 2016-01-27
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “Lovecraft’s most ardent recent lovers have been philosophers like Graham Harman, Quentin Meillassoux, and Eugene Thacker, who approach his work with a new kind of intellectual intensity. These philosophers see Lovecraft as effecting a kind of Copernican revolution. In story after story, he depicts the invasion of the human world by a monstrous perspective, embodied in hideous forms of alien life. But what makes Lovecraftian horror genuinely cosmic is the capacity of the monstrous perspective to put humans in their place.”
 
 “The philosophers believe that Lovecraft’s fictions dramatize the truth about the universe. To understand the world we find ourselves in, we need to “unhumanize our views a little,” in words of Lovecraft’s contemporary, the poet Robinson Jeffers.”

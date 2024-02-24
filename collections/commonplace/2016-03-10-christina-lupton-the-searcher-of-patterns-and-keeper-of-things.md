@@ -8,6 +8,8 @@ link: https://lareviewofbooks.org/review/the-searcher-of-patterns-and-the-keeper
 date: 2016-03-10
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “We find ourselves these days at a strange point in the history of intellection, where the “how” of finding out often looms larger as a form of innovation than the “what.””
 
 “this is the meta language of his book, begging the question of what it means to find ourselves here rather than there, to recover what floats accidentally to the surface rather than to look for patterns in the past”

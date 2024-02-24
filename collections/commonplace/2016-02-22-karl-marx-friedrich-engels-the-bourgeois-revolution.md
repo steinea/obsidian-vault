@@ -8,6 +8,8 @@ link: https://www.laphamsquarterly.org/revolutions/bourgeois-revolution
 date: 2016-02-22
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 "The history of all hitherto existing society is the history of class struggles. Freeman and slave, patrician and plebeian, lord and serf, guild master and journeyman, in a word, oppressor and oppressed, stood in constant opposition to one another, carried on an uninterrupted, now hidden, now open fight, a fight that each time ended, either in a revolutionary reconstitution of society at large or in the common ruin of the contending classes."
 
 "The modern bourgeois society that has sprouted from the ruins of feudal society has not done away with class antagonisms. It has but established new classes, new conditions of oppression, new forms of struggle in place of the old ones."

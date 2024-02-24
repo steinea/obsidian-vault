@@ -8,6 +8,8 @@ link: http://www.preposterousuniverse.com/blog/2016/02/08/guest-post-grant-remme
 date: 2016-02-09
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “Famously, a complete quantum mechanical theory of gravitation is difficult to construct. However, one of the aspects that we are now coming to understand about quantum gravity is that in the final theory, gravitation and even spacetime itself will be closely related to, and maybe even emergent from, the mysterious quantum mechanical property known as entanglement.”
 
 “This all started several decades ago, when Hawking and others realized that black holes behave with many of the same aspects as garden-variety thermodynamic systems, including temperature, entropy, etc. Most importantly, the black hole’s entropy is equal to its area [divided by (4 times Newton’s constant)].”

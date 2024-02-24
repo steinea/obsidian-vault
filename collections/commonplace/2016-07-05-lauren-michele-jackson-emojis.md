@@ -8,6 +8,8 @@ link: http://reallifemag.com/e-mo-jis/
 date: 2016-07-05
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “We have plenty reason to see this coming. We know what happens to idioms that reach critical mass; more important, how the process of popularity in fact necessitates a kind of ironic reduction of the object.”
 
 “The unique, inventive aspects that make us want to pass it on must be shorn off for maximum circulation and accessibility.”

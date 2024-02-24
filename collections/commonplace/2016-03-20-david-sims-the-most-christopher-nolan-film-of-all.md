@@ -8,6 +8,8 @@ link: http://www.theatlantic.com/entertainment/archive/2016/03/memento-is-a-prec
 date: 2016-03-20
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “It remains a dazzling trick that holds up on repeat viewings, and the chilly precision with which Nolan executed it helped define the indie movies of the aughts, from the time-traveling mathematics of Primer to the high school neo-noir of Brick.”
 
 “Memento’s trickery echoes the twisty plotting Quentin Tarantino utilized in the ’90s classics Reservoir Dogs and Pulp Fiction, but it feels much more mathematical.”

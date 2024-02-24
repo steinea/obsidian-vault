@@ -8,6 +8,8 @@ link: https://terenceblake.wordpress.com/2016/11/08/against-zizeks-normalization
 date: 2016-11-08
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “Zizek has done some excellent work on the middle period of Deleuze’s thought and he has succeeded in integrating important ideas from DIFFERENCE AND REPETITION and LOGIC OF SENSE, but Deleuze’s positive evaluation of Jung remains a blind spot for him.”
 
 “Zizek operates with a normalised vision of Jung at the very moment that he argues against Pippin and Brandom’s “re-normalization of Hegel” in favour of Hegel’s “madness”. I wish to argue that a similar operation of “de-normalization” has been effected by some of the post-Jungians to dissolve the standard image of Jung.”

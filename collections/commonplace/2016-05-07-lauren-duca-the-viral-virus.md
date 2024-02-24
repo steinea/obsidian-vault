@@ -8,6 +8,8 @@ link: http://thenewinquiry.com/essays/the-viral-virus/
 date: 2016-05-07
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “AT its core, social media is a public pinboard of self-expression, a set of arenas where anything we post inevitably doubles as a signal of our identity.”
 
 “The more explicit mode of self-expression has led to the proliferation of identity-bait articles, cooked up not to be especially informative but to be shared as condensed bits of the whole you.”

@@ -8,6 +8,8 @@ link: http://thenewinquiry.com/essays/reform-school/
 date: 2016-03-21
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “Capitalists will constantly seek to reshape schooling because their labor supply can always be more efficient”
 
 “BY the time most public commentators are old enough to publish a book, they have put enough distance between themselves and their compulsory education that the particular ways in which it sucks are hard for them to recall.”

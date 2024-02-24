@@ -8,6 +8,8 @@ link: https://terenceblake.wordpress.com/2016/11/06/traits-of-the-pluralist-non-
 date: 2016-11-06
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “Zizek often talks as if Deleuze had put forward a post-modern relativism, which he didn’t, and as if he had no arguments against Freud and Lacan, which he did. The unconscious and the dialectic belong to noone.”
 
 “The pluralist reponse to Zizek, or to any dogmatist, would be to integrate him into a vaster picture, making use of the creation of concepts that are compatible with a pluralist outlook and jettisoning the dogma. This is what I am trying to do on my blog, which explains why the Zizekians, the Laruelleans, etc are keeping quite and ignoring me.”

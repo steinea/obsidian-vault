@@ -8,6 +8,8 @@ link: http://www.theatlantic.com/science/archive/2016/03/phlegm-theories-of-cons
 date: 2016-03-09
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “In the modern age we can chuckle over medieval naiveté, but we often suffer from similar conceptual confusions. We have our share of phlegm theories, which flatter our intuitions while explaining nothing. They’re compelling, they often convince, but at a deeper level they’re empty.”
 
 “One corner of science where phlegm theories proliferate is the cognitive neuroscience of consciousness. The brain is a machine that processes information, yet somehow we also have a conscious experience of at least some of that information. How is that possible? What is subjective experience? It’s one of the most important questions in science, possibly the most important, the deepest way of asking: What are we? Yet many of the current proposals, even some that are deep and subtle, are phlegm theories.”

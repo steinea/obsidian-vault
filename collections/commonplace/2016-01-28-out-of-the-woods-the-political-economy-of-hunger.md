@@ -8,6 +8,8 @@ link: https://libcom.org/blog/political-economy-hunger-17112014
 date: 2016-01-28
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “Why do people go hungry?”
 
 “The intuitive answer to this question is that there must be a lack of food. This explanation comes in two flavours.”

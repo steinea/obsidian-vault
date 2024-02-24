@@ -8,6 +8,8 @@ link: https://aeon.co/ideas/arabic-translators-did-far-more-than-just-preserve-g
 date: 2016-11-04
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “This was thanks to a well-funded translation movement that unfolded during the Abbasid caliphate, beginning in the second half of the eighth century. Sponsored at the highest levels, even by the caliph and his family, this movement sought to import Greek philosophy and science into Islamic culture”
 
 “Their empire had the resources to do so, not just financially but also culturally. From late antiquity to the rise of Islam, Greek had survived as a language of intellectual activity among Christians, especially in Syria. So when Muslim aristocrats decided to have Greek science and philosophy translated into Arabic, it was to Christians that they turned. Sometimes, a Greek work might even be translated first into Syriac, and only then into Arabic. It was an immense challenge. Greek is not a semitic language, so they were moving from one language group to another: more like translating Finnish into English than Latin into English. And there was, at first, no established terminology for expressing philosophical ideas in Arabic.”

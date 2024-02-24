@@ -8,6 +8,8 @@ link: https://www.marxists.org/reference/subject/philosophy/works/at/freud2.htm
 date: 2016-03-10
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “With regard to the two alternatives - that the ego and the super-ego may themselves be unconscious, or that they may merely give rise to unconscious effects - we have for good reasons decided in favour of the former.”
 
 “Certainly, large portions of the ego and super-ego can remain unconscious are, in fact, normally unconscious.”

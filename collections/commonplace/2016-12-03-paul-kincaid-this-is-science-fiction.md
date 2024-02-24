@@ -8,6 +8,8 @@ link: https://lareviewofbooks.org/article/this-is-science-fiction/
 date: 2016-12-03
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “IS THERE ANY BRANCH of literature so insecure, so uncertain of its own status, as science fiction?”
 
 “Historians confidently place its origins in 1516 (Utopia by Thomas More), or 1634 (Somnium by Johannes Kepler), or 1818 (Frankenstein by Mary Shelley), or 1926 (Amazing Stories edited by Hugo Gernsback).”

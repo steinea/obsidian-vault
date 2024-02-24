@@ -8,6 +8,8 @@ link: https://lareviewofbooks.org/essay/evangelicals-are-losing-the-battle-for-t
 date: 2016-02-17
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “Zimmermann’s prototypical evangelical experience is emblematic in one additional, unexpected way. Since graduating from high school, Zimmermann has undergone a revolution in his thinking about evangelicals’ foundational text, the Bible, to the extent that he no longer regards the Bible as inerrant, dictated by God, historically accurate in all of its claims or even internally consistent with itself.”
 
 ““The Bible holds high authority in my life,” Zimmermann told me recently. And yet, he added,

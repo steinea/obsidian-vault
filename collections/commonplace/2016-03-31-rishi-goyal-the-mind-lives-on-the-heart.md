@@ -8,6 +8,8 @@ link: https://lareviewofbooks.org/review/the-mind-lives-on-the-heart-a-death-def
 date: 2016-03-31
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “CATASTROPHE AND MIRACLE are the two poles of our bipolar imagination, and both are enveloped in the folds of contemporary science.”
 
 “Apocalyptic fiction rehearses stories of the end of the world brought on by scientific malfeasance and tragic hubris, while science journalism touts the end of human suffering through cloning and stem-cell research.”

@@ -8,6 +8,8 @@ link: https://lareviewofbooks.org/article/why-moviegoing-matters/
 date: 2016-12-05
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “if technology has expanded our cinematic choices, it has circumscribed our cinematic spaces, mostly to our own private screens”
 
 “What’s lost in the process is the experience of moviegoing, of actually leaving the house, fighting traffic to make it downtown, waiting in line, perhaps in the rain or snow, and then enduring 15 minutes of commercials so that, for an hour or two, you may sit in a dark room with a group of strangers and watch images flicker on a screen the size of a tennis court.”

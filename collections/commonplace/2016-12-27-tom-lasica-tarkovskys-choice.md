@@ -8,6 +8,8 @@ link: http://www.nostalghia.com/TheTopics/Tarkovsky-TopTen.html
 date: 2016-12-27
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 In 1972 Andrei Tarkovsky told Leonid Kozlov about his favorite films. Tom Lasica recently talked with the critic. 
 
 Source: Sight and Sound, March 1993, Volume 3, Issue 3. All rights are reserved by Sight and Sound and The British Film Institute (BFI). The article is reproduced on Nostalghia.com with the kind permission of the Sight and Sound Publishing Manager. We are also indebted to Jon Lomax and Nick Wrigley for diligently tracking down the article for us, ploughing through huge piles of Sight and Sound back-issues, and for providing us with the below high-quality scan. Note that Tarkovsky's list was first printed in Kinovedcheskie zapiski 14, 1992. Nostalghia.com has obtained a scan of the original page — it may be viewed here. 

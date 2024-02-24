@@ -8,6 +8,8 @@ link: http://www.salon.com/2015/12/22/the_star_wars_fandom_menace_the_glaring_em
 date: 2016-07-14
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 ““Star Wars” is shallow and silly and campy and fun, and a dozen other synonyms that suggest we shouldn’t think about it too hard.”
 
 “I don’t usually—I watch “Star Wars” with an impressionist eye, the way I watch “Jessica Jones” or J.J. Abrams’ “Star Trek” “reboot” or any of many films based on comic books. The gaping plot holes will ruin your fun if you let them, so you follow the camera’s invitation to insist on your pleasure and thread your way around them.”

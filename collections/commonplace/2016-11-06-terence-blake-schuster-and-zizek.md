@@ -8,6 +8,8 @@ link: https://terenceblake.wordpress.com/2016/11/06/lost-occasions-2-schuster-an
 date: 2016-11-06
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “I wish to distinguish the dialectical and the ontological Zizek from the psychoanalytical Zizek. The psychoanalytical Zizek with his dogmatic Lacanianism constitutes a monstrous regression in thinking, back to pre-Deleuzian times. The dialectical and ontological Zizek contributes interesting ideas both to the contemporary debate and to our vision of recent philosophical history.”
 
 “Zizek even goes so far as to declare “I will never pardon in Deleuze his defence of Jung”. In fact, he will not pardon Deleuze’s freedom of spirit.”

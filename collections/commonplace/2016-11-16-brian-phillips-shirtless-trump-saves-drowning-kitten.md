@@ -8,6 +8,8 @@ link: https://www.mtv.com/news/sctf7j/shirtless-trump-saves-drowning-kitten
 date: 2016-11-16
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “One of the luxuries of power in Silicon Valley is the luxury to deny that your power exists.”
 
 “In this way, the god-emperors of our smartphones form an instructive contrast with our president-elect: They are anti-charismatic. Unlike Trump, the agents of disruption would rather not be seen as disruptors. In the sharing economy, nothing gets distributed like guilt.”

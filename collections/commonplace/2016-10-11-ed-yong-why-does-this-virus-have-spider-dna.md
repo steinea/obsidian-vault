@@ -8,6 +8,8 @@ link: http://www.theatlantic.com/science/archive/2016/10/the-virus-with-spider-d
 date: 2016-10-11
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “If you pick a random species of insect and look inside its cells, there’s a 40 percent chance that you’ll find bacteria called Wolbachia. And if you look at Wolbachia carefully, you’ll almost certainly find a virus called WO, lying in wait within its DNA. And if you look at WO carefully, as Seth and Sarah Bordenstein, from Vanderbilt University, have done, you’ll find parts of genes that look like they come from animals—including a toxin gene that makes the bite of the black widow spider so deadly.”
 
 “Let’s start with the bacteria. The various strains of Wolbachia are masters at infecting insects, spiders, woodlice, and other arthropods. Since their hosts are the most numerous and diverse animals in the world, Wolbachia must surely be one of the most successful microbes around. Sometimes, it manipulates the sex lives of its hosts, transforming males into females or even killing them outright. Sometimes, it provides benefits like vitamins or resistance to viruses. The latter skill is important to us, since Wolbachia’s presence can prevent mosquitoes from spreading the viruses behind dengue fever, Zika, yellow fever, and other important diseases.”

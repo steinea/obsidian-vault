@@ -8,6 +8,8 @@ link: https://aeon.co/essays/can-we-make-consciousness-into-an-engineering-probl
 date: 2016-07-11
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “The brain is a machine: a device that processes information.”
 
 “And yet, somehow, it also has a subjective experience of at least some of that information. Whether we’re talking about the thoughts and memories swirling around on the inside, or awareness of the stuff entering through the senses, somehow the brain experiences its own data. It has consciousness.”

@@ -8,6 +8,8 @@ link: http://www.e-flux.com/journal/what-is-philosophy-part-one-axioms-and-progr
 date: 2016-02-06
 ---
 
+[[2016]] / [[commonplace]] / 
+ 
 “The central thesis of this text is that philosophy is, at its deepest level, a program—a collection of action-principles and practices-or-operations which involve realizabilities, i.e., what can be possibly brought about by a specific category of properties or forms.”
 
 
