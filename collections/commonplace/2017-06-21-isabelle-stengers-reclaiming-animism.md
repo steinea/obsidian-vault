@@ -8,6 +8,8 @@ link: http://www.e-flux.com/journal/reclaiming-animism/
 date: 2017-06-21
 ---
 
+[[2017]] / [[commonplace]] / 
+ 
 “Some people love to divide and classify, while others are bridge-makers—weaving relations that turn a divide into a living contrast, one whose power is to affect, to produce thinking and feeling.”
 
 

@@ -8,6 +8,8 @@ link: http://tripleampersand.org/alt-woke-manifesto/
 date: 2017-06-13
 ---
 
+[[2017]] / [[commonplace]] / 
+ 
 “Introduction:”
 
 “There is no term more ubiquitous, obnoxious, and self-serving in our current lexicon as “woke.””

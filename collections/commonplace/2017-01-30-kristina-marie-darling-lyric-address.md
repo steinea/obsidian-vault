@@ -8,6 +8,8 @@ link: https://lareviewofbooks.org/article/lyric-address-impossible-desire/
 date: 2017-01-30
 ---
 
+[[2017]] / [[commonplace]] / 
+ 
 “EMMANUEL LEVINAS ONCE ARGUED that intimacy takes us from the impossible to the infinite, and back again.”
 
 “In this interstitial space, we are transfixed by the boundlessness of another consciousness — a luminous, intricate, self-contained world that is ultimately inaccessible.”

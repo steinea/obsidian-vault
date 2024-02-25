@@ -8,6 +8,8 @@ link: http://www.esquire.com/entertainment/movies/a12502218/blade-runner-2049-re
 date: 2017-09-29
 ---
 
+[[2017]] / [[commonplace]] / 
+ 
 “Between its premiere in 1982 and the final cut in 2007, eight different versions of Ridley Scott’s Blade Runner have been released—which perfectly illustrates the embattled existence of what is otherwise one of the greatest sci-fi films ever.”
 
 “It was originally shown in theaters with a studio-imposed voiceover (to Bladesplain the whole thing) and a “happy ending,” which saw its heroes Rick Deckard (Harrison Ford) and Rachael (Sean Young) riding off into a beautiful forest landscape—changes that execs believed would make the movie more accessible to the average dummy moviegoer.”

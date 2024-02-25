@@ -8,6 +8,8 @@ link: https://www.theatlantic.com/entertainment/archive/2017/12/black-mirror-bla
 date: 2017-12-31
 ---
 
+[[2017]] / [[commonplace]] / 
+ 
 "While I didn’t love “Metalhead,” David, which felt like a 40-minute black-and-white episode of Black Mirror does The Hunger Games, I did think there was something almost unbearably haunting about the final twist. "
 
 "It seemed like the ultimate way to differentiate humans from robots, to have a group of adults essentially sacrifice their lives for something as useless but as emotionally resonant as a teddy bear for a sick child. "

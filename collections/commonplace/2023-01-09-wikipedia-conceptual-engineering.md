@@ -8,6 +8,8 @@ link: https://en.m.wikipedia.org/wiki/Conceptual_engineering
 date: 2023-01-09
 ---
 
+[[2023]] / [[commonplace]] / 
+ 
 "**Conceptual engineering** is a field in [analytic philosophy](https://en.wikipedia.org/wiki/Analytic_philosophy) that focuses on how to best assess and improve our [conceptual](https://en.wikipedia.org/wiki/Concept) schemes and repertoires. One of its key features is its [normative](https://en.wikipedia.org/wiki/Normative) agenda: conceptual engineers aim to prescribe which concepts we *ought to* have and use, instead of merely describing those we have and use"
 
 "The most standard reference in the literature is to [Rudolf Carnap](https://en.wikipedia.org/wiki/Rudolf_Carnap)'s notion of [explication](https://en.wikipedia.org/wiki/Explication#Carnap's_notion_of_explication) as a precursory method of conceptual engineering for theoretical purposes"

@@ -8,6 +8,8 @@ link: https://cosmos.art/cosmic-bulletin/2022/on-attaining-immortality-through-s
 date: 2023-10-01
 ---
 
+[[2023]] / [[commonplace]] / 
+
 "In 2004, I found myself in the south of Kazakhstan on a field recording trip: an ethnographic study of the traditional form of throat singing called *zhirau*"
 
 "The local name for the artists who perform this kind of music is *bakshi*. The same word is used throughout Central Asia for those possessed of second sight or an ability to intuit the future, or those leading or pointing the way"

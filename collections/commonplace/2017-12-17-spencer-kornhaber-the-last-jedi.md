@@ -8,6 +8,8 @@ link: https://www.theatlantic.com/entertainment/archive/2017/12/the-last-jedi-tw
 date: 2017-12-17
 ---
 
+[[2017]] / [[commonplace]] / 
+ 
 ““This is not going to go the way you think!” growls Luke Skywalker in a line that was, wisely, selected as the money quote for The Last Jedi’s trailers.”
 
 “Rian Johnson’s Star Wars sequel is a machine built to startle the audience again and again across two and a half hours, and he’s turned everything from lightsaber duels to celebrity cameos into not-what-you-think moments.”

@@ -8,6 +8,8 @@ link: https://www.theparisreview.org/blog/2017/02/15/rhythmical-lines/
 date: 2017-02-15
 ---
 
+[[2017]] / [[commonplace]] / 
+ 
 “When he was eighty-five, Waclaw Szpakowski wrote a treatise for a lifetime project that no one had known about. Titled “Rhythmical Lines,” it describes a series of labyrinthine geometrical abstractions, each one produced from a single continuous line.”
 
 “He’d begun these drawings around 1900, when he was just seventeen—what started as sketches he then formalized, compiled, and made ever more intricate over the course of his life.”

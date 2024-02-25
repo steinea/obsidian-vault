@@ -8,6 +8,8 @@ link: https://www.spurgeon.org
 date: 2017-06-20
 ---
 
+[[2017]] / [[commonplace]] / 
+ 
 He who forgets the humming of the bees among the heather, the cooing of the wood-pigeons in the forest, the song of birds in the woods, the rippling of rills among the rushes, and the sighing of the wind among the pines, needs not wonder if his heart forgets to sing and his soul grows heavy. 
 
 A day’s breathing of fresh air upon the hills, or a few hours’ ramble in the beech woods’ umbrageous calm, would sweep the cobwebs our of the brain of scores of our toiling ministers who are now but half alive. 

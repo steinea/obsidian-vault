@@ -8,6 +8,8 @@ link: https://www.quantamagazine.org/quantum-field-theory-pries-open-mathematica
 date: 2023-06-11
 ---
 
+[[2023]] / [[commonplace]] / 
+ 
 "Last month, [Karen Vogtmann](https://warwick.ac.uk/fac/sci/maths/people/staff/karen_vogtmann/) and [Michael Borinsky](https://michaelborinsky.com/) [posted a proof](https://arxiv.org/abs/2301.01121) that there is a truckload of mathematical structure within a hitherto inaccessible mathematical world called the moduli space of graphs, which Vogtmann and a collaborator [first described](https://link.springer.com/article/10.1007/BF01388734) in the mid-1980s"
 
 "Vogtmann and Borinsky started with questions that Vogtmann, a mathematician at the University of Warwick, had been asking herself for decades. The pair then reimagined the issue in the language of physics, using techniques from quantum field theory to come up with their result"

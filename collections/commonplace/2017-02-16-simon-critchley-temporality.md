@@ -8,6 +8,8 @@ link: http://www.theguardian.com/commentisfree/belief/2009/jul/27/heidegger-bein
 date: 2017-02-16
 ---
 
+[[2017]] / [[commonplace]] / 
+ 
 Being and Time pt. 8
 
 “Being and Time is extraordinarily rich, difficult and systematic work of philosophy that repays careful reading and rereading.”

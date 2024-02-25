@@ -8,6 +8,8 @@ link: https://twitter.com/profcatdg/status/860973579592228864
 date: 2017-05-06
 ---
 
+[[2017]] / [[commonplace]] / 
+ 
 “#Archetypes are to narratives, as #CategoryTheory is to #mathematics.”
 
 

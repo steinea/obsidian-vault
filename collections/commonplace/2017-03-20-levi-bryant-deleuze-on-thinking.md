@@ -8,6 +8,8 @@ link: https://larvalsubjects.wordpress.com/2017/03/20/deleuze-what-is-called-thi
 date: 2017-03-20
 ---
 
+[[2017]] / [[commonplace]] / 
+ 
 “A delicate problem animates chapter 3 of Difference and Repetition. Deleuze wants to defend a pure concept of difference, an account of difference in itself, yet our experience is representational through and through.”
 
 “Everywhere we are creatures of habit that recognize beings and therefore do not encounter difference.”

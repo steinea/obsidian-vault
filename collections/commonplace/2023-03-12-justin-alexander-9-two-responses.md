@@ -8,6 +8,8 @@ link: https://thealexandrian.net/wordpress/46646/roleplaying-games/dark-tower-le
 date: 2023-03-12
 ---
 
+[[2023]] / [[commonplace]] / 
+ 
 "The dungeons of *Dark Tower* are incredibly ingenious in their design, with myriad and varied connections between their levels. In practice, however, the presentation of the dungeon can be somewhat murky, and a DM can easily find themselves trying to riddle out the basic function of the dungeon."
 
 "**DUNGEON OVERVIEW  

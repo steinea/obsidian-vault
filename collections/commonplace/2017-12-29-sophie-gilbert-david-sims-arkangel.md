@@ -8,6 +8,8 @@ link: https://www.theatlantic.com/entertainment/archive/2017/12/black-mirror-ark
 date: 2017-12-29
 ---
 
+[[2017]] / [[commonplace]] / 
+ 
 "David, I loved “USS Callister”—it’s my favorite of all the new episodes. You’re smart to observe how it starts with this mopey cliché of a lonely coder, encouraging you to sympathize with him, and then flips it on its head, showing the darkness of his walled-in fantasy world. "
 
 "It’s also interesting how the technology in the episode appears to nod back to “White Christmas” and its cookies."

@@ -8,6 +8,8 @@ link: https://illwill.com/composition
 date: 2023-03-20
 ---
 
+[[2023]] / [[commonplace]] / 
+ 
 "From [Standing Rock](https://illwill.com/print/dispatches-from-standing-rock) to [Lützerath](https://twitter.com/illwilleditions/status/1613185740149592064), the struggle to defend the Earth continuously crosses over into the construction of the commune"
 
 "Situating the battle to [defend Atlanta’s forests](https://defendtheatlantaforest.org/) within the collapse of the historical left and the rise of place-based or "territorial" forms of struggle, Hugh Farrell surveys the possibility of revolutionary organization in profoundly disordered times"

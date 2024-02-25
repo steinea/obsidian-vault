@@ -8,6 +8,8 @@ link: https://dev.lareviewofbooks.org/article/a-revolutionary-hate-to-salvage-ut
 date: 2023-06-12
 ---
 
+[[2023]] / [[commonplace]] / 
+ 
 "Miéville’s recasting of the opening words of the *Manifesto* for his title is particularly telling in that “a spectre, haunting” offers a continual, omnipresent, global apparition. If we normally think of ghosts as rooted to a particular time and place, then this specter is as rootless and shifting as capital itself"
 
 "Fox News fearmongers, whose vitriol is animated by their hatred of the poor, of immigrants, of non-heteronormative communities and anyone else who isn’t a Christian ethnonationalist, cannot contain or even properly name true communism because the movement’s real basis is fidelity to radical love"

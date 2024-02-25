@@ -8,6 +8,8 @@ link: https://terenceblake.wordpress.com/2017/07/28/john-david-ebert-mythic-visi
 date: 2017-07-28
 ---
 
+[[2017]] / [[commonplace]] / 
+ 
 “John David Ebert is an important theoretical voice, specialising in what he modestly calls “cultural criticism”, but is really an imaginative discipline that he is creating as he goes, combining myth studies, Continental philosophy, and popular culture.”
 
 “Ebert once ironically referred to himself as an “anti-Zizek”. However, he does not reject Zizek’s cultural criticism so much as incorporate his work into a wider vision informed by Jung and Hillman at least as much as by Freud and Lacan.”

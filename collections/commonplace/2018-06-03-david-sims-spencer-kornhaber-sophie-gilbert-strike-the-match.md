@@ -8,6 +8,8 @@ link: https://www.theatlantic.com/entertainment/archive/2018/06/westworld-season
 date: 2018-06-03
 ---
 
+[[2018]] / [[commonplace]] / 
+ 
 "Sophie Gilbert: "
 
 "If Westworld is just a higher-tech Jurassic Park, like we discussed a few weeks ago, then “Les Écorchés” is the moment Dr. Grant discovers that West African bullfrogs can change sex at will, and the velociraptors reach the visitor’s center. "

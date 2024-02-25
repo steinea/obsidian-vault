@@ -8,6 +8,8 @@ link: https://electricliterature.com/why-all-writers-should-play-dungeons-dragon
 date: 2017-10-05
 ---
 
+[[2017]] / [[commonplace]] / 
+ 
 “For decades, friends have collected in basements to fight zombies and goblins, find enchanted treasure, and save countless realms — armed only with paper and dice.”
 
 “This is Dungeons and Dragons , the roleplaying game that has swept nerddom by storm.”

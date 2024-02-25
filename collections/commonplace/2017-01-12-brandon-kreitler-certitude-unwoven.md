@@ -8,6 +8,8 @@ link: https://lareviewofbooks.org/article/certitude-unwoven-first-books-from-sar
 date: 2017-01-12
 ---
 
+[[2017]] / [[commonplace]] / 
+ 
 “RECALL WHEN, in Waiting for Godot, Pozzo cracks his whip and commands the man-donkey Lucky to “think.” The abused creature unleashes a torrent of theological collage, his only lines in the play.”
 
 “The desperate proliferation of arch language reminds us (once again) that the established taxonomy of deep truth does not always attach to anything very deep, or to anything at all.”

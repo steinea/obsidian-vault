@@ -8,6 +8,8 @@ link: https://terenceblake.wordpress.com/2017/05/04/let-noone-ignorant-of-sts-en
 date: 2017-05-04
 ---
 
+[[2017]] / [[commonplace]] / 
+ 
 (1): Latourology and the “Dark” Latour
 
 “Bruno Latour’s anti-platonism can be seen in a recent interview, where he declares:

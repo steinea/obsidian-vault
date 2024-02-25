@@ -8,6 +8,8 @@ link: https://reallifemag.com/selfwork/
 date: 2017-02-02
 ---
 
+[[2017]] / [[commonplace]] / 
+ 
 ““Well, if you are a high-priced man, you will do exactly as this man tells you to-morrow, from morning till night. When he tells you to pick up a pig and walk, you pick it up and you walk, and when he tells you to sit down and rest, you sit down. You do that right straight through the day. And what’s more, no back talk. Now a high-priced man does just what he’s told to do, and no back talk. Do you understand that?”
 
 —Frederick Winslow Taylor, The Principles of Scientific Management (1911)”

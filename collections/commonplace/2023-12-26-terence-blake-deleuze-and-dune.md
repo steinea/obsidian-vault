@@ -8,6 +8,8 @@ link: https://terenceblake.wordpress.com/2023/07/08/deleuze-and-dune-in-praise-o
 date: 2023-12-26
 ---
 
+[[2023]] / [[commonplace]] / 
+
 "« Always diverge, never converge » (Bob Bogle FRANK HERBERT: THE WORKS)"
 
 "Contrary to a popular story-telling stereotype, instantiated by later works influenced by DUNE such as STAR WARS, the narrative of DUNE does not follow the model of the hero’s journey. It recounts the story of an initiatory journey gone wrong"

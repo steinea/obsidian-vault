@@ -8,6 +8,8 @@ link: http://www.theguardian.com/commentisfree/belief/2009/jul/20/heidegger-bein
 date: 2017-02-15
 ---
 
+[[2017]] / [[commonplace]] / 
+ 
 Being and Time pt. 7
 
 “Finitude gets a grip on the self through the experience of conscience.”

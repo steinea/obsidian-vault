@@ -8,6 +8,8 @@ link: https://illwill.com/bifurcation
 date: 2023-03-06
 ---
 
+[[2023]] / [[commonplace]] / 
+ 
 "What happens when capital no longer seeks to dominate nature, but identifies itself with it?"
 
 "The limits of the perpetuation of life as we know it today appear globally as so many concrete barriers to the expansion and maintenance of the civilization of capital"

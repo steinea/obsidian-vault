@@ -8,6 +8,8 @@ link: http://www.theguardian.com/commentisfree/belief/2009/jun/22/heidegger-reli
 date: 2017-02-11
 ---
 
+[[2017]] / [[commonplace]] / 
+ 
 Being and Time pt. 3
 
 “What Heidegger seeks to destroy in particular is a certain picture of the relation between human beings and the world that is widespread in modern philosophy and whose source is Descartes (indeed Descartes is the philosopher who stands most accused in Being and Time).”

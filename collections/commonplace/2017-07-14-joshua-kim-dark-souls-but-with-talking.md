@@ -8,6 +8,8 @@ link: https://www.youtube.com/watch?v=eRbZVx6SuOE&t=1s
 date: 2017-07-14
 ---
 
+[[2017]] / [[commonplace]] / 
+ 
 This kind of makes me wonder...in NG+, since we already know everything that's going to happen, what if the Chosen Undead decided to stop being a mute idiot and use this knowledge to talk some sense into everyone?
 
 Gets the Estus Flask from Oscar Say...since you're also undead, why don't you take a sip of this to heal yourself instead of just die?! Hell, i'll dump some of this down your throat right now so that you can help me!

@@ -8,6 +8,8 @@ link: https://waypoint.vice.com/en_us/article/gyb4dy/games-can-portray-limitless
 date: 2017-07-28
 ---
 
+[[2017]] / [[commonplace]] / 
+ 
 “Video games often ask us to imagine radically different futures. What if a subterranean species of hivemind beings erupted from the earth to eliminate humans from existence? What if you had to be the parent of a small child during the zombie apocalypse? What if you had to navigate the world in a radically different way than you do now?”
 
 “we can see the shape and scale of the futures that video game developers build for us.”

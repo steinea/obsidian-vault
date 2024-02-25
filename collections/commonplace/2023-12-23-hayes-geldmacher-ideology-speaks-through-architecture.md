@@ -8,6 +8,8 @@ link: https://unwinnable.com/2023/06/14/ideology-speaks-through-architecture-exp
 date: 2023-12-23
 ---
 
+[[2023]] / [[commonplace]] / 
+
 "Space is perhaps represented most truthfully, and with the fewest barriers to expression, in videogames"
 
 "*Inside* demonstrates the depths of oppressive architectural language"

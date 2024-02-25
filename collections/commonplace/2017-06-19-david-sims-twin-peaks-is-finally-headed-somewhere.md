@@ -8,6 +8,8 @@ link: https://www.theatlantic.com/entertainment/archive/2017/06/twin-peaks-is-fi
 date: 2017-06-19
 ---
 
+[[2017]] / [[commonplace]] / 
+ 
 “Seven episodes into the return of Twin Peaks, even a devoted viewer might be forgiven for not knowing exactly what David Lynch’s 18-hour Showtime revival of his most beloved property is about.”
 
 “Lynch, for all his inscrutable imagery and disinterest in traditional storytelling mechanisms, usually has fairly elemental themes at the root of his projects, be it “a woman in trouble” or our inherent, shared humanity.”

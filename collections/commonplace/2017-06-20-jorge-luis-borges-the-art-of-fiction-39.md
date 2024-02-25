@@ -8,6 +8,8 @@ link: https://www.theparisreview.org/interviews/4331/jorge-luis-borges-the-art-o
 date: 2017-06-20
 ---
 
+[[2017]] / [[commonplace]] / 
+ 
 
 BORGES
 I don't intend to show anything. [Laughter]. I have no intentions.

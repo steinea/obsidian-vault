@@ -8,6 +8,8 @@ link: https://www.theatlantic.com/entertainment/archive/2017/03/mass-effect-andr
 date: 2017-03-20
 ---
 
+[[2017]] / [[commonplace]] / 
+ 
 “Arguably the biggest contribution in recent years to the space-opera genre—that heady mix of sci-fi, fantasy adventure, and careful plotting that defines works like Star Wars and Doctor Who—has come from a video-game series: Mass Effect.”
 
 “With three titles released in 2007, 2010, and 2012, Mass Effect stood out for its close attention to world-building, complex storytelling, and customizability, allowing players’ choices to shape every narrative arc.”

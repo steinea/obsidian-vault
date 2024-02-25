@@ -8,6 +8,8 @@ link: https://www.narrativemagazine.com/issues/winter-2011/ipoems/dont-come-me-e
 date: 2017-06-20
 ---
 
+[[2017]] / [[commonplace]] / 
+ 
 Don't come to me with the entire truth. 
 <br>Don't bring me the ocean if I feel thirsty,
 <br>nor heaven if I ask for light;

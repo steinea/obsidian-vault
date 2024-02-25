@@ -8,6 +8,8 @@ link: https://lareviewofbooks.org/article/short-story-age-tumblr-nick-francis-po
 date: 2017-01-12
 ---
 
+[[2017]] / [[commonplace]] / 
+ 
 “NICK FRANCIS POTTER’S New Animals is a collection of short stories and comics.”
 
 “Some of the short stories are conventional prose pieces; some of the comics follow a normal four- or nine-panel grid; and other selections combine prose paragraphs, comics panels, and single-page illustrations.”

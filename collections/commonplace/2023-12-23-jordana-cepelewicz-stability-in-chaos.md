@@ -8,6 +8,8 @@ link: https://www.quantamagazine.org/flow-proof-helps-mathematicians-find-stabil
 date: 2023-12-23
 ---
 
+[[2023]] / [[commonplace]] / 
+
 "Although initially interested in pursuing a career in philosophy, she realized it wasn’t the right fit. For philosophers, “a productive discussion means testing your position against someone else’s,” she said. “Math is the opposite. You talk to someone, and you’re both on the same team from the get-go. If someone’s like, ‘That doesn’t work that way,’ you’re like, ‘Oh, tell me more.’ I found that mode of discourse much better.”"
 
 "Barthelmé was interested in particular dynamical systems called Anosov flows, which crop up naturally in many areas of mathematics and act as important toy models."

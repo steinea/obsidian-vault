@@ -8,6 +8,8 @@ link: https://terenceblake.wordpress.com/2017/06/07/laruelles-quantum-nostalgic-
 date: 2017-06-07
 ---
 
+[[2017]] / [[commonplace]] / 
+ 
 “Laruelle’s project is to “quantize” Marxism.”
 
 “Yet his account of just what he means by the quantum thought is situated at such a high level of abstraction and of vagueness that he might just as well have projected to “magick” Marxism.”

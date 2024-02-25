@@ -8,6 +8,8 @@ link: https://aeon.co/essays/why-language-is-not-everything-that-noam-chomsky-sa
 date: 2017-01-10
 ---
 
+[[2017]] / [[commonplace]] / 
+ 
 “Few scientific disagreements lead to public controversy. But there are times when the subject or the participants in a debate so capture the public imagination that otherwise dry, technical matters of discord among researchers erupt into the media, eliciting a wide array of opinions from experts and non-experts.”
 
 “Most recently, the disagreements in the field have pulled the American author Tom Wolfe into the fray, with a new book, The Kingdom of Speech, and a cover story in Harper’s Magazine on the topic. This has changed the debate a bit, engaging many more people than ever before, but now it’s centred around Wolfe, Noam Chomsky – and me.”

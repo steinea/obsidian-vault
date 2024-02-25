@@ -8,6 +8,8 @@ link: https://terenceblake.wordpress.com/2017/02/08/badious-love-procedure-avoid
 date: 2017-02-13
 ---
 
+[[2017]] / [[commonplace]] / 
+ 
 “I have been arguing on this blog that Badiou’s speculative system inevitably contains an empirical dimension that is not very often foregrounded.”
 
 “1) the actual number of truth procedures is an empirical question rather than a speculative necessity”

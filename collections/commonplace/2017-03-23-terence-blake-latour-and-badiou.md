@@ -8,6 +8,8 @@ link: https://terenceblake.wordpress.com/2017/03/23/latourbadiou-a-wild-comparis
 date: 2017-03-23
 ---
 
+[[2017]] / [[commonplace]] / 
+ 
 “The problem with Bruno Latour’s style is largely due to his anxiety of influence and his consequent covering his tracks by changing the terminology and hiding the concepts by means of a seemingly de-concepted “infra-language””
 
 “Latour has recently produced a very innovative ontology, expounded in his treatise AN INQUIRY INTO MODES OF EXISTENCE”

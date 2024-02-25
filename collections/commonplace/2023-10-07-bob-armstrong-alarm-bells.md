@@ -8,6 +8,8 @@ link: https://reviewcanada.ca/magazine/2023/09/alarm-bells/
 date: 2023-10-07
 ---
 
+[[2023]] / [[commonplace]] / 
+
 "The Fort McMurray disaster wasn't just the scene of the biggest urban fire in North America or the largest fire evacuation in North American history. It was also the perfect symbol of the catastrophe that humanity has created through the consumption of fossil fuels. Fort Mac is, after all, an instant city created by our appetite for oil. And not just any oil: the synthetic crude produced by refining tarry bitumen is the most carbon-intensive oil in the world, requiring the burning of mind-boggling amounts of natural gas to liberate it from deep below ground and then to separate usable hydrocarbons from sandy gunk."
 
 "In one section, Vaillant discusses the power released by a forest fire, which is measured in kilowatts per metre - that is, energy released for each metre of the burning front. At 1,000 kilowatts per metre, ground crews can manage a blaze with hoses and shovels. Above 2,000, it may be a challenge for water bombers. At 10,000, it's totally out of control. In 2001, a record-breaking forest fire in northern Alberta, known as the Chisholm fire, hit 225,000 kilowatts per metre. How powerful is that? Vaillant cites a research paper showing that at its peak, the Chisholm fire released four times as much energy as Little Boy--- the atomic bomb dropped on Hiroshima, Japan---every minute"

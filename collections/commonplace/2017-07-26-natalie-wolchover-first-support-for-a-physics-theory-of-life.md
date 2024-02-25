@@ -8,6 +8,8 @@ link: https://www.quantamagazine.org/first-support-for-a-physics-theory-of-life-
 date: 2017-07-26
 ---
 
+[[2017]] / [[commonplace]] / 
+ 
 “Take chemistry, add energy, get life. The first tests of Jeremy England’s provocative origin-of-life hypothesis are in, and they appear to show how order can arise from nothing.”
 
 “His equations suggested that under certain conditions, groups of atoms will naturally restructure themselves so as to burn more and more energy, facilitating the incessant dispersal of energy and the rise of “entropy” or disorder in the universe.”

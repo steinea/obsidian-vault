@@ -8,6 +8,8 @@ link: https://lareviewofbooks.org/article/jeremy-strong-theory-on-acting-and-tal
 date: 2023-01-23
 ---
 
+[[2023]] / [[commonplace]] / 
+ 
 "Nobody knows anything about screen acting. And certainly, no one (save for a few experts) knows anything about method acting — though lots of people feel free to use the term as a derogatory insult. When any actor goes to a laughable extreme in preparation for a role, they’re going “method.”"
 
 "Schulman’s now-infamous piece about Strong’s work on his character Kendall Roy, entitled “On ‘Succession,’ Jeremy Strong Doesn’t Get the Joke,” became a perfect illustration of how much we don’t know about acting, how much we think we know about acting, and how, generally, we consider anyone who takes themself too seriously to be something of a pain in the ass"

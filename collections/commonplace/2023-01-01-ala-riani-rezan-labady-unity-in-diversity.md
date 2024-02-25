@@ -8,6 +8,8 @@ link: https://lareviewofbooks.org/article/unity-in-diversity-on-overcoming-the-e
 date: 2023-01-01
 ---
 
+[[2023]] / [[commonplace]] / 
+ 
 "Never during the regime’s rule have any large protests been carried out simultaneously across all ethnic and religious groups in the country"
 
 "While all living under the regime of the Islamic Republic are oppressed, minorities like Baluchis, Arabs, Baháʼís, Azeris, and Kurds face severe and systematic discrimination because of their ethnicities and their beliefs"

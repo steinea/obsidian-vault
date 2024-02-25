@@ -8,6 +8,8 @@ link: https://lareviewofbooks.org/article/the-cybernetic-humanities/
 date: 2017-01-02
 ---
 
+[[2017]] / [[commonplace]] / 
+ 
 “Cybernetics” (based on kybernetes, the Greek word for “steersman,” cognate to English “governor”) was the science, Wiener announced, of “communication and control,” or of feedback mechanisms in general.”
 
 “Towering figures from the history of computing, like Claude Shannon and John von Neumann, argue with social scientists like Margaret Mead and her then-husband Gregory Bateson about feedback mechanisms, the concept of information, and something called “the digital.””

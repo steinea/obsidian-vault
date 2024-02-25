@@ -8,6 +8,8 @@ link: https://thealexandrian.net/wordpress/13113/roleplaying-games/jaquaying-the
 date: 2023-03-12
 ---
 
+[[2023]] / [[commonplace]] / 
+ 
 "There is a temptation to think of the complexity arising from the Jaquays Techniques as being inherently chaotic – a “funhouse dungeon” that doesn’t make any logical sense. But while that certainly can be true, the reality is that these techniques actually result in more realistic designs."
 
 "I think if you take a moment to consider the architecture of the world around you, you’ll discover that linear paths are the exception and not the rule."

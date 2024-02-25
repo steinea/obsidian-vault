@@ -8,6 +8,8 @@ link: https://motherboard.vice.com/en_us/article/ok-wtf-is-a-time-crystal
 date: 2017-02-26
 ---
 
+[[2017]] / [[commonplace]] / 
+ 
 “Last month, a team of physicists from UC Berkeley said they'd created a blueprint for a new phase of matter called a time crystal.”
 
 “A time crystal isn't something you can hold in your hands, and it isn't something you can grow in your kitchen with some table salt and a glass of water.”

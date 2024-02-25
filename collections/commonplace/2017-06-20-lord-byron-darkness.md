@@ -8,6 +8,8 @@ link: https://www.poetryfoundation.org/poems/43825/darkness-56d222aeeee1b
 date: 2017-06-20
 ---
 
+[[2017]] / [[commonplace]] / 
+ 
 I had a dream, which was not all a dream. 
 <br>The bright sun was extinguish'd, and the stars 
 <br>Did wander darkling in the eternal space, 

@@ -8,6 +8,8 @@ link: https://blog.castac.org/2023/07/junk-anthropology-a-manifesto-for-trashing
 date: 2023-12-23
 ---
 
+[[2023]] / [[commonplace]] / 
+
 "It is currently held, not without certain uneasiness, that 90% of human DNA is ‘junk.’ The renowned Cambridge molecular biologist, Sydney Brenner, makes a helpful distinction between ‘junk’ and ‘garbage.’ Garbage is something used up and worthless which you throw away; junk is something you store for some unspecified future use. (Rabinow, 1992, 7-8)"
 
 "How difficult it could actually be to get the materials, and even the researchers themselves, to do what they ought"

@@ -8,6 +8,8 @@ link: https://slate.com/culture/2023/02/emily-bronte-movie-true-story-wuthering-
 date: 2023-06-11
 ---
 
+[[2023]] / [[commonplace]] / 
+ 
 "A big problem with this premise is that *Wuthering Heights* depicts exactly the sort of love affair that a person who’d never been in a romantic relationship is likely to invent, all wildness and extremity and drama"
 
 "The brilliance of the novel lies in that wildness, in its author’s complete commitment to the ruthlessness of her characters’ emotions and the uncanny afterglow left in their wake—not in its realism"

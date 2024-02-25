@@ -8,6 +8,8 @@ link: https://thealexandrian.net/wordpress/34950/roleplaying-games/thought-of-th
 date: 2023-03-12
 ---
 
+[[2023]] / [[commonplace]] / 
+ 
 "Jaquaying isn’t a cure-all. But, in my experience, it does scale to almost any size and it’s almost always useful to at least *consider* jaquaying as a potential tool even if you ultimately decide against it"
 
 "To demonstrate what I mean about using jaquaying techniques at any scale, let me give you an example at an extremely small scale to emphasize the point: A two-room “dungeon”"

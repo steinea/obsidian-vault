@@ -8,6 +8,8 @@ link: http://www.slate.com/articles/arts/poem/2010/09/a_perfect_discomfit.html
 date: 2017-05-07
 ---
 
+[[2017]] / [[commonplace]] / 
+ 
 “As in much of William Blake's writing, what I may think I know, he manages to make me wonder if I really do know.”
 
 “"Blake's poetry has the unpleasantness of great poetry," says T.S. Eliot (who has a way of parodying himself even while making wise observations).”

@@ -8,6 +8,8 @@ link: https://www.theatlantic.com/entertainment/archive/2018/05/avengers-infinit
 date: 2018-05-02
 ---
 
+[[2018]] / [[commonplace]] / 
+ 
 "even a casual consumer of superhero comics knows that death never really sticks in the genre"
 
 "The tragedy of the comic-book death instead sprouts from seeing the effect it has on other characters, which Infinity War leans into as much as possible. "

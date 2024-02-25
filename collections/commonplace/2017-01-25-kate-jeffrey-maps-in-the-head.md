@@ -8,6 +8,8 @@ link: https://aeon.co/essays/how-cognitive-maps-help-animals-navigate-the-world
 date: 2017-01-25
 ---
 
+[[2017]] / [[commonplace]] / 
+ 
 “In Lewis Carroll’s The Hunting of the Snark (1876), the hapless snark-hunting crew found themselves presented with a navigational challenge by their captain, the Bellman:
 
 He had bought a large map representing the sea,

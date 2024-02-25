@@ -8,6 +8,8 @@ link: https://territories.substack.com/p/the-time-of-trees
 date: 2023-02-02
 ---
 
+[[2023]] / [[commonplace]] / 
+ 
 "Since 2019 we have been propagating and distributing thousands of nut trees for free around the southern edges of the Salish Sea"
 
 "This place sits on traditional Nisqually and Squaxin territory, and the Nisqually and Squaxin people have cultivated, cared for, and lived here since time immemorial. We owe them gratitude for the gifts they have given this place in the form of healthy soil, diverse plant communities, and deep generational knowledge about how to tend the land and live in relation to it"

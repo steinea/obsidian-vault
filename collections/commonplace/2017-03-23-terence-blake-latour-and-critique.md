@@ -8,6 +8,8 @@ link: https://terenceblake.wordpress.com/2017/03/23/latour-against-critique-sure
 date: 2017-03-23
 ---
 
+[[2017]] / [[commonplace]] / 
+ 
 “Latour’s well-known opposition to critique is a pretence”
 
 “his de-concepted surface is “diplomatic””

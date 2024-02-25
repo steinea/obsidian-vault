@@ -8,6 +8,8 @@ link: https://plato.stanford.edu/entries/nothingness/
 date: 2017-09-26
 ---
 
+[[2017]] / [[commonplace]] / 
+ 
 “First published Thu Aug 28, 2003; substantive revision Thu Aug 31, 2017”
 
 “Since metaphysics is the study of what exists, one might expect metaphysicians to have little to say about the limit case in which nothing exists.”

@@ -8,6 +8,8 @@ link: http://blog.castac.org/2017/08/no-limits/
 date: 2017-08-17
 ---
 
+[[2017]] / [[commonplace]] / 
+ 
 Fougères, Dorian. 2011. Aquarian Capitalism and Transition in Indonesia. VDM Verlag.
 
 Galeano, Eduardo. 1973. Open Veins of Latin America: Five Centuries of the Pillage of a Continent. NYU Press.

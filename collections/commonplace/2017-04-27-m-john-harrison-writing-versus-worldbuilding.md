@@ -8,6 +8,8 @@ link: https://web.archive.org/web/20080410181840/http://uzwi.wordpress.com/2007/
 date: 2017-04-27
 ---
 
+[[2017]] / [[commonplace]] / 
+ 
 “Every moment of a science fiction story must represent the triumph of writing over worldbuilding.
 
 Worldbuilding is dull. Worldbuilding literalises the urge to invent. Worldbuilding gives an unneccessary permission for acts of writing (indeed, for acts of reading). Worldbuilding numbs the readers ability to fulfil their part of the bargain, because it believes that it has to do everything around here if anything is going to get done.

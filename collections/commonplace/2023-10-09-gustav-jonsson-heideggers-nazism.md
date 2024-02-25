@@ -8,6 +8,8 @@ link: https://jacobin.com/2023/03/martin-heidegger-nazism-payen-wolin-book-revie
 date: 2023-10-09
 ---
 
+[[2023]] / [[commonplace]] / 
+
 "Review of [*Martin Heidegger’s Changing Destinies: Catholicism, Revolution, Nazism*](https://yalebooks.yale.edu/book/9780300228328/martin-heideggers-changing-destinies/) by Guillaume Payen (Yale University Press, 2023) and [*Heidegger in Ruins: Between Philosophy and Ideology*](https://yalebooks.yale.edu/book/9780300233186/heidegger-in-ruins/) by Richard Wolin (Yale University Press, 2023)"
 
 "He had set himself up to be Nazism’s philosophical preceptor. Shortly after the Nazis seized power, he maneuvered to become rector of the University of Freiburg. He carefully stage-managed his inaugural address. Flanked by SA and SS members, he outlined his view of nazified university life; then the whole room sang the *Horst-Wessel-Lied*, the anthem of National Socialism"

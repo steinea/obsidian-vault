@@ -8,6 +8,8 @@ link: https://lareviewofbooks.org/article/the-cult-of-the-clitoris/
 date: 2017-06-16
 ---
 
+[[2017]] / [[commonplace]] / 
+ 
 “Laurie Mintz’s Becoming Cliterate: Why Orgasm Equality Matters — And How to Get It is a manifesto for today’s orgasmic insurrection.”
 
 “Dedicated to those “who are willing to take the revolutionary steps necessary to make equal opportunity orgasms a reality,” Becoming Cliterate is more down to earth than its rabble-rousing title suggests.”

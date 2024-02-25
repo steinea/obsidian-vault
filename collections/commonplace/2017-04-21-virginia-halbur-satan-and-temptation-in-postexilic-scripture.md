@@ -8,6 +8,8 @@ link: https://en.novalis.ca/products/college-study-bible
 date: 2017-04-21
 ---
 
+[[2017]] / [[commonplace]] / 
+ 
 1 Chronicles 21:1
 
 “Satan stood up against Israel, and incited David to count the people of Israel.“

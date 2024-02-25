@@ -8,6 +8,8 @@ link: https://tenfootpole.org/ironspike/?p=977
 date: 2023-06-04
 ---
 
+[[2023]] / [[commonplace]] / 
+ 
 "Barrowmaze is the real deal. It delivers. Its not weird. It’s not gonzo. It doesn’t deliver that idiosyncratic OD&D feel. It does feel real; it’s pretty internally consistent. And it’s a GREAT environment to explore with your buddies on a friday night. Err … lots of friday nights … this dungeon is HUGE. This is worth having, and I don’t say that about many products"
 
 "This is a strange product to review because it fills a strange niche. It’s not a megadungeon like Stonehell. It’s not a mini-dungeon like the VAST majority of nonsense published. It instead fills some gap between the two. Many Gates of the Gann, WG5, ASE1, G1-2-3 (taken together) and S3 all kind of fall in to the same category"

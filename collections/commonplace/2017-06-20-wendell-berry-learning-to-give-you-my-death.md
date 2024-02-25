@@ -8,6 +8,8 @@ link: https://www.penguinrandomhouse.ca/books/675170/a-country-of-marriage-by-we
 date: 2017-06-20
 ---
 
+[[2017]] / [[commonplace]] / 
+ 
 What I am learning to give you is my death
 <br>to set you free of me, and me from myself
 <br>into the dark and the new light. Like the water

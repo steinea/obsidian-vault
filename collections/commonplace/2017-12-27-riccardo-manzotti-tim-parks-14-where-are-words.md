@@ -8,6 +8,8 @@ link: http://www.nybooks.com/daily/2017/12/27/consciousness-where-are-words/
 date: 2017-12-27
 ---
 
+[[2017]] / [[commonplace]] / 
+ 
 "Words, words, words. With the advent of the stream of consciousness in twentieth-century literature, it has come to seem that the self is very much a thing made of words, a verbal construction forever narrating itself and reconstituting itself in language. In line with the dominant, internalist view of consciousness, it is assumed that this all takes place in the brain—specifically, two parts known as Wernicke’s area and Broca’s area in the left hemisphere. "
 
 "So, direct perception of sights and sounds in the world outside the body are very quickly ordered and colored by language inside our heads. “Once a thing is conceived in the mind,” wrote the poet Horace in the first century BC, “the words to express it soon present themselves.” And we call this thinking. All our experience can be reshuffled, interconnected, dissected, evoked, or willfully altered in language, and these thoughts are then stored in our brains.

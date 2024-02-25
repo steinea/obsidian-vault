@@ -8,6 +8,8 @@ link: https://lareviewofbooks.org/article/game-thrones-stormborn/
 date: 2017-07-24
 ---
 
+[[2017]] / [[commonplace]] / 
+ 
 “My Name is Dickon, and That Name Means Something
 
 by Aaron Bady”

@@ -8,6 +8,8 @@ link: http://www.ccru.net/syzygy/cybergoth.htm
 date: 2017-05-15
 ---
 
+[[2017]] / [[commonplace]] / 
+ 
 “Think of Cyberspace as a black mirror. It is where time flips over: collide with it and you travel backwards. AS telecommerce accelerates us into the net, it seems that things of ever deeper antiquity awaken, and begin their return.
 
 So say the Cybergoths.

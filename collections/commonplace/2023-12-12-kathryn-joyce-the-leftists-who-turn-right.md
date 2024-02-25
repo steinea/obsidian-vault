@@ -8,6 +8,8 @@ link: https://inthesetimes.com/article/former-left-right-fascism-capitalism-hors
 date: 2023-12-12
 ---
 
+[[2023]] / [[commonplace]] / 
+
 "Except ​“horseshoe theory,” which imagines a political spectrum bending to meet at its extremes, doesn’t describe this drift. It goes in one direction."
 
 "Maybe there’s a kind of gravity to the slide, the black hole of fascism sucking toward it all the loose particles of those whose commitments were never complex or whose convictions were snapped by despair"

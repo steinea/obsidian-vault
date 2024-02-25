@@ -8,6 +8,8 @@ link: https://dailynous.com/2023/05/30/a-plea-for-synthetic-philosophy-guest-pos
 date: 2023-10-16
 ---
 
+[[2023]] / [[commonplace]] / 
+
 "Schliesser presented synthetic philosophy as “a style of philosophy that brings together insights, knowledge, and arguments from the special sciences with the aim to offer a coherent account of complex systems and connect these to a wider culture or other philosophical projects (or both). Synthetic philosophy may, in turn, generate new research in the special sciences…”"
 
 "The idea that there need not be strict disciplinary boundaries between philosophy and other disciplines enjoyed some popularity in the 20th century, in particular in the tradition of ‘scientific philosophy’ initiated by Bertrand Russell and continued by the Vienna Circle and later with their ‘heirs’ in the United States such as W.V.O. Quine (who used the ambiguous term [‘naturalism’](https://plato.stanford.edu/entries/naturalism/) to describe the idea of continuity between philosophy and other disciplines) and Hilary Putnam"

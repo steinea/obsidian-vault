@@ -8,6 +8,8 @@ link: https://www.theatlantic.com/entertainment/archive/2017/08/game-of-thrones-
 date: 2017-08-28
 ---
 
+[[2017]] / [[commonplace]] / 
+ 
 “Sunday’s episode, “The Dragon and the Wolf,” confirmed it: Jon is not, in fact, the illegitimate son of Ned Stark; he is in fact the legitimate son of Ned’s sister, Lyanna, and her husband Rhaegar Targaryen. Who was also the older brother of one Daenerys Targaryen. Which would, yep, make Jon Snow, né Aegon Targaryen … Dany’s nephew.”
 
 “Which would make the consummation of their attraction, as one of the final scenes of the season … extremely complicated.”

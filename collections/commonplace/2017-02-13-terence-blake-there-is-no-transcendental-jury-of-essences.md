@@ -8,6 +8,8 @@ link: https://terenceblake.wordpress.com/2017/02/05/badious-burden-there-is-no-t
 date: 2017-02-13
 ---
 
+[[2017]] / [[commonplace]] / 
+ 
 “The burden of proof is upon Badiou from the moment that another system exists that has 15 modes of veridiction.”
 
 “My worry is over the reflexive elevation, perennisation and legitimation of a rather quirky selection of truth procedures to the status of the only possible configuration of the contemporary situation of truths.”

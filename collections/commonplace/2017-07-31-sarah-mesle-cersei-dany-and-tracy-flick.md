@@ -8,6 +8,8 @@ link: https://lareviewofbooks.org/article/game-thrones-queens-justice/
 date: 2017-07-31
 ---
 
+[[2017]] / [[commonplace]] / 
+ 
 “Tracy Flick wins, which means (in the movie’s logic) that she really loses.”
 
 “Do you remember Tracy Flick? She’s a main character in the 1999 Alexander Payne movie Election”

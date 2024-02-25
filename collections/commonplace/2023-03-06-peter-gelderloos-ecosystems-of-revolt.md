@@ -8,6 +8,8 @@ link: https://illwill.com/ecosystems-of-revolt
 date: 2023-03-06
 ---
 
+[[2023]] / [[commonplace]] / 
+ 
 "*Part of our series* [*Worlds Apart*](https://illwill.com/series/worlds-apart)*, exploring cosmology, ecology, science fiction, and the many ends of capitalist society.*"
 
 "There were several days of intense fighting against the cartel’s mercenaries and the local police, but the people of Cherán K’eri put up barricades, set fire to trucks, and held their own with stones, Molotov cocktails, and whatever firearms they could get their hands on"

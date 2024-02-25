@@ -8,6 +8,8 @@ link: https://breadpunk.club/docs/manifesto/
 date: 2023-01-23
 ---
 
+[[2023]] / [[commonplace]] / 
+ 
 "The alphabet, they say, was invented only once. Bread is invented every time, anew. It's life itself. And life is not for sale"
 
 "Breadpunk rejects the commoditization of life by market capitalism"

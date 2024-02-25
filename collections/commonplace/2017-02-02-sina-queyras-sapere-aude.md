@@ -8,6 +8,8 @@ link: https://lareviewofbooks.org/article/sapere-aude-on-3-summers-and-the-poetr
 date: 2017-02-02
 ---
 
+[[2017]] / [[commonplace]] / 
+ 
 “A NEW LISA ROBERTSON BOOK is both a public event and a private kind of bacchanal. I tried to hide my copy of 3 Summers because I knew that I would put everything aside and read the entire book at one go, then start over again right away, which I did.”
 
 “To the uninitiated, I present Robertson as a kind of model “lyric conceptual” poet, a poet who positions lyric modes in conceptual frameworks and in so doing creates a visceral, sculptural transmission of an intimate thinking between speaker and audience, between author and reader.”

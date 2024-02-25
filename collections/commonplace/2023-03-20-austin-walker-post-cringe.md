@@ -8,6 +8,8 @@ link: https://www.clockworkworlds.com/post-cringe/
 date: 2023-03-20
 ---
 
+[[2023]] / [[commonplace]] / 
+ 
 "I want to do more than call it cringe and move on. I want to explain why I sink into my seat a little when I watch these clips"
 
 "She isn't just being flippant, she's lampshading the artifice of this situation, calling attention to (and dismissing) the absurdity of a sorceress-queen who speaks in rhyme"

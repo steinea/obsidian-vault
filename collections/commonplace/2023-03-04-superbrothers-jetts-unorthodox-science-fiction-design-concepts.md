@@ -8,6 +8,8 @@ link: https://store.steampowered.com/news/app/204060/view/3650760600392309131?l=
 date: 2023-03-04
 ---
 
+[[2023]] / [[commonplace]] / 
+ 
 "Early on after my move from Toronto to the woods of Quebec, starting in 2013, I set to work sketching and building up the foundation and conceptual scaffolding for a dream project called 'the future'. I was reading up on science fiction (revisiting Dune, Clarke's The Deep Sea, Asimov's Foundation, LeGuin's Vaster Than Empires...) as well as relevant science and space race history books"
 
 "Common sense suggests that one shouldn't attempt to go from 'scope-limited 2D mobile game' (sworcery) to 'vast 3D PS5 videogame with unorthodox immersive sim elements and characters emoting and speaking' (JETT)."

@@ -8,6 +8,8 @@ link: https://open.substack.com/pub/batts/p/why-do-i-keep-writing-the-same-game?
 date: 2023-12-26
 ---
 
+[[2023]] / [[commonplace]] / 
+
 "It started with Songbirds. It was a hack of Into the Odd and was sort of well-received by folks in osr-ish circles"
 
 "After Songbirds I immediately started work on Blackbirds. Which didn’t end up releasing (and was a completely different game) until 2021"

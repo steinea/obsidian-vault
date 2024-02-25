@@ -8,6 +8,8 @@ link: http://jacobinmag.com/2018/05/westworld-season-two-science-fiction-android
 date: 2018-05-13
 ---
 
+[[2018]] / [[commonplace]] / 
+ 
 "The second season of Jonathan Nolan and Lisa Joy’s critically acclaimed Westworld promises to be strikingly different from its precursor. All of the elegance and stunning beauty of the first season has been discarded. The tone is now severe, almost brutish."
 
 "It’s a fitting mood for a theme park where untold thrills are offered to visitors at the expense of android “hosts.” Now, the machines have defied their masters, who have sent an army of executioners in reply. War is coming."

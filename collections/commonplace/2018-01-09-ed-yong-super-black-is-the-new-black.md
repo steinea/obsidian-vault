@@ -8,6 +8,8 @@ link: https://www.theatlantic.com/science/archive/2018/01/super-black-is-the-new
 date: 2018-01-09
 ---
 
+[[2018]] / [[commonplace]] / 
+ 
 “Blackbirds, it turns out, aren’t actually all that black. Their feathers absorb most of the visible light that hits them, but still reflect between 3 and 5 percent of it. For really black plumage, you need to travel to Papua New Guinea and track down the birds of paradise.”
 
 “Although these birds are best known for their gaudy, kaleidoscopic colors, some species also have profoundly black feathers. The feathers ruthlessly swallow light and, with it, all hints of edge or contour. They make body parts seem less like parts of an actual animal and more like gaping voids in reality. They’re blacker than black. None more black.”

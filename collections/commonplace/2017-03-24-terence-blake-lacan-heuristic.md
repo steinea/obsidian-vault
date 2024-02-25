@@ -8,6 +8,8 @@ link: https://terenceblake.wordpress.com/2017/03/23/lacan-heuristic-every-succes
 date: 2017-03-24
 ---
 
+[[2017]] / [[commonplace]] / 
+ 
 “I was into Lacan from 1975 to 1979 and then became disgusted with the dogmatic exclusive use of his thought”
 
 “We all have to live in some province or other, or even in several. But the province where we live should not be declared to be the world.”

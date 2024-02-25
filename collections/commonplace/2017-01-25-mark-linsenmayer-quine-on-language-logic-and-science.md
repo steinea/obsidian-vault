@@ -8,6 +8,8 @@ link: https://partiallyexaminedlife.com/2012/10/17/topic-for-66-quine-on-languag
 date: 2017-01-25
 ---
 
+[[2017]] / [[commonplace]] / 
+ 
 Willard Van Orman Quine (1908–2000) was a prototypical American analytic philosopher. Following Frege, Russell, and Wittgenstein, he was concerned with how logic provides a foundation for mathematics, which in turn grounds physics and the other sciences.
 
 We'll be reading two of his most famous essays, both of which can be found in the collection, From a Logical Point of View (1953): "On What There Is" and "Two Dogmas of Empiricism."

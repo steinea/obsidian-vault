@@ -8,6 +8,8 @@ link: https://thealexandrian.net/wordpress/13123/roleplaying-games/jaquaying-the
 date: 2023-03-12
 ---
 
+[[2023]] / [[commonplace]] / 
+ 
 "What I’m going to do is take a few simple jaquaying techniques and use them to tweak the Keep of the Shadowfell in order to make it a more dynamic and interesting dungeon"
 
 "If this entrance is found before the PCs enter the Keep, it’s a nice reward for their cleverness and preparation. If it’s found during their explorations of the Keep, it can provide a valuable avenue of escape or allow them to sneak back into the complex after a guard has been raised at the primary entrance"

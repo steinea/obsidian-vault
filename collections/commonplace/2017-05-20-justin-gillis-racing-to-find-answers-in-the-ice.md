@@ -8,6 +8,8 @@ link: https://www.nytimes.com/interactive/2017/05/18/climate/antarctica-ice-melt
 date: 2017-05-20
 ---
 
+[[2017]] / [[commonplace]] / 
+ 
 “The scale of Antarctica is startling. Miles of ice stretch to the horizon, growing thicker as you move toward the South Pole.”
 
 “Scientists at McMurdo Station are working to understand the continent’s history and to predict its future. The scale of the task is enormous.”

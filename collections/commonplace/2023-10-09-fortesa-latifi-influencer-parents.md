@@ -8,6 +8,8 @@ link: https://www.teenvogue.com/story/influencer-parents-children-social-media-i
 date: 2023-10-09
 ---
 
+[[2023]] / [[commonplace]] / 
+
 "the intimate details of their lives, from videos of them as crying children to footage of a parent disciplining them – are shared and sometimes monetized without their explicit consent"
 
 "The first time she went viral, she was a toddler"

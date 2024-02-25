@@ -8,6 +8,8 @@ link: https://www.bitestring.com/posts/2023-03-19-web-fingerprinting-is-worse-th
 date: 2023-10-09
 ---
 
+[[2023]] / [[commonplace]] / 
+
 "you might set your web browser to automatically clear cookies or use add-ons to do that.
 
 But companies found another way to uniquely identify you across different sessions and websites without using cookies or other persistent storage. It’s called web fingerprinting"

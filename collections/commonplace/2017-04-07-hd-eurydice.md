@@ -8,6 +8,8 @@ link: https://www.poetryfoundation.org/poems/51869/eurydice-56d22fe6d049d
 date: 2017-04-07
 ---
 
+[[2017]] / [[commonplace]] / 
+ 
 I
 
 So you have swept me back,

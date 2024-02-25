@@ -8,6 +8,8 @@ link: https://aeon.co/ideas/stuck-on-one-idea-of-justice-or-beauty-rhizomes-can-
 date: 2017-05-09
 ---
 
+[[2017]] / [[commonplace]] / 
+ 
 “Nicholas Tampio
 
 is associate professor of political science at Fordham University in New York. He is the author of Kantian Courage (2012) and Deleuze's Political Vision (2015). He is currently working on his third book, on democracy and national education standards.”

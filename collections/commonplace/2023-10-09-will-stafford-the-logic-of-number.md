@@ -8,6 +8,8 @@ link: https://ndpr.nd.edu/reviews/the-logic-of-number/
 date: 2023-10-09
 ---
 
+[[2023]] / [[commonplace]] / 
+
 "The present book proposes three abstraction principles, one for natural numbers, one for the rational numbers, and one for the real numbers"
 
 "The book adopts a unique approach to logicism, which it calls “natural logicism” due to its use of Gentzen-style natural deduction rules"

@@ -8,6 +8,8 @@ link: http://www.theguardian.com/commentisfree/belief/2009/jul/13/heidegger-bein
 date: 2017-02-14
 ---
 
+[[2017]] / [[commonplace]] / 
+ 
 Being and Time pt. 6
 
 “if we want to understand what it means to be an authentic human being, then it is essential that we constantly project our lives onto the horizon of our death. This is what Heidegger famously calls "being-towards-death"”

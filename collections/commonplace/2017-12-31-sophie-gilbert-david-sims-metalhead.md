@@ -8,6 +8,8 @@ link: https://www.theatlantic.com/entertainment/archive/2017/12/black-mirrors-me
 date: 2017-12-31
 ---
 
+[[2017]] / [[commonplace]] / 
+ 
 "“Hang the DJ” might have been my favorite episode of the season. Yes, it hits you over the head with the metaphor, but it’s such a perfect deployment of Charlie Brooker’s skills: relatable comedy, subtle sci-fi, melancholy British fatalism about life and love. "
 
 "Plus the two leads (neither of whom I knew) were just so charming together. The final mind-blowing, world-expanding twist at the end worked for me; since the metaphor for dating algorithms was so obvious already, why not make it literal?"

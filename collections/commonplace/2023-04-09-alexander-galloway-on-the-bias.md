@@ -8,6 +8,8 @@ link: https://asapjournal.com/graphic-formalism-on-the-bias-alexander-r-galloway
 date: 2023-04-09
 ---
 
+[[2023]] / [[commonplace]] / 
+ 
 "What does it mean to think and act “on the bias”?"
 
 "Inherently formal and spatial, if not also graphical, the *diagonal line* has played any number of important roles"

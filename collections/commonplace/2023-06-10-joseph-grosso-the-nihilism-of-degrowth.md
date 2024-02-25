@@ -8,6 +8,8 @@ link: https://www.sublationmag.com/post/growing-small-the-nihilism-of-degrowth
 date: 2023-06-10
 ---
 
+[[2023]] / [[commonplace]] / 
+ 
 "Longing for the days of pre-industrialization was always the realm of aristocracies, popes, and feudal lords, who saw their power slipping away with the rise of the bourgeoisie"
 
 "In 1972, MIT researchers published *The Limits of Growth*, a report commissioned by the Club of Rome, an international think tank of bourgeois elites dedicated to discussing “humanitarian challenges.”"

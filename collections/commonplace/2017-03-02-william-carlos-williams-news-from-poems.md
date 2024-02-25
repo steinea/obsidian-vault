@@ -8,6 +8,8 @@ link: https://en.wikipedia.org/wiki/Asphodel,_That_Greeny_Flower
 date: 2017-03-02
 ---
 
+[[2017]] / [[commonplace]] / 
+ 
 It is difficult
 <br>to get the news from poems
 <br>     yet men die miserably every day

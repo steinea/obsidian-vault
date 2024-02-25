@@ -8,6 +8,8 @@ link: http://www.nybooks.com/daily/2017/02/22/consciousness-am-i-the-apple/
 date: 2017-02-22
 ---
 
+[[2017]] / [[commonplace]] / 
+ 
 “How is it that we experience the world? How is it possible that the environment we live in, the objects we use and see, touch and taste, hear and smell, are both patently out there and simultaneously, it seems, in our heads?”
 
 “Today, then, we have set ourselves a simple task: to review all the ways philosophers have supposed a subject might relate to and become conscious of an object, setting aside once and for all those hypotheses that have clearly failed and asking, is there one approach which has not yet been given due attention? Riccardo believes there is.

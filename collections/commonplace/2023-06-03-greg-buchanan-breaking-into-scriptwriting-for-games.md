@@ -8,6 +8,8 @@ link: https://www.gregbuchanan.co.uk/breaking-in/games
 date: 2023-06-03
 ---
 
+[[2023]] / [[commonplace]] / 
+ 
 "BREAKING INTO SCRIPTWRITING FOR GAMES"
 
 "PART ONE: BEGINNING"

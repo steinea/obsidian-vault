@@ -8,6 +8,8 @@ link: https://www.theatlantic.com/technology/archive/2017/02/artificial-intellig
 date: 2017-02-03
 ---
 
+[[2017]] / [[commonplace]] / 
+ 
 In his relatively short tenure, Pope Francis has been hard at work welcoming spiritual seekers into the Catholic Church. He’s refused to judge LGBT people, sought to integrate divorced couples, and extended priests’ ability to forgive abortion. But Francis’s wide arms have arguably never stretched further than a mass in 2014 when he suggested the church would baptize Martians.
 
 “If—for example—tomorrow an expedition of Martians came … and one says, ‘But I want to be baptized!’ What would happen?” Pope Francis asked. “When the Lord shows us the way, who are we to say, ‘No, Lord, it is not prudent! No, let’s do it this way.’”

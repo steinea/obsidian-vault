@@ -8,6 +8,8 @@ link: https://lareviewofbooks.org/article/living-city-jane-jacobss-vital-little-
 date: 2017-02-14
 ---
 
+[[2017]] / [[commonplace]] / 
+ 
 “I READ MOST of Vital Little Plans: The Short Works of Jane Jacobs while riding the bus in Los Angeles. It was a fitting backdrop for Jacobs’s observations on the “physical-economic-ethical processes” that comprise a city.”
 
 “In this recently published book of Jacobs’s short writings and lectures, collected together for the first time and edited by Samuel Zipp and Nathan Storring, we witness a remarkable mind tackle the problems of comprehending and improving the urban sphere.”

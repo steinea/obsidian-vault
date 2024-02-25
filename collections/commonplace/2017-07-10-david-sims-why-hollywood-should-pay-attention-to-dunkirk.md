@@ -8,6 +8,8 @@ link: https://www.theatlantic.com/entertainment/archive/2017/07/is-dunkirk-the-b
 date: 2017-07-10
 ---
 
+[[2017]] / [[commonplace]] / 
+ 
 “this summer brings another potential savior from cinema’s yesteryear—the wide release of the director Christopher Nolan’s film Dunkirk on 70-millimeter film.”
 
 “Nolan, Hollywood’s pre-eminent king of the widescreen epic, has long experimented with photographing his films in the biggest formats possible.”

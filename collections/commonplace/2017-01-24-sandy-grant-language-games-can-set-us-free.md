@@ -8,6 +8,8 @@ link: https://aeon.co/ideas/how-playing-wittgensteinian-language-games-can-set-u
 date: 2017-01-24
 ---
 
+[[2017]] / [[commonplace]] / 
+ 
 “We live out our lives amid a world of language, in which we use words to do things.”
 
 “We are as if bewitched by the practices of saying that constitute our ways of going on in the world.”

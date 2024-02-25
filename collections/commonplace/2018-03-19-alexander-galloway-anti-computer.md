@@ -8,6 +8,8 @@ link: http://cultureandcommunication.org/galloway/anti-computer
 date: 2018-03-19
 ---
 
+[[2018]] / [[commonplace]] / 
+ 
 "Ergodic machines are machines that run on heat and energy. Such machines are essentially mechanical in nature. They deal with basic physical mechanics like levers and pulleys, and questions of mass, weight, and counter-balance. Ergodic machines adhere to the laws of motion and inertia, the conservation of energy, and the laws of thermodynamics governing heat, pressure, and energy."
 
 "Heidegger wrote about tools but had much less to say about machines."

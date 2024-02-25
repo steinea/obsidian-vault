@@ -8,6 +8,8 @@ link: https://www.radicalphilosophy.com/reviews/individual-reviews/thought-witho
 date: 2023-10-10
 ---
 
+[[2023]] / [[commonplace]] / 
+
 "A bold question motivates Timothy Bewes’ *Free Indirect*: Is a non-subjective thought possible?"
 
 "His contention is that the novel is a mode of thought which operates not only beyond the ideas represented within it – those of a narrator, protagonist, character or author – but also beyond novelistic form itself"

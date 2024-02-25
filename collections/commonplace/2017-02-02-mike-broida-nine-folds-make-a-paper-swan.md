@@ -8,6 +8,8 @@ link: https://lareviewofbooks.org/article/how-to-become-one-ruth-gilligans-nine-
 date: 2017-02-02
 ---
 
+[[2017]] / [[commonplace]] / 
+ 
 “Through three story strands that stretch over the course of a hundred years, the many ways of being both Irish and Jewish become inextricably linked in Nine Folds Make a Paper Swan, Ruth Gilligan’s fourth novel.”
 
 “The legacy of diaspora runs throughout the novel, culminating in Aisling’s present-day narrative, after generations of characters of both Jewish and Irish descent find their families pulling them in a multitude of directions, migrating to England, Palestine, and the United States, among other places.”

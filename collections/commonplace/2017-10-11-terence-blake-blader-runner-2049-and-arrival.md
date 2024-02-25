@@ -8,6 +8,8 @@ link: https://terenceblake.wordpress.com/2017/10/11/blade-runner-2049-and-arriva
 date: 2017-10-11
 ---
 
+[[2017]] / [[commonplace]] / 
+ 
 “Denis Villeneuve’s ARRIVAL is a brilliant film, thoughtful and moving, visually powerful and emotionally rewarding. I cannot recommend this film too highly.”
 
 “However, just as his BLADE RUNNER 2049 differentiates itself from the original BLADE RUNNER by providing an explicitation of certain of its elements and themes, and even of its enigmas, Villeneuve’s ARRIVAL can be seen to modify Ted Chiang’s original novella STORY OF YOUR LIFE in order to render it more comprehensible.”

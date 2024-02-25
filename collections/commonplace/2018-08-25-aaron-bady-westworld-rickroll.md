@@ -8,6 +8,8 @@ link: https://lareviewofbooks.org/article/the-westworld-rickroll/
 date: 2018-08-25
 ---
 
+[[2018]] / [[commonplace]] / 
+ 
 "This week on Dear Television: Aaron Bady grapples with the concept that a television program might actually be improving. "
 
 "The question of Westworld’s second season, to put it simply, is this: Is it back on its bullshit?"

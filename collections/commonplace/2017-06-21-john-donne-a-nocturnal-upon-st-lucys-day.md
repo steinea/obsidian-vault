@@ -8,6 +8,8 @@ link: https://www.poetryfoundation.org/poems/44122/a-nocturnal-upon-st-lucys-day
 date: 2017-06-21
 ---
 
+[[2017]] / [[commonplace]] / 
+ 
 'Tis the year's midnight, and it is the day's,  
 <br>Lucy's, who scarce seven hours herself unmasks; 
 <br>         The sun is spent, and now his flasks 

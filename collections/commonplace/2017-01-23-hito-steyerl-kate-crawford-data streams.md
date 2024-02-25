@@ -8,6 +8,8 @@ link: http://thenewinquiry.com/features/data-streams/
 date: 2017-01-23
 ---
 
+[[2017]] / [[commonplace]] / 
+ 
 “We are being seen with ever greater resolution, even while the systems around us increasingly disappear into the background.”
 
 “ON November 7, 2016, the day before the US Presidential election, the New Inquiry recorded a Skype conversation between artist and writer Hito Steyerl and academic and writer Kate Crawford The two discussed NSA bros, dataveillance, apex predators, AI, and empathy machines. This is the first in a two-part series. The second part of the conversation, which takes place after the election, will be published in February.”

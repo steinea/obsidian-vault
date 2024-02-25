@@ -8,6 +8,8 @@ link: https://lareviewofbooks.org/article/minimal-care-in-kenneth-lonergans-manc
 date: 2017-01-15
 ---
 
+[[2017]] / [[commonplace]] / 
+ 
 “Loss seems always to have already happened, a feeling inspired in part by the dual chronology through which the story unfolds, but also because, the film suggests, this is the condition of being a man.”
 
 “They care for each other, but in silent and undemonstrative ways”

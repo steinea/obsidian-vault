@@ -8,6 +8,8 @@ link: https://terenceblake.wordpress.com/2017/02/12/ontological-pluralism-not-an
 date: 2017-02-14
 ---
 
+[[2017]] / [[commonplace]] / 
+ 
 “Zizek’s critique of object-oriented ontology is part of a more general project, which invites comparison with Laruelle’s expanded non-philosophical project. It involves critiquing and replacing our standard forms of ontology with something related but different that both Zizek and Laruelle call “non-standard” ontology.”
 
 “Convergent with Zizek’s and Laruelle’s analyses and arguments I myself have proposed a critique of standard, or “synchronic” ontologies and the preliminary characterisation of a non-standard, or “diachronic” ontology.”

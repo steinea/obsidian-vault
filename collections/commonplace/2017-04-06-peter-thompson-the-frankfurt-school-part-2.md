@@ -8,6 +8,8 @@ link: http://www.theguardian.com/commentisfree/2013/apr/01/negative-dialectics-f
 date: 2017-04-06
 ---
 
+[[2017]] / [[commonplace]] / 
+ 
 “'Adorno criticised Hegel, above, for presenting a positive and affirmative dialectic in which 'everything that is real is rational'.'”
 
 “Already in the comments about the first instalment of this series, a problem of traditions has emerged.”

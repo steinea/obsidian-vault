@@ -8,6 +8,8 @@ link: http://www.nybooks.com/daily/2017/01/26/consciousness-the-ice-cream-proble
 date: 2017-01-26
 ---
 
+[[2017]] / [[commonplace]] / 
+ 
 “all these impressive results have not brought us any closer to accounting for consciousness or even establishing where exactly it “happens.”
 
 How have scientists and philosophers dealt with this impasse?”

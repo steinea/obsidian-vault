@@ -8,6 +8,8 @@ link: https://www.theatlantic.com/entertainment/archive/2018/05/westworld-season
 date: 2018-05-28
 ---
 
+[[2018]] / [[commonplace]] / 
+ 
 "Sophie Gilbert: "
 
 " If you discount the flashback scene in which “Arnold” was revealed to be “Bernard,” and in which “Dolores” was revealed to be “Dolores-Wyatt hybrid (Dolyatt? Wores?),” this episode began and ended with characters sitting at the mechanical piano. "

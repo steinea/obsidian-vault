@@ -8,6 +8,8 @@ link: https://crimethinc.com/2023/03/30/france-in-flames-macron-attempts-to-crus
 date: 2023-10-13
 ---
 
+[[2023]] / [[commonplace]] / 
+
 "a powerful movement has erupted in response to an attempt to raise the retirement age"
 
 "Macron and his henchmen have attempted to crush this movement by escalating police violence to lethal extremes"

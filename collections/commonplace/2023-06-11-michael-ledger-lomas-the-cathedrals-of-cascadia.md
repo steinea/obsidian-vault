@@ -8,6 +8,8 @@ link: https://reviewcanada.ca/magazine/2023/03/the-cathedrals-of-cascadia/
 date: 2023-06-11
 ---
 
+[[2023]] / [[commonplace]] / 
+ 
 "To visit Stanley Park, the Mohawk poet Pauline Johnson wrote over a century ago in *Legends of Vancouver*, was to enter an “atmosphere of holiness.”"
 
 "For the sociologist Paul Bramadat, the concept of reverential naturalism — a “way of physically being, or being physical, in a particular geography”— best evokes the distinctive relationship between institutional religion, spirituality, and nature in Canada’s Pacific Northwest"

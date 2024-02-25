@@ -8,6 +8,8 @@ link: https://www.theatlantic.com/entertainment/archive/2017/07/chester-benningt
 date: 2017-07-20
 ---
 
+[[2017]] / [[commonplace]] / 
+ 
 “Linkin Park became one of the most popular and most divisive bands of the new millennium because of their genre agnosticism and pop polish, but to listen to that debut single is to remember that they were also differentiated by a core of raw, convincing pain. It almost entirely came from Bennington.”
 
 “He was arguably the purest font of angst—and inarguably one of the most powerful male voices—in mainstream music since 2000.”

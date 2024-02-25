@@ -8,6 +8,8 @@ link: http://nathanjurgenson.com/post/152938927255/factiness
 date: 2017-01-18
 ---
 
+[[2017]] / [[commonplace]] / 
+ 
 It was around 6-to-9pm last night, watching the first election returns, and on CNN Wolf Blitzer was continuously amazed by each new vote count in Florida, exclaiming that “Trump takes the lead!”, “Now Hillary is out in front!”, when the numbers were just arbitrary depending on what precincts had reported. CNN was openly creating a fictitious back and forth foot race out of nothing, framed by ALERT graphics and dramatic music. This happened on a major network on a day of massive ratings, and the common response was, “well, they are dumb, they do this every year.”
 
 At the same time, over at the data journalism site Fivethirtyeight, the early returns and exit data were characterized as “excellent news for Clinton,” “bad sign for Trump,” “long night for Trump,” and so on. At the start of the primaries, they gave Trump a 2% chance of being the nominee and somehow continued to be a source of information during the general campaign, providing very detailed to-the-decimal fake precision about a Hillary lead that didn’t exist. This persisted even after returns started to come in last night, and a few hours later, the horror of Trump’s victory came to pass. And people were, to say the least, surprised.

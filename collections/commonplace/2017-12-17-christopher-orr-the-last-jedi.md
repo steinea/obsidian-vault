@@ -8,6 +8,8 @@ link: https://www.theatlantic.com/entertainment/archive/2017/12/the-last-jedi-ma
 date: 2017-12-17
 ---
 
+[[2017]] / [[commonplace]] / 
+ 
 “This was always going to be a tricky balance—long-awaited fan fulfillment versus something genuinely fresh”
 
 “I suggested at the time that final judgment on the movie would depend in part on its sequels: If they branched out in new directions, The Force Awakens’s flaws would be easily forgiven; if, on the other hand, “we again find our heroes lassoing AT-ATs on a snow-covered planet”—à la The Empire Strikes Back—it would be a bad sign for the franchise.”

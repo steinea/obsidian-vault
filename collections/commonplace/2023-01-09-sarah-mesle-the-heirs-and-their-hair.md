@@ -8,6 +8,8 @@ link: https://dev.lareviewofbooks.org/article/the-heirs-and-their-hair-on-house-
 date: 2023-01-09
 ---
 
+[[2023]] / [[commonplace]] / 
+ 
 "None of my friends are watching.
 
 But I did watch it, all of it, including the whiny party scene, the other whiny party scene, multiple whiny kid scenes, the leprosy sex scene, the weird bullshitty birth scenes, and the couple of really good scenes, one of which may or may not have been when a princess’s postpartum breasts started leaking milk in the middle of a small council meeting"

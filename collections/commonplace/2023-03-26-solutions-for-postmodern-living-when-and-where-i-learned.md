@@ -8,6 +8,8 @@ link: https://mobile.twitter.com/postmodernlivin/status/1640071222263451648
 date: 2023-03-26
 ---
 
+[[2023]] / [[commonplace]] / 
+ 
 "While it would be marvelous if something I wrote inspired & transformed others, I always settle for having that which I have written, be it poem or prose, being a maker or marker the emergence or development of an idea that has transformed me."
 
 "I often worry that I haven't written books that many others will value, & yet, when I return to my books, in the experience of re-reading them, I always find myself saying, 'Ah, yes, that was when & where I learned & grew & stumbled upon this or that condition or constraint.'"

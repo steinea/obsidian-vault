@@ -8,6 +8,8 @@ link: https://www.theparisreview.org/interviews/4331/jorge-luis-borges-the-art-o
 date: 2017-05-15
 ---
 
+[[2017]] / [[commonplace]] / 
+ 
 * *Pelican Guide to English Literature*
 * Modern Library *Selected Writings* of Francis Bacon
 * Hollander’s *The Poetic Edda*

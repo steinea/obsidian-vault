@@ -8,6 +8,8 @@ link: https://www.eurogamer.net/the-hourglass-philosophy-behind-dishonored-and-d
 date: 2023-06-11
 ---
 
+[[2023]] / [[commonplace]] / 
+ 
 "it begins with, she says, something the studio has nicknamed "the white rabbit"."
 
 ""This is the thing that catches the players attention," she explains. "Whatever it is in the environment - either it's a specific enemy, it's something they want to go get, it's a doorway, it's a clue in the story - it's what gets them on the right track.""

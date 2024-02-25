@@ -8,6 +8,8 @@ link: https://lareviewofbooks.org/article/a-certain-riddle-of-the-sphinx-the-end
 date: 2017-02-03
 ---
 
+[[2017]] / [[commonplace]] / 
+ 
 “THE JULY 1921 ISSUE of Harper’s featured an article provocatively titled “The Most Mysterious Manuscript in the World,” written by one John Matthews Manly, a professor of English at the University of Chicago.”
 
 ““Few literary discoveries in our time,” wrote Manly, “have excited a keener or more widely spread popular interest than those connected with the mysterious volume brought to light nine years ago by Mr. Wilfrid M. Voynich.””

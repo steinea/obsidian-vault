@@ -8,6 +8,8 @@ link: https://terenceblake.wordpress.com/2023/01/29/reading-francois-julliens-th
 date: 2023-06-03
 ---
 
+[[2023]] / [[commonplace]] / 
+ 
 "This initial figuration of the incommensurable as fissure, crack, dissociation is both dolorist and noetic, binding our consciousness to an original/originary suffering"
 
 "The duplicity of the origin affects another key term that Jullien introduces here in passing, that of « de-coincidence »:

@@ -8,6 +8,8 @@ link: https://terenceblake.wordpress.com/2017/10/01/zizeks-incontinence-of-the-v
 date: 2017-10-01
 ---
 
+[[2017]] / [[commonplace]] / 
+ 
 “Slavoj Zizek’s new book INCONTINENCE OF THE VOID embodies the latest stage in his ongoing “non-standard” metaphysical research programme.”
 
 “It is non-standard in that its “ontology” of the “barred One” is at the same time an exploration of “the impossibility of ontology.””

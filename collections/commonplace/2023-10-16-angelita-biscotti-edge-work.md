@@ -8,6 +8,8 @@ link: https://sydneyreviewofbooks.com/review/li-argosy-theory-colours/
 date: 2023-10-16
 ---
 
+[[2023]] / [[commonplace]] / 
+
 "The copyright permission notes might be the most interesting section of Bella Li’s *Argosy* (2018) and *Theory of Colours* (2021)"
 
 "Between DJs and memes, digital and analogue forms of cut and paste, the work of art in the age of technological reproducibility is the assemblage of the technologically reproducible"

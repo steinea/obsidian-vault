@@ -8,6 +8,8 @@ link: https://terenceblake.wordpress.com/2017/02/12/expanded-philosophical-unive
 date: 2017-02-14
 ---
 
+[[2017]] / [[commonplace]] / 
+ 
 “It is by now generally admitted that François Laruelle has never really read Badiou, and in fact he has never seriously pretended to. His polemical book ANTI-BADIOU, devoted to a quantum deconstruction of Badiou’s philosophy, is both a philo-fiction and a philo-hoax.”
 
 “He also seems unable to relativise his thought by situating it as a particular contribution in a wider context, and is incapable of realising that Badiou’s set theoretic and category theoretic thought does the work that he requires of his own quantum thought.”

@@ -8,6 +8,8 @@ link: https://twitter.com/Leigh_Phillips/status/1702048046748680349
 date: 2023-09-13
 ---
 
+[[2023]] / [[commonplace]] / 
+
 *I'm thinking a lot about something like 'social democratic internationalism' these days, and this thread encapsulates a lot of the key positions that have led me there.*
 
 "Short article that tries to argue for a path between degrowth & traditional socialism (cast by him as ‘ecomodernist socialism’). There are many issues with the piece but it’s good he recognizes traditional socialism was always promethean, even if he wants to move beyond that ([link](https://newleftreview.org/sidecar/posts/living-together)).

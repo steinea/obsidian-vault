@@ -8,6 +8,8 @@ link: https://brooklynrail.org/2023/03/field-notes/In-Praise-of-Treason
 date: 2023-09-30
 ---
 
+[[2023]] / [[commonplace]] / 
+
 "Noel Ignatiev grew up in Philadelphia in the 1940s. He wrote in his memoir, *Acceptable Men*, that “from the time I was a youngster I knew I wanted to dedicate my life to revolution.”"
 
 "A man ahead of his time, he maintained a steady focus on the fight against racial oppression. In the mid 1960s, together with Theodore Allen, he popularized the phrase “white privilege,” a concept he saw as “a weapon in the class struggle.”"

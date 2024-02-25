@@ -8,6 +8,8 @@ link: https://www.terriwindling.com/blog/2017/01/margaret-atwood.html
 date: 2017-06-02
 ---
 
+[[2017]] / [[commonplace]] / 
+ 
 "You learn to write by reading and writing, writing and reading. As a craft it’s acquired through the apprentice system, but you choose your own teachers. Sometimes they’re alive, sometimes dead."
 
 "As a vocation, it involves the laying on of hands. You receive your vocation and in your turn you must pass it on. Perhaps you will do this only through your work, perhaps in other ways. Either way, you’re part of a community, the community of writers, the community of storytellers that stretches back through time to the beginning of human society."

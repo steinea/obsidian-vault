@@ -8,6 +8,8 @@ link: http://www.nybooks.com/daily/2017/02/23/our-animal-history-making-nature/
 date: 2017-02-23
 ---
 
+[[2017]] / [[commonplace]] / 
+ 
 “displaying “nature” is a complex, many-faceted, ever-changing imaginative act.”
 
 “Linnaeus gave us the ordering we still use: family, genus, and species. He classed humans as animals for the first time, too, using the term homo sapiens in 1758.”

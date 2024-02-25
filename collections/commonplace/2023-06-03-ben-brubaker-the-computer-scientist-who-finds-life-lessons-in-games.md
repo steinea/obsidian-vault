@@ -8,6 +8,8 @@ link: https://www.quantamagazine.org/the-computer-scientist-who-finds-life-lesso
 date: 2023-06-03
 ---
 
+[[2023]] / [[commonplace]] / 
+ 
 "Though theoretical, the work had practical applications — and often, he found, practical applications led to new theoretical insights"
 
 "Teng has turned his attention to the beautiful mathematics behind games like tic-tac-toe, chess and Go. In such “combinatorial” games, there’s no element of chance, and both players always know everything about the state of the board. Yet combinatorial games remain challenging because the number of ways a game can play out might be dizzyingly large"

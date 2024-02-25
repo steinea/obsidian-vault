@@ -8,6 +8,8 @@ link: https://www.quantamagazine.org/20170223-bootstrap-geometry-theory-space/
 date: 2017-02-23
 ---
 
+[[2017]] / [[commonplace]] / 
+ 
 "In the 1960s, the charismatic physicist Geoffrey Chew espoused a radical vision of the universe, and with it, a new way of doing physics. "
 
 "“Nature is as it is because this is the only possible nature consistent with itself,” he wrote at the time. He believed he could deduce nature’s laws solely from the demand that they be self-consistent."

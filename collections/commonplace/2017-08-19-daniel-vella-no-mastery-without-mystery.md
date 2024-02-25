@@ -8,6 +8,8 @@ link: http://gamestudies.org/1501/articles/vella
 date: 2017-08-19
 ---
 
+[[2017]] / [[commonplace]] / 
+ 
 “No Mastery Without Mystery: Dark Souls and the Ludic Sublime”
 
 “by Daniel Vella”

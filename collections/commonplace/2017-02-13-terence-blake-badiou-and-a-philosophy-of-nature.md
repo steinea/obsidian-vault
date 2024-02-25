@@ -8,6 +8,8 @@ link: https://terenceblake.wordpress.com/2017/02/09/badiou-and-a-philosophy-of-n
 date: 2017-02-13
 ---
 
+[[2017]] / [[commonplace]] / 
+ 
 “Badiousians often put the dogmatic cart before the investigative horse. For example they talk smugly of noone ever having proposed an acceptable fifth “candidate” for the status of truth procedure as if they formed some transcendental tribunal applying a pre-existing body of statutory law.”
 
 “But there is no reason to assume that the four officially recognised procedures have been adequately vetted and are now safely ensconced in their status.”

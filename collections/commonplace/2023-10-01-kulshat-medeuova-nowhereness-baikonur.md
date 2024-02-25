@@ -8,6 +8,8 @@ link: https://cosmos.art/cosmic-bulletin/2022/nowhereness-baikonur
 date: 2023-10-01
 ---
 
+[[2023]] / [[commonplace]] / 
+
 "On the sixtieth anniversary of the first human space flight, in April 2021, an anniversary launch of a Soyuz MS-18 manned spacecraft, borne into space by a Soyuz-2.1a booster rocket, was carried out at the Baikonur Cosmodrome’s Site 31. The craft was dubbed the *Yuri Gagarin* in honor of the occasion"
 
 "Our two traveling companions were residents of Kazalinsk (Kazaly), a large town on the shores of the Aral Sea. A station by this name figures in all the stories about the cosmodrome’s construction and, more generally, about the Syr Darya defensive line, as well as about the environmental aftermath of the Aral Sea’s shrinkage"

@@ -8,6 +8,8 @@ link: https://terenceblake.wordpress.com/2017/09/24/from-differentialism-to-plur
 date: 2017-09-24
 ---
 
+[[2017]] / [[commonplace]] / 
+ 
 “The so-called “philosophies of difference” had great importance in the 1960s in France, but by the end of the 60s something else was happening in thought. The “deconstruction” of structuralism was already under way. Difference is the master-concept of structuralist philosophies, multiplicity characterises a non-structuralist, or “post-structuralist” thought that attempts to have done with the master-function of such concepts by subjecting them to various processes of multiplication, relativisation, and continual variation.”
 
 “The transition from a philosophy of “difference” to a philosophy of multiplicities can clearly be seen in Deleuze’s LOGIC OF SENSE, and even Derrida’s more timid progress is visible in the passage from “différance” to “dissemination” (which “marks an irreducible generative multiplicity”). Lyotard’s libidinal economy and Foucault’s archeology can best be seen as transitional philosophies on the way from differentialism to pluralism.”

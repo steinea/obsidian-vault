@@ -8,6 +8,8 @@ link: https://motherboard.vice.com/en_us/article/9kdd97/star-wars-the-last-jedi-
 date: 2017-12-15
 ---
 
+[[2017]] / [[commonplace]] / 
+ 
 “It’s confession time. I don’t hate the Star Wars prequels. Wait. Stop. Don’t close the browser. come closer. I have reasons.”
 
 “There are things about The Phantom Menace, Attack of the Clones, and Revenge of the Sith that are indefensible.”

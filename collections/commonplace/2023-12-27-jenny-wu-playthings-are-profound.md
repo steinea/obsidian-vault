@@ -8,6 +8,8 @@ link: https://themillions.com/2023/07/for-kate-zambreno-playthings-are-profound.
 date: 2023-12-27
 ---
 
+[[2023]] / [[commonplace]] / 
+
 "In her memoir *[The Light Room](http://www.amazon.com/exec/obidos/ASIN/059342106X/ref=nosim/themillpw-20)*, **Kate Zambreno** argues that the domestic drudgeries and caregiving that for centuries seemed to get in the way of sustained thinking, reading, research, and writing were, all along, their own formidable forms of art"
 
 "*The Light Room* returns readers to a kindergarten of the senses—to the basic contours of time, the colors of home and public space—and unravels the relationship between labor and the obscurely fascinating objects it produces, around which life, work, and family subsequently orbit"

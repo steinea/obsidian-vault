@@ -8,6 +8,8 @@ link: https://www.resilience.org/stories/2020-10-08/the-lost-forest-gardens-of-e
 date: 2023-06-04
 ---
 
+[[2023]] / [[commonplace]] / 
+ 
 "In the hills above the Po river in northern Italy, there are a handful of farms that look almost the same today as they would have three thousand years ago"
 
 "Between these rows of grapes and trees are diverse plots of cereals, hayfields, vegetables, and herbs. In a single field, one can find all of the staples needed to live and support the farmstead, and more to sell at a high premium"

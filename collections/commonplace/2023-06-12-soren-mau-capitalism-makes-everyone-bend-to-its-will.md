@@ -8,6 +8,8 @@ link: https://jacobin.com/2023/02/soren-mau-mute-compulsion-marx-capital-economi
 date: 2023-06-12
 ---
 
+[[2023]] / [[commonplace]] / 
+ 
 "Even amid the current outpouring of scholarship on Marx, leftist philosopher Søren Mau’s [*Mute Compulsion: A Marxist Theory of the Economic Power of Capital*](https://www.versobooks.com/books/4107-mute-compulsion) stands as a significant contribution"
 
 "the book meticulously develops a theory of what Mau calls “economic power,” a form of capitalist domination that is not strictly bound to notions of class and, unlike the forces of violence or ideology, that acts upon subjects indirectly"

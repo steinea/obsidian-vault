@@ -8,6 +8,8 @@ link: http://www.theguardian.com/commentisfree/belief/2009/jun/15/heidegger-bein
 date: 2017-02-10
 ---
 
+[[2017]] / [[commonplace]] / 
+ 
 Being and Time pt. 2
 
 “For Aristotle, there is a science that investigates what he calls "being as such", without regard to any specific realms of being, eg the being of living things (biology) or the being of the natural world (physics).”

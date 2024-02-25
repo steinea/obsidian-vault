@@ -8,6 +8,8 @@ link: https://ndpr.nd.edu/news/plotinus-and-epicurus-matter-perception-pleasure/
 date: 2017-01-11
 ---
 
+[[2017]] / [[commonplace]] / 
+ 
 “This volume -- which includes revised versions of papers presented at three Italian symposia in 2012 and 2013 -- is a genuine novelty in the panorama of ancient philosophy studies.”
 
 “Indeed, the book investigates the relationship between two philosophers who (apparently) have nothing in common: Plotinus and Epicurus. The main subject is Plotinus, particularly his critical attitude toward Epicurus and atomism more generally.”

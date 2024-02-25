@@ -8,6 +8,8 @@ link: https://cosmos.art/cosmic-bulletin/2022/decolonizing-russian-cosmism
 date: 2023-09-30
 ---
 
+[[2023]] / [[commonplace]] / 
+
 "As a term, ‘Russian cosmism’ exemplifies one of the key paradoxes of the Russian culture: it ‘wants’ to denote something globally significant and at the same time to retain its national and colonial character"
 
 "Should Russian cosmism, a rather incoherent succession of thinkers, be seen in a historical perspective, as a thing of its time—and is it, indeed, a *thing*, an object in Graham Harman’s sense of the word? Or is it possible to deconstruct the term ‘Russian cosmism,’ to perform a kind of phenomenological reduction that would reveal its profoundly buried core or the lack of it?"

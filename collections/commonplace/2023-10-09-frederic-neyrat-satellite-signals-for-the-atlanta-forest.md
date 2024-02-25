@@ -8,6 +8,8 @@ link: https://illwill.com/satellite-signals
 date: 2023-10-09
 ---
 
+[[2023]] / [[commonplace]] / 
+
 "“A land [*terre*] has no limits. That is the reason it is worth defending against every form of alienation.” —Édouard Glissant"
 
 "The forest extends beyond its own boundaries, through voices and metaphors, joy and mourning — while the power to cancel the forest and the forest’s capacity to say no are pitted against each other"

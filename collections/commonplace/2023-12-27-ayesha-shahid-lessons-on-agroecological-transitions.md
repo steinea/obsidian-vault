@@ -8,6 +8,8 @@ link: https://blog.castac.org/2023/07/ways-of-knowing-lessons-on-agroecological-
 date: 2023-12-27
 ---
 
+[[2023]] / [[commonplace]] / 
+
 "I was motivated to understand what it would take to help us transition towards practices closer to agroecology"
 
 "agroecology has come to be seen as solution to the [global agrarian and food crisis](https://www.theguardian.com/global-development/2022/oct/06/invest-in-small-farmers-or-world-will-face-regular-food-crises-says-un-agency-chief) where farmers are not compensated equitably and food insecurity prevails among the masses"

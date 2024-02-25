@@ -8,6 +8,8 @@ link: https://terenceblake.wordpress.com/2017/07/27/reading-disparities-11-quant
 date: 2017-07-27
 ---
 
+[[2017]] / [[commonplace]] / 
+ 
 Reading Disparities (11)
 
 “Johnston argues that Zizek’s use of quantum mechanics to explain the emergence of free subjectivity starts at a level that is too far from the phenomenon that it is trying to explain and would require a long series of “bridge” theories before getting to the level of the human subject.”

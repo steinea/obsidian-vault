@@ -8,6 +8,8 @@ link: https://jacobin.com/2023/07/degrowth-climate-change-economic-planning-prod
 date: 2023-12-27
 ---
 
+[[2023]] / [[commonplace]] / 
+
 "Degrowth is even making inroads on the socialist left. Two years ago the Rosa Luxemburg Stiftung in New York City [published](https://rosalux.nyc/degrowth-and-revolutionary-organizing/) an article, “Degrowth and Revolutionary Organizing.” A major book, *[The Future Is Degrowth](https://www.versobooks.com/products/2620-the-future-is-degrowth)*, was [favorably reviewed](https://socialistforum.dsausa.org/issues/fall-2022/what-is-to-be-grown/) in Democratic Socialists of America’s journal *Socialist Forum*. In Japan, the ecological Marxist Kohei Saito has sold [five hundred thousand copies of a book](https://www.theguardian.com/world/2022/sep/09/a-new-way-of-life-the-marxist-post-capitalist-green-manifesto-captivating-japan) laying out a case for degrowth communism (the volume, titled *Slow Down*: *The Degrowth Manifesto*, will be released in an [English translation](https://www.penguinrandomhouse.com/books/734853/slow-down-by-kohei-saito/) early next year)."
 
 "now one of the oldest journals on the socialist left, the *Monthly Review* — its first issue in 1949 included “[Why Socialism?](https://monthlyreview.org/2009/05/01/why-socialism/)” by Albert Einstein — has fully embraced degrowth. It’s [latest issue](https://monthlyreview.org/2023/07/01/mr-075-03-2023-07_0/) is entitled “Planned Degrowth: Ecosocialism and Sustainable Human Development” and features many of the most prominent degrowth proponents, such as Jason Hickel and Matthias Schmelzer"

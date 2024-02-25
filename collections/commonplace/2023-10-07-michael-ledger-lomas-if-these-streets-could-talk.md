@@ -8,6 +8,8 @@ link: https://reviewcanada.ca/magazine/2023/09/if-these-streets-could-talk/
 date: 2023-10-07
 ---
 
+[[2023]] / [[commonplace]] / 
+
 "ONE WARM SATURDAY NIGHT IN O September 1907, Vancouver witnessed a riot. A crowd that had gathered for the founding meeting of the Asiatic Exclusion League headed to Chinatown, where hooligans systematically smashed the windows of businesses. The growing mob proceeded to Powell Street, the centre of the city's Japanese community, where forewarned residents beat them off. The rioters returned on Sunday and were again repelled. On Monday, the Chinese bought revolvers from gun shops and launched a general labour strike. Embarrassed federal authorities soon ordered the compensation of property owners but subsequently made the whiteness of Pacific Canada central to public policy by escalating restrictions on Asian immigration. Not until the turn of the twentyfirst century did the proportion of Chinese British Columbians come back up to its level at the turn of the twentieth."
 
 "The riot was the culmination of an ugly disagreement over Pacific Canada's place in the global economy. The capitalists who had bankrolled construction of the Canadian Pacific Railway viewed its terminus city as an imperial gateway to burgeoning trade with Asian markets. Japan, in particular, was emerging as a strategic partner. In 1902, the British signed an alliance with the country, recognizing it as a counterweight to Russia's ambitions in the Far East. In the first ten months of 1907, over 8,000 Japanese arrived in British Columbia. The promoters of the Grand Trunk Pacific Railway, aiming to join a new port in northern British Columbia with Atlantic Canada, had arranged to import up to 10,000 of them to build its line."

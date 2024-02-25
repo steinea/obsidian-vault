@@ -8,6 +8,8 @@ link: https://www.theparisreview.org/blog/2023/04/07/the-mother-of-the-mother-of
 date: 2023-04-09
 ---
 
+[[2023]] / [[commonplace]] / 
+ 
 "Tokarczuk researches her short stories and novels with academic intensity. She digs up forgotten, esoteric myths and legends and shows how this esoterica is woven into the warp and woof of European culture. Beneath a Europe of rational, religious, racial, and ethnic dogmatisms, she unveils a continent rife with ethnically and linguistically syncretic visionaries, mystics, and half-pagan storytellers"
 
 "Tokarczuk didn’t have a particularly religious upbringing. Nor had she encountered Emerentia in a catalogue of saints’ lives; instead, she found the name, whose thread she followed, in Thomas Mann’s *The Magic Mountain*."

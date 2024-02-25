@@ -8,6 +8,8 @@ link: http://www.lacan.com/symptom8_articles/miller8.html
 date: 2017-08-04
 ---
 
+[[2017]] / [[commonplace]] / 
+ 
 “And you above all, Ladies and Gentlemen the analysts, what are you doing here, you to whom Freud specifically addressed the warning not to rely on those who are not confirmed in the practice of your science, on those so-called authorities, those literary intellectuals, who bring their soup to warm at your fire, without so much as recognizing your hospitality?”
 
 “Permit me to marvel a moment at your presence, and at the privilege of your having lent me for a while that most precious of the organs at your disposal, your ear.”

@@ -8,6 +8,8 @@ link: https://cosmos.art/cosmic-bulletin/2022/gilgamesh-she-who-saw-the-deep
 date: 2023-10-07
 ---
 
+[[2023]] / [[commonplace]] / 
+
 "All human activity can be understood in relation to labor and creativity"
 
 "Creative labor always produces a transformation in the world.

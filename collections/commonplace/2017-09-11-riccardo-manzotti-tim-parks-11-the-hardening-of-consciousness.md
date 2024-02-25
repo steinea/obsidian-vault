@@ -8,6 +8,8 @@ link: http://www.nybooks.com/daily/2017/09/11/the-hardening-of-consciousness/
 date: 2017-09-11
 ---
 
+[[2017]] / [[commonplace]] / 
+ 
 “How much of our current worldview, our social organization, our collective psychology, or simply our attitude to life, depends on how we understand consciousness?”
 
 “The dominant view, which assumes that all our conscious experience is an internal, largely concocted representation of an unknowable outside world, underwrites a number of assumptions: perhaps most importantly, that the human subject is radically split from the object, hence quite autonomous; and again that, unable to perceive the world “as it is,” we need science to give us any solid facts we may have.

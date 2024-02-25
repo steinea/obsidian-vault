@@ -8,6 +8,8 @@ link: http://www.onbeing.org/programs/alain-de-botton-the-true-hard-work-of-love
 date: 2017-02-09
 ---
 
+[[2017]] / [[commonplace]] / 
+ 
 ““Compatibility is an achievement of love. It cannot be its precondition.””
 
 “As people, and as a culture, he says, we would be much saner and happier if we reexamined our very view of love. Nowhere do we realistically teach ourselves and our children how love deepens and stumbles, survives and evolves over time, and how that process has much more to do with ourselves than with what is right or wrong about our partner.”

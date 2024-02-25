@@ -8,6 +8,8 @@ link: https://dev.lareviewofbooks.org/article/game-wonder-on-fromsoftwares-blood
 date: 2023-06-11
 ---
 
+[[2023]] / [[commonplace]] / 
+ 
 "“The jewel in the crown of what videogames offer,” Poole writes in *Trigger Happy: Videogames and the Entertainment Revolution* (2000), “is the aesthetic emotion of wonder,” and he suggests that this emotion stems largely from the gaming medium’s ability to represent space, and more specifically, architecture"
 
 "“[A game] is a way to experience architecture […] If architecture is frozen music, then a videogame is liquid architecture.”"

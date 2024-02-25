@@ -8,6 +8,8 @@ link: http://www.theguardian.com/commentisfree/belief/2009/jul/06/heidegger-phil
 date: 2017-02-13
 ---
 
+[[2017]] / [[commonplace]] / 
+ 
 Being and Time pt. 5
 
 “there is one mood in particular that reveals the self in stark profile for the first time. This is the function of anxiety (Angst), which Heidegger calls a basic or fundamental mood (Grundstimmung”

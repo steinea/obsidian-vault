@@ -8,6 +8,8 @@ link: https://illwill.com/twelve-hypotheses
 date: 2023-10-16
 ---
 
+[[2023]] / [[commonplace]] / 
+
 "This month Minor Compositions is releasing the first English translation of [*Hypothesis 891: Beyond the Roadblocks*](https://www.minorcompositions.info/?p=1172)*,* a book length collaboration between the Argentine militant research collective Colectivo Situaciones and the Unemployed Workers' Movement of Solano (MTD Solano)"
 
 "*Ill Will* launched [Weavings](https://illwill.com/series/weavings), a series that aims to make available in English a wide range of theoretical and strategic texts from Latin America's new emancipatory tradition"

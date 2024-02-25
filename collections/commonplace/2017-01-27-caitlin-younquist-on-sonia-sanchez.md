@@ -8,6 +8,8 @@ link: https://www.theparisreview.org/blog/2017/01/27/staff-picks-concentric-circ
 date: 2017-01-27
 ---
 
+[[2017]] / [[commonplace]] / 
+ 
 On the train to work the other day, I reread Sonia Sanchez’s book-length poem Does Your House Have Lions? (1997) and was reminded of what a masterly talent she is. Lions is an epic, torturous and ravishing, about Sanchez’s brother, who decades ago died from AIDS. Sanchez writes of his youth: the estrangement of his father, his move from the South to New York City, the revelry he sought there. Throughout the poem, a choir of voices speaks, bringing a full picture into view. We hear from the father (“and my son’s body blood-stained red / with country-lies, city-lies, father-lies, mother-lies”), from the ailing brother (“O forgive me tremor / O forgive me rumor / O forgive me terror”), even from their family’s ancestors. Still, the lines I find most harrowing, brimming with the most love and the most sorrow, are Sanchez’s own:
 
 and the days rummaging his eyes

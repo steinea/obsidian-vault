@@ -8,6 +8,8 @@ link: https://motherboard.vice.com/en_us/article/43amnb/blade-runner-2049-review
 date: 2017-10-06
 ---
 
+[[2017]] / [[commonplace]] / 
+ 
 “What is love? Do memories define us? What does it mean to be human? These questions are core to both Blade Runner and Blade Runner 2049, but the sequel does a better job of answering them.”
 
 “In the original 1982 film, Deckard chases manufactured workers known as replicants through a dystopian future Los Angeles. He kills them one by one and—in the end—their leader proves his humanity by saving the life of the man sent to kill him.”

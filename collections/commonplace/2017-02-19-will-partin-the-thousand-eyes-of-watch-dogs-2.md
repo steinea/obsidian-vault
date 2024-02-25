@@ -8,6 +8,8 @@ link: https://lareviewofbooks.org/article/the-thousand-eyes-of-watch-dogs-2/
 date: 2017-02-19
 ---
 
+[[2017]] / [[commonplace]] / 
+ 
 “Its end user license agreement plainly states that “UBISOFT may collect and store data about You in relation to Your use of the Product,” and that “certain data is recorded, archived, analysed and used to create user statistics.””
 
 “Whatever else Watch Dogs 2 may be, it’s also a program designed to extract as much information as possible about its players.”

@@ -8,6 +8,8 @@ link: https://terenceblake.wordpress.com/2017/06/05/laruelles-non-marxism-betwee
 date: 2017-06-05
 ---
 
+[[2017]] / [[commonplace]] / 
+ 
 “INTRODUCTION TO NON-MARXISM is a very interesting work of transition, published in French in 2000, and well worth reading in the contemporary context of thought trying to break free from the inherited limitations that prevent it from engaging realistically with the world.”
 
 “It comes just after Laruelle’s ethical phase, where he is still unable to shake off the influence of Lacan and of Levinas on his thought, and just before his religious phase.”

@@ -8,6 +8,8 @@ link: https://notesfrombelow.org/article/engineers-and-communist-materialism
 date: 2023-10-17
 ---
 
+[[2023]] / [[commonplace]] / 
+
 "The different stages of the engine’s operation, perceived as an adjoining whole, begin to resemble a living metabolism rather than just a thermodynamic process"
 
 "The multidisciplinary labor of various scientists, engineers, and technicians brings to life this machine who hungers for fuel and rips the seething energy from its molecules, converting it into domesticated electrical flow"

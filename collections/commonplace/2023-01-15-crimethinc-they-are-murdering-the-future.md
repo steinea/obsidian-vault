@@ -8,6 +8,8 @@ link: https://todon.eu/@CrimethInc/109695572786319665
 date: 2023-01-15
 ---
 
+[[2023]] / [[commonplace]] / 
+ 
 "As climate change approaches the point of no return, remember—after September 11, 2001, the FBI declared that environmental activists were enemy #1.
 
 As temperatures soar, remember how politicians passed legislation to protect fossil fuel profiteers.

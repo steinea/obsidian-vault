@@ -8,6 +8,8 @@ link: https://www.quantamagazine.org/20170209-mobius-strip-symplectic-geometry/
 date: 2017-02-09
 ---
 
+[[2017]] / [[commonplace]] / 
+ 
 “In the field of symplectic geometry, a central issue involves how to count the intersection points of two complicated geometric spaces.”
 
 “This counting question is at the heart of one of the most famous problems in the field, the Arnold conjecture, and it’s also a matter of basic technique: Mathematicians need to know how to make these counts in order to do other kinds of research.”

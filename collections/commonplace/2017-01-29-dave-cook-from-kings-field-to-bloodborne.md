@@ -8,6 +8,8 @@ link: http://www.vg247.com/2014/07/02/from-kings-field-to-bloodborne-the-lineage
 date: 2017-01-29
 ---
 
+[[2017]] / [[commonplace]] / 
+ 
 Dark Souls 2 DLC and Bloodborne are on the lips of many gamers right now, but before looking to the future of From Software’s Souls series, Dave Cook pays his respects to where it all began.
 
 Harsh difficulty curves, purposely ambiguous world states and methodical pacing are just a few hallmarks From Software has etched into the fabric of its Souls series. Under the stewardship of series veteran Hidetaka Miyazaki, PS4 exclusive Bloodborne is set to carry the series legacy into 2015. Indeed it’s an exciting time to be a Souls fan.

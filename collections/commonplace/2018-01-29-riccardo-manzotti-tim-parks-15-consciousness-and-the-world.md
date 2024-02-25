@@ -8,6 +8,8 @@ link: http://www.nybooks.com/daily/2018/01/29/consciousness-and-the-world/
 date: 2018-01-29
 ---
 
+[[2018]] / [[commonplace]] / 
+ 
 "We are all used to thinking of ourselves as a single entity that enjoys a certain continuity from birth to death, if not beyond. We confidently say, “Ten years ago, I did this; next week, I will do that.” But what exactly is this entity? "
 
 "Traditional Christianity posits a non-material soul housed in a material body. At the beginning of the scientific age, Descartes formalized this concept with an idea that came to be known as dualism: the soul in the skull was spiritual and interfaced with the material world of the body through the pineal gland between brain and spinal chord. Modern materialism jettisoned this idea, yet struggles to replace it; even the most serious philosophical and neuroscience publications often lapse into an implicit dualism, where, for example, the word “mental” is opposed to “material” without our being quite sure what we mean by the two, or where consciousness and, with it, the self are understood as “supervening” on vast quantities of “information” moved back and forth in the brain. "

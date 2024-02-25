@@ -8,6 +8,8 @@ link: http://www.nybooks.com/daily/2017/06/17/consciousness-whos-at-the-wheel/
 date: 2017-06-17
 ---
 
+[[2017]] / [[commonplace]] / 
+ 
 “For any materialist vision of consciousness, the crucial stumbling block is the question of free will.”
 
 “the fact of our being entirely material, hence subject to the laws of cause and effect, introduces the concern that our lives might be altogether determined. Is it possible that our experience of decision-making—the impression we have of making choices, indeed of having choices to make, sometimes hard ones—is entirely illusory? Is it possible that a chain of physical events in our bodies and brains must cause us to act in the way we do, whatever our experience of the process may be?”

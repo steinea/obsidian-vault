@@ -8,6 +8,8 @@ link: https://thenewinquiry.com/exporting-the-revolution/
 date: 2023-06-11
 ---
 
+[[2023]] / [[commonplace]] / 
+ 
 "Youth is provisional"
 
 "The stuff of market pictures, loans and auctioned prospects, finance and gentrification, enhancement and anxiety"

@@ -8,6 +8,8 @@ link: https://illwill.com/short-of-the-world-short-of-self
 date: 2023-03-06
 ---
 
+[[2023]] / [[commonplace]] / 
+ 
 "*Part of our series* [*Worlds Apart*](https://illwill.com/series/worlds-apart)*, exploring cosmology, ecology, science fiction, and the many ends of capitalist society*"
 
 "I share in this Adornian affirmation of philosophy and want to suggest that one of our exigent philosophical tasks is to elucidate the time of catastrophes"

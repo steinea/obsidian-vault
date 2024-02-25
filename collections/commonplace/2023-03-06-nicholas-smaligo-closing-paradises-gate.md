@@ -8,6 +8,8 @@ link: https://illwill.com/closing-paradises-gate
 date: 2023-03-06
 ---
 
+[[2023]] / [[commonplace]] / 
+ 
 "*Part of our series* [*Worlds Apart*](https://illwill.com/series/worlds-apart)*, exploring cosmology, ecology, science fiction, and the many ends of capitalist society.*"
 
 "In a [critical review](https://offshootjournal.org/untenable-history/), archaeologist Carolyn Nakamura accuses Graeber and Wengrow’s work of lacking the “critical, emancipatory gesture of refusal” that characterizes the thought of Walter Benjamin in his famous work “On the Concept of History.”"

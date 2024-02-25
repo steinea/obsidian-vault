@@ -8,6 +8,8 @@ link: https://cosmos.art/cosmic-bulletin/2022/the-fire-of-rebirth-in-the-writing
 date: 2023-10-07
 ---
 
+[[2023]] / [[commonplace]] / 
+
 "In his 1917 booklet *Petuh Revolyucii* [*The Rooster of the Revolution*], Svyatogor advances the poetic and intellectual movement of volcanism, calling for the planetary-scale practice of “the highest culture,” bent on “creating a new landscape and a new sky [*sozdat’ novyi rel’ef zemli i novoe nebo*].”"
 
 "Nature in its entirety, including the atmosphere, is to be reshaped by the power of fire that, breaking out from the molten core of the planet, renews the aging upper crusts of the earth"

@@ -8,6 +8,8 @@ link: https://lareviewofbooks.org/article/taking-solace-in-attack-on-titan/
 date: 2017-08-04
 ---
 
+[[2017]] / [[commonplace]] / 
+ 
 “Normal efforts toward self-care fall so short and feel so ludicrous when it feels as though the world is hurting everywhere.”
 
 “Caring for the “rag and bone shop of the heart” — in the words of Yeats — through such palliative measures as rest, meditation, exercise, and even TV seems tinged with a halo of selfishness.”

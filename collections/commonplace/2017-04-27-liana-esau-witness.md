@@ -8,6 +8,8 @@ link: https://www.convivium.ca/sacred-spaces/witness/
 date: 2017-04-27
 ---
 
+[[2017]] / [[commonplace]] / 
+ 
 I
 
 This morning my eyes are deeplocked

@@ -8,6 +8,8 @@ link: https://samizdat.co/cyoa/
 date: 2023-06-03
 ---
 
+[[2023]] / [[commonplace]] / 
+ 
 "Like many children of the 80s, I spent a significant proportion of my rainy afternoons in worlds conjured up by the [Choose Your Own Adventure](http://www.chooseco.com) book series"
 
 "As recounted on the official [History of cyoa](https://www.cyoa.com/pages/history-of-cyoa) page, 100,000 copies of *Space and Beyond* were ‘seeded’ at libraries around the U.S. in 1980 in an attempt to kickstart sales"

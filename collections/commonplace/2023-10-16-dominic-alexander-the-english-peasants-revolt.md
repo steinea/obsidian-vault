@@ -8,6 +8,8 @@ link: https://jacobin.com/2023/04/english-rising-1381-peasants-townspeople-londo
 date: 2023-10-16
 ---
 
+[[2023]] / [[commonplace]] / 
+
 "The English Rising of 1381 saw peasants and townspeople rebel against the poll tax imposed to pay for the king’s wars in France"
 
 "They wanted the end of serfdom, and effectively of the whole secular and religious aristocracy, barring the king himself"

@@ -8,6 +8,8 @@ link: http://newt.phys.unsw.edu.au/jw/voice.html
 date: 2017-01-18
 ---
 
+[[2017]] / [[commonplace]] / 
+ 
 An Introduction to the Science of Speech and Singing
 
 Speech science has a long history. Voice acoustics are an active area of research in many labs, including our own, which studies singing acoustics, as well as the speaking voice. This document gives an introduction and overview. This is followed by a more detailed account, sometimes using experimental data to illustrate the main points. Throughout, a number of simple experiments are suggested to the reader. (An even briefer, multi-media introduction is given here.) 

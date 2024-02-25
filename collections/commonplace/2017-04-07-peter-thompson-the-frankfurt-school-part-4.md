@@ -8,6 +8,8 @@ link: http://www.theguardian.com/commentisfree/2013/apr/15/frankfurt-school-herb
 date: 2017-04-07
 ---
 
+[[2017]] / [[commonplace]] / 
+ 
 “When the student generation took off in the 1960s across Europe, in Germany at least it was Herbert Marcuse who had the greatest influence.”
 
 “This is because whereas Adorno, with his highly pessimistic philosophical statements about historical development, could talk about a negative progression of humanity from the “slingshot to the megaton bomb”, Marcuse continued to maintain a more optimistic view of what could be achieved.”

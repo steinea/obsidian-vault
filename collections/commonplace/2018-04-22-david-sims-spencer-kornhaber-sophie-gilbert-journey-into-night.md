@@ -8,6 +8,8 @@ link: https://www.theatlantic.com/entertainment/archive/2018/04/westworld-season
 date: 2018-04-22
 ---
 
+[[2018]] / [[commonplace]] / 
+ 
 "David Sims:"
 
 "The hosts are confronting humanity with their own inhumanity."

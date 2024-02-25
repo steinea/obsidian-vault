@@ -8,6 +8,8 @@ link: https://terenceblake.wordpress.com/2017/02/05/generic-ontology-vs-specific
 date: 2017-02-05
 ---
 
+[[2017]] / [[commonplace]] / 
+ 
 “coming up repeatedly against the same epistemological obstacle and dialogical impasse.
 
 The problem arises most intensely for me when people develop or make use of some form of pluralism as an ideology to cover over practices, positions, goals that are not pluralist at all.”

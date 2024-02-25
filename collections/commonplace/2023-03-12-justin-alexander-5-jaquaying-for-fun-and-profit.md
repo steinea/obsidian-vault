@@ -8,6 +8,8 @@ link: https://thealexandrian.net/wordpress/13132/roleplaying-games/jaquaying-the
 date: 2023-03-12
 ---
 
+[[2023]] / [[commonplace]] / 
+ 
 "The particular revisions I’ve made simply struck me as either the most interesting or the most appropriate or both."
 
 "But the point of performing this revision on Keep of the Shadowfell is not only to salvage another aspect of this adventure. My primary goal is to demonstrate how easy it is to implement these techniques in your own dungeons. If we can take an existing, linear dungeon and fundamentally transform it in just a couple of minutes using a handful of jaquaying techniques, then the effect can be even more dramatic if we were to design a dungeon from the ground-up using those techniques."

@@ -8,6 +8,8 @@ link: http://www.sacred-texts.com/hin/rigveda/rv10129.htm
 date: 2018-01-23
 ---
 
+[[2018]] / [[commonplace]] / 
+ 
 HYMN CXXIX. Creation.
 
 1 THEN was not non-existent nor existent: there was no realm of air, no sky beyond it.

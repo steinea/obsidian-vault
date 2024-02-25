@@ -8,6 +8,8 @@ link: https://lareviewofbooks.org/article/crispr-patents-and-nobel-prizes/
 date: 2017-08-23
 ---
 
+[[2017]] / [[commonplace]] / 
+ 
 “Humans’ use of the bacterial defense mechanism called “clustered regularly interspaced short palindromic repeats” (CRISPR), with or without “CRISPR associated protein 9” (Cas 9) — along with the technologies that eventually will modify or displace it ­— is of vast importance.”
 
 “That’s not because it is the first way we have found to edit DNA.”

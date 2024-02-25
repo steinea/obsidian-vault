@@ -8,6 +8,8 @@ link: https://lareviewofbooks.org/article/foundational-anxieties-modern-mathemat
 date: 2023-12-09
 ---
 
+[[2023]] / [[commonplace]] / 
+
 "This essay is adapted from Massimo Mazzotti’s 2023 book *Reactionary Mathematics: A Genealogy of Purity*"
 
 "mathematics and politics as entangled"

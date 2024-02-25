@@ -8,6 +8,8 @@ link: https://www.theatlantic.com/entertainment/archive/2018/05/westworld-season
 date: 2018-05-06
 ---
 
+[[2018]] / [[commonplace]] / 
+ 
 "Spencer Kornhaber: "
 
 "If the Wild West is the racist font of America’s myth of rugged adventure, colonial India is England’s."

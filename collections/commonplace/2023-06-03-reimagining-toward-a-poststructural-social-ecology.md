@@ -8,6 +8,8 @@ link: https://theanarchistlibrary.org/library/reimagining-toward-a-poststructura
 date: 2023-06-03
 ---
 
+[[2023]] / [[commonplace]] / 
+ 
 "Developed by Murray Bookchin, Social Ecology emphasizes the importance of understanding how social and ecological issues arise from domination and how they are perpetuated through the hierarchical, centralized organization of society"
 
 "It suggests that decentralized, non-hierarchical forms of social organization, which take into account ecological principles, are the path toward a future that blurs the dichotomy between “humanity and nature” and addresses the harmful social and environmental divisions that this separation has facilitated"

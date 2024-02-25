@@ -8,6 +8,8 @@ link: https://waypoint.vice.com/en_us/article/newajb/how-vanquish-subverts-the-m
 date: 2017-06-24
 ---
 
+[[2017]] / [[commonplace]] / 
+ 
 “Though military shooters certainly existed before the mid-2000's, the genre found a new life in the Xbox 360 and Playstation 3 era.”
 
 “But the trend went much deeper than technology. Informed by the ongoing War on Terror, mainstream shooters approached reality by appropriating the visual language of the news, recreating the other images that would appear on the same TV screen in the player's home.”

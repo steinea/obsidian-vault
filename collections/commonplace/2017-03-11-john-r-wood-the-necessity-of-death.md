@@ -8,6 +8,8 @@ link: https://www.youtube.com/watch?v=JBGFIVGvekY
 date: 2017-03-11
 ---
 
+[[2017]] / [[commonplace]] / 
+ 
 Physical death, biotic death, more than theology
 
 But touch on interface between

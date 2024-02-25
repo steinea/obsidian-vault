@@ -8,6 +8,8 @@ link: http://www.nybooks.com/articles/2017/01/19/when-they-came-from-another-wor
 date: 2017-01-19
 ---
 
+[[2017]] / [[commonplace]] / 
+ 
 “What if the future is as real as the past? Physicists have been suggesting as much since Einstein.”
 
 “Arrival is a movie of philosophy as much as adventure. It not only respects Chiang’s story but takes it further. It’s more explicitly time-travelish. That is to say, it’s really a movie about time. Time, fate, and free will.”

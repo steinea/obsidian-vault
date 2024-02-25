@@ -8,6 +8,8 @@ link: https://www.newyorker.com/magazine/2023/01/23/has-academia-ruined-literary
 date: 2023-06-03
 ---
 
+[[2023]] / [[commonplace]] / 
+ 
 "John Guillory’s new book, “Professing Criticism” (Chicago), an erudite and occasionally biting series of essays on “the organization of literary study.”"
 
 "Guillory has spent much of his career explaining how works of literature are enjoyed, assessed, interpreted, and taught; he is best known for his landmark work, “Cultural Capital” (1993), which showed how literary evaluation draws authority from the institutions—principally universities—within which it is practiced"

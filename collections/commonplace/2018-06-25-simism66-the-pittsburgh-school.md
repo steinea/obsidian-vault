@@ -8,6 +8,8 @@ link: https://www.reddit.com/r/askphilosophy/comments/6ocw7q/the_pittsburgh_scho
 date: 2018-06-25
 ---
 
+[[2018]] / [[commonplace]] / 
+ 
 "The "Pittsburgh School," of course, has its basis in Sellars, who was at Pittsburgh for the latter part of his career. McDowell and Brandom both take up a particular reading of Sellars, putting a particularly strong emphasis on what Sellars calls "the space of reasons," and putting less of an emphasis on Sellars' aim to unify our conception of ourselves as situated in the space of reasons with the "scientific image" of ourselves. Neither Brandom nor McDowell take up the scienctistic strain in Sellars' thinking, making both of them, to use a phrase coined by Rorty, "Left Sellarsians." Right Sellarsians, like Paul Churchland and Ruth Millikan, emphasize the scientistic aspect more.
 
 McDowell and Brandom both have several (often overlapping) influences other than. McDowell's biggest influence (bigger than Sellars) is Wittgenstein. He considers himself a Wittgensnteinian. Another big influence on McDowell was his colleague at Oxford, Gareth Evans. Brandom, while also influenced by Wittgestein (on a particular reading of him, which McDowell criticizes), is especially influenced by Rorty, his dissertation adviser. His project in semantics is very influenced by Michael Dummett, and, at least in philosophical methodology, it is also easy to see how he is influenced by his other dissertation adviser, David Lewis.

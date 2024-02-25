@@ -8,6 +8,8 @@ link: https://www.nybooks.com/online/2017/10/09/consciousness-an-object-lesson/
 date: 2017-10-09
 ---
 
+[[2017]] / [[commonplace]] / 
+ 
 The nature of the subject with respect to itself and the “objective world”
 
 

@@ -8,6 +8,8 @@ link: http://www.theroot.com/game-of-thrones-showed-us-how-america-treats-white-
 date: 2017-08-14
 ---
 
+[[2017]] / [[commonplace]] / 
+ 
 “We have previously discussed how the “army of the dead” (the White Walkers) is a metaphor for the white nationalist movement that seeks to slowly purge this country of everything other than Caucasian Christians.”
 
 “Although I know this week’s episode was probably written over a year ago, in the wake of Charlottesville, Va.’s version of Wypipo Gone Wild, here’s how episode 4, “Eastwatch,” somehow managed to perfectly capture America’s attitude toward the “alt-right” movement.”

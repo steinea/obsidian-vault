@@ -8,6 +8,8 @@ link: https://www.theatlantic.com/entertainment/archive/2017/07/dunkirk-is-a-stu
 date: 2017-07-21
 ---
 
+[[2017]] / [[commonplace]] / 
+ 
 “It is a $150 million epic, yet also as lean and spare as a haiku, three brief, almost wordless strands of narrative woven together in a mere 106 minutes of running time.”
 
 “It is classic in its themes—honor, duty, the horror of war—yet simultaneously Nolan’s most radical experiment since Memento.”

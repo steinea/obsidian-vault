@@ -8,6 +8,8 @@ link: https://www.poetryfoundation.org/features/articles/detail/68845
 date: 2017-03-02
 ---
 
+[[2017]] / [[commonplace]] / 
+ 
 “[Haiku] is not a literary career; it’s an exercise in mind-focus that everyone shares.”
 
 “But given the “roof of hell” haiku you just recited, it seems that you don’t worry about the five-seven-five syllable count?

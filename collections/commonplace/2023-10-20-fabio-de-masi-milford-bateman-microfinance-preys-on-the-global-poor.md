@@ -8,6 +8,8 @@ link: https://jacobin.com/2023/06/fintech-microfinance-poverty-debt-global-south
 date: 2023-10-20
 ---
 
+[[2023]] / [[commonplace]] / 
+
 "Beginning with the idea of microloans in the 1980s and then expanding to cover other sorts of financial services, “microfinance” was sold by global elites as a way to transform the economies of the Global South by allowing poorer communities easy access to banking and credit"
 
 "fintech and microfinance schemes have often pushed people deeper into destitution, while making exorbitant profits for the Western investors behind those schemes"

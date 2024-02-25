@@ -8,6 +8,8 @@ link: https://www.theatlantic.com/entertainment/archive/2017/10/blade-runner-204
 date: 2017-10-11
 ---
 
+[[2017]] / [[commonplace]] / 
+ 
 “Blade Runner 2049 is the sequel to Ridley Scott’s 1982 sci-fi game-changer Blade Runner, and it stars Ryan Gosling and Harrison Ford.”
 
 “The first Blade Runner took place in a rain-soaked, dystopian 2019, which makes for a slightly uneasy viewing experience in rain-soaked, dystopian 2017.”

@@ -8,6 +8,8 @@ link: https://chicagoreader.com/news-politics/let-your-fingers-do-the-thinking/
 date: 2023-10-10
 ---
 
+[[2023]] / [[commonplace]] / 
+
 "“You’re all set to copy down whatever I say, as though details about technique are what you need to know. Those things don’t matter. What matters is wanting to play. What matters is loving the music. Look, I’ll give you all the information you need before you leave here. You don’t have to write anything down–it’s all here in the manual–but it’s up to you to use it. People are their own best teachers, just believe that.”"
 
 "Sudnow’s “secret” is deceptively simple–teach yourself. Go after the information you need as you need it, and put it to use"

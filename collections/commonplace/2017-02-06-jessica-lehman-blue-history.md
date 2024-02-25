@@ -8,6 +8,8 @@ link: http://thenewinquiry.com/essays/blue-history/
 date: 2017-02-06
 ---
 
+[[2017]] / [[commonplace]] / 
+ 
 “The ocean archive catalogues the ways we have been laid to waste and have wasted”
 
 “ON New Year’s Day in 1738, the Dutch West India Company vessel Leusden found itself in trouble just off Suriname’s coast.”

@@ -8,6 +8,8 @@ link: https://www.tandfonline.com/doi/full/10.1080/02691728.2022.2156308
 date: 2023-06-03
 ---
 
+[[2023]] / [[commonplace]] / 
+ 
 "We consider a deflationary view in which science refers to whatever is regarded as epistemically successful, but find that this does not leave room for the important notion of scientific error and fails to capture distinctive social elements of science"
 
 "This leads us to the view that a demarcation criterion should be a widely upheld social norm without immediate epistemic connotations. Our tentative answer is the communist norm, which calls on scientists to share their work widely for public scrutiny and evaluation"

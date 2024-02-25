@@ -8,6 +8,8 @@ link: https://dev.lareviewofbooks.org/article/fuck-the-poetry-police-on-the-inde
 date: 2023-03-11
 ---
 
+[[2023]] / [[commonplace]] / 
+ 
 "So many of us want to be great writers. Students clamor to take creative writing classes. MFA programs have proliferated. Tens if not hundreds of thousands of people self-publish fiction online each year through Kindle Direct Publishing and fan fiction sites and [Wattpad](https://post45.org/2022/07/wattpads-fictions-of-care/). Many compete to [entice literary agents](https://post45.org/2020/04/americas-next-top-novel/) on Twitter. But vanishingly few become the kind of writer who achieves conventional success and wins lucrative literary prizes"
 
 "The game is rigged. It is rigged like capitalism is rigged. There is no puppet master, no conspiracy, only a field where advantages, to begin with, are distributed unequally. You can beat the long odds, but you have long odds to beat; a team of scholars has been working for almost 10 years to detail exactly how the rigging works"

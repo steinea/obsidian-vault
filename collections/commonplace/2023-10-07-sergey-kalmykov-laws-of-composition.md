@@ -8,6 +8,8 @@ link: https://cosmos.art/cosmic-bulletin/2022/laws-of-composition
 date: 2023-10-07
 ---
 
+[[2023]] / [[commonplace]] / 
+
 "Any point in a composition can be the center of symmetry, or the center of rotation. Any straight line in a composition can be an axis of symmetry, or an axis of rotation"
 
 "Any plane in a composition can be a plane of symmetry"

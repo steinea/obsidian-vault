@@ -8,6 +8,8 @@ link: https://lareviewofbooks.org/article/what-keeps-everything-from-happening-a
 date: 2017-01-17
 ---
 
+[[2017]] / [[commonplace]] / 
+ 
 “HERE’S A FAVORITE JOKE among physicists: “Time flies like an arrow, but fruit flies like a banana.” Some attribute it to Groucho Marx (a layman). Some attribute it to the high regard that physicists have for their careers and aptitudes as opposed to those of biologists.”
 
 “But maybe it’s just a case of whistling past the graveyard.”

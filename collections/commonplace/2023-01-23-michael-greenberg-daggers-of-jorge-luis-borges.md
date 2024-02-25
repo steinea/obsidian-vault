@@ -8,6 +8,8 @@ link: https://www.nybooks.com/articles/2014/01/09/daggers-jorge-luis-borges/
 date: 2023-01-23
 ---
 
+[[2023]] / [[commonplace]] / 
+ 
 "Throughout his life, Jorge Luis Borges was engaged in a dialogue with violence"
 
 "Swords, daggers—weapons with a blade—retained a mysterious, talismanic significance for Borges, imbued with predetermined codes of conduct and honor"

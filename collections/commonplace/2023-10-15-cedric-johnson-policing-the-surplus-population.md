@@ -8,6 +8,8 @@ link: https://jacobin.com/2023/04/police-exist-to-manage-and-contain-the-surplus
 date: 2023-10-15
 ---
 
+[[2023]] / [[commonplace]] / 
+
 "In his new book, [*After Black Lives Matter: Policing and Anti-Capitalist Struggle*](https://www.versobooks.com/products/3057-after-black-lives-matter), political scientist Cedric Johnson explores the origins and consequences of what he calls stress policing, or the style of law enforcement that emerged out of “broken windows” initiatives in the carceral expansion of the 1980s"
 
 "policing in the United States is not primarily an expression of antiblackness or white supremacy, but rather functions to secure the conditions for perpetual capital accumulation, in large part by managing a surplus population that is increasingly multiracial"

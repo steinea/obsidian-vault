@@ -8,6 +8,8 @@ link: https://www.upi.com/Science_News/2017/01/26/Presenting-time-crystals-physi
 date: 2017-01-28
 ---
 
+[[2017]] / [[commonplace]] / 
+ 
 Time crystals are atomic structures or signatures repeated in time. Photo by UC-Berkeley 
 
 Jan. 26 (UPI) -- Crystals feature an atomic lattice structure repeated in space. Time crystals repeat their atomic structure in time.

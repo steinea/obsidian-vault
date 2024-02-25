@@ -8,6 +8,8 @@ link: https://lareviewofbooks.org/article/fiery-heaven-bastard-earth-the-cosmolo
 date: 2017-07-13
 ---
 
+[[2017]] / [[commonplace]] / 
+ 
 “There has been a veritable Maker Faire of commentary on the iconic and addictive show, falling mainly into three genres:”
 
 “straightforward conjecture about how the tangled plot lines will come together (and whether they can);”

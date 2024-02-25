@@ -8,6 +8,8 @@ link: https://www.theatlantic.com/entertainment/archive/2017/09/david-lynch-foun
 date: 2017-09-05
 ---
 
+[[2017]] / [[commonplace]] / 
+ 
 “Never let it be said that David Lynch leaves his audiences unsatisfied. Presented with the challenge of finding a suitable conclusion to his dazzling, incomparable 18-hour odyssey Twin Peaks: The Return, the director gave viewers the best of both worlds.”
 
 “The first hour of Sunday’s two-episode finale was as clean an ending as fans could have expected from a series that so often defied the most basic concepts of television plotting.”

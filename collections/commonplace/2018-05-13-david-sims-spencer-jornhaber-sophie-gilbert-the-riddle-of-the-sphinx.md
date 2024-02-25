@@ -8,6 +8,8 @@ link: https://www.theatlantic.com/entertainment/archive/2018/05/westworld-season
 date: 2018-05-13
 ---
 
+[[2018]] / [[commonplace]] / 
+ 
 "David Sims:"
 
 "Westworld’s first season was largely focused on the abuse of artificial life, given that the park hosts’ purpose almost exclusively revolved around sex, violence, and suffering."

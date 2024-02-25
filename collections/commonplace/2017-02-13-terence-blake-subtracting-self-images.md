@@ -8,6 +8,8 @@ link: https://terenceblake.wordpress.com/2017/02/05/18861/
 date: 2017-02-13
 ---
 
+[[2017]] / [[commonplace]] / 
+ 
 “I am freeing the system from its transcendental fixations.”
 
 “Nowhere do I argue that unlimited pluralism is the ultimate goal, on the contrary. Neither does Latour nor Feyerabend. My point is that the self-limitation of the system to only four truth procedures is completely unsupported. It bespeaks a lack of ontological imagination.”

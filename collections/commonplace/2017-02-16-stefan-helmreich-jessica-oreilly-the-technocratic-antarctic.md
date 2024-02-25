@@ -8,6 +8,8 @@ link: http://blog.castac.org/2017/02/technocratic-antarctic/
 date: 2017-02-16
 ---
 
+[[2017]] / [[commonplace]] / 
+ 
 Science, Dwelling, and Governance
 
 “Stefan Helmreich: Why Antarctica?”

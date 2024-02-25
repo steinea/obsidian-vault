@@ -8,6 +8,8 @@ link: https://www.superjumpmagazine.com/plato-computer-rpg/
 date: 2023-12-11
 ---
 
+[[2023]] / [[commonplace]] / 
+
 "Starting around 1970, fans of wargames started experimenting with a new type of game in which players controlled individuals instead of directing armies. The most significant of these was the "Blackmoor campaign," a late medieval wargame run by Dave Wesley and Dave Arneson"
 
 "Whereas most of these experimental games were exercises in pure storytelling, Arneson added mechanics to the game using Chainmail, a wargame rulebook that had been co-developed by Gary Gygax, one of Arneson's collaborators in the wargame space"

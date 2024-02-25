@@ -8,6 +8,8 @@ link: https://lareviewofbooks.org/article/bleeding-green-and-yellow-on-football-
 date: 2023-09-30
 ---
 
+[[2023]] / [[commonplace]] / 
+
 "IN BRAZIL, it starts before you’re born. At the baby shower, your fanatical aunt gifts your mother football-themed onesies and bibs, as if being near the right colors, watching your mother wipe your vomit with them, could influence your development, making you choose the right side of the stadium in some future game"
 
 "As a child, you learn to improvise. You make a ball out of newspaper and masking tape or your mother’s old tights. You demarcate two goals with your Havaianas flip-flops. In case what you’re missing is players, you practice dribbling by yourself. Even if, by a miracle, you happen to develop no interest in the sport, you pretend to care"

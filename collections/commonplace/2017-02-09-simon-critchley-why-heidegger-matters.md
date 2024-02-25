@@ -8,6 +8,8 @@ link: http://www.theguardian.com/commentisfree/belief/2009/jun/05/heidegger-phil
 date: 2017-02-09
 ---
 
+[[2017]] / [[commonplace]] / 
+ 
 Being and Time pt. 1
 
 “Heidegger has the audacity to go back to the drawing board and invent a new philosophical vocabulary.”

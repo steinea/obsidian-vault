@@ -8,6 +8,8 @@ link: https://en.m.wikipedia.org/wiki/Look-and-say_sequence
 date: 2023-01-09
 ---
 
+[[2023]] / [[commonplace]] / 
+ 
 "In [mathematics](https://en.wikipedia.org/wiki/Mathematics), the **look-and-say sequence** is the [sequence of integers](https://en.wikipedia.org/wiki/Integer_sequence) beginning as follows:
 
 1, 11, 21, 1211, 111221, 312211, 13112221, 1113213211, 31131211131221, ... (sequence [A005150](https://oeis.org/A005150) in the [OEIS](https://en.wikipedia.org/wiki/On-Line_Encyclopedia_of_Integer_Sequences))."

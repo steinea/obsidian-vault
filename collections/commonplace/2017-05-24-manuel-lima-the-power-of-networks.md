@@ -8,6 +8,8 @@ link: https://youtu.be/nJmGrNdJ5Gw
 date: 2017-05-24
 ---
 
+[[2017]] / [[commonplace]] / 
+ 
 Trees
 
 Important religious symbols: ancient Babylon, Judaism, Christianity

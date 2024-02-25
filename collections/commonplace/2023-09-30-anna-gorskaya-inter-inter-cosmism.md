@@ -8,6 +8,8 @@ link: https://cosmos.art/cosmic-bulletin/2022/editorial
 date: 2023-09-30
 ---
 
+[[2023]] / [[commonplace]] / 
+
 "The full-scale invasion of Ukraine unleashed by the Putin regime in 2022 forced everyone connected with the Russian intellectual and artistic context to question the possibility of continuing their own occupations without reflecting on its foundations"
 
 "For sure, researchers of Russian cosmism in its broad sense—from Nikolai Fedorov’s active Christianity to Konstantin Tsiolkovsky’s atomic monism and Valerian Muravyev’s mastering of time—face a similar predicament"

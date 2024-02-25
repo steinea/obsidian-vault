@@ -8,6 +8,8 @@ link: https://www.quantamagazine.org/standard-model-of-cosmology-survives-jwsts-
 date: 2023-03-20
 ---
 
+[[2023]] / [[commonplace]] / 
+ 
 "The cracks in cosmology were supposed to take a while to appear. But when the James Webb Space Telescope (JWST) opened its lens last spring, extremely distant yet very bright galaxies immediately shone into the telescope’s field of view"
 
 "The galaxies’ apparent distances from Earth suggested that they formed much earlier in the history of the universe than anyone anticipated"

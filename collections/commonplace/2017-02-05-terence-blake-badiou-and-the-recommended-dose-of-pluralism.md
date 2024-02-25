@@ -8,6 +8,8 @@ link: https://terenceblake.wordpress.com/2017/02/05/badiou-and-the-recommended-d
 date: 2017-02-05
 ---
 
+[[2017]] / [[commonplace]] / 
+ 
 “My thesis is that Badiou is caught up in a process of becoming Deleuzian as he develops ever further his pluralist ontology of immanence.”
 
 “This becoming-Deleuzian is real, but it is offset by transcendent regressions due to Badiou’s uncritical acceptance of some parts of the doxa he has been exposed to in his situated intellectual development.”

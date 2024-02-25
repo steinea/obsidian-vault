@@ -8,6 +8,8 @@ link: https://lareviewofbooks.org/article/the-body-of-thought-on-markus-gabriels
 date: 2023-01-07
 ---
 
+[[2023]] / [[commonplace]] / 
+ 
 "What is important here is that thought transpires in and through our bodies. Where there is no body, there is no thought"
 
 "In *The Meaning of Thought*, Markus Gabriel claims that thought is an integral part of personhood and another fundamental sense that we humans possess. 'The key thesis of the book,” he writes, “says that our thought is a sense, just like sight, taste, hearing, feeling or touch. Through thinking, we touch a reality accessible only to thought, just as colours are usually accessible only to sight and sounds to hearing.'"

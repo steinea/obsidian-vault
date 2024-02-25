@@ -8,6 +8,8 @@ link: https://newrepublic.com/article/141308/look-kristen-stewart
 date: 2017-03-14
 ---
 
+[[2017]] / [[commonplace]] / 
+ 
 “Critics, male critics in particular, have turned her into a withholding figure.”
 
 “The New York Times’s A.O. Scott wrote that she “possesses an uncanny ability to turn her natural charisma into diffidence. You can’t take your eyes off her, even as she seems to be making every effort to deflect your attention, to obscure her radiance, to disappear onscreen.””

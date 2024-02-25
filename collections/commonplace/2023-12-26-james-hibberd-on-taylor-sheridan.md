@@ -8,6 +8,8 @@ link: https://www.hollywoodreporter.com/tv/tv-features/taylor-sheridan-yellowsto
 date: 2023-12-26
 ---
 
+[[2023]] / [[commonplace]] / 
+
 "We’re sitting behind one of his houses on his massive Four Sixes ranch. The property is wedged up in the remote Texas panhandle, several hours’ drive from the nearest major city. (The Montana ranch in *Yellowstone* is fictional, but the Four Sixes, or [6666](https://www.hollywoodreporter.com/t/6666/) — which is also featured in the series — is real.) Sheridan finalized his purchase last year, and it covers a staggering 270,000 acres — nearly the size of Los Angeles"
 
 "“I grew up in the shadow of the Four Sixes,” Sheridan says. “To just get one of their horses was a status symbol, because they’re so well trained. This was the ranch I based [*Yellowstone’*s] scope and operation on, because it didn’t exist in Montana. Most ranches there had already been carved up. They’d already lost it.”"

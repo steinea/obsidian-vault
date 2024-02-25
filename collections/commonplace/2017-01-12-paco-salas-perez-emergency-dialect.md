@@ -8,6 +8,8 @@ link: http://reallifemag.com/emergency-dialect/
 date: 2017-01-12
 ---
 
+[[2017]] / [[commonplace]] / 
+ 
 “In Arrival, the film adaptation of Ted Chiang’s Nebula award-winning “The Story of Your Life,” a seven-limbed alien species arrives on Earth in twelve mysterious monoliths spread around the globe.”
 
 “the heptapods, like us, have both spoken and written language, which she names Heptapod A and B. However, unlike with humans, the two differ significantly from each other in appearance and behavior.”

@@ -8,6 +8,8 @@ link: https://www.theatlantic.com/entertainment/archive/2017/12/black-mirror-cro
 date: 2017-12-30
 ---
 
+[[2017]] / [[commonplace]] / 
+ 
 "Sophie, I agree on “Arkangel,” which I initially admired for its indie-movie approach, though it couldn’t follow through on the advantages of that form. "
 
 "For the episode to work, I needed to be invested in the mother-daughter relationship, which Jodie Foster’s direction tried to enhance—the story was very light on dramatics and pretty real."

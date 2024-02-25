@@ -8,6 +8,8 @@ link: http://reallifemag.com/tactical-virality/
 date: 2017-02-14
 ---
 
+[[2017]] / [[commonplace]] / 
+ 
 “These systemic distortions, Hall argued, could be countered in part by the agency audiences have in “decoding” broadcasts variously and interpreting the meaning in light of their own social contexts. Public responses to any given broadcast will not be homogenous.”
 
 “The internet makes this agency more explicit, allowing oppositional “decodings” to circulate in participatory, distributed networks. This allowed particular stories to go viral to the degree they presented consumers opportunities to express opinions. Used tactically, such viral media could consolidate the discontent with broadcast media’s official stories and mount necessary challenges against that agenda-led discourse, increasing visibility for neglected issues and promoting informed activism”

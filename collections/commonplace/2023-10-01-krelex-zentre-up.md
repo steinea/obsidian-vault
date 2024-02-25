@@ -8,6 +8,8 @@ link: https://cosmos.art/cosmic-bulletin/2022/up
 date: 2023-10-01
 ---
 
+[[2023]] / [[commonplace]] / 
+
 "This short play is an attempt to respond to the Cosmic Bulletin’s open call and to answer the questions posed in it"
 
 "Instead of answers, however, only new questions arise; questions such as, What is a space program? What is its purpose? Who benefits from it? To what extent is Russian cosmism part and parcel of the Russian state’s imperialist ambitions? How can the former Russian colonies, united today in sisterly solidarity with Ukraine, have anything to do with it?"

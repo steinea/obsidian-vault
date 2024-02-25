@@ -8,6 +8,8 @@ link: https://uxdesign.cc/as-a-user-i-dont-want-to-973990a30158
 date: 2023-10-09
 ---
 
+[[2023]] / [[commonplace]] / 
+
 "Task-oriented user stories lead to bad product decisions because they mix up value with cost. But they are easy to turn into inverted user stories — a tool for thinking bigger"
 
 "Since their invention in 1997, user stories have become ubiquitous"

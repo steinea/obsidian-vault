@@ -8,6 +8,8 @@ link: http://www.theguardian.com/commentisfree/2013/apr/08/frankfurt-school-dial
 date: 2017-04-06
 ---
 
+[[2017]] / [[commonplace]] / 
+ 
 “The Frankfurt school came together and developed its theories in a world left shattered by the first world war.”
 
 “As liberal democracy failed and Weimar spiralled down into Nazism, this school of almost entirely Jewish-Marxist intellectuals were forced to flee a country which had turned against them for reasons of both race and politics.”

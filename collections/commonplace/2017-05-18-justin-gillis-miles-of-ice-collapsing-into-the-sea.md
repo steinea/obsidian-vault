@@ -8,6 +8,8 @@ link: https://www.nytimes.com/interactive/2017/05/18/climate/antarctica-ice-melt
 date: 2017-05-18
 ---
 
+[[2017]] / [[commonplace]] / 
+ 
 “We went to Antarctica to understand how changes to its vast ice sheet might affect the world.”
 
 “Ice sheets flow downhill, seemingly in slow motion. Mountains funnel the ice into glaciers. And ice flowing from the land into the sea can form a floating ice shelf.”

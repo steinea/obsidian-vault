@@ -8,6 +8,8 @@ link: https://lareviewofbooks.org/article/white-men-mission-martin-scorseses-lon
 date: 2017-01-29
 ---
 
+[[2017]] / [[commonplace]] / 
+ 
 “Silence is a film about varieties of guilt, each of which is represented as a particularly Catholic and particularly white experience. Repeatedly confessed, but also continually accumulating, guilt in the film becomes the basis of an unbreakable, quasi-familial relationship with Christianity.”
 
 “You can never become a perfect child of Christ, but you never stop seeing yourself as a Catholic, either. Silence also fulfills one unspoken goal of its protagonist’s mission: to aestheticize and glorify experiences of guilt to the point that it elevates its bearer rather than debasing him.”

@@ -8,6 +8,8 @@ link: https://www.theatlantic.com/entertainment/archive/2017/10/the-real-and-unr
 date: 2017-10-12
 ---
 
+[[2017]] / [[commonplace]] / 
+ 
 “The hero of Blade Runner, Ridley Scott’s 1982 dystopian masterpiece, isn’t Rick Deckard (Harrison Ford), the cop who finds and kills “replicants” (bioengineered androids) for the LAPD in a grim, rain-drenched futurescape.”
 
 “It’s his primary target, Roy Batty (Rutger Hauer), an escaped combat unit seeking a cure to the four-year lifespan built into his system.”

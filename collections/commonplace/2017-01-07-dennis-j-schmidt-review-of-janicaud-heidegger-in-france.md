@@ -8,6 +8,8 @@ link: https://ndpr.nd.edu/news/heidegger-in-france/
 date: 2017-01-07
 ---
 
+[[2017]] / [[commonplace]] / 
+ 
 “This book is an unusual intellectual history of a period and tradition still in flux, still unfolding and unfinished. It is sweeping in scope (covering over seventy years of Heidegger's widespread influence in French intellectual life) and equally wide ranging in its style: one finds theoretical discussions and academic debates discussed with insight and precision, and yet this book is full of anecdotes, as well as personal recollections (in the form of seven "Epilogues" appearing at various points). It tells the story of how Heidegger's thought entered, and often defined, some of the liveliest debates of French intellectual life in the 20th century.”
 
 “Dominique Janicaud (1937-2002) was well placed to tell this story. A relative of Jean Beaufret (who was the recipient of Heidegger's "Letter on Humanism" and a key figure in the French reception of Heidegger), Janicaud was himself a significant voice in these debates: his previous major work, La Puissance du rationnel (1985), pressed Heidegger's thought on technology and science in new directions. A generous and careful person, Janicaud's efforts to tell the story of Heidegger's legacy in France bear the hallmarks of his person: they are balanced, nuanced, thoughtful, and directed at understanding more than passing judgment.”

@@ -8,6 +8,8 @@ link: https://cosmos.art/cosmic-bulletin/2022/how-do-you-transfer-an-entire-coun
 date: 2023-10-07
 ---
 
+[[2023]] / [[commonplace]] / 
+
 "the fact that Kalmykov received and continues to receive publicity—including via our New Genius project—is a mistake which can only be explained by the Theory of the Fourth Dimension"
 
 "It's as if one were to say, "Antonin Artaud was an outstanding theater director!" and everywhere were to show a film recording of one of the one and a half performances he staged"

@@ -8,6 +8,8 @@ link: http://dailynous.com/2017/07/31/publication-emergency-guest-post-j-david-v
 date: 2017-07-31
 ---
 
+[[2017]] / [[commonplace]] / 
+ 
 “Graduate students now believe that they must publish in order to get a job, and most of them are right.”
 
 “Graduate programs will need to favor applicants who show promise of being able to publish after only a few years of study”

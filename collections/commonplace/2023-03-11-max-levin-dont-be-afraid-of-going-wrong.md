@@ -8,6 +8,8 @@ link: https://dev.lareviewofbooks.org/article/dont-be-afraid-of-going-wrong-conv
 date: 2023-03-11
 ---
 
+[[2023]] / [[commonplace]] / 
+ 
 "*THE FOLLOWING CONVERSATION consists of two excerpts from interviews I conducted with C. L. R. James in Washington, DC, during 1976–77. The first section, videotaped on November 12–13, 1977, focuses on his experiences living in the United Kingdom; the second, audiotaped on October 15, 1976, focuses on his 1936 novel* Minty Alley*,* *the first novel by a Black West Indian to be published in England. The transcriptions have been edited for length and clarity.*"
 
 "Before I went to Queen’s Royal College, I had read Thackeray’s *Vanity Fair* about 10 or 15 times. I used to read that book over and over again. Not because it was a famous book, not because it was a classic novel — because it was in the house. And it was a long book — about 800 pages. I couldn’t absorb it, you know. But I would read it all"

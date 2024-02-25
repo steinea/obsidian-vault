@@ -8,6 +8,8 @@ link: https://www.polygon.com/2017/10/5/16426054/blade-runner-2049-review
 date: 2017-10-11
 ---
 
+[[2017]] / [[commonplace]] / 
+ 
 “The first thing you notice about Blade Runner 2049 is the sound.”
 
 “It washes over you, like the gentle turning of the tide, rolling up to your body, blanketing you. It’s all-encompassing.”

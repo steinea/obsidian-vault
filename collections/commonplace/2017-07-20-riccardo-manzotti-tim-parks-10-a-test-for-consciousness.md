@@ -8,6 +8,8 @@ link: http://www.nybooks.com/daily/2017/07/20/a-test-for-consciousness/
 date: 2017-07-20
 ---
 
+[[2017]] / [[commonplace]] / 
+ 
 “there has been no progress in bridging the gap between this activity in the brain and the nature of our experience, the richness of our sensations of color, sound, touch, motion, or simply awareness.”
 
 “How, then, can the internalist theory be tested and demonstrated scientifically?”

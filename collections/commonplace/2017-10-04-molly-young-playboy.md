@@ -8,6 +8,8 @@ link: https://nplusonemag.com/online-only/book-review/playboy-hugh-hefner-story/
 date: 2017-10-04
 ---
 
+[[2017]] / [[commonplace]] / 
+ 
 “Their premise is simple: by identifying with the absent man, a viewer can enter the scene.”
 
 “As Hefner put it in a letter to Russ Meyer (director of Faster, Pussycat! Kill Kill!), the ideal centerfold is one in which “a situation is suggested, the presence of someone not in the picture.””

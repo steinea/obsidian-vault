@@ -8,6 +8,8 @@ link: https://open.substack.com/pub/patrickklepek/p/what-its-like-reporting-from
 date: 2023-06-07
 ---
 
+[[2023]] / [[commonplace]] / 
+ 
 "Cecilia D'Anastasio: *Roblox* is the purest example of the fact that online games can function as social media"
 
 "Older people are often surprised that these Lego-like avatars and blocky fashions hold that kind of power–and that’s because they’re missing the main thing about *Roblox*. When you drop into a lot of these games, you’re immediately immersed in the invisible social contract particular to that one digital experience. Do you remember what it was like being on the playground and witnessing the “wolf kids" or the kids role-playing as cops or Animorphs? Kids today are manifesting those dynamics in *Roblox* as fully-formed games they make themselves. Then, they’re pulling in kids from other schools and transferring those relationships into their Discord servers or elsewhere online"

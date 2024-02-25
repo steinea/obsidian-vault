@@ -8,4 +8,6 @@ link: https://partiallyexaminedlife.com/product/ep-76-deleuze-on-what-philosophy
 date: 2017-06-20
 ---
 
+[[2017]] / [[commonplace]] / 
+ 
 "Rhetoric is the logic of making sense of the world that is in motion while part of the world in motion oneself"

@@ -8,6 +8,8 @@ link: https://www.theatlantic.com/entertainment/archive/2017/05/why-prometheus-d
 date: 2017-05-18
 ---
 
+[[2017]] / [[commonplace]] / 
+ 
 “The idea of extra-terrestrial beings picking off humans one by one is essential to the Alien franchise, for which Prometheus served as a prequel. But in the original Alien (1979), directed by Scott, the victims were blue-collar space truckers caught off-guard by a mysterious creature.”
 
 “Prometheus marked Scott’s return to the franchise decades later, and though it did well at the box office, it also seemed open about its contempt for its characters. But in retrospect that attitude feels like a feature, not a bug—especially with the upcoming release of Alien: Covenant, also directed by Scott, which continues the narrative begun in Prometheus and takes even greater glee in wiping out its human characters.”

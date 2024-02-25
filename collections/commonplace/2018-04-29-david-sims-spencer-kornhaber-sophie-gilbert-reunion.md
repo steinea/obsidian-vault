@@ -8,6 +8,8 @@ link: https://www.theatlantic.com/entertainment/archive/2018/04/westworld-season
 date: 2018-04-29
 ---
 
+[[2018]] / [[commonplace]] / 
+ 
 "Spencer Kornhaber:"
 
 "“Up until this point, the stakes in this place haven’t been real,” the Man in Black says to his dim sidekick, and his observation applies to Westworld as much as to Westworld. For the most part, intellectual curiosity rather than emotional investment has been viewers’ primary drive. "

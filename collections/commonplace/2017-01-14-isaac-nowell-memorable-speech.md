@@ -8,6 +8,8 @@ link: https://lareviewofbooks.org/article/memorable-speech-on-j-d-mcclatchys-swe
 date: 2017-01-14
 ---
 
+[[2017]] / [[commonplace]] / 
+ 
 “PERHAPS UNSURPRISINGLY, it is not easy to review a commonplace book, or even to define it.”
 
 “The Oxford English Dictionary is periphrastically unhelpful: “a book in which ‘commonplaces’ or passages important for reference were collected, usually under general heads; hence, a book in which one records passages or matters to be especially remembered or referred to, with or without arrangement.””

@@ -8,6 +8,8 @@ link: https://www.theatlantic.com/entertainment/archive/2017/08/game-of-thrones-
 date: 2017-08-13
 ---
 
+[[2017]] / [[commonplace]] / 
+ 
 'Game of Thrones': No Choice at All
 
 “David Sims:”

@@ -8,6 +8,8 @@ link: http://reallifemag.com/fancy-feast/
 date: 2017-09-21
 ---
 
+[[2017]] / [[commonplace]] / 
+ 
 “The implication: What we eat should be more than just food. It ought to be supplemented by fairy dust that promises to rev up our cognitive, bodily, sexual, and even spiritual prowess.”
 
 “This is the new health, same as the old. Beautiful, slim, wealthy white women — long the keepers of purity, health, and hygiene in the American imagination — are again advising the rest of us how to care for our bodies through state-of-the-art technologies.”

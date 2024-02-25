@@ -8,6 +8,8 @@ link: https://www.theatlantic.com/entertainment/archive/2017/07/how-the-fifth-el
 date: 2017-07-19
 ---
 
+[[2017]] / [[commonplace]] / 
+ 
 “The most radical element of Luc Besson’s 1997 space opera The Fifth Element is not the absurdly opulent future-costumes designed by Jean Paul Gaultier. It isn’t the bizarre Southern twang of the Hitler haircut-sporting villain Zorg (Gary Oldman), nor is it Chris Tucker’s performance as an intergalactic sex symbol who hosts a radio show. It’s that Bruce Willis cries at the opera.”
 
 “In budget, in scale, and in casting, The Fifth Element feels like any other big Hollywood sci-fi movie, featuring popular English-speaking actors running around a high-concept world, complete with lavish sets and CGI effects. But not many blockbusters would let its male star weep at a musical performance.”

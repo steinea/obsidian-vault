@@ -8,6 +8,8 @@ link: https://lareviewofbooks.org/article/article-a-gargantuan-pulp-sphinx-on-mi
 date: 2023-10-16
 ---
 
+[[2023]] / [[commonplace]] / 
+
 "THE RECENT publication of *The* *Garden of Seven Twilights* marks a real literary event: English-speaking audiences finally have the chance to experience one of contemporary Catalan literature’s most distinctive writers, Miquel de Palol"
 
 "upon its publication in 1989, *Garden of Seven Twilights* was hailed as a masterpiece and showered with accolades—the Serra d’Or Critics prize, the National Prize for Catalan Literature, and many others"

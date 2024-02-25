@@ -8,6 +8,8 @@ link: https://www.gamedeveloper.com/gdc2023/how-to-give-better-feedback-in-game-
 date: 2023-10-09
 ---
 
+[[2023]] / [[commonplace]] / 
+
 "Moberly and Correia jumped into their explainer with a crash course in why "bad feedback" can be harmful to a team"
 
 "to tell the best stories and make the best games, you have to make mistakes and learn from them along the way"

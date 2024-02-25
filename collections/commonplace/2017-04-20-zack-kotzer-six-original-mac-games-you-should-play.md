@@ -8,6 +8,8 @@ link: https://motherboard.vice.com/en_us/article/return-to-dark-castle-6-origina
 date: 2017-04-20
 ---
 
+[[2017]] / [[commonplace]] / 
+ 
 “As is the tradition of Apple computers, there just aren't as many games here as there are in the Archive's DOS collection.”
 
 “But some of these games are the most important and influential in history, and now you have an opportunity to play them without booting up an unused computer that looks like the leg of a brutalist park bench.”

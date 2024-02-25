@@ -8,6 +8,8 @@ link: https://thenewinquiry.com/from-gender-critical-to-qanon-anti-trans-politic
 date: 2023-10-18
 ---
 
+[[2023]] / [[commonplace]] / 
+
 "The appeal to free speech in anti-trans punditry is hardly novel, but I have become interested in the intensely-avowed *emotional* attachment to liberalism in this genre of complaint"
 
 "This affective attachment is all the more interesting because it is so frequently accompanied by the suggestion that a lawsuit would be justified to secure their liberty against irrational critics"

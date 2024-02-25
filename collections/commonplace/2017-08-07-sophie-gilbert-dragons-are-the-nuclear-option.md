@@ -8,6 +8,8 @@ link: https://www.theatlantic.com/entertainment/archive/2017/08/game-of-thrones-
 date: 2017-08-07
 ---
 
+[[2017]] / [[commonplace]] / 
+ 
 “It’s no secret that dragons have a deeper meaning on Game of Thrones. George R.R. Martin has specifically referred to them as “the nuclear deterrent.””
 
 “Timothy Westmyer, a former research and program assistant at George Washington University, has argued in the Bulletin of the Atomic Scientists that dragons are “living, fire-breathing metaphors for nuclear weapons,” and that the series is deliberate in using dragons as a warning about the “inherent dangers” and the responsibility that comes with possessing and wielding such power.”

@@ -8,6 +8,8 @@ link: http://www.nybooks.com/articles/2017/01/19/trouble-with-quantum-mechanics/
 date: 2017-01-19
 ---
 
+[[2017]] / [[commonplace]] / 
+ 
 “The development of quantum mechanics in the first decades of the twentieth century came as a shock to many physicists. Today, despite the great successes of quantum mechanics, arguments continue about its meaning, and its future.”
 
 “The first shock came as a challenge to the clear categories to which physicists by 1900 had become accustomed. There were particles—atoms, and then electrons and atomic nuclei—and there were fields—conditions of space that pervade regions in which electric, magnetic, and gravitational forces are exerted.”

@@ -8,6 +8,8 @@ link: https://lareviewofbooks.org/article/trick-of-the-light-on-martin-mcdonaghs
 date: 2023-10-09
 ---
 
+[[2023]] / [[commonplace]] / 
+
 "A rainbow slides over a harbor as Pádraic Súilleabháin, presumably our hero, walks into frame. He is good-looking and clean. Do we think he is a nice man? We do: he looks like Colin Farrell. He raises his million-dollar eyebrows. He waves to someone. He’s wearing dark woolens with just a splash of pink"
 
 "It is, based on these clothes, somewhere in the past, maybe in the never; “idyllic” practically doesn’t cut it. The world appears halcyon in this instant, soundtracked by an Irish choir and every inch the image of an [Irish Country](https://www.torforgeblog.com/2021/10/20/a-celebration-of-patrick-taylor/) fantasy"

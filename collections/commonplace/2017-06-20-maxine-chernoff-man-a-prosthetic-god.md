@@ -8,6 +8,8 @@ link: http://jacketmagazine.com/33/humpo-poems.shtml
 date: 2017-06-20
 ---
 
+[[2017]] / [[commonplace]] / 
+ 
 *“weh unser gutter kaspar ist tot.” — Hans Arp*
 
 Hephaestus’s golden crutch-dolls

@@ -8,6 +8,8 @@ link: https://www.theatlantic.com/entertainment/archive/2017/07/valerian-and-the
 date: 2017-07-20
 ---
 
+[[2017]] / [[commonplace]] / 
+ 
 “Valerian and the City of a Thousand Planets is a film that refuses to let a single action sequence play out simply.”
 
 “In an era of expensive, paint-by-numbers blockbusters, Besson’s latest, and biggest, film is a day-glo delight, a true original that deserves to be remembered despite—or perhaps partly because of—its various silly excesses.”

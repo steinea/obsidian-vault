@@ -8,6 +8,8 @@ link: http://www.theguardian.com/commentisfree/belief/2013/apr/29/frankfurt-scho
 date: 2017-04-07
 ---
 
+[[2017]] / [[commonplace]] / 
+ 
 ““We must believe in the Principle of Hope. A Marxist does not have the right to be a pessimist””
 
 “We cannot count Ernst Bloch as being among the central figures of the Frankfurt School.”

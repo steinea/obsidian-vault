@@ -8,6 +8,8 @@ link: https://lareviewofbooks.org/article/how-to-be-a-poverty-abolitionist-on-ma
 date: 2023-10-09
 ---
 
+[[2023]] / [[commonplace]] / 
+
 "Desmond writes, “poverty is the feeling that your government is against you, not for you; that your country was designed to serve other people and that you are fated to be managed and processed.”"
 
 "In *Poverty, by America*, he wants to know *why*. Why is there so much poverty in the richest country on earth, who is responsible, and what can be done about it?"

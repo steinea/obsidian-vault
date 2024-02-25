@@ -8,6 +8,8 @@ link: https://www.press.jhu.edu/news/blog/minecraft-and-robinson-crusoe
 date: 2017-02-26
 ---
 
+[[2017]] / [[commonplace]] / 
+ 
 “Josef Nguyen took a look at similarities between the computer world-building game Minecraft and pieces of fiction like Robinson Crusoe, which rely heavily on the creation of a new world”
 
 “An assistant professor of game studies at the University of Texas at Dallas, Nguyen engages science and technology studies and media studies in his research, focusing on the politics of play, toys, and games.”

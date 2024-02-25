@@ -8,6 +8,8 @@ link: https://www.sublationmag.com/post/psychoanalysis-for-militants
 date: 2023-06-10
 ---
 
+[[2023]] / [[commonplace]] / 
+ 
 "The first is the one that takes an interest in psychoanalysis as an additional set of ideas that can help Marxism account for specific social phenomena"
 
 "The second is the type of project that seeks to highlight that psychoanalysis, as it currently stands or in some variation, has political merit of its own, carrying some emancipatory potential"

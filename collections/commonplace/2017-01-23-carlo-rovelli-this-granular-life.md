@@ -8,6 +8,8 @@ link: https://aeon.co/essays/is-atomic-theory-the-most-important-idea-in-human-h
 date: 2017-01-23
 ---
 
+[[2017]] / [[commonplace]] / 
+ 
 “According to tradition, in the year 450 BCE, a man embarked on a 400-mile sea voyage from Miletus in Anatolia to Abdera in Thrace”
 
 “The traveller’s name was Leucippus; little is known about his life, but his intellectual spirit proved indelible. He wrote the book The Great Cosmology, in which he advanced new ideas about the transient and permanent aspects of the world.”

@@ -8,6 +8,8 @@ link: https://ndpr.nd.edu/news/complicated-presence-heidegger-and-the-postmetaph
 date: 2017-01-10
 ---
 
+[[2017]] / [[commonplace]] / 
+ 
 “Jussi Backman has produced an insightful, nuanced, well-written, cogently argued, and thoroughly researched interpretive account of Heidegger's philosophical pursuit of the question of Being.”
 
 “Backman argues that there is a basic continuity to Heidegger's thought.”

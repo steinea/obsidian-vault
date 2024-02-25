@@ -8,6 +8,8 @@ link: https://cosmos.art/cosmic-bulletin/2022/biocosmic-interindividualism
 date: 2023-09-30
 ---
 
+[[2023]] / [[commonplace]] / 
+
 "***Aleksandr Svyatogor*** *(Aleksandr Fedorovich Agiyenko, 1889–1937) was a poet and an anarchist who was directly involved in the revolutionary events of 1917*"
 
 "He was the leader and mastermind of the short-lived anarcho-biocosmist movement (1920–1922)"

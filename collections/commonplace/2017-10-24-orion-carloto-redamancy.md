@@ -8,6 +8,8 @@ link: https://books.google.ca/books/about/Flux.html?id=KoQ5DwAAQBAJ
 date: 2017-10-24
 ---
 
+[[2017]] / [[commonplace]] / 
+ 
 “If my tongue were a paintbrush
 <br>I’d drag it across her frame
 <br>starting from her neck,

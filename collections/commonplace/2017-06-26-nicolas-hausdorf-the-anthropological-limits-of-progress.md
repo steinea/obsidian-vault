@@ -8,6 +8,8 @@ link: https://hkrbooks.com/2017/06/26/hkrb-essays-the-anthropological-limits-of-
 date: 2017-06-26
 ---
 
+[[2017]] / [[commonplace]] / 
+ 
 “What is wrong with the Universal Basic Income? What should we learn from the Unabomber today? Who are a politics of ‘progress’ serving now?”
 
 “A few days ago, Mark Zuckerberg, the richissime CEO of Facebook, joined the ranks of billionaires proposing the payment of a universal basic income, thereby following other “philanthropists” like Elon Musk, the CEO of Tesla who, in light of the imminent revolutionary technological advances of a combination of AI and robotisation, had already called for the policy to be implemented.”

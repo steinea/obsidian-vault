@@ -8,6 +8,8 @@ link: https://www.poetryfoundation.org/poems/43845/so-well-go-no-more-a-roving
 date: 2017-06-30
 ---
 
+[[2017]] / [[commonplace]] / 
+ 
 So, we'll go no more a roving
 <br>So late into the night,
 <br>Though the heart be still as loving,

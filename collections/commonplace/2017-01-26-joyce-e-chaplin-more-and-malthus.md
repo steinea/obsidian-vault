@@ -8,6 +8,8 @@ link: https://aeon.co/essays/how-more-and-malthus-light-the-way-towards-humanity
 date: 2017-01-26
 ---
 
+[[2017]] / [[commonplace]] / 
+ 
 “since the 1980s, we’ve been obsessed by utopia’s absence, using a hopeful-sounding word to mark our sense of loss.”
 
 “Thomas More’s Utopia was published in 1516, just over 500 years ago; 250 years later, in 1766, Thomas Robert Malthus, author of An Essay on the Principle of Population (1798), was born.”

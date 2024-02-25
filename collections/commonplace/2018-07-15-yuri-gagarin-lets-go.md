@@ -8,6 +8,8 @@ link: https://en.wikipedia.org/wiki/Yuri_Gagarin
 date: 2018-07-15
 ---
 
+[[2018]] / [[commonplace]] / 
+ 
 “On 12 April 1961, the Vostok 3KA-3 (Vostok 1) spacecraft with Gagarin aboard was launched from Baikonur Cosmodrome. Gagarin thus became both the first human to travel into space, and the first to orbit the Earth. His call sign was Kedr (Russian: Кедр, Siberian pine or Cedar).
 	
 The radio communication between the launch control room and Gagarin included the following dialogue at the moment of rocket launch:

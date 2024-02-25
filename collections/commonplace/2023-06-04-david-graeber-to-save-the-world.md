@@ -8,6 +8,8 @@ link: https://www.bigissue.com/opinion/david-graeber-to-save-the-world-were-goin
 date: 2023-06-04
 ---
 
+[[2023]] / [[commonplace]] / 
+ 
 "Work is our badge of moral citizenship. We seem to have convinced ourselves as a society that anyone who isn’t working harder than they would like to be working, at something they don’t enjoy, is a bad, unworthy person. As a result, work comes to absorb ever greater proportions of our energy and time"
 
 "Much of this work is entirely pointless"

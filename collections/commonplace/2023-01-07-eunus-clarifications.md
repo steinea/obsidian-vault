@@ -8,6 +8,8 @@ link: https://illwill.com/clarifications
 date: 2023-01-07
 ---
 
+[[2023]] / [[commonplace]] / 
+ 
 "Through relentless and dynamic actions undertaken in decentralized and uncoordinated ways, thousands of people across the city and even the country have brought the forest destruction project to a stalemate"
 
 "In the course of these events, it has become abundantly clear that adversaries of the movement do not understand the nature of contemporary struggles. Their recent wave of repression indicates that they believe they are fighting a movement from the 20th century, i.e., a two-tiered, leader-driven struggle organized around a "core" of dedicated militants and a "support base" who essentially follow their lead"

@@ -8,6 +8,8 @@ link: https://lareviewofbooks.org/article/post-shawarma-avengers-infinity-war/
 date: 2018-05-02
 ---
 
+[[2018]] / [[commonplace]] / 
+ 
 "The MCU cycle began when Iron Man and The Incredible Hulk were created in 2008, in the last year of Bush’s presidency. "
 
 "They are set against the backdrop of wars—in Iraq, in Afghanistan—that never seemed to end"

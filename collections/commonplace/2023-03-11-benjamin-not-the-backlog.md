@@ -8,6 +8,8 @@ link: https://thinkings.space/not-the-backlog
 date: 2023-03-11
 ---
 
+[[2023]] / [[commonplace]] / 
+ 
 "Few concepts destroy the minds of fair-minded people like the concept of the backlog"
 
 "Like many things in *theory,* backlogs are a fine idea. Our time is finite and so having some structure and intentionality around what we intend to do is a reasonable proposition, albeit one that falls apart quickly when it meets the lived world"

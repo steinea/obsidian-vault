@@ -8,6 +8,8 @@ link: https://lareviewofbooks.org/article/the-ironic-radical-on-hayden-whites-th
 date: 2023-12-11
 ---
 
+[[2023]] / [[commonplace]] / 
+
 "Like his late-in-life Stanford colleague Richard Rorty, White was an ironic anti-foundationalist—a thinker eager to undermine the ways that we moderns have found new gods to worship or essences to piously respect"
 
 "While the former tended to remind us that we didn’t need these new idols, the latter wanted us to smash them on the way to creating something radically new"

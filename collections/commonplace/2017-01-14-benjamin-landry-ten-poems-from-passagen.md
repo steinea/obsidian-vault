@@ -8,6 +8,8 @@ link: http://www.conjunctions.com/webconj.htm
 date: 2017-01-14
 ---
 
+[[2017]] / [[commonplace]] / 
+ 
 “[… A] cradle rocking back and forth between modernity and antiquity […]”
 <br>—The Arcades Project
 

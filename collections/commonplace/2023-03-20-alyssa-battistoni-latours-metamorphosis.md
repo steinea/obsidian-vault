@@ -8,6 +8,8 @@ link: https://newleftreview.org/sidecar/posts/latours-metamorphosis?pc=1492
 date: 2023-03-20
 ---
 
+[[2023]] / [[commonplace]] / 
+ 
 "In the aughts, Latour had been a ubiquitous reference point for Anglophone social and cultural theory, standing alongside Judith Butler and Michel Foucault on the list of most cited academics in fields ranging from geography to art history"
 
 "Made notorious by the ‘Science Wars’ of the 1990s, he reinvented himself as a climate scholar and public intellectual in the last two decades of his life"

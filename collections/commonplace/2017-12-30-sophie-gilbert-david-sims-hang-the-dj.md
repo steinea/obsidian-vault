@@ -8,6 +8,8 @@ link: https://www.theatlantic.com/entertainment/archive/2017/12/black-mirror-han
 date: 2017-12-30
 ---
 
+[[2017]] / [[commonplace]] / 
+ 
 "I couldn’t agree more about “Crocodile,” David. I’m such a devoted Andrea Riseborough fan that I’d pay money to watch her read the phone book, so the episode felt like a colossal disappointment. "
 
 "Her character’s throughline was nonsensical, as you noted—how can someone so horrified by accidentally hitting a cyclist in the opening scene murder four people (including a toddler) a decade later?"

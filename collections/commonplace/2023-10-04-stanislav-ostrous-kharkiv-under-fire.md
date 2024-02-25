@@ -8,6 +8,8 @@ link: https://cosmos.art/cosmic-bulletin/2022/kharkiv-under-fire
 date: 2023-10-04
 ---
 
+[[2023]] / [[commonplace]] / 
+
 "We have known everything about war since childhood! We played war, read about war, watched films about war, and imagined ourselves as war heroes—as scouts, pilots, and tankers"
 
 "Inexplicably, this time burst into our reality, bringing another—real—war, with bombings, rocket attacks, ruins, and nightmarish news about the dead and wounded"

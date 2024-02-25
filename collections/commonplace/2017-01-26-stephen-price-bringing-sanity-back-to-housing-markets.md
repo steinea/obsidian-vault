@@ -8,6 +8,8 @@ link: http://www.macleans.ca/economy/economicanalysis/a-roadmap-for-bringing-san
 date: 2017-01-26
 ---
 
+[[2017]] / [[commonplace]] / 
+ 
 “One of the common responses to the first article was that “Boomers worked hard to get where they are. Millennials should too.””
 
 “As the apocryphal Einstein quote goes, “If I had only one hour to save the world, I would spend 55 minutes defining the problem, and only five minutes finding the solution.” We all need to spend the time to understand and define the problem. It turns out that if you care about housing affordability, you also need to care about how the global economy works and what that means for our 20th-century tax system.”

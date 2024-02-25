@@ -8,6 +8,8 @@ link: https://waypoint.vice.com/en_us/article/7x4884/trackless-goes-on-a-strange
 date: 2017-10-26
 ---
 
+[[2017]] / [[commonplace]] / 
+ 
 “Trackless begins on a train. This might be the future. It might be a simulation. It might be some other world; a giant black orb hangs dead in the sky in the place of the sun.”
 
 “You learn you are a "seeker" among fellow pilgrims on your the way to see something called the Object. Other travelers tell you that they're nervous or excited.”

@@ -8,6 +8,8 @@ link: https://www.vox.com/the-highlight/23466389/millennials-cringe-epic-bacon
 date: 2023-01-23
 ---
 
+[[2023]] / [[commonplace]] / 
+ 
 "in her book *Because Internet: Understanding the New Rules of Language*, the internet linguist Gretchen McCulloch has what I think is a far better way of categorizing internet users: She divides people according to when they truly “got online.”"
 
 "The first group, which she calls “Old Internet People” were on the early forums and message boards of the late 1990s and early 2000s: Usenet, Something Awful, or 4chan (back before it carried the alt-right connotations it does now), for instance"

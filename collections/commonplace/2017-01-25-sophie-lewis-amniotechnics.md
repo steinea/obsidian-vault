@@ -8,6 +8,8 @@ link: http://thenewinquiry.com/essays/amniotechnics/
 date: 2017-01-25
 ---
 
+[[2017]] / [[commonplace]] / 
+ 
 “A politics of holding water is central to struggles around kinmaking, including reproductive justice, migrant solidarity, and indigenous sovereignty”
 
 “HOW do you bring a body to life? First, you have to have some kind of tank.”

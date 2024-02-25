@@ -8,6 +8,8 @@ link: https://www.theatlantic.com/entertainment/archive/2018/05/westworld-season
 date: 2018-05-20
 ---
 
+[[2018]] / [[commonplace]] / 
+ 
 "Spencer Kornhaber:"
 
 "part of me wishes we’d been in Shogun World all along"

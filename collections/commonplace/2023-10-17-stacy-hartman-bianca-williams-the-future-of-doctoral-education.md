@@ -8,6 +8,8 @@ link: https://lareviewofbooks.org/article/the-future-of-doctoral-education-four-
 date: 2023-05-29
 ---
 
+[[2023]] / [[commonplace]] / 
+
 "doctoral education in the humanities is particularly calcified. It is devoted to reproduction, not transformation, and it is a system predicated on exploitative labor practices that are just as egregious as anything found in the private sector"
 
 "Since the 2008 economic downturn, there has been a vigorous, ongoing conversation about the purpose of doctoral education, funded largely by the Mellon Foundation"

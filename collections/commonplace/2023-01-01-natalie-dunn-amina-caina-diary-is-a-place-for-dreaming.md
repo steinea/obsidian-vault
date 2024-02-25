@@ -8,6 +8,8 @@ link: https://dev.lareviewofbooks.org/article/a-diary-is-a-place-for-dreaming-a-
 date: 2023-01-01
 ---
 
+[[2023]] / [[commonplace]] / 
+ 
 "Amina Cain’s newest book, which describes itself as a “diary of fiction,”"
 
 "A Horse at Night illustrates, with gentle accuracy, a life both inextricable from and transformed by writing and reading. Cain writes, “One reads or writes a novel like one goes out to walk in the heat, or into the rain, to buy the persimmon and the butter.”"

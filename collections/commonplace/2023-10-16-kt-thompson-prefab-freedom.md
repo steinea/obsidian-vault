@@ -8,6 +8,8 @@ link: https://thenewinquiry.com/prefab-freedom/
 date: 2023-10-16
 ---
 
+[[2023]] / [[commonplace]] / 
+
 "Five vehicles idled in a huddle. The pitch of their 1000cc engines thwarted my attempts to eavesdrop. But the flexible poles jutting from their cargo holds—called *whips* in ATV (All-Terrain Vehicle) accessory language—raised the semaphores of May 2020: Confederate, US, Thin Blue Line, and Trump 2020 flags"
 
 "In South Dakota, I grew up among ATVs, not in my family per se, but as accessories of rural life, where they functioned as transportation, as a method to get cattle moving or inspect fence lines, and as reckless recreation"

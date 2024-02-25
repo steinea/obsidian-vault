@@ -8,6 +8,8 @@ link: https://www.theatlantic.com/entertainment/archive/2017/08/deus-ex-westeros
 date: 2017-08-21
 ---
 
+[[2017]] / [[commonplace]] / 
+ 
 “Game of Thrones is in many ways a show about faith: in gods, in others, in oneself.”
 
 “But it also demands, as any such show will, another kind of faith—in storytelling.”

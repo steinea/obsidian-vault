@@ -8,6 +8,8 @@ link: https://anticiplay.medium.com/game-designers-rebellion-learning-from-the-r
 date: 2023-06-03
 ---
 
+[[2023]] / [[commonplace]] / 
+ 
 "I was there for two reasons. The first was simply to support the blockade, for all the same reasons that everyone else was there. But the second one has to do with game design and with imaginative possibilities. For the last year, the [Anticiplay project team](https://anticiplay.medium.com/) has been keenly interested in building bridges between games and activism"
 
 "Games that engage with sustainability issues often strike a dull, didactic and managerial tone, treating climate change and connected issues like technocratic puzzles to be solved and planned through"

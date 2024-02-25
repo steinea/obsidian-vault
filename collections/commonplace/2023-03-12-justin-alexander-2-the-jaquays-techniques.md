@@ -8,6 +8,8 @@ link: https://thealexandrian.net/wordpress/13103/roleplaying-games/jaquaying-the
 date: 2023-03-12
 ---
 
+[[2023]] / [[commonplace]] / 
+ 
 "**MULTIPLE ENTRANCES**: Multiple entrances give the PCs an immediate strategic choice as they approach the dungeon complex"
 
 "**LOOPS**: Branching paths in a dungeon allow for choice, but are still functionally linear in their design"

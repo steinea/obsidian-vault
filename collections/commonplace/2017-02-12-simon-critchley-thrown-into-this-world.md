@@ -8,6 +8,8 @@ link: http://www.theguardian.com/commentisfree/belief/2009/jun/29/religion-philo
 date: 2017-02-12
 ---
 
+[[2017]] / [[commonplace]] / 
+ 
 Being and Time pt. 4
 
 “The being of Dasein is existence, understood as average everyday existence or our life in the world, discussed in the last entry. But how might we give some more content to this rather formal idea of existence?”

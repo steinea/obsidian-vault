@@ -8,6 +8,8 @@ link: https://cosmos.art/cosmic-bulletin/2022/polemics-among-soviet-physicists-i
 date: 2023-09-30
 ---
 
+[[2023]] / [[commonplace]] / 
+
 "The philosophical debates of the 1920s and early ‘30s around the theory of relativity and quantum mechanics in Soviet Russia exhibit a certain entanglement of both scientific and political registers"
 
 "Two figures represent this: Aleksandr Bogdanov, a prominent Bolshevik ideologue, experimental scientist, associate (and adversary) of Lenin; and Boris Hessen, a physicist who struggled for the revolution in the Red Army during the Civil War, architect of the new physics program at the Moscow State University during 1932-1936, when he was a dean of Physics Department"

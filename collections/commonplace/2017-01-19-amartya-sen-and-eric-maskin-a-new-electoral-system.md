@@ -8,6 +8,8 @@ link: http://www.nybooks.com/articles/2017/01/19/rules-of-the-game-new-electoral
 date: 2017-01-19
 ---
 
+[[2017]] / [[commonplace]] / 
+ 
 “Americans have been using essentially the same rules to elect presidents since the beginning of the Republic.”
 
 “In the general election, each voter chooses one candidate; each state (with two current exceptions) awards all its Electoral College votes to the candidate chosen by the largest number of voters (not necessarily a majority) in that state; and the president-elect is the candidate with a majority of Electoral College votes.”

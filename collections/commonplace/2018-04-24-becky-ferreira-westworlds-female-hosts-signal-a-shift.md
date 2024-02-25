@@ -8,6 +8,8 @@ link: https://motherboard.vice.com/en_us/article/bjpk43/westworlds-female-hosts-
 date: 2018-04-24
 ---
 
+[[2018]] / [[commonplace]] / 
+ 
 "The second season premiere of Westworld, HBO’s moody series about a theme park of “host” robots who rise up against their human “guest” overlords, opened on Sunday night with a scene in which a man confesses his fear of a woman’s growing intelligence."
 
 "This moment in last night’s episode, “Journey Into Night,” is emblematic not only of the wider themes of Westworld, but also of a recent shift in how filmmakers build fear around rebellious robots in science fiction. Shows like Westworld, or Alex Garland’s 2014 film Ex Machina, seem more interested in mining horror through sentient fembots than with the Terminator archetype of an indestructible warrior robot, which is normally (but not always) presented as male."

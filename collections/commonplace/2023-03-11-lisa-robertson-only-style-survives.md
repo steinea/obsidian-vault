@@ -8,6 +8,8 @@ link: https://www.theparisreview.org/blog/2023/01/06/only-style-survives-lisa-ro
 date: 2023-03-11
 ---
 
+[[2023]] / [[commonplace]] / 
+ 
 "My spiritual fidelity is to the school of lapsed fashions"
 
 "The evocative mystery of a name means everything to him, as it did to Proust—a name, like a two-note birdcall from the woods, is the smallest signature of style"

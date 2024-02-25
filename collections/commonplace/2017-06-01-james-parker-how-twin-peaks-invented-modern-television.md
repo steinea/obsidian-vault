@@ -8,6 +8,8 @@ link: https://www.theatlantic.com/magazine/archive/2017/06/how-twin-peaks-invent
 date: 2017-06-01
 ---
 
+[[2017]] / [[commonplace]] / 
+ 
 “The sensational entrance into mass consciousness of David Lynch and Mark Frost’s Twin Peaks, 27 years ago, was an event that defies replication.”
 
 “To begin with, back then there actually was a mass consciousness—or, at least, there were a lot of people watching the same shows at the same time.”

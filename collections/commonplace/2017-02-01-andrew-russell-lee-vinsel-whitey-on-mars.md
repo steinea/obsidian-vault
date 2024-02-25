@@ -8,6 +8,8 @@ link: https://aeon.co/essays/is-a-mission-to-mars-morally-defensible-given-today
 date: 2017-02-01
 ---
 
+[[2017]] / [[commonplace]] / 
+ 
 “There are good reasons to worry about the future of humanity. Do we have a future, and if so, how much and what kind?”
 
 “On 27 September 2016, the SpaceX founder Elon Musk made a bold, direct claim: that, in order to survive an inevitable extinction event, humans would need to ‘become a space-faring civilisation and a multi-planetary species’.”

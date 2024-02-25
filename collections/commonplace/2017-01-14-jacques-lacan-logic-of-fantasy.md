@@ -8,6 +8,8 @@ link: http://www.lacan.com/seminars3.htm
 date: 2017-01-14
 ---
  
+[[2017]] / [[commonplace]] / 
+ 
 1966-1967	
 Le séminaire, Livre XIV: La logique du fantasme.
 French: unpublished.

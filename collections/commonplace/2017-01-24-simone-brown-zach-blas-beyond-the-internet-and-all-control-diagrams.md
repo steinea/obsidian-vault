@@ -8,6 +8,8 @@ link: http://thenewinquiry.com/features/beyond-the-internet-and-all-control-diag
 date: 2017-01-24
 ---
 
+[[2017]] / [[commonplace]] / 
+ 
 “In an exclusive conversation, surveillance scholar Simone Browne and artist Zach Blas critique various forms of “control diagrams” and imagine a new commons in the space between the Internet’s network nodes.”
 
 “Contra-Internet Inversion Practice #3: Modeling Paranodal Space (2016)”

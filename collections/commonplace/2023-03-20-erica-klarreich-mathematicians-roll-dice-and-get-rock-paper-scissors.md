@@ -8,6 +8,8 @@ link: https://www.quantamagazine.org/mathematicians-roll-dice-and-get-rock-paper
 date: 2023-03-20
 ---
 
+[[2023]] / [[commonplace]] / 
+ 
 "As Bill Gates tells the story, Warren Buffett once challenged him to a game of dice"
 
 "Buffett’s four dice (call them *A*, *B*, *C* and *D*) formed a pattern reminiscent of rock-paper-scissors, in which *A* beats *B*, *B* beats *C*, *C* beats *D* and *D* beats *A*. Mathematicians say that such a set of dice is “intransitive.”"

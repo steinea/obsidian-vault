@@ -8,6 +8,8 @@ link: https://aeon.co/essays/the-rise-and-fall-and-rise-of-logic
 date: 2017-01-12
 ---
 
+[[2017]] / [[commonplace]] / 
+ 
 “The history of logic should be of interest to anyone with aspirations to thinking that is correct, or at least reasonable.”
 
 “Reflecting on the history of logic forces us to reflect on what it means to be a reasonable cognitive agent, to think properly.”

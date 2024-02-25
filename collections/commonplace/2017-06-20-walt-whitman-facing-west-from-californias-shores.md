@@ -8,6 +8,8 @@ link: https://whitmanarchive.org/published/LG/1891/poems/43
 date: 2017-06-20
 ---
 
+[[2017]] / [[commonplace]] / 
+ 
 FACING west, from California’s shores, 
 <br>Inquiring, tireless, seeking what is yet unfound, 
 <br>I, a child, very old, over waves, towards the house of maternity, the land of migrations, look afar, 

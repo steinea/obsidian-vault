@@ -8,6 +8,8 @@ link: https://lareviewofbooks.org/article/beyond-blade-runner/
 date: 2017-02-10
 ---
 
+[[2017]] / [[commonplace]] / 
+ 
 “SCIENCE FICTION often gives short shrift to cities. Nothing says trouble, after all, like a great city smashed to smithereens on screen by natural cataclysms, creepy aliens in oversized flying saucers, or even an ill-tempered Godzilla.”
 
 “When cities survive in SF cinema, they’re often places we’d rather not visit — nasty New York in Soylent Green (1973) and Escape from New York (1981), the antiseptic city of domes in Logan’s Run (1976), creepy underground Topeka in A Boy and His Dog (1975), or menacing Los Angeles in Blade Runner (1982).”

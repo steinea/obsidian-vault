@@ -8,6 +8,8 @@ link: http://www.nybooks.com/daily/2016/12/10/distance-apart-together/
 date: 2017-04-11
 ---
 
+[[2017]] / [[commonplace]] / 
+ 
 “Now, all calls are local calls—the entire world is nearby.”
 
 “Every relationship is a long-distance relationship.”

@@ -8,6 +8,8 @@ link: https://terenceblake.wordpress.com/2017/10/03/zizeks-incontinence-of-the-v
 date: 2017-10-03
 ---
 
+[[2017]] / [[commonplace]] / 
+ 
 “Zizek’s reply to his critics has important points in common with Deleuze’s “apology” in “Letter to a Harsh Critic”. In particular, both reject negative psycho-social interpretations of their person and work as malevolent, attempts to imprison them in stereotypes and to judge them by criteria that make it impossible to understand what they are saying.”
 
 “There is the critic of identitarian thought”

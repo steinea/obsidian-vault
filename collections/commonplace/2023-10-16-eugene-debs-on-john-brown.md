@@ -8,6 +8,8 @@ link: https://jacobin.com/2022/01/socialist-party-america-slavery-abolitionism-r
 date: 2023-10-16
 ---
 
+[[2023]] / [[commonplace]] / 
+
 "Eugene Debs revered John Brown as “[history’s greatest hero](https://jacobinmag.com/2020/10/eugene-debs-john-brown),” a man who saw an unspeakable horror and tried to dash it from the world"
 
 "In October 1908, while campaigning for president, Debs decided to make a brief stop at Harpers Ferry, West Virginia, the site of Brown’s doomed anti-slavery crusade"

@@ -8,6 +8,8 @@ link: https://lareviewofbooks.org/article/star-trek-discovery/
 date: 2017-09-25
 ---
 
+[[2017]] / [[commonplace]] / 
+ 
 “Future Perfect
 
 by Aaron Bady”

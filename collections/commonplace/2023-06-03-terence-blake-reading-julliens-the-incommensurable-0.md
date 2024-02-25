@@ -8,6 +8,8 @@ link: https://terenceblake.wordpress.com/2023/01/29/reading-francois-julliens-th
 date: 2023-06-03
 ---
 
+[[2023]] / [[commonplace]] / 
+ 
 "I have been reading François Jullien’s work, off and on, for a little over 33 years – since the publication in French of his **PROCESS OR CREATION An introduction to the thought of Chinese literary scholars**, published in 1989 and still untranslated. His books are quite popular in France and he has published at least 47, many of which are available in cheap paperbacks"
 
 "François Jullien is a French philosopher-sinologist, grounded also in Hellenistic studies, who chose to effectuate a long detour from his original formation in philosophy and from the presuppositions implicit in Western philosophy by means of an immersion in Chinese thought, and then proceeded to a return to philosophical creation"

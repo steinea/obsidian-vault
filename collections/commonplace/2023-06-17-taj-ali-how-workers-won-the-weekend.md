@@ -8,6 +8,8 @@ link: https://tribunemag.co.uk/2023/03/how-workers-won-the-weekend
 date: 2023-06-17
 ---
 
+[[2023]] / [[commonplace]] / 
+ 
 "Before the standardisation of the five-day week, [Mondays](https://tribunemag.co.uk/2020/06/workers-playtime) were the week’s highlight for many British workers. Beginning in the seventeenth century, a tradition of absenteeism on a Monday among artisan workers came to be known as ‘Saint Monday’. These workers worked long hours between Tuesday to Saturday and believed a single rest day to observe the Sabbath on a Sunday was simply insufficient"
 
 "In 1842, a formal campaign group, the Early Closing Association, was formed by a coalition of shop workers across the country. It was supported and championed by social reformers Samuel Carter Hall and George Passmore Edwards. The group had branches across the country and lobbied the government to keep Saturday afternoons free in return for a full day’s work on a Monday. The Saturday half-day for those in mills and factories was eventually made law through the 1867 Factory Act"

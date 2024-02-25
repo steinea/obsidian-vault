@@ -8,6 +8,8 @@ link: https://poets.org/poem/carmel-point
 date: 2017-03-02
 ---
 
+[[2017]] / [[commonplace]] / 
+ 
 The extraordinary patience of things! 
 <br>This beautiful place defaced with a crop of suburban houses—
 <br>How beautiful when we first beheld it,

@@ -8,6 +8,8 @@ link: http://www.hemisphericinstitute.org/hemi/fr/e-misferica-82/blazquez
 date: 2017-03-15
 ---
 
+[[2017]] / [[commonplace]] / 
+ 
 “Argentina and cocaine converge in their whiteness. The former, silvery by name, tends to be imagined as a white nation, an almost European one. Buenos Aires flirts with being Paris, and many cities in the interior such as Córdoba or Salta reinforce its colonial façade.”
 
 “The latter––the powder trafficked on a planetary scale––looks like talcum or has tiny multicolored sparkles like the wings of a fly, depending on its snowy purity.”

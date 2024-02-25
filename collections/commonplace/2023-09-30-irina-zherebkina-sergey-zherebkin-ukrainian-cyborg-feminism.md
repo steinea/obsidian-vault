@@ -8,6 +8,8 @@ link: https://cosmos.art/cosmic-bulletin/2022/the-mixture-of-nationalist-and-fem
 date: 2023-09-30
 ---
 
+[[2023]] / [[commonplace]] / 
+
 "According to Michael Freeden’s morphological analysis of ideologies, the peculiarity of nationalism is that its narrow semantic and political agenda (as compared with ideologies involving a broader agenda, such as liberalism, conservatism, and socialism) renders it incapable of maintaining itself as a long-term project independently of other ideologies"
 
 "But if, as Freeden argues, the ideology of nationalism is “incapable of providing its own solution to questions of social justice, distribution of resources, and conflict-management which mainstream ideologies address,”5 what enabled it to act as a powerful resource for popular political mobilization in the two Maidan revolutions?"

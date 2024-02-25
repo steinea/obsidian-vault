@@ -8,6 +8,8 @@ link: https://books.google.ca/books/about/A_Door_in_the_Hive.html?id=Z7ja367ovMo
 date: 2017-02-13
 ---
 
+[[2017]] / [[commonplace]] / 
+ 
 In their homes, much glass and steel. Their cars
 <br> are fast—walking’s for children, except in rooms.
 <br> When they take longer trips, they think with contempt

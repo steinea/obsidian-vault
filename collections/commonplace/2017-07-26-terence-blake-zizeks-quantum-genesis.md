@@ -8,6 +8,8 @@ link: https://terenceblake.wordpress.com/2017/07/26/reading-disparities-10-zizek
 date: 2017-07-26
 ---
 
+[[2017]] / [[commonplace]] / 
+ 
 Reading Disparities (10)
 
 “In section five of Chapter 1 of DISPARITIES, “Biology or quantum physics?“, Zizek takes on an impossible task, that of justifying “the priority of quantum physics” (page 39) in the explanation of emergent properties, in particular of the emergence of subjectivity in the human organism.”

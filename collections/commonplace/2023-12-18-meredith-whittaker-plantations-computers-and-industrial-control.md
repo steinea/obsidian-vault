@@ -8,6 +8,8 @@ link: https://logicmag.io/supa-dupa-skies/origin-stories-plantations-computers-a
 date: 2023-12-18
 ---
 
+[[2023]] / [[commonplace]] / 
+
 "The blueprint for modern digital computing was codesigned by Charles Babbage, a vocal champion for the concerns of the emerging industrial capitalist class who condemned organized workers and viewed democracy and capitalism as incompatible"
 
 "Babbage’s proto-Taylorist ideas on how to discipline workers are inextricably connected to the calculating engines he spent his life attempting to build"

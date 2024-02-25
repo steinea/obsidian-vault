@@ -8,4 +8,6 @@ link:
 date: 2017-07-02
 ---
 
+[[2017]] / [[commonplace]] / 
+ 
 "That was back in the day when we set ice cream cones on fire. We were really single, and didn't know what to do with our time."

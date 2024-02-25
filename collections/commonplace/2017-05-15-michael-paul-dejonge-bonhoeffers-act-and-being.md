@@ -8,6 +8,8 @@ link: https://etd.library.emory.edu/view/record/pid/emory:1dsr8
 date: 2017-05-15
 ---
 
+[[2017]] / [[commonplace]] / 
+ 
 “This dissertation interprets the German theologian Dietrich Bonhoeffer's (1906-1945) post-doctoral dissertation, Act and Being. I argue that it operates in the intellectual space cleared by Karl Barth, who places at the center of theological discussion the problem of transcendence, which says that the constructive, productive, and projective functions of human epistemological faculties make knowledge of a transcendent God impossible. In light of this problem, which reduces God and revelation to objects at human disposal, Barth argues that theology's conceptual basis must be a concept of contingent revelation. Barth articulates this contingency by treating revelation as the free 'act' of the God who is transcendent subject rather than object.
 
 Bonhoeffer learns from Barth that the problem of transcendence requires theology to operate with a concept of contingent revelation, but Bonhoeffer finds Barth's understanding of contingency inadequate, since an act-concept of revelation cannot account for any continuous connection between the acting God and the human historical world. Bonhoeffer offers an alternative account of contingent revelation in the concept of 'person.' God is neither object nor subject but person, a historical being who acts. Only on this conceptual basis can theology maintain both the contingency and continuity of revelation.

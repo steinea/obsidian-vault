@@ -8,6 +8,8 @@ link: https://lareviewofbooks.org/article/conversation-bernard-henri-levy/
 date: 2017-01-18
 ---
 
+[[2017]] / [[commonplace]] / 
+ 
 “BERNARD-HENRI LÉVY, or BHL as he’s known in France, is that rare bird, a public intellectual who is also a crusader.”
 
 “The Genius of Judaism, Lévy’s engaging retort to Chateaubriand’s The Genius of Christianity, pays homage to the world’s first monotheistic faith while chronicling the origins and myriad incarnations of anti-Semitism.”

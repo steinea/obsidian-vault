@@ -8,6 +8,8 @@ link: https://www.theatlantic.com/entertainment/archive/2018/04/avengers-infinit
 date: 2018-05-19
 ---
 
+[[2018]] / [[commonplace]] / 
+ 
 "Never has the “Marvel Cinematic Universe” seemed like more of a universe, in ways both good and bad."
 
 "Infinity War—the title is almost too apt—is a narrative juggling act the likes of which I’m not sure I’ve ever seen before. "

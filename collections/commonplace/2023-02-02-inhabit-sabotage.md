@@ -8,6 +8,8 @@ link: https://territories.substack.com/p/sabotage?utm_source=substack&utm_medium
 date: 2023-02-02
 ---
 
+[[2023]] / [[commonplace]] / 
+ 
 "Beyond the mega-basin, the horizon"
 
 "As the surface of the earth warms and the arctic begins to see rain rather than snow, the oceans threaten to swallow whole [islands](https://www.worldbank.org/en/news/press-release/2021/10/29/marshall-islands-new-climate-study-visualizes-confronting-risk-of-projected-sea-level-rise), whole [regions](https://sealevel.nasa.gov/faq/17/which-areas-of-the-world-will-be-most-affected-by-sea-level-rise-over-the-next-century-and-after-that/), whole [coasts](https://www.epa.gov/climate-indicators/climate-change-indicators-coastal-flooding). For others, the problem is quite the opposite: [wildfires](https://www.c2es.org/content/wildfires-and-climate-change/), severe [droughts](https://www.c2es.org/content/drought-and-climate-change/), creeping [deserts](https://www.weforum.org/agenda/2022/05/climate-change-harming-deserts/), and massive [species-extinction](https://www.iucn.org/resources/issues-brief/species-and-climate-change)"

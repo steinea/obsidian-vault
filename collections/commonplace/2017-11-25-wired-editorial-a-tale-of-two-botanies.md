@@ -8,6 +8,8 @@ link: https://www.wired.com/2000/04/botanies/
 date: 2017-11-25
 ---
 
+[[2017]] / [[commonplace]] / 
+ 
 “Plants, shaped into incredible diversity by 3.8 billion years of evolution, make possible all life and are resilient against almost any threat - except human destructiveness.”
 
 “From botany came the genetics of Mendel and Lamarck, formalizing the patient plant-breeding that created 10,000 years of agriculture.”

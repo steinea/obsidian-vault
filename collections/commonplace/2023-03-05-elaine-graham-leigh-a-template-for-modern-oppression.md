@@ -8,6 +8,8 @@ link: https://jacobin.com/2023/01/albigensian-crusade-marxist-history-feudal-pow
 date: 2023-03-05
 ---
 
+[[2023]] / [[commonplace]] / 
+ 
 "The French monarchy waged an infamous war of extermination against Christian heretics during the 13th century. The Albigensian crusade was a landmark in the development of an oppressive European social order with crucial legacies for the world today"
 
 "The ideologies that took shape to legitimize medieval oppression later supplied a template for new systems of class domination in the modern capitalist world."

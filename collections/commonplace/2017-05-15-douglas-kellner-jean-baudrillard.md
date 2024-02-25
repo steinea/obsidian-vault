@@ -8,6 +8,8 @@ link: https://plato.stanford.edu/entries/baudrillard/
 date: 2017-05-15
 ---
 
+[[2017]] / [[commonplace]] / 
+ 
 “Baudrillard was initially a Germanist who published essays on literature in Les temps modernes in 1962-1963 and translated works of Peter Weiss and Bertolt Brecht into French, as well as a book on messianic revolutionary movements by Wilhelm Mühlmann. During this period, he met and studied the works of Henri Lefebvre, whose critiques of everyday life impressed him, and Roland Barthes, whose semiological analyses of contemporary society had lasting influence on his work.”
 
 “In 1966, Baudrillard entered the University of Paris, Nanterre, and became Lefebvre's assistant, while studying languages, philosophy, sociology, and other disciplines. He defended his “These de Troisiême Cycle” in sociology at Nanterre in 1966 with a dissertation on “Le système des objects,” and began teaching sociology in October of that year.”

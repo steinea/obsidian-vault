@@ -8,6 +8,8 @@ link: https://lareviewofbooks.org/article/man-city-jim-jarmuschs-paterson/
 date: 2017-01-19
 ---
 
+[[2017]] / [[commonplace]] / 
+ 
 “WAS JIM JARMUSCH WAITING for middle age or was middle age waiting for him?”
 
 “As the young director of films like Stranger Than Paradise (1984) and Down by Law (1986), there was no doubting Jarmusch’s commitment to deadpan hipster cool.”

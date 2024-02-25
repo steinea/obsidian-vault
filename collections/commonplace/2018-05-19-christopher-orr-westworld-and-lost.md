@@ -8,6 +8,8 @@ link: https://www.theatlantic.com/entertainment/archive/2018/05/no-that-episode-
 date: 2018-05-19
 ---
 
+[[2018]] / [[commonplace]] / 
+ 
 "There are precisely two times that a TV show has completely blown my mind. One was, of course, when Ned Stark lost his head in the first season of Game of Thrones in 2011. "
 
 "The other was the Season 2 opener of Lost, back in 2005. In what appeared to be a flashback, Desmond (played by the Scottish-Peruvian actor Henry Ian Cusick) put a record on a turntable to play a 1960s hit (Mama Cass’s “Make Your Own Kind of Music”), rode an exercise bike, went to the kitchen sink and the bathroom, and indulged in other daily routines. But it wasn’t a flashback: It was the present, with Desmond in the midst of a years-long stint in the “hatch,” which the survivors of Oceanic Airlines Flight 815 were in the process of blowing wide open. It was the single best moment of what was a pretty great show before it began going off the rails a season or two later."

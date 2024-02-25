@@ -8,6 +8,8 @@ link: https://www.theatlantic.com/entertainment/archive/2017/07/game-of-thrones-
 date: 2017-07-31
 ---
 
+[[2017]] / [[commonplace]] / 
+ 
 “It’s yet another circular story in an episode (and, indeed, a show) that is full of them. Here is Cersei, getting her revenge for the death of her daughter by forcing the woman who murdered Myrcella to endure roughly the same fate Cersei had: the loss of a child.”
 
 “the murders in question, the death of the one daughter avenged by the apparent death of the other, have something in common: The horror starts, in both cases, with a poison kiss.”

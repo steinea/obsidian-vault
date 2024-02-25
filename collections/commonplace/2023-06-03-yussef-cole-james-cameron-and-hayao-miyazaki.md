@@ -8,6 +8,8 @@ link: https://www.polygon.com/23574291/james-cameron-avatar-war-nature-hayao-miy
 date: 2023-06-03
 ---
 
+[[2023]] / [[commonplace]] / 
+ 
 "A paradoxical fixation on nature and war binds two living legends"
 
 "Through a mix of cold and unnatural technological processes, James Cameron’s [*Avatar: The Way of Water*](https://www.polygon.com/23542793/avatar-way-of-water-actors-underwater-motion-capture-making-of) manages to be a lovingly crafted showcase of natural splendor. It’s a romantic fantasy of a world untouched by the depravities of modern, capitalistic, and militaristic civilization, one in which there exists the freedom to coexist with nature, and to find family and love"

@@ -8,6 +8,8 @@ link: https://www.theringer.com/tech/2023/4/12/23673003/dril-twitter-interview-p
 date: 2023-10-13
 ---
 
+[[2023]] / [[commonplace]] / 
+
 "Dril is a real person, or so I had been told"
 
 "With 1.7 million highly engaged followers, Dril is one of the more powerful Twitter users and, by default, one of the more powerful figures on the internet"

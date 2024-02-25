@@ -8,6 +8,8 @@ link: https://lareviewofbooks.org/article/carried-off-worlds-end-study-alice-osw
 date: 2017-01-03
 ---
 
+[[2017]] / [[commonplace]] / 
+ 
 ““Tithonus once, the tale was, rose-armed Dawn / love-smitten, carried off to the world’s end // handsome and young then,” reads a translation of Sappho’s 58th fragment. Tithonus, as Sappho tells us, was Eos’ lover; Eos, the Titan of dawn, garnered him immortality, but forgot to finagle agelessness. And so, “yet in time gray age / o’ertook him, husband of immortal wife.””
 
 “Or, as British poet Alice Oswald tells the tale in her most recent book, Falling Awake (2016):

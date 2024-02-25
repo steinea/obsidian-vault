@@ -8,6 +8,8 @@ link: https://bsky.app/profile/merrittk.com/post/3kgz6quptus2n
 date: 2023-12-20
 ---
 
+[[2023]] / [[commonplace]] / 
+
 merrit k: "Video games have cooked your brains"
 
 *Quoting Reddit:*

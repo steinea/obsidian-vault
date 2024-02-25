@@ -8,6 +8,8 @@ link: https://acoup.blog/2023/05/12/collections-who-were-the-celts-and-how-did-t
 date: 2023-12-16
 ---
 
+[[2023]] / [[commonplace]] / 
+
 "Canestrelli clearly has read a lot,[3](https://acoup.blog/2023/05/12/collections-who-were-the-celts-and-how-did-they-some-of-them-fight/#easy-footnote-bottom-3-18721) most of the details are right and most of the errors are small (but some are big, including the central conceit that there is a thing called ‘Celtic warfare’ that we can discuss)"
 
 "my focus is mostly going to be on Gallic arms and techniques in the third and second century BC (roughly correlated to the ‘Middle La Tène’ period)"

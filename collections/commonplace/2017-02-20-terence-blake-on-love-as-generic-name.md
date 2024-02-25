@@ -8,6 +8,8 @@ link: https://terenceblake.wordpress.com/2017/02/20/on-love-as-generic-name-badi
 date: 2017-02-20
 ---
 
+[[2017]] / [[commonplace]] / 
+ 
 “There is no absolute name for a generic multiplicity, any particular name quickly becomes associated with a predicative multiplicity of which the degree of apparition is greater than the minimum.”
 
 “Badiou has increasingly argued that the actual history of the name “proletariat” has made it less generic and more predicative, and so increasingly defunct as the name of the idea of emancipation. I merely apply the same reasoning to “love”.”

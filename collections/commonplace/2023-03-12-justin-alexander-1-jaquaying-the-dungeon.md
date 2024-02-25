@@ -8,6 +8,8 @@ link: https://thealexandrian.net/wordpress/13085/roleplaying-games/jaquaying-the
 date: 2023-03-12
 ---
 
+[[2023]] / [[commonplace]] / 
+ 
 "the term is referring to Jennell Jaquays, who designed *[Caverns of Thracia](http://www.amazon.com/exec/obidos/ASIN/B000YBFHEE/digitalcomi0a-20)*, *[Dark Tower](http://www.amazon.com/exec/obidos/ASIN/B0023SSJR8/digitalcomi0a-20)*, *[Griffin Mountain](http://www.amazon.com/exec/obidos/ASIN/B000F3N8SS/digitalcomi0a-20)*, and a half dozen other old school classics for Judges Guild, Chaosium, Flying Buffalo, and TSR before transitioning into video game design"
 
 "What Jaquays particularly excelled at in those early Judges Guild modules was non-linear dungeon design"

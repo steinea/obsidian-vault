@@ -8,6 +8,8 @@ link: https://en.wikiquote.org/wiki/Martin_Heidegger
 date: 2018-07-15
 ---
 
+[[2018]] / [[commonplace]] / 
+ 
 "Warum ist überhaupt Seiendes und nicht vielmehr Nichts? Das ist die Frage."
 
 "Why are there beings at all, and why not rather nothing? That is the question."

@@ -8,6 +8,8 @@ link: http://motherboard.vice.com/read/a-search-engine-for-programming-language-
 date: 2017-01-15
 ---
 
+[[2017]] / [[commonplace]] / 
+ 
 "In other words, knowing how to program has a lot to do with knowing how to access information—an acute awareness of how and when to learn."
 
 

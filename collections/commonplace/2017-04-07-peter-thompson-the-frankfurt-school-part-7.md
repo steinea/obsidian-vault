@@ -8,6 +8,8 @@ link: http://www.theguardian.com/commentisfree/2013/may/06/frankfurt-school-part
 date: 2017-04-07
 ---
 
+[[2017]] / [[commonplace]] / 
+ 
 “Although I have concentrated very clearly on the big names of classical Frankfurt school history and their relationship to fascism, capitalism and the conditions created by the Weimar Republic, the Frankfurt school still exists today.”
 
 “Its influence, largely through Jürgen Habermas and Axel Honneth, remains considerable.”

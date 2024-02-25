@@ -8,6 +8,8 @@ link: https://lareviewofbooks.org/article/all-architectures-i-am-the-unintended-
 date: 2023-01-01
 ---
 
+[[2023]] / [[commonplace]] / 
+ 
 "What does one mean by 20th-century American poetry? Where does one start? Robert Frost’s rugged philosophizing or Wallace Stevens’s imaginative dreamscapes? And what binds Claude McKay’s socialist realist sonnets to the L=A=N=G=U=A=G=E poets’ scientistic abstractions? Can we really expect to sort through so many different voices from so many different backgrounds?"
 
 "In fact, there are many points of entry. And one of the most promising takes us back to an unlikely place and time: North Carolina, in the depths of the Great Depression, where a number of faculty members recently dismissed from Rollins College for refusing to sign a loyalty pledge founded the legendary Black Mountain College. Here, the ideas and inventions of American icons such as John Dewey and Buckminster Fuller would merge with the teachings of exiled European intellectuals and artists, including Albert Einstein, Walter Gropius, and Josef Albers"

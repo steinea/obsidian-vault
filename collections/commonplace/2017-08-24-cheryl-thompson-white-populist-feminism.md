@@ -8,6 +8,8 @@ link: http://rabble.ca/blogs/bloggers/2017-02-21t000000/white-populist-feminism-
 date: 2017-08-24
 ---
 
+[[2017]] / [[commonplace]] / 
+ 
 “Over the past few years, populist politics have been on the rise across the western world.”
 
 “Few, however, have noticed the rise of populist feminism, a mainstream feminism that espouses to speak for and on behalf of all women, but essentially speaks for and on behalf of white, middle-class, cis-gendered and able-bodied women.”

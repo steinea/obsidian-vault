@@ -8,6 +8,8 @@ link: https://jacobin.com/2023/06/providence-macaroni-riots-inflation-profiteeri
 date: 2023-12-11
 ---
 
+[[2023]] / [[commonplace]] / 
+
 "Can ordinary people fight price gouging?"
 
 "then, as now, capital’s defenders exonerated business elites for playing any role in the price increases"

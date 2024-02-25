@@ -8,6 +8,8 @@ link: https://lareviewofbooks.org/article/the-best-of-all-possible-wars-warfare-
 date: 2023-10-16
 ---
 
+[[2023]] / [[commonplace]] / 
+
 "IN 2009, General James Norman Mattis issued a memorandum that installed the “creative imagination” at the center of US military thinking"
 
 "EBO, ONA, and SoSA—military lingo for “effects-based operations,” “operational net assessment,” and “System of Systems Analysis”—all assumed a relatively stable world with a high degree of predictability"

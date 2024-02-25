@@ -8,6 +8,8 @@ link: https://terenceblake.wordpress.com/2013/04/25/on-exiting-althusser-by-mean
 date: 2017-06-21
 ---
 
+[[2017]] / [[commonplace]] / 
+ 
 “However, if we take ideology in some wider sense than merely ideas, such as the unawareness of the material (political, economic and technological) origins and/or conditions of our ideas, then it becomes a more plausible notion, but it can no longer be the Other of science, and we have left the space of structuralist epistemology.”
 
 “This is what Bernard Stiegler is proposing under the name of “organology”, and he finds only fragmentary examples of it in intellectual history. His idea is that with the advent and dissemination of digital technologies we are at a point where the technical conditioning (here too in a wide sense, as he recards the invention and spread of alphabetic writing as one major form of technical conditioning) is being transformed in depth and so we may be able to become more aware of it, and if not control it, as this is not possible, at least inflect it in a favorable direction (as its influence is conditioning but not determining), and orient it towards a more curative and less toxic bifurcation.”

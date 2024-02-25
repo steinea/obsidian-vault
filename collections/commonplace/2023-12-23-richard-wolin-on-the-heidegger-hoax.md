@@ -8,6 +8,8 @@ link: https://lareviewofbooks.org/article/the-heidegger-hoax/
 date: 2023-12-23
 ---
 
+[[2023]] / [[commonplace]] / 
+
 "tributes to Heidegger’s prodigious achievements are question-begging in one crucial respect: they neglect to consider what we are actually reading when we read Heidegger"
 
 "A closer examination of the publication history of Heidegger’s texts reveals that, for decades, his philosophical legacy has been willfully and systematically manipulated by a coterie of well-disposed intimates and disciples"

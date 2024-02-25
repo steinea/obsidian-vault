@@ -8,6 +8,8 @@ link: https://plato.stanford.edu/entries/heidegger/
 date: 2017-06-20
 ---
 
+[[2017]] / [[commonplace]] / 
+ 
 "2.2.7 Care
 
 The introduction of the ‘they’ is followed by a further layer of interpretation in which Heidegger understands Being-in-the-world in terms of (what he calls) thrownness, projection and fallen-ness, and (interrelatedly) in terms of Dasein as a dynamic combination of disposedness, understanding and fascination with the world. In effect, this is a reformulation of the point that Dasein is the having-to-be-open, i.e., that it is an a priori structure of our existential constitution that we operate with the capacity to take-other-beings-as. Dasein's existence (ek-sistence) is thus now to be understood by way of an interconnected pair of three-dimensional unitary structures: thrownness-projection-fallen-ness and disposedness-understanding-fascination. Each of these can be used to express the “formally existential totality of Dasein's ontological structural whole” (Being and Time42: 237),  a phenomenon that Heidegger also refers to as disclosedness or care. Crucially, it is with the configuration of care that we encounter the first tentative emergence of temporality as a theme inBeing and Time, since the dimensionality of care will ultimately be interpreted in terms of the three temporal dimensions: past (thrownness/disposedness), future (projection/understanding), and present (fallen-ness/fascination). 

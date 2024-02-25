@@ -8,6 +8,8 @@ link: https://blog.castac.org/2023/07/a-vocabulary-for-junk-in-four-movements/
 date: 2023-12-26
 ---
 
+[[2023]] / [[commonplace]] / 
+
 "Deponie.
 
 /depoˈniː/ noun. (German for ‘landfill, dumpsite’) To put down, to place, to hand over, to trash; or, to otherwise find some new purpose for."

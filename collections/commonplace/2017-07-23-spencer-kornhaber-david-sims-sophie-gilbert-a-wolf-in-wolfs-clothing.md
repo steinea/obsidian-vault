@@ -8,6 +8,8 @@ link: https://www.theatlantic.com/entertainment/archive/2017/07/game-of-thrones-
 date: 2017-07-23
 ---
 
+[[2017]] / [[commonplace]] / 
+ 
 “Thrones reiterated its core conflict between righteousness and realpolitik. But it also turned its attention back to a fascinating uniter of those two approaches: Varys.”
 
 “Daenerys’s interrogation of the so-called Spider served as a history refresher on his character, but it also clarified what’s made his strategy special all along. He’ll stab any regent in the back, but he’ll do it with a noble purpose.”

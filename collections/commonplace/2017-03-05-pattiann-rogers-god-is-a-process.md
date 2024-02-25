@@ -8,6 +8,8 @@ link: https://books.google.ca/books/about/Song_of_the_World_Becoming.html?id=LDx
 date: 2017-03-05
 ---
 
+[[2017]] / [[commonplace]] / 
+ 
 “God is a process, a raveled nexus
 forever tangling into and around the changing
 form of his own moment——pulse and skein,

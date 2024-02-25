@@ -8,6 +8,8 @@ link: https://cosmos.art/cosmic-bulletin/2022/rite-and-ground
 date: 2023-10-07
 ---
 
+[[2023]] / [[commonplace]] / 
+
 "A discussion of Interinterсosmism brings forth two interrelated questions:"
 
 "what is the cosmos of Cosmism, or, more specifically, how is it produced?"

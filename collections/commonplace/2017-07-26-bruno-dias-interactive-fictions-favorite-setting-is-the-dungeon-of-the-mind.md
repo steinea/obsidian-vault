@@ -8,6 +8,8 @@ link: https://waypoint.vice.com/en_us/article/pad59k/interactive-fictions-favori
 date: 2017-07-26
 ---
 
+[[2017]] / [[commonplace]] / 
+ 
 “At Play in the Carceral State is a week-long series investigating play in, around, and about prisons and prison culture. Learn more here.”
 
 “The history of interactive fiction, as a genre, is a history of narratives of confinement and imprisonment.”

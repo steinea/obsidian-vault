@@ -8,6 +8,8 @@ link: https://www.nytimes.com/interactive/2017/05/18/climate/antarctica-ice-melt
 date: 2017-05-19
 ---
 
+[[2017]] / [[commonplace]] / 
+ 
 “More than 60 percent of the freshwater on Earth is locked in Antarctica’s ice sheets.”
 
 “And because much of West Antarctica’s ice sits below sea level, it is especially vulnerable to ocean heat.”

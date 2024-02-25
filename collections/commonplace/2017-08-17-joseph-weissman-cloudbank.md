@@ -8,6 +8,8 @@ link: https://fractalontology.wordpress.com/2017/08/17/cloudbank/
 date: 2017-08-17
 ---
 
+[[2017]] / [[commonplace]] / 
+ 
 “Critique of pure laughter.”
 
 “Laughter plays madly through the body, as though suddenly accessing another layer of reality. The shock of the abstract.”

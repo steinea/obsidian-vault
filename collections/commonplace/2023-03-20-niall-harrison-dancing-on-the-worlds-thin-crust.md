@@ -8,6 +8,8 @@ link: https://dev.lareviewofbooks.org/article/dancing-on-the-worlds-thin-crust-o
 date: 2023-03-20
 ---
 
+[[2023]] / [[commonplace]] / 
+ 
 "WHEN THE MIT PRESS publishes science fiction, it does it to make a point"
 
 "the Radium Age series of books [launched in 2022](https://mitpress.mit.edu/blog/introducing-radium-age/) challenges readers to reconsider the science fiction of the early 20th century through a novel periodization; the name is intended to bracket work published between the date Marie Curie discovered radium and the date she died of radiation-induced leukemia or, in deference to the convenience of round numbers, between 1900 and 1935"

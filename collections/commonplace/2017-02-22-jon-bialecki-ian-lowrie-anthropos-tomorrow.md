@@ -8,6 +8,8 @@ link: http://blog.castac.org/2017/02/anthropos-tomorrow-transhumanism-and-anthro
 date: 2017-02-22
 ---
 
+[[2017]] / [[commonplace]] / 
+ 
 “Anthropologists, long relatively comfortable bearing the mantle of studying humanity, today find themselves working in increasingly posthuman theoretical spaces.”
 
 “Anthropos, as a unitary figure, had already began to crumble under the weight of postcolonial, feminist, and deconstructive critique during the eighties; lately, however, our empirical work is pushing us still further beyond the human.”

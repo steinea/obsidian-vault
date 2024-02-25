@@ -8,6 +8,8 @@ link: https://www.inverse.com/gaming/myst-cyan-worlds-oral-history
 date: 2023-10-09
 ---
 
+[[2023]] / [[commonplace]] / 
+
 "In the mid-’90s, more than 6 million cardboard boxes and jewel cases of *[Myst](https://www.inverse.com/gaming/best-puzzle-games-on-game-pass-2021-myst)* flew off shelves faster than retailers could restock them, and a tiny indie studio called Cyan, Inc. (now Cyan Worlds) became the first garage band to go multiplatinum in the punk-rock days of CD-ROM"
 
 "A long-awaited sequel, 1997’s *Riven,* was heralded as a visual and narrative masterpiece in its own right. But in the 2000s, Cyan made a bold investment in the future of gaming that backfired, forcing the CEO to lay off all but two of its 40-person staff"

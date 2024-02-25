@@ -8,6 +8,8 @@ link: https://aeon.co/ideas/feel-good-fractals-from-ocean-waves-to-jackson-pollo
 date: 2017-01-26
 ---
 
+[[2017]] / [[commonplace]] / 
+ 
 “‘The more I looked at fractal patterns, the more I was reminded of Pollock’s poured paintings,’ he recounted in an essay. ‘And when I looked at his paintings, I noticed that the paint splatters seemed to spread across his canvases like the flow of electricity through our devices.’”
 
 “Using instruments designed to measure electrical currents, Taylor examined a series of Pollocks from the 1950s and found that the paintings were indeed fractal. It was a little like discovering that your favourite aunt speaks a secret, ancient language. ‘Pollock painted nature’s fractals 25 years ahead of their scientific discovery!’ He published the finding in the journal Nature in 1999, creating a stir in the worlds of both art and physics.”

@@ -8,6 +8,8 @@ link: http://allegralaboratory.net/medical-technologies-and-infrastructure-explo
 date: 2017-01-01
 ---
 
+[[2017]] / [[commonplace]] / 
+ 
 “There are numerous approaches to defining “Global Health” (Brown, Cueto, and Fee 2006; Farmer et al. 2013; Fassin 2012; Janes and Corbett 2009), a phenomenon that Arthur Kleinman (2010: 1518) considered to be “more a bunch of problems than a discipline.””
 
 “Nevertheless, a common thread in different conceptions of the field suggests that it is constituted by – and has emerged as a reaction to – an increasingly multi-layered connectivity of all parts of the world and the pervasive global and/or transnational mobility of people, pathogens, medicines, technologies, institutional arrangements, finances, ideologies, knowledge, and moralities (cf. Koplan et al. 2009).”

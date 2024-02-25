@@ -8,6 +8,8 @@ link: http://blog.castac.org/2017/02/data-friction/
 date: 2017-02-07
 ---
 
+[[2017]] / [[commonplace]] / 
+ 
 “A few years ago, Paul Edwards and colleagues (2011) introduced a notion of “science friction”—the idea that scientific datasets do not magically fuse together into a readily accessible “open” stockpile, and instead must be communicated and reshaped in order for scientists to collaborate across them.”
 
 “The Data Friction panel at the American Anthropological Association (AAA) meetings this past year attempted to take the idea of science friction further, and ask what else can we see when we turn our attention to frictionful encounters with data.”

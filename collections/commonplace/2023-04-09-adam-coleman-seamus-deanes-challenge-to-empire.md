@@ -8,6 +8,8 @@ link: https://jacobin.com/2023/04/seamus-deane-writer-irish-nationalism-imperial
 date: 2023-04-09
 ---
 
+[[2023]] / [[commonplace]] / 
+ 
 "Writing can be a form of action. Few writers in recent decades have embodied this maxim better than the Irish critic Seamus Deane, who died two years ago in May 2021"
 
 "Deane’s criticism challenged the revisionist intellectual current that sought to downplay the impact of British colonialism on every facet of Irish development, political, economic, and cultural. Yet Deane also rejected the kind of nationalism that, in his view, simply turned colonial ideology inside out"

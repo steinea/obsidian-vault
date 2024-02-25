@@ -8,6 +8,8 @@ link: https://www.engadget.com/2017/10/11/blade-runner-ai-review/
 date: 2017-10-11
 ---
 
+[[2017]] / [[commonplace]] / 
+ 
 “Blade Runner 2049 is a miracle.”
 
 “It's a sequel that nobody really wanted -- certainly not fans of the seminal 1982 original by Ridley Scott.”

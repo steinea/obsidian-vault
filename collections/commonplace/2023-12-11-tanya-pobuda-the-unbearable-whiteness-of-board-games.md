@@ -8,6 +8,8 @@ link: https://medium.com/@tanyapobuda/the-unbearable-whiteness-of-board-games-1e
 date: 2023-12-11
 ---
 
+[[2023]] / [[commonplace]] / 
+
 "My PhD research study of the top 400 *BoardGameGeek* games found that that 92.6% of the labour of game design was that of white-identified, male-identified creators"
 
 "Whenever a representative sample doesn’t map AT ALL to population, you can bet that very strong forces are working against that representative sample, preventing it from looking like the wider population"

@@ -8,6 +8,8 @@ link: https://aeon.co/essays/theres-more-maths-in-slugs-and-corals-than-we-can-t
 date: 2017-02-07
 ---
 
+[[2017]] / [[commonplace]] / 
+ 
 “What does it mean to know mathematics?”
 
 “Living in tropical coral reefs are species of sea slugs known as nudibranchs, adorned with flanges embodying hyperbolic geometry, an alternative to the Euclidean geometry that we learn about in school, and a form that, over hundreds of years, many great mathematical minds tried to prove impossible.”

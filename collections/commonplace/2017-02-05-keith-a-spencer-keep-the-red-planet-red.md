@@ -8,6 +8,8 @@ link: https://www.jacobinmag.com/2017/02/mars-elon-musk-space-exploration-nasa-c
 date: 2017-02-05
 ---
 
+[[2017]] / [[commonplace]] / 
+ 
 “Musk’s articulation of his Mars mission reveals not only what’s wrong with how we think about extraterrestrial colonies and resources, but also how little faith most people have in democracy here on Earth.”
 
 “His approach to colonizing Mars comes straight out of Silicon Valley’s playbook: Musk has taken a “problem” — how to colonize Mars — and hacked a feasible “solution” that is one part engineering, one part moxie. Just add investors and we’ll be building cities on the red planet in no time.”
