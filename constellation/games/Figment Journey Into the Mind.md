@@ -1,7 +1,7 @@
 ---
 title: Figment Journey Into the Mind
 date: 
-platform: Game Pass
+platform: Xbox
 link: 
 howlongtobeat: 6h
 duration: 

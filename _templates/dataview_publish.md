@@ -41,31 +41,31 @@ const fileAndQuery = new Map([
   ],
   [
 	"playingnow",
-	'TABLE WITHOUT ID file.link AS "Game", platform AS Platform, duration.hours AS "Hours", trophies AS Trophies FROM "constellation/games" WHERE progress = "now" SORT duration DESC',
+	'TABLE WITHOUT ID file.link AS "Now Playing", platform AS Platform, duration.hours AS "Hours", trophies AS Trophies FROM "constellation/games" WHERE progress = "now" SORT duration DESC',
   ],
   [
 	"playingnext",
-	'TABLE WITHOUT ID file.link AS "Game", platform AS Platform, howlongtobeat.hours AS "Hours" FROM "constellation/games" WHERE progress = "next" SORT platform, file.name ASC',
+	'TABLE WITHOUT ID file.link AS "Library", platform AS Platform, howlongtobeat.hours AS "Hours" FROM "constellation/games" WHERE progress = "next" SORT platform, howlongtobeat ASC',
   ],
   [
 	"playingcompleted",
-	'TABLE WITHOUT ID file.link AS "Game", platform AS Platform, duration.hours AS "Hours", trophies AS Trophies, date AS Date FROM "constellation/games" WHERE progress = "complete" SORT date DESC',
+	'TABLE WITHOUT ID file.link AS "Perfect Games", platform AS Platform, duration.hours AS "Hours", trophies AS Trophies, date AS Date FROM "constellation/games" WHERE progress = "complete" SORT date DESC',
   ],
   [
 	"playingstopped",
-	'TABLE WITHOUT ID file.link AS "Game", platform AS Platform, duration.hours AS "Hours", trophies AS Trophies, reason AS Reason, date AS Date FROM "constellation/games" WHERE progress = "stopped" SORT file.name ASC',
+	'TABLE WITHOUT ID file.link AS "Incomplete Games", platform AS Platform, duration.hours AS "Hours", trophies AS Trophies, date AS Date FROM "constellation/games" WHERE progress = "stopped" SORT date DESC',
   ],
   [
 	"playingmost",
-	'TABLE WITHOUT ID file.link AS "Most", platform AS Platform, duration.hours AS "Hours" FROM "constellation/games" WHERE progress != "next" SORT duration DESC LIMIT 10',
+	'TABLE WITHOUT ID file.link AS "Most Played", platform AS Platform, duration.hours AS "Hours" FROM "constellation/games" WHERE progress != "next" SORT duration DESC LIMIT 10',
   ],
   [
 	"playingshortest",
-	'TABLE WITHOUT ID file.link AS "Shortest", platform AS Platform, howlongtobeat.hours AS "Hours" FROM "constellation/games" WHERE progress = "next" SORT howlongtobeat ASC LIMIT 10',
+	'TABLE WITHOUT ID file.link AS "Shortest to Play", platform AS Platform, howlongtobeat.hours AS "Hours" FROM "constellation/games" WHERE progress = "next" SORT howlongtobeat ASC LIMIT 10',
   ],
   [
 	"playingwishlist",
-	'TABLE WITHOUT ID file.link AS "Game", platform AS Platform, howlongtobeat.hours AS "Hours" FROM "constellation/games" WHERE progress = "wishlist" SORT file.name ASC',
+	'TABLE WITHOUT ID file.link AS "Wishlist", platform AS Platform, howlongtobeat.hours AS "Hours" FROM "constellation/games" WHERE progress = "wishlist" SORT file.name ASC',
   ],
   [
     "posting",

@@ -39,5 +39,5 @@
 | [[blog/Being-Sent, 2.md\|Being-Sent, 2]]                                 | 2018-12-03 |
 | [[blog/Being-Sent, 1.md\|Being-Sent, 1]]                                 | 2018-12-02 |
 | [[blog/Teaching for Food, 1.md\|Teaching for Food, 1]]                   | 2018-04-20 |
-| [[blog/Figures of Dune, 1.md\|Figures of Dune, 1]]                       | 2017-03-29 |
 | [[blog/Figures of Dune, 2.md\|Figures of Dune, 2]]                       | 2017-03-29 |
+| [[blog/Figures of Dune, 1.md\|Figures of Dune, 1]]                       | 2017-03-29 |

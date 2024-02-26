@@ -1,12 +1,12 @@
 ---
 title: Starfield
-date: 
-platform: Game Pass
+date: 2024-02-25
+platform: Xbox
 link: 
-duration: 103h
-trophies: 45/50
-progress: now
-permalink:
+duration: 104h
+trophies: 50/50
+progress: complete
+permalink: 2024/02/25/starfield
 ---
 
 # Starfield

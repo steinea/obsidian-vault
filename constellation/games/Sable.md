@@ -1,7 +1,7 @@
 ---
 title: Sable
 date: 
-platform: Game Pass
+platform: Xbox
 link: 
 duration: 1h
 trophies: 3/56

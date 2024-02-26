@@ -39,6 +39,7 @@
 | [[constellation/tools/Smart Typography.md\|Smart Typography]]                             |
 | [[constellation/tools/Solar Protocol.md\|Solar Protocol]]                                 |
 | [[constellation/tools/Solar Server.md\|Solar Server]]                                     |
+| [[constellation/tools/Steam.md\|Steam]]                                                   |
 | [[constellation/tools/Steam Community API.md\|Steam Community API]]                       |
 | [[constellation/tools/Templater.md\|Templater]]                                           |
 | [[constellation/tools/tes3cmd.md\|tes3cmd]]                                               |

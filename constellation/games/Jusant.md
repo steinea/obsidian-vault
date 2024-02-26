@@ -1,7 +1,7 @@
 ---
 title: Jusant
 date: 
-platform: Game Pass
+platform: Xbox
 link: 
 howlongtobeat: 8h
 duration: 

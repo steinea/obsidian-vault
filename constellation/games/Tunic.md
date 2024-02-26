@@ -1,7 +1,7 @@
 ---
 title: Tunic
 date: 
-platform: Game Pass
+platform: Xbox
 link: 
 howlongtobeat: 21h
 duration: 

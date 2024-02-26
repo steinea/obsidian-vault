@@ -4,44 +4,24 @@ cssclass: clean-embeds
 
 # Playing
 
-### Now
+#### Progress
 
 ![[playingnow]]
 
-<p><br></p>
-
-
-### Next
-
-![[playingnext]]
-
-<p><br></p>
-
-
-### Completed
-
 ![[playingcompleted]]
-
-<p><br></p>
-
-
-### Stopped
 
 ![[playingstopped]]
 
 <p><br></p>
 
+#### Backlog
 
-### Wishlist
+![[playingnext]]
 
 ![[playingwishlist]]
 
 <p><br></p>
 
-
-### Data Filters
+#### Other Stats
 
 ![[playingmost]]
-
-![[playingshortest]]
-

@@ -1,7 +1,7 @@
 ---
 title: Signalis
 date: 
-platform: Game Pass
+platform: Xbox
 link: 
 howlongtobeat: 13h
 duration: 

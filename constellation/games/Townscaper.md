@@ -1,7 +1,7 @@
 ---
 title: Townscaper
 date: 2022-01-16
-platform: Game Pass
+platform: Xbox
 link: 
 duration: 1h
 trophies: 10/10

@@ -1,7 +1,7 @@
 ---
 title: Citizen Sleeper
 date: 
-platform: Game Pass
+platform: Xbox
 link: 
 howlongtobeat: 12h
 duration: 

@@ -1,7 +1,7 @@
 ---
 title: Dordogne
 date: 
-platform: Game Pass
+platform: Xbox
 link: 
 howlongtobeat: 5h
 duration: 

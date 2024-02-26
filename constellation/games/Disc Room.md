@@ -1,7 +1,7 @@
 ---
 title: Disc Room
 date: 2023-08-19
-platform: Game Pass
+platform: Xbox
 link: https://www.exophase.com/game/disc-room-xbox/achievements/#2209141
 duration: 11h
 trophies: 35/35

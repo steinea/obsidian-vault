@@ -4,12 +4,15 @@
 | ------------------------------------------------------------------------ |
 | [[constellation/people/Akihiko Yoshida.md\|Akihiko Yoshida]]             |
 | [[constellation/people/Alexander Bogdanov.md\|Alexander Bogdanov]]       |
+| [[constellation/people/Amy Hennig.md\|Amy Hennig]]                       |
 | [[constellation/people/André Leroi-Gourhan.md\|André Leroi-Gourhan]]     |
+| [[constellation/people/Bruce Straley.md\|Bruce Straley]]                 |
 | [[constellation/people/C. I. Lewis.md\|C. I. Lewis]]                     |
 | [[constellation/people/Élie Faure.md\|Élie Faure]]                       |
 | [[constellation/people/Elinor Ostrom.md\|Elinor Ostrom]]                 |
 | [[constellation/people/Franz Brentano.md\|Franz Brentano]]               |
 | [[constellation/people/Fumihiko Yasuda.md\|Fumihiko Yasuda]]             |
+| [[constellation/people/Fumito Ueda.md\|Fumito Ueda]]                     |
 | [[constellation/people/Hajime Tabata.md\|Hajime Tabata]]                 |
 | [[constellation/people/Isamu Kamikokuryo.md\|Isamu Kamikokuryo]]         |
 | [[constellation/people/Jackson Pollock.md\|Jackson Pollock]]             |
@@ -19,6 +22,8 @@
 | [[constellation/people/Motomu Toriyama.md\|Motomu Toriyama]]             |
 | [[constellation/people/Nam Jun Paik.md\|Nam Jun Paik]]                   |
 | [[constellation/people/Naoki Yoshida.md\|Naoki Yoshida]]                 |
+| [[constellation/people/Neil Druckmann.md\|Neil Druckmann]]               |
+| [[constellation/people/Richard Lemarchand.md\|Richard Lemarchand]]       |
 | [[constellation/people/Ryota Suzuki.md\|Ryota Suzuki]]                   |
 | [[constellation/people/Sara I. Walker.md\|Sara I. Walker]]               |
 | [[constellation/people/Søren Kierkegaard.md\|Søren Kierkegaard]]         |

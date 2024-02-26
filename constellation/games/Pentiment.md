@@ -1,7 +1,7 @@
 ---
 title: Pentiment
 date: 2023-09-05
-platform: Game Pass
+platform: Xbox
 link: https://www.exophase.com/game/pentiment-xbox/achievements/#2209141
 duration: 19h
 trophies: 41/41

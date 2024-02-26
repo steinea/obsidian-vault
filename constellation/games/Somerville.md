@@ -1,7 +1,7 @@
 ---
 title: Somerville
 date: 
-platform: Game Pass
+platform: Xbox
 link: 
 howlongtobeat: 4h
 duration: 

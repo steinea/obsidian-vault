@@ -8,8 +8,8 @@
 | [[collections/annotations/2023-08-09-mantel-wolf-hall.md\|2023-08-09-mantel-wolf-hall]]                                       | 2023-08-09 |
 | [[collections/annotations/2023-07-02-nomad-toward-an-army-of-ghosts.md\|2023-07-02-nomad-toward-an-army-of-ghosts]]           | 2023-07-02 |
 | [[collections/annotations/2023-03-29-deleuze-empiricism-and-subjectivity.md\|2023-03-29-deleuze-empiricism-and-subjectivity]] | 2023-03-29 |
-| [[collections/annotations/2023-03-20-heaney-aeneid-book-vi.md\|2023-03-20-heaney-aeneid-book-vi]]                             | 2023-03-20 |
 | [[collections/annotations/2023-03-20-henryson-testament-of-cresseid.md\|2023-03-20-henryson-testament-of-cresseid]]           | 2023-03-20 |
+| [[collections/annotations/2023-03-20-heaney-aeneid-book-vi.md\|2023-03-20-heaney-aeneid-book-vi]]                             | 2023-03-20 |
 | [[collections/annotations/2023-03-19-muldoon-frolic-and-detour.md\|2023-03-19-muldoon-frolic-and-detour]]                     | 2023-03-19 |
 | [[collections/annotations/2023-03-14-oliver-red-bird.md\|2023-03-14-oliver-red-bird]]                                         | 2023-03-14 |
 | [[collections/annotations/2023-03-13-oliver-thirst.md\|2023-03-13-oliver-thirst]]                                             | 2023-03-13 |

@@ -3,14 +3,21 @@
 | Companies                                                                                     |
 | --------------------------------------------------------------------------------------------- |
 | [[constellation/companies/Access Games.md\|Access Games]]                                     |
+| [[constellation/companies/Annapurna Interactive.md\|Annapurna Interactive]]                   |
 | [[constellation/companies/Capcom.md\|Capcom]]                                                 |
 | [[constellation/companies/Cavia.md\|Cavia]]                                                   |
 | [[constellation/companies/Electronic Arts.md\|Electronic Arts]]                               |
+| [[constellation/companies/Embark Studios.md\|Embark Studios]]                                 |
+| [[constellation/companies/GenDesign.md\|GenDesign]]                                           |
+| [[constellation/companies/Heart Machine.md\|Heart Machine]]                                   |
 | [[constellation/companies/Koei Tecmo.md\|Koei Tecmo]]                                         |
 | [[constellation/companies/Luminous Productions.md\|Luminous Productions]]                     |
 | [[constellation/companies/Mountain Equipment Co-op.md\|Mountain Equipment Co-op]]             |
+| [[constellation/companies/Naughty Dog.md\|Naughty Dog]]                                       |
+| [[constellation/companies/Pine Scented Software.md\|Pine Scented Software]]                   |
 | [[constellation/companies/PlatinumGames.md\|PlatinumGames]]                                   |
 | [[constellation/companies/Shift Up.md\|Shift Up]]                                             |
 | [[constellation/companies/Sony Interactive Entertainment.md\|Sony Interactive Entertainment]] |
 | [[constellation/companies/Square Enix.md\|Square Enix]]                                       |
+| [[constellation/companies/Superbrothers.md\|Superbrothers]]                                   |
 | [[constellation/companies/Team Ninja.md\|Team Ninja]]                                         |

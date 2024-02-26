@@ -1,7 +1,7 @@
 ---
 title: Venba
 date: 2023-08-14
-platform: Game Pass
+platform: Xbox
 link: 
 duration: 3h
 trophies: 15/15

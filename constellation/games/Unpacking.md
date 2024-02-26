@@ -1,7 +1,7 @@
 ---
 title: Unpacking
 date: 2021-11-28
-platform: Game Pass
+platform: Xbox
 link: 
 duration: 3h
 trophies: 25/25

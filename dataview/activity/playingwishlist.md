@@ -1,6 +1,6 @@
 %% #Ignore update via "Update Publish Files" template %% 
 
-| Game                                                                                                            | Platform | Hours |
+| Wishlist                                                                                                        | Platform | Hours |
 | --------------------------------------------------------------------------------------------------------------- | -------- | ----- |
 | [[constellation/games/Crisis Core Final Fantasy VII Reunion.md\|Crisis Core Final Fantasy VII Reunion]]         | PS5      | 47    |
 | [[constellation/games/Devil May Cry 5 Special Edition.md\|Devil May Cry 5 Special Edition]]                     | PS5      | 70    |

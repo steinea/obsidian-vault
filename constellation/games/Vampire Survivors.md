@@ -1,12 +1,12 @@
 ---
 title: Vampire Survivors
-date: 2024-02-26
-platform: Game Pass
+date: 2024-02-25
+platform: Xbox
 link: 
 duration: 52h
 trophies: 196/196
 progress: complete
-permalink: 2024/02/26/vampire-survivors
+permalink: 2024/02/25/vampire-survivors
 ---
 
 # Vampire Survivors

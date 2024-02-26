@@ -6,7 +6,6 @@ link: https://steamcommunity.com/id/steinea/stats/1811260/achievements/
 duration: 34h
 trophies: 24/39
 progress: stopped
-reason: Grind
 permalink: 2023/08/18/ea-sports-fifa-23
 ---
 

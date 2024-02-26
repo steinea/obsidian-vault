@@ -1,7 +1,7 @@
 ---
 title: Superliminal
 date: 
-platform: Game Pass
+platform: Xbox
 link: 
 howlongtobeat: 10h
 duration: 

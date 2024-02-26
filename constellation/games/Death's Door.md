@@ -1,7 +1,7 @@
 ---
 title: Death's Door
 date: 
-platform: Game Pass
+platform: Xbox
 link: 
 howlongtobeat: 15h
 duration: 

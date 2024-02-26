@@ -1,7 +1,7 @@
 ---
 title: Planet of Lana
 date: 
-platform: Game Pass
+platform: Xbox
 link: 
 howlongtobeat: 5h
 duration: 

@@ -1,7 +1,7 @@
 ---
 title: Shredders
 date: 2022-03-27
-platform: Game Pass
+platform: Xbox
 link: 
 duration: 5h
 trophies: 35/35
