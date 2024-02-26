@@ -2,6 +2,7 @@
 
 | Game                                                                                      | Platform  | Hours | Trophies | Date       |
 | ----------------------------------------------------------------------------------------- | --------- | ----- | -------- | ---------- |
+| [[constellation/games/Vampire Survivors.md\|Vampire Survivors]]                           | Game Pass | 52    | 196/196  | 2024-02-26 |
 | [[constellation/games/Alto's Adventure.md\|Alto's Adventure]]                             | Google    | 12    | 17/17    | 2024-01-12 |
 | [[constellation/games/Art of Rally.md\|Art of Rally]]                                     | PS5       | 22    | 44/44    | 2023-09-08 |
 | [[constellation/games/Pentiment.md\|Pentiment]]                                           | Game Pass | 19    | 41/41    | 2023-09-05 |

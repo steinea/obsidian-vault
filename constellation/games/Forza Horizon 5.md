@@ -6,6 +6,7 @@ link:
 duration: 76h
 trophies: 52/137
 progress: stopped
+reason: Grind
 permalink: 2022/05/03/forza-horizon-5
 ---
 

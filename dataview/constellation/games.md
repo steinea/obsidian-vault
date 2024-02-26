@@ -55,6 +55,7 @@
 | [[constellation/games/Dordogne.md\|Dordogne]]                                                                   |
 | [[constellation/games/Dorfromantik.md\|Dorfromantik]]                                                           |
 | [[constellation/games/Dragon Age Inquisition.md\|Dragon Age Inquisition]]                                       |
+| [[constellation/games/Dragon's Dogma 2.md\|Dragon's Dogma 2]]                                                   |
 | [[constellation/games/Dragon's Dogma Dark Arisen.md\|Dragon's Dogma Dark Arisen]]                               |
 | [[constellation/games/Drakengard 3.md\|Drakengard 3]]                                                           |
 | [[constellation/games/Dwarf Fortress.md\|Dwarf Fortress]]                                                       |
@@ -64,6 +65,7 @@
 | [[constellation/games/Eidolon.md\|Eidolon]]                                                                     |
 | [[constellation/games/Elden Ring.md\|Elden Ring]]                                                               |
 | [[constellation/games/Eliza.md\|Eliza]]                                                                         |
+| [[constellation/games/Fabula Nova Crystallis.md\|Fabula Nova Crystallis]]                                       |
 | [[constellation/games/Fate stay night.md\|Fate stay night]]                                                     |
 | [[constellation/games/Figment Journey Into the Mind.md\|Figment Journey Into the Mind]]                         |
 | [[constellation/games/Final Fantasy VII Rebirth.md\|Final Fantasy VII Rebirth]]                                 |
@@ -74,6 +76,7 @@
 | [[constellation/games/Final Fantasy XV Royal Edition.md\|Final Fantasy XV Royal Edition]]                       |
 | [[constellation/games/Final Fantasy XVI.md\|Final Fantasy XVI]]                                                 |
 | [[constellation/games/Florence.md\|Florence]]                                                                   |
+| [[constellation/games/Forspoken.md\|Forspoken]]                                                                 |
 | [[constellation/games/Forza Horizon 5.md\|Forza Horizon 5]]                                                     |
 | [[constellation/games/Frosthaven.md\|Frosthaven]]                                                               |
 | [[constellation/games/FTL Faster Than Light.md\|FTL Faster Than Light]]                                         |
@@ -158,6 +161,7 @@
 | [[constellation/games/Starfield.md\|Starfield]]                                                                 |
 | [[constellation/games/Stars Die.md\|Stars Die]]                                                                 |
 | [[constellation/games/Steins;Gate.md\|Steins;Gate]]                                                             |
+| [[constellation/games/Stellar Blade.md\|Stellar Blade]]                                                         |
 | [[constellation/games/Stonesaga.md\|Stonesaga]]                                                                 |
 | [[constellation/games/Stranger of Paradise Final Fantasy Origin.md\|Stranger of Paradise Final Fantasy Origin]] |
 | [[constellation/games/Stray Gods The Roleplaying Musical.md\|Stray Gods The Roleplaying Musical]]               |
