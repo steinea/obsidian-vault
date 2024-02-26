@@ -3,6 +3,7 @@
 | Concepts                                                                               |
 | -------------------------------------------------------------------------------------- |
 | [[constellation/concepts/Adventure Game.md\|Adventure Game]]                           |
+| [[constellation/concepts/Ancient North Eurasian.md\|Ancient North Eurasian]]           |
 | [[constellation/concepts/Assembly Theory.md\|Assembly Theory]]                         |
 | [[constellation/concepts/Aten.md\|Aten]]                                               |
 | [[constellation/concepts/Communes in Outer Space.md\|Communes in Outer Space]]         |
@@ -23,5 +24,6 @@
 | [[constellation/concepts/Prophetic Pragmatism.md\|Prophetic Pragmatism]]               |
 | [[constellation/concepts/Systems Theory.md\|Systems Theory]]                           |
 | [[constellation/concepts/Test-Driven Development.md\|Test-Driven Development]]         |
+| [[constellation/concepts/Upper Paleolithic.md\|Upper Paleolithic]]                     |
 | [[constellation/concepts/Video Games.md\|Video Games]]                                 |
 | [[constellation/concepts/Visual Novel.md\|Visual Novel]]                               |
