@@ -9,6 +9,6 @@
 | [[constellation/games/Elden Ring.md\|Elden Ring]]                               | Steam    | 136   |
 | [[constellation/games/Dark Souls III.md\|Dark Souls III]]                       | PS4      | 134   |
 | [[constellation/games/Dark Souls Remastered.md\|Dark Souls Remastered]]         | Steam    | 131   |
-| [[constellation/games/Skyrim.md\|Skyrim]]                                       | PS4      | 118   |
+| [[constellation/games/Skyrim Special Edition.md\|Skyrim Special Edition]]       | PS4      | 118   |
 | [[constellation/games/Starfield.md\|Starfield]]                                 | Xbox     | 104   |
 | [[constellation/games/The Last of Us Remastered.md\|The Last of Us Remastered]] | PS4      | 103   |

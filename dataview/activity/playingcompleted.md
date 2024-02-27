@@ -74,7 +74,7 @@
 | [[constellation/games/Her Story.md\|Her Story]]                                           | Steam    | 3     | 13/13    | 2017-09-06 |
 | [[constellation/games/Journey.md\|Journey]]                                               | PS4      | 10    | 14/14    | 2017-08-15 |
 | [[constellation/games/Bloodborne.md\|Bloodborne]]                                         | PS4      | 87    | 40/40    | 2017-05-22 |
-| [[constellation/games/Skyrim.md\|Skyrim]]                                                 | PS4      | 118   | 76/76    | 2017-01-06 |
+| [[constellation/games/Skyrim Special Edition.md\|Skyrim Special Edition]]                 | PS4      | 118   | 76/76    | 2017-01-06 |
 | [[constellation/games/Uncharted Remastered.md\|Uncharted Remastered]]                     | PS4      | 36    | 54/54    | 2016-12-08 |
 | [[constellation/games/Sportsfriends.md\|Sportsfriends]]                                   | PS4      | 6     | 14/14    | 2015-07-31 |
 | [[constellation/games/Never Alone.md\|Never Alone]]                                       | PS4      | 7     | 19/19    | 2015-07-29 |
@@ -83,5 +83,5 @@
 | [[constellation/games/The Walking Dead.md\|The Walking Dead]]                             | PS4      | 29    | 49/49    | 2015-02-25 |
 | [[constellation/games/Dark Souls.md\|Dark Souls]]                                         | PS3      | \-    | 41/41    | 2014-07-17 |
 | [[constellation/games/Transistor.md\|Transistor]]                                         | PS4      | 13    | 34/34    | 2014-06-03 |
-| [[constellation/games/Skyrim (360).md\|Skyrim (360)]]                                     | Xbox 360 | \-    | 75/75    | 2013-04-09 |
+| [[constellation/games/Skyrim.md\|Skyrim]]                                                 | Xbox 360 | \-    | 75/75    | 2013-04-09 |
 | [[constellation/games/Oblivion.md\|Oblivion]]                                             | Xbox 360 | \-    | 60/60    | 2011-11-05 |

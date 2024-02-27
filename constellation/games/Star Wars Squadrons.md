@@ -1,20 +1,20 @@
 ---
-title: Kinect Sports
+title: Star Wars Squadrons
 developer:
 publisher:
-platform: Xbox 360
+platform: Steam
 releaseDate:
 howlongtobeat: 
 difficulty: 
 trophyGuide: 
-duration:
-trophies: 26/70
+duration: 1h
+trophies: 1/48
 progress: stopped
 link: 
-date: 2011-12-19
+date: 2021-10-05
 permalink: 
 ---
 
-# Kinect Sports
+# Star Wars: Squadrons
 
 [[games]]

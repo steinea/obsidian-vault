@@ -1,20 +1,20 @@
 ---
-title: Kinect Sports
+title: The Jackbox Party Pack 6
 developer:
 publisher:
-platform: Xbox 360
+platform: Steam
 releaseDate:
 howlongtobeat: 
 difficulty: 
 trophyGuide: 
-duration:
-trophies: 26/70
+duration: 5h
+trophies: 2/20
 progress: stopped
 link: 
-date: 2011-12-19
+date: 2020-07-01
 permalink: 
 ---
 
-# Kinect Sports
+# The Jackbox Party Pack 6
 
 [[games]]

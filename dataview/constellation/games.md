@@ -72,6 +72,7 @@
 | [[constellation/games/Eidolon.md\|Eidolon]]                                                                     |
 | [[constellation/games/Elden Ring.md\|Elden Ring]]                                                               |
 | [[constellation/games/Eliza.md\|Eliza]]                                                                         |
+| [[constellation/games/F1 22.md\|F1 22]]                                                                         |
 | [[constellation/games/Fable II.md\|Fable II]]                                                                   |
 | [[constellation/games/Fabula Nova Crystallis.md\|Fabula Nova Crystallis]]                                       |
 | [[constellation/games/Fallout 3.md\|Fallout 3]]                                                                 |
@@ -84,6 +85,7 @@
 | [[constellation/games/Final Fantasy XIV Online.md\|Final Fantasy XIV Online]]                                   |
 | [[constellation/games/Final Fantasy XV Royal Edition.md\|Final Fantasy XV Royal Edition]]                       |
 | [[constellation/games/Final Fantasy XVI.md\|Final Fantasy XVI]]                                                 |
+| [[constellation/games/Flipflop Solitaire.md\|Flipflop Solitaire]]                                               |
 | [[constellation/games/Florence.md\|Florence]]                                                                   |
 | [[constellation/games/Forspoken.md\|Forspoken]]                                                                 |
 | [[constellation/games/Forza Horizon 5.md\|Forza Horizon 5]]                                                     |
@@ -122,6 +124,7 @@
 | [[constellation/games/Iron Harvest.md\|Iron Harvest]]                                                           |
 | [[constellation/games/ISS Vanguard.md\|ISS Vanguard]]                                                           |
 | [[constellation/games/It Takes Two.md\|It Takes Two]]                                                           |
+| [[constellation/games/Jackbox 6.md\|Jackbox 6]]                                                                 |
 | [[constellation/games/Jedi Fallen Order.md\|Jedi Fallen Order]]                                                 |
 | [[constellation/games/Jedi Survivor.md\|Jedi Survivor]]                                                         |
 | [[constellation/games/Jett The Far Shore.md\|Jett The Far Shore]]                                               |
@@ -129,7 +132,7 @@
 | [[constellation/games/Jusant.md\|Jusant]]                                                                       |
 | [[constellation/games/Kentucky Route Zero.md\|Kentucky Route Zero]]                                             |
 | [[constellation/games/Kinect Adventures.md\|Kinect Adventures]]                                                 |
-| [[constellation/games/KInect Sports.md\|KInect Sports]]                                                         |
+| [[constellation/games/Kinect Sports.md\|Kinect Sports]]                                                         |
 | [[constellation/games/King of Dragon Pass.md\|King of Dragon Pass]]                                             |
 | [[constellation/games/King's Quest.md\|King's Quest]]                                                           |
 | [[constellation/games/LEGO Batman.md\|LEGO Batman]]                                                             |
@@ -166,12 +169,14 @@
 | [[constellation/games/Open Roads.md\|Open Roads]]                                                               |
 | [[constellation/games/Oxenfree.md\|Oxenfree]]                                                                   |
 | [[constellation/games/Oxenfree II Lost Signals.md\|Oxenfree II Lost Signals]]                                   |
+| [[constellation/games/Pako Caravan.md\|Pako Caravan]]                                                           |
 | [[constellation/games/Papers, Please.md\|Papers, Please]]                                                       |
 | [[constellation/games/Pentiment.md\|Pentiment]]                                                                 |
 | [[constellation/games/Planet of Lana.md\|Planet of Lana]]                                                       |
 | [[constellation/games/Portal Still Alive.md\|Portal Still Alive]]                                               |
 | [[constellation/games/Pure.md\|Pure]]                                                                           |
 | [[constellation/games/Pyre.md\|Pyre]]                                                                           |
+| [[constellation/games/Really Bad Chess.md\|Really Bad Chess]]                                                   |
 | [[constellation/games/Red Dead Redemption.md\|Red Dead Redemption]]                                             |
 | [[constellation/games/Rise of the Ronin.md\|Rise of the Ronin]]                                                 |
 | [[constellation/games/Roadwarden.md\|Roadwarden]]                                                               |
@@ -185,15 +190,18 @@
 | [[constellation/games/Shadow of the Colossus.md\|Shadow of the Colossus]]                                       |
 | [[constellation/games/Shredders.md\|Shredders]]                                                                 |
 | [[constellation/games/Signalis.md\|Signalis]]                                                                   |
+| [[constellation/games/Siralim.md\|Siralim]]                                                                     |
 | [[constellation/games/Six Ages 1 Ride Like the Wind.md\|Six Ages 1 Ride Like the Wind]]                         |
 | [[constellation/games/Six Ages 2 Lights Going Out.md\|Six Ages 2 Lights Going Out]]                             |
 | [[constellation/games/Skyrim.md\|Skyrim]]                                                                       |
-| [[constellation/games/Skyrim (360).md\|Skyrim (360)]]                                                           |
+| [[constellation/games/Skyrim Special Edition.md\|Skyrim Special Edition]]                                       |
+| [[constellation/games/Slapshot Rebound.md\|Slapshot Rebound]]                                                   |
 | [[constellation/games/Solar Ash.md\|Solar Ash]]                                                                 |
 | [[constellation/games/Somerville.md\|Somerville]]                                                               |
 | [[constellation/games/South of the Circle.md\|South of the Circle]]                                             |
 | [[constellation/games/Splitgate.md\|Splitgate]]                                                                 |
 | [[constellation/games/Sportsfriends.md\|Sportsfriends]]                                                         |
+| [[constellation/games/Star Wars Squadrons.md\|Star Wars Squadrons]]                                             |
 | [[constellation/games/Starfield.md\|Starfield]]                                                                 |
 | [[constellation/games/Stars Die.md\|Stars Die]]                                                                 |
 | [[constellation/games/State of Decay.md\|State of Decay]]                                                       |
@@ -225,6 +233,8 @@
 | [[constellation/games/The Walking Dead Season 3.md\|The Walking Dead Season 3]]                                 |
 | [[constellation/games/The Walking Dead Season 4.md\|The Walking Dead Season 4]]                                 |
 | [[constellation/games/The World We Left Behind.md\|The World We Left Behind]]                                   |
+| [[constellation/games/This War of Mine.md\|This War of Mine]]                                                   |
+| [[constellation/games/Threes! Freeplay.md\|Threes! Freeplay]]                                                   |
 | [[constellation/games/Townscaper.md\|Townscaper]]                                                               |
 | [[constellation/games/Transistor.md\|Transistor]]                                                               |
 | [[constellation/games/Tunic.md\|Tunic]]                                                                         |
@@ -244,6 +254,8 @@
 | [[constellation/games/Vampire Survivors.md\|Vampire Survivors]]                                                 |
 | [[constellation/games/Venba.md\|Venba]]                                                                         |
 | [[constellation/games/Viridi.md\|Viridi]]                                                                       |
+| [[constellation/games/Vox Machinae.md\|Vox Machinae]]                                                           |
+| [[constellation/games/VVVVVV.md\|VVVVVV]]                                                                       |
 | [[constellation/games/Wavelength.md\|Wavelength]]                                                               |
 | [[constellation/games/We Know the Devil.md\|We Know the Devil]]                                                 |
 | [[constellation/games/Whist.md\|Whist]]                                                                         |

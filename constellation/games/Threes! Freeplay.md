@@ -1,20 +1,20 @@
 ---
-title: Kinect Sports
+title: Threes! Freeplay
 developer:
 publisher:
-platform: Xbox 360
+platform: Google
 releaseDate:
 howlongtobeat: 
 difficulty: 
 trophyGuide: 
 duration:
-trophies: 26/70
+trophies: 8/18
 progress: stopped
 link: 
-date: 2011-12-19
+date: 2021-06-20
 permalink: 
 ---
 
-# Kinect Sports
+# Threes! Freeplay
 
 [[games]]

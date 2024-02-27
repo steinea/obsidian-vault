@@ -1,20 +1,20 @@
 ---
-title: Kinect Sports
+title: Flipflop Solitaire
 developer:
 publisher:
-platform: Xbox 360
+platform: Google
 releaseDate:
 howlongtobeat: 
 difficulty: 
 trophyGuide: 
 duration:
-trophies: 26/70
+trophies: 53/102
 progress: stopped
 link: 
-date: 2011-12-19
+date: 2022-09-24
 permalink: 
 ---
 
-# Kinect Sports
+# Flipflop Solitaire
 
 [[games]]

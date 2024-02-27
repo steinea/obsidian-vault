@@ -1,14 +1,20 @@
 ---
-title: 'The Elder Scrolls V: Skyrim Special Edition'
-date: 2017-01-06
-platform: PS4
-link: 
-duration: 118h
-trophies: 76/76
+title: Skyrim
+developer:
+publisher:
+platform: Xbox 360
+releaseDate:
+howlongtobeat: 
+difficulty: 
+trophyGuide: 
+duration:
+trophies: 75/75
 progress: complete
-permalink: 2017/01/06/the-elder-scrolls-v-skyrim-special-edition
+link: 
+date: 2013-04-09
+permalink: 
 ---
 
-# The Elder Scrolls V: Skyrim Special Edition
+# Skyrim
 
 [[games]]

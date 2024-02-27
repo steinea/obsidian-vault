@@ -1,20 +1,20 @@
 ---
-title: Kinect Sports
+title: Really Bad Chess
 developer:
 publisher:
-platform: Xbox 360
+platform: Google
 releaseDate:
 howlongtobeat: 
 difficulty: 
 trophyGuide: 
 duration:
-trophies: 26/70
+trophies: 3/24
 progress: stopped
 link: 
-date: 2011-12-19
+date: 2022-10-15
 permalink: 
 ---
 
-# Kinect Sports
+# Really Bad Chess
 
 [[games]]

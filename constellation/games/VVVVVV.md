@@ -1,20 +1,20 @@
 ---
-title: Kinect Sports
+title: VVVVVV
 developer:
 publisher:
-platform: Xbox 360
+platform: Steam
 releaseDate:
 howlongtobeat: 
 difficulty: 
 trophyGuide: 
-duration:
-trophies: 26/70
+duration: 5h
+trophies: 1/19
 progress: stopped
 link: 
-date: 2011-12-19
+date: 2017-01-14
 permalink: 
 ---
 
-# Kinect Sports
+# VVVVVV
 
 [[games]]

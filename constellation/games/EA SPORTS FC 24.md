@@ -1,3 +1,20 @@
+---
+title: EA SPORTS FC 24
+developer: EA SPORTS
+publisher: Electronic Arts
+platform: PS5
+releaseDate:
+howlongtobeat: 
+difficulty: 
+trophyGuide: 
+duration: 48h
+trophies: 27/41
+progress: stopped
+link: 
+date: 2024-02-26
+permalink: 2024/02/26/ea-sports-fc-24
+---
+
 # EA SPORTS FC 24
 
 [[games]]

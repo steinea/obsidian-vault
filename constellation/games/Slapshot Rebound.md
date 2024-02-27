@@ -1,20 +1,20 @@
 ---
-title: Kinect Sports
+title: Slapshot Rebound
 developer:
 publisher:
-platform: Xbox 360
+platform: Steam
 releaseDate:
 howlongtobeat: 
 difficulty: 
 trophyGuide: 
-duration:
-trophies: 26/70
+duration: 30m
+trophies: 2/17
 progress: stopped
 link: 
-date: 2011-12-19
+date: 2021-03-30
 permalink: 
 ---
 
-# Kinect Sports
+# Slapshot Rebound
 
 [[games]]

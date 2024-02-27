@@ -1,20 +1,20 @@
 ---
-title: Kinect Sports
+title: Vox Machinae
 developer:
 publisher:
-platform: Xbox 360
+platform: Steam
 releaseDate:
 howlongtobeat: 
 difficulty: 
 trophyGuide: 
-duration:
-trophies: 26/70
+duration: 2h
+trophies: 1/30
 progress: stopped
 link: 
-date: 2011-12-19
+date: 2020-08-19
 permalink: 
 ---
 
-# Kinect Sports
+# Vox Machinae
 
 [[games]]

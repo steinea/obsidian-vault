@@ -1,20 +1,20 @@
 ---
-title: Kinect Sports
+title: Siralim
 developer:
 publisher:
-platform: Xbox 360
+platform: Steam
 releaseDate:
 howlongtobeat: 
 difficulty: 
 trophyGuide: 
-duration:
-trophies: 26/70
+duration: 21m
+trophies: 3/322
 progress: stopped
 link: 
-date: 2011-12-19
+date: 2017-01-14
 permalink: 
 ---
 
-# Kinect Sports
+# Siralim
 
 [[games]]

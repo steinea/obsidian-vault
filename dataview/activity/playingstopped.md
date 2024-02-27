@@ -2,11 +2,24 @@
 
 | Incomplete Games                                                                      | Platform | Hours | Trophies | Date       |
 | ------------------------------------------------------------------------------------- | -------- | ----- | -------- | ---------- |
+| [[constellation/games/EA SPORTS FC 24.md\|EA SPORTS FC 24]]                           | PS5      | 48    | 27/41    | 2024-02-26 |
 | [[constellation/games/The Finals.md\|The Finals]]                                     | Steam    | 1.5   | 3/50     | 2023-12-10 |
 | [[constellation/games/EA SPORTS FIFA 23.md\|EA SPORTS FIFA 23]]                       | Steam    | 34    | 24/39    | 2023-08-18 |
+| [[constellation/games/Really Bad Chess.md\|Really Bad Chess]]                         | Google   | \-    | 3/24     | 2022-10-15 |
 | [[constellation/games/Battlefield 2042.md\|Battlefield 2042]]                         | Steam    | 10    | 8/34     | 2022-09-27 |
+| [[constellation/games/Flipflop Solitaire.md\|Flipflop Solitaire]]                     | Google   | \-    | 53/102   | 2022-09-24 |
+| [[constellation/games/F1 22.md\|F1 22]]                                               | Steam    | 1     | 1/50     | 2022-07-08 |
 | [[constellation/games/Splitgate.md\|Splitgate]]                                       | Steam    | 44    | 25/30    | 2022-05-12 |
 | [[constellation/games/Forza Horizon 5.md\|Forza Horizon 5]]                           | Xbox     | 76    | 52/137   | 2022-05-03 |
+| [[constellation/games/Pako Caravan.md\|Pako Caravan]]                                 | Google   | \-    | 1/18     | 2021-12-07 |
+| [[constellation/games/Star Wars Squadrons.md\|Star Wars Squadrons]]                   | Steam    | 1     | 1/48     | 2021-10-05 |
+| [[constellation/games/Threes! Freeplay.md\|Threes! Freeplay]]                         | Google   | \-    | 8/18     | 2021-06-20 |
+| [[constellation/games/Slapshot Rebound.md\|Slapshot Rebound]]                         | Steam    | 0.5   | 2/17     | 2021-03-30 |
+| [[constellation/games/This War of Mine.md\|This War of Mine]]                         | Steam    | 2     | 3/55     | 2020-12-15 |
+| [[constellation/games/Vox Machinae.md\|Vox Machinae]]                                 | Steam    | 2     | 1/30     | 2020-08-19 |
+| [[constellation/games/Jackbox 6.md\|Jackbox 6]]                                       | Steam    | 5     | 2/20     | 2020-07-01 |
+| [[constellation/games/Siralim.md\|Siralim]]                                           | Steam    | 0.35  | 3/322    | 2017-01-14 |
+| [[constellation/games/VVVVVV.md\|VVVVVV]]                                             | Steam    | 5     | 1/19     | 2017-01-14 |
 | [[constellation/games/Halo 4.md\|Halo 4]]                                             | Xbox 360 | \-    | 45/86    | 2015-10-18 |
 | [[constellation/games/Dark Souls (360).md\|Dark Souls (360)]]                         | Xbox 360 | \-    | 23/41    | 2014-05-22 |
 | [[constellation/games/Dragon Age II.md\|Dragon Age II]]                               | Xbox 360 | \-    | 7/65     | 2014-05-01 |
@@ -19,7 +32,7 @@
 | [[constellation/games/Mass Effect.md\|Mass Effect]]                                   | Xbox 360 | \-    | 33/49    | 2012-04-01 |
 | [[constellation/games/Assassin's Creed II.md\|Assassin's Creed II]]                   | Xbox 360 | \-    | 5/50     | 2012-02-29 |
 | [[constellation/games/Bastion.md\|Bastion]]                                           | Xbox 360 | \-    | 6/12     | 2012-02-28 |
-| [[constellation/games/KInect Sports.md\|KInect Sports]]                               | Xbox 360 | \-    | 26/70    | 2011-12-19 |
+| [[constellation/games/Kinect Sports.md\|Kinect Sports]]                               | Xbox 360 | \-    | 26/70    | 2011-12-19 |
 | [[constellation/games/Fruit Ninja Kinect.md\|Fruit Ninja Kinect]]                     | Xbox 360 | \-    | 3/21     | 2011-09-07 |
 | [[constellation/games/Red Dead Redemption.md\|Red Dead Redemption]]                   | Xbox 360 | \-    | 34/95    | 2011-07-18 |
 | [[constellation/games/Halo Reach.md\|Halo Reach]]                                     | Xbox 360 | \-    | 48/69    | 2011-04-24 |
