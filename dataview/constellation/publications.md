@@ -2,20 +2,26 @@
 
 | Publications                                                                                                     |
 | ---------------------------------------------------------------------------------------------------------------- |
+| [[constellation/publications/Aeon.md\|Aeon]]                                                                     |
 | [[constellation/publications/Agent Swarm.md\|Agent Swarm]]                                                       |
 | [[constellation/publications/Anarcho Solarpunk.md\|Anarcho Solarpunk]]                                           |
 | [[constellation/publications/Ars Technica.md\|Ars Technica]]                                                     |
 | [[constellation/publications/Asymptote Journal.md\|Asymptote Journal]]                                           |
 | [[constellation/publications/bentlily.md\|bentlily]]                                                             |
+| [[constellation/publications/Booth.md\|Booth]]                                                                   |
 | [[constellation/publications/Brooklyn Magazine.md\|Brooklyn Magazine]]                                           |
+| [[constellation/publications/Cardozo Law Review.md\|Cardozo Law Review]]                                         |
 | [[constellation/publications/CBC.md\|CBC]]                                                                       |
+| [[constellation/publications/Chinese Classics in English.md\|Chinese Classics in English]]                       |
 | [[constellation/publications/Clockwork Worlds.md\|Clockwork Worlds]]                                             |
 | [[constellation/publications/Council on Foreign Relations.md\|Council on Foreign Relations]]                     |
 | [[constellation/publications/Culture & Communication.md\|Culture & Communication]]                               |
 | [[constellation/publications/Emily Short's Interactive Storytelling.md\|Emily Short's Interactive Storytelling]] |
+| [[constellation/publications/Entropy Mag.md\|Entropy Mag]]                                                       |
 | [[constellation/publications/Georgetown.md\|Georgetown]]                                                         |
 | [[constellation/publications/Gonzo.md\|Gonzo]]                                                                   |
 | [[constellation/publications/Google Books.md\|Google Books]]                                                     |
+| [[constellation/publications/Guernica.md\|Guernica]]                                                             |
 | [[constellation/publications/Hazlitt.md\|Hazlitt]]                                                               |
 | [[constellation/publications/Heterogenous Tasks.md\|Heterogenous Tasks]]                                         |
 | [[constellation/publications/Homo Ludens.md\|Homo Ludens]]                                                       |
@@ -27,6 +33,7 @@
 | [[constellation/publications/London Review of Books.md\|London Review of Books]]                                 |
 | [[constellation/publications/Los Angeles Review of Books.md\|Los Angeles Review of Books]]                       |
 | [[constellation/publications/Luminarium.md\|Luminarium]]                                                         |
+| [[constellation/publications/Marina Abramovic Institute.md\|Marina Abramovic Institute]]                         |
 | [[constellation/publications/Medium.md\|Medium]]                                                                 |
 | [[constellation/publications/Merveilles.md\|Merveilles]]                                                         |
 | [[constellation/publications/Monachos.md\|Monachos]]                                                             |
@@ -47,15 +54,18 @@
 | [[constellation/publications/Poets United.md\|Poets United]]                                                     |
 | [[constellation/publications/Polygon.md\|Polygon]]                                                               |
 | [[constellation/publications/Project Gutenberg.md\|Project Gutenberg]]                                           |
+| [[constellation/publications/Salon.md\|Salon]]                                                                   |
 | [[constellation/publications/Script.md\|Script]]                                                                 |
 | [[constellation/publications/Smith College.md\|Smith College]]                                                   |
 | [[constellation/publications/TED.md\|TED]]                                                                       |
 | [[constellation/publications/The A. V. Club.md\|The A. V. Club]]                                                 |
 | [[constellation/publications/The American Reader.md\|The American Reader]]                                       |
 | [[constellation/publications/The Atlantic.md\|The Atlantic]]                                                     |
+| [[constellation/publications/The Guardian.md\|The Guardian]]                                                     |
 | [[constellation/publications/The Marginalian.md\|The Marginalian]]                                               |
 | [[constellation/publications/The Millions.md\|The Millions]]                                                     |
 | [[constellation/publications/The New Inquiry.md\|The New Inquiry]]                                               |
+| [[constellation/publications/The New Republic.md\|The New Republic]]                                             |
 | [[constellation/publications/The New York Times.md\|The New York Times]]                                         |
 | [[constellation/publications/The New Yorker.md\|The New Yorker]]                                                 |
 | [[constellation/publications/The Paris Review.md\|The Paris Review]]                                             |
@@ -63,6 +73,7 @@
 | [[constellation/publications/Times Literary Supplement.md\|Times Literary Supplement]]                           |
 | [[constellation/publications/Tolkien Gateway.md\|Tolkien Gateway]]                                               |
 | [[constellation/publications/Triple Canopy.md\|Triple Canopy]]                                                   |
+| [[constellation/publications/Troubling Information.md\|Troubling Information]]                                   |
 | [[constellation/publications/Tumblr.md\|Tumblr]]                                                                 |
 | [[constellation/publications/Vagabonds.md\|Vagabonds]]                                                           |
 | [[constellation/publications/Vatican.md\|Vatican]]                                                               |
