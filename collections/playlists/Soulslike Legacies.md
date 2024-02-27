@@ -32,11 +32,12 @@ permalink: 2024/01/11/soulslike-legacies
 22. [[Salt and Sacrifice]], 2022-05-10
 23. [[Moonscars]], 2022-09-27
 24. [[Ghost Song]], 2022-11-03
-25. [[The Last Faith]], 2023-06-13
-26. [[Oblivion Override]], 2023-06-14
-27. [[Blasphemous II]], 2023-08-23
-28. [[Ultros]], 2024-02-13
-29. [[Crowsworn]]
-30. [[Eitr]]
-31. [[Grime II]]
-32. [[Hollow Knight Silk Song]]
+25. [[Afterimage]], 2023-04-25
+26. [[The Last Faith]], 2023-06-13
+27. [[Oblivion Override]], 2023-06-14
+28. [[Blasphemous II]], 2023-08-23
+29. [[Ultros]], 2024-02-13
+30. [[Crowsworn]]
+31. [[Eitr]]
+32. [[Grime II]]
+33. [[Hollow Knight Silk Song]]
