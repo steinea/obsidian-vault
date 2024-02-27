@@ -1,0 +1,3 @@
+# Marina Abramovic Institute
+
+[[publications]]
