@@ -2,7 +2,13 @@
 
 | Wishlist                                                                                                        | Platform | Hours |
 | --------------------------------------------------------------------------------------------------------------- | -------- | ----- |
+| [[constellation/games/Bloodstained Curse of the Moon.md\|Bloodstained Curse of the Moon]]                       | PS4      | 11    |
+| [[constellation/games/Bloodstained Curse of the Moon 2.md\|Bloodstained Curse of the Moon 2]]                   | PS4      | 15    |
+| [[constellation/games/Bloodstained Ritual of the Night.md\|Bloodstained Ritual of the Night]]                   | PS4      | 35    |
+| [[constellation/games/Castlevania Anniversary Collection.md\|Castlevania Anniversary Collection]]               | PS4      | 27    |
 | [[constellation/games/Crisis Core Final Fantasy VII Reunion.md\|Crisis Core Final Fantasy VII Reunion]]         | PS5      | 47    |
+| [[constellation/games/Dead Cells.md\|Dead Cells]]                                                               | PS5      | 91    |
+| [[constellation/games/Dead Cells Return to Castlevania.md\|Dead Cells Return to Castlevania]]                   | PS5      | 12    |
 | [[constellation/games/Devil May Cry 5 Special Edition.md\|Devil May Cry 5 Special Edition]]                     | PS5      | 70    |
 | [[constellation/games/Dragon's Dogma 2.md\|Dragon's Dogma 2]]                                                   | PS5      | \-    |
 | [[constellation/games/Dragon's Dogma Dark Arisen.md\|Dragon's Dogma Dark Arisen]]                               | PS4      | 113   |

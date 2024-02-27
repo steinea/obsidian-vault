@@ -1,0 +1,3 @@
+# Koji Igarashi
+
+[[people]]

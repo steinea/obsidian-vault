@@ -26,7 +26,12 @@
 | [[constellation/games/Better Kids Games.md\|Better Kids Games]]                                                 |
 | [[constellation/games/Blasphemous.md\|Blasphemous]]                                                             |
 | [[constellation/games/Bloodborne.md\|Bloodborne]]                                                               |
+| [[constellation/games/Bloodstained Curse of the Moon.md\|Bloodstained Curse of the Moon]]                       |
+| [[constellation/games/Bloodstained Curse of the Moon 2.md\|Bloodstained Curse of the Moon 2]]                   |
+| [[constellation/games/Bloodstained Ritual of the Night.md\|Bloodstained Ritual of the Night]]                   |
 | [[constellation/games/Briscola.md\|Briscola]]                                                                   |
+| [[constellation/games/Castlevania Anniversary Collection.md\|Castlevania Anniversary Collection]]               |
+| [[constellation/games/Castlevania Requiem.md\|Castlevania Requiem]]                                             |
 | [[constellation/games/Caves of Qud.md\|Caves of Qud]]                                                           |
 | [[constellation/games/Circa Infinity.md\|Circa Infinity]]                                                       |
 | [[constellation/games/Citizen Sleeper.md\|Citizen Sleeper]]                                                     |
@@ -48,6 +53,8 @@
 | [[constellation/games/Dark Souls III.md\|Dark Souls III]]                                                       |
 | [[constellation/games/Dark Souls III (Steam).md\|Dark Souls III (Steam)]]                                       |
 | [[constellation/games/Dark Souls Remastered.md\|Dark Souls Remastered]]                                         |
+| [[constellation/games/Dead Cells.md\|Dead Cells]]                                                               |
+| [[constellation/games/Dead Cells Return to Castlevania.md\|Dead Cells Return to Castlevania]]                   |
 | [[constellation/games/Death's Door.md\|Death's Door]]                                                           |
 | [[constellation/games/Demon's Souls.md\|Demon's Souls]]                                                         |
 | [[constellation/games/Descenders.md\|Descenders]]                                                               |

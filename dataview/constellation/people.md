@@ -17,6 +17,7 @@
 | [[constellation/people/Isamu Kamikokuryo.md\|Isamu Kamikokuryo]]         |
 | [[constellation/people/Jackson Pollock.md\|Jackson Pollock]]             |
 | [[constellation/people/Jessica Flack.md\|Jessica Flack]]                 |
+| [[constellation/people/Koji Igarashi.md\|Koji Igarashi]]                 |
 | [[constellation/people/M. K. Badru.md\|M. K. Badru]]                     |
 | [[constellation/people/Maurice Merleau-Ponty.md\|Maurice Merleau-Ponty]] |
 | [[constellation/people/Motomu Toriyama.md\|Motomu Toriyama]]             |
