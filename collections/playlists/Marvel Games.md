@@ -1,7 +1,7 @@
 ---
 title: Marvel Games
-date: 
-permalink: 
+date: 2024-02-26
+permalink: 2024/02/26/marvel-games
 ---
 
 # Marvel Games

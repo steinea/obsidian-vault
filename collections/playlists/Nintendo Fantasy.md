@@ -1,7 +1,7 @@
 ---
 title: Nintendo Fantasy
-date: 
-permalink: 
+date: 2024-02-26
+permalink: 2024/02/26/nintendo-fantasy
 ---
 
 # Nintendo Fantasy
@@ -76,25 +76,6 @@ flowchart TD;
 
 DW9(["Dynasty Warriors 9"])
 
-FETH(["Fire Emblem Three Houses"])
-FEWTH(["Fire Emblem Warriors Three Hopes"])
-
-FETH --> FEWTH
-
-DW9 -.-> FEWTH
-
-class DW9,FETH,FEWTH internal-link;
-
-```
-
-<p><br></p>
-
-
-```mermaid
-flowchart TD;
-
-DW9(["Dynasty Warriors 9"])
-
 P5R(["Persona 5 Royal"])
 P5DIS(["Persona 5 Dancing in Starlight"])
 P5S(["Persona 5 Strikers"])
@@ -106,5 +87,23 @@ P5R --> P5DIS --> P5S --> P5T
 DW9 -.-> P5S
 
 class DW9,P5R,P5DIS,P5S,P5T internal-link;
+
+```
+
+<p><br></p>
+
+```mermaid
+flowchart TD;
+
+DW9(["Dynasty Warriors 9"])
+
+FETH(["Fire Emblem Three Houses"])
+FEWTH(["Fire Emblem Warriors Three Hopes"])
+
+FETH --> FEWTH
+
+DW9 -.-> FEWTH
+
+class DW9,FETH,FEWTH internal-link;
 
 ```
