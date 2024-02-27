@@ -4,11 +4,16 @@ category: commonplace
 author: Po Chu I
 title: The Dragon of the Black Pool
 publication: Chinese Classics in English
-link: http://bs.dayabook.com/poetry/po-chu-i-selected-poems/the-dragon-of-the-black-pool
+link: https://web.archive.org/web/20170703112448/http://bs.dayabook.com/poetry/po-chu-i-selected-poems/the-dragon-of-the-black-pool
 date: 2015-01-26
+permalink: 2015/01/26/po-chu-i-the-dragon-of-the-black-pool
 ---
 
-[[2015]] / [[commonplace]] / 
+# The Dragon of the Black Pool
+
+### Po Chu I
+
+[[2015]] / [[commonplace]] / [[Chinese Classics in English]]
 
 Deep the waters of the Black Pool, colored like ink;
 <br>They say a Holy Dragon lives there, whom men have never seen.

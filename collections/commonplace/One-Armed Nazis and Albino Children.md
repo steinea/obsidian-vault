@@ -6,9 +6,14 @@ title: One-Armed Nazis and Albino Children
 publication: The New Republic
 link: https://newrepublic.com/article/120769/problem-anthony-doerrs-all-light-we-cannot-see
 date: 2015-01-14
+permalink: 2015/01/14/dominic-green-one-armed-nazis-and-albino-children
 ---
 
-[[2015]] / [[commonplace]] / 
+# One-Armed Nazis and Albino Children
+
+### Dominic Green
+
+[[2015]] / [[commonplace]] / [[The New Republic]]
 
 "Historians call this sort of thing “normalization,” or, if they are German, Vergangenheitsbewältigung, “coming to terms with the past.” Through books and films, we process the exceptional and traumatic into the banal and mildly diverting."
  

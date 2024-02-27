@@ -6,9 +6,14 @@ title: Tell Us a Story, Grandma
 publication: The New Yorker
 link: https://www.newyorker.com/magazine/2015/02/02/tell-us-story-grandma
 date: 2015-01-26
+permalink: 2015/01/26/natalie-wise-tell-us-a-story-grandma
 ---
 
-[[2015]] / [[commonplace]] / 
+# Tell Us a Story, Grandma
+
+### Natalie Wise
+
+[[2015]] / [[commonplace]] / [[The New Yorker]]
 
 I wonder which ones I will remember:
 <br>That I loved my boyfriend’s best friend?

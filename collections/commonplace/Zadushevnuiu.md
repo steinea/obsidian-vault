@@ -6,9 +6,14 @@ title: Zadushevnuiu
 publication: Salon
 link: http://www.salon.com/2015/01/11/leo_tolstoys_theory_of_everything/
 date: 2015-01-24
+permalink: 2015/01/24/leo-tolstoy-zadushevnuiu
 ---
 
-[[2015]] / [[commonplace]] / 
+# Zadushevnuiu
+
+### Leo Tolstoy
+
+[[2015]] / [[commonplace]] / [[Salon]]
 
 zadushevnuiu — innermost (Russian), literally, the “behind-the-soul”
 

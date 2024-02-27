@@ -6,9 +6,14 @@ title: Essay on Clouds
 publication: The New Yorker
 link: https://www.newyorker.com/magazine/2015/02/02/essay-clouds
 date: 2015-01-26
+permalink: 2015/01/26/james-richardson-essay-on-clouds
 ---
 
-[[2015]] / [[commonplace]] / 
+# Essay on Clouds
+
+### James Richardson
+
+[[2015]] / [[commonplace]] / [[The New Yorker]]
 
 Maybe a whale,
 <br>as Hamlet mused, or a camel or weasel,

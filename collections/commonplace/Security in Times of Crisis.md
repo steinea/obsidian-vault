@@ -6,9 +6,14 @@ title: Security in Times of Crisis
 publication: Cardozo Law Review
 link: https://scholarship.law.gwu.edu/faculty_publications/948/
 date: 2015-01-18
+permalink: 2015/01/18/daniel-j-solove-security-in-times-of-crisis
 ---
 
-[[2015]] / [[commonplace]] / 
+# Security in Times of Crisis
+
+### Daniel J. Solove
+
+[[2015]] / [[commonplace]] / [[Cardozo Law Review]]
 
 In war and in times of crisis, it has often been said that liberty must be sacrificed to further security (2443).
 

@@ -2,11 +2,16 @@
 layout: entry
 category: commonplace
 author: Lia Purpura
-title: Probability
+title: The Shiver of Noticing
 publication: The New Yorker
 link: https://www.newyorker.com/magazine/2015/01/19/probability
 date: 2015-01-12
+permalink: 2015/01/12/lia-purpura-the-shiver-of-nothing
 ---
+
+# The Shiver of Noticing
+
+### Lia Purpura
 
 [[2015]] / [[commonplace]] / 
 

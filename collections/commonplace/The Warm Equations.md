@@ -6,9 +6,14 @@ title: The Warm Equations
 publication: Los Angeles Review of Books
 link: https://lareviewofbooks.org/article/the-warm-equations/
 date: 2015-07-01
+permalink: 2015/07/01/gerry-canavan-the-warm-equations
 ---
 
-[[2015]] / [[commonplace]] / 
+# The Warm Equations
+
+### Gerry Canavan
+
+[[2015]] / [[commonplace]] / [[Los Angeles Review of Books]]
 
 "New novels out this summer from Kim Stanley Robinson (Aurora) and Neal Stephenson (Seveneves) dismantle the fantastic Star Trek vision of space travel in favor of a portrayal of space exploration with more vertigo, more friction, more weight, and more gravity."
 

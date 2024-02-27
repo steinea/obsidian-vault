@@ -6,9 +6,14 @@ title: Chimera of the Present
 publication: Salon
 link: http://www.salon.com/2015/01/11/leo_tolstoys_theory_of_everything/
 date: 2015-01-24
+permalink: 2015/01/24/leo-tolstoy-chimera-of-the-present
 ---
 
-[[2015]] / [[commonplace]] / 
+# Chimera of the Present
+
+### Leo Tolstoy
+
+[[2015]] / [[commonplace]] / [[Salon]]
 
 "Le passé est ce qui fut, le futur est ce qui sera et le présent est ce qui n’est pas.—C’est pour cela que la vie de l’homme ne consiste que dans le futur et le passé et c’est pour la même raison que le bonheur que nous voulons posséder n’est qu’une chimère de même que le présent."
 
