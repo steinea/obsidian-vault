@@ -1,0 +1,3 @@
+# Your Daily German
+
+[[publications]]

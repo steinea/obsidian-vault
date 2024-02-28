@@ -1,0 +1,20 @@
+---
+layout: entry
+category: commonplace
+author: Miriam Toews
+title: Emptiness
+publication: A Complicated Kindness
+link: https://www.penguinrandomhouse.ca/books/179091/a-complicated-kindness-by-miriam-toews/9780735273955
+date: 2015-03-03
+permalink: 2015/03/03/miriam-toews-emptiness
+---
+
+# Emptiness
+
+### Miriam Toews
+
+[[2015]] / [[commonplace]] / [[A Complicated Kindness]]
+
+"It's hard to know what to do with your emptiness when you're not supposed to have emptiness."
+
+ p. 173

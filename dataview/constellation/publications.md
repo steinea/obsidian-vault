@@ -21,6 +21,7 @@
 | [[constellation/publications/Georgetown.md\|Georgetown]]                                                         |
 | [[constellation/publications/Gonzo.md\|Gonzo]]                                                                   |
 | [[constellation/publications/Google Books.md\|Google Books]]                                                     |
+| [[constellation/publications/Granta.md\|Granta]]                                                                 |
 | [[constellation/publications/Guernica.md\|Guernica]]                                                             |
 | [[constellation/publications/Hazlitt.md\|Hazlitt]]                                                               |
 | [[constellation/publications/Heterogenous Tasks.md\|Heterogenous Tasks]]                                         |
@@ -54,6 +55,7 @@
 | [[constellation/publications/Poets United.md\|Poets United]]                                                     |
 | [[constellation/publications/Polygon.md\|Polygon]]                                                               |
 | [[constellation/publications/Project Gutenberg.md\|Project Gutenberg]]                                           |
+| [[constellation/publications/Publishers Weekly.md\|Publishers Weekly]]                                           |
 | [[constellation/publications/Salon.md\|Salon]]                                                                   |
 | [[constellation/publications/Script.md\|Script]]                                                                 |
 | [[constellation/publications/Smith College.md\|Smith College]]                                                   |
@@ -83,3 +85,4 @@
 | [[constellation/publications/Wikipedia.md\|Wikipedia]]                                                           |
 | [[constellation/publications/Wordpress.md\|Wordpress]]                                                           |
 | [[constellation/publications/World History Encyclopedia.md\|World History Encyclopedia]]                         |
+| [[constellation/publications/Your Daily German.md\|Your Daily German]]                                           |
