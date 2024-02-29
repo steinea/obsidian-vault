@@ -4,7 +4,7 @@ series: Icons
 item: 10327
 pieces: 1369
 age: 18+
-status: wishlist
+status: unbuilt
 url: https://www.lego.com/en-ca/product/dune-atreides-royal-ornithopter-10327
 ---
 

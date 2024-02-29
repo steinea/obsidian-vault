@@ -1,12 +1,14 @@
 ---
 title: The Long Bright Dark
+series: True Detective
+seasonEpisode: 1.1
 channel: HBO
-date: 2014-01-12
+releaseDate: 2014-01-12
+watched: Yes
+watchedDate: 2024-02-21
 ---
 
-# The Long Bright Dark
-
-[[episodes]] / [[True Detective]]
+[[2014]] • [[episodes]] • [[True Detective]] • [[HBO]]
 
 <https://www.imdb.com/title/tt2657398/>
 

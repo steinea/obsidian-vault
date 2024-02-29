@@ -1,11 +1,13 @@
 ---
 title: Godzilla Minus One
-date: 2023-11-03
+releaseDate: 2023-11-03
+watched: Yes
+watchedDate: 2023-12-16
+rating: ★★★★★
+liked: ♥
 ---
 
-# Godzilla Minus One
-
-[[film]]
+[[2023]] • [[film]] • [[Takashi Yamazaki]] • [[Toho Studios]]
 
 <https://www.imdb.com/title/tt23289160/>
 
