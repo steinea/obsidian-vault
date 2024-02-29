@@ -1,7 +1,7 @@
 ---
 title: Clifton Strengths 34
 date: 2022-11-22
-permalink: 2022-11-22-strengths-34
+permalink: 2022/11/22/clifton-strengths-34
 ---
 
 # CliftonStrengths 34
