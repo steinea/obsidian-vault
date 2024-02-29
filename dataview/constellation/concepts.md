@@ -9,6 +9,7 @@
 | [[constellation/concepts/Communes in Outer Space.md\|Communes in Outer Space]]         |
 | [[constellation/concepts/Feigenbaum Constants.md\|Feigenbaum Constants]]               |
 | [[constellation/concepts/Hermeneutics.md\|Hermeneutics]]                               |
+| [[constellation/concepts/Historiography.md\|Historiography]]                           |
 | [[constellation/concepts/Intentionality.md\|Intentionality]]                           |
 | [[constellation/concepts/Jena Romanticism.md\|Jena Romanticism]]                       |
 | [[constellation/concepts/Literature.md\|Literature]]                                   |

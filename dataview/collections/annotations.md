@@ -30,8 +30,8 @@
 | [[collections/annotations/2018-08-01-oliver-owls-and-other-fantasies.md\|2018-08-01-oliver-owls-and-other-fantasies]]         | 2018-08-01 |
 | [[collections/annotations/2016-11-21-bhabha-the-location-of-culture.md\|2016-11-21-bhabha-the-location-of-culture]]           | 2016-11-21 |
 | [[collections/annotations/2016-10-31-certeau-practice-of-everyday-life.md\|2016-10-31-certeau-practice-of-everyday-life]]     | 2016-10-31 |
-| [[collections/annotations/2016-10-26-polanyi-the-tacit-dimension.md\|2016-10-26-polanyi-the-tacit-dimension]]                 | 2016-10-26 |
-| [[collections/annotations/2016-10-17-white-content-of-the-form.md\|2016-10-17-white-content-of-the-form]]                     | 2016-10-17 |
+| [[collections/annotations/We Know More Than We Can Tell.md\|We Know More Than We Can Tell]]                                   | 2016-10-26 |
+| [[collections/annotations/Reality Wears the Mask of a Meaning.md\|Reality Wears the Mask of a Meaning]]                       | 2016-10-17 |
 | [[collections/annotations/Second-Order Semiological Systems.md\|Second-Order Semiological Systems]]                           | 2016-10-03 |
 | [[collections/annotations/The Universe in Immediate Experience.md\|The Universe in Immediate Experience]]                     | 2016-09-28 |
 | [[collections/annotations/We Make Ourselves As We Go Along.md\|We Make Ourselves As We Go Along]]                             | 2016-09-19 |

@@ -18,6 +18,7 @@
 | [[constellation/people/George Grant.md\|George Grant]]                   |
 | [[constellation/people/Hajime Tabata.md\|Hajime Tabata]]                 |
 | [[constellation/people/Hans-Georg Gadamer.md\|Hans-Georg Gadamer]]       |
+| [[constellation/people/Hayden White.md\|Hayden White]]                   |
 | [[constellation/people/Isamu Kamikokuryo.md\|Isamu Kamikokuryo]]         |
 | [[constellation/people/Jackson Pollock.md\|Jackson Pollock]]             |
 | [[constellation/people/Jessica Flack.md\|Jessica Flack]]                 |
@@ -25,6 +26,7 @@
 | [[constellation/people/Koji Igarashi.md\|Koji Igarashi]]                 |
 | [[constellation/people/M. K. Badru.md\|M. K. Badru]]                     |
 | [[constellation/people/Maurice Merleau-Ponty.md\|Maurice Merleau-Ponty]] |
+| [[constellation/people/Michael Polanyi.md\|Michael Polanyi]]             |
 | [[constellation/people/Motomu Toriyama.md\|Motomu Toriyama]]             |
 | [[constellation/people/Nam Jun Paik.md\|Nam Jun Paik]]                   |
 | [[constellation/people/Naoki Yoshida.md\|Naoki Yoshida]]                 |

@@ -3,6 +3,7 @@
 | Books                                                                                                                                       | Author                                                        | Date |
 | ------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------- | ---- |
 | [[constellation/books/The Fortune of the Rougons.md\|The Fortune of the Rougons]]                                                           | Zola, Émile                                                   | 1871 |
+| [[constellation/books/The Content of the Form.md\|The Content of the Form]]                                                                 | White, Hayden                                                 | 1987 |
 | [[constellation/books/Shadows of Syntax.md\|Shadows of Syntax]]                                                                             | Warren, John                                                  | 2021 |
 | [[constellation/books/Kierkegaardian Studies.md\|Kierkegaardian Studies]]                                                                   | Wahl, Jean                                                    | 1938 |
 | [[constellation/books/Phenomenology, Logic, and the Philosophy of Mathematics.md\|Phenomenology, Logic, and the Philosophy of Mathematics]] | Tieszen, Richard                                              | 2009 |
@@ -10,6 +11,7 @@
 | [[constellation/books/Intentionality and the Myths of the Given.md\|Intentionality and the Myths of the Given]]                             | Sachs, Carl B.                                                | 2014 |
 | [[constellation/books/A Short History of the World.md\|A Short History of the World]]                                                       | Roberts, John Morris                                          | 1997 |
 | [[constellation/books/Who We Are and How We Got Here.md\|Who We Are and How We Got Here]]                                                   | Reich, David                                                  | 2018 |
+| [[constellation/books/The Tacit Dimension.md\|The Tacit Dimension]]                                                                         | Polanyi, Michael                                              | 1966 |
 | [[constellation/books/Gamer Trouble.md\|Gamer Trouble]]                                                                                     | Phillips, Amanda                                              | 2020 |
 | [[constellation/books/Interpreting the Universe.md\|Interpreting the Universe]]                                                             | Macmurray, John                                               | 1933 |
 | [[constellation/books/Mathematics and Reality.md\|Mathematics and Reality]]                                                                 | Leng, Mar                                                     | 2013 |
