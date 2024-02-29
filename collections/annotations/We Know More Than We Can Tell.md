@@ -1,32 +1,14 @@
 ---
-layout: annotation
-category: annotations
-author: Michael Polanyi
-citeAuthor: Polanyi, Michael
-shortAuthor: Polanyi
-translator:
 title: The Tacit Dimension
-subtitle:
-location: Chicago, IL
-publisher: University of Chicago Press
-originalDate: 1966
-publicationDate: 1966
-displayDate: 1966
-link: https://press.uchicago.edu/ucp/books/book/chicago/T/bo6035368.html
-abstract: "'I shall reconsider human knowledge by starting from the fact that we can know more than we can tell,' writes Michael Polanyi, whose work paved the way for the likes of Thomas Kuhn and Karl Popper. The Tacit Dimension argues that tacit knowledge---tradition, inherited practices, implied values, and prejudgments---is a crucial part of scientific knowledge. Back in print for a new generation of students and scholars, this volume challenges the assumption that skepticism, rather than established belief, lies at the heart of scientific discovery."
-format: Paperback
-isbn: 9780226672984
-acquisitionDate: 2016-10-26
-annotationDate: 2016-10-26
 date: 2016-10-26
-tags: philosophy school
+permalink: 2016/10/26/we-know-more-than-we-can-tell
 ---
-# The Tacit Dimension
 
-[[2016]] / [[annotations]]
-#### I. Summary
+[[2016]] • [[Annotations]] • [[Michael Polanyi]] • [[The Tacit Dimension]]
 
-"Tacit Knowing"
+### I. Summary
+
+#### Tacit Knowing
 
 1)  Premise: *we can know more than we can tell*
 
@@ -179,7 +161,7 @@ tags: philosophy school
 <br>
 
 
-"Emergence"
+#### Emergence
 
 1)  Understanding the world begins with the body
 
@@ -296,7 +278,7 @@ tags: philosophy school
 <br>
 
 
-"A Society of Explorers"
+#### A Society of Explorers
 
 1) Comprehension is indwelling; knowledge is comprehension (55)
 
