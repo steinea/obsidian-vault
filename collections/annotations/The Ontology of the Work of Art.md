@@ -5,7 +5,7 @@ permalink: 2016/09/04/the-ontology-of-the-work-of-art
 ---
 
 
-[[2016]] / [[Annotations]] • [[Hans-Georg Gadamer]] • [[Truth and Method]]
+[[2016]] • [[Annotations]] • [[Hans-Georg Gadamer]] • [[Truth and Method]]
 
 # Part One: The Question of Truth as it Emerges in the Experience of Art
 
