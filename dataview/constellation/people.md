@@ -36,6 +36,7 @@
 | [[constellation/people/Ryota Suzuki.md\|Ryota Suzuki]]                   |
 | [[constellation/people/Sara I. Walker.md\|Sara I. Walker]]               |
 | [[constellation/people/Søren Kierkegaard.md\|Søren Kierkegaard]]         |
+| [[constellation/people/Takashi Yamazaki.md\|Takashi Yamazaki]]           |
 | [[constellation/people/Tetsuya Nomura.md\|Tetsuya Nomura]]               |
 | [[constellation/people/Wilfrid Sellars.md\|Wilfrid Sellars]]             |
 | [[constellation/people/Yoko Taro.md\|Yoko Taro]]                         |

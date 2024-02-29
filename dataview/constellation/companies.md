@@ -31,4 +31,5 @@
 | [[constellation/companies/Square Enix.md\|Square Enix]]                                       |
 | [[constellation/companies/Superbrothers.md\|Superbrothers]]                                   |
 | [[constellation/companies/Team Ninja.md\|Team Ninja]]                                         |
+| [[constellation/companies/Toho Studios.md\|Toho Studios]]                                     |
 | [[constellation/companies/Untold Tales.md\|Untold Tales]]                                     |
