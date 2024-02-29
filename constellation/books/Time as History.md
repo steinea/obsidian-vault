@@ -7,7 +7,7 @@ date: 1969
 permalink: '9780802075932'
 ---
 
-[[books]] / [[Philosophy]] / [[George Grant]]
+[[books]] • [[Philosophy]] • [[George Grant]]
 
 ### Citation
 
