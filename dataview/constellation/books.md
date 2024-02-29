@@ -11,6 +11,7 @@
 | [[constellation/books/A Short History of the World.md\|A Short History of the World]]                                                       | Roberts, John Morris                                          | 1997 |
 | [[constellation/books/Who We Are and How We Got Here.md\|Who We Are and How We Got Here]]                                                   | Reich, David                                                  | 2018 |
 | [[constellation/books/Gamer Trouble.md\|Gamer Trouble]]                                                                                     | Phillips, Amanda                                              | 2020 |
+| [[constellation/books/Interpreting the Universe.md\|Interpreting the Universe]]                                                             | Macmurray, John                                               | 1933 |
 | [[constellation/books/Mathematics and Reality.md\|Mathematics and Reality]]                                                                 | Leng, Mar                                                     | 2013 |
 | [[constellation/books/Because Without Cause.md\|Because Without Cause]]                                                                     | Lange, Marc                                                   | 2016 |
 | [[constellation/books/Coin-Operated Americans.md\|Coin-Operated Americans]]                                                                 | Kocurek, Carly A.                                             | 2015 |
@@ -19,6 +20,8 @@
 | [[constellation/books/Mosses from an Old Manse.md\|Mosses from an Old Manse]]                                                               | Hawthorne, Nathaniel                                          | 1846 |
 | [[constellation/books/The Snow Image and Uncollected Tales.md\|The Snow Image and Uncollected Tales]]                                       | Hawthorne, Nathaniel                                          | 1852 |
 | [[constellation/books/Husserl and Mathematics.md\|Husserl and Mathematics]]                                                                 | Hartimo, Mirja                                                | 2021 |
+| [[constellation/books/Time as History.md\|Time as History]]                                                                                 | Grant, George                                                 | 1969 |
+| [[constellation/books/Truth and Method.md\|Truth and Method]]                                                                               | Gadamer, Hans-Georg                                           | 1960 |
 | [[constellation/books/Ptolemy's Philosophy.md\|Ptolemy's Philosophy]]                                                                       | Feke, Jacqueline                                              | 2018 |
 | [[constellation/books/Deleuze and the History of Mathematics.md\|Deleuze and the History of Mathematics]]                                   | Duffy, Simon                                                  | 2013 |
 | [[constellation/books/My Tiny Life.md\|My Tiny Life]]                                                                                       | Dibbell, Julian                                               | 1999 |
@@ -28,6 +31,7 @@
 | [[constellation/books/A Brief History of the Human Race.md\|A Brief History of the Human Race]]                                             | Cook, Michael                                                 | 2003 |
 | [[constellation/books/Ready Player Two.md\|Ready Player Two]]                                                                               | Chess, Shira                                                  | 2017 |
 | [[constellation/books/Children of a Modest Star.md\|Children of a Modest Star]]                                                             | Blake, Jonathn S. and Nils Gilman                             | 2024 |
+| [[constellation/books/Mythologies.md\|Mythologies]]                                                                                         | Barthes, Roland                                               | 1957 |
 | [[constellation/books/Kierkegaard, Pietism and Holiness.md\|Kierkegaard, Pietism and Holiness]]                                             | Barnett, Christopher B.                                       | 2016 |
 | [[constellation/books/Kierkegaard Construction of the Aesthetic.md\|Kierkegaard Construction of the Aesthetic]]                             | Adorno, Theodor W.                                            | 1989 |
 | [[constellation/books/Queer Game Studies.md\|Queer Game Studies]]                                                                           | <ul><li>Ruberg, Bonnie</li><li>Shaw, Adrienne</li></ul>       | 2017 |

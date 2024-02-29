@@ -1,6 +1,6 @@
 %% #Ignore update via "Update Publish Files" template %% 
 
-| Annotations                                                                                                                   | Date       |
+| Title                                                                                                                         | Date       |
 | ----------------------------------------------------------------------------------------------------------------------------- | ---------- |
 | [[collections/annotations/A Strange Period of Human Folly and Shame.md\|A Strange Period of Human Folly and Shame]]           | 2024-01-01 |
 | [[collections/annotations/2023-12-31-jordan-the-fires-of-heaven.md\|2023-12-31-jordan-the-fires-of-heaven]]                   | 2023-12-31 |
@@ -32,7 +32,7 @@
 | [[collections/annotations/2016-10-31-certeau-practice-of-everyday-life.md\|2016-10-31-certeau-practice-of-everyday-life]]     | 2016-10-31 |
 | [[collections/annotations/2016-10-26-polanyi-the-tacit-dimension.md\|2016-10-26-polanyi-the-tacit-dimension]]                 | 2016-10-26 |
 | [[collections/annotations/2016-10-17-white-content-of-the-form.md\|2016-10-17-white-content-of-the-form]]                     | 2016-10-17 |
-| [[collections/annotations/2016-10-03-barthes-mythologies.md\|2016-10-03-barthes-mythologies]]                                 | 2016-10-03 |
-| [[collections/annotations/2016-09-28-macmurray-interpreting-the-universe.md\|2016-09-28-macmurray-interpreting-the-universe]] | 2016-09-28 |
-| [[collections/annotations/2016-09-19-grant-time-as-history.md\|2016-09-19-grant-time-as-history]]                             | 2016-09-19 |
-| [[collections/annotations/2016-09-04-gadamer-truth-and-method.md\|2016-09-04-gadamer-truth-and-method]]                       | 2016-09-04 |
+| [[collections/annotations/Second-Order Semiological Systems.md\|Second-Order Semiological Systems]]                           | 2016-10-03 |
+| [[collections/annotations/The Universe in Immediate Experience.md\|The Universe in Immediate Experience]]                     | 2016-09-28 |
+| [[collections/annotations/We Make Ourselves As We Go Along.md\|We Make Ourselves As We Go Along]]                             | 2016-09-19 |
+| [[collections/annotations/The Ontology of the Work of Art.md\|The Ontology of the Work of Art]]                               | 2016-09-04 |

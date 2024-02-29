@@ -22,6 +22,7 @@
 | [[constellation/concepts/Poststructuralism.md\|Poststructuralism]]                     |
 | [[constellation/concepts/Pragmatism.md\|Pragmatism]]                                   |
 | [[constellation/concepts/Prophetic Pragmatism.md\|Prophetic Pragmatism]]               |
+| [[constellation/concepts/Semiotics.md\|Semiotics]]                                     |
 | [[constellation/concepts/Systems Theory.md\|Systems Theory]]                           |
 | [[constellation/concepts/Test-Driven Development.md\|Test-Driven Development]]         |
 | [[constellation/concepts/Upper Paleolithic.md\|Upper Paleolithic]]                     |

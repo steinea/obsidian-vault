@@ -19,6 +19,7 @@
 | [[constellation/games/Ashen.md\|Ashen]]                                                                         |
 | [[constellation/games/Assassin's Creed II.md\|Assassin's Creed II]]                                             |
 | [[constellation/games/Assemble with Care.md\|Assemble with Care]]                                               |
+| [[constellation/games/Astro's Playroom.md\|Astro's Playroom]]                                                   |
 | [[constellation/games/Baba Is You.md\|Baba Is You]]                                                             |
 | [[constellation/games/Bastion.md\|Bastion]]                                                                     |
 | [[constellation/games/Battlefield 2042.md\|Battlefield 2042]]                                                   |
@@ -42,6 +43,7 @@
 | [[constellation/games/Contract Bridge.md\|Contract Bridge]]                                                     |
 | [[constellation/games/Control Ultimate Edition.md\|Control Ultimate Edition]]                                   |
 | [[constellation/games/Corru Observer.md\|Corru Observer]]                                                       |
+| [[constellation/games/Crawl.md\|Crawl]]                                                                         |
 | [[constellation/games/Crisis Core Final Fantasy VII Reunion.md\|Crisis Core Final Fantasy VII Reunion]]         |
 | [[constellation/games/Cyberpunk 2077.md\|Cyberpunk 2077]]                                                       |
 | [[constellation/games/Dance Central.md\|Dance Central]]                                                         |
@@ -79,6 +81,7 @@
 | [[constellation/games/Eidolon.md\|Eidolon]]                                                                     |
 | [[constellation/games/Elden Ring.md\|Elden Ring]]                                                               |
 | [[constellation/games/Eliza.md\|Eliza]]                                                                         |
+| [[constellation/games/Endling Extinction is Forever.md\|Endling Extinction is Forever]]                         |
 | [[constellation/games/F1 22.md\|F1 22]]                                                                         |
 | [[constellation/games/Fable II.md\|Fable II]]                                                                   |
 | [[constellation/games/Fabula Nova Crystallis.md\|Fabula Nova Crystallis]]                                       |
@@ -102,6 +105,7 @@
 | [[constellation/games/FTL Faster Than Light.md\|FTL Faster Than Light]]                                         |
 | [[constellation/games/Genesis Noir.md\|Genesis Noir]]                                                           |
 | [[constellation/games/Geometry Wars Evolved.md\|Geometry Wars Evolved]]                                         |
+| [[constellation/games/Golf Club Nostalgia.md\|Golf Club Nostalgia]]                                             |
 | [[constellation/games/Golf Club Wasteland.md\|Golf Club Wasteland]]                                             |
 | [[constellation/games/Golf Peaks.md\|Golf Peaks]]                                                               |
 | [[constellation/games/Gorogoa.md\|Gorogoa]]                                                                     |
@@ -144,6 +148,7 @@
 | [[constellation/games/King's Quest.md\|King's Quest]]                                                           |
 | [[constellation/games/LEGO Batman.md\|LEGO Batman]]                                                             |
 | [[constellation/games/Lightning Returns Final Fantasy XIII.md\|Lightning Returns Final Fantasy XIII]]           |
+| [[constellation/games/Lost in Random.md\|Lost in Random]]                                                       |
 | [[constellation/games/Manifold Garden.md\|Manifold Garden]]                                                     |
 | [[constellation/games/Maquette.md\|Maquette]]                                                                   |
 | [[constellation/games/Mass Effect.md\|Mass Effect]]                                                             |
@@ -223,6 +228,7 @@
 | [[constellation/games/Tenderfoot Tactics.md\|Tenderfoot Tactics]]                                               |
 | [[constellation/games/The Banished Vault.md\|The Banished Vault]]                                               |
 | [[constellation/games/The Case of the Golden Idol.md\|The Case of the Golden Idol]]                             |
+| [[constellation/games/The Cub.md\|The Cub]]                                                                     |
 | [[constellation/games/The Elder Scrolls III Morrowind.md\|The Elder Scrolls III Morrowind]]                     |
 | [[constellation/games/The Finals.md\|The Finals]]                                                               |
 | [[constellation/games/The Flower Collectors.md\|The Flower Collectors]]                                         |
