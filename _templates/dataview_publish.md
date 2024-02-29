@@ -21,14 +21,21 @@ const fileAndQuery = new Map([
 	'LIST FROM "dataview/constellation" SORT file.name ASC',
   ],
 
+// About dataview maps
+
+  [
+	"personality",
+	'TABLE WITHOUT ID file.link AS "Personality", date AS Date FROM "about/personality" SORT date DESC',
+  ],
+
 // Activity dataview maps
 
   [
-	"building",
+	"Building",
 	'TABLE WITHOUT ID file.link AS Set, series AS Series, item AS Item, pieces AS Pieces, age AS Age, status AS Status FROM "constellation/lego" WHERE status = "built" OR status = "unbuilt" OR status = "wishlist" SORT status ASC, file.name ASC',
   ],
   [
-	"dreaming",
+	"Dreaming",
 	'TABLE WITHOUT ID file.link AS "Dreaming" FROM "activity/dreaming" SORT date DESC',
   ],
   [
@@ -36,11 +43,11 @@ const fileAndQuery = new Map([
 	'TABLE WITHOUT ID file.link AS "Drinking" FROM "activity/drinking" SORT date DESC',
   ],
   [
-	"exercising",
+	"Exercising",
 	'TABLE WITHOUT ID file.link AS "Exercising" FROM "activity/exercising" SORT date DESC',
   ],
   [
-	"listening",
+	"Listening",
 	'TABLE WITHOUT ID file.link AS "Listening" FROM "activity/listening" SORT date DESC',
   ],
   [
@@ -72,28 +79,28 @@ const fileAndQuery = new Map([
 	'TABLE WITHOUT ID file.link AS "Wishlist", platform AS Platform, howlongtobeat.hours AS "Hours" FROM "constellation/games" WHERE progress = "wishlist" SORT file.name ASC',
   ],
   [
-    "posting",
+    "Posting",
 	'TABLE WITHOUT ID file.link AS Post, date AS Date FROM "activity/posting" SORT date DESC',
   ],
   [
-	"reading",
+	"Reading",
 	'TABLE WITHOUT ID file.link AS "Reading" FROM "activity/reading" SORT date DESC',
   ],
   [
-	"sleeping",
+	"Sleeping",
 	'TABLE WITHOUT ID file.link AS "Sleeping" FROM "activity/sleeping" SORT date DESC',
   ],
   [
-	"traveling",
+	"Traveling",
 	'TABLE WITHOUT ID file.link AS "Traveling" FROM "activity/traveling" SORT date DESC',
   ],
   [
 	"watchingfilm",
-	'TABLE WITHOUT ID file.link AS "Film", rating AS Rating, liked AS Liked, date AS Date FROM "activity/watching" WHERE category = "film" SORT date DESC',
+	'TABLE WITHOUT ID file.link AS "Film", rating AS Rating, liked AS Liked, watchedDate AS Date FROM "constellation/film" WHERE watched = "Yes" SORT watchedDate DESC',
   ],
   [
 	"watchingtelevision",
-	'TABLE WITHOUT ID file.link AS "Television", date AS Date FROM "activity/watching" WHERE category = "television" SORT date DESC',
+	'TABLE WITHOUT ID file.link AS Title, series AS Series, seasonEpisode AS Episode, watchedDate AS Date FROM "constellation/episodes" WHERE watched = "Yes" SORT watchedDate DESC, seasonEpisode DESC',
   ],
 
 // Blog dataview maps
@@ -156,10 +163,6 @@ const fileAndQuery = new Map([
   [
 	"commonplace",
 	'TABLE WITHOUT ID file.link AS "Commonplace", date AS Date FROM "collections/commonplace" SORT date DESC',
-  ],
-  [
-	"personality",
-	'TABLE WITHOUT ID file.link AS "Personality", date AS Date FROM "collections/personality" SORT date DESC',
   ],
   [
 	"playlists",
