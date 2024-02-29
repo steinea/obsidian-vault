@@ -1,19 +1,14 @@
 ---
 title: A Strange Period of Human Folly and Shame
-subtitle: The Fortune of the Rougons
 date: 2024-01-01
 permalink: 2024/01/01/the-fortune-of-the-rougons
 ---
 
-# A Strange Period of Human Folly and Shame
+[[2024]] • [[Annotations]] • [[Émile Zola]] • [[The Fortune of the Rougons]]
 
-### *The Fortune of the Rougons*
+### Annotations
 
-[[2024]] / [[annotations]] / [[The Fortune of the Rougons]]
-
-#### Annotations
-
-#### *Preface*
+#### Preface
 
 "Heredity, like gravity, has its laws" (3)
 
@@ -31,7 +26,7 @@ permalink: 2024/01/01/the-fortune-of-the-rougons
 
 <br>
 
-#### *Chapter 1*
+#### Chapter 1
 
 "One of the strangest features of the place at that time was some pear trees with twisted branches and monstrous knots, and whose enormous fruit not a single housewife in Plassans had any desire to pick. The townspeople pulled their faces in disgust when they mentioned the fruit" (5)
 
@@ -65,7 +60,7 @@ permalink: 2024/01/01/the-fortune-of-the-rougons
 
 <br>
 
-#### *Chapter 2*
+#### Chapter 2
 
 "Plassans is a sub-prefecture of about ten thousand people. Built on the plateau overlooking the Viorne and bound on the north by the Garrigues hills, one of the last spurs of the Alps, the town is situated, as it were, at the end of a cul-de-sac" (31)
 
@@ -215,7 +210,7 @@ Félicité: "Born under an evil star, and + believing herself to be unlucky" (51
 
 <br>
 
-#### *Chapter 3*
+#### Chapter 3
 
 "In the closed, isolated town of Plassans, where class divisions were so clearly marked in 1848, the impact of distant political events was very slight. Even today the voice of the people is hardly heard there; the bourgeoisie shows its usual prudence, the nobility its silent despair, and the clergy its shrewd cunning. Kings may usurp thrones, republics may be established, but the town scarcely stirs. Plassans sleeps while Paris fights. But though on the surface the town may appear calm and indifferent, in its depths there is secret activity which is interesting to study" (67)
 
@@ -317,7 +312,7 @@ Félicité: "Born under an evil star, and + believing herself to be unlucky" (51
 
 <br>
 
-#### *Chapter 4*
+#### Chapter 4
 
 "[Antoine Maquart's] idleness became deliberate; his drunkenness, which brought him countless punishments, became, in his mind, a religious duty. But the worst thing about him was his complete contempt for all the poor devils who worked for a living" (105)
 
@@ -417,7 +412,7 @@ Miette: "'I'm glad this happened. I'm not sorry now that I left home. I'm free'"
 
 <br>
 
-#### *Chapter 5*
+#### Chapter 5
 
 "The epic dreams that transported Miette and Silvère, big children that they were, eager for love and liberty, was so different in its sublime intensity from the sordid intrigues of the Macquarts and the Rougons" (150)
 
@@ -507,7 +502,7 @@ Miette: "'I'm glad this happened. I'm not sorry now that I left home. I'm free'"
 
 <br>
 
-#### *Chapter 6*
+#### Chapter 6
 
 "After each halt the saviours of Plassans resumed their stealthy march in the dark, continuing to appear like terrified heroes" (207)
 
@@ -545,7 +540,7 @@ Félicité: "'Well, it's our turn now'" (273)
 
 <br>
 
-#### *Chapter 7*
+#### Chapter 7
 
 "The campaign of terror following the *coup d'état* was just beginning, an unremitting campaign that kept the Midi in a state of tension for months" (274)
 
