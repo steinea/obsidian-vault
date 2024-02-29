@@ -1,38 +1,20 @@
 ---
-layout: annotation
-category: annotations
-author: Hayden White
-citeAuthor: White, Hayden
-shortAuthor: White
-translator:
-title: The Content of the Form
-subtitle:
-location: Baltimore, MD
-publisher: Johns Hopkins University Press
-originalDate: 1987
-publicationDate: 1987
-displayDate: 1987
-link: https://www.press.jhu.edu/books/title/2540/content-form
-abstract: "Hayden White probes the notion of authority in art and literature and examines the problems of meaning—its production, distribution, and consumption—in different historical epochs. In the end, he suggests, the only meaning that history can have is the kind that a narrative imagination gives to it. The secret of the process by which consciousness invests history with meaning resides in 'the content of the form,' in the way our narrative capacities transform the present into a fulfillment of a past from which we would wish to have descended."
-format: Paperback
-isbn: 9780801841156
-acquisitionDate: 2016-10-17
-annotationDate: 2016-10-17
+title: Reality Wears the Mask of a Meaning
 date: 2016-10-17
-tags: philosophy school
+permalink: 2016/10/17/reality-wears-the-mask-of-a-meaning
 ---
-# The Content of the Form
 
-[[2016]] / [[annotations]]
-#### I. Analysis
+[[2016]] • [[Annotations]] • [[Hayden White]] • [[The Content of the Form]]
+
+### I. Analysis
 
 As an exploration of "Narrative Discourse and Historical Representation," Hayden White's *The Content of the Form* itself develops a surprising, though certainly appropriate, narrative of its own. Recognizing the "value of narrativity" early on, White brings to the fore the unique power of narrative for the representation of reality. Something about narrative lends itself to our representation of the real, or more specifically, the *historical* real. Having recognized this, however, White also recognizes the problem of narrative, that the apparent subjectivity of narrative is not conducive to the modern idea of history as a science. Yet, narrative is the ideal mode of representation in history. Intellectual history, it seems, is at an impasse. Through a survey of the various schools of thought in intellectual history, examinations of the political and ideological dimensions of narrative, and in-depth conversations with such critical thinkers as Foucault and Jameson, White's narrative brings the idea of such to the breaking point. Especially in the chapter on Foucault, narrative seems nothing more than an empty construct emerging from the void, an exclusionary means of mediating power and desire. It is a bleak vision. But in Jameson, and then especially in Ricoeur, White sees a way out of the nihilistic despair represented by Foucault. Yes, narrative is constructed, but no, this does not deprive it of its validity or its truth. Indeed, this only makes the truth of narrative more significant. Particularly in Ricoeur, narrative finds its metaphysical redemption as the very structure of historicality itself, the reckoning of humanity with its being-in-time, its temporality, its finitude. Narrative lends itself to the representation of the past because narrative figures forward the continuity of the past with the present, its culmination in the now, thus affording the individual both a way of understanding the chaos of the world, and the freedom to act in it toward the future. However, this articulation of narrative still requires work, a work White sees most effectively accomplished through the semiological school of Saussure. If we are to explicate the complex of historical forces that impinges upon our present as necessity, we must employ the full range of semiological tools to uncover the past meanings that persist as traces in our present society, and so be able to identify more accurately how these traces influence our thought and action, and how also we might think and act differently.
 
 <br>
 
-#### II. Summary
+### II. Summary
 
-"Preface"
+#### Preface
 
 In the Preface to *The Content of the Form* Hayden White lays out the basic premises of his thought, that narrative is a form, that narrative is not neutral, that narrative is a universal modality, and that narrative has a content preceding any particular instantiation of it. We see here White's recognition of narrative as a sort of field of forces, an arena in which power is exercised, distributed, and mediated. As White will demonstrate in the following chapters, the form of narrative in history is intrinsically political, and in this way narrative is more than just reportage but a socially constructive function.
 
@@ -48,7 +30,7 @@ In the Preface to *The Content of the Form* Hayden White lays out the basic prem
 
 <br>
 
-"The Value of Narrativity in the Representation of Reality"
+#### The Value of Narrativity in the Representation of Reality
 
 In the first essay of *The Concept of the Form,* White explores the development of the narrative form in history. Looking at first the annal, then the chronicle, and lastly the modern history, White demonstrates the way in which narrative structures the historical consciousness by providing closure and thus coherence to the otherwise open and chaotic stream of events that we experience. In comparison to the annal or the chronicle, the narrative is a vastly superior form, which White recognizes. But as we see at the beginning of the chapter, narrative is also problematic, given that there is always a subjective element to the narrativization of reality. As we see through White's discussion, this subjectivity is the product of the authority that validates the narrative, which is in turn a response to the ambiguity of real events with respect to meaning. Before narrative, events simply are. But when the historian seeks to explain, or even just understand, the past, the historian must necessarily *interpret,* and interpretation is a matter of closure and thus exclusion. One's interpretation always supposes another, contradictory interpretation that must be overruled. Thus, in narrative, we see a moral universe established, in which the subjectivity of the author is displaced onto the state, the sociopolitical order, which then authorizes the narratives of history which ensure it perpetuation. Indeed, there is not even a need for history in the modern sense until the modern state comes into being; the two go hand in hand. Modern history is a narrativization of reality; narrativization is interpretation; interpretation requires authorization; authorization requires an authorizing body; and the authorizing body, in the modern period, is the state. Through White we see, then, that there are two levels, or two poles, to the issue of narrative: first of all, narrative provides a coherence to history that annals and chronicles do not; secondly, this coherence is necessary for the continuation of the state, authorizing the state while being authorized by it. This is the "content of the form," the political project which motivates narrative historiography.
 
@@ -152,7 +134,7 @@ In the first essay of *The Concept of the Form,* White explores the development 
 
 <br>
 
-"The Question of Narrative in Contemporary Historical Theory"
+#### The Question of Narrative in Contemporary Historical Theory
 
 In his second chapter, White sets about a few tasks. First of all, following after the argument of the previous essay, White raises the *problem* of narrative to the fore. If narrative is constructed, an "imaginary" representation of reality, how can it be valid? He then moves to discuss the various approaches to narrative in history that different schools of thought have undertaken, steadily working through their conclusions to draw out the idea of the essential constructedness of narrative. Narrative is constructed; yet, it is valid, it has truth. Finally, through the hermeneutic philosophy of Ricoeur, White argues for the validity of narrative as a function of human temporality, the way in which people mediate between the present and the past, and so also project a future. In this way, the logic of narrative is seen to be *allegory,* a symbolic "figuring" of events absent to us, a *re-presenting* of them, through which meaning is established.
 
@@ -218,7 +200,7 @@ In his second chapter, White sets about a few tasks. First of all, following aft
 
 <br>
 
-"The Politics of Historical Interpretation: Discipline and De-Sublimation"
+#### The Politics of Historical Interpretation: Discipline and De-Sublimation
 
 In this chapter White examines the way history as a discipline sublimates political authority, so as to invest the interpretive practice of history with the authority of objectivity, which then can validate the political system that authorizes it. This is the ideological bent of modern history. In constructing a narrative of the past, history is able to depict the present conditions of a society and state as "natural," the "obvious" culmination of the events of history. But what White shows is that this sublimation of political authority also required a "de-sublimation" of the past, which is to say, the deemphasizing of the sublime aspect of history. History as sublime is history as chaos, a panoply of "sin and suffering" that cannot be easily rationalized, and so narrativized. But if history is a chaos, then the present authority cannot be depicted as natural. To this end, Kant's aesthetics comes to shape historical understanding insofar as the beautiful---the object of the form of reason and judgment called *taste*---takes precedence over the sublime. The beautiful is order; the sublime is chaos---therefore, the sublime has no place in history. In conclusion, White argues that a return to the sublime is necessary if we are to articulate the visionary politics necessary to see a change in our present conditions of existence.
 
@@ -316,7 +298,7 @@ In this chapter White examines the way history as a discipline sublimates politi
 
 <br>
 
-"Droysen's *Historik:* Historical Writing as a Bourgeois Science"
+#### Droysen's *Historik:* Historical Writing as a Bourgeois Science
 
 Having established the value of narrativity, the function of narrativity, and the ideology of narrativity, White moves to elaborate how this ideology functions in itself. To this end, White examines Droysen's *Historik,* which is shown to be the manual for bourgeois historical ideology. History in the bourgeois state is an ideological apparatus, the means by which individuals are interpellated with citizenship, with the collective ethical values of society. History enables the representation of the chaos of the past, the past that is absent, in its naturalized "traces," those documents and monuments and social practices that have been handed down, that are *given,* in any society. In re-presenting these remains of the past in the present, the past is used as authorization for present conditions. But this requires a sleight of hand. Authorization requires an appeal to the realism of the past, but by definition the past is no longer present, and its realism must always be represented, interpreted, narrativized. So, ideology naturalizes the imaginary of historical narrative to make it appear "real."
 
@@ -412,7 +394,7 @@ Having established the value of narrativity, the function of narrativity, and th
 
 <br>
 
-"Foucault's Discourse: The Historiography of Anti-Humanism"
+#### Foucault's Discourse: The Historiography of Anti-Humanism
 
 Though at first Foucault's radical position seems opposed to White's more measured approach, by the conclusion of this essay White's interest in Foucault is obvious. Throughout *The Content of the Form* White explores "Narrative Discourse and Historical Representation" (as the sub-title reads), which we find to be a theme in Foucault's work as well. But with Foucault, the ideological critique we begin to see in White's chapter on Droysen is deepened. History as a narrative is not only constructed, but it emerges out of a void, a void which Foucault's discourse returns us to in its elliptical and challenging style. Foucault is concerned with style and with play, with that surface that resists the constructed "depth" bestowed upon the "proper" and "lawful" by power. Where depth validates correct expressions of desire, Foucault lets desire run free of power, *playing* without fixing itself in a structure. As White tells us, there is no centre to Foucault's discourse, and this is by design. In resisting the centre, the origin, and the narrative that would flow from it, Foucault challenges the entire basis of modern historiography, and thus opens up the conversation to those who were before excluded from the discourse of their communities.
 
@@ -526,7 +508,7 @@ Though at first Foucault's radical position seems opposed to White's more measur
 
 <br>
 
-"Getting Out of History: Jameson's Redemption of Narrative"
+#### Getting Out of History: Jameson's Redemption of Narrative
 
 The positioning of this chapter after the chapter on Foucault is significant. Having outlined the nihilism of Foucault's stance, White approaches history from a different perspective, that of Frederic Jameson. In Foucault history is a discursive construct emerging from the void, a field of power intended to order desire at the expense of those other desires deemed "improper." In Jameson, however, history is the present necessity of past contingency, the demand upon free agents to act, to work with or against the effects of actions carried out in the past by other free agents. Through Jameson's Marxist eyes, history is not just an arbitrary construct but a real structure, a structure which can be explained in terms of narrative. Certainly, a narrative may be deemed more or less desirable, more or less accurate, by the critic, but that does not make it any more or less *valid*. Cultural narratives are, for Jameson, symbolic projections of a culture's "form of life," of the projects and actions of its constituents in response to the demands of necessity and desire.
 
@@ -636,7 +618,7 @@ d. As such, there is incredible value in such cultural artifacts, because they r
 
 <br>
 
-"The Metaphysics of Narrativity: Time and Symbol in Ricoeur's Philosophy of History"
+#### The Metaphysics of Narrativity: Time and Symbol in Ricoeur's Philosophy of History
 
 With White's chapter on Ricoeur we see the narrative arc of *The Content of the Form* coming to its conclusion. Having laid out the representative power of narrative, the problem of narrative, the constructed character of narrative, and the capacity for freedom revealed in the constructed character of narrative, White presents Ricoeur's thought, which penetrates to the metaphysical grounds of narrative. Narrative is certainly constructed, but in its construction it is, in fact, a representation of a real structure, the temporality of human being. Historical narrative has a truth, therefore, in that it presents the truth of human being-in-time in textual form. Thus, beyond even the meaning Jameson imparts to narrative, that of the political consciousness and the form of life, Ricoeur is able to articulate the metaphysical form of life that grounds all others: the finitude of man. For White, then, his interest in narrative comes full circle. His interrogation of the problematic of narrative in history leads to the new metaphysics of time and narrative that Ricoeur elaborates. Narrative is the construct that reveals meaning in experience and the truth of human temoporality.
 
@@ -708,7 +690,7 @@ With White's chapter on Ricoeur we see the narrative arc of *The Content of the 
 
 <br>
 
-"The Context in the Text: Methodology and Ideology in Intellectual History"
+#### The Context in the Text: Methodology and Ideology in Intellectual History
 
 This final essay of *The Content of the Form* doubles as both a conclusion, and a methodology for future historiography. Having explored the complexities of narrative discourse in history, and the progression of the debate through the work of various thinkers, White goes about sketching a framework for the semiological analysis of historical texts. Because history is layered, consisting of numerous intersecting fields of force and desire, the texts that are handed down as remains *of* history and *as* history are similarly layered. Thus, an archaeological method in the style of Foucault or Jameson is required, and Saussurean semiotics proves the ablest of tools for the job. But, against Foucault's anti-humanist nihilism and Jameson's Marxism, White
 demonstrates a different sensibility, that of the hermeneutic school (specifically that of Ricoeur), wherein narrative, though requiring critique, ultimately signifies, allegorizes, a deep structure of human being. Thus, the task of the intellectual historian for White is not just of political importance, as it is for Foucault and Jameson---though White is certainly interested in the political dimensions of discourse---but of *human* importance. Time makes a claim on us, and through *The Content of the Form* we see that, perhaps, an answer comes in the form of narrative.
@@ -763,7 +745,7 @@ demonstrates a different sensibility, that of the hermeneutic school (specifical
 
 <br>
 
-#### III. Critique
+### III. Critique
 
 The concern I had with Barthes' *Mythologies,* that he neglected what I referred to as the "banal" aspect of ideology, that all language is ideological \[which, to respond to Dr. Shelvey's comment, is maybe not that banal after all\], is remedied in White. Indeed, White's project is a Barthesian one, in that his "content of the form" truly does take up and respond to the problem of the "excess of meaning" that characterizes Barthes' myth.
 
