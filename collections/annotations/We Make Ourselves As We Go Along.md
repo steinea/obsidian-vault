@@ -1,38 +1,20 @@
 ---
-layout: annotation
-category: annotations
-author: George Grant
-citeAuthor: Grant, George
-shortAuthor: Grant
-translator:
-title: Time as History
-subtitle:
-location: Toronto, CA
-publisher: University of Toronto Press
-originalDate: 1969
-publicationDate: 1995
-displayDate: 1965
-link: https://utorontopress.com/9780802075932/time-as-history/
-abstract: "In Time as History, a collection of his 1969 Massey lectures, George Grant reviews the thought of Nietzsche and concludes that the conception of time as history is not one in which it is possible to live a fully human life. Grant was the first Canadian philosopher to pay serious attention to the thought of Friedrich Nietzsche, and his analysis of the German philosopher forms the central focus of the lectures. William Christian has restored material from the broadcast version of the lectures. His introduction places Grant's interest in Nietzsche in the perspective of Grant's developing analysis of technology and draws extensively on Grant's unpublished notebooks and lectures."
-format: Paperback
-isbn: 9780802075932
-acquisitionDate: 2016-09-19
-annotationDate: 2016-09-19
+title: We Make Ourselves As We Go Along
 date: 2016-09-19
-tags: philosophy school
+permalink: 2016/09/19/the-fortune-of-the-rougons
 ---
-# Time as History
 
-[[2016]] / [[annotations]]
-#### I. Analysis
+[[2016]] • [[Annotations]] • [[George Grant]] • [[Time as History]]
+
+### I. Analysis
 
 Following Nietzsche, Grant is concerned with the way in which the West, in its modernity, has come to be shaped by its conception of time *as history.* Time as history is a synchronic chain of *events,* purposive moments or acts of will that have shaped the world, and thus the course of historical time as well. Such a conception is at war with the essential finitude of man, and is expressed in the will to power and mastery. Again through Nietzsche, Grant argues that this will is trapped by the desire for revenge against temporality, finitude, and limitation, and that the technological, imperial West, is the culmination of this desire. In man's warring against his own "inescapable temporality" Grant sees a sort of alienation from man's natural condition, an alienation that, in Nietzsche's thought, terminates in the weak-willed, pleasure-seeking last men, or the brutal, destructive nihilists. Grant knows this is a problem, but in the end does not come to a truly satisfactory conclusion. But his thesis remains: future-oriented man, living life through the willing of a tomorrow shaped by his desire, will always bring about destruction, a destruction we already see playing out before our eyes.
 
 <br>
 
-#### II. Arguments and Supporting Evidence
+### II. Arguments and Supporting Evidence
 
-"Time as Historical Process"
+#### Time as Historical Process
 
 In this chapter, Grant argues that unique feature of Western civilization that has led to its global dominance is its conception of time as a historical process. For Grant, Friedrich Nietzsche was "the thinker who thought the crisis of Western civilization most intensively and most comprehensively" (4), and so he delves into Nietzsche's philosophy to explicate the current state of the West.
 
@@ -58,7 +40,7 @@ Thus, for Grant, time as history is a way of controlling change in the world. It
 
 <br>
 
-"Temporality and Technological Man"
+#### Temporality and Technological Man
 
 In the second chapter Grant concerns himself with the intersections of temporality and technology, and the way in which technology has been harnessed by men, but particularly Western man, to shape the flow of time.
 
@@ -96,7 +78,7 @@ In technology, Grant sees the will to power and mastery made material. As the sp
 
 <br>
 
-"Nietzsche and Time as History"
+#### Nietzsche and Time as History
 
 Here Grant fully enters into Nietzsche's philosophy so as to more clearly think about the technological imperialism of the West.
 
@@ -144,7 +126,7 @@ What Nietzsche reveals, and what Grant demonstrates in his discussion of him, is
 
 <br>
 
-"Nietzsche: Revenge and Redemption"
+#### Nietzsche: Revenge and Redemption
 
 At the core of future-oriented man's willing is the will to power, the desire to shape the world according to one's desire. But this will, this desire, requires mastery of the world, and man in his finitude is always *mastered by it.* No matter how hard one works, no matter how deeply one wills, we will all ultimately come to an end, and all our willing and striving will be for naught.
 
@@ -178,7 +160,7 @@ But Grant does not accept Nietzsche's *amor fati* as a viable solution. Certainl
 
 <br>
 
-"Time as Mastery"
+#### Time as Mastery
 
 In the final chapter of *Time as History* Grant attempts to conclude his thought and reckon with the futility he saw in Nietzsche's project. His alternative is *receptivity* and *remembering,* an openness to tradition (which, for Grant, is Christianity and its truths) that will liberate man from his desire to overcome time, the constraints of past and future that limit him. There must be some redemption, but one cannot have redemption without an idea of perfection to which one can attain. Nietzsche has no such idea, or at least not one that Grant can believe in.
 
@@ -206,7 +188,7 @@ d) Receptivity to and remembrance of tradition will give us this idea
 
 <br>
 
-#### III. Critique
+### III. Critique
 
 For the first time Nietzsche makes sense. He is still the bleakly cynical, often hysteric thinker that I thought he was, but Grant takes Nietzsche's thought and, to use one of his words, *enucleates* it, presents it, highlights its core. How strange that a Christian would make Nietzsche relevant. But as Dr. Charles Malik says in the Appendix to the text, Nietzsche is a "perverted and inverted Christian prophet" (72), and so we can see that his is a sort of negative philosophy. He projects the world as he sees it, emphasizing such ideas as revenge, and it is through this emphasis that we see his philosophical commitments. And it is these commitments that demand a reckoning.
 
