@@ -2,4 +2,4 @@
 
 | Personality                                                               | Date       |
 | ------------------------------------------------------------------------- | ---------- |
-| [[collections/personality/Clifton Strengths 34.md\|Clifton Strengths 34]] | 2022-11-22 |
+| [[Clifton Strengths 34|Clifton Strengths 34]] | 2022-11-22 |
