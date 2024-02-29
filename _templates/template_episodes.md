@@ -1,9 +1,16 @@
 ---
 title: 
-channel:
-date:
+series:
+season: 
+episode: 
+channel: 
+releaseDate: 
+watched: No/Yes
+watchedDate: 
 ---
 
 # 
 
-[[episodes]] 
+YEAR • [[episodes]] • SERIES • CHANNEL
+
+<LINK>
