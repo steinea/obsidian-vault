@@ -8,7 +8,7 @@ link: https://www.opendemocracy.net/en/article/the-neighbor-in-the-self/
 date: 2015-04-08
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] / [[commonplace]] / [[Open Democracy]]
 
 "in his identity with the divine, no human being can be stereotyped"
  
