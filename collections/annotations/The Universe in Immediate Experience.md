@@ -1,38 +1,20 @@
 ---
-layout: annotation
-category: annotations
-author: John Macmurray
-citeAuthor: Macmurray, John
-shortAuthor: Macmurray
-translator:
-title: Interpreting the Universe
-subtitle:
-location: Amherst, NY
-publisher: Humanity Books
-originalDate: 1933
-publicationDate: 1996
-displayDate: 1933
-link: https://books.google.ca/books/about/Interpreting_the_Universe.html?id=IbZdGQAACAAJ
-abstract: "John Macmurray argued that philosophers should learn to think from the standpoint of action, which involves participation in real life, and not from the perspective of the pure thinking self for whom the world is an object. At the heart of all his work was his attempt to reverse modern philosophy's commitment to an 'egocentric' starting point, with the self understood primarily as thinker withdrawn from action and participation in the world. Macmurray did not reject the work of philosophy as reflective activity, but he tried to recast its role in the service of more fulfilling and more basic personal communion with other, with the world, and utimately with God. This concern for community, or persons in relation, has become one of the major preoccupations of many of the cutting-edge debates in contemporary philosophy and religion and is inspiring new directions in moral theory within those circles. Indeed, it can be said that Macmurray's work is really a 'philosophy of community.' In *Interpreting the Universe*, first published in 1933, John Macmurray laid down the foundations for his subsequent exploration of community. Much of the contemporary discussion surrounding the idea proceeds from his work."
-format: Paperback
-isbn: 9781573923532
-acquisitionDate: 2016-09-28
-annotationDate: 2016-09-28
+title: The Universe in Immediate Experience
 date: 2016-09-28
-tags: philosophy school
+permalink: 2016/09/28/the-universe-in-immediate-experience
 ---
-# Interpreting the Universe
 
-[[2016]] / [[annotations]]
-#### I. Analysis
+[[2016]] • [[Annotations]] • [[John Macmurray]] • [[Interpreting the Universe]]
+
+### I. Analysis
 
 Macmurray wants to know how we interpret the infinity of the universe that is presented to us in living. In immediate experience, the universe is an infinity, a continuous, unified whole in which we participate and plan and purpose. We go about our lives as a part of this whole. But when we encounter difficulties in acting we bring our *reflective* faculty to bear on the world, which is the finite, symbolic way of schematizing the portion of reality that gives us this difficulty. We slice up the infinite of the presented universe into a system which allows us to identify the problem and theorize a solution, which we then apply back to the immediacy of experience. If the solution does, in fact, solve the problem, then we can return to our acting and know that our finite representation of the infinite is true for the specific case in which it was applied. Such symbolic systems of representation Macmurray refers to as "unity-patterns," and he identifies two that have been put into use extensively, the "mathematical" and the "biological." The mathematical is concerned with material identity, and the biological with vital difference. But neither is able to account for the personal, because each is a finite system of representation, and in the personal the infinity of the universe is condensed and presented. The task of philosophy, then, is to represent the personal symbolically, a task which Macmurray sets up but does not fully think through, due to the limited scope of his book.
 
 <br>
 
-#### II. Summary
+### II. Summary
 
-"The Universe in Immediate Experience"
+#### The Universe in Immediate Experience
 
 Macmurray argues that there is real difference between what he calls *immediate* and *reflective* experience, and that immediate experience always precedes reflective experience. Though understanding necessarily requires thought, experience is not so constrained. One can experience something without thinking about or understanding it. In this immediate form of experience, reality is given as a continuous, unified whole---an infinity---that Macmurray refers to as the "space-time matrix." This matrix is the site of all human action and potential, and thus experience in its primarily immediate form, and the felt knowledge produced by it, is inextricably bound to human *doing.*
 
@@ -227,7 +209,7 @@ m) Philosophy, being concerned with the whole, is an attempt to express the infi
 <br>
 
 
-"Thought as Symbolic Interpretation"
+#### Thought as Symbolic Interpretation
 
 Immediately picking up from the previous chapter, Macmurray explores the character of thought, which he describes as symbolic interpretation, and introduces his concept of *unity-pattern.*
 
@@ -372,7 +354,7 @@ m) Unity-patterns are symbolic representations of "real" unity
 <br>
 
 
-"Interpretation and Verification"
+#### Interpretation and Verification
 
 In chapter one Macmurray concerned himself with immediate experience, and in chapter two with reflective experience. Here in chapter three, Macmurray concentrates on the *return* to immediate experience (which is, for him, practical, lived experience) *from* reflective experience.
 
@@ -463,7 +445,7 @@ j) The deliberate planning of social life is the largest scale, most historicall
 <br>
 
 
-"Mathematical Thought and Mechanism"
+#### Mathematical Thought and Mechanism
 
 Macmurray goes about describing the first and most basic of unity-patterns, the mathematical or mechanical. The mathematical unity pattern views all of reality as matter, and thus as *stuff* to be used. However, since use implies cause, but the mathematical unity-pattern sees all as matter, and thus agency-less, there is no room *within* the reality of mathematics for an agent that causes or uses matter. Thus, mathematical refers outside itself while denying that there is an outside.
 
@@ -578,7 +560,7 @@ k) Mathematics is thus only valid for reality as material
 <br>
 
 
-"Biological Thought and Organism"
+#### Biological Thought and Organism
 
 If mathematical thought cannot account for the universe in its infinity, another unity-pattern is needed. Macmurray identifies the next schema as the biological, that which is concerned with the organic, with life, and thus, has some capacity for agency. But, as will be shown, organic thought still does not account for the whole of the universe.
 
@@ -725,7 +707,7 @@ q) Personality brings this difficulty into focus
 <br>
 
 
-"Psychological Thought and Personality"
+#### Psychological Thought and Personality
 
 Having demonstrated that mathematical/mechanical thought and biological/organic thought are inadequate for interpreting the universe, Macmurray enters into a discussion of the *psychological/personal* unity-pattern. Humans are not *just* machines, nor are they *just* organisms. They are *persons,* a sort of fusion and transformation of the two prior patterns.
 
@@ -886,7 +868,7 @@ l) Personality *goes beyond* mechanics and biology
 <br>
 
 
-"Logic and Life"
+#### Logic and Life
 
 In the final chapter Macmurray moves toward the logic or unity-pattern of personal life that has yet to be fully developed. This is the *beyond* that he looks for past the mechanical and organic schemes of interpretation.
 
