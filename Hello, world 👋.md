@@ -1,5 +1,5 @@
 ---
-permalink: 
+permalink: /
 ---
 
 I’m Eric, and this is my personal site. I am a Gameplay Development Director at [[Electronic Arts]], a Certified Associate in Project Management ([[Project Management Institute]], 2021), a Game Development Instructor at [[Trinity Western University]], and a game studies scholar with an M.A. in Interdisciplinary Humanities ([[Trinity Western University]], 2018) and a B.A. Hons. in English Literature and Creative Writing ([[Simon Fraser University]], 2016).
@@ -21,6 +21,7 @@ This site is written in markdown, organized with [[Obsidian]], and versioned wit
 
 <br>
 
+
 #### 🪪 hCard
 
 * Name: Eric Stein
@@ -38,8 +39,8 @@ This site is written in markdown, organized with [[Obsidian]], and versioned wit
 * Region: [[British Columbia]]
 * Country: [[Canada]]
 
-
 <br>
+
 
 #### 🔑 License
 

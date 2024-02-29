@@ -12,7 +12,7 @@ permalink: 2023/11/19/full-of-stars
 
 # Full of Stars
 
-[[2023]] / [[posting]]
+[[2023]] / [[Posting]]
 
 "Every sky is full of stars ... 'Daytime' is us closing our eyes and pretending it makes infinity go away"
 

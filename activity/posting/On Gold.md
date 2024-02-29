@@ -12,7 +12,7 @@ permalink: 2024/01/11/on-gold
 
 # On Gold
 
-[[2024]] / [[posting]]
+[[2024]] / [[Posting]]
 
 "any thorough discussion about gold will inevitably intersect technology, colonialism, war, and climate change"
 
