@@ -1,38 +1,21 @@
 ---
-layout: annotation
-category: annotations
-author: Roland Barthes
-citeAuthor: Barthes, Roland
-shortAuthor: Barthes
-translator: Richard Howard and Annette Lavers
 title: Mythologies
-subtitle:
-location: New York
-publisher: Hill and Wang
-originalDate: 1957
-publicationDate: 2012
-displayDate: 1957
-link: https://us.macmillan.com/books/9780809071944/mythologies
-abstract: "'No denunciation without its proper instrument of close analysis,' Roland Barthes wrote in his preface to Mythologies. There is no more proper instrument of analysis of our contemporary myths than this book---one of the most significant works in French theory, and one that has transformed the way readers and philosophers view the world around them. Our age is a triumph of codification. We own devices that bring the world to the command of our fingertips. We have access to boundless information and prodigious quantities of stuff. We decide to like or not, to believe or not, to buy or not. We pick and choose. We think we are free. Yet all around us, in pop culture, politics, mainstream media, and advertising, there are codes and symbols that govern our choices. They are the fabrications of consumer society. They express myths of success, well-being, or happiness. As Barthes sees it, these myths must be carefully deciphered, and debunked. What Barthes discerned in mass media, the fashion of plastic, and the politics of postcolonial France applies with equal force to today's social networks, the iPhone, and the images of 9/11. This new edition of Mythologies, complete and beautifully rendered by the Pulitzer Prize–winning poet, critic, and translator Richard Howard, is a consecration of Barthes's classic—a lesson in clairvoyance that is more relevant now than ever."
-format: Paperback
-isbn: 9780809071944
-acquisitionDate: 2016-10-03
-annotationDate: 2016-10-03
 date: 2016-10-03
+permalink: 2016/10/03/second-order-semiological-systems
 tags: philosophy school
 ---
-# Mythologies
 
-[[2016]] / [[annotations]]
-#### I. Analysis
+[[2016]] • [[Annotations]] • [[Roland Barthes]] • [[Mythologies]]
+
+### I. Analysis
 
 Barthes concerns himself with myth as a particular mode of communication or speech. Myth is of the second-order to language, the ideology over the semiology. Language means in itself, but myth means *through* language in an ideological way, simultaneously emptying the signs that it has appropriated and infusing them with its own intention, its own motivation. Myth is parasitic, distorting, arresting. At the core of Barthes thought is his notion of "degree zero" writing, writing that *speaks things, acts objects,* and *makes the world.* Mythical writing, on the other hand, writing at degrees other than zero, speaks *of* things, acts *names,* and makes nothing but itself. His goal, as a mythologist, is to return to or re-establish a language that reconciles man with reality, thus returning language and its meaning to the realm of action, which is also the realm of politics. In resistance to this aim is bourgeois society, the chief propagator of mythologies in Barthes' world, the force of which appropriates all history to the end of itself and thus erasing reality in all of its contingency and necessity, replacing it with an eternalized, naturalized image of givenness. The trappings of bourgeois culture are constructed, but it is the mythologist's task to unveil them as such. This Barthes does through the numerous essays preceding "Myth Today" and it is this, we could say, that is our task if we too are to take up the mantle of "mythologist."
 
 <br>
 
-#### II. Summary
+### II. Summary
 
-"Myth Today"
+#### Myth Today
 
 1)  Myth is a type of speech
 
@@ -421,7 +404,7 @@ Barthes concerns himself with myth as a particular mode of communication or spee
 <br>
 
 
-#### III. Critique
+### III. Critique
 
 Barthes is a dazzling thinker, and his essay "Myth Today" (to concentrate here rather than the myriad of topics that comprise the text of *Mythologies* proper) certainly does not disappoint. I agree with Barthes in most cases and find his reading of culture compelling. But there are certain aspects of his argument that trouble me, or rather, that I find less compelling than the essay overall. Myth, Barthes tells us, can appropriate all signs: "nothing can be safe from myth, myth can develop its second-order schema from any meaning" (242). Yet, in this assertion Barthes presumes to be safe, that his "writerly," "degree zero," "political" writing somehow avoids this problematic. Indeed, he does recognize that the mythologist's "speech is a metalanguage, it "acts" nothing" (271), but he seems too caught up in his own mythologies to be able to see certain outcomes of his thought that stretch beyond the binary of Conservatism and Revolution that he operates within.
 
