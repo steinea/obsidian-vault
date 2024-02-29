@@ -3,8 +3,6 @@ permalink: blog
 cssclass: clean-embeds
 ---
 
-# 📬 Blog
-
 ![[latest]]
 
 <br>
