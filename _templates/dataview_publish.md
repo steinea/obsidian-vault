@@ -5,6 +5,10 @@ const openPublishPanel = app.commands.commands["publish:view-changes"].callback;
 // Add as many filenames and queries as you'd like!
 const fileAndQuery = new Map([
   [
+	"dataview-about",
+	'LIST FROM "dataview/about" SORT file.name ASC',
+  ],
+  [
 	"dataview-activity",
 	'LIST FROM "dataview/activity" AND -"dataview/activity/playingcompleted" AND -"dataview/activity/playingmost" AND -"dataview/activity/playingnext" AND -"dataview/activity/playingnow" AND -"dataview/activity/playingshortest" AND -"dataview/activity/playingstopped" AND -"dataview/activity/playingwishlist" AND -"dataview/activity/watchingfilm" AND -"dataview/activity/watchingtelevision" SORT file.name ASC',
   ],
@@ -143,7 +147,7 @@ const fileAndQuery = new Map([
 
   [
 	"annotations",
-	'TABLE WITHOUT ID file.link AS "Annotations", date AS Date FROM "collections/annotations" SORT date DESC',
+	'TABLE WITHOUT ID file.link AS "Title", date AS Date FROM "collections/annotations" SORT date DESC',
   ],
   [
 	"bibliographies",
