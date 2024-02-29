@@ -256,11 +256,12 @@ tbody>tr>:last-child {
     display: none;
   }
 }
-Install and activate
-Copy the CSS code and save it into your vault’s .obsidian/snippets folder under the name clean-embeds.css.
 
-Restart Obsidian.
+:is(li, .HyperMD-list-line) > .internal-embed[alt*='^'] {
+  display: inline-block;
+  vertical-align: middle;
+}
 
-Enable clean-embeds under Settings → Appearance → CSS snippets.
-
-Add this to your YAML frontmatter for notes that should use clean 
+.internal-embed[alt*='^'] :is(p, ul, li) {
+  margin: 0;
+}
