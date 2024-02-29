@@ -6,7 +6,7 @@ permalink: 2022-11-22-strengths-34
 
 # CliftonStrengths 34
 
-[[2022]] / [[personality]]
+[[2022]] / [[Personality]]
 
 <https://www.gallup.com/cliftonstrengths/en/252137/home.aspx>
 
