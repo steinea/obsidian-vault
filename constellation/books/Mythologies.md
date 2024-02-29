@@ -6,7 +6,7 @@ date: 1957
 permalink: '9780809071944'
 ---
 
-[[books]] / [[Semiotics]] / [[Roland Barthes]]
+[[books]] • [[Semiotics]] • [[Roland Barthes]]
 
 Barthes, Roland. *Mythologies.* 1957. Translated by Richard Howard and Annette Lavers. New York, NY: Hill and Wang, 2012. [9780809071944](https://us.macmillan.com/books/9780809071944/mythologies).
 
