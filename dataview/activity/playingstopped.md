@@ -2,6 +2,7 @@
 
 | Incomplete Games                                                                      | Platform | Hours | Trophies | Date       |
 | ------------------------------------------------------------------------------------- | -------- | ----- | -------- | ---------- |
+| [[constellation/games/Alto's Odyssey.md\|Alto's Odyssey]]                             | Google   | 17    | 20/22    | 2024-02-29 |
 | [[constellation/games/EA SPORTS FC 24.md\|EA SPORTS FC 24]]                           | PS5      | 48    | 27/41    | 2024-02-26 |
 | [[constellation/games/The Finals.md\|The Finals]]                                     | Steam    | 1.5   | 3/50     | 2023-12-10 |
 | [[constellation/games/EA SPORTS FIFA 23.md\|EA SPORTS FIFA 23]]                       | Steam    | 34    | 24/39    | 2023-08-18 |
