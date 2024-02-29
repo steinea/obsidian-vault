@@ -1,12 +1,18 @@
 ---
 title: Alto's Odyssey
-date: 
+developer: Team Alto
+publisher: Noodlecake Studios
 platform: Google
-link: 
-duration: 11h
-trophies: 17/22
-progress: now
-permalink:
+releaseDate: 2018-02-21
+howlongtobeat: 
+difficulty: 
+trophyGuide: 
+duration: 17h
+trophies: 20/22
+progress: stopped
+link:
+date: 2024-02-29
+permalink: 2024/02/29/altos-odyssey
 ---
 
 # Alto’s Odyssey
