@@ -272,7 +272,7 @@ The jewelry of nomadic peoples, especially, “constitute traits of expression o
 
 “Metalworking, jewelry making, ornamentation, even decoration, do not form a writing, even though they have a power of abstraction that is in every way equal to that of writing” (401)
 
-*Commentator’s Note: See also [[2016-09-04-gadamer-truth-and-method]] on the “ornamental,” though a much different approach than Deleuze and Guattari.*
+*Commentator’s Note: See also [[The Ontology of the Work of Art]] on the “ornamental,” though a much different approach than Deleuze and Guattari.*
 
 “The case of *runic writing* is more troubling because its origins seem exclusively tied to jewelry, fibulas, elements of metalworking, small movable objects. The point is that in its early period runic writing had only a weak communication value and a very restricted public function. Its secret character has led many to interpret it as magical writing. Rather, it is an affective semiotic, comprising in particular: (1) signatures, as marks of possession or fabrication, and (2) short war or love messages. It constitutes a text that is ‘ornamental’ rather than scriptural, ‘an invention with little utility, half-aborted,’ a substitute writing. It only takes on the value of writing during a second period, when monumental inscriptions appear, with the Danish reform of the ninth century A.D., in connection with the State and work” (402)
 
