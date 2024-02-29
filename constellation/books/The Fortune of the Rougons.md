@@ -10,18 +10,16 @@ tags:
   - french
 ---
 
-# The Fortune of the Rougons
+[[books]] / [[Literature]] / [[Émile Zola]]
 
-[[books]] / [[Literature]] 
-
-#### Citation
+### Citation
 
 Zola, Émile. *The Fortune of the Rougons*. 1871. Translated by Brian Nelson. Oxford, UK: Oxford World's Classics, 2012. Paperback: [9780199560998](https://global.oup.com/academic/product/the-fortune-of-the-rougons-9780199560998).
 
 <br>
 
 
-#### Abstract
+### Abstract
 
 >*The Fortune of the Rougons* is the first in Zola's famous Rougon-Macquart series of novels. In it we learn how the two branches of the family came about, and the origins of the hereditary weaknesses passed down the generations. Murder, treachery, and greed are the keynotes, and just as the Empire was established through violence, the 'fortune' of the Rougons is paid for in blood. 
 >
@@ -32,6 +30,6 @@ Zola, Émile. *The Fortune of the Rougons*. 1871. Translated by Brian Nelson. Ox
 <br>
 
 
-#### Annotations
+### Annotations
 
 [[A Strange Period of Human Folly and Shame]]
