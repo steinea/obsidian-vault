@@ -1,36 +1,19 @@
 ---
-layout: annotation
-category: annotations
-author: Hans-Georg Gadamer
-citeAuthor: Gadamer, Hans-Georg
-shortAuthor: Gadamer
-translator: Joel Weinsheimer and Donald G. Marshall
-title: Truth and Method
-subtitle:
-location: London, UK
-publisher: Bloomsbury
-originalDate: 1960
-publicationDate: 2013
-displayDate: 1960
-link: https://books.google.ca/books?id=SkdMAQAAQBAJ
-abstract: "Truth and Method is a landmark work of 20th century thought which established Hans Georg-Gadamer as one of the most important philosophical voices of the 20th Century. In this book, Gadamer established the field of ‘philosophical hermeneutics': exploring the nature of knowledge, the book rejected traditional quasi-scientific approaches to establishing cultural meaning that were prevalent after the war. In arguing the ‘truth' and ‘method' acted in opposition to each other, Gadamer examined the ways in which historical and cultural circumstance fundamentally influenced human understanding. It was an approach that would become hugely influential in the humanities and social sciences and remains so to this day in the work of Jurgen Habermas and many others."
-format: Paperback
-isbn: 9781780936246
-acquisitionDate: 2016-07-18
-annotationDate: 2016-09-04
+title: The Ontology of the Work of Art
 date: 2016-09-04
-tags: philosophy school
+permalink: 2016/09/04/the-ontology-of-the-work-of-art
 ---
-# Truth and Method
 
-[[2016]] / [[annotations]]
-#### Part One: The Question of Truth as it Emerges in the Experience of Art
 
-***1 Transcending the Aesthetic Dimension***
+[[2016]] / [[Annotations]] • [[Hans-Georg Gadamer]] • [[Truth and Method]]
 
-*1.1 The Significance of the Humanist Tradition for the Human Sciences*
+# Part One: The Question of Truth as it Emerges in the Experience of Art
 
-##### 1.1.1 The Problem of Method
+## 1 Transcending the Aesthetic Dimension
+
+### 1.1 The Significance of the Humanist Tradition for the Human Sciences
+
+#### 1.1.1 The Problem of Method
 
  Human sciences = science of Geist (spirit)
 
@@ -41,9 +24,9 @@ tags: philosophy school
 <br>
 
 
-##### 1.1.2 The Guiding Concepts of Humanism
+#### 1.1.2 The Guiding Concepts of Humanism
 
-##### *1.1.2.1 Bildung (culture)*
+##### 1.1.2.1 Bildung (culture)
 
  Bildung = self-formation, education, or cultivation
 
@@ -177,7 +160,7 @@ tags: philosophy school
 
 <br>
 
-##### *1.1.2.2 Sensus Communis*
+##### 1.1.2.2 Sensus Communis
 
  Aristotle distinguishes s*ophia* (theoretical wisdom) from *phronesis*
  (practical wisdom)
@@ -263,7 +246,7 @@ tags: philosophy school
 
 <br>
 
-##### *1.1.2.3 Judgment*
+##### 1.1.2.3 Judgment
 
  The sensus communis in 18thC Germany was "decisively characterized by
  judgment"
@@ -280,7 +263,7 @@ tags: philosophy school
 
 <br>
 
-##### *1.1.2.4 Taste*
+##### 1.1.2.4 Taste
 
  The original role of the sensus communis was as "an element of social
  and moral being", but because Kant's moral imperative is detached
@@ -332,11 +315,11 @@ tags: philosophy school
 
 <br>
 
-*1.2 The Subjectivization of Aesthetics through the Kantian Critique*
+### 1.2 The Subjectivization of Aesthetics through the Kantian Critique
 
-##### 1.2.1 Kant's Doctrine of Taste and Genius
+#### 1.2.1 Kant's Doctrine of Taste and Genius
 
-##### *1.2.1.1 The Transcendental Distinctness of Taste*
+##### 1.2.1.1 The Transcendental Distinctness of Taste
 
  The *Critique of Judgment* is a "critique of critique": it asks, how
  is such judgment (i.e. taste) possible?
@@ -364,7 +347,7 @@ tags: philosophy school
 
 <br>
 
-##### *1.2.1.2 The Doctrine of Free and Dependent Beauty*
+##### 1.2.1.2 The Doctrine of Free and Dependent Beauty
 
 Free beauty = naturally beautiful, beautiful in themselves
 
@@ -380,7 +363,7 @@ Free beauty = naturally beautiful, beautiful in themselves
 
 <br>
 
-##### *1.2.1.3 The Doctrine of the Ideal of Beauty*
+##### 1.2.1.3 The Doctrine of the Ideal of Beauty
 
  It seems Gadamer is arguing that Kant's ideal of beauty (which should
  be the greet beautiful) paradoxically appeals to something beyond
@@ -395,7 +378,7 @@ Free beauty = naturally beautiful, beautiful in themselves
 
 <br>
 
-##### *1.2.1.4 The Interest Aroused by Natural and Artistic Beauty*
+##### 1.2.1.4 The Interest Aroused by Natural and Artistic Beauty
 
  "The fundamental problem that motivates Kant's aesthetics is that
  the beautiful engaged our interests"
@@ -444,7 +427,7 @@ Free beauty = naturally beautiful, beautiful in themselves
 
 <br>
 
-##### *1.2.1.5 The Relation Between Taste and Genius*
+##### 1.2.1.5 The Relation Between Taste and Genius
 
 "Kant considers that taste should prevail"
 
@@ -462,9 +445,9 @@ Free beauty = naturally beautiful, beautiful in themselves
 
 <br>
 
-##### 1.2.2 The Aesthetics of Genius and the Concept of Experience (Erlebnis)
+#### 1.2.2 The Aesthetics of Genius and the Concept of Experience (Erlebnis)
 
-##### *1.2.2.1 The Dominance of the Concept of Genius*
+##### 1.2.2.1 The Dominance of the Concept of Genius
 
 Gadamer moves to explain the change that occurred after Kant
 
@@ -496,7 +479,7 @@ Gadamer moves to explain the change that occurred after Kant
 
 <br>
 
-##### *1.2.2.2 On the History of the Word Erlebnis*
+##### 1.2.2.2 On the History of the Word Erlebnis
 
  The *verb* Erleben means "to be still alive when something happens",
  suggesting *the immediacy with which something real is grasped*
@@ -549,7 +532,7 @@ Gadamer moves to explain the change that occurred after Kant
 
 <br>
 
-##### *1.2.2.3 The Concept of Erlebnis*
+##### 1.2.2.3 The Concept of Erlebnis
 
  Dilthey's Erlebnis "contains two elements": *the* *pantheistic and
  the positivist, the experience (Erlebnis) and still more its result
@@ -730,7 +713,7 @@ Gadamer moves to explain the change that occurred after Kant
 
 <br>
 
-##### *1.2.2.4 The Limits of Erlebniskunst and the Rehabilitation of Allegory*
+##### 1.2.2.4 The Limits of Erlebniskunst and the Rehabilitation of Allegory
 
  Erlebniskunst: "art comes *from* experience" but also "art that is
  intended *to be* aesthetically experienced"
@@ -832,9 +815,9 @@ Gadamer moves to explain the change that occurred after Kant
 
 <br>
 
-*1.3 Retrieving the Question of Artistic Truth*
+### 1.3 Retrieving the Question of Artistic Truth
 
-##### 1.3.1 The Dubiousness of the Concept of Aesthetic Cultivation (Bildung)
+#### 1.3.1 The Dubiousness of the Concept of Aesthetic Cultivation (Bildung)
 
  Gadamer inquires into the historical development of the concept of
  "aesthetic consciousness"
@@ -927,7 +910,7 @@ Gadamer moves to explain the change that occurred after Kant
 
 <br>
 
-##### 1.3.2 Critique of the Abstraction Inherent in Aesthetic Consciousness
+#### 1.3.2 Critique of the Abstraction Inherent in Aesthetic Consciousness
 
  Gadamer considers the form of aesthetic differentiation in Bildung and
  its development
@@ -1094,11 +1077,11 @@ Gadamer moves to explain the change that occurred after Kant
 
 <br>
 
-***2 The Ontology of the Work of Art and its Hermeneutic Significance***
+## 2 The Ontology of the Work of Art and its Hermeneutic Significance
 
-*2.1 Play as the Clue to Ontological Explanation*
+### 2.1 Play as the Clue to Ontological Explanation
 
-##### 2.1.1 The Concept of Play
+#### 2.1.1 The Concept of Play
 
  Play is the "mode of being of the work of art itself"
 
@@ -1264,7 +1247,7 @@ Gadamer moves to explain the change that occurred after Kant
 
 <br>
 
-##### 2.1.2 Transformation Into Structure and Total Mediation
+#### 2.1.2 Transformation Into Structure and Total Mediation
 
  The "true consummation" of human play is in *being art*
 
@@ -1607,7 +1590,7 @@ Gadamer moves to explain the change that occurred after Kant
 
 <br>
 
-##### 2.1.3 The Temporality of the Aesthetic
+#### 2.1.3 The Temporality of the Aesthetic
 
  The "contemporaneity and presentness of aesthetic being is generally
  called its timelessness"
@@ -1735,7 +1718,7 @@ Gadamer moves to explain the change that occurred after Kant
 
 <br>
 
-##### 2.1.4 The Example of the Tragic
+#### 2.1.4 The Example of the Tragic
 
  "The tragic is a fundamental phenomenon, a structure of meaning that
  does not exist only, the tragic work of art in the narrower sense, but
@@ -1840,9 +1823,9 @@ Gadamer moves to explain the change that occurred after Kant
 
 <br>
 
-*2.2 Aesthetic and Hermeneutic Consequences*
+### 2.2 Aesthetic and Hermeneutic Consequences
 
-##### 2.2.1 The Ontological Valence of the Picture
+#### 2.2.1 The Ontological Valence of the Picture
 
  The "plastic arts" (sculpture, painting, architecture, etc.) seem to
  contradict the previous thesis, existing more-so in-themselves and
@@ -2055,7 +2038,7 @@ Gadamer moves to explain the change that occurred after Kant
 
 <br>
 
-##### 2.2.2 The Ontological Foundation of the Occasional and the Decorative
+#### 2.2.2 The Ontological Foundation of the Occasional and the Decorative
 
  Occasionality:
 
@@ -2368,7 +2351,7 @@ Gadamer moves to explain the change that occurred after Kant
 
 <br>
 
-##### 2.2.3 The Borderline Position of Literature
+#### 2.2.3 The Borderline Position of Literature
 
  Does this apply to literature?
 
@@ -2476,7 +2459,7 @@ Gadamer moves to explain the change that occurred after Kant
 
 <br>
 
-##### 2.2.4 Reconstruction and Integration as Hermeneutic Tasks
+#### 2.2.4 Reconstruction and Integration as Hermeneutic Tasks
 
 *The art of understanding texts is hermeneutics* (164)
 
@@ -2531,15 +2514,15 @@ Gadamer moves to explain the change that occurred after Kant
 
 <br>
 
-#### Part Two: The Extension of the Question of Truth to Understanding in the Human Sciences
+# Part Two: The Extension of the Question of Truth to Understanding in the Human Sciences
 
-***3 Historical Preparation***
+## 3 Historical Preparation
 
-*3.1 The Questionableness of Romantic Hermeneutics and its Application to the Study of History*
+### 3.1 The Questionableness of Romantic Hermeneutics and its Application to the Study of History
 
-##### 3.1.1 The Change in Hermeneutics from the Enlightenment to Romanticism
+#### 3.1.1 The Change in Hermeneutics from the Enlightenment to Romanticism
 
-##### *3.1.1.1 The Prehistory of Romantic Hermeneutics*
+##### 3.1.1.1 The Prehistory of Romantic Hermeneutics
 
  Hermeneutics developed along two paths: theological and philological
  (181)
@@ -2686,7 +2669,7 @@ Gadamer moves to explain the change that occurred after Kant
 
 <br>
 
-##### *3.1.1.2 Schleiermacher's Project of a Universal Hermeneutics*
+##### 3.1.1.2 Schleiermacher's Project of a Universal Hermeneutics
 
  **Unintelligibility** in Spinoza "motivates the detour via the
  historical"; in Chladenius "involves the art of interpretation" and is
@@ -2916,9 +2899,9 @@ Gadamer moves to explain the change that occurred after Kant
 
 <br>
 
-##### 3.1.2 The Connection Between the Historical School and Romantic Hermeneutics
+#### 3.1.2 The Connection Between the Historical School and Romantic Hermeneutics
 
-##### *3.1.2.1 The Dilemma Involved in the Ideal of Universal History*
+##### 3.1.2.1 The Dilemma Involved in the Ideal of Universal History
 
  *Universal history* is "the history of mankind as a whole" (202)
 
@@ -3013,7 +2996,7 @@ Gadamer moves to explain the change that occurred after Kant
 
 <br>
 
-##### *3.1.2.2 Ranke's Historical Worldview*
+##### 3.1.2.2 Ranke's Historical Worldview
 
  Ranke: "the links that create historical continuity are "scenes of
  freedom"" (208)
@@ -3211,7 +3194,7 @@ Gadamer moves to explain the change that occurred after Kant
 
 <br>
 
-##### *3.1.2.3 The Relation Between Historical Study and Hermeneutics in J. G. Droysen*
+##### 3.1.2.3 The Relation Between Historical Study and Hermeneutics in J. G. Droysen
 
  Droysen is more "acute" than Ranke (216)
 
@@ -3302,9 +3285,9 @@ Gadamer moves to explain the change that occurred after Kant
 
 <br>
 
-*3.2 Dilthey's Entanglement in the Aporias of Historicism*
+### 3.2 Dilthey's Entanglement in the Aporias of Historicism
 
-##### 3.2.1 From the Epistemological Problem of History to the Hermeneutic Foundation of the Human Sciences
+#### 3.2.1 From the Epistemological Problem of History to the Hermeneutic Foundation of the Human Sciences
 
  Dilthey wants to construct a "viable epistemological basis between
  historical experience and the idealistic heritage of the historical
@@ -3368,7 +3351,7 @@ Gadamer moves to explain the change that occurred after Kant
 
 <br>
 
-##### 3.2.2 The Conflict Between Science and Life-Philosophy in Dilthey's Analysis of Historical Consciousness
+#### 3.2.2 The Conflict Between Science and Life-Philosophy in Dilthey's Analysis of Historical Consciousness
 
  To do this, Dilthey has to locate knowledge within life. Because life
  is ordered toward these unities, it is coherent, and thus knowable, so
@@ -3385,9 +3368,9 @@ Gadamer moves to explain the change that occurred after Kant
 
 <br>
 
-*3.3 Overcoming the Epistemological Problem Through Phenomenological Research*
+### 3.3 Overcoming the Epistemological Problem Through Phenomenological Research
 
-##### 3.3.1 The Concept of Life in Husserl and Count Yorck
+#### 3.3.1 The Concept of Life in Husserl and Count Yorck
 
 Husserl: what is *given*? (244)
 
@@ -3440,7 +3423,7 @@ Not an objective *I* but a *life-world,* a *unified flow of experience*
 
 <br>
 
-##### 3.3.2 Heidegger's Project of a Hermeneutic Phenomenology
+#### 3.3.2 Heidegger's Project of a Hermeneutic Phenomenology
 
  Heidegger also began with "understanding in terms of life" but,
  against Husserl, he critiqued the "self-givenness of experience,"
@@ -3493,13 +3476,13 @@ Not an objective *I* but a *life-world,* a *unified flow of experience*
 
 <br>
 
-***4 Elements of a Theory of Hermeneutic Experience***
+## 4 Elements of a Theory of Hermeneutic Experience
 
-*4.1 The Elevation of the Historicity of Understanding to the Status of a Hermeneutic Principle*
+### 4.1 The Elevation of the Historicity of Understanding to the Status of a Hermeneutic Principle
 
-##### 4.1.1 The Hermeneutic Circle and the Problem of Prejudices
+#### 4.1.1 The Hermeneutic Circle and the Problem of Prejudices
 
-##### *4.1.1.1 Heidegger's Disclosure of the Fore-structure of Understanding*
+##### 4.1.1.1 Heidegger's Disclosure of the Fore-structure of Understanding
 
  Heidegger enters into the debate to "explicate the fore-structure of
  understanding" (278)
@@ -3630,7 +3613,7 @@ Not an objective *I* but a *life-world,* a *unified flow of experience*
 
 <br>
 
-##### *4.1.1.2 The Discrediting of Prejudice by the Enlightenment*
+##### 4.1.1.2 The Discrediting of Prejudice by the Enlightenment
 
  The Enlightenment saw two basic types of prejudice: "due to human
  authority" and "due to overhastiness" (284)
@@ -3686,9 +3669,9 @@ Not an objective *I* but a *life-world,* a *unified flow of experience*
 
 <br>
 
-##### 4.1.2 Prejudices as Conditions of Understanding
+#### 4.1.2 Prejudices as Conditions of Understanding
 
-##### *4.1.2.1 The Rehabilitation of Authority and Tradition*
+##### 4.1.2.1 The Rehabilitation of Authority and Tradition
 
  "What appears to be a limiting prejudice from the viewpoint of the
  absolute self-construction of reason in fact belongs to historical
@@ -3761,7 +3744,7 @@ Not an objective *I* but a *life-world,* a *unified flow of experience*
 
 <br>
 
-##### *4.1.2.2 The Example of the Classical*
+##### 4.1.2.2 The Example of the Classical
 
  "The classical is something that resists historical criticism because
  its historical dominion, **the binding power of the validity that is
@@ -3805,7 +3788,7 @@ Not an objective *I* but a *life-world,* a *unified flow of experience*
 
 <br>
 
-##### *4.1.2.3 The Hermeneutic Significance of Temporal Distance*
+##### 4.1.2.3 The Hermeneutic Significance of Temporal Distance
 
  Recall the "hermeneutical rule that we must understand **the whole in
  terms of the detail** and **the detail in terms of the whole**" (302)
@@ -3938,7 +3921,7 @@ Not an objective *I* but a *life-world,* a *unified flow of experience*
 
 <br>
 
-##### *4.1.2.4 The Principle of History of Effect (Wirkungsgeschichte)*
+##### 4.1.2.4 The Principle of History of Effect (Wirkungsgeschichte)
 
  "If we are trying to understand a historical phenomenon from the
  historical distance that is characteristic of our hermeneutical
@@ -4058,9 +4041,9 @@ Not an objective *I* but a *life-world,* a *unified flow of experience*
 
 <br>
 
-*4.2 The Recovery of the Fundamental Hermeneutic Problem*
+### 4.2 The Recovery of the Fundamental Hermeneutic Problem
 
-##### 4.2.1 The Hermeneutic Problem of Application
+#### 4.2.1 The Hermeneutic Problem of Application
 
  Early hermeneutics is *tripartite:* 1) **subtilitas intelligendi**
  (understanding), 2) **subtilitas explicandi** (interpretation), and 3)
@@ -4134,7 +4117,7 @@ Not an objective *I* but a *life-world,* a *unified flow of experience*
 
 <br>
 
-##### 4.2.2 The Hermeneutic Relevance of Aristotle
+#### 4.2.2 The Hermeneutic Relevance of Aristotle
 
  Since we are now concerned with application, we find that "the
  problem, logically speaking, concerns the relationship between the
@@ -4326,7 +4309,7 @@ Not an objective *I* but a *life-world,* a *unified flow of experience*
 
 <br>
 
-##### 4.2.3 The Exemplary Significance of Legal Hermeneutics
+#### 4.2.3 The Exemplary Significance of Legal Hermeneutics
 
  Legal hermeneutics is considered to be a "practical measure filling a
  kind of gap in the system of legal dogmatics" (334)
@@ -4435,9 +4418,9 @@ Not an objective *I* but a *life-world,* a *unified flow of experience*
 
 <br>
 
-*4.3 Analysis of Historically Effected Consciousness*
+### 4.3 Analysis of Historically Effected Consciousness
 
-##### 4.3.1 The Limitations of Reflective Philosophy
+#### 4.3.1 The Limitations of Reflective Philosophy
 
 Knowledge and effect "belong together"---how? (350)
 
@@ -4492,7 +4475,7 @@ Knowledge and effect "belong together"---how? (350)
 
 <br>
 
-##### 4.3.2 The Concept of Experience (Erfahrung) and the Essence of the Hermeneutic Experience
+#### 4.3.2 The Concept of Experience (Erfahrung) and the Essence of the Hermeneutic Experience
 
  Gadamer shares with Hegel that the "historical activity of the mind"
  (for Gadamer, HEC), is "an *experience* that experiences reality and
@@ -4635,9 +4618,9 @@ Knowledge and effect "belong together"---how? (350)
 
 <br>
 
-##### 4.3.3 The Hermeneutic Priority of the Question
+#### 4.3.3 The Hermeneutic Priority of the Question
 
-##### *4.3.3.1 The Model of Platonic Dialectic*
+##### 4.3.3.1 The Model of Platonic Dialectic
 
  The readiness of HEC indicates the "*logical structure of openness*
  that characterizes hermeneutical consciousness" (370)
@@ -4739,7 +4722,7 @@ Knowledge and effect "belong together"---how? (350)
 
 <br>
 
-##### *4.3.3.2 The Logic of Question and Answer*
+##### 4.3.3.2 The Logic of Question and Answer
 
  So, the "hermeneutic phenomenon ... implies the **primacy of
  dialogue** and the **structure of question and answer**" (378)
@@ -4835,11 +4818,11 @@ Knowledge and effect "belong together"---how? (350)
 
 <br>
 
-#### Part Three: The Ontological Shift of Hermeneutics Guided by Language
+# Part Three: The Ontological Shift of Hermeneutics Guided by Language
 
-***5 Language and Hermeneutics***
+## 5 Language and Hermeneutics
 
-*5.1 Language as the Medium of Hermeneutic Experience*
+### 5.1 Language as the Medium of Hermeneutic Experience
 
  "the more genuine a conversation is, the less its conduct lies within
  the will of either partner ... we fall into conversation ...
@@ -4901,7 +4884,7 @@ Knowledge and effect "belong together"---how? (350)
 
 <br>
 
-##### 5.1.1 Language as Determination of the Hermeneutic Object
+#### 5.1.1 Language as Determination of the Hermeneutic Object
 
  *Linguistic tradition is tradition in the proper sense of the
  word---i.e., something handed down* ... *What has come down to us by
@@ -4959,7 +4942,7 @@ Knowledge and effect "belong together"---how? (350)
 
 <br>
 
-##### 5.1.2 Language as Determination of the Hermeneutic Act
+#### 5.1.2 Language as Determination of the Hermeneutic Act
 
  "understanding itself has a fundamental connection with language"
  (414)
@@ -5042,9 +5025,9 @@ Knowledge and effect "belong together"---how? (350)
 
 <br>
 
-*5.2 The Development of the Concept of Language in the History of Western Thought*
+### 5.2 The Development of the Concept of Language in the History of Western Thought
 
-##### 5.2.1 Language and Logos
+#### 5.2.1 Language and Logos
 
  The Greek's began with the "intimate unity of word and thing,"
  considering the "true name" of a thing to be "part of the bearer of
@@ -5257,7 +5240,7 @@ Knowledge and effect "belong together"---how? (350)
 
 <br>
 
-##### 5.2.2 Language and Verbum
+#### 5.2.2 Language and Verbum
 
  *Incarnation is not embodiment* (436)
 
@@ -5453,7 +5436,7 @@ Knowledge and effect "belong together"---how? (350)
 
 <br>
 
-##### 5.2.3 Language and Concept Formation
+#### 5.2.3 Language and Concept Formation
 
  "natural concept formation ... often takes place as a result of
  accidents and relations" (445)
@@ -5615,9 +5598,9 @@ Knowledge and effect "belong together"---how? (350)
 
 <br>
 
-*5.3 Language as Horizon of a Hermeneutic Ontology*
+### 5.3 Language as Horizon of a Hermeneutic Ontology
 
-##### 5.3.1 Language as Experience of the World
+#### 5.3.1 Language as Experience of the World
 
  These various ways of thinking about language "are remote from the
  modern philosophy and science of language" (455)
@@ -5836,7 +5819,7 @@ Knowledge and effect "belong together"---how? (350)
 
 <br>
 
-##### 5.3.2 Language as Medium and its Speculative Structure
+#### 5.3.2 Language as Medium and its Speculative Structure
 
  "That human experience of the world is linguistic in nature was the
  thread underlying Greek metaphysics in its thinking about being since
@@ -6098,7 +6081,7 @@ Knowledge and effect "belong together"---how? (350)
 
 <br>
 
-##### 5.3.3 The Universal Aspect of Hermeneutics
+#### 5.3.3 The Universal Aspect of Hermeneutics
 
  **Language is a medium where I and world meet** or, rather, manifest
  their original belonging together* (490)
