@@ -23,6 +23,6 @@ tags: historical fiction
 ---
 # Wolf Hall
 
-[[2023]] / [[annotations]]
+[[2023]] / [[Annotations]]
 
 Annotation transcription forthcoming...
