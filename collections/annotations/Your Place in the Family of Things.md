@@ -1,31 +1,12 @@
 ---
-layout: annotation
-category: annotations
-author: Mary Oliver
-citeAuthor: Oliver, Mary
-shortAuthor: Oliver
-translator:
-title: Owls and Other Fantasies
-subtitle: Poems and Essays
-location: Boston, MA
-publisher: Beacon Press
-originalDate:
-publicationDate: 2003
-displayDate: 2003
-link: http://www.beacon.org/Owls-and-Other-Fantasies-P387.aspx
-abstract: "Within these pages Mary Oliver collects twenty-six of her poems about the birds that have been such an important part of her life-hawks, hummingbirds, and herons; kingfishers, catbirds, and crows; swans, swallows and, of course, the snowy owl, among a dozen others-including ten poems that have never before been collected. She adds two beautifully crafted essays, “Owls,” selected for the Best American Essays series, and “Bird,” a new essay that will surely take its place among the classics of the genre. In the words of the poet Stanley Kunitz, “Mary Oliver’s poetry is fine and deep; it reads like a blessing. Her special gift is to connect us with our sources in the natural world, its beauties and terrors and mysteries and consolations.”"
-format: Paperback
-isbn: 9780807068687
-acquisitionDate: 2018-07-28
-annotationDate: 2018-08-01
+title: To Pay Attention
 date: 2018-08-01
-tags: poetry nature
+permalink: 2018/08/01/your-place-in-the-family-of-things
 ---
-# Owls and Other Fantasies
 
-[[2018]] / [[annotations]]
+[[2018]] • [[Annotations]] • [[Mary Oliver]] • [[Owls and Other Fantasies]]
 
-*Wild Geese*
+#### Wild Geese
 
 "You only have to let the soft animal of your body / love what it loves" (1)
 
@@ -34,7 +15,7 @@ tags: poetry nature
 <br>
 
 
-*The Dipper*
+#### The Dipper
 
 "the world is full of leaves and feathers, / and comfort, and instruction" (3)
 
@@ -43,7 +24,7 @@ tags: poetry nature
 <br>
 
 
-*Spring*
+#### Spring
 
 "How lightly, altogether, they accept / the great task, of carrying life / forward!" (4)
 
@@ -52,7 +33,7 @@ tags: poetry nature
 <br>
 
 
-*Owls*
+#### Owls
 
 "a stutter of dark lightning" (14)
 
@@ -73,14 +54,14 @@ tags: poetry nature
 <br>
 
 
-*Hawk*
+#### Hawk
 
 "this is not something / of the red fire, this is / heaven's fistful / of death and destruction" (20)
 
 <br>
 
 
-*The Kingfisher*
+#### The Kingfisher
 
 "this is / the prettiest world---so long as you don't mind / a little dying" (23)
 
@@ -89,21 +70,21 @@ tags: poetry nature
 <br>
 
 
-*Herons in Winter in the Frozen Marsh*
+#### Herons in Winter in the Frozen Marsh
 
 "mired in nature" (24)
 
 <br>
 
 
-*Yes! No!*
+#### Yes! No!
 
 "To pay attention, this is our endless and proper work" (27)
 
 <br>
 
 
-*Catbird*
+#### Catbird
 
 "He picks his pond, and the soft thicket of his world" (36)
 
@@ -114,14 +95,14 @@ tags: poetry nature
 <br>
 
 
-*Little Owl Who Lives in the Orchard*
+#### Little Owl Who Lives in the Orchard
 
 "it's not size but surge that tells us / when we're in touch with something real" (38)
 
 <br>
 
 
-*Bird*
+#### Bird
 
 "Injured gulls are common; nature's maw receives them again implacably; almost never is a rescue justified by a return to health and freedom. And this gull was close to that deep maw" (41)
 
@@ -130,14 +111,14 @@ tags: poetry nature
 <br>
 
 
-*Crow*
+#### Crow
 
 "who has seen yet anything cleaner, bolder / more gleaming, more certain of its philosophy / than the eye he turns back" (53)
 
 <br>
 
 
-*White Owl Flies Into and Out of the Field*
+#### White Owl Flies Into and Out of the Field
 
 "maybe death / isn't darkness, after all, / but so much light / wrapping itself around us---" (55)
 
@@ -146,7 +127,7 @@ tags: poetry nature
 <br>
 
 
-*Starlings in Winter*
+#### Starlings in Winter
 
 "only the silent confirmation / that they are this notable thing" (56)
 
@@ -155,7 +136,7 @@ tags: poetry nature
 <br>
 
 
-*Backyard*
+#### Backyard
 
 "I had not time to haul out all / the dead stuff" (65)
 
