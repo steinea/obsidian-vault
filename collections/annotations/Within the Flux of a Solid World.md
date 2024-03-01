@@ -1,7 +1,7 @@
 ---
-title: The Philosophy of Organism
+title: Within the Flux of a Solid World
 date: 2020-07-21
-permalink: 2020/07/21/the-philosophy-of-organism
+permalink: 2020/07/21/within-the-flux-of-a-solid-world
 ---
 
 [[2020]] • [[Annotations]] • [[Alfred North Whitehead]] • [[Process and Reality]]

@@ -23,7 +23,7 @@ tags: philosophy
 ---
 # Philosophies of Difference
 
-[[2020]] / [[annotations]]
+[[2020]] / [[Annotations]]
 
 ***Translator's Introduction (pp. vi-xii)***
 

@@ -21,4 +21,4 @@ Whitehead, Alfred North. *Process and Reality: An Essay in Cosmology.* 1927. New
 
 ### Annotation
 
-[[The Philosophy of Organism]]
+[[Within the Flux of a Solid World]]
