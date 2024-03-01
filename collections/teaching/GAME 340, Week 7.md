@@ -276,7 +276,7 @@ The jewelry of nomadic peoples, especially, “constitute traits of expression o
 
 “The case of *runic writing* is more troubling because its origins seem exclusively tied to jewelry, fibulas, elements of metalworking, small movable objects. The point is that in its early period runic writing had only a weak communication value and a very restricted public function. Its secret character has led many to interpret it as magical writing. Rather, it is an affective semiotic, comprising in particular: (1) signatures, as marks of possession or fabrication, and (2) short war or love messages. It constitutes a text that is ‘ornamental’ rather than scriptural, ‘an invention with little utility, half-aborted,’ a substitute writing. It only takes on the value of writing during a second period, when monumental inscriptions appear, with the Danish reform of the ninth century A.D., in connection with the State and work” (402)
 
-*Commentator’s Note: See [[2022-11-09-manco-blood-of-the-celts]] on Ogham, statues, inscriptions, etc., in Celtic cultures, Beaker culture (to link to the note above, and next time).*
+*Commentator’s Note: See [[A Web of Migration]] on Ogham, statues, inscriptions, etc., in Celtic cultures, Beaker culture (to link to the note above, and next time).*
 
 “A worker-soldier, weapon-tool, sentiment-affect affinity marks the right time, however fleeting, for revolutions and popular wars. There is a schizophrenic taste for the tool that moves it away from work and toward free action, a schizophrenic taste for the weapon that turns it into a means for peace, for obtaining peace. A counterattack and a resistance simultaneously. Everything is ambiguous” (403)
 
