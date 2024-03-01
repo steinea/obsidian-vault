@@ -1,44 +1,26 @@
 ---
-layout: annotation
-category: annotations
-author: Homi K. Bhabha
-citeAuthor: Bhabha, Homi K.
-shortAuthor: Bhabha
-translator:
-title: The Location of Culture
-subtitle:
-location: London, EN
-publisher: Routledge
-originalDate: 1994
-publicationDate: 2004
-displayDate: 1994
-link: https://www.routledge.com/The-Location-of-Culture/Bhabha/p/book/9780415336390
-abstract: "Rethinking questions of identity, social agency and national affiliation, Bhabha provides a working, if controversial, theory of cultural hybridity - one that goes far beyond previous attempts by others. In The Location of Culture, he uses concepts such as mimicry, interstice, hybridity, and liminality to argue that cultural production is always most productive where it is most ambivalent. Speaking in a voice that combines intellectual ease with the belief that theory itself can contribute to practical political change, Bhabha has become one of the leading post-colonial theorists of this era."
-format: Paperback
-isbn: 9780415336390
-acquisitionDate: 2016-11-21
-annotationDate: 2016-11-21
+title: How Newness Enters the World
 date: 2016-11-21
-tags: philosophy school
+permalink: 2016/11/21/how-newness-enters-the-world
 ---
-# The Location of Culture
 
-[[2016]] / [[annotations]]
-#### I. Analysis
+[[2016]] • [[Annotations]] • [[Homi K. Bhabha]] • [[The Location of Culture]]
+
+### I. Analysis
 
 Central to Bhabha's argument is the *ambivalence* of selfhood, which is a result of the *hybridity* caused by cultural *difference.* There is no single origin, no untainted history, no pure self-presentation. There is always mixing, the origin not a point but a field, history a network of contingencies, the self continually performed in relation with other, different selves---this is the hybridity which produces Bhabha's ambivalence. This ambivalence is the *splitting* of the colonial subject, which we can explain simply here as the gap between the double subject, the individual as a *subject* of the state who is also a *subject* possessed of agency and complexity. Indeed, because the colonial subject is always hybrid there is always *slippage* between the two subjectivities. The state must reduce its subjects to *one or the other---*colonist or colonized, citizen or criminal, friend or stranger---but the hybrid/different/ambivalent subject can be reduced to "*neither the One \... nor the Other \... but something else besides*" (41). The opening up of this *third space* challenges both the establishment, as well as the totalizing dialectic of Marxist resistance, allowing for a plurality of differences to be *enunciated* by a plurality of people. This enunciation (*v.*) "*in actu*" (326) challenges the enunciation (*n., énoncé*) "*in situ*" (326), and is, as such, a performative translation of culture that "continually tells, or 'tolls' the different times and spaces between cultural authority and its performative practices" (326). It is the voice in action and in difference that opens the world to *newness.*
 
 <br>
 
-#### II. Summary
+### II. Summary
 
-***Preface***
+#### Preface
 
 Bhabha is concerned, in *The Location of Culture,* with the "enigma of authority" and those texts or forms of text that form "an *oblique* or alien relation to the forces of centering" that authority carries out (xi), those which are "off-center \... passed by \... dormant or unread" (xi). Bhabha wants to "make graphic what it means to survive, to produce, to labor, and to create, within a world-system whose major economic impulses and cultural investments are pointed in a direction away from you, your country or your people" (xi). In the following pages Bhabha explores the "culture of survival," the "hybrid forms of life and art" that emerge in response to colonialism (xiii). He does so, in two ways, through a "vernacular cosmopolitanism" (xvi) and through Balibar's "right to difference in equality" (xvii), "standing" *unsatisfied* (xx-xxi) with the current state of things. Bhabha sees a "political responsibility" for his work, a responsibility to the "right to narrate" (xxi) of those who have been excluded from the conversation. And so, Bhabha writes: in "dialogue \... your personhood cannot be denied. In another's country that is also your own, your person divides, and in following the forked path you encounter yourself in a double movement \... once as a stranger, and then as friend" (xxv). In this phrase Bhabha articulates his concept of *splitting* more clearly than almost anywhere else in the text, and it is this definition which we must keep in mind as we move forward.
 
 <br>
 
-***Introduction***
+#### Introduction
 
 Bhabha begins his chapter with an epigraph from Heidegger: "the boundary is that from which *something begins its presencing*" (Heidegger, 'Building, dwelling, thinking,' in Bhabha 1). There are echoes of de Certeau in this, *frontiers and bridges*, and this question of the border and its beyond will be of great importance to Bhabha here, and throughout the rest of the text.
 
@@ -52,7 +34,7 @@ Art plays a role in culture too. Following Levinas, Bhabha argues that art, the 
 
 <br>
 
-***Chapter 1: The Commitment to Theory***
+#### Chapter 1: The Commitment to Theory
 
 This first chapter is Bhabha's defense of theory. Essentially, Bhabha argues that theory is not "necessarily the elite language of the socially and culturally privileged" (28), but that it can be a real instrument for change. Bhabha does not want, however, to fall into the "totalizing Utopian vision of Being and History that seeks to transcend the contradictions and ambivalences that constitute the very structure of human subjectivity and its systems of cultural representation" (29).
 
@@ -72,7 +54,7 @@ The Third Space through which it moves is necessary but "unrepresentable in itse
 
 <br>
 
-***Chapter 2: Interrogating Identity***
+#### Chapter 2: Interrogating Identity
 
 The writing of difference emphasizes the *normalcy* of the "state of emergency," which is "also always a state of *emergence*" (59). Colonialism "alienates the enlightenment idea of 'Man'" (59), because man is not singular in his origin but is hybrid, and "challenges the transparency of social reality, as a pre-given idea of human knowledge" (59), because the stability of the social is the exception, not the rule.
 
@@ -140,7 +122,7 @@ Some problems remain:
 
 <br>
 
-***Chapter 3: The Other Question***
+#### Chapter 3: The Other Question
 
 Colonial discourse depends on "the concept of 'fixity' in the ideological construction of otherness" (96). And yet, it is "the force of ambivalence that gives the colonial stereotype its currency" (95). The stereotype "must always be in *excess* of \..." (95). This is the *productivity* of the stereotype. It is "that 'otherness' which is at once an object of desire and derision, an articulation of difference contained within the fantasy of origin and identity" (96).
 
@@ -162,7 +144,7 @@ In this imag(in)ing of identity, skin is "the most visible of fetishes" (112). S
 
 <br>
 
-***Chapter 4: Of Mimicry and Man***
+#### Chapter 4: Of Mimicry and Man
 
 Bhabha begins with an epigraph from Lacan's 'The line and light' from *Four Fundamental Concepts:* "\... The effect of mimicry is camouflage \..." (121).
 
@@ -184,7 +166,7 @@ This "form of *resemblance,*" in that it reflects *in part* (metonymically) the 
 
 <br>
 
-***Chapter 5: Sly Civility***
+#### Chapter 5: Sly Civility
 
 "If the spirit of the Western nation has been symbolized in epic and anthem, voiced by a 'unanimous people assembled in the self-presence of its speech', then the sign of colonial government is cast in a lower key, caught in the irredeemable act of *writing*" (133).
 
@@ -202,7 +184,7 @@ This resistance creates *uncertainty.* Derrida's "Tell us exactly what happened"
 
 <br>
 
-***Chapter 6: Signs Taken for Wonders***
+#### Chapter 6: Signs Taken for Wonders
 
 Our "myths of origin" are "memorable for \[their\] balance between epiphany and enunciation" (145). The "texts of the civilizing mission"---*books*---work in this way (149). "The discovery of the book installs the sign of appropriate representation \... creat\[ing\] the conditions for a beginning, a practice of history and narrative" (149).
 
@@ -230,7 +212,7 @@ Thus, the "*presence* of the book has acceded to the logic of the signifier and 
 
 <br>
 
-***Chapter 11: How Newness Enters the World***
+#### Chapter 11: How Newness Enters the World
 
 Citing Benjamin: "Translation passes through *continua* of transformation, not abstract ideas of identity and similarity" (303).
 
@@ -276,7 +258,7 @@ So, history's "*intermediacy* poses the future, once again, as an open question.
 
 <br>
 
-***Conclusion***
+#### Conclusion
 
 The colonial Other is "'overlooked'---in the double sense of social surveillance and psychic disavowal---and, at the same time, overdetermined---psychically projected, made stereotypical and symptomatic" (339).
 
@@ -318,7 +300,7 @@ This requires an emphasis on "'the processual quality \[of meaning\] \... not ma
 
 <br>
 
-#### III. Critique
+### III. Critique
 
 To read Bhabha, one must enter into the text with an awareness, at least, of Derrida and Lacan. Many phrases, even whole paragraphs, are completely impenetrable without reference to these two thinkers. Bhabha's reading method is distinctly deconstructive, and always carried out with a psychoanalytic bent.
 
