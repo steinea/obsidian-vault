@@ -264,7 +264,7 @@ Endnote 80: “Treatises on martial arts remind us that the Ways, which are stil
 
 “For there to be work, there must be a capture of activity by the state apparatus, and a semiotization of activity by writing. Hence the affinity between the assemblages signs-tools, and signs of writing-organization of work” (401)
 
-*Commentator’s Note: Compare [[2016-10-31-certeau-practice-of-everyday-life]] on the “scriptural economy.”*
+*Commentator’s Note: Compare [[Uses and Tactics]] on the “scriptural economy.”*
 
 “Entirely different is the case of the weapon, which is in an essential relation with jewelry” (401)
 
