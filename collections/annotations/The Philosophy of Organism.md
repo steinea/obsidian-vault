@@ -1,29 +1,11 @@
 ---
-layout: annotation
-category: annotations
-author: Alfred North Whitehead
-citeAuthor: Whitehead, Alfred North
-shortAuthor: Whitehead
-translator:
-title: Process and Reality
-subtitle: An Essay in Cosmology
-location: New York, NY
-publisher: The Free Press
-originalDate: 1927
-publicationDate: 1978
-displayDate: 1927
-link: https://www.simonandschuster.com/books/Process-and-Reality/Alfred-North-Whitehead/9780029345702
-abstract: "One of the major philosophical texts of the 20th century, Process and Reality is based on Alfred North Whitehead’s influential lectures that he delivered at the University of Edinburgh in the 1920s on process philosophy. Whitehead’s master work in philsophy, Process and Reality propounds a system of speculative philosophy, known as process philosophy, in which the various elements of reality into a consistent relation to each other. It is also an exploration of some of the preeminent thinkers of the seventeenth and eighteenth centuries, such as Descartes, Newton, Locke, and Kant. The ultimate edition of Whitehead’s magnum opus, Process and Reality is a standard reference for scholars of all backgrounds."
-format: Kindle
-isbn: 9780029345702
-acquisitionDate: 2020-07-21
-annotationDate: 2020-07-21
+title: The Philosophy of Organism
 date: 2020-07-21
-tags: philosophy
+permalink: 2020/07/21/the-philosophy-of-organism
 ---
-# Process and Reality
 
-[[2020]] / [[annotations]]
+[[2020]] • [[Annotations]] • [[Alfred North Whitehead]] • [[Process and Reality]]
+
 #### Preface
 
 "These lectures are based upon a recurrence to that phase of philosophic thought which began with Descartes and ended with Hume. The philosophic scheme which they endeavour to explain is termed the **'Philosophy of Organism'**" (loc. 160)
@@ -99,7 +81,7 @@ Whitehead then makes a list of repudiations of "prevalent habits of thought":
 
 #### Part 1
 
-***Chapter 1: Speculative Philosophy***
+##### Chapter 1: Speculative Philosophy
 
 "This course of lectures is designed as an essay in Speculative Philosophy" (loc. 547)
 
