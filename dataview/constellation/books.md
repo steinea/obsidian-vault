@@ -17,6 +17,7 @@
 | [[constellation/books/Owls and Other Fantasies.md\|Owls and Other Fantasies]]                                                               | Oliver, Mary                                                  | 2003 |
 | [[constellation/books/Interpreting the Universe.md\|Interpreting the Universe]]                                                             | Macmurray, John                                               | 1933 |
 | [[constellation/books/Mathematics and Reality.md\|Mathematics and Reality]]                                                                 | Leng, Mar                                                     | 2013 |
+| [[constellation/books/Philosophies of Difference.md\|Philosophies of Difference]]                                                           | Laruelle, François                                            | 1986 |
 | [[constellation/books/Because Without Cause.md\|Because Without Cause]]                                                                     | Lange, Marc                                                   | 2016 |
 | [[constellation/books/Coin-Operated Americans.md\|Coin-Operated Americans]]                                                                 | Kocurek, Carly A.                                             | 2015 |
 | [[constellation/books/The Formation of Gaming Culture.md\|The Formation of Gaming Culture]]                                                 | Kirkpatrick, Graeme                                           | 2015 |

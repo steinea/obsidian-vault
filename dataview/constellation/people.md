@@ -13,6 +13,7 @@
 | [[constellation/people/Élie Faure.md\|Élie Faure]]                         |
 | [[constellation/people/Elinor Ostrom.md\|Elinor Ostrom]]                   |
 | [[constellation/people/Émile Zola.md\|Émile Zola]]                         |
+| [[constellation/people/François Laruelle.md\|François Laruelle]]           |
 | [[constellation/people/Franz Brentano.md\|Franz Brentano]]                 |
 | [[constellation/people/Fumihiko Yasuda.md\|Fumihiko Yasuda]]               |
 | [[constellation/people/Fumito Ueda.md\|Fumito Ueda]]                       |

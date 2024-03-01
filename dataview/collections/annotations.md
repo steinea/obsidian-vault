@@ -25,8 +25,8 @@
 | [[collections/annotations/2021-08-01-asimov-foundation.md\|2021-08-01-asimov-foundation]]                                     | 2021-08-01 |
 | [[collections/annotations/2020-12-15-laruelle-theory-of-identities.md\|2020-12-15-laruelle-theory-of-identities]]             | 2020-12-15 |
 | [[collections/annotations/2020-08-17-laruelle-ordinary-man.md\|2020-08-17-laruelle-ordinary-man]]                             | 2020-08-17 |
-| [[collections/annotations/2020-07-21-laruelle-philosophies-of-difference.md\|2020-07-21-laruelle-philosophies-of-difference]] | 2020-07-21 |
 | [[collections/annotations/Within the Flux of a Solid World.md\|Within the Flux of a Solid World]]                             | 2020-07-21 |
+| [[collections/annotations/The Syntax of Difference.md\|The Syntax of Difference]]                                             | 2020-07-21 |
 | [[collections/annotations/Your Place in the Family of Things.md\|Your Place in the Family of Things]]                         | 2018-08-01 |
 | [[collections/annotations/How Newness Enters the World.md\|How Newness Enters the World]]                                     | 2016-11-21 |
 | [[collections/annotations/Uses and Tactics.md\|Uses and Tactics]]                                                             | 2016-10-31 |
