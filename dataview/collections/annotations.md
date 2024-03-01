@@ -26,10 +26,10 @@
 | [[collections/annotations/2020-12-15-laruelle-theory-of-identities.md\|2020-12-15-laruelle-theory-of-identities]]             | 2020-12-15 |
 | [[collections/annotations/2020-08-17-laruelle-ordinary-man.md\|2020-08-17-laruelle-ordinary-man]]                             | 2020-08-17 |
 | [[collections/annotations/2020-07-21-laruelle-philosophies-of-difference.md\|2020-07-21-laruelle-philosophies-of-difference]] | 2020-07-21 |
-| [[collections/annotations/2020-07-21-whitehead-process-and-reality.md\|2020-07-21-whitehead-process-and-reality]]             | 2020-07-21 |
-| [[collections/annotations/2018-08-01-oliver-owls-and-other-fantasies.md\|2018-08-01-oliver-owls-and-other-fantasies]]         | 2018-08-01 |
-| [[collections/annotations/2016-11-21-bhabha-the-location-of-culture.md\|2016-11-21-bhabha-the-location-of-culture]]           | 2016-11-21 |
-| [[collections/annotations/2016-10-31-certeau-practice-of-everyday-life.md\|2016-10-31-certeau-practice-of-everyday-life]]     | 2016-10-31 |
+| [[collections/annotations/The Philosophy of Organism.md\|The Philosophy of Organism]]                                         | 2020-07-21 |
+| [[collections/annotations/Your Place in the Family of Things.md\|Your Place in the Family of Things]]                         | 2018-08-01 |
+| [[collections/annotations/How Newness Enters the World.md\|How Newness Enters the World]]                                     | 2016-11-21 |
+| [[collections/annotations/Uses and Tactics.md\|Uses and Tactics]]                                                             | 2016-10-31 |
 | [[collections/annotations/We Know More Than We Can Tell.md\|We Know More Than We Can Tell]]                                   | 2016-10-26 |
 | [[collections/annotations/Reality Wears the Mask of a Meaning.md\|Reality Wears the Mask of a Meaning]]                       | 2016-10-17 |
 | [[collections/annotations/Second-Order Semiological Systems.md\|Second-Order Semiological Systems]]                           | 2016-10-03 |

@@ -3,6 +3,7 @@
 | Books                                                                                                                                       | Author                                                        | Date |
 | ------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------- | ---- |
 | [[constellation/books/The Fortune of the Rougons.md\|The Fortune of the Rougons]]                                                           | Zola, Émile                                                   | 1871 |
+| [[constellation/books/Process and Reality.md\|Process and Reality]]                                                                         | Whitehead, Alfred North                                       | 1927 |
 | [[constellation/books/The Content of the Form.md\|The Content of the Form]]                                                                 | White, Hayden                                                 | 1987 |
 | [[constellation/books/Shadows of Syntax.md\|Shadows of Syntax]]                                                                             | Warren, John                                                  | 2021 |
 | [[constellation/books/Kierkegaardian Studies.md\|Kierkegaardian Studies]]                                                                   | Wahl, Jean                                                    | 1938 |
@@ -13,6 +14,7 @@
 | [[constellation/books/Who We Are and How We Got Here.md\|Who We Are and How We Got Here]]                                                   | Reich, David                                                  | 2018 |
 | [[constellation/books/The Tacit Dimension.md\|The Tacit Dimension]]                                                                         | Polanyi, Michael                                              | 1966 |
 | [[constellation/books/Gamer Trouble.md\|Gamer Trouble]]                                                                                     | Phillips, Amanda                                              | 2020 |
+| [[constellation/books/Owls and Other Fantasies.md\|Owls and Other Fantasies]]                                                               | Oliver, Mary                                                  | 2003 |
 | [[constellation/books/Interpreting the Universe.md\|Interpreting the Universe]]                                                             | Macmurray, John                                               | 1933 |
 | [[constellation/books/Mathematics and Reality.md\|Mathematics and Reality]]                                                                 | Leng, Mar                                                     | 2013 |
 | [[constellation/books/Because Without Cause.md\|Because Without Cause]]                                                                     | Lange, Marc                                                   | 2016 |
@@ -27,12 +29,14 @@
 | [[constellation/books/Ptolemy's Philosophy.md\|Ptolemy's Philosophy]]                                                                       | Feke, Jacqueline                                              | 2018 |
 | [[constellation/books/Deleuze and the History of Mathematics.md\|Deleuze and the History of Mathematics]]                                   | Duffy, Simon                                                  | 2013 |
 | [[constellation/books/My Tiny Life.md\|My Tiny Life]]                                                                                       | Dibbell, Julian                                               | 1999 |
+| [[constellation/books/The Practice of Everyday Life.md\|The Practice of Everyday Life]]                                                     | de Certeau, Michel                                            | 1974 |
 | [[constellation/books/Mathematics and Its Applications.md\|Mathematics and Its Applications]]                                               | Da Silva, Jairo José                                          | 2017 |
 | [[constellation/books/Gaming Sexism.md\|Gaming Sexism]]                                                                                     | Cote, Amanda C.                                               | 2020 |
 | [[constellation/books/Towards a Real Philosophy of Mathematics.md\|Towards a Real Philosophy of Mathematics]]                               | Corfield, David                                               | 2009 |
 | [[constellation/books/A Brief History of the Human Race.md\|A Brief History of the Human Race]]                                             | Cook, Michael                                                 | 2003 |
 | [[constellation/books/Ready Player Two.md\|Ready Player Two]]                                                                               | Chess, Shira                                                  | 2017 |
 | [[constellation/books/Children of a Modest Star.md\|Children of a Modest Star]]                                                             | Blake, Jonathn S. and Nils Gilman                             | 2024 |
+| [[constellation/books/The Location of Culture.md\|The Location of Culture]]                                                                 | Bhabha, Homi K.                                               | 1994 |
 | [[constellation/books/Mythologies.md\|Mythologies]]                                                                                         | Barthes, Roland                                               | 1957 |
 | [[constellation/books/Kierkegaard, Pietism and Holiness.md\|Kierkegaard, Pietism and Holiness]]                                             | Barnett, Christopher B.                                       | 2016 |
 | [[constellation/books/Kierkegaard Construction of the Aesthetic.md\|Kierkegaard Construction of the Aesthetic]]                             | Adorno, Theodor W.                                            | 1989 |

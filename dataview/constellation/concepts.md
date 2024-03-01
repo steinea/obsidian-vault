@@ -19,6 +19,7 @@
 | [[constellation/concepts/Phenomenology.md\|Phenomenology]]                             |
 | [[constellation/concepts/Pietism.md\|Pietism]]                                         |
 | [[constellation/concepts/Planet.md\|Planet]]                                           |
+| [[constellation/concepts/Poetry.md\|Poetry]]                                           |
 | [[constellation/concepts/Politics.md\|Politics]]                                       |
 | [[constellation/concepts/Poststructuralism.md\|Poststructuralism]]                     |
 | [[constellation/concepts/Pragmatism.md\|Pragmatism]]                                   |
@@ -26,6 +27,7 @@
 | [[constellation/concepts/Semiotics.md\|Semiotics]]                                     |
 | [[constellation/concepts/Systems Theory.md\|Systems Theory]]                           |
 | [[constellation/concepts/Test-Driven Development.md\|Test-Driven Development]]         |
+| [[constellation/concepts/Theory.md\|Theory]]                                           |
 | [[constellation/concepts/Upper Paleolithic.md\|Upper Paleolithic]]                     |
 | [[constellation/concepts/Video Games.md\|Video Games]]                                 |
 | [[constellation/concepts/Visual Novel.md\|Visual Novel]]                               |
