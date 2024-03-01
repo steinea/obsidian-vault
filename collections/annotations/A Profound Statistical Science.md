@@ -1,29 +1,10 @@
 ---
-layout: annotation
-category: annotations
-author: Isaac Asimov
-citeAuthor: Asimov, Isaac
-shortAuthor: Asimov
-translator:
-title: Foundation
-subtitle:
-location: New York, NY
-publisher: Bantam Spectra
-originalDate: 1951
-publicationDate: 1991
-displayDate: 1951
-link: https://en.wikipedia.org/wiki/Foundation_(Asimov_novel)
-abstract: "One of the great masterworks of science fiction, the Foundation novels of Isaac Asimov are unsurpassed for their unique blend of nonstop action, daring ideas, and extensive worldbuilding. The story of our future begins with the history of Foundation and its greatest psychohistorian: Hari Seldon. For twelve thousand years the Galactic Empire has ruled supreme. Now it is dying. Only Hari Seldon, creator of the revolutionary science of psychohistory, can see into the future-a dark age of ignorance, barbarism, and warfare that will last thirty thousand years. To preserve knowledge and save mankind, Seldon gathers the best minds in the Empire-both scientists and scholars-and brings them to a bleak planet at the edge of the Galaxy to serve as a beacon of hope for future generations. He calls his sanctuary the Foundation. But soon the fledgling Foundation finds itself at the mercy of corrupt warlords rising in the wake of the receding Empire. And mankind's last best hope is faced with an agonizing choice: submit to the barbarians and live as slaves-or take a stand for freedom and risk total destruction."
-format: Paperback
-isbn: 9780553293357
-acquisitionDate: 2021-08-01
-annotationDate: 2021-08-01
+title: A Profound Statistical Science
 date: 2021-08-01
-tags: sciencefiction
+permalink: 2021/08/01/a-profound-statistical-science
 ---
-# Foundation
 
-[[2021]] / [[annotations]]
+[[2021]] • [[Annotations]] • [[Isaac Asimov]] • [[Foundation]]
 
 Seldon "showed amazing ability in mathematics ... his greatest contributions were in the field of psychohistory. Seldon found the field little more than a set of vague axioms; he left it a profound statistical science" (3)
 

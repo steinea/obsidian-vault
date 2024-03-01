@@ -1,29 +1,10 @@
 ---
-layout: annotation
-category: annotations
-author: Robert Jordan
-citeAuthor: Jordan, Robert
-shortAuthor: Jordan
-translator:
-title: The Eye of the World
-subtitle:
-location: New York, NY
-publisher: Tor
-originalDate: 1990
-publicationDate: 2020
-displayDate: 1990
-link: https://us.macmillan.com/books/9781250768681/theeyeoftheworld
-abstract: "The Wheel of Time turns and Ages come and pass, leaving memories that become legend. Legend fades to myth, and even myth is long forgotten when the Age that gave it birth returns again. What was, what will be, and what is, may yet fall under the Shadow. When a vicious band of half-men, half beasts invade the Two Rivers seeking their master’s enemy, Moiraine persuades Rand al’Thor and his friends to leave their home and enter a larger unimaginable world filled with dangers waiting in the shadows and in the light. Since its debut in 1990, The Wheel of Time® has captivated millions of readers around the globe with its scope, originality, and compelling characters. The last six books in series were all instant #1 New York Times bestsellers, and The Eye of the World was named one of America's best-loved novels by PBS's The Great American Read."
-format: Paperback
-isbn: 9781250768681
-acquisitionDate: 2021-09-09
-annotationDate: 2021-09-09
+title: Memories That Become Legend
 date: 2021-09-09
-tags: fantasy
+permalink: 2021/09/09/memories-that-become-legend
 ---
-# The Eye of the World
 
-[[2021]] / [[annotations]]
+[[2021]] • [[Annotations]] • [[Robert Jordan]] • [[The Eye of the World]]
 
 "'Some stories shouldn't be told,' Master Buie insisted. 'Some stories shouldn't be known!'" (27)
 

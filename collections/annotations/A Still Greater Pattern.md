@@ -1,29 +1,10 @@
 ---
-layout: annotation
-category: annotations
-author: Robert Jordan
-citeAuthor: Jordan, Robert
-shortAuthor: Jordan
-translator:
-title: The Dragon Reborn
-subtitle:
-location: New York, NY
-publisher: Tor
-originalDate: 1991
-publicationDate: 2020
-displayDate: 1991
-link: https://us.macmillan.com/books/9780765334350/the-dragon-reborn
-abstract: "Winter has stopped the war—almost—yet men are dying, calling out for the Dragon. But where is he? Rand al’Thor has been proclaimed the Dragon Reborn. Traveling to the great fortress known as the Stone of Tear, he plans to find the sword Callandor, which can only be wielded by the Champion of Light, and discover if he truly is destined to battle The Dark One. Following Rand, Moiraine and their friends battle Darkhounds on the hunt, hoping they reach the Heart of the Stone in time for the next great test awaiting the Dragon Reborn. Since its debut in 1990, The Wheel of Time® by Robert Jordan has captivated millions of readers around the globe with its scope, originality, and compelling characters. The last six books in series were all instant #1 New York Times bestsellers, and The Eye of the World was named one of America's best-loved novels by PBS's The Great American Read."
-format: Paperback
-isbn: 9780765334350
-acquisitionDate: 2021-10-25
-annotationDate: 2021-10-25
+title: A Still Greater Pattern
 date: 2021-10-25
-tags: fantasy
+permalink: 2021/10/25/a-still-greater-pattern
 ---
-# The Dragon Reborn
 
-[[2021]] / [[annotations]]
+[[2021]] • [[Annotations]] • [[Robert Jordan]] • [[The Dragon Reborn]]
 
 "Everything spun on the wheels of chance and change" (35)
 
@@ -63,7 +44,7 @@ tags: fantasy
 
 "Let these represent worlds that might exist if different choices had been made, if major turning points in the Pattern had gone another way" (211)
 
-"'Very good. But the Pattern may be even more complex than that, child. The Wheel weaves our lives to make the Pattern of an Age, but the Ages themselves are woven into the Age Lace, the Great Pattern. Who can know if this is even the tenth part of the weaving, though? Some in the Age of Legends apparently believe that there were still other worlds-even harder to reach than the worlds of the Portal Stones, if that can be believedlying like this.” She drew more lines, cross-hatching the first set. For a moment she stared at them. 'The warp and the woof of the weave. Perhaps the Wheel of Time weaves a still greater Pattern from worlds.' Straightening, she dusted her hands. 'Well, that is neither here nor there. In all of these worlds, whatever their other variations, a few things are constant. One is that the Dark One is imprisoned in all of them'" (211)
+"'Very good. But the Pattern may be even more complex than that, child. The Wheel weaves our lives to make the Pattern of an Age, but the Ages themselves are woven into the Age Lace, the Great Pattern. Who can know if this is even the tenth part of the weaving, though? Some in the Age of Legends apparently believe that there were still other worlds-even harder to reach than the worlds of the Portal Stones, if that can be believed lying like this.” She drew more lines, cross-hatching the first set. For a moment she stared at them. 'The warp and the woof of the weave. Perhaps the Wheel of Time weaves a still greater Pattern from worlds.' Straightening, she dusted her hands. 'Well, that is neither here nor there. In all of these worlds, whatever their other variations, a few things are constant. One is that the Dark One is imprisoned in all of them'" (211)
 
 "There is one Creator, who exists everywhere at once for all of these worlds. In the same way, there is only one Dark One, who also exists in all of these worlds at once. If he is freed from the prison the Creator made in one world, he is freed on all. So long as he is kept prisoner in one, he remains imprisoned on all" (211)
 

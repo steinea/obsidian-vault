@@ -1,27 +1,10 @@
 ---
-layout: annotation
-category: annotations
-author: Werner Heisenberg
-citeAuthor: Heisenberg, Werner
-shortAuthor: Heisenberg
-title: Physics and Philosophy
-subtitle: The Revolution in Modern Science
-location: London, EN
-publisher: Penguin Books
-originalDate: 1958
-publicationDate: 2000
-displayDate: 1958
-link: https://www.penguin.co.uk/books/56983/physics-and-philosophy-by-werner-heisenberg-intro-paul-davies/9780141182155
-abstract: "Nobel Prize winner Werner Heisenberg's classic account explains the central ideas of the quantum revolution, and his celebrated Uncertainty Principle. The theme of Heisenberg's exposition is that words and concepts familiar in daily life can lose their meaning in the world of relativity and quantum physics. This in turn has profound philosophical implications for the nature of reality and for our total world view."
-format: Paperback
-isbn: 9780141182155
-acquisitionDate: 2022-04-23
-annotationDate: 2022-08-07
+title: Nature Is Earlier than Man
 date: 2022-08-07
+permalink: 2022/08/07/nature-is-earlier-than-man
 ---
-# Physics and Philosophy
 
-[[2022]] / [[annotations]]
+[[2022]] • [[Annotations]] • [[Werner Heisenberg]] • [[Physics and Philosophy]]
 
 *Introduction by Paul Davies, 1989*
 

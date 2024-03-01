@@ -1,31 +1,12 @@
 ---
-layout: annotation
-category: annotations
-author: Tom Nomad
-citeAuthor: Nomad, Tom
-shortAuthor: Nomad
-translator:
-title: Toward an Army of Ghosts
-subtitle: Immanence, Conflict, and Crisis
-location: Berkeley, CA
-publisher: Repartee
-originalDate: 2017
-publicationDate: 2017
-displayDate: 2017
-link: https://www.goodreads.com/book/show/35840950-toward-an-army-of-ghosts
-abstract: "In the idealized framework of police tactics all riot lines are orderly and controlled, but in reality cops have emotional responses, disobey orders, make mistakes, and are sometimes overwhelmed with resistance. The police riot is a massive acceleration of action, the complete breaking of coherence to reimpose coherence, but if it fails then they fall completely into incoherence. Though there is a tendency to see the police as a unified force, the organization of a riot line is not a form of order, rather it is a by-product of the attempt to organize a certain terrain of action within the paradox of contained crisis."
-format: Paperback
-isbn: no ISBN
-acquisitionDate: 2023-07-02
-annotationDate: 2023-07-02
+title: A Universe of Legibility
 date: 2023-07-02
-tags: philosophy anarchy revolution resistance
+permalink: 2023/07/02/a-universe-of-legibility
 ---
-# Toward an Army of Ghosts
 
-[[2023]] / [[annotations]]
+[[2023]] • [[Annotations]] • [[Tom Nomad]] • [[Toward an Army of Ghosts]]
 
-*Introduction*
+#### Introduction
 
 "What was clear at the beginning of this project were the fundamental flaws in the categories we were using to make sense of action, and in our relationship to the space where action occurs" (i)
 
@@ -72,7 +53,7 @@ tags: philosophy anarchy revolution resistance
 <br>
 
 
-*The Paradoxical Construction of Immanence*
+#### The Paradoxical Construction of Immanence
 
 "The political is, at core, a discourse of activity" (2)
 
@@ -131,7 +112,7 @@ A "universe of legibility" (10)
 <br>
 
 
-*Conflict*
+#### Conflict
 
 "the police ... a deployment of warfare into the moment" (22)
 
@@ -186,7 +167,7 @@ A "universe of legibility" (10)
 <br>
 
 
-*The Topography of Immanence*
+#### The Topography of Immanence
 
 "This process of mapping, and operating these maps, constructs a territory built around this constant security operation" (41)
 
@@ -269,7 +250,7 @@ Delanda, *War in the Age of Intelligent Machines* (53)
 <br>
 
 
-*Amplification*
+#### Amplification
 
 "we have to fundamentally rethink the conceptual structure of fighting, what it means to oppose" (62)
 
@@ -308,7 +289,7 @@ Delanda, *War in the Age of Intelligent Machines* (53)
 <br>
 
 
-*Toward an Army of Ghosts*
+#### Toward an Army of Ghosts
 
 "Ungdomshuset inspired ... more confrontational, more asymmetric, and mobility-centric tactics" (77)
 
@@ -377,7 +358,7 @@ Delanda, *War in the Age of Intelligent Machines* (53)
 <br>
 
 
-*The Impossibility of Philosophy*
+#### The Impossibility of Philosophy
 
 "Philosophy is impossible ... Somehow philosophy is always insufficient" (98)
 
@@ -486,7 +467,7 @@ The "anarchic possibility of thought, rests on the recognition of the positional
 <br>
 
 
-*Constant Crisis*
+#### Constant Crisis
 
 "What is being articulated in modernist totalitarianism---what we refer to as fascism---is not some new concept of the state, as many liberal critics of fascism would have us think, but a rise of the concept of the state to primacy, or as Schmitt puts it in *Political Theology*, the necessary implications of sovereignty, of the state itself" (140)
 

@@ -1,29 +1,10 @@
 ---
-layout: annotation
-category: annotations
-author: Isaac Asimov
-citeAuthor: Asimov, Isaac
-shortAuthor: Asimov
-translator:
-title: Foundation and Empire
-subtitle:
-location: New York, NY
-publisher: Bantam Spectra
-originalDate: 1952
-publicationDate: 1991
-displayDate: 1952
-link: https://en.wikipedia.org/wiki/Foundation_and_Empire
-abstract: "The Foundation novels of Isaac Asimov are one of the great masterworks of science fiction. Unsurpassed for their unique blend of nonstop action, daring ideas, and extensive worldbuilding, they chronicle the struggle of a courageous group of men and women to preserve humanity's light against an inexorable tide of darkness and violence. Led by its founding father, the great psychohistorian Hari Seldon, and taking advantage of its superior science and technology, the Foundation has survived the greed and barbarism of its neighboring warrior-planets. Yet now it must face the Empirestill the mightiest force in the Galaxy even in its death throes. When an ambitious general determined to restore the Empire's glory turns the vast Imperial fleet toward the Foundation, the only hope for the small planet of scholars and scientists lies in the prophecies of Hari Seldon. But not even Hari Seldon could have predicted the birth of the extraordinary creature called the Mule-a mutant intelligence with a power greater than a dozen battle fleets.... a power that can turn the strongest-willed human into an obedient slave."
-format: Paperback
-isbn: 9780553293371
-acquisitionDate: 2021-09-17
-annotationDate: 2021-09-17
+title: In a Galaxy of Mass Life
 date: 2021-09-17
-tags: sciencefiction
+permalink: 2021/09/17/in-a-galaxy-of-mass-life
 ---
-# Foundation and Empire
 
-[[2021]] / [[annotations]]
+[[2021]] • [[Annotations]] • [[Isaac Asimov]] • [[Foundation and Empire]]
 
 "Hari Seldon, the man who represented the one spark of creative effort left among the gathering decay" (1)
 

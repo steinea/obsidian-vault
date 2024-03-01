@@ -1,29 +1,11 @@
 ---
-layout: annotation
-category: annotations
-author: François Laruelle
-citeAuthor: Laruelle, François
-shortAuthor: Laruelle
-translator: Alyosha Edlebi
-title: Theory of Identities
-subtitle: Generalized Fractality and Artificial Philosophy
-location: New York, NY
-publisher: Columbia University Press
-originalDate: 1992
-publicationDate: 2016
-displayDate: 1992
-link: https://cup.columbia.edu/book/theory-of-identities/9780231168946
-abstract: "François Laruelle proposes a theory of identity rooted in scientific notions of symmetry and chaos, emancipating thought from the philosophical paradigm of Being and reconnecting it with the real world. Unlike most contemporary philosophers, Laruelle does not believe language, history, and the world shape identity but that identity determines our relation to these phenomena. Both critical and constructivist, Theory of Identities finds fault with contemporary philosophy's reductive relation to science and its attachment to notions of singularity, difference, and multiplicity, which extends this crude approach. Laruelle's new theory of science, its objects, and philosophy, introduces an original vocabulary to elaborate the concepts of determination, fractality, and artificial philosophy, among other ideas, grounded in an understanding of the renewal of identity. Laruelle's work repairs the rift between philosophical and scientific inquiry and rehabilitates the concept of identity that continental philosophers have widely criticized. His argument positions him clearly against Deleuze, Badiou, the new materialists, and other thinkers who stray too far from empirical approaches that might revitalize philosophy's practical applications."
-format: E-Book
-isbn: 9780231541459
-acquisitionDate: 2020-12-15
-annotationDate: 2020-12-15
+title: The Book of the Milieu
 date: 2020-12-15
-tags: philosophy
+permalink: 2020/12/15/the-book-of-the-milieu
 ---
-# Theory of Identities
 
-[[2020]] / [[annotations]]
+[[2020]] • [[Annotations]] • [[François Laruelle]] • [[Theory of Identities]]
+
 #### Preface to the English Edition: Retrospection (2014)[^1]
 
 [^1]: pp. ix-xvi

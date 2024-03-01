@@ -1,31 +1,12 @@
 ---
-layout: annotation
-category: annotations
-author:
-citeAuthor: Wright, Erik Olin
-shortAuthor: Wright
-translator:
-title: Classes
-subtitle:
-location: London, EN
-publisher: Verso
-originalDate:  1985
-publicationDate: 2023
-displayDate: 1985
-link: https://www.versobooks.com/en-ca/products/1153-classes
-abstract: "Questions of class, power and distribution have reemerged as central concerns in the public discourse. When we talk about class, we don't always know what is meant. Is class about income or affect or the ownership of the means of production? Perhaps it is about authority or autonomy? But what happens when, as is often the case in complex advanced economies, people can occupy social and economic roles that seem to indicate membership in more than one class? And what does this mean for the supposed relationship between class and potential political capacity and affinity? In *Classes*, , the greatest American Marxist sociologists, rises to the twofold challenge of both clarifying the abstract, structural account of class implicit in Marx, and of applying and refining the account in the light of contemporary developments in advanced capitalist societies. What Wright calls 'contradictory class locations' can make the class landscape appear much more complex than the simple model presented in Marx. Despite this complexity, common interests and therefore political alliances can still be found. In a society, like the US, characterized by extreme inequality, Classes provides not just a useful descriptive account of the operation of class but also the tools to understand the interplay of class interests and political (re)alignment."
-format: Paperback
-isbn: 9781804290484
-acquisitionDate: 2023-05-10
-annotationDate: 2023-09-09
+title: The Concept of Contradictory Class Locations
 date: 2023-09-09
-tags: marxism economy class theory
+permalink: 2023/09/09/the-concept-of-contradictory-class-locations
 ---
-# Classes
 
-[[2023]] / [[annotations]]
+[[2023]] • [[Annotations]] • [[Erik Olin Wright]] • [[Classes]]
 
-_**Preface**_
+#### Preface
 
 “I have had a significant change in what sociologists call my ‘reference group’, the circle of people whose opinions and evaluations are in the back of my mind as I type away on my word processor” (13)
 
@@ -52,9 +33,9 @@ _**Preface**_
 <br>
 
 
-_**1. Posing the Problem: The Agenda of Class Analysis**_
+#### 1. Posing the Problem: The Agenda of Class Analysis
 
-*The Legacy of Marx*
+##### The Legacy of Marx
 
 “in the one place where he promises such an elaboration—the final chapter of Capital Volume 3, entitled ‘Classes’—the text stops after only a page. Just before the end of this incomplete text Marx wrote, ‘The first question to be answered is this: What constitutes a class?’. Two short paragraphs later comes Engels’s sad comment, ‘Here the manuscript breaks off”
 
@@ -73,7 +54,7 @@ _**1. Posing the Problem: The Agenda of Class Analysis**_
 <br>
 
 
-*The Agenda of Contemporary Marxist Class Analysis*
+##### The Agenda of Contemporary Marxist Class Analysis
 
 “among wage-earners, the growth of professional and technical occupations and the expansion of managerial hierarchies in large corporations and the state have at least created the appearance of a considerable erosion of a simple polarized structure”
 
@@ -121,7 +102,7 @@ _**1. Posing the Problem: The Agenda of Class Analysis**_
 <br>
 
 
-_**2. The Biography of a Concept: Contradictory Class Locations**_
+#### 2. The Biography of a Concept: Contradictory Class Locations
 
 “Increasing attention is being paid to the theoretical dimensions of variability in ‘actually existing capitalisms”
 
@@ -134,7 +115,7 @@ _**2. The Biography of a Concept: Contradictory Class Locations**_
 <br>
 
 
-*The Logic of Concept Formation*
+##### The Logic of Concept Formation
 
 “Concepts are produced. The categories that are used in social theories, whether they be the relatively simple descriptive categories employed in making observations, or the very complex and abstract concepts used in the construction of ‘grand theory’, are all produced by human beings”
 
@@ -171,7 +152,7 @@ _**2. The Biography of a Concept: Contradictory Class Locations**_
 <br>
 
 
-*Steps in the Analysis of the Formation of the Concept of Contradictory Locations*
+##### Steps in the Analysis of the Formation of the Concept of Contradictory Locations
 
 “our analysis of the development of the concept ‘contradictory locations within class relations’ will proceed in the following steps”
 
@@ -184,7 +165,7 @@ _**2. The Biography of a Concept: Contradictory Class Locations**_
 <br>
 
 
-*The Empirical Setting*
+##### The Empirical Setting
 
 “Empirical research on stratification has been at the very core of American sociology, and as a graduate student I thought that it would be a good idea to bring the general Marxist critique of sociology to bear on this body of research”
 
@@ -197,7 +178,7 @@ _**2. The Biography of a Concept: Contradictory Class Locations**_
 <br>
 
 
-*Theoretical Constraints*
+##### Theoretical Constraints
 
 “there is hardly a consensus among”
 
@@ -306,7 +287,7 @@ _**2. The Biography of a Concept: Contradictory Class Locations**_
 <br>
 
 
-*Alternative Solutions*
+##### Alternative Solutions
 
 “The gap between the simple class map of capitalism consisting solely of a bourgeoisie and a proletariat and the concrete empirical observations of actual capitalist societies has been apparent to Marxists for a long time”
 
@@ -373,7 +354,7 @@ _**2. The Biography of a Concept: Contradictory Class Locations**_
 <br>
 
 
-*Building a New Concept*
+##### Building a New Concept
 
 “None of the available alternatives, therefore, seemed adequate. In one way or another they were inconsistent with at least some of the theoretical constraints of the general theory of class”
 
@@ -386,7 +367,6 @@ _**2. The Biography of a Concept: Contradictory Class Locations**_
 “If we drop this assumption, an entirely new kind of solution to the problem of conceptually mapping the ‘middle class’ becomes possible. Instead of regarding all positions as located uniquely within particular classes and thus as having a coherent class character in their own right, we should see some positions as possibly having a multiple class character; they may be in more than one class simultaneously”
 
 “The class nature of such positions is a derivative one, based as it is on the fundamental classes to which they are attached. Such positions are what I have termed ‘contradictory locations within class relations”
-
 
 “Contradictory locations are contradictory precisely in the sense that they partake of both sides of these inherently contradictory interests”
 
@@ -459,7 +439,7 @@ _**2. The Biography of a Concept: Contradictory Class Locations**_
 <br>
 
 
-*Problems With the Conceptualization*
+##### Problems With the Conceptualization
 
 “The concept of contradictory locations within class relations was, I believe, an advance over the alternative ways of dealing with the problem of the ‘middle class’ in advanced capitalist societies. Both in terms of the explanatory agenda for the concept of class and in terms of the abstract structural properties of the concept, it fared better than its rivals. Yet, from the start there were problems”
 
@@ -526,14 +506,14 @@ _**2. The Biography of a Concept: Contradictory Class Locations**_
 <br>
 
 
-_**3. A General Framework for the Analysis of Class**_
+#### 3. A General Framework for the Analysis of Class
 
 “My dissatisfactions with the concept of contradictory locations accumulated for a long time before I saw any viable strategy for transforming it in a constructive way. It was only after an extended engagement with the work of John Roemer, particularly his work on the concept of exploitation, that I began to see a coherent solution to these problems”
 
 <br>
 
 
-*Roemer's Account of Class and Exploitation*
+##### Roemer's Account of Class and Exploitation
 
 “in Roemer’s analysis the rich are said to exploit the poor when it can be established that the welfare of the rich causally depends upon the deprivations of the poor—the rich are rich because the poor are poor, they are rich at the expense of others”
 
@@ -601,7 +581,7 @@ _**3. A General Framework for the Analysis of Class**_
 <br>
 
 
-*Towards a General Framework of Class Analysis*
+##### Towards a General Framework of Class Analysis
 
 “Different mechanisms of exploitation are defined with respect to different kinds of assets and different class systems are defined by the social relations of production that are built upon property rights in those assets”
 
@@ -822,7 +802,7 @@ _**3. A General Framework for the Analysis of Class**_
 <br>
 
 
-*Once Again, Unresolved Problems*
+##### Once Again, Unresolved Problems
 
 “Four such problems seem particularly pressing: (1) the status of ‘organization’ in organization assets; (2) the relationship between skill exploitation and classes; (3) causal interactions among forms of exploitation; (4) non-asset-based mechanisms of exploitation”
 
@@ -919,9 +899,9 @@ _**3. A General Framework for the Analysis of Class**_
 <br>
 
 
-_**4. Implications and Elaborations of the General Framework**_
+#### 4. Implications and Elaborations of the General Framework
 
-*Alternative Class Theories*
+##### Alternative Class Theories
 
 “Certain parallels can be drawn between some of the elements in the concept of class structure elaborated here and other sociological concepts of class, particularly those found in the Weberian tradition”
 
@@ -950,7 +930,7 @@ _**4. Implications and Elaborations of the General Framework**_
 <br>
 
 
-*Mode of Production and Social Formation*
+##### Mode of Production and Social Formation
 
 “Actual societies, as I have argued, can never be characterized as having only one type of exploitation; they are always complex combinations of modes of production”
 
@@ -995,7 +975,7 @@ _**4. Implications and Elaborations of the General Framework**_
 <br>
 
 
-*The Theory of History*
+##### The Theory of History
 
 “It is in terms of them that practical revolutions are waged, that possibilities for social change are opened up or closed off”
 
@@ -1039,7 +1019,7 @@ _**4. Implications and Elaborations of the General Framework**_
 <br>
 
 
-*Legitimation and Motivation*
+##### Legitimation and Motivation
 
 “class systems will in general be more stable and reproducible to the extent that some sort of consensus over the legitimacy of the class structure is established”
 
@@ -1082,7 +1062,7 @@ _**4. Implications and Elaborations of the General Framework**_
 <br>
 
 
-*Class Structure and Form of the State*
+##### Class Structure and Form of the State
 
 “The different logics of class exploitation presented in table 3.2 have certain systematic implications for the nature of the political institutions likely to be associated with those class relations”
 
@@ -1097,7 +1077,7 @@ _**4. Implications and Elaborations of the General Framework**_
 <br>
 
 
-*Class Structure and Class Formation*
+##### Class Structure and Class Formation
 
 “The transformation of the working class from a class-in-itself (a class determined structurally) into a class-for-itself (a class consciously engaged in collective struggle over its class interests) may not have been understood as a smooth and untroubled process, but it was seen as inevitable”
 
@@ -1116,7 +1096,7 @@ _**4. Implications and Elaborations of the General Framework**_
 <br>
 
 
-*Class Alliances*
+##### Class Alliances
 
 “Once class analysis moves away from a simple polarized view of the class structure, the problem of class alliances looms large in the analysis of class formations”
 
@@ -1145,7 +1125,7 @@ _**4. Implications and Elaborations of the General Framework**_
 <br>
 
 
-*Women in the Class Structure*
+##### Women in the Class Structure
 
 “So far I have had little to say about forms of oppression other than class. Much of the recent debate in radical theory has revolved precisely around the issue of such oppressions, particularly around the relationship between gender domination and class”
 
@@ -1182,7 +1162,7 @@ _**4. Implications and Elaborations of the General Framework**_
 <br>
 
 
-*Conclusion*
+##### Conclusion
 
 “the exploitation-centred concept provides a much more coherent way of describing the qualitative differences among types of class structures than has been possible with alternative concepts”
 
@@ -1201,7 +1181,7 @@ _**4. Implications and Elaborations of the General Framework**_
 <br>
 
 
-_**5. Empirically Adjudicating Contending Class Definitions**_
+#### 5. Empirically Adjudicating Contending Class Definitions
 
 “The empirical investigation in this chapter will therefore focus on the debates over the line of demarcation between the working class and ‘middle-class’ wage earners”
 
@@ -1210,7 +1190,7 @@ _**5. Empirically Adjudicating Contending Class Definitions**_
 <br>
 
 
-*The Empirical Strategy*
+##### The Empirical Strategy
 
 “class structure is meant to explain (along with other mechanisms) class conflict”
 
@@ -1223,7 +1203,7 @@ _**5. Empirically Adjudicating Contending Class Definitions**_
 <br>
 
 
-*Operationalizing the Adjudications*
+##### Operationalizing the Adjudications
 
 “even though Marxist class analysis is, above all, a macro-theory of social relations and social change, that theory must be linked to a microtheory of outcomes for individuals if it is to be complete”
 
@@ -1302,7 +1282,7 @@ _**5. Empirically Adjudicating Contending Class Definitions**_
 <br>
 
 
-*Empirical Results*
+##### Empirical Results
 
 “If one accepts income as an appropriate criterion in this adjudication, this strongly supports the exploitation-centred definition over the definition based on productive labour proposed by Poultantzas”
 
@@ -1349,7 +1329,7 @@ _**5. Empirically Adjudicating Contending Class Definitions**_
 <br>
 
 
-*Conclusions*
+##### Conclusions
 
 “Two basic conclusions can be drawn from the investigation”
 
@@ -1384,7 +1364,7 @@ _**5. Empirically Adjudicating Contending Class Definitions**_
 <br>
 
 
-_**6. Class Structure in Contemporary Capitalism: A Comparison of Sweden and The United States**_
+#### 6. Class Structure in Contemporary Capitalism: A Comparison of Sweden and The United States
 
 “According to one estimate, as a result of state policies Sweden has the lowest level of real income inequality (after taxes and after transfer payments) of any developed capitalist country, while the United States has one of the highest.1 If we take the ratio of the real income at the ninety-fifth percentile to the real income at the fifth percentile, this figure was only about 3:1 for Sweden in the early 1970s, whereas in the United States it was 13:1”
 
@@ -1399,7 +1379,7 @@ _**6. Class Structure in Contemporary Capitalism: A Comparison of Sweden and The
 <br>
 
 
-*Class Distributions*
+##### Class Distributions
 
 “work in the United States appears to be significantly more supervised than in Sweden”
 
@@ -1438,7 +1418,7 @@ the working class in contemporary American capitalism is constituted substantial
 <br>
 
 
-*Explaining Differences in Class Structures*
+##### Explaining Differences in Class Structures
 
 “In the initial decompositions of the overall differences in class structure by economic sector and state employment, we concluded first, that in general the class effects were greater than the sector effects, and second, when the distribution of employment across sectors did matter, the role of the state was generally implicated”
 
@@ -1461,7 +1441,7 @@ the working class in contemporary American capitalism is constituted substantial
 <br>
 
 
-*Class and Family*
+##### Class and Family
 
 “The interests which are determined by class exploitation, therefore, will vary depending upon how they intersect the class compositions of families”
 
@@ -1490,7 +1470,7 @@ the working class in contemporary American capitalism is constituted substantial
 <br>
 
 
-*Class Structure and Income*
+##### Class Structure and Income
 
 “The conceptualization of class elaborated in this book is built around the concept of exploitation. While the relationship between the theoretical concept of exploitation and empirical data on personal income is not a simple one, nevertheless, personal income should be systematically linked to exploitation relations. As a result, if the conceptualization being proposed is to be a compelling one, then there should be a strong relationship between class location and expected income”
 
@@ -1515,7 +1495,7 @@ the working class in contemporary American capitalism is constituted substantial
 <br>
 
 
-_**7. Class Structure and Class Consciousness in Contemporary Capitalist Society**_
+#### 7. Class Structure and Class Consciousness in Contemporary Capitalist Society
 
 “The problem of ‘class consciousness’ has frequently been at the heart of Marxist theoretical and political debates. Indeed, in the recent renaissance of Marxist scholarship, one of the central lines of cleavage has been precisely over whether consciousness is a legitimate concept at all”
 
@@ -1528,7 +1508,7 @@ _**7. Class Structure and Class Consciousness in Contemporary Capitalist Society
 <br>
 
 
-*What is Class Consciousness?*
+##### What is Class Consciousness?
 
 “There are two quite different usages of the expression ‘class consciousness’ in the Marxist tradition”
 
@@ -1595,7 +1575,7 @@ _**7. Class Structure and Class Consciousness in Contemporary Capitalist Society
 <br>
 
 
-*Causal Logic*
+##### Causal Logic
 
 “Premiss 1. The material interests rooted in exploitation relations and thus linked to the class structure are real; they exist independently of the concrete subjectivities and personal characteristics of the incumbents of class locations”
 
@@ -1604,14 +1584,14 @@ _**7. Class Structure and Class Consciousness in Contemporary Capitalist Society
 <br>
 
 
-*Operationalizations*
+##### Operationalizations
 
 “To identify with a particular class is to perceive the world in certain categories, probably to hold some theories about the causes and consequences of class membership, and to hold at least some evaluative sense of interests tied to that class”
 
 <br>
 
 
-*Empirical Results*
+##### Empirical Results
 
 “The Overall Pattern of Variations. In table 7.1 the overall pattern of variations in means (not the absolute value of the means, but the patterning of the means) is quite similiar in the United States and Sweden. In both countries the table is basically polarized between the capitalist class and the working class (in neither country is there a statistically significant difference between proletarians and the marginal categories adjacent to the working class)”
 
@@ -1650,7 +1630,7 @@ _**7. Class Structure and Class Consciousness in Contemporary Capitalist Society
 <br>
 
 
-*Conclusions*
+##### Conclusions
 
 “The strategies of parties and unions in Sweden have also had the effect of shaping the real and perceived interests of various categories of wage-earners. State-welfare policies pursued by the Social Democratic Party have generally had a relatively universal character to them, distributing benefits of different sorts to most categories of wage earners, thus reducing the tendency for wage earners in contradictory exploiting class locations to see their interests as polarized”
 
@@ -1661,9 +1641,9 @@ _**7. Class Structure and Class Consciousness in Contemporary Capitalist Society
 <br>
 
 
-_**Conclusion**_
+#### Conclusion
 
-*The Exploitation Centred Concept of Class*
+##### The Exploitation Centred Concept of Class
 
 “My earlier work on class structure suffered, I have argued, from the tendency to displace the concept of exploitation from the centre of class analysis. This weakened the sense in which class relations were intrinsically relations of objectively opposed interests, and posed a series of specific conceptual difficulties”
 
@@ -1674,7 +1654,7 @@ _**Conclusion**_
 <br>
 
 
-*The Class Structure of Contemporary Capitalism*
+##### The Class Structure of Contemporary Capitalism
 
 “there are two broad generalizations that we can make”
 
@@ -1685,7 +1665,7 @@ _**Conclusion**_
 <br>
 
 
-*Class Structure and Politics*
+##### Class Structure and Politics
 
 “Class structure is of pervasive importance in contemporary social life. The control over society’s productive assets determines the fundamental material interests of actors and heavily shapes the capacities of both individuals and collectivities to pursue their interests”
 
@@ -1694,7 +1674,7 @@ _**Conclusion**_
 <br>
 
 
-*Political Implications*
+##### Political Implications
 
 “The preoccupation throughout this book has been on conceptual problems in the analysis of classes, and the theoretical and empirical implications of a proposed solution to those problems. Except in passing, relatively little attention has been given to the implications of the analysis for socialist politics”
 
@@ -1743,7 +1723,7 @@ _**Conclusion**_
 <br>
 
 
-_**Appendix I: Practical Strategies for Transforming Concepts**_
+#### Appendix I: Practical Strategies for Transforming Concepts
 
 “Many, perhaps most, theoretical innovations hinge on the introduction of new concepts or the reconstruction of old ones”
 
@@ -1752,7 +1732,7 @@ _**Appendix I: Practical Strategies for Transforming Concepts**_
 <br>
 
 
-*Forms of Concept Formation*
+##### Forms of Concept Formation
 
 “New Demarcations. One of the basic ways in which an existing concept may prove unsatisfactory is that it incorrectly subsumes quite heterogeneous cases under a single heading. The task of concept formation, then, is to specify a new line of demarcation within the conceptual field”
 
@@ -1769,7 +1749,7 @@ _**Appendix I: Practical Strategies for Transforming Concepts**_
 <br>
 
 
-_**Notes**_
+#### Notes
 
 “Georg Lukács, *History and Class Consciousness*, Cambridge, Mass. 1971, (original edition), 1922, p. 51”
 

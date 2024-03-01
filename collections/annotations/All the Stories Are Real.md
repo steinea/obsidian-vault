@@ -1,29 +1,10 @@
 ---
-layout: annotation
-category: annotations
-author: Robert Jordan
-citeAuthor: Jordan, Robert
-shortAuthor: Jordan
-translator:
-title: The Great Hunt
-subtitle:
-location: New York, NY
-publisher: Tor
-originalDate: 1990
-publicationDate: 2020
-displayDate: 1990
-link: https://us.macmillan.com/books/9780765334343/the-great-hunt
-abstract: "For centuries, gleemen have told the tales of The Great Hunt of the Horn. So many tales about each of the Hunters, and so many Hunters to tell of... Now the Horn itself is found: the Horn of Valere long thought only legend, the Horn which will raise the dead heroes of the ages. And it is stolen. In pursuit of the thieves, Rand al’Thor is determined to keep the Horn out of the grasp of The Dark One. But he has also learned that he is The Dragon Reborn—the Champion of Light destined to stand against the Shadow time and again. It is a duty and a destiny that requires Rand to uncover and master extraordinary capabilities he never imagined he possessed. Since its debut in 1990, The Wheel of Time® has captivated millions of readers around the globe with its scope, originality, and compelling characters. The last six books in series were all instant #1 New York Times bestsellers, and The Eye of the World was named one of America's best-loved novels by PBS's The Great American Read."
-format: Paperback
-isbn: 9780765334343
-acquisitionDate: 2021-10-22
-annotationDate: 2021-10-22
+title: All the Stories Are Real
 date: 2021-10-22
-tags: fantasy
+permalink: 2021/10/22/all-the-stories-are-real
 ---
-# The Great Hunt
 
-[[2021]] / [[annotations]]
+[[2021]] • [[Annotations]] • [[Robert Jordan]] • [[The Great Hunt]]
 
 "Ba'alzamon. In the Trolloc tongue, it meant Heart of the Dark, and even unbelievers knew it was the Trolloc name for the Great Lord of the Dark. He Whose Name Must Not Be Uttered. Not the True Name, Shai'tan, but still forbidden" (21)
 

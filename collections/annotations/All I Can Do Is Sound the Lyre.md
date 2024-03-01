@@ -1,52 +1,33 @@
 ---
-layout: annotation
-category: annotations
-author: Paul Muldoon
-citeAuthor: Muldoon, Paul
-shortAuthor: Muldoon
-translator:
-title: Frolic and Detour
-subtitle:
-location: London, EN
-publisher: Faber & Faber
-originalDate:
-publicationDate: 2022
-displayDate: 2022
-link: https://www.faber.co.uk/product/9780571354504-frolic-and-detour/
-abstract: "Although Frolic and Detour is Paul Muldoon’s thirteenth book, it has all the passion and provocation we more often associate with a first collection. Ranging as it does from poems that take as their subject matter the Native American leaders Joseph Brant and Mangas Coloradas, through the Great War, the Irish Rising, hunting with eagles, the house wren, all the way to the day-to-day assault of twenty-first-century America, Frolic and Detour reminds us that the sidelong glance is the sweetest, the tangential approach the most telling. It also confirms Dwight Garner’s assessment of Selected Poems 1968–2014 in the New York Times: ‘a compact, powerful book, filled with catharses you didn’t know you needed.’"
-format: Paperback
-isbn: 9780571354504
-acquisitionDate: 2023-03-11
-annotationDate: 2023-03-19
+title: All I Can Do Is Sound the Lyre
 date: 2023-03-19
-tags: poetry irish
+permalink: 2023/03/19/all-i-can-do-is-sound-the-lyre
 ---
-# Frolic and Detour
 
-[[2023]] / [[annotations]]
+[[2023]] • [[Annotations]] • [[Paul Muldoon]] • [[Frolic and Detour]]
 
-*The Great Horse of the World*
+#### The Great Horse of the World
 
 "The great horse of the world stamps and champs at the bit / and lays back one ear / as I approach / from the rear / to hitch it to the world-coach, / mindful of keeping at least one hand on it / so it knows I'm still here" (3)
 
 <br>
 
 
-*Encheiresin Naturae*
+#### Encheiresin Naturae
 
 "This was an era when pig killers, / postmistresses, and priests / were widely perceived as pillars / of society in whom the sum / of knowledge to which we might ever want to appeal / was still safely stored" (12)
 
 <br>
 
 
-*Pablo Picasso: Bottle of Bass and Glass (1914)*
+#### Pablo Picasso: Bottle of Bass and Glass (1914)
 
 "God had a drink or two with William Blake" (18)
 
 <br>
 
 
-*1916: The Eoghan Rua Variations*
+#### 1916: The Eoghan Rua Variations
 
 "Do threascair an saol is shéid an ghaoth mar smál. / Alastram, Caesar, 's an méid sin a bhí 'na bpáirt; / tá an Teamhair 'na féar, is féach an Traoi mar tá, / is na Sasanaigh féin do b'fhéidir go bhfaighidís bás" (45)
 
@@ -71,14 +52,14 @@ tags: poetry irish
 <br>
 
 
-*July 1, 1916: With the Ulster Division*
+#### July 1, 1916: With the Ulster Division
 
 "It seems now everywhere I go there's a trench / that's precisely as tall and thin / as my own good self / and through which, if I march double quick, / I may yet find my way back / to bounteous Killeeshil, the bog from which I was hurled / into this bog" (56)
 
 <br>
 
 
-*Wave*
+#### Wave
 
 "My own ancestors had floated down the Danube / on a combination of a pigskin inner tube / and a somewhat overblown / sense not only of their own / expertise in cooperage and smelting copper / and telling whopper after whopper / but the intrinsic importance of things / Celtic" (87)
 
@@ -87,14 +68,14 @@ tags: poetry irish
 <br>
 
 
-*It Wasn't Meant to Be Like This*
+#### It Wasn't Meant to Be Like This
 
 "When we started into the abyss / we were meant to be in something akin to a state of bliss" (97)
 
 <br>
 
 
-*Frolic and Detour*
+#### Frolic and Detour
 
 "I marked, too, how the lark and linnet / sing their psalms / in *dán díreach* whilst mine represent a departure / of sorts" (116)
 

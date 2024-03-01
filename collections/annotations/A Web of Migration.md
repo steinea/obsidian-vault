@@ -1,31 +1,12 @@
 ---
-layout: annotation
-category: annotations
-author: Jean Manco
-citeAuthor: Manco, Jean
-shortAuthor: Manco
-translator:
-title: Blood of the Celts
-subtitle: The New Ancestral Story
-location: London, EN
-publisher: Thames & Hudson
-originalDate:
-publicationDate: 2015
-displayDate: 2015
-link: https://thamesandhudson.com/blood-of-the-celts-9780500295878
-abstract: "The heritage of the Celts turns up from Portugal to Romania, from Scotland to Spain. Yet debate continues about who exactly were the Celts, where ultimately they came from, and whether the modern Celtic-speakers of the British Isles and Brittany are related to the Continental Celts we know from ancient history. So a fresh approach is needed. Blood of the Celts meets this challenge, pulling together evidence from genetics, archaeology, history and linguistics in an accessible and illuminating way, taking the reader on a voyage of discovery from the origins of the ancient Celts to the modern Celtic Revival, with some startling results."
-format: Paperback
-isbn: 9780500295878
-acquisitionDate: 2022-10-10
-annotationDate: 2022-11-09
+title: A Web of Migration
 date: 2022-11-09
-tags: celts irish osraige
+permalink: 2022/11/09/a-web-of-migration
 ---
-# Blood of the Celts
 
-[[2022]] / [[annotations]]
+[[2022]] • [[Annotations]] • [[Jean Manco]] • [[Blood of the Celts]]
 
-*Prologue*
+#### Prologue
 
 "There is no Celtic race, any more than there is a Germanic race or a Latin race, if by 'race' we mean some set of physical features that clearly distinguishes one from another" (9)
 
@@ -42,7 +23,7 @@ A "web of migration that over the ages criss-crossed a continent and took to the
 <br>
 
 
-*The Voices of the Celts*
+#### The Voices of the Celts
 
 "No stereotype can truly mirror a multitude of individuals. Yet the voices of the Celts long gone can reveal the values of the elite for whom songs were sung and pedigrees recited" (12)
 
@@ -87,7 +68,7 @@ A "web of migration that over the ages criss-crossed a continent and took to the
 <br>
 
 
-*The Gauls and Celtic*
+#### The Gauls and Celtic
 
 "The Gaul of Caesar's day did include all of mainland France, but it also stretched eastwards to the Rhine, encompassing what is now Belgium and Luxembourg, the Netherlands south of the Rhine, and those parts of Germany and Switzerland west of the Rhine" (30)
 
@@ -124,7 +105,7 @@ A "web of migration that over the ages criss-crossed a continent and took to the
 <br>
 
 
-*Bell Beakers and Language*
+#### Bell Beakers and Language
 
 "Metal management lay at the centre of the Bell Beaker culture" (48)
 
@@ -167,7 +148,7 @@ A "web of migration that over the ages criss-crossed a continent and took to the
 <br>
 
 
-*The Indo-European Family*
+#### The Indo-European Family
 
 "From a Copper Age homeland on the European steppe, Indo-European languages spread far and wide" (65)
 
@@ -278,7 +259,7 @@ Dnieper-Donets I, Balkan farmers, Cucuteni-Tripolye culture, Maikop culture (72-
 <br>
 
 
-*Stelae to Bell Beaker*
+#### Stelae to Bell Beaker
 
 "A culture named after the site of Mikhailovka on the Lower Dnieper seems to be a cross between farming and steppe influences inits first phase (3700-3400 BC)" (80)
 
@@ -317,7 +298,7 @@ Dnieper-Donets I, Balkan farmers, Cucuteni-Tripolye culture, Maikop culture (72-
 <br>
 
 
-*The Iron Sword*
+#### The Iron Sword
 
 "Swords were first made in the Bronze Age. Unlike bows and axes, initially devised for hunting and chopping, swords had no other function but to fight other human beings" (102)
 
@@ -364,7 +345,7 @@ Dnieper-Donets I, Balkan farmers, Cucuteni-Tripolye culture, Maikop culture (72-
 <br>
 
 
-*On the Move*
+#### On the Move
 
 "The attack on Rome in 390 BC burnt its brutal message into the collective consciousness of an emerging power, and spurred the Romans to ever more conquests to bolster their security" (122)
 
@@ -409,7 +390,7 @@ Dnieper-Donets I, Balkan farmers, Cucuteni-Tripolye culture, Maikop culture (72-
 <br>
 
 
-*Celts vs Romans*
+#### Celts vs Romans
 
 "Hannibal cherished high hopes of the Cisalpine Gauls as allies, given their bravery in war and hatred of Rome. He secured their support, including that of the Cenomani, before setting out on his extraordinary journey with an army complete with elephants, starting from Cartagena in Iberia" (143)
 
@@ -426,7 +407,7 @@ Dnieper-Donets I, Balkan farmers, Cucuteni-Tripolye culture, Maikop culture (72-
 <br>
 
 
-*Christian Celts*
+#### Christian Celts
 
 "Latin had been so firmly entrenched among the literate that the earliest written sources from the British Isles are in that language" (162)
 
@@ -459,7 +440,7 @@ Dnieper-Donets I, Balkan farmers, Cucuteni-Tripolye culture, Maikop culture (72-
 <br>
 
 
-*Loss and Revival*
+#### Loss and Revival
 
 "There is no doubt that over the centuries there have been deliberate attempts by govenrment and other authorities to suppress the Celtic languages within the British Isles" (192)
 
@@ -480,7 +461,7 @@ Dnieper-Donets I, Balkan farmers, Cucuteni-Tripolye culture, Maikop culture (72-
 <br>
 
 
-*Surnames and DNA*
+#### Surnames and DNA
 
 "At the time of the Norman conquest of England in 1066, surnames in the modern sense were unknown" (206)
 

@@ -1,29 +1,11 @@
 ---
-layout: annotation
-category: annotations
-author: François Laruelle
-citeAuthor: Laruelle, François
-shortAuthor: Laruelle
-translator: Jessie Hock and Alex Dubilet
-title: A Biography of Ordinary Man
-subtitle: On Authorities and Minorities
-location: Cambridge, UK
-publisher: Polity
-originalDate: 1985
-publicationDate: 2018
-displayDate: 1985
-link: https://www.politybooks.com/bookdetail?book_slug=a-biography-of-ordinary-man-on-authorities-and-minorities--9781509509959
-abstract: "This book is a foundational text for our understanding of François Laruelle, one of France's leading thinkers, whose ideas have emerged as an important touchstone for contemporary theoretical discussions across multiple disciplines. One of Laruelle’s first systematic elaborations of his ethical and 'non-philosophical' thought, this critical dialogue with some of the dominant voices of continental philosophy offers a rigorous science of individuals as minorities or as separated from the World, History, and Philosophy. Through novel theorizations of finitude and determination in the last instance, Laruelle develops a thought 'of the One' as a 'minoritarian' paradigm that resists those paradigms that foreground difference as the conceptual matrix for understanding the status of the minority. The critique of the 'unitary illusion' of philosophy developed here stands at the foundation of Laruelle’s approach to 'uni-lateralizing' the power of philosophy and the universals with which it has always thought, and thereby acts as a basis for his subsequent investigations of victims, mysticism, and Gnosticism. This book will appeal to students and scholars of continental philosophy, philosophy of religion, ethics, aesthetics, and cultural theory."
-format: Paperback
-isbn: 9781509509997
-acquisitionDate: 2020-08-17
-annotationDate: 2020-08-17
+title: Treatise of the Solitudes
 date: 2020-08-17
-tags: philosophy
+permalink: 2020/08/17/treatise-of-the-solitudes
 ---
-# A Biography of Ordinary Man
 
-[[2020]] / [[annotations]]
+[[2020]] • [[Annotations]] • [[François Laruelle]] • [[A Biography of Ordinary Man]]
+
 #### Translators' Introduction
 
 Throughout, Laruelle parallels "*mystigue, pragmatique, topique*" through rhyme (viii)
@@ -63,7 +45,7 @@ This book "begins with the One or Minorities and draws its conclusions from them
 
 #### Introduction: A Rigorous Science of Man
 
-***1. From the Sciences of Man to the Science of People***
+##### 1. From the Sciences of Man to the Science of People
 
 "It is reasonable to revolt against philosophers" (1)[^2]
 
@@ -75,7 +57,7 @@ Laruelle presents five "human theorems" (1):
 
 * "Man really exists and he is really distinct from the World"
 * "Man is a mystical living being condemned to action"
-* "man is condemened ... to philosophy"
+* "man is condemned ... to philosophy"
 * His condemnation to action and philosophy "organizes his destiny ... [to] 'World,' 'History,' 'Language,' 'Sexuality,' 'Power,' which we refer to as *Authorities* in general"[^3]
 * The "rigorous science of ordinary man" is thus "a biography of the individual as Minorities and as Authorities"
 
@@ -147,7 +129,7 @@ Is this "a final philosophical gesture" or a "radicality [that] no longer belong
 
 <br>
 
-***2. Man as Finite or Ordinary Individual***
+##### 2. Man as Finite or Ordinary Individual
 
 Laruelle does not want to make the ordinary individual "exit" from the "enclosure" that is the conflict between philosophy and the "Sciences of Man," but rather demonstrate that "man never entered this enclosure" (6-7)
 
@@ -245,7 +227,7 @@ Laruelle will "attempt to make visible man without a face and without qualities.
 
 <br>
 
-***3. From Philosophy to Theory: The Science of Ordinary Man***
+##### 3. From Philosophy to Theory: The Science of Ordinary Man
 
 *Commentator's Note: I was derailed from my reading at this point and have yet to get back to this book.*
 

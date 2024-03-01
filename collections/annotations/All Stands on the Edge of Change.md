@@ -1,29 +1,10 @@
 ---
-layout: annotation
-category: annotations
-author: Robert Jordan
-citeAuthor: Jordan, Robert
-shortAuthor: Jordan
-translator:
-title: The Shadow Rising
-subtitle:
-location: New York, NY
-publisher: Tor
-originalDate: 1992
-publicationDate: 2020
-displayDate: 1992
-link: https://us.macmillan.com/books/9780765334671/the-shadow-rising
-abstract: "Accompanied by Moiraine Damodred, Rand arrives at the Aiel Waste and is granted permission by the Wise Ones to enter the sacred city of Rhuidean. After passing through a doorframe ter'angreal, Moiraine gains foresight while the Aiel await Rand's return, either with both arms marked by dragon symbols, validating his identity as He Who Comes With the Dawn, the Chief of Chiefs of all the Aiel—or to never emerge at all. Since its debut in 1990, The Wheel of Time® has captivated millions of readers around the globe with its scope, originality, and compelling characters. The last six books in series were all instant #1 New York Times bestsellers, and The Eye of the World was named one of America's best-loved novels by PBS's The Great American Read."
-format: Paperback
-isbn: 9780765334671
-acquisitionDate: 2021-12-07
-annotationDate: 2021-12-07
+title: All Stands on the Edge of Change
 date: 2021-12-07
-tags: fantasy
+permalink: 2021/12/07/all-stands-on-the-edge-of-change
 ---
-# The Shadow Rising
 
-[[2021]] / [[annotations]]
+[[2021]] • [[Annotations]] • [[Robert Jordan]] • [[The Shadow Rising]]
 
 "Do you think we could trust to the Pattern, to his destiny, to keep him alive, like some story? This isn't a story, he isn't some invincible hero, and if his thread is snipped out of the Pattern, the Wheel of Time won't notice his going, and the Creator will produce no miracles to save us" (32)
 

@@ -1,31 +1,12 @@
 ---
-layout: annotation
-category: annotations
-author: Robert Henryson
-citeAuthor: Henryson, Robert
-shortAuthor: Henryson
-translator: Seamus Heaney
-title: The Testament of Cresseid
-subtitle:
-location: London, EN
-publisher: Faber & Faber
-originalDate:
-publicationDate: 2009
-displayDate: 2009
-link: https://www.faber.co.uk/product/9780571249664-the-testament-of-cresseid-seven-fables/
-abstract: "The greatest of the late medieval Scots makars, Robert Henryson was influenced by their vision of the frailty and pathos of human life, and by the inherited poetic example of Geoffrey Chaucer. His finest poem, and one of the rhetorical masterpieces of Scots literature, is the narrative Testament of Cresseid. Set in the aftermath of the Trojan war, the Testament completes the story of Chaucer’s Troilus and Criseyde, offering a tragic account of its faithless heroine’s rejection by her lover Diomede, and of her subsequent decline into prostitution and leprosy. Written in Lowland Scots, a distinctive northern version of English, the Testament has been translated by Seamus Heaney into a confident but faithful idiom which matches the original verse-form and honours the poem's unique blend of detachment and compassion. A master of high narrative, Henryson was also a comic master of the verse fable; his burlesques of human weakness in the guise of animal wisdom are delicately pointed with irony. Seven of the Fables are her sparklingly translated by Seamus Heaney, their freshness rendered to the last claw and feather. Altogether, The Testament of Cresseid & Seven Fables provides a rich and wide-ranging encounter between two poets across six centuries."
-format: Paperback
-isbn: 9780571249664
-acquisitionDate: 2023-03-11
-annotationDate: 2023-03-20
+title: Under the Figure of Another Thing
 date: 2023-03-20
-tags: poetry irish scots
+permalink: 2023/03/20/under-the-figure-of-another-thing
 ---
-# The Testament of Cresseid
 
-[[2023]] / [[annotations]]
+[[2023]] • [[Annotations]] • [[Robert Henryson]] • [[The Testament of Cresseid and Seven Fables]]
 
-*Introduction*
+#### Introduction
 
 Denton Fox: "Henryson belongs firmly to the Middle Ages, not to the Renaissance" (vii)
 
@@ -44,7 +25,7 @@ Denton Fox: "Henryson belongs firmly to the Middle Ages, not to the Renaissance"
 <br>
 
 
-*The Testament of Cresseid*
+#### The Testament of Cresseid
 
 "Who knows if all that Chaucer wrote was true? / Nor do I know if this second version / Was genuine, or maybe something new / Invented by a poet, some narration / Framed so as to include the lamentation / And woeful fall of passionate Cresseid / What she would endure and how she died" (7)
 
@@ -55,7 +36,7 @@ Denton Fox: "Henryson belongs firmly to the Middle Ages, not to the Renaissance"
 <br>
 
 
-*Seven Fables*
+#### Seven Fables
 
 "The fables told by poets in old times / Are by no means all grounded upon truth / Yet their attractive style, their craft and themes / Still make for pleasant listening; and with / Good cause, since they, from the beginning, / Aimed to reprove man's whole wrong way of living / Under the figure of another thing" (51)
 

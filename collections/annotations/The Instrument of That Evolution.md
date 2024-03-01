@@ -1,29 +1,10 @@
 ---
-layout: annotation
-category: annotations
-author: Isaac Asimov
-citeAuthor: Asimov, Isaac
-shortAuthor: Asimov
-translator:
-title: Second Foundation
-subtitle:
-location: New York, NY
-publisher: Bantam Spectra
-originalDate: 1953
-publicationDate: 1991
-displayDate:  1953
-link: https://en.wikipedia.org/wiki/Second_Foundation
-abstract: "Isaac Asimov's Foundation novels are one of the great masterworks of science fiction. An unsurpassed blend of nonstop action, daring ideas, and extensive world-building, they chronicle the struggle of a courageous group of men and women dedicated to preserving humanity's light in a galaxy plunged into a nightmare of ignorance and violence thirty thousand years long. After years of struggle, the Foundation lies in ruinsdestroyed by the mutant mind power of the Mule. But it is rumored that there is a Second Foundation hidden somewhere at the end of the Galaxy, established to preserve the knowledge of mankind through the long centuries of barbarism. The Mule failed to find it the first time-but now he is certain he knows where it lies. The fate of the Foundation rests on young Arcadia Darell, only fourteen years old and burdened with a terrible secret. As its scientists gird for a final showdown with the Mule, the survivors of the First Foundation begin their desperate search. They too want the Second Foundation destroyed... before it destroys them."
-format: Paperback
-isbn: 9780553293364
-acquisitionDate: 2021-09-20
-annotationDate: 2021-09-20
+title: The Instrument of That Evolution
 date: 2021-09-20
-tags: sciencefiction
+permalink: 2021/09/20/the-instrument-of-that-evolution
 ---
-# Second Foundation
 
-[[2021]] / [[annotations]]
+[[2021]] • [[Annotations]] • [[Isaac Asimov]] • [[Second Foundation]]
 
 "The First Galactic Empire had endured for tens of thousands of years. It had included all the planets of the Galaxy in a centralized rule, sometimes tyrannical, sometimes benevolent, always orderly" (1)
 
@@ -33,7 +14,7 @@ tags: sciencefiction
 
 "All was arranged in such a way that the future as foreseen by the unalterable mathematics of psychohistory would involve their early isolation from the main body of Imperial civilization and their gradual growth into the germs of the Second Galactic Empire" (16)
 
-"a strong mind, untouched and unmolded except by the manifold disorganizations of the Universe. It writhed in floods and waves" (18)
+"a strong mind, untouched an unmolded except by the manifold disorganizations of the Universe. It writhed in floods and waves" (18)
 
 "The Cosmos had one of its feature writers compose a weirdie about a world consisting of beings of pure mind---the Second Foundation, you see---who had developed mental force to energies large enough to compete with any known to physical science" (19)
 
@@ -45,9 +26,7 @@ tags: sciencefiction
 
 *Commentator's Note: This is an interesting shift in narratorial voice Asimov does throughout the book, with us, the reader, as spectators upon the conferences of the Second Foundation.*
 
-"We deal here with psychologists---and not merely psychologists. Let us say, rather, scientists with a psychological orientation. That is, men whose fundamental conception of scientific philosophy is" (23)
-
-"pointed in an entirely different direction from all of the orientations we know. The "psychology" of scientists brought up among the axioms deduced from the observational habits of physical science has only the vaguest relationship to PSYCHOLOGY" (24)
+"We deal here with psychologists---and not merely psychologists. Let us say, rather, scientists with a psychological orientation. That is, men whose fundamental conception of scientific philosophy is pointed in an entirely different direction from all of the orientations we know. The "psychology" of scientists brought up among the axioms deduced from the observational habits of physical science has only the vaguest relationship to PSYCHOLOGY" (23-24)
 
 "Have you ever tried analyzing the problem deductively?" (27)
 

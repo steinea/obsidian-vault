@@ -1,31 +1,12 @@
 ---
-layout: annotation
-category: annotations
-author: Gilles Deleuze
-citeAuthor: Deleuze, Gilles
-shortAuthor: Deleuze
-translator: Constantin V. Boundas
-title: Empiricism and Subjectivity
-subtitle: An Essay on Hume’s Theory of Human Nature
-location: New York, NY
-publisher: Columbia University Press
-originalDate: 1953
-publicationDate: 1991
-displayDate: 1953
-link: https://cup.columbia.edu/book/empiricism-and-subjectivity/9780231068130
-abstract: "One of Gilles Deleuze’s earliest works, published in 1953 before the heyday of structuralism, Empiricism and Subjectivity anticipates and explains the post-structuralist turn to empiricism. At last available in paperback, the book presents a challenging and controversial reading of David Hume's philosophy, with comprehensive coverage of Hume's main texts and ideas. It lays the foundation for Deleuze's later work and is invaluable for understanding the evolution of Deleuze's thought from Hume to Kant to Nietzsche. Constantin V. Boundas's translation profoundly influenced the discussion of Deleuze and his theory of difference. Empiricism and Subjectivity took a significant step toward the idea of ethics without morality and offered an important contribution to the debate about the vanishing subject. Deleuze himself provides a preface to this English-language edition."
-format: Paperback
-isbn: 9780231068130
-acquisitionDate: 2022-10-12
-annotationDate: 2023-03-29
+title: We Are Habits, Nothing but Habits
 date: 2023-03-29
-tags: philosophy empiricism deleuze hume
+permalink: 2023/03/29/we-are-habits-nothing-but-habits
 ---
-# Empiricism and Subjectivity
 
-[[2023]] / [[annotations]]
+[[2023]] • [[Annotations]] • [[Gilles Deleuze]] • [[Empiricism and Subjectivity]]
 
-*Deleuze's Preface to the English-Language Edition*
+#### Deleuze's Preface to the English-Language Edition
 
 "We dream sometimes of a history of philosophy that would list only the new concepts created by a great philosopher" (ix)
 
@@ -56,14 +37,14 @@ Hume: "established the concept of *belief* and put it in the place of knowledge"
 <br>
 
 
-*Translator's Acknowledgements*
+#### Translator's Acknowledgements
 
 "Grateful to Professors Francois Laruelle and Anne-Francoise Schmid-Laruelle" (xi)
 
 <br>
 
 
-*One: The Problem of Knowledge and the Problem of Ethics*
+#### One: The Problem of Knowledge and the Problem of Ethics
 
 "Hume proposes the creation of a science of humanity" (21)
 
@@ -200,7 +181,7 @@ Hume: "A passion is an original existence ... not any representative quality, wh
 <br>
 
 
-*Two: Cultural World and General Rules*
+#### Two: Cultural World and General Rules
 
 "It is the essence of moral conscience to approve and disapprove ... to praise or blame" (37)
 
@@ -414,7 +395,7 @@ These three are one and the same: "this period, at the dawn of the development o
 <br>
 
 
-*Three: The Power of the Imagination in Ethics and Knowledge*
+#### Three: The Power of the Imagination in Ethics and Knowledge
 
 "Sometimes Hume says that the general rule is in essence the combination of reflection and extension" (55)
 
@@ -522,7 +503,7 @@ Hume "The following of general rules is a very unphilosophical species of probab
 
 <br>
 
-*Four: God and the World*
+#### Four: God and the World
 
 "an example which would bring together all the significations that we have successively attributed to general rules, we would find it in religion" (73)
 
@@ -578,7 +559,7 @@ Hume: "[T]he understanding, when it acts alone, according to its most general pr
 <br>
 
 
-*Five: Empiricism and Subjectivity*
+#### Five: Empiricism and Subjectivity
 
 "Subject is that which develops itself" (85)
 
@@ -689,7 +670,7 @@ This is "the fundamental claim of empiricism" (104)
 <br>
 
 
-*Six: Principles of Human Nature*
+#### Six: Principles of Human Nature
 
 "a philosophical theory is an elaborately developed question, and nothing else; by itself and in itself, it is not the resolution to a problem, but the elaboration, *to the very end*, of the necessary implications of a formulated question" (106)
 
@@ -742,7 +723,7 @@ Purposiveness "presents itself to us under so many different expressions, becaus
 <br>
 
 
-*Conclusion: Purposiveness*
+#### Conclusion: Purposiveness
 
 "The mind ... must be determined in some other way ... It is no longer a matter of fixed relations, but of centers of fixation" (124)
 

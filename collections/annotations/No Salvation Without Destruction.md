@@ -1,30 +1,10 @@
 ---
-layout: annotation
-category: annotations
-author: Robert Jordan
-citeAuthor: Jordan, Robert
-shortAuthor: Jordan
-translator: 
-title: The Fires of Heaven
-subtitle: 
-location: New York, NY
-publisher: Tor
-originalDate: 1993
-publicationDate: 1993
-displayDate: 1993
-link: https://us.macmillan.com/books/9780765334640/thefiresofheaven
-abstract: Prophesized to defeat the Dark One, Rand al'Thor, the Dragon Reborn, has upset the balance of power across the land. Shaido Aiel are on the march, ravaging everything in their path. The White Tower's Amyrlin has been deposed, turning the Aes Sedai against one another. The forbidden city of Rhuidean is overrun by Shadowspawn. Despite the chaos swirling around him, Rand continues to learn how to harness his abilities, determined to wield the One Power--and ignoring the counsel of Moiraine Damodred at great cost.
-format: Paperback
-isbn: 9780765334640
-acquisitionDate: 2023-12-31
-annotationDate: 2023-12-31
+title: No Salvation Without Destruction
 date: 2023-12-31
-tags:
-  - fantasy
+permalink: 2023/12/31/no-salvation-without-destruction
 ---
-# The Fires of Heaven
 
-[[2023]] / [[annotations]]
+[[2023]] • [[Annotations]] • [[Robert Jordan]] • [[The Fires of Heaven]]
 
 "the fires of heaven purge the earth. There is no salvation without destruction, no hope this side of death" (0)
 
