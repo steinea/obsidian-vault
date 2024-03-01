@@ -5,17 +5,22 @@ subtitle:
 author:
 date: 
 permalink: ''
-tags:
-  - 
-  - 
 ---
 
-# 
+[[books]] • AUTHOR • CONCEPT
 
-###
-
-[[books]] / [[]] / [[]]
+### Citation
 
 AUTHOR. *TITLE.* PUBLISHER, YEAR. [ISBN](URL).
 
-> 
+<br>
+
+### Abstract
+
+>
+
+<br>
+
+### Annotation
+
+LINK
