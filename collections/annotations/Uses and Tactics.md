@@ -1,38 +1,20 @@
 ---
-layout: annotation
-category: annotations
-author: Michel de Certeau
-citeAuthor: de Certeau, Michel
-shortAuthor: de Certeau
-translator: Steven F. Rendall
-title: The Practice of Everyday Life
-subtitle:
-location: Berkeley, CA
-publisher: University of California Press
-originalDate: 1974
-publicationDate: 1974
-displayDate: 1974
-link: https://www.ucpress.edu/book/9780520271456/the-practice-of-everyday-life
-abstract: "In this incisive book, Michel de Certeau considers the uses to which social representation and modes of social behavior are put by individuals and groups, describing the tactics available to the common man for reclaiming his own autonomy from the all-pervasive forces of commerce, politics, and culture. In exploring the public meaning of ingeniously defended private meanings, de Certeau draws brilliantly on an immense theoretical literature to speak of an apposite use of imaginative literature."
-format: Paperback
-isbn: 9780520271456
-acquisitionDate: 2016-10-31
-annotationDate: 2016-10-31
+title: Uses and Tactics
 date: 2016-10-31
-tags: philosophy school
+permalink: 2016/10/31/uses-and-tactics
 ---
-# The Practice of Everyday Life
 
-[[2016]] / [[annotations]]
-#### I. Summary
+[[2016]] • [[Annotations]] • [[Michel de Certeau]] • [[The Practice of Everyday Life]]
 
-***Dedication***
+### I. Summary
+
+#### Dedication
 
 The voice of the "ordinary man \... is almost indistinguishable from the rumble of history." It is "the murmuring voice of societies." The shift in focus onto the "audience" is the "advent of the number" that "comes along with democracy, the large city, administrations, cybernetics." The audience "is a flexible and continuous mass, woven tight like a fabric with neither rips nor darned patches, a multitude of quantified heroes who lose names and faces as they become the ciphered river of the streets, a mobile language of computations and rationalities that belong to no one."
 
 <br>
 
-***Preface***
+#### Preface
 
 De Certeau wants to elaborate "*a science of singularity*" (ix), a "science of the relationship that links everyday pursuits to particular circumstances" (ix).
 
@@ -42,7 +24,7 @@ The translation of the text from French to English is a project in service of th
 
 <br>
 
-***General Introduction***
+#### General Introduction
 
 Keywords: *action, consumer, doing, enunciation, innovation, user, making, manipulation, operation, practice, production, reappropriation, rent, tactics, use*
 
@@ -138,7 +120,7 @@ Tactics are "ways of reappopriating the product-system" and "have as their goal 
 
 <br>
 
-***A Common Place: Ordinary Language***
+#### A Common Place: Ordinary Language
 
 The everyday and the ordinary is the nowhere of de Certeau's project. De Certeau is concerned with the everyday forms of resistance that are the result of a disseminated commonality in culture---broadly, the experience of necessity and death. The everyday expresses this experience in both its repeatability and its uniqueness, in its coming into being and its passing away. The everyday is that which is both *in time,* but which in its ephemerality implicitly acknowledges the ineffable, universal experience of death, which is finitude and finality. Power seeks a place that can resist the erosion of time; the everyday resistance flourishes in the erosion of places of power.
 
@@ -168,7 +150,7 @@ The result is that Wittgenstein (and so de Certeau) work from "the position whic
 
 <br>
 
-***Popular Cultures: Ordinary Language***
+#### Popular Cultures: Ordinary Language
 
 Having established the language of the ordinary, de Certeau sets out to elaborate the form of practice that the language of the ordinary makes possible. Condensed into a single form, the practice or "art" of the ordinary is *la perruque,* the use of scraps by the worker for his own ends, the subversion of factory time by a particularly human and unproductive time. The practice of *la perruque,* of use within a received system to ends outside of it, can be seen in games, legends, and word-play, in gifts, and in tricks, and in tenacity. *La perruque* is a voluntary loss, an excess within the system that constitutes a gain without.
 
@@ -200,7 +182,7 @@ The "game of free exchange" creates "networks of connivances and sleights of han
 
 <br>
 
-***"Making Do": Uses and Tactics***
+#### "Making Do": Uses and Tactics
 
 Having articulated the conceptual relevance of *la perruque,* de Certeau generalizes it into a theory of tactics, his ways of making do with what one has received. This allows de Certeau to recuperate consumption as a guileful mode of production that eludes and insinuates itself into power. Consumption is a transverse production that has no place of its own but operates within the networks of a system that is already established. De Certeau uses a model of enunciation to explain his tactics, and then returns from tactics to rhetoric to indicate the "tropes" of a tactical repertory.
 
@@ -256,13 +238,13 @@ Today, these practices have experienced a "fragmentation and explosive growth" b
 
 <br>
 
-***Theories of the Art of Practice***
+#### Theories of the Art of Practice
 
 De Certeau sees in Foucault, Bourdieu, Vernant, and Détienne "fundamental analyses" of "different ways of locating a technicity of a certain type and at the same time situating the study of this technicity with respect to current trends in research" (43). The following chapters in Part II acknowledge that "we never write on a blank page, but always on one that has already been written on" (43). As such, the "objects produced by an inquiry result from its \... contribution to the field that has made it possible. They thus refer to a "state of the question"---that is, to a network of professional and textual exchanges, to the "dialectic" of an inquiry in progress" (43). Therefore, "the "objects" of our research cannot be detached from the intellectual and social "commerce" that organizes their definition and their displacements" (44). We cannot deny this commerce because to do so is to "create\[\] a fiction of a place of \[one's\] own (*une place propre*) \... It removes the traces of belonging to a network---traces that always compromise the author's rights" (44). "Every "proper" place is altered by the mark others have left on it \... Every particular study is a many-faceted mirror \... reflecting the exchanges, readings, and confrontations that form the conditions of its possibility" (44).
 
 <br>
 
-***Foucault and Bourdieu***
+#### Foucault and Bourdieu
 
 De Certeau examines two of his influences, Foucault and Bourdieu, contrasting the approaches to culture that the two theorists take. Foucault looks at products, whereas as Bourdieu looks at geneses. Foucault is able to identify a plurality of outcomes and practices, whereas Bourdieu reduces every cultural feature to a determination of a single origin, the *habitus.* In short, Bourdieu's theory is homogenizing, while Foucault's acknowledges the heterogeneity of human practice. In Foucault, force, which is the "technology of power" in the feudal period, "vampirizes" the reform movements, and so disseminates itself as discipline in every facet of society. Out of the many heterogeneous practices of society, the optical and panoptical are "foregrounded," becoming the primary technologies of discipline. Beneath this panoptic eye, however, the other non-foregrounded practices remain in action, and as such become forms of resistance. In Bourdieu, however, the *habitus* totalizes all human action, reducing *all* practices to manifestations of a constructed unity. Against this bleak perspective, de Certeau sees in Bourdieu a potential inversion, a reclamation of the "unconscious" from Bourdieu's rendering of it as ignorance, a transformation of it into a subversive tactics that undermines the "productive" logic of the *habitus.*
 
@@ -270,7 +252,7 @@ Keywords: *Bourdieu, discourse, docta ignorantia, Foucault, habitus, place, powe
 
 <br>
 
-*Foucault*
+##### Foucault
 
 De Certeau's tactics---"practices" or "procedures"---must be examined in their "relation" to "discourse" (45). "Procedures lack the repetitive fixity of rites, customs or reflexes, kinds of knowledge which are no longer (or not yet) articulated in discourse" (45). There are, however, "\[t\]actics in discourse," which can "be the formal indicator of tactics that have no discourse" (45).
 
@@ -284,7 +266,7 @@ De Certeau asks, "What is the status of a particular apparatus when it is transf
 
 <br>
 
-*Bourdieu*
+##### Bourdieu
 
 It would seem, then, that all practices or procedures are sociocultural "technologies," but that they are "strategic" or "tactical" insofar as they operate from a proper or not. This is why tactics "seem to be analyzable only indirectly" (50), because tactical practices are so only in relation to the "technology of power" that has been foregrounded and capitalized on by a society.
 
@@ -322,7 +304,7 @@ Bourdieu thus carries out the very "foregrounding" that Foucault elaborates, and
 
 <br>
 
-***The Arts of Theory***
+#### The Arts of Theory
 
 What is the *docta ignorantia?* What is the unknown way of the everyman? This is, here, what de Certeau explores. By examining the "art of theory," the way in which such thinkers as Bourdieu and Foucault *cut out* and *turn over* the non-discursive practices of a particular group or community and make them the subject and so organizing principle of their own theoretic discourse, de Certeau shows that it is precisely that which cannot be "verbalized" in discourse that constitutes the "art" of the "everyday." This is to say that the ineffable "remainder" which is constantly excluded by science and which science constantly seeks to circumscribe is that set of everyday virtuosities, signified by Kant's theory of tact or judgment, which have no place of their own but are reflected in the practice of individuals in relationship with other individuals. Because these tactics are unknown to the user they cannot be possessed, and they can only be known insofar as they are reflected by the interpreter, fictive or otherwise, who is necessarily posited by the *enunciative* operation of judgment, which necessarily involves *allocution* (a speaking *to*)*.*
 
@@ -358,7 +340,7 @@ Judgment is, therefore, the *everyday practice, operation, or art*, which is to 
 
 <br>
 
-***Story Time***
+#### Story Time
 
 The structure of the operation of judgment can be seen in the act of narration, in everyday storytelling. Through the recitation of events as a story one can retell the practices of an occasion, and so re-present them to the others with whom one is in relationship. The everyday practices that are presented in this way cannot be possessed, because they can only be known in their presentation in stories, which in turn can only be known in their allocution. There is no proper place for the story, for the memory that is recited. Rather, the story and the memory *alter* place, rearrange it, traverse it, and as such are hidden from the panoptic eye of power.
 
@@ -402,7 +384,7 @@ The *proper place* wants to "eliminate\[\] these criminal tricks. But they retur
 
 <br>
 
-***Walking in the City***
+#### Walking in the City
 
 Just as stories present an art of speaking that cannot be capitalized upon, articulating the everyday practices of everyday people as they are expressed in relation with other everyday people, walking is another "enunciative" operation that appropriates and utilizes a received system for "excessive" or "gratuitous" ends. Walking creates singularities of nowheres within the totalizing city, making *habitation* out of places that are otherwise intended for *production.* This habitation is introduced by *belief* in what is *lacked* in any given place, most often the *memory* of a past which introduces a prior temporal instance to the totality of a synchronic system. The memory haunts the place, destabilizing it. In all of this, de Certeau's preoccupation with lack and space stems from the original lack and separation, the child's differentiation from his mother in birth. This childhood experience of *every person* is the ground for every spatial practice that insinuates itself into the network and undermines it from within.
 
@@ -424,7 +406,7 @@ The concept of the "readable city" is "defined by the possibility of a threefold
 
 "The Concept-city is decaying" (95). There is a danger in this, however. When the "ministers of knowledge \... transform their bewilderment into "catastrophes," when they seek to enclose the people in the "panic" of their discourses, are they once more necessarily right?" (95-96). The crisis of decay is appropriated for the reconstitution of the city, the proper.
 
-In response, de Certeau "analyze\[s\] the microbe-like, singular and plural practices \... which have outlive \[the system's\] decay \...\ [and which\] reinforced themselves in a proliferating illegitimacy, developed and insinuated themselves into the networks of surveillance, and combined in accord with unreadable but stable tactics" (96). These practices constitute the "*chorus of idle footsteps,*" the "innumerable collection of singularities" (97).
+In response, de Certeau "analyze\[s\] the microbe-like, singular and plural practices \... which have outlive \[the system's\] decay \...\ [and which] reinforced themselves in a proliferating illegitimacy, developed and insinuated themselves into the networks of surveillance, and combined in accord with unreadable but stable tactics" (96). These practices constitute the "*chorus of idle footsteps,*" the "innumerable collection of singularities" (97).
 
 Here de Certeau draws a connection between walking and the "speech act": it "has a triple "enunciative" function" (97-98):
 
@@ -478,7 +460,7 @@ In this differentiation the child "sees itself as *one \...* but *another*" (109
 
 <br>
 
-***Railway Navigation and Incarceration***
+#### Railway Navigation and Incarceration
 
 With the train "\[e\]verything is in its place, as in Hegel's *Philosophy of Right*" (111). The train provides a "speculative experience of the world" (111). As in the voyeurism of panorama-city, this is a problem for de Certeau. It is a "dispossession of the hand in favour of a greater trajectory of the eye" (112). But "paradoxically it is the silence" of the scene observed that "makes our memories speak"---their "cutting-off is necessary for the birth, outside of these things but not without them, of unknown landscapes and the strange fables of our private stories" (112).
 
@@ -486,7 +468,7 @@ The window creates "a sort of rubbing together of spaces at the vanishing point 
 
 <br>
 
-***Spatial Stories***
+#### Spatial Stories
 
 Stories allow us to make spaces out of places, to cut across terrain, to transgress the very boundaries that stories allow us to establish. Stories operate through frontiers and bridges, simultaneously joining and separating regions that, in their interlocution, are *articulated* by the enunciation of a tour by a subject. Stories are, therefore, in their polyvalence, delinquent forces that resist the totalization of place, positing the in-betweens necessary for movement and for habitation.
 
@@ -524,7 +506,7 @@ The story thus "cuts across" the received terrain, "hand\[ing\] the place over t
 
 <br>
 
-***The Scriptural Economy***
+#### The Scriptural Economy
 
 The voice, the spoken word, once held language and society together. But then, de Certeau tells us, the voice could no longer be heard, and upon this silence the entire modern effort has struggled to redefine itself without this external authority. In a way this is a sort of birth, a separation and differentiation. What must be understood is that the time before, the time of the pure voice, though lost, is still present in the strata upon which the modern West has been built. In the same way, de Certeau sees the scriptural economy crumbling, becoming part of the strata upon which a *new* economy, a new system will be built. The cynical ironism of the early modernists like Kafka and Duchamp gives ways to the decadent ironism of late modernism, characterized by the likes of Derrida and, arguably, de Certeau. In relation to the voice which is absent there can be only play. This is a point de Certeau will attempt to move beyond in the following chapters, his way forward marked by the bodily cry of pleasure and pain that cannot be articulated in the scriptural economy that is passing away.
 
@@ -564,7 +546,7 @@ Finally the Lacanian verbiage is made explicit: *lalangue* "connects speaking wi
 
 <br>
 
-***Quotations of Voices***
+#### Quotations of Voices
 
 What is the cry? What is this voice from the margins? This is de Certeau's focus in this chapter. When the pure voice has been lost, when we find ourselves trapped within the disseminated network of language without a centre, in the interminable play and irony of the text, where is the exit? If it is true that *il n'y a pas de hors-texte* where can a hope for resistance be found? It is in the quotation of the voice, that unsignifiable cry, that insinuates itself into writing, into the scriptural economy, the delirium that destabilizes it from within.
 
@@ -598,7 +580,7 @@ This other school pursues "the reminiscences of bodies lodged in ordinary langua
 
 <br>
 
-***Reading as Poaching***
+#### Reading as Poaching
 
 Again, de Certeau narrates a tactic. Just as in speech, in walking, and in stories, reading is the subversive act of *la perruque,* that excessive and gratuitous practice that "makes do" with the products of society that seeks to inform and to conform the reader. Reading is an invisible traverse of culture, cutting across the grid that would relegate persons to subjectivities, localized, spatialized, and deprived of temporal presence and presentation. Reading, in being of no place, in making the reader *elsewhere,* is a subversion of place that allows one to insinuate something more, something else, something *different* into a place, making into a space for *use.*
 
@@ -628,7 +610,7 @@ De Certeau argues, then, that we "should try to rediscover the movements of this
 
 <br>
 
-***Believing and Making People Believe***
+#### Believing and Making People Believe
 
 Here de Certeau undertakes a critique of belief, but also opens it up to subversion from the inside. The early efforts of his book are vital, here. If the person is totally determined by the apparatus, the *dispositif*, the *habitus,* he or she has no choice, no agency. But if agency is that movement made possible by the differentiation of birth, that constant movement toward the other, that movement constituted in the *gap* between selves, then agency can never be totally determined, or at least it can be reclaimed from the totalizing proper place. The place maintains the gap, the distance, so as to create an *external* referent (in the absence of a transcendental other) to authorize itself. But in *moving* to the other, in recognizing its likeness and seeing also the otherness in oneself, one is able to move beyond the objectless "truth" peddled by power.
 
@@ -676,7 +658,7 @@ But people are not fools, and through the subversive agency of the everyman this
 
 <br>
 
-***The Unnameable***
+#### The Unnameable
 
 Death cannot be spoken by a society built on production. It is the ultimate unproductive state. And yet, death is, perhaps, our most shared condition as humans. There is a necessity to the speaking of death. For de Certeau, death can return, it can be spoken, in the very writing of the scriptural economy that sought to exclude it. Writing itself is precipitated by a lack, the loss of the voice. In the play of writing that circles around this originary absence, the writer can, in a way, speak death, that final absence, that absolute other, that indeterminate nowhere. In writing, the writer can signify the unsignifiable, symbolize the unsymbolizable, name the unnameable.
 
@@ -718,7 +700,7 @@ To write is "to *practice* the relation between enjoying and manipulating, in th
 
 <br>
 
-***Indeterminate***
+#### Indeterminate
 
 Theory is an art of "communication without substance" (199). It is concerned with "that which happens beneath technology and disturbs its operation \... technology's limit \... the murmuring of everyday practices" (200).
 
@@ -732,7 +714,7 @@ Theoretical time "is in fact a time *linked* to the improbable, to failures, to 
 
 <br>
 
-#### II. Critique
+### II. Critique
 
 Hayden White describes Foucault's work as a "thicket" and the term is appropriate here, as well, for de Certeau. *The Practice of Everyday Life* is dense, brambly, full of bypaths and windings and circularities. It is jargon heavy, frequently abstruse, and sometimes, apparently even, nonsensical. And yet, *The Practice of Everyday Life* is, in this surface (I do not say beneath, because de Certeau would, I think, be inclined to side with Foucault against the dichotomy of "surfaces and depths") carefully argued and thoughtfully articulated. The play of language is of the utmost seriousness for de Certeau. To understand him we must play along and try and grasp hold of his moves.
 
