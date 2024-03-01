@@ -1,31 +1,12 @@
 ---
-layout: annotation
-category: annotations
-author: François Laruelle
-citeAuthor: Laruelle, François
-shortAuthor: Laruelle
-translator: Rocco Gangle
-title: Philosophies of Difference
-subtitle: A Critical Introduction to Non-Philosophy
-location: London, UK
-publisher: Continuum
-originalDate: 1986
-publicationDate: 2010
-displayDate: 1986
-link: https://www.bloomsbury.com/us/philosophies-of-difference-9780826436634/
-abstract: "A crucial text in the development of François Laruelle's oeuvre and an excellent starting point for understanding his broader project, Philosophies of Difference offers a theoretical and critical analysis of the philosophers of difference after Hegel and Nietzsche. Laruelle then uses this analysis to introduce a new theoretical practice of non-philosophical thought. Rather than presenting a narrative historical overview, Laruelle provides a series of rigorous critiques of the various interpretations of difference in Hegel, Nietzsche and Deleuze, Heidegger and Derrida. From Laruelle's innovative theoretical perspective, the forms of philosophical difference that emerge appear as variations upon a unique, highly abstract structure of philosophical decision, the self-posing and self-legitimating essence of philosophy itself. Reconceived in terms of philosophical decision, the seemingly radical concept of philosophical difference is shown to configure rather the identity of philosophy as such, which thus becomes manifest as a contingent and no longer absolute form of thinking. The way is thereby opened for initiating a new form of thought, anticipated here with the development of a key notion of non-philosophy, the Vision-in-One."
-format: PDF
-isbn: 9780826436634
-acquisitionDate: 2020-07-21
-annotationDate: 2020-07-21
+title: The Syntax of Difference
 date: 2020-07-21
-tags: philosophy
+permalink: 2020/07/21/the-syntax-of-difference
 ---
-# Philosophies of Difference
 
-[[2020]] / [[Annotations]]
+[[2020]] • [[Annotations]] • [[François Laruelle]] • [[Philosophies of Difference]]
 
-***Translator's Introduction (pp. vi-xii)***
+#### Translator's Introduction (pp. vi-xii)
 
 Put simply and directly by Gangle, "François Laruelle's non-philosophy marks a bold attempt to think the One, or Real outside of any correlation with Being and without reference to transcendence" (vi)
 
@@ -79,7 +60,7 @@ Exemplification is a "symptom to be analyzed and adequately understood" (ix)
 
 <br>
 
-***Instructions for Use (pp. xii-xxii)***
+#### Instructions for Use (pp. xii-xxii)
 
 "a network of contemporary philosophies" (xiii)
 
@@ -187,9 +168,9 @@ The congenital defect is "unifying duality ... the synthesis of contraries ... d
 
 <br>
 
-***Chapter One: Introduction (pp. 1-21)***
+#### Chapter One: Introduction (pp. 1-21)
 
-*How Difference Has Become a Philosophical Decision*
+##### How Difference Has Become a Philosophical Decision
 
 "One constellation does not dispel another, it installs itself in the gaps of the former, occupies its neighbourhoods and proposes new signs, a new economy of the same places" (1)
 
@@ -266,7 +247,7 @@ Philosopy "demands" this "scission" of syntax and real (6)
 
 <br>
 
-*How Difference Has Requisitioned the One [^21]*
+##### How Difference Has Requisitioned the One [^21]
 
 [^21]: Laruelle should really do a close reading here (though that may be coming...). This section suffers from a lack of specifics. Laruelle generalizes his subjects to the point that they become the "mélange" he criticizes. His use of Being and being (lower-case *b*, the ontic domain of beings) is loose, and lacks the rigor of Heidegger in *Being and Time*.
 
@@ -278,7 +259,7 @@ Difference "raises aporia to the truth of essence" (8)
 
 <br>
 
-*How a Theory of Difference is Possible*
+##### How a Theory of Difference is Possible
 
 "If the Turning can signify something for us, it is that thinking is always-already in the Turning, constrained to let itself be carried and carried away by its swerving. And the experience of the Turning must be undergone; it is the specific movement, the moving proper to Difference, only Difference can 'turn' in this absolute sense." (9)[^22]
 
@@ -310,7 +291,7 @@ The One is indifferent "*to philosophical decision and its modes of 'Difference'
 
 <br>
 
-*The Greco-Occidental Invariant*
+##### The Greco-Occidental Invariant
 
 The "object" of the "present work" is to "to awaken philosophers to a problem, to an experience rather, that is non-philosophical but that is capable of founding a rigorous science of philosophy" (15)
 
@@ -389,9 +370,9 @@ Laruelle's "description" and "critique" of difference is "scientific and transce
 
 <br>
 
-***Chapter Two: Syntax of Difference (p. 22-38)***
+#### Chapter Two: Syntax of Difference (p. 22-38)
 
-*Difference as Form of Order*
+##### Difference as Form of Order
 
 The "essence" of the "One" "saves it from philosophical decision" (22)
 
@@ -424,7 +405,7 @@ Differential tautology is "the superior (transcendental) form of tautology: no l
 <br>
 
 
-*Passage from the Meta-Physical to the Transcendental Form of Difference*
+##### Passage from the Meta-Physical to the Transcendental Form of Difference
 
 The "first-level: *the meta-physical articulation of Difference*" (28)
 
@@ -468,7 +449,7 @@ The turning of the One upon itself "is the most certain sign of the failure of t
 
 <br>
 
-*The Impossible Surpassing of Metaphysics*
+##### The Impossible Surpassing of Metaphysics
 
 "Difference is both interior and exterior to metaphysics and representation" (31)
 
@@ -495,7 +476,7 @@ absolutely— to turn and interiorize representation into and as the mode of tra
 
 <br>
 
-*The Three Stages of Difference*
+##### The Three Stages of Difference
 
 Difference "passes through three continuously linked levels of which the last two define *the double articulation of philosophical decision in general*" (33)
 
@@ -513,7 +494,7 @@ This "*place[s] transcendental truth, the essence of truth once more in the serv
 
 <br>
 
-*Generalization of the Passage from the Categorial to the Transcendental*
+##### Generalization of the Passage from the Categorial to the Transcendental
 
 "Suspend are ... the ontically transcendent multiplicities ... given immediately in experience ... [and] the space of ontological diversity ... the ontic plurality of the ontological" (36)[^46]
 
@@ -525,9 +506,9 @@ This "*place[s] transcendental truth, the essence of truth once more in the serv
 
 <br>
 
-***Chapter Three: Reality of Difference (pp. 39-75)***
+#### Chapter Three: Reality of Difference (pp. 39-75)
 
-*From the Syntax to the Reality of Difference*
+##### From the Syntax to the Reality of Difference
 
 "Difference thinks or reflects itself in itself. It thus entails the disjunction and belonging ... of syntax and reality, of the real's articulation and the experience of the articulated real" (39)
 
@@ -546,7 +527,7 @@ by 'beings' rather than ' Being'" (40)
 
 <br>
 
-*Heidegger's Difference with Respect to Idealism*
+##### Heidegger's Difference with Respect to Idealism
 
 "Difference, and particularly its Heideggerean mode, 'destroys' or 'deconstructs' the rationalized forms of the transcendental, but it remains transcendental in a broad sense where it is still a thinking of the One" (44)
 
@@ -558,7 +539,7 @@ by 'beings' rather than ' Being'" (40)
 
 <br>
 
-*A Maximalist Hypothesis of the Sense of Finitude*
+##### A Maximalist Hypothesis of the Sense of Finitude
 
 "The strength and the challenge of Heidegger are to have thought a Kantianism without physical restriction; to have universalized this in an analytic of being-there (*Dasein*); to have pushed the transcendental distinction of the thing in itself and the object or Being beyond its idealist and epistemological restrictions; to have universalized Being or the object past every limitation in the sciences, all the while guarding under the name 'Finitude' the thesis of the thing in itself; and to have thought under the name of essence the imbricated unity of Being thus universalized and of Finitude - their unity and their distinction, precisely their transcendental difference" (52)
 
@@ -568,7 +549,7 @@ In Heidegger, Finitude "has as its function to guard Difference, 'the intimate d
 
 <br>
 
-*From the Metaphysical to the Transcendental Sense of Finitude*
+##### From the Metaphysical to the Transcendental Sense of Finitude
 
 "Heidegger's thinking is a transcendental analytic, itself finite, of Finitude" (55)
 
@@ -584,7 +565,7 @@ In Heidegger, Finitude "has as its function to guard Difference, 'the intimate d
 
 <br>
 
-*The Imbrication of Finitude and Difference[1]*
+##### The Imbrication of Finitude and Difference[1]
 
 [1] Laruelle's note: "Given their technicality, the following three sections may be skipped on a first reading that would only want to follow the essential line of demonstration"
 
@@ -608,13 +589,13 @@ Finitude-withdrawal "is a 'scission' that is immediately the One" (63)
 
 <br>
 
-*Reversibility and Irreversibility*
+##### Reversibility and Irreversibility
 
 "If Being must be 'barred', it is because its essence is still more uni-vocal indeed than it" (66)
 
 <br>
 
-*From Nothingness Slave of Being to Finite Nothingness*
+##### From Nothingness Slave of Being to Finite Nothingness
 
 "Difference—in Heidegger at least—is the prodigious attempt to uproot Nothingness and Forgetting from their state of metaphysical subjugation, from their subjection to Being—without simply reversing the relation" (72)
 
@@ -626,9 +607,9 @@ Finitude-withdrawal "is a 'scission' that is immediately the One" (63)
 
 <br>
 
-***Chapter Four: Hegel and Heidegger (pp. 76-103)***
+#### Chapter Four: Hegel and Heidegger (pp. 76-103)
 
-*Insufficiency of the Syntax and the Passage to Finitude*
+##### Insufficiency of the Syntax and the Passage to Finitude
 
 "Difference is circularity, even if its circle is open and unlimited; it is the passage from one contrary to the other in both directions, reversibility" (76)
 
@@ -646,13 +627,13 @@ Finitude-withdrawal "is a 'scission' that is immediately the One" (63)
 
 <br>
 
-*Absolute Finitude: Against Alienation*
+##### Absolute Finitude: Against Alienation
 
 "the deconstruction of Being ... is the instauration of a proximity or neighbourhood that does not imply any identification or exclusion since it is neighbourhood as 'originary scission', the continuity of a topology founded upon a reserve and immediately identical (to) a withdrawal" (85)
 
 <br>
 
-*The Absolute and Its Tearing: Pain and Phenomenology*
+##### The Absolute and Its Tearing: Pain and Phenomenology
 
 "in a sense Difference seems to invert at its own expense the situation of the Dialectic" (88)
 
@@ -680,7 +661,7 @@ Difference, however, "affirms mediation in its unobjectivizable essence without 
 
 <br>
 
-*Systematic Dissolution of the Resemblances of Hegel and Heidegger*
+##### Systematic Dissolution of the Resemblances of Hegel and Heidegger
 
 "The 'identity of identity and difference' is a syntax that appears to hold for Heidegger as for Hegel" (93)
 
@@ -724,7 +705,7 @@ But, the "formula: 'the identity of identity and difference', that of the indivi
 
 <br>
 
-*The Hegel-Heidegger Conflict and the Impossibility of Distinction*
+##### The Hegel-Heidegger Conflict and the Impossibility of Distinction
 
 "Of Difference one may say in all rigor that it is a tempered and limited *Aufhebung*, both less and more than *Aufhebung*" (100)
 
@@ -758,9 +739,9 @@ But, the "formula: 'the identity of identity and difference', that of the indivi
 
 <br>
 
-***Chapter Five: Derrida (pp. 104-151)***
+#### Chapter Five: Derrida (pp. 104-151)
 
-*Derrida Between Nietzsche and Heidegger*
+##### Derrida Between Nietzsche and Heidegger
 
 "The present study of Derrida is fitted into the analytic of Difference" (104)
 
@@ -813,7 +794,7 @@ The "*Judaic component*" is the "*de-composition of the Greek*" (108)
 
 <br>
 
-*The Greco-Judaic Amphibology and How to Treat It*
+##### The Greco-Judaic Amphibology and How to Treat It
 
 The "Derridean 'mixture'" is the "immanence of the logos and its becoming-Other in a Judaic mode" (108)
 
@@ -881,7 +862,7 @@ So, then, to "*extricat[e] the kernel of real unity*" from Deconstruction, we mu
 
 <br>
 
-*Reduction of the Amphibology*
+##### Reduction of the Amphibology
 
 "Deconstruction poses local and relative evaluations of its force" (114)
 
@@ -901,7 +882,7 @@ Deconstruction "evaluates ... its own power and that of its effects" (117)
 
 <br>
 
-*The Rectification of Differance: As Difference*
+##### The Rectification of Differance: As Difference
 
 "Here is a diffuse sensation, little argued but persistent: Deconstruction ... accelerates the constitution of contemporary thought, its most insistent and visible phylum, in a combinatorics that is in the midst of drawing out its final consequences, even if it may draw these out infinitely, of producing its final effects and fulfilling itself, even if it may fulfil itself in the form of an unlimited becoming" (119)
 
@@ -921,7 +902,7 @@ Deconstruction "becomes an infinite whole, broken and infinite (we will call thi
 
 <br>
 
-*The Judaic Inversion of Difference: As Differance*
+##### The Judaic Inversion of Difference: As Differance
 
 "Derrida always interprets the complete syntax from the cut that slows and stops, from the cut-effect rather than from the flux" (129)
 
@@ -935,7 +916,7 @@ Deconstruction "becomes an infinite whole, broken and infinite (we will call thi
 
 <br>
 
-*The Body-Without-Writing or Judaic Plane of Immanence*
+##### The Body-Without-Writing or Judaic Plane of Immanence
 
 "There is here a regularity in Derrida's work ... *the requirement of a truly absolute cut-point, of an effect of differance absolutely without return* ... the contour of thinking" (134)
 
@@ -995,7 +976,7 @@ The BWW "combin[es] cadaverizing depotentialization and revivifying potentializa
 
 <br>
 
-*Relatively Undeconstructible*
+##### Relatively Undeconstructible
 
 "The syntactical scheme of Difference, on the condition that it be infinite, that the cut be in its turn a new continuum—this scheme is thus capable of analyzing Differance, of problematizing its logic and its topic, of denouncing its endeavour" (143)
 
@@ -1033,7 +1014,7 @@ The BWW "combin[es] cadaverizing depotentialization and revivifying potentializa
 
 <br>
 
-*Derrida's Correct Usage: How the Greek Logos Overcame its Jewish Experience*
+##### Derrida's Correct Usage: How the Greek Logos Overcame its Jewish Experience
 
 "Contrary to Levinas, to his provocative rigor, Derrida continues to honour Difference in the name of critical effectiveness and procures from it the Judaic variant—the Judaic pathos of the aporia" (148)
 
@@ -1051,9 +1032,9 @@ The BWW "combin[es] cadaverizing depotentialization and revivifying potentializa
 
 <br>
 
-***Chapter Six: Critique of Difference (pp. 152-195)***
+#### Chapter Six: Critique of Difference (pp. 152-195)
 
-*Of the One as Foundation of Critique*
+##### Of the One as Foundation of Critique
 
 "We seek a non-philosophical critique of philosophy in general and of Difference in particular" (152)
 
@@ -1125,7 +1106,7 @@ The One as an "immediate given" is *"a transcendental experience that is non-ref
 
 <br>
 
-*The Reality of the Critique of Philosophical Decision*
+##### The Reality of the Critique of Philosophical Decision
 
 "Difference cannot be attacked on its own terrain" (155)[^81]
 
@@ -1223,7 +1204,7 @@ This is a "distributing entirely otherwise ... without having to operate, sever 
 
 <br>
 
-*The Powerlessness of Difference to be Absolute*
+##### The Powerlessness of Difference to be Absolute
 
 "The aim of Difference? To become absolute. By what means? By detaching transcendence from its relativity to beings, to the presence of beings" (160-61)
 
@@ -1283,7 +1264,7 @@ The "relativity of Being and beings within metaphysics" is a "circuit" of "recip
 
 <br>
 
-*Of the One as Guardian of Metaphysics*
+##### Of the One as Guardian of Metaphysics
 
 "Difference fulfils, giving to it its perfect form, the oldest Occidental habitus: at worst, to philosophize is to mix and confuse; at best, it is to traverse the in-betweens or to trace boundaries" (170)
 
@@ -1354,7 +1335,7 @@ Difference has not "acceded to the transcendental essence that remains in-itself
 
 <br>
 
-*The Philosophical Hallucination of the One*
+##### The Philosophical Hallucination of the One
 
 "What Difference supposes as immediately given is not a transcendent hypostasis but the very operation or work of transcendence, *division as such or as One*" (177)
 
@@ -1396,7 +1377,7 @@ Difference "believed it was possible for it to determine Being in an other than 
 
 <br>
 
-*The Amphibology of the Real and Ideality and the Self-Dislocation of Philosophy*
+##### The Amphibology of the Real and Ideality and the Self-Dislocation of Philosophy
 
 "Difference is the contemporary solution to the problem [the amphibology] of the relations of the real and the ideal" (180)
 
@@ -1482,7 +1463,7 @@ Laruelle remarks that "the primacy of withdrawl ... if it has found for example 
 
 <br>
 
-*The Powerlessness to Think Individuals and Multiplicities*
+##### The Powerlessness to Think Individuals and Multiplicities
 
 "Empirico-transcendental parallelism thus impedes a rigorous thinking of transcendental truth, that is, of the One in its essence" (188)
 
@@ -1624,9 +1605,9 @@ What is sought (by Laruelle?) is "*an All that would no longer be opposed to the
 
 <br>
 
-***Chapter Seven: Theory of Philosophical Decision (pp. 196-223)***
+#### Chapter Seven: Theory of Philosophical Decision (pp. 196-223)
 
-*From the Undecidable to the Theory of Philosophical Decision*
+##### From the Undecidable to the Theory of Philosophical Decision
 
 "The systems of Difference, above all those of Finitude, have posed the problem of the essence of the philosophical act, of its power and powerlessness, its techniques, its calculation, its strategy" (196)
 
@@ -1664,7 +1645,7 @@ This science and critique is "grounded in the One and abandon[s] the processes o
 
 <br>
 
-*The (Non-)One and the Contingency of Philosophical Decision*
+##### The (Non-)One and the Contingency of Philosophical Decision
 
 "What then will be the effects of the One upon philosophical decision?" (198)
 
@@ -1777,9 +1758,9 @@ arguments from new experiences of the real that they believe naively to be final
 
 <br>
 
-*Non-Thetic Transcendence (NTT)*
+##### Non-Thetic Transcendence (NTT)
 
-"The second sort of effects produced by the One are what we call *Non-thetic Transcendence (NIT)*" (202)[^141]
+"The second sort of effects produced by the One are what we call *Non-thetic Transcendence (NTT)*" (202)[^141]
 
 [^141]: The first effect being that of the (non-)One: (the thinking of) absolute contingency, unilateral determination, irreducible plurality.
 
@@ -1811,7 +1792,7 @@ It is "a nonthetic essence of transcendence, upon which they draw a debt that th
 
 <br>
 
-*The Abyss of Philosophical Decision*
+##### The Abyss of Philosophical Decision
 
 "*It is in this abyss of an absolute contingency that can never be partially filled in or closed up that we must go to look for the ultimate reasons of philosophy in general in the strict measure that it takes the form of a decision—hallucinatory, at that—on the authentic real or the One*" (203-4)[^146]
 
@@ -1903,7 +1884,7 @@ And what is this force? The "*transcendental origin*" of the decision "*in the l
 
 <br>
 
-*The Nietzsche-Heidegger Conflict and its Indifference*
+##### The Nietzsche-Heidegger Conflict and its Indifference
 
 "From this, the resolution we may bring to the conflict dominating contemporary philosophy: the conflict between Nietzsche and Heidegger, between absolute and finite Difference. Plunged back into the abyss of the (non-)One and the NTT, these two modes of Difference both become, for the finite subject. possible and yet indifferent decisions. We have no reason from here on for choosing between
 two absolute decisions that are indifferent to one another" (208)
@@ -1956,7 +1937,7 @@ Even Heidegger, who "claims to guard the singular or the real" (Being), only gua
 
 <br>
 
-*Difference, Denial of the Real*
+##### Difference, Denial of the Real
 
 Difference "forms one body with a double-sided denial, on the one hand bearing upon the One, on the other upon the correlative NIT" (212-13)
 
@@ -2025,7 +2006,7 @@ Consequently, it renders contingent "the transcendental 'syntax' ... [that is,] 
 
 <br>
 
-*Critique of Philosophical Decision*
+##### Critique of Philosophical Decision
 
 "It is the One in its immanence that makes non-horizonal Transcendence apparent as one of the two origins of Difference and that denounces the objective absurdity of this last procedure of philosophy and of philosophy in general" (216-17)
 
@@ -2067,7 +2048,7 @@ The essence of the one "gives rise to an immanent and rigorous description" (218
 
 <br>
 
-*The Vision-In-One and the Decision in Favor of 'Dualism'*
+##### The Vision-In-One and the Decision in Favor of 'Dualism'
 
 "the passage from the (non-)One to NTT supposes that we still place it [Difference] (it is not in effect destroyed or dissolved effectively by the One) in the point of view of Difference without however giving up the experience of the One of which immanence serves as the main thread of every scientific and no longer philosophical description of philosophical decision" (219-20)
 
