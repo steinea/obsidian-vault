@@ -3,6 +3,7 @@ layout: update
 category: updates
 title: Codeberg Glitch
 date: 2023-01-07
+permalink: 2023/01/07-codeberg-glitch
 ---
 
 I was working away on the site today, when all of a sudden I stopped being able to pull changes to the Pi. I kept getting the error:

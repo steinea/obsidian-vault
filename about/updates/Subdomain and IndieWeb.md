@@ -3,11 +3,12 @@ layout: update
 category: updates
 title: Subdomain and IndieWeb
 date: 2023-09-15
+permalink: 2023/09/15/subdomain-and-indieweb
 ---
 
 A short update to help me remember the recent technical tasks I've completed for the site.
 
-First, a couple months ago I got a subdomain set up for my genealogy research, which can now be found at [genealogy.steinea.ca](genealogy.steinea.ca). After a bit of research, it turned out to be fairly straight forward. I created a separate complete site repository on [GitLab](https://gitlab.com/steinea/genealogy), and then went through the process of deploying the site on Netlify, as I originally described in [this post](https://www.steinea.ca/2023/01/23/site-live). Then, I went into my DNS records on Hover, created a CNAME record with the hostname <code>genealogy</code> and the target name set to the default Netlify URL for the new site. Then, in the production domains settings in Netlify, I added a new domain alias for <code>genealogy.steinea.ca</code> and set it to primary. After a few minutes to propagate, the new subdomain was live.
+First, a couple months ago I got a subdomain set up for my genealogy research, which can now be found at [genealogy.steinea.ca](https://genealogy.steinea.ca). After a bit of research, it turned out to be fairly straight forward. I created a separate complete site repository on [GitLab](https://gitlab.com/steinea/genealogy), and then went through the process of deploying the site on Netlify, as I originally described in [this post](https://www.steinea.ca/2023/01/23/site-live). Then, I went into my DNS records on Hover, created a CNAME record with the hostname <code>genealogy</code> and the target name set to the default Netlify URL for the new site. Then, in the production domains settings in Netlify, I added a new domain alias for <code>genealogy.steinea.ca</code> and set it to primary. After a few minutes to propagate, the new subdomain was live.
 
 Second, I've been getting back into doing [IndieWeb](https://indieweb.org/) research, and starting to look at the process of [indiewebifying](https://indiewebify.me/) my site. The first step after publishing your own website on your own domain is set up web sign in with [IndieAuth](https://indieweb.org/IndieAuth), and I saw that one of the options for signing in to IndieAuth is with PGP. This reminded me that I'd been meaning to do some updates to my PGP profile on [Keyoxide](https://keyoxide.org/ECEDBC433379CF13E2534C29B5B0AA7ED4509C8B), and so I had to read through some documentation to remind myself how GPG notation works.
 

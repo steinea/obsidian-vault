@@ -1,8 +1,9 @@
 ---
 layout: update
 category: updates
-title: Collections
+title: Jekyll Collections
 date: 2022-12-09
+permalink: 2022/12/09/jekyll-collections
 ---
 
 For once a straightforward update to the site! While working on the genealogy section of the site, I learned about Jekyll's [collections](https://jekyllrb.com/docs/collections/) functionality and implemented the section as a collection. This was as simple as adding four lines of code to <code>_config.yml</code>, including one line to call NiklasEi's [Jekyll custom permalinks](https://github.com/NiklasEi/jekyll_custom_permalink) gem. This in turn was easily installed by adding <code>gem 'jekyll_custom_permalink', '~> 0.0'</code> to my Gemfile, and then running <code>bundle install</code> on the Pi.

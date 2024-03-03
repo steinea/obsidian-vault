@@ -3,6 +3,7 @@ layout: update
 category: updates
 title: Power Failure
 date: 2022-10-27
+permalink: 2022/10/27/power-failure
 ---
 
 There was a power failure today. After the power came back and I rebooted the pi, I had issues serving the site.

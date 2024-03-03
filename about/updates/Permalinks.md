@@ -3,6 +3,7 @@ layout: update
 category: updates
 title: Permalinks
 date: 2022-11-20
+permalink: 2022/11/20/permalinks
 ---
 
 I discovered that my permalink format in <code>_config.yml</code> had a hardcoded element left over from the original build of the site. Every post, no matter the type, had the prefix <code>/blog</code> in its url. This was because I had the global permalink set as:

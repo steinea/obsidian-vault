@@ -3,6 +3,7 @@ layout: update
 category: updates
 title: Updates and Fixes
 date: 2023-09-23
+permalink: 2023/09/23/updates-and-fixes
 ---
 
 Been very busy with site updates over the last week.
@@ -19,7 +20,7 @@ Next, I reran the website carbon scan and added the details to the meta section 
 
 After that, I got to work adding h-entry markup to my post layouts ([ab882700](https://gitlab.com/steinea/website/-/commit/ab88270097b2dee8c45195717e2cbc8ca4bb5838)).
 
-Then, I added a line to the site meta that pulls the latest commit reference with the following line of code: <code>&lt;a href="https://gitlab.com/steinea/website/-/commit/{% raw %}{{ site.env.COMMIT_REF }}"&gt;{{ site.env.COMMIT_REF | truncate: 6, ""}}{% endraw %}&lt;/a&gt;</code> ([35a54ce4](https://gitlab.com/steinea/website/-/commit/35a54ce4cab1443529b2ad9f0a8524bca408640e)).
+Then, I added a line to the site meta that pulls the latest commit reference with the following line of code: <code>&lt;a href="https://gitlab.com/steinea/website/-/commit/{{ site.env.COMMIT_REF }}"&gt;{{ site.env.COMMIT_REF | truncate: 6, ""}}&lt;/a&gt;</code> ([35a54ce4](https://gitlab.com/steinea/website/-/commit/35a54ce4cab1443529b2ad9f0a8524bca408640e)).
 
 And finally today, I added a support section to my homepage footer with a button linking to my [Liberapay](https://liberapay.com/steinea/) profile ([3dfbc249](https://gitlab.com/steinea/website/-/commit/3dfbc2d9c457c3012f8b1aa82c3dc9e70409747e)). I added the identity to my OpenPGP key, but Keyoxide is having trouble verifying the proof, and there's no elegant way to display it on the Liberapay platform, other than slapping it directly in the profile description (also, my DNS proof fails to verify I'd say over 80% of the time, and seems others in the Keyoxide forums have similar troubles, with no solutions found). Open identity continues to be a pain.
 

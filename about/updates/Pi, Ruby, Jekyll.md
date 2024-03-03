@@ -3,6 +3,7 @@ layout: update
 category: updates
 title: Pi, Ruby, Jekyll
 date: 2022-10-24
+permalink: 2022/10/24/pi-ruby-jekyll
 ---
 
 At last booted the Raspberry Pi 4 today, a 32 GB EVO+ starter kit with 8 GB of RAM from CanaKit. I received it as a Christmas gift two Christmases ago, and have finally got around to the project.

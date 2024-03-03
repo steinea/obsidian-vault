@@ -3,6 +3,7 @@ layout: update
 category: updates
 title: Site Live
 date: 2023-01-23
+permalink: 2023/01/23/site-live
 ---
 
 After months and months of fiddling and fussing, the site is finally migrated off of GitHub pages and deployed to the web. I got to the point where I had to make a call and diverge from the original plan to self-host on my Raspberry Pi.

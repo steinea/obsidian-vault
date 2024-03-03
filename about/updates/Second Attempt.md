@@ -3,6 +3,7 @@ layout: update
 category: updates
 title: Second Attempt
 date: 2022-10-25
+permalink: 2022/10/25/second-attempt
 ---
 
 Yesterday after much pain and suffering, I broke everything. Turns out, I <code>sudo</code> installed some or all of Ruby. I couldn't figure out how to fix it, so I nuked the pi and started over. Thankfully, logging my misadventures helped me do things (mostly) correctly today. I'm logging the steps for my future self in case I have to do this again. So, first:

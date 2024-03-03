@@ -1,8 +1,9 @@
 ---
 layout: update
 category: updates
-title: Publishing
+title: Self Publishing
 date: 2023-04-15
+permalink: 2023/04/15/self-publishing
 ---
 
 An off-website project: my first independently published poetry [chapbook](https://vagrantludology.itch.io/on-the-back-of-a-tiger) is out in the world! It's an old work, but I've been wanting to do something with it for a while. I've published many zines and other printed materials, but I wanted to give this piece some more permanence, and so set about working my way through the baroque systems of publishing and copyright in Canada.

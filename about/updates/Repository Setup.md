@@ -3,6 +3,7 @@ layout: update
 category: updates
 title: Repository Setup
 date: 2022-11-08
+permalink: 2022/11/08/repository-setup
 ---
 
 I have been busy with content for the last few weeks, but today my task was to get the repository for the site set up so I could have things nicely versioned and backed up. This will also allow me to add content to the site remotely, rather than directly on the pi.

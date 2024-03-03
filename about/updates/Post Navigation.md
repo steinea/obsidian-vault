@@ -3,11 +3,11 @@ layout: update
 category: updates
 title: Post Navigation
 date: 2022-11-11
+permalink: 2022/11/11/post-navigation
 ---
 
 Today's project was to get next and previous hyperlinks working for my [commonplace book](/portal/commonplace/). Jekyll and Liquid have nice built in functionality for generating next and previous links without having to hard code anything. I added the following, pulled from [David Elbe](http://david.elbe.me/jekyll/2015/06/20/how-to-link-to-next-and-previous-post-with-jekyll.html)'s site, and it worked immediately:
 
-{% raw %}
 <pre>
 &lt;h4&gt;Previous Entry &lt;span style="float:right;"&gt;Next Entry&lt;/span&gt;&lt;/h4&gt;
 
@@ -21,7 +21,6 @@ Today's project was to get next and previous hyperlinks working for my [commonpl
   {% endif %}
 &lt;/div&gt;
 </pre>
-{% endraw %}
 
 However, this code does not account for post *categories*, and so I quickly discovered that the next and previous buttons would take me to other posts on the website (such as those under [blog](/blog/) or [log](/about/log/)). After some sleuthing, and quite a bit of trial and error, I arrived at the following solution, adapted from the solution at [Adam Clarkson](https://ajclarkson.co.uk/blog/jekyll-category-post-navigation/)'s site.
 
@@ -56,7 +55,6 @@ end
 
 Jekyll knows to run <code>.rb</code> files in the <code>_plugins</code> folder by default. Next, I just had to tweak the Liquid in my commonplace entry layout to the following:
 
-{% raw %}
 <pre>
 &lt;h4&gt;Previous Entry &lt;span style="float:right;"&gt;Next Entry&lt;/span&gt;&lt;/h4&gt;
 
@@ -70,7 +68,6 @@ Jekyll knows to run <code>.rb</code> files in the <code>_plugins</code> folder b
   {% endif %}
 &lt;/div&gt;
 </pre>
-{% endraw %}
 
 I had a heck of a time getting the next and previous links to display *and* link correctly. For some reason, Clarkson's solution has <code>page.next_in_category</code> link to the next *older* post, while <code>page.previous_in_category</code> links to the next *newer* post. The solution above involved swapping next and previous in the <code>.rb</code> file and putting next on the left and previous on the right in the <code>entry.html</code> layout. This is still not quite right, though, because the swap in the <code>.rb</code> effectively accomplishes nothing, because I've been forced to put next and previous on the wrong sides from each other anyway.
 
