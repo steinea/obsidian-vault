@@ -1,8 +1,9 @@
 ---
 layout: post
 category: now
-title: January ’24
+title: Now, January 2024
 date: 2024-01-18
+permalink: 2024/01/18/now-january-2024
 ---
 
 Currently, I am teaching GAME 340: Advanced Game Design---a studio-based design intensive informed by Deleuze and Guattari's *A Thousand Plateaus* and Bogost's *How to Do Things With Video Games*---starting production on *FC 25*, working on my paper on *Starfield* for the Canadian Game Studies Association Conference, reading McCarthy's *Blood Meridian* and collating my notes from Mantel's *Wolf Hall*, doing a bunch of website work and project clean up, and yes, *still* trying to finish my essay series on *Empiricism and Subjectivity*.
