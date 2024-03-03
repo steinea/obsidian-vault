@@ -20,6 +20,7 @@
 | [[constellation/books/Red Bird.md\|Red Bird]]                                                                                               | Oliver, Mary                                                  | 2009 |
 | [[constellation/books/Toward an Army of Ghosts.md\|Toward an Army of Ghosts]]                                                               | Nomad, Tom                                                    | 2017 |
 | [[constellation/books/Frolic and Detour.md\|Frolic and Detour]]                                                                             | Muldoon, Paul                                                 | 2022 |
+| [[constellation/books/Wolf Hall.md\|Wolf Hall]]                                                                                             | Mantel, Hilary                                                | 2009 |
 | [[constellation/books/Blood of the Celts.md\|Blood of the Celts]]                                                                           | Manco, Jean                                                   | 2015 |
 | [[constellation/books/Interpreting the Universe.md\|Interpreting the Universe]]                                                             | Macmurray, John                                               | 1933 |
 | [[constellation/books/Mathematics and Reality.md\|Mathematics and Reality]]                                                                 | Leng, Mar                                                     | 2013 |

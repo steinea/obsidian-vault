@@ -13,8 +13,8 @@
 | [[constellation/games/Endling Extinction is Forever.md\|Endling Extinction is Forever]]               | PS5      | 6     |
 | [[constellation/games/Solar Ash.md\|Solar Ash]]                                                       | PS5      | 9     |
 | [[constellation/games/Jett The Far Shore.md\|Jett The Far Shore]]                                     | PS5      | 15    |
-| [[constellation/games/Uncharted The Lost Legacy Remastered.md\|Uncharted The Lost Legacy Remastered]] | PS5      | 18    |
 | [[constellation/games/Lost in Random.md\|Lost in Random]]                                             | PS5      | 18    |
+| [[constellation/games/Uncharted The Lost Legacy Remastered.md\|Uncharted The Lost Legacy Remastered]] | PS5      | 18    |
 | [[constellation/games/The Last of Us Part I.md\|The Last of Us Part I]]                               | PS5      | 23    |
 | [[constellation/games/Immortals of Aveum.md\|Immortals of Aveum]]                                     | PS5      | 28    |
 | [[constellation/games/Uncharted 4 Remastered.md\|Uncharted 4 Remastered]]                             | PS5      | 32    |

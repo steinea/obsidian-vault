@@ -23,6 +23,7 @@
 | [[constellation/people/Hajime Tabata.md\|Hajime Tabata]]                   |
 | [[constellation/people/Hans-Georg Gadamer.md\|Hans-Georg Gadamer]]         |
 | [[constellation/people/Hayden White.md\|Hayden White]]                     |
+| [[constellation/people/Hilary Mantel.md\|Hilary Mantel]]                   |
 | [[constellation/people/Homi K. Bhabha.md\|Homi K. Bhabha]]                 |
 | [[constellation/people/Isaac Asimov.md\|Isaac Asimov]]                     |
 | [[constellation/people/Isamu Kamikokuryo.md\|Isamu Kamikokuryo]]           |

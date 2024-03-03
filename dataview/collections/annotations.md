@@ -5,7 +5,7 @@
 | [[collections/annotations/A Strange Period of Human Folly and Shame.md\|A Strange Period of Human Folly and Shame]]       | 2024-01-01 |
 | [[collections/annotations/No Salvation Without Destruction.md\|No Salvation Without Destruction]]                         | 2023-12-31 |
 | [[collections/annotations/The Concept of Contradictory Class Locations.md\|The Concept of Contradictory Class Locations]] | 2023-09-09 |
-| [[collections/annotations/2023-08-09-mantel-wolf-hall.md\|2023-08-09-mantel-wolf-hall]]                                   | 2023-08-09 |
+| [[collections/annotations/An Occult History of Britain.md\|An Occult History of Britain]]                                 | 2023-08-09 |
 | [[collections/annotations/A Universe of Legibility.md\|A Universe of Legibility]]                                         | 2023-07-02 |
 | [[collections/annotations/We Are Habits, Nothing but Habits.md\|We Are Habits, Nothing but Habits]]                       | 2023-03-29 |
 | [[collections/annotations/O You Hushed Nocturnal Expanses.md\|O You Hushed Nocturnal Expanses]]                           | 2023-03-20 |
@@ -25,8 +25,8 @@
 | [[collections/annotations/A Profound Statistical Science.md\|A Profound Statistical Science]]                             | 2021-08-01 |
 | [[collections/annotations/The Book of the Milieu.md\|The Book of the Milieu]]                                             | 2020-12-15 |
 | [[collections/annotations/Treatise of the Solitudes.md\|Treatise of the Solitudes]]                                       | 2020-08-17 |
-| [[collections/annotations/Within the Flux of a Solid World.md\|Within the Flux of a Solid World]]                         | 2020-07-21 |
 | [[collections/annotations/The Syntax of Difference.md\|The Syntax of Difference]]                                         | 2020-07-21 |
+| [[collections/annotations/Within the Flux of a Solid World.md\|Within the Flux of a Solid World]]                         | 2020-07-21 |
 | [[collections/annotations/Your Place in the Family of Things.md\|Your Place in the Family of Things]]                     | 2018-08-01 |
 | [[collections/annotations/How Newness Enters the World.md\|How Newness Enters the World]]                                 | 2016-11-21 |
 | [[collections/annotations/Uses and Tactics.md\|Uses and Tactics]]                                                         | 2016-10-31 |

@@ -13,6 +13,7 @@
 | [[constellation/concepts/Fantasy.md\|Fantasy]]                                         |
 | [[constellation/concepts/Feigenbaum Constants.md\|Feigenbaum Constants]]               |
 | [[constellation/concepts/Hermeneutics.md\|Hermeneutics]]                               |
+| [[constellation/concepts/Historical Fiction.md\|Historical Fiction]]                   |
 | [[constellation/concepts/Historiography.md\|Historiography]]                           |
 | [[constellation/concepts/Intentionality.md\|Intentionality]]                           |
 | [[constellation/concepts/Jena Romanticism.md\|Jena Romanticism]]                       |
