@@ -24,6 +24,10 @@ const fileAndQuery = new Map([
 // About dataview maps
 
   [
+	"biography",
+	'TABLE WITHOUT ID file.link AS "Biography", date AS Date FROM "about/biography" SORT date DESC',
+  ],
+  [
 	"personality",
 	'TABLE WITHOUT ID file.link AS "Personality", date AS Date FROM "about/personality" SORT date DESC',
   ],
