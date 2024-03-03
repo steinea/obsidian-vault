@@ -1,33 +1,33 @@
 %% #Ignore update via "Update Publish Files" template %% 
 
-| Biography                                                                                     | Date       |
-| --------------------------------------------------------------------------------------------- | ---------- |
-| [[about/biography/2023-11-10-november.md\|2023-11-10-november]]                               | 2023-11-10 |
-| [[about/biography/2023-09-17-website.md\|2023-09-17-website]]                                 | 2023-09-17 |
-| [[about/biography/2023-05-25-linkedin.md\|2023-05-25-linkedin]]                               | 2023-05-25 |
-| [[about/biography/2023-02-16-reviewer-bio.md\|2023-02-16-reviewer-bio]]                       | 2023-02-16 |
-| [[about/biography/2023-02-10-website.md\|2023-02-10-website]]                                 | 2023-02-10 |
-| [[about/biography/2022-09-21-reviewer-bio.md\|2022-09-21-reviewer-bio]]                       | 2022-09-21 |
-| [[about/biography/2022-08-30-faculty-profile.md\|2022-08-30-faculty-profile]]                 | 2022-08-30 |
-| [[about/biography/2022-07-15-website.md\|2022-07-15-website]]                                 | 2022-07-15 |
-| [[about/biography/2021-10-02-linkedin.md\|2021-10-02-linkedin]]                               | 2021-10-02 |
-| [[about/biography/2021-08-01-academia.md\|2021-08-01-academia]]                               | 2021-08-01 |
-| [[about/biography/2021-06-16-generation-analog.md\|2021-06-16-generation-analog]]             | 2021-06-16 |
-| [[about/biography/2021-03-24-website.md\|2021-03-24-website]]                                 | 2021-03-24 |
-| [[about/biography/2021-03-01-nepca.md\|2021-03-01-nepca]]                                     | 2021-03-01 |
-| [[about/biography/2021-01-10-website.md\|2021-01-10-website]]                                 | 2021-01-10 |
-| [[about/biography/2020-10-10-human-matters.md\|2020-10-10-human-matters]]                     | 2020-10-10 |
-| [[about/biography/2020-09-01-faculty-profile.md\|2020-09-01-faculty-profile]]                 | 2020-09-01 |
-| [[about/biography/2020-04-03-insect-entanglements.md\|2020-04-03-insect-entanglements]]       | 2020-04-03 |
-| [[about/biography/2020-03-31-humanities-on-the-brink.md\|2020-03-31-humanities-on-the-brink]] | 2020-03-31 |
-| [[about/biography/2020-03-22-analog-persistence.md\|2020-03-22-analog-persistence]]           | 2020-03-22 |
-| [[about/biography/2020-03-17-nepca.md\|2020-03-17-nepca]]                                     | 2020-03-17 |
-| [[about/biography/2020-03-17-mmla.md\|2020-03-17-mmla]]                                       | 2020-03-17 |
-| [[about/biography/2019-04-30-scholars-of-dune.md\|2019-04-30-scholars-of-dune]]               | 2019-04-30 |
-| [[about/biography/2019-01-06-in-forms.md\|2019-01-06-in-forms]]                               | 2019-01-06 |
-| [[about/biography/2019-01-01-image-text-in-motion.md\|2019-01-01-image-text-in-motion]]       | 2019-01-01 |
-| [[about/biography/2018-11-25-infinite-rust.md\|2018-11-25-infinite-rust]]                     | 2018-11-25 |
-| [[about/biography/2018-01-15-spaces-literary-journal.md\|2018-01-15-spaces-literary-journal]] | 2018-01-15 |
-| [[about/biography/2017-03-21-melville-panel.md\|2017-03-21-melville-panel]]                   | 2017-03-21 |
-| [[about/biography/2017-01-20-spaces-literary-journal.md\|2017-01-20-spaces-literary-journal]] | 2017-01-20 |
-| [[about/biography/2016-08-31-learning-coach.md\|2016-08-31-learning-coach]]                   | 2016-08-31 |
+| Biography                                                                     | Date       |
+| ----------------------------------------------------------------------------- | ---------- |
+| [[about/biography/November 2023.md\|November 2023]]                           | 2023-11-10 |
+| [[about/biography/Website, September 2023.md\|Website, September 2023]]       | 2023-09-17 |
+| [[about/biography/LinkedIn 2023.md\|LinkedIn 2023]]                           | 2023-05-25 |
+| [[about/biography/Reviewer Bio 2023.md\|Reviewer Bio 2023]]                   | 2023-02-16 |
+| [[about/biography/Website, February 2023.md\|Website, February 2023]]         | 2023-02-10 |
+| [[about/biography/Reviewer Bio 2022.md\|Reviewer Bio 2022]]                   | 2022-09-21 |
+| [[about/biography/Faculty Profile 2022.md\|Faculty Profile 2022]]             | 2022-08-30 |
+| [[about/biography/Website, September 2022.md\|Website, September 2022]]       | 2022-07-15 |
+| [[about/biography/LinkedIn 2021.md\|LinkedIn 2021]]                           | 2021-10-02 |
+| [[about/biography/Academia.md\|Academia]]                                     | 2021-08-01 |
+| [[about/biography/Generation Analog 2021.md\|Generation Analog 2021]]         | 2021-06-16 |
+| [[about/biography/Website, March 2021.md\|Website, March 2021]]               | 2021-03-24 |
+| [[about/biography/NEPCA 2021.md\|NEPCA 2021]]                                 | 2021-03-01 |
+| [[about/biography/Website, January 2021.md\|Website, January 2021]]           | 2021-01-10 |
+| [[about/biography/Human Matters.md\|Human Matters]]                           | 2020-10-10 |
+| [[about/biography/Faculty Profile 2020.md\|Faculty Profile 2020]]             | 2020-09-01 |
+| [[about/biography/Insect Entanglements.md\|Insect Entanglements]]             | 2020-04-03 |
+| [[about/biography/Humanities on the Brink.md\|Humanities on the Brink]]       | 2020-03-31 |
+| [[about/biography/Analog Persistence.md\|Analog Persistence]]                 | 2020-03-22 |
+| [[about/biography/MMLA 2020.md\|MMLA 2020]]                                   | 2020-03-17 |
+| [[about/biography/NEPCA 2020.md\|NEPCA 2020]]                                 | 2020-03-17 |
+| [[about/biography/Scholars of Dune.md\|Scholars of Dune]]                     | 2019-04-30 |
+| [[about/biography/In Forms.md\|In Forms]]                                     | 2019-01-06 |
+| [[about/biography/ImageText in Motion.md\|ImageText in Motion]]               | 2019-01-01 |
+| [[about/biography/Infinite Rust.md\|Infinite Rust]]                           | 2018-11-25 |
+| [[about/biography/Spaces Literary Journal, 2.md\|Spaces Literary Journal, 2]] | 2018-01-15 |
+| [[about/biography/Melville Panel.md\|Melville Panel]]                         | 2017-03-21 |
+| [[about/biography/Spaces Literary Journal, 1.md\|Spaces Literary Journal, 1]] | 2017-01-20 |
+| [[about/biography/Learning Coach.md\|Learning Coach]]                         | 2016-08-31 |
