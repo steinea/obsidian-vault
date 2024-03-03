@@ -1,8 +1,9 @@
 ---
 layout: bio
 category: biography
-title: Website
+title: Website, February 2023
 date: 2023-02-10
+permalink: 2023/02/10/website-february-2023
 ---
 
 I am a game designer and developer, an instructor of game development, and a game studies researcher. With a background in literature and philosophy, my primary interests in games are the domains of interactive storytelling and narrative design, with a special interest in the mechanics of drama.

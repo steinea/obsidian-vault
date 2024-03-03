@@ -1,8 +1,9 @@
 ---
 layout: bio
 category: biography
-title: Website
+title: Website, September 2023
 date: 2023-09-17
+permalink: 2023/09/17/website-september-2023
 ---
 
 I am a [Development Director](https://www.linkedin.com/in/steinea/) on the EA Sports FC Connected Modes team, currently supporting the launch of [*FC 24*](https://www.ea.com/games/ea-sports-fc/fc-24). Previously, I worked as a Development Manager on the FIFA Gameplay and Game Modes teams to help launch [*FIFA 23*](https://www.ea.com/games/fifa/fifa-23). I consider myself a product-oriented project manager, working closely with production and engineering to deliver game-changing features on time and to quality.

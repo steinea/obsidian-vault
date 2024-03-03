@@ -2,14 +2,14 @@
 
 | Biography                                                                     | Date       |
 | ----------------------------------------------------------------------------- | ---------- |
-| [[about/biography/November 2023.md\|November 2023]]                           | 2023-11-10 |
+| [[about/biography/Website, November 2023.md\|Website, November 2023]]         | 2023-11-10 |
 | [[about/biography/Website, September 2023.md\|Website, September 2023]]       | 2023-09-17 |
 | [[about/biography/LinkedIn 2023.md\|LinkedIn 2023]]                           | 2023-05-25 |
 | [[about/biography/Reviewer Bio 2023.md\|Reviewer Bio 2023]]                   | 2023-02-16 |
 | [[about/biography/Website, February 2023.md\|Website, February 2023]]         | 2023-02-10 |
 | [[about/biography/Reviewer Bio 2022.md\|Reviewer Bio 2022]]                   | 2022-09-21 |
 | [[about/biography/Faculty Profile 2022.md\|Faculty Profile 2022]]             | 2022-08-30 |
-| [[about/biography/Website, September 2022.md\|Website, September 2022]]       | 2022-07-15 |
+| [[about/biography/Website, July 2022.md\|Website, July 2022]]                 | 2022-07-15 |
 | [[about/biography/LinkedIn 2021.md\|LinkedIn 2021]]                           | 2021-10-02 |
 | [[about/biography/Academia.md\|Academia]]                                     | 2021-08-01 |
 | [[about/biography/Generation Analog 2021.md\|Generation Analog 2021]]         | 2021-06-16 |

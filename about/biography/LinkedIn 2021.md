@@ -1,8 +1,9 @@
 ---
 layout: bio
 category: biography
-title: LinkedIn
+title: LinkedIn 2021
 date: 2021-10-02
+permalink: 2021/10/02/linkedin
 ---
 
 I am an Associate Development Manager on the FIFA Gameplay Team at Electronic Arts, supporting our developers in bringing the best football video game in the world to life. I am also a Game Development Instructor at Trinity Western University, training the next generation of developers in the skills, ideas, and mentalities they will need to excel in the games industry and transform it for the better.

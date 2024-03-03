@@ -1,8 +1,9 @@
 ---
 layout: bio
 category: biography
-title: LinkedIn
+title: LinkedIn 2023
 date: 2023-05-25
+permalink: 2023/05/25/linkedin-2023
 ---
 
 I am a Development Director on the EA Sports FC Connected Modes team, currently supporting the launch of FC 24. Previously, I worked as a Development Manager on the FIFA Gameplay and Game Modes teams to help launch FIFA 23. I consider myself a product-oriented project manager, working closely with production and engineering to deliver game-changing features on time and to quality.

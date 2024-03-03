@@ -1,8 +1,9 @@
 ---
 layout: bio
 category: biography
-title: Website
+title: Website, July 2022
 date: 2022-07-15
+permalink: 2022/07/15/website-july-2022
 ---
 
 I am an [Associate Development Manager](https://www.linkedin.com/in/steinea/) on the FIFA Gameplay Team at Electronic Arts, supporting our developers in bringing the best football video game in the world to life. I am also a [Game Development Instructor](https://www.twu.ca/profile/eric-stein) at Trinity Western University, training the next generation of developers in the skills, ideas, and mentalities they will need to excel in the games industry and transform it for the better.
