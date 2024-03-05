@@ -7,7 +7,7 @@ releaseDate:
 howlongtobeat: 
 difficulty: 
 trophyGuide: 
-duration: 21m
+duration: 0.4h
 trophies: 3/322
 percent: 1%
 progress: stopped

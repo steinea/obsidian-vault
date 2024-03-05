@@ -7,12 +7,12 @@ releaseDate: 2017-04-11
 howlongtobeat: 15h
 difficulty: 8/10
 trophyGuide: https://psnprofiles.com/guide/13020-crawl-trophy-guide
-duration:
-trophies: 
-percent: 
+duration: 4h
+trophies: 4/46
+percent: 8%
 progress: next
 link: 
-date: 
+date: 2019-08-19
 permalink: 
 ---
 

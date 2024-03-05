@@ -7,13 +7,13 @@ releaseDate: 2021-09-03
 howlongtobeat: 6h
 difficulty: 5/10
 trophyGuide: https://psnprofiles.com/guide/12864-golf-club-nostalgia-trophy-guide
-duration:
+duration: 9h
 trophies: 26/28
-percent: 
-progress: now
+percent: ★
+progress: complete
 link: https://psnprofiles.com/trophies/13725-golf-club-nostalgia/barrelofjuice
-date: 
-permalink: 
+date: 2024-03-04
+permalink: 2024/03/04/gold-club-nostalgia
 ---
 
 [[2021]] • [[games]] • [[Demagog Studio]] • [[Untold Tales]] • [[PS4]]

@@ -2,6 +2,7 @@
 
 | Played                                                                                    | Platform | Hours | Trophies | ★   | Date       |
 | ----------------------------------------------------------------------------------------- | -------- | ----- | -------- | --- | ---------- |
+| [[constellation/games/Golf Club Nostalgia.md\|Golf Club Nostalgia]]                       | PS4      | 9     | 26/28    | ★   | 2024-03-04 |
 | [[constellation/games/Alto's Odyssey.md\|Alto's Odyssey]]                                 | Google   | 17    | 20/22    | 90% | 2024-02-29 |
 | [[constellation/games/EA SPORTS FC 24.md\|EA SPORTS FC 24]]                               | PS5      | 48    | 27/41    | 65% | 2024-02-26 |
 | [[constellation/games/Starfield.md\|Starfield]]                                           | Xbox     | 104   | 50/50    | ★   | 2024-02-25 |
@@ -30,6 +31,7 @@
 | [[constellation/games/The Walking Dead 4.md\|The Walking Dead 4]]                         | PS4      | 13    | 49/49    | ★   | 2022-05-20 |
 | [[constellation/games/The Walking Dead 3.md\|The Walking Dead 3]]                         | PS4      | 7     | 31/31    | ★   | 2022-05-13 |
 | [[constellation/games/Splitgate.md\|Splitgate]]                                           | Steam    | 44    | 25/30    | 83% | 2022-05-12 |
+| [[constellation/games/EA SPORTS FIFA 22.md\|EA SPORTS FIFA 22]]                           | PS4      | 12    | 3/38     | 8%  | 2022-05-12 |
 | [[constellation/games/Forza Horizon 5.md\|Forza Horizon 5]]                               | Xbox     | 76    | 52/137   | 38% | 2022-05-03 |
 | [[constellation/games/Night in the Woods.md\|Night in the Woods]]                         | Steam    | 18    | 31/31    | ★   | 2022-04-30 |
 | [[constellation/games/Norco.md\|Norco]]                                                   | Xbox     | 7     | 35/35    | ★   | 2022-04-15 |
@@ -49,8 +51,10 @@
 | [[constellation/games/Golf Club Wasteland.md\|Golf Club Wasteland]]                       | Google   | \-    | 14/14    | ★   | 2021-11-04 |
 | [[constellation/games/Hyper Light Drifter.md\|Hyper Light Drifter]]                       | Steam    | 18    | 23/23    | ★   | 2021-10-13 |
 | [[constellation/games/Star Wars Squadrons.md\|Star Wars Squadrons]]                       | Steam    | 1     | 1/48     | 2%  | 2021-10-05 |
+| [[constellation/games/EA SPORTS FIFA 21.md\|EA SPORTS FIFA 21]]                           | PS4      | 32    | 21/37    | 57% | 2021-09-11 |
 | [[constellation/games/Hunt Showdown.md\|Hunt Showdown]]                                   | Steam    | 518   | 37/37    | ★   | 2021-08-22 |
 | [[constellation/games/Ashen.md\|Ashen]]                                                   | Steam    | 83    | 34/34    | ★   | 2021-08-11 |
+| [[constellation/games/EA SPORTS UFC 4.md\|EA SPORTS UFC 4]]                               | PS4      | 23    | 25/28    | 90% | 2021-07-02 |
 | [[constellation/games/Threes! Freeplay.md\|Threes! Freeplay]]                             | Google   | \-    | 8/18     | 44% | 2021-06-20 |
 | [[constellation/games/Unbeatable White Label.md\|Unbeatable White Label]]                 | Steam    | 1     | 3/3      | ★   | 2021-06-18 |
 | [[constellation/games/Eliza.md\|Eliza]]                                                   | Steam    | 6     | 1/1      | ★   | 2021-06-06 |
@@ -80,6 +84,8 @@
 | [[constellation/games/Dark Souls III (Steam).md\|Dark Souls III (Steam)]]                 | Steam    | 142   | 43/43    | ★   | 2020-05-10 |
 | [[constellation/games/Dark Souls Remastered.md\|Dark Souls Remastered]]                   | Steam    | 131   | 41/41    | ★   | 2020-03-29 |
 | [[constellation/games/Shadow of the Colossus.md\|Shadow of the Colossus]]                 | PS3      | \-    | 31/31    | ★   | 2020-01-19 |
+| [[constellation/games/Jackbox 1.md\|Jackbox 1]]                                           | PS4      | 3     | 10/20    | 50% | 2019-12-31 |
+| [[constellation/games/The Elder Scrolls Online.md\|The Elder Scrolls Online]]             | PS4      | 176   | 21/124   | 17% | 2019-11-05 |
 | [[constellation/games/Ico.md\|Ico]]                                                       | PS3      | \-    | 31/31    | ★   | 2019-10-21 |
 | [[constellation/games/The Last of Us Remastered.md\|The Last of Us Remastered]]           | PS4      | 103   | 50/50    | ★   | 2019-10-06 |
 | [[constellation/games/Sekiro.md\|Sekiro]]                                                 | PS4      | 84    | 34/34    | ★   | 2019-08-19 |
@@ -90,21 +96,32 @@
 | [[constellation/games/Dark Souls II.md\|Dark Souls II]]                                   | PS4      | 85    | 38/38    | ★   | 2018-01-14 |
 | [[constellation/games/Her Story.md\|Her Story]]                                           | Steam    | 3     | 13/13    | ★   | 2017-09-06 |
 | [[constellation/games/Journey.md\|Journey]]                                               | PS4      | 10    | 14/14    | ★   | 2017-08-15 |
+| [[constellation/games/Call of Duty Black Ops III.md\|Call of Duty Black Ops III]]         | PS4      | 19    | 5/99     | 5%  | 2017-08-15 |
 | [[constellation/games/Bloodborne.md\|Bloodborne]]                                         | PS4      | 87    | 40/40    | ★   | 2017-05-22 |
-| [[constellation/games/Siralim.md\|Siralim]]                                               | Steam    | 0.35  | 3/322    | 1%  | 2017-01-14 |
+| [[constellation/games/Little Big Planet 3.md\|Little Big Planet 3]]                       | PS4      | 12    | 12/38    | 31% | 2017-02-04 |
+| [[constellation/games/Siralim.md\|Siralim]]                                               | Steam    | 0.4   | 3/322    | 1%  | 2017-01-14 |
 | [[constellation/games/VVVVVV.md\|VVVVVV]]                                                 | Steam    | 5     | 1/19     | 5%  | 2017-01-14 |
 | [[constellation/games/Skyrim Special Edition.md\|Skyrim Special Edition]]                 | PS4      | 118   | 76/76    | ★   | 2017-01-06 |
 | [[constellation/games/Uncharted Remastered.md\|Uncharted Remastered]]                     | PS4      | 36    | 54/54    | ★   | 2016-12-08 |
+| [[constellation/games/Destiny.md\|Destiny]]                                               | PS4      | 64    | 26/61    | 42% | 2016-08-23 |
 | [[constellation/games/Halo 4.md\|Halo 4]]                                                 | 360      | \-    | 45/86    | 52% | 2015-10-18 |
 | [[constellation/games/Sportsfriends.md\|Sportsfriends]]                                   | PS4      | 6     | 14/14    | ★   | 2015-07-31 |
 | [[constellation/games/Never Alone.md\|Never Alone]]                                       | PS4      | 7     | 19/19    | ★   | 2015-07-29 |
 | [[constellation/games/Valiant Hearts The Great War.md\|Valiant Hearts The Great War]]     | PS4      | 18    | 20/20    | ★   | 2015-03-27 |
+| [[constellation/games/Alien Isolation.md\|Alien Isolation]]                               | PS4      | 3     | 5/51     | 10% | 2015-03-16 |
 | [[constellation/games/The Walking Dead 2.md\|The Walking Dead 2]]                         | PS4      | 22    | 40/40    | ★   | 2015-03-02 |
 | [[constellation/games/The Walking Dead.md\|The Walking Dead]]                             | PS4      | 29    | 49/49    | ★   | 2015-02-25 |
+| [[constellation/games/Skyrim (PS3).md\|Skyrim (PS3)]]                                     | PS3      | \-    | 56/76    | 74% | 2014-08-31 |
+| [[constellation/games/BioShock Infinite.md\|BioShock Infinite]]                           | PS3      | \-    | 64/81    | 79% | 2014-08-22 |
+| [[constellation/games/Battlefield 4.md\|Battlefield 4]]                                   | PS4      | 22    | 29/68    | 42% | 2014-08-17 |
+| [[constellation/games/BioShock.md\|BioShock]]                                             | PS3      | \-    | 48/66    | 73% | 2014-08-14 |
+| [[constellation/games/Far Cry 3.md\|Far Cry 3]]                                           | PS3      | \-    | 51/51    | ★   | 2014-08-12 |
+| [[constellation/games/The Last of Us.md\|The Last of Us]]                                 | PS3      | \-    | 42/50    | 84% | 2014-07-24 |
 | [[constellation/games/Dark Souls.md\|Dark Souls]]                                         | PS3      | \-    | 41/41    | ★   | 2014-07-17 |
 | [[constellation/games/Transistor.md\|Transistor]]                                         | PS4      | 13    | 34/34    | ★   | 2014-06-03 |
 | [[constellation/games/Dark Souls (360).md\|Dark Souls (360)]]                             | 360      | \-    | 23/41    | 56% | 2014-05-22 |
 | [[constellation/games/Dragon Age II.md\|Dragon Age II]]                                   | 360      | \-    | 7/65     | 11% | 2014-05-01 |
+| [[constellation/games/Dead Nation Apocalypse Edition.md\|Dead Nation Apocalypse Edition]] | PS4      | 0.2   | 1/41     | 2%  | 2014-03-04 |
 | [[constellation/games/State of Decay.md\|State of Decay]]                                 | 360      | \-    | 8/46     | 17% | 2013-06-26 |
 | [[constellation/games/Mass Effect 3.md\|Mass Effect 3]]                                   | 360      | \-    | 52/68    | 76% | 2013-06-17 |
 | [[constellation/games/Dragon Age Origins.md\|Dragon Age Origins]]                         | 360      | \-    | 26/76    | 34% | 2013-05-25 |

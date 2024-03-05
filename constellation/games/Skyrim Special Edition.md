@@ -10,6 +10,4 @@ progress: complete
 permalink: 2017/01/06/the-elder-scrolls-v-skyrim-special-edition
 ---
 
-# The Elder Scrolls V: Skyrim Special Edition
-
 [[games]]
