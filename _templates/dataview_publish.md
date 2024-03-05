@@ -63,7 +63,7 @@ const fileAndQuery = new Map([
   ],
   [
 	"playingnow",
-	'TABLE WITHOUT ID file.link AS "Now Playing", platform AS Platform, duration.hours AS "Hours", trophies AS Trophies FROM "constellation/games" WHERE progress = "now" SORT duration DESC',
+	'TABLE WITHOUT ID file.link AS "Now Playing", platform AS Platform, duration.hours AS "Hours", trophies AS Trophies, percent AS % FROM "constellation/games" WHERE progress = "now" SORT duration DESC',
   ],
   [
 	"playingnext",
@@ -71,11 +71,11 @@ const fileAndQuery = new Map([
   ],
   [
 	"playingcompleted",
-	'TABLE WITHOUT ID file.link AS "Perfect Games", platform AS Platform, duration.hours AS "Hours", trophies AS Trophies, date AS Date FROM "constellation/games" WHERE progress = "complete" SORT date DESC',
+	'TABLE WITHOUT ID file.link AS "Perfect Games", platform AS Platform, duration.hours AS "Hours", trophies AS Trophies, percent AS %, date AS Date FROM "constellation/games" WHERE progress = "complete" SORT date DESC',
   ],
   [
 	"playingstopped",
-	'TABLE WITHOUT ID file.link AS "Incomplete Games", platform AS Platform, duration.hours AS "Hours", trophies AS Trophies, date AS Date FROM "constellation/games" WHERE progress = "stopped" SORT date DESC',
+	'TABLE WITHOUT ID file.link AS "Incomplete Games", platform AS Platform, duration.hours AS "Hours", trophies AS Trophies, percent AS %, date AS Date FROM "constellation/games" WHERE progress = "stopped" SORT date DESC',
   ],
   [
 	"playingmost",
