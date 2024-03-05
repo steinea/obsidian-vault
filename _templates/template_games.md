@@ -9,12 +9,13 @@ difficulty:
 trophyGuide: 
 duration:
 trophies: 
+percent:
 progress: 
 link: 
 date: 
 permalink: 
 ---
 
-# 
+YEAR • [[games]] • DEVELOPER • PUBLISHER • PLATFORM
 
-[[games]]
+From LINK:
