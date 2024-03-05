@@ -2,14 +2,14 @@
 title: State of Decay
 developer:
 publisher:
-platform: Xbox 360
+platform: 360
 releaseDate:
 howlongtobeat: 
 difficulty: 
 trophyGuide: 
 duration:
 trophies: 8/46
-percent: 
+percent: 17%
 progress: stopped
 link: 
 date: 2013-06-26

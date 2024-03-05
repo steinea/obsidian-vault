@@ -2,14 +2,14 @@
 title: Geometry Wars Evolved
 developer:
 publisher:
-platform: Xbox 360
+platform: 360
 releaseDate:
 howlongtobeat: 
 difficulty: 
 trophyGuide: 
 duration:
 trophies: 1/12
-percent: 
+percent: 8%
 progress: stopped
 link: 
 date: 2009-09-05

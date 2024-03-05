@@ -2,14 +2,14 @@
 title: Halo 4
 developer:
 publisher:
-platform: Xbox 360
+platform: 360
 releaseDate:
 howlongtobeat: 
 difficulty: 
 trophyGuide: 
 duration:
 trophies: 45/86
-percent: 
+percent: 52%
 progress: stopped
 link: 
 date: 2015-10-18

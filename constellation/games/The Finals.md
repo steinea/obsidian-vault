@@ -9,7 +9,7 @@ difficulty:
 trophyGuide: 
 duration: 1.5h
 trophies: 3/50
-percent: 
+percent: 6%
 progress: stopped
 link: 
 date: 2023-12-10

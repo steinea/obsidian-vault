@@ -2,14 +2,14 @@
 title: Dance Central
 developer:
 publisher:
-platform: Xbox 360
+platform: 360
 releaseDate:
 howlongtobeat: 
 difficulty: 
 trophyGuide: 
 duration:
 trophies: 8/50
-percent: 
+percent: 16%
 progress: stopped
 link: 
 date: 2011-01-05

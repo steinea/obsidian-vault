@@ -9,7 +9,7 @@ difficulty:
 trophyGuide: 
 duration:
 trophies: 1/18
-percent: 
+percent: 5%
 progress: stopped
 link: 
 date: 2021-12-07

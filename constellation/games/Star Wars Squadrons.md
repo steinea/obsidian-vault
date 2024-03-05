@@ -9,7 +9,7 @@ difficulty:
 trophyGuide: 
 duration: 1h
 trophies: 1/48
-percent: 
+percent: 2%
 progress: stopped
 link: 
 date: 2021-10-05

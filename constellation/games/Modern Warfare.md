@@ -2,14 +2,14 @@
 title: Modern Warfare
 developer:
 publisher:
-platform: Xbox 360
+platform: 360
 releaseDate:
 howlongtobeat: 
 difficulty: 
 trophyGuide: 
 duration:
 trophies: 34/37
-percent: 
+percent: 92%
 progress: stopped
 link: 
 date: 2009-09-06

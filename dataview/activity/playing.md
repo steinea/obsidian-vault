@@ -5,21 +5,15 @@ permalink: activity/playing
 
 ### Progress
 
-#### Now Playing
+#### Playing
 
 ![[playingnow]]
 
 <p><br></p>
 
-#### Perfect Games
+#### Played
 
 ![[playingcompleted]]
-
-<p><br></p>
-
-#### Stopped Playing
-
-![[playingstopped]]
 
 <p><br></p>
 

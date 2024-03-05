@@ -2,7 +2,7 @@
 title: Oblivion
 developer:
 publisher:
-platform: Xbox 360
+platform: 360
 releaseDate:
 howlongtobeat: 
 difficulty: 

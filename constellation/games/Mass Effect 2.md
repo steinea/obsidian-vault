@@ -2,14 +2,14 @@
 title: Mass Effect 2
 developer:
 publisher:
-platform: Xbox 360
+platform: 360
 releaseDate:
 howlongtobeat: 
 difficulty: 
 trophyGuide: 
 duration:
 trophies: 57/62
-percent: 
+percent: 92%
 progress: stopped
 link: 
 date: 2012-04-26

@@ -2,14 +2,14 @@
 title: Army of Two
 developer:
 publisher:
-platform: Xbox 360
+platform: 360
 releaseDate:
 howlongtobeat: 
 difficulty: 
 trophyGuide: 
 duration:
 trophies: 10/47
-percent: 
+percent: 21%
 progress: stopped
 link: 
 date: 2010-09-06

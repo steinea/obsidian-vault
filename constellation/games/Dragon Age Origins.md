@@ -2,14 +2,14 @@
 title: Dragon Age Origins
 developer:
 publisher:
-platform: Xbox 360
+platform: 360
 releaseDate:
 howlongtobeat: 
 difficulty: 
 trophyGuide: 
 duration:
 trophies: 26/76
-percent: 
+percent: 34%
 progress: stopped
 link: 
 date: 2013-05-25

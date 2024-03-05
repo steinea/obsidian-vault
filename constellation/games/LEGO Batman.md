@@ -2,14 +2,14 @@
 title: LEGO Batman
 developer:
 publisher:
-platform: Xbox 360
+platform: 360
 releaseDate:
 howlongtobeat: 
 difficulty: 
 trophyGuide: 
 duration:
 trophies: 1/46
-percent: 
+percent: 2%
 progress: stopped
 link: 
 date: 2010-03-06

@@ -2,14 +2,14 @@
 title: NHL 09
 developer:
 publisher:
-platform: Xbox 360
+platform: 360
 releaseDate:
 howlongtobeat: 
 difficulty: 
 trophyGuide: 
 duration:
 trophies: 2/27
-percent: 
+percent: 7%
 progress: stopped
 link: 
 date: 2009-09-04

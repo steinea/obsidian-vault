@@ -2,14 +2,14 @@
 title: Forza Motorsport 2
 developer:
 publisher:
-platform: Xbox 360
+platform: 360
 releaseDate:
 howlongtobeat: 
 difficulty: 
 trophyGuide: 
 duration:
 trophies: 7/44
-percent: 
+percent: 16%
 progress: stopped
 link: 
 date: 2010-03-22

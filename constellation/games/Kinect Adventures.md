@@ -2,14 +2,14 @@
 title: Kinect Adventures
 developer:
 publisher:
-platform: Xbox 360
+platform: 360
 releaseDate:
 howlongtobeat: 
 difficulty: 
 trophyGuide: 
 duration:
 trophies: 6/32
-percent: 
+percent: 19%
 progress: stopped
 link: 
 date: 2011-01-29

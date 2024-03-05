@@ -2,7 +2,6 @@
 
 | Library                                                                                               | Platform | Hours |
 | ----------------------------------------------------------------------------------------------------- | -------- | ----- |
-| [[constellation/games/Golf Club Nostalgia.md\|Golf Club Nostalgia]]                                   | PS4      | 6     |
 | [[constellation/games/Crawl.md\|Crawl]]                                                               | PS4      | 15    |
 | [[constellation/games/Uncharted 3 Remastered.md\|Uncharted 3 Remastered]]                             | PS4      | 20    |
 | [[constellation/games/The Last Guardian.md\|The Last Guardian]]                                       | PS4      | 26    |

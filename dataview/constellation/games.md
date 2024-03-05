@@ -114,7 +114,7 @@
 | [[constellation/games/Gris.md\|Gris]]                                                                           |
 | [[constellation/games/Guitar Hero World Tour.md\|Guitar Hero World Tour]]                                       |
 | [[constellation/games/Halo 3.md\|Halo 3]]                                                                       |
-| [[constellation/games/Halo 3 ODST Campaign Edition.md\|Halo 3 ODST Campaign Edition]]                           |
+| [[constellation/games/Halo 3 ODST.md\|Halo 3 ODST]]                                                             |
 | [[constellation/games/Halo 4.md\|Halo 4]]                                                                       |
 | [[constellation/games/Halo Infinite.md\|Halo Infinite]]                                                         |
 | [[constellation/games/Halo Reach.md\|Halo Reach]]                                                               |
