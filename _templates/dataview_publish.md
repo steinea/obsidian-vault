@@ -71,7 +71,7 @@ const fileAndQuery = new Map([
   ],
   [
 	"playingcompleted",
-	'TABLE WITHOUT ID file.link AS "Played", platform AS Platform, duration.hours AS "Hours", trophies AS Trophies, percent AS "★", date AS Date FROM "constellation/games" WHERE progress = "complete" OR progress = "stopped" SORT date DESC',
+	'TABLE WITHOUT ID file.link AS "Played", duration.hours AS "Hours", trophies AS Trophies, percent AS "★", date AS Date FROM "constellation/games" WHERE progress = "complete" OR progress = "stopped" SORT date DESC',
   ],
   [
 	"playingstopped",
