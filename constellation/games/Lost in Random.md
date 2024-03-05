@@ -9,6 +9,7 @@ difficulty: 3/10
 trophyGuide: https://psnprofiles.com/guide/12996-lost-in-random-trophy-guide
 duration:
 trophies: 
+percent: 
 progress: next
 link: 
 date: 

@@ -9,6 +9,7 @@ difficulty: 6/10
 trophyGuide: https://psnprofiles.com/guide/5539-the-last-guardian-trophy-guide
 duration: 
 trophies: 
+percent: 
 progress: next
 link: 
 date: 

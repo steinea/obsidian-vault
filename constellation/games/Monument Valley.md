@@ -5,6 +5,7 @@ platform: Google
 link: 
 duration: 
 trophies: 19/19
+percent: ★
 progress: complete
 permalink: 2018/10/21/monument-valley
 ---

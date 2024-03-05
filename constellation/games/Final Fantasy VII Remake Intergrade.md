@@ -8,7 +8,8 @@ howlongtobeat: 86h
 difficulty: 5/10
 trophyGuide: https://psnprofiles.com/guide/9997-final-fantasy-vii-remake-trophy-guide
 duration:
-trophies: 
+trophies:
+percent: 
 progress: wishlist
 link:
 date:

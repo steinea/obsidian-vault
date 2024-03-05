@@ -9,6 +9,7 @@ difficulty: 4/10
 trophyGuide: https://www.playstationtrophies.org/game/bloodstained-curse-of-the-moon-ps4/guide/
 duration:
 trophies: 
+percent: 
 progress: wishlist
 link: 
 date: 

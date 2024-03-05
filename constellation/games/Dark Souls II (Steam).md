@@ -5,6 +5,7 @@ platform: Steam
 link: 
 duration: 47h
 trophies: 38/38
+percent: ★
 progress: complete
 permalink: 2023/04/02/dark-souls-ii-scholar-of-the-first-sin
 ---

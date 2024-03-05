@@ -5,6 +5,7 @@ platform: Steam
 link: 
 duration: 2h
 trophies: 5/5
+percent: ★
 progress: complete
 permalink: 2022/04/06/we-know-the-devil
 ---

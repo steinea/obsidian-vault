@@ -9,6 +9,7 @@ difficulty: 3/10
 trophyGuide: https://psnprofiles.com/guide/17055-endling-extinction-is-forever-trophy-guide
 duration:
 trophies: 
+percent: 
 progress: next
 link: 
 date: 

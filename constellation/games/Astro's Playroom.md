@@ -9,6 +9,7 @@ difficulty: 2/10
 trophyGuide: https://psnprofiles.com/guide/11237-astros-playroom-trophy-guide
 duration:
 trophies: 
+percent: 
 progress: next
 link: 
 date: 

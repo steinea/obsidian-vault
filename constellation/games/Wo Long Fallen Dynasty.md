@@ -9,6 +9,7 @@ difficulty: 6/10
 trophyGuide: https://www.powerpyx.com/wo-long-fallen-dynasty-trophy-guide-roadmap/
 duration:
 trophies: 
+percent: 
 progress: wishlist
 link:
 date:

@@ -5,6 +5,7 @@ platform: PS3
 link: 
 duration: 
 trophies: 31/31
+percent: ★
 progress: complete
 permalink: 2020/01/19/shadow-of-the-colossus
 ---

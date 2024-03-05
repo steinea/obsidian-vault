@@ -5,6 +5,7 @@ platform: Xbox
 link: https://www.exophase.com/game/disc-room-xbox/achievements/#2209141
 duration: 11h
 trophies: 35/35
+percent: ★
 progress: complete
 permalink: 2023/08/19/disc-room
 ---

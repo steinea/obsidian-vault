@@ -9,6 +9,7 @@ difficulty: 2/10
 trophyGuide: https://www.playstationtrophies.org/game/jett-the-far-shore/guide/
 duration:
 trophies: 
+percent: 
 progress: next
 link: 
 date: 

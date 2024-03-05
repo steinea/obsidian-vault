@@ -6,6 +6,7 @@ link:
 howlongtobeat: 
 duration: 1h
 trophies: 0/21
+percent: 
 progress: now
 permalink:
 ---

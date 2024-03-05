@@ -9,6 +9,7 @@ difficulty: 4/10
 trophyGuide: https://psnprofiles.com/guide/8805-bloodstained-ritual-of-the-night-trophy-guide
 duration:
 trophies: 
+percent: 
 progress: wishlist
 link: 
 date: 

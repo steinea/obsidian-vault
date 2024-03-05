@@ -5,6 +5,7 @@ platform: Google
 link: 
 duration: 
 trophies: 12/12
+percent: ★
 progress: complete
 permalink: 2023/07/16/golf-peaks
 ---

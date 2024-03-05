@@ -9,6 +9,7 @@ difficulty: 4/10
 trophyGuide: https://psnprofiles.com/guide/14060-stranger-of-paradise-final-fantasy-origin-trophy-guide
 duration:
 trophies: 
+percent: 
 progress: wishlist
 link:
 date:

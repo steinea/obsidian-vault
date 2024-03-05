@@ -9,6 +9,7 @@ difficulty:
 trophyGuide: 
 duration:
 trophies: 53/102
+percent: 
 progress: stopped
 link: 
 date: 2022-09-24

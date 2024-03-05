@@ -5,6 +5,7 @@ platform: Steam
 link: 
 duration: 5h
 trophies: 12/12
+percent: ★
 progress: complete
 permalink: 2022/04/08/heaven-will-be-mine
 ---

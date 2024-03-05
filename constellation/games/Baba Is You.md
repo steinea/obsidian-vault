@@ -5,6 +5,7 @@ platform: Steam
 link: 
 duration: 23h
 trophies: 18/18
+percent: ★
 progress: complete
 permalink: 2020/09/25/baba-is-you
 ---

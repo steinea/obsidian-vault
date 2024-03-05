@@ -5,6 +5,7 @@ platform: PS4
 link: 
 duration: 103h
 trophies: 50/50
+percent: ★
 progress: complete
 permalink: 2019/10/06/the-last-of-us-remastered
 ---

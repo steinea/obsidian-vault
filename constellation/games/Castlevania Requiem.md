@@ -9,6 +9,7 @@ difficulty: 5/10
 trophyGuide: https://psnprofiles.com/guide/7982-castlevania-requiem-symphony-of-the-night-rondo-of-blood-trophy-guide
 duration:
 trophies: 
+percent: 
 progress: 
 link: wishlist
 date: 

@@ -5,6 +5,7 @@ platform: PS5
 link: https://psnprofiles.com/trophies/14211-art-of-rally/barrelofjuice
 duration: 22h
 trophies: 44/44
+percent: ★
 progress: complete
 permalink: 2023/09/08/art-of-rally
 ---

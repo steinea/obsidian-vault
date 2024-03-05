@@ -9,6 +9,7 @@ difficulty: 8/10
 trophyGuide: https://psnprofiles.com/guide/13020-crawl-trophy-guide
 duration:
 trophies: 
+percent: 
 progress: next
 link: 
 date: 

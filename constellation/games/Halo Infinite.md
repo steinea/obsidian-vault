@@ -5,6 +5,7 @@ platform: Xbox
 link: https://www.exophase.com/game/halo-infinite-xbox/achievements/#2209141
 duration: 313h
 trophies: 131/144
+percent: 
 progress: now
 permalink: 2023/10/06/halo-infinite
 ---

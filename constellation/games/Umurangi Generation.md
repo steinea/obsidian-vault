@@ -5,6 +5,7 @@ platform: Steam
 link: 
 duration: 5h
 trophies: 23/23
+percent: ★
 progress: complete
 permalink: 2021/03/04/umurangi-generation
 ---

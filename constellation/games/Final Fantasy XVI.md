@@ -9,6 +9,7 @@ difficulty: 3/10
 trophyGuide: https://psnprofiles.com/guide/17065-final-fantasy-xvi-trophy-guide
 duration:
 trophies: 
+percent: 
 progress: wishlist
 link:
 date:

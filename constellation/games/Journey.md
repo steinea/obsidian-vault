@@ -5,6 +5,7 @@ platform: PS4
 link: 
 duration: 10h
 trophies: 14/14
+percent: ★
 progress: complete
 permalink: 2017/08/15/journey
 ---

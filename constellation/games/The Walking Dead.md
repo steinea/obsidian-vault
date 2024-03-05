@@ -5,6 +5,7 @@ platform: PS4
 link: 
 duration: 29h
 trophies: 49/49
+percent: ★
 progress: complete
 permalink: 2015/02/25/the-walking-dead
 ---

@@ -5,6 +5,7 @@ platform: PS4
 link: 
 duration: 13h
 trophies: 49/49
+percent: ★
 progress: complete
 permalink: 2022/05/20/the-walking-dead-the-final-season
 ---

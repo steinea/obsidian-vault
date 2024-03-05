@@ -9,6 +9,7 @@ difficulty:
 trophyGuide: 
 duration: 2h
 trophies: 3/55
+percent: 
 progress: stopped
 link: 
 date: 2020-12-15

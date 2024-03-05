@@ -9,6 +9,7 @@ difficulty:
 trophyGuide: 
 duration:
 trophies: 8/50
+percent: 
 progress: stopped
 link: 
 date: 2011-01-05

@@ -5,6 +5,7 @@ platform: Steam
 link: 
 duration: 18h
 trophies: 23/23
+percent: ★
 progress: complete
 permalink: 2021/10/13/hyper-light-drifter
 ---

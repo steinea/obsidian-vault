@@ -9,6 +9,7 @@ difficulty: 4/10
 trophyGuide: https://www.playstationtrophies.org/game/lightning-returns-final-fantasy-13/guide/
 duration:
 trophies: 
+percent: 
 progress: wishlist
 link: 
 date: 

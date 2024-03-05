@@ -5,6 +5,7 @@ platform: Steam
 link: https://steamcommunity.com/id/steinea/stats/1818690/achievements/
 duration: 31h
 trophies: 49/49
+percent: ★
 progress: complete
 permalink: 2023/08/23/grindstone
 ---

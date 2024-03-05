@@ -9,6 +9,7 @@ difficulty: 8/10
 trophyGuide: https://psnprofiles.com/guide/8989-devil-may-cry-5-trophy-guide
 duration: 
 trophies: 
+percent: 
 progress: wishlist
 link:
 date:

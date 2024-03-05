@@ -8,7 +8,8 @@ howlongtobeat: 47h
 difficulty: 4/10
 trophyGuide: https://psnprofiles.com/guide/15695-crisis-core-final-fantasy-vii-reunion-trophy-guide
 duration:
-trophies: 
+trophies:
+percent: 
 progress: wishlist
 link:
 date:

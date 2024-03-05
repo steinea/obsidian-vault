@@ -5,6 +5,7 @@ platform: PS4
 link: 
 duration: 134h
 trophies: 43/43
+percent: ★
 progress: complete
 permalink: 2018/05/12/dark-souls-iii
 ---

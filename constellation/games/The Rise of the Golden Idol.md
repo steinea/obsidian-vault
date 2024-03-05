@@ -6,6 +6,7 @@ link:
 howlongtobeat: 
 duration: 
 trophies: 
+percent: 
 progress: wishlist
 permalink:
 ---

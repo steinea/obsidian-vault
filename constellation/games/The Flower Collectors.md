@@ -5,6 +5,7 @@ platform: Steam
 link: 
 duration: 6h
 trophies: 13/13
+percent: ★
 progress: complete
 permalink: 2021/03/11/the-flower-collectors
 ---

@@ -9,6 +9,7 @@ difficulty:
 trophyGuide: 
 duration: 10h
 trophies: 16/53
+percent: 
 progress: now
 link:
 date: 

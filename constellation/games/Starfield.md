@@ -5,6 +5,7 @@ platform: Xbox
 link: 
 duration: 104h
 trophies: 50/50
+percent: ★
 progress: complete
 permalink: 2024/02/25/starfield
 ---

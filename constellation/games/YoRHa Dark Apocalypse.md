@@ -9,6 +9,7 @@ difficulty:
 trophyGuide:
 duration:
 trophies: 
+percent: 
 progress: wishlist
 link:
 date:

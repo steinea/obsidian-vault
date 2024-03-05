@@ -8,7 +8,8 @@ howlongtobeat: 91h
 difficulty: 7/10
 trophyGuide: https://psnprofiles.com/guide/8191-dead-cells-trophy-guide
 duration:
-trophies: 
+trophies:
+percent: 
 progress: wishlist
 link: 
 date: 

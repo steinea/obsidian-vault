@@ -9,6 +9,7 @@ difficulty: 4/10
 trophyGuide: https://psnprofiles.com/guide/16249-forspoken-trophy-guide
 duration:
 trophies: 
+percent: 
 progress: 
 link: wishlist
 date: 

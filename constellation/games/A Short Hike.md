@@ -5,6 +5,7 @@ platform: Steam
 link: 
 duration: 7h
 trophies: 12/12
+percent: ★
 progress: complete
 permalink: 2022/01/05/a-short-hike
 ---

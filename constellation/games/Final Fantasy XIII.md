@@ -9,6 +9,7 @@ difficulty: 5/10
 trophyGuide: https://psnprofiles.com/guide/138-final-fantasy-xiii-trophy-guide
 duration:
 trophies: 
+percent: 
 progress: wishlist
 link: 
 date:

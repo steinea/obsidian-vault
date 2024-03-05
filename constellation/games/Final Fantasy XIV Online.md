@@ -9,6 +9,7 @@ difficulty: 4/10
 trophyGuide: https://psnprofiles.com/guide/12584-final-fantasy-xiv-a-realm-reborn-trophy-guide
 duration: 
 trophies: 
+percent: 
 progress: wishlist
 link:
 date:

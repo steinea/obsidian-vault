@@ -9,6 +9,7 @@ difficulty: 6/10
 trophyGuide: https://psnprofiles.com/guide/13377-solar-ash-trophy-guide
 duration:
 trophies: 
+percent: 
 progress: next
 link: 
 date: 

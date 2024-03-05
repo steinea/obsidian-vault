@@ -5,6 +5,7 @@ platform: Steam
 link: 
 duration: 1h
 trophies: 12/12
+percent: ★
 progress: complete
 permalink: 2022/02/21/the-ramp
 ---

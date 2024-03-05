@@ -9,6 +9,7 @@ difficulty: 3/10
 trophyGuide: https://www.playstationtrophies.org/game/bloodstained-curse-of-the-moon-2/guide/
 duration:
 trophies: 
+percent: 
 progress: wishlist 
 link: 
 date: 

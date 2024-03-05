@@ -5,6 +5,7 @@ platform: Steam
 link: 
 duration: 31h
 trophies: 24/24
+percent: ★
 progress: complete
 permalink: 2020/10/07/kentucky-route-zero
 ---

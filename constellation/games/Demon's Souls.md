@@ -5,6 +5,7 @@ platform: PS3
 link: 
 duration: 
 trophies: 38/38
+percent: ★
 progress: complete
 permalink: 2019/04/01/demons-souls
 ---

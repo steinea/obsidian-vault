@@ -5,6 +5,7 @@ platform: PS4
 link: 
 duration: 85h
 trophies: 38/38
+percent: ★
 progress: complete
 permalink: 2018/01/14/dark-souls-ii-scholar-of-the-first-sin
 ---

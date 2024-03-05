@@ -5,6 +5,7 @@ platform: PS4
 link: 
 duration: 18h
 trophies: 20/20
+percent: ★
 progress: complete
 permalink: 2015/03/27/valiant-hearts-the-great-war
 ---

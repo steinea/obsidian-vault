@@ -242,9 +242,9 @@
 | [[constellation/games/The Rise of the Golden Idol.md\|The Rise of the Golden Idol]]                             |
 | [[constellation/games/The Stanley Parable.md\|The Stanley Parable]]                                             |
 | [[constellation/games/The Walking Dead.md\|The Walking Dead]]                                                   |
-| [[constellation/games/The Walking Dead Season 2.md\|The Walking Dead Season 2]]                                 |
-| [[constellation/games/The Walking Dead Season 3.md\|The Walking Dead Season 3]]                                 |
-| [[constellation/games/The Walking Dead Season 4.md\|The Walking Dead Season 4]]                                 |
+| [[constellation/games/The Walking Dead 2.md\|The Walking Dead 2]]                                               |
+| [[constellation/games/The Walking Dead 3.md\|The Walking Dead 3]]                                               |
+| [[constellation/games/The Walking Dead 4.md\|The Walking Dead 4]]                                               |
 | [[constellation/games/The World We Left Behind.md\|The World We Left Behind]]                                   |
 | [[constellation/games/This War of Mine.md\|This War of Mine]]                                                   |
 | [[constellation/games/Threes! Freeplay.md\|Threes! Freeplay]]                                                   |

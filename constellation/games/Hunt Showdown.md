@@ -5,6 +5,7 @@ platform: Steam
 link: 
 duration: 518h
 trophies: 37/37
+percent: ★
 progress: complete
 permalink: 2021/08/22/hunt-showdown
 ---

@@ -9,6 +9,7 @@ difficulty: 8/10
 trophyGuide: https://psnprofiles.com/guide/2428-drakengard-3-trophy-guide
 duration:
 trophies: 
+percent: 
 progress: wishlist
 link: 
 date: 

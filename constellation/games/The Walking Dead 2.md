@@ -5,6 +5,7 @@ platform: PS4
 link: 
 duration: 22h
 trophies: 40/40
+percent: ★
 progress: complete
 permalink: 2015/03/02/the-walking-dead-season-2
 ---

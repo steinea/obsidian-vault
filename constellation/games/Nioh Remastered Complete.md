@@ -9,6 +9,7 @@ difficulty: 5/10
 trophyGuide: https://psnprofiles.com/guide/5830-nioh-trophy-guide
 duration:
 trophies: 
+percent: 
 progress: wishlist
 link:
 date:

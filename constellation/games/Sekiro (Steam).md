@@ -5,6 +5,7 @@ platform: Steam
 link: 
 duration: 26h
 trophies: 34/34
+percent: ★
 progress: complete
 permalink: 2022/05/28/sekiro-shadows-die-twice
 ---

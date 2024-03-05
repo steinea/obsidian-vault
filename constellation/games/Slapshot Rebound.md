@@ -9,6 +9,7 @@ difficulty:
 trophyGuide: 
 duration: 30m
 trophies: 2/17
+percent: 
 progress: stopped
 link: 
 date: 2021-03-30

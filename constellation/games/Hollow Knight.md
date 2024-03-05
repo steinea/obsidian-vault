@@ -5,6 +5,7 @@ platform: Steam
 link: 
 duration: 69h
 trophies: 63/63
+percent: ★
 progress: complete
 permalink: 2020/06/23/hollow-knight
 ---

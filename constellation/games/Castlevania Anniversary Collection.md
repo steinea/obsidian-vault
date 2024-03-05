@@ -9,6 +9,7 @@ difficulty: 5/10
 trophyGuide: https://www.playstationtrophies.org/forum/topic/313715-castlevania-anniversary-collection-na-trophy-guide-and-roadmap/
 duration:
 trophies: 
+percent: 
 progress: wishlist
 link: 
 date: 

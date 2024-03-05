@@ -9,6 +9,7 @@ difficulty: 7/10
 trophyGuide: https://psnprofiles.com/guide/16302-dead-cells-return-to-castlevania-dlc-trophy-guide
 duration:
 trophies: 
+percent: 
 progress: wishlist
 link: 
 date: 

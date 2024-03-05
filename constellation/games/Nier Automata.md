@@ -8,7 +8,8 @@ howlongtobeat: 62h
 difficulty: 3/10
 trophyGuide: https://psnprofiles.com/guide/5884-nier-automata-trophy-guide
 duration:
-trophies: 
+trophies:
+percent: 
 progress: next
 link: 
 date: 
