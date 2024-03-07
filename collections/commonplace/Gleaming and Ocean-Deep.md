@@ -9,11 +9,7 @@ date: 2022-12-17
 permalink: 2022/12/17/tomris-laffly-gleaming-and-ocean-deep
 ---
 
-# Gleaming and Ocean-Deep
-
-### Tomris Laffly
-
-[[2022]] / [[commonplace]] / [[The A. V. Club]]
+[[2022]] • [[commonplace]] • [[Tomris Laffly]] • [[The A. V. Club]]
 
 "*Avatar: The Way Of Water* not only delivers upon everything its predecessor established, but advances them in ways gleaming and ocean-deep, through the eyes and heart of a cinematic storyteller with a passionate and well-documented love of the sea"
 

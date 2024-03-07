@@ -9,11 +9,7 @@ date: 2014-10-28
 permalink: 2014/10/28/karl-marx-preface-to-a-contribution-to-the-critique-of-political-economy
 ---
 
-# Preface to a Contribution to the Critique of Political Economy
-
-### Karl Marx
-
-[[2014]] / [[commonplace]] / [[Critical Theory]]
+[[2014]] • [[commonplace]] • [[Karl Marx]] • [[Critical Theory]]
 
 “The sum total of these relations of production constitutes the economic structure of society—the real foundation, on which rise legal and political superstructures” (380). 
 

@@ -9,11 +9,7 @@ date: 2015-02-10
 permalink: 2015/02/10/shakespeare-tomorrow-and-tomorrow-and-tomorrow
 ---
 
-# Tomorrow and Tomorrow and Tomorrow
-
-### Shakespeare
-
-[[2015]] / [[commonplace]] / [[Macbeth]]
+[[2015]] • [[commonplace]] • [[Shakespeare]] • [[Macbeth]]
 
 "She should have died hereafter;
 <br>There would have been a time for such a word.

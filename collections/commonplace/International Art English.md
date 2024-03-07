@@ -9,11 +9,7 @@ date: 2014-01-12
 permalink: 2014/01/12/alix-rule-david-levine-international-art-english
 ---
 
-# International Art English
-
-### Alix Rule and David Levine
-
-[[2014]] / [[commonplace]] / [[Triple Canopy]]
+[[2014]] • [[commonplace]] • [[Alix Rule]] • [[David Levine]] • [[Triple Canopy]]
 
 On the rise—and the space—of the art-world press release.
 

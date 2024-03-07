@@ -9,11 +9,7 @@ date: 2022-12-15
 permalink: 2022/12/15/kathryn-lavezzo-multiculturalism-in-middle-earth
 ---
 
-# Multiculturalism in Middle-Earth
-
-### Kathryn Lavezzo
-
-[[2022]] / [[commonplace]] / [[Los Angeles Review of Books]]
+[[2022]] • [[commonplace]] • [[Kathryn Lavezzo]] • [[Los Angeles Review of Books]]
 
 "J. R. R. TOLKIEN HAD an Atlantis complex"
 

@@ -9,11 +9,7 @@ date: 2014-07-17
 permalink: 2014/07/17/chris-mckitterick-defining-science-fiction
 ---
 
-# Defining Science Fiction
-
-### Chris McKitterick
-
-[[2014]] / [[commonplace]] / [[Center for the Study of Science Fiction]]
+[[2014]] • [[commonplace]] • [[Chris McKitterick]] • [[Center for the Study of Science Fiction]]
 
 “At the Center for the Study of Science Fiction, we feel it's important to understand the foundations of SF Studies, and that begins with knowing everyone's talking about the same thing.”
 

@@ -9,11 +9,7 @@ date: 2014-07-25
 permalink: 2014/07/25/caroline-moorhead-sprezzatura
 ---
 
-# Sprezzatura
-
-### Caroline Moorehead
-
-[[2014]] / [[commonplace]] / [[Times Literary Supplement]]
+[[2014]] • [[commonplace]] • [[Caroline Moorehead]] • [[Times Literary Supplement]]
 
 "esprit, wit, with all its various nuances, somewhere between impertinence and adulation, designed above all to give pleasure to your riends." 
 

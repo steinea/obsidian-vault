@@ -9,11 +9,7 @@ date: 2014-12-01
 permalink: 2014/12/01/john-morton-mortons-fork
 ---
 
-# Morton's Fork
-
-### John Morton
-
-[[2014]] / [[commonplace]] / [[Wikipedia]]
+[[2014]] • [[commonplace]] • [[John Morton]] • [[Wikipedia]]
 
 A Morton's Fork is a specious piece of reasoning in which contradictory arguments lead to the same (unpleasant) conclusion. It is said to originate with the collecting of taxes by John Morton, Archbishop of Canterbury in the late 15th century, who held that a man living modestly must be saving money and could therefore afford taxes, whereas if he was living extravagantly then he was obviously rich and could still afford them.
 

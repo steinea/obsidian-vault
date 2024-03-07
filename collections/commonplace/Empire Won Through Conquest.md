@@ -9,11 +9,7 @@ date: 2014-12-29
 permalink: 2014/12/29/orson-scott-empire-won-through-conquest
 ---
 
-# Empire Won Through Conquest
-
-### Orson Scott Card
-
-[[2014]] / [[commonplace]] / [[Shadow of the Giant]]
+[[2014]] • [[commonplace]] • [[Orson Scott Card]] • [[Shadow of the Giant]]
 
 "Alai is a builder, like Ender. He always has been. An empire won through audacious and bloody conquest isn't worth having."
 

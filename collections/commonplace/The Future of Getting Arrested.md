@@ -9,11 +9,7 @@ date: 2015-02-05
 permalink: 2015/02/05/leon-neyfakh-the-future-of-getting-arrested
 ---
 
-# The Future of Getting Arrested
-
-### Leon Neyfakh
-
-[[2015]] / [[commonplace]] / [[The Atlantic]]
+[[2015]] • [[commonplace]] • [[Leon Neyfakh]] • [[The Atlantic]]
 
 "A Brief History of Arrests 
 

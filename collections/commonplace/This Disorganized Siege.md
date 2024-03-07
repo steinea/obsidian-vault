@@ -9,11 +9,7 @@ date: 2015-02-20
 permalink: 2015/02/20/hubert-aquin-this-disorganized-siege
 ---
 
-# This Disorganized Siege
-
-### Hubert Aquin
-
-[[2015]] / [[commonplace]] / [[Next Episode]]
+[[2015]] • [[commonplace]] • [[Hubert Aquin]] • [[Next Episode]]
 
 Packed inside my sentences,
 LOCATION: 58

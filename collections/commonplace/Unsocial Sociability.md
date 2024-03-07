@@ -9,11 +9,7 @@ date: 2014-05-23
 permalink: 2014/05/23/walter-benjamin-unsocial-sociability
 ---
 
-# Unsocial Sociability
-
-### Walter Benjamin
-
-[[2014]] / [[commonplace]] / [[Los Angeles Review of Books]]
+[[2014]] • [[commonplace]] • [[Walter Benjamin]] • [[Los Angeles Review of Books]]
 
 From Colin Dickey, Shoring Against the Ruins
 

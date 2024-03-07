@@ -9,11 +9,7 @@ date: 2022-12-25
 permalink: 2022/12/25/mark-nepo-yes-we-can-talk
 ---
 
-# Yes, We Can Talk
-
-### Mark Nepo
-
-[[2022]] / [[commonplace]] / [[Twitter]]
+[[2022]] • [[commonplace]] • [[Mark Nepo]] • [[Twitter]]
 
 Having loved enough and lost enough,
 <br>I'm no longer searching

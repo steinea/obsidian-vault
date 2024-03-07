@@ -9,11 +9,7 @@ date: 2014-08-11
 permalink: 2014/08/11/gustan-koumantaros-moonlight-confession
 ---
 
-# Moonlight Confession
-
-### Gustan Koumantaros
-
-[[2014]] / [[commonplace]] / [[Tumblr]]
+[[2014]] • [[commonplace]] • [[Gustan Koumantaros]] • [[Tumblr]]
 
 Love
 <br>has made

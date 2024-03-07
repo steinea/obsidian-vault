@@ -9,11 +9,7 @@ date: 2014-05-12
 permalink: 2014/05/12/james-cascio-magna-cortica
 ---
 
-# Magna Cortica
-
-### James Cascio
-
-[[2014]] / [[commonplace]] / [[Open the Future]]
+[[2014]] • [[commonplace]] • [[James Cascio]] • [[Open the Future]]
 
 1. The right to self-knowledge. Likely the least controversial, and arguably the most fundamental, this right would be the logical extension of the quantified self movement that's been growing for the last few years. As the ability to measure, analyze, even read the ongoing processes in our brains continues to expand, the argument here is that the right to know what’s going on inside our own heads should not be abridged.
 

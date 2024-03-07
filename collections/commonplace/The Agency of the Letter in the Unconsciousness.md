@@ -9,11 +9,7 @@ date: 2014-10-26
 permalink: 2014/10/26/jacques-lacan-the-agency-of-the-letter-in-the-unconscious
 ---
 
-# The Agency of the Letter in the Unconsciousness
-
-### Jacques Lacan
-
-[[2014]] / [[commonplace]] / [[Écrits]]
+[[2014]] • [[commonplace]] • [[Jacques Lacan]] • [[Écrits]]
 
 I.
 

@@ -9,11 +9,7 @@ date: 2015-03-22
 permalink: 2015/03/22/sappho-silence-breaks-my-tongue
 ---
 
-# Silence Breaks My Tongue
-
-### Sappho
-
-[[2015]] / [[commonplace]] / [[Wikipedia]]
+[[2015]] • [[commonplace]] • [[Sappho]] • [[Wikipedia]]
 
 He seems an equal of the gods,
 <br>That man who sits across from you

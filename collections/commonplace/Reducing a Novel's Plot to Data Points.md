@@ -9,11 +9,7 @@ date: 2015-02-05
 permalink: 2015/02/05/dan-piepenbring-reducing-a-novels-plot-to-data-points
 ---
 
-# Reducing a Novel's Plot to Data Points
-
-### Dan Piepenbring
-
-[[2015]] / [[commonplace]] / [[The Paris Review]]
+[[2015]] • [[commonplace]] • [[Dan Piepenbring]] • [[The Paris Review]]
 
 "Syuzhet is concerned with the linear progression of narrative from beginning (first page) to the end (last page), whereas fabula is concerned with the specific events of a story, events which may or may not be related in chronological order … When we study the syuzhet, we are not so much concerned with the order of the fictional events but specifically interested in the manner in which the author presents those events to readers."
  

@@ -9,11 +9,7 @@ date: 2014-09-22
 permalink: 2014/09/22/pierre-bourdieu-a-social-critique-of-the-judgement-of-taste
 ---
 
-# A Social Critique of the Judgement of Taste
-
-### Pierre Bourdieu
-
-[[2014]] / [[commonplace]] / [[The Norton Anthology of Theory and Criticism]]
+[[2014]] • [[commonplace]] • [[Pierre Bourdieu]] • [[The Norton Anthology of Theory and Criticism]]
 
 "To the socially recognized hierarchy of the arts, and within each of them, of genres, schools or periods, corresponds a social hierarchy of consumes" (1399).
 

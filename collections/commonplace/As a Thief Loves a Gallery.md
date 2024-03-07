@@ -9,11 +9,7 @@ date: 2014-01-22
 permalink: 2014/01/22/lemony-snickett-as-a-thief-loves-a-gallery
 ---
 
-# As a Thief Loves a Gallery
-
-### Lemony Snicket
-
-[[2014]] / [[commonplace]] / [[The Beatrice Poems]]
+[[2014]] • [[commonplace]] • [[Lemony Snicket]] • [[The Beatrice Poems]]
 
 “I will love you as a thief loves a gallery and as a crow loves a murder, as a cloud loves bats and as a range loves braes. I will love you as misfortune loves orphans, as fire loves innocence and as justice loves to sit and watch while everything goes wrong. I will love you as a battlefield loves young men and as peppermints love your allergies, and I will love you as the banana peel loves the shoe of a man who was just struck by a shingle falling off a house. I will love you as a volunteer fire department loves rushing into burning buildings and as burning buildings love to chase them back out, and as a parachute loves to leave a blimp and as a blimp operator loves to chase after it.
 

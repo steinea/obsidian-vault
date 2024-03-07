@@ -9,11 +9,7 @@ date: 2014-04-29
 permalink: 2014/04/29/jean-jacques-rousseau-intro-to-political-economy
 ---
 
-# Intro to Political Economy
-
-### Jean-Jacques Rousseau
-
-[[2014]] / [[commonplace]] / [[Discourse on Political Economy and The Social Contract]]
+[[2014]] • [[commonplace]] • [[Jean-Jacques Rousseau]] • [[Discourse on Political Economy and The Social Contract]]
 
 1. Economy means lawful government of the household (Greek: oikos + nomos; English: house + law)
 2. Political economy means lawful government of a people

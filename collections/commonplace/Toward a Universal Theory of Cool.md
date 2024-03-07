@@ -9,11 +9,7 @@ date: 2014-05-23
 permalink: 2014/05/23/derek-thompson-toward-a-universal-theory-of-cool
 ---
 
-# Toward a Universal Theory of Cool
-
-### Derek Thompson
-
-[[2014]] / [[commonplace]] / [[The Atlantic]]
+[[2014]] • [[commonplace]] • [[Derek Thompson]] • [[The Atlantic]]
 
 “a new paper by Caleb Warren and Margaret C. Campbell applies a more constrictive definition that proves surprisingly workable: "Coolness is a subjective, positive trait perceived in people, brands, products, and trends that are autonomous in an appropriate way.”
 

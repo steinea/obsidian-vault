@@ -9,11 +9,7 @@ date: 2014-04-14
 permalink: 2014/04/14/daniel-baird-no-place-to-hide
 ---
 
-# No Place to Hide
-
-### Daniel Baird
-
-[[2014]] / [[commonplace]] / [[The Walrus]]
+[[2014]] • [[commonplace]] • [[Daniel Baird]] • [[The Walrus]]
 
 “Mobbing, whether in the workplace, the schoolyard, or society at large, happens when moral panic is harnessed by the punitive power of the group.”
 

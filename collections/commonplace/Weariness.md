@@ -9,10 +9,6 @@ date: 2014-05-23
 permalink: 2014/05/23/g-k-chesterton-weariness
 ---
 
-# Weariness
-
-### G. K. Chesterton
-
-[[2014]] / [[commonplace]] / [[The Everlasting Man]]
+[[2014]] • [[commonplace]] • [[G. K. Chesterton]] • [[The Everlasting Man]]
 
 “Meaningless does not come from being weary of pain. Meaninglessness comes from being weary of pleasure.”

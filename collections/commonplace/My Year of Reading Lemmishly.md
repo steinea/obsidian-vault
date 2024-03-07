@@ -9,11 +9,7 @@ date: 2022-07-01
 permalink: 2022/07/01/jonathan-lethem-my-year-of-reading-lemmishly
 ---
 
-# My Year of Reading Lemmishly
-
-### Jonathan Lethem
-
-[[2022]] / [[commonplace]] / [[London Review of Books]]
+[[2022]] • [[commonplace]] • [[Jonathan Lethem]] • [[London Review of Books]]
 
 "Philip K. Dick"
 

@@ -9,11 +9,7 @@ date: 2015-03-29
 permalink: 2015/03/29/charles-leadbeater-where-does-identity-go-once-memory-goes
 ---
 
-# Where Does Identity Go Once Memory Goes?
-
-### Charles Leadbeater
-
-[[2015]] / [[commonplace]] / [[Aeon]]
+[[2015]] • [[commonplace]] • [[Charles Leadbeater]] • [[Aeon]]
 
 "Internally enhanced by electronic memory aids, we might manage to look quite normal from a distance, but only by becoming a different species: technologically reconstituted humans."
 

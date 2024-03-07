@@ -9,11 +9,7 @@ date: 2014-12-06
 permalink: 2014/12/06/john-b-calhoun-mouse-universe
 ---
 
-# Mouse Universe
-
-### John B. Calhoun
-
-[[2014]] / [[commonplace]] / [[Wikipedia]]
+[[2014]] • [[commonplace]] • [[John B. Calhoun]] • [[Wikipedia]]
 
 In the early 1960s, the National Institute of Mental Health (NIMH) acquired property in a rural area outside Poolesville, Maryland. The facility that was built on this property housed several research projects, including those headed by Calhoun. It was here that his most famous experiment, the mouse universe, was created.[1] In July 1968 four pairs of mice were introduced into the Utopian universe. The universe was a 9-foot (2.7 m) square metal pen with 54-inch-high (1.4 m) sides. Each side had four groups of four vertical, wire mesh “tunnels”. The “tunnels” gave access to nesting boxes, food hoppers, and water dispensers. There was no shortage of food or water or nesting material. There were no predators. The only adversity was the limit on space.
 

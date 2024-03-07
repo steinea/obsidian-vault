@@ -9,11 +9,7 @@ date: 2014-10-23
 permalink: 2014/10/23/julia-kristeva-approaching-abjection
 ---
 
-# Approaching Abjection
-
-### Julia Kristeva
-
-[[2014]] / [[commonplace]] / [[Powers of Horror]]
+[[2014]] • [[commonplace]] • [[Julia Kristeva]] • [[Powers of Horror]]
 
 “Apprehensive, desire turns aside; sickened, it rejects” (1). 
 

@@ -9,11 +9,7 @@ date: 2014-09-28
 permalink: 2014/09/28/franco-moretti-distant-reading
 ---
 
-# Distant Reading
-
-### Franco Moretti
-
-[[2014]] / [[commonplace]] / [[New Left Review]]
+[[2014]] • [[commonplace]] • [[Franco Moretti]] • [[New Left Review]]
 
 “world-systems theory showed the power of core literatures to overdetermine, and in fact distort, the development of most national cultures” (44).
 

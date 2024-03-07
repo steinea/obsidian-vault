@@ -9,11 +9,7 @@ date: 2014-01-22
 permalink: 2014/01/22/e-e-cummings-i-like-my-body
 ---
 
-# i like my body
-
-### E. E. Cummings
-
-[[2014]] / [[commonplace]] / [[Google Books]]
+[[2014]] • [[commonplace]] • [[E. E. Cummings]] • [[Google Books]]
 
 i like my body when it is with your
 <br>body.    It is so quite a new thing.

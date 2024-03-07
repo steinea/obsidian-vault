@@ -9,11 +9,7 @@ date: 2014-10-10
 permalink: 2014/10/10/barbara-johnson-melvilles-fist
 ---
 
-# Melville's Fist
-
-### Barbara Johnson
-
-[[2014]] / [[commonplace]] / [[JSTOR]] / [[Billy Budd, Sailor]]
+[[2014]] • [[commonplace]] • [[Barbara Johnson]] • [[JSTOR]] • [[Billy Budd, Sailor]]
 
 I. The Sense of an Ending
 

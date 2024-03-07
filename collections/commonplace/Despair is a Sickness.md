@@ -9,11 +9,7 @@ date: 2015-02-14
 permalink: 2015/02/14/soren-kierkegaard-despair-is-a-sickness
 ---
 
-# Despair is a Sickness
-
-### Søren Kierkegaard
-
-[[2015]] / [[commonplace]] / [[The Sickness Unto Death]]
+[[2015]] • [[commonplace]] • [[Søren Kierkegaard]] • [[The Sickness Unto Death]]
 
 "... despair is interpreted as a sickness, not as a cure ... Thus, also in Christian terminology death is indeed the expression for the state of deepest spiritual wretchedness, and yet the cure is simply to die, to die to the world."
 

@@ -9,11 +9,7 @@ date: 2015-02-12
 permalink: 2015/02/12/marilynne-robinson-mortal-insufficiency
 ---
 
-# Mortal Insufficiency
-
-### Marilynne Robinson
-
-[[2015]] / [[commonplace]] / [[Gilead]]
+[[2015]] • [[commonplace]] • [[Marilynne Robinson]] • [[Gilead]]
 
 "There are two occasions when the sacred beauty of Creation becomes dazzlingly apparent, and they occur together. One is when we feel our mortal insufficiency to the world, and the other is when we feel the world's mortal insufficiency to us."
 

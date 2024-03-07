@@ -9,11 +9,7 @@ date: 2014-10-20
 permalink: 2014/10/20/andrew-grace-for-the-silo-boys
 ---
 
-# For the Silo Boys
-
-### Andrew Grace
-
-[[2014]] / [[commonplace]] / [[The New Yorker]]
+[[2014]] • [[commonplace]] • [[Andrew Grace]] • [[The New Yorker]]
 
 When the corn gave,
 <br> a boy was sucked to the bottom

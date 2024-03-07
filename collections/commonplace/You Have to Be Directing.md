@@ -9,11 +9,7 @@ date: 2022-11-07
 permalink: 2022/11/07/tony-gilroy-you-have-to-be-directing
 ---
 
-# You Have to Be Directing
-
-### Tony Gilroy
-
-[[2022]] / [[commonplace]] / [[Script]]
+[[2022]] • [[commonplace]] • [[Tony Gilroy]] • [[Script]]
 
 "I've come completely around on the whole notion. I don't ever wanna hear anybody say that writers shouldn't be directing... You have to be directing. I'm not interested in reading anybody else’s scripts anymore [who] aren't directing the film that they're writing. You should be making a film and showing it to me on the page.
 

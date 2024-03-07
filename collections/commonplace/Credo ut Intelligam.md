@@ -9,10 +9,6 @@ date: 2013-07-02
 permalink: 2013/07/02/anselm-credo-ut-intelligam
 ---
 
-# Credo ut Intelligam
-
-### Anselm of Canterbury
-
-[[2013]] / [[commonplace]] / [[Internet Medieval Sourcebook]]
+[[2013]] • [[commonplace]] • [[Anselm of Canterbury]] • [[Internet Medieval Sourcebook]]
 
 Credo ut intelligam (Latin): I believe so that I may understand

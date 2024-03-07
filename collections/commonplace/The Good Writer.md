@@ -9,10 +9,6 @@ date: 2014-09-04
 permalink: 2014/09/04/ralph-waldo-emerson-the-good-writer
 ---
 
-# The Good Writer
-
-### Ralph Waldo Emerson
-
-[[2014]] / [[commonplace]] / [[Open Library]]
+[[2014]] • [[commonplace]] • [[Ralph Waldo Emerson]] • [[Open Library]]
 
 "The good writer seems to be writing about himself, but has his eye always on that thread of the Universe which runs through himself and all things."

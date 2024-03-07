@@ -9,11 +9,7 @@ date: 2022-12-14
 permalink: 2022/12/14/david-j-chalmers-narrow-content
 ---
 
-# Narrow Content
-
-### David J. Chalmers
-
-[[2022]] / [[commonplace]] / [[constellation/publications/Notre Dame Philosophical Reviews]]
+[[2022]] • [[commonplace]] • [[David J. Chalmers]] • [[Notre Dame Philosophical Reviews]]
 
 "the Twin Earth Wars"
 

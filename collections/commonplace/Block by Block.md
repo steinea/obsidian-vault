@@ -9,11 +9,7 @@ date: 2014-03-25
 permalink: 2014/03/25/kyle-carsten-wyatt-block-by-block
 ---
 
-# Block by Block
-
-### Kyle Carsten Wyatt
-
-[[2014]] / [[commonplace]] / [[The Walrus]]
+[[2014]] • [[commonplace]] • [[Kyle Carsten Wyatt]] • [[The Walrus]]
 
 “Equipped with imagination alone, the would-be builders were empowered to create, recreate, and dismantle anything—a powerfully modern idea.
 

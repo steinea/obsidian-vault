@@ -9,11 +9,7 @@ date: 2014-10-16
 permalink: 2014/10/16/walter-sutton-melville-and-the-great-god-budd
 ---
 
-# Melville and the Great God Budd
-
-### Walter Sutton
-
-[[2014]] / [[commonplace]] / [[Prairie Schooner]] / [[Billy Budd, Sailor]]
+[[2014]] • [[commonplace]] • [[Walter Sutton]] • [[Prairie Schooner]] • [[Billy Budd, Sailor]]
 
 “In [Billy Budd] there is a deliberately maintained-balance between a naturalistic and a providential or redemptive view of the fate of the victim-hero Budd” (129). 
 

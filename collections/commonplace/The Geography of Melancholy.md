@@ -9,11 +9,7 @@ date: 2014-12-19
 permalink: 2014/12/19/tara-isabella-burton-the-geography-of-melancholy
 ---
 
-# The Geography of Melancholy
-
-### Tara Isabella Burton
-
-[[2014]] / [[commonplace]] / [[The American Reader]]
+[[2014]] • [[commonplace]] • [[Tara Isabella Burton]] • [[The American Reader]]
 
 “the city is not merely setting but allegory: a physical embodiment of the irrepeatibility of experience and the inevitability of decay.”
 

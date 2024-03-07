@@ -9,11 +9,7 @@ date: 2015-03-16
 permalink: 2015/03/16/emanuel-schuchart-the-essence-of-ver
 ---
 
-# The Essence of “Ver”
-
-### Emanuel Schuchart
-
-[[2015]] / [[commonplace]] / [[Your Daily German]]
+[[2015]] • [[commonplace]] • [[Emanuel Schuchart]] • [[Your Daily German]]
 
 In essence, it's a combination of verbessern ("to improve") and verschlimmern ("to make worse").  Here, then, is a verb that is able to express the idea of something simultaneously improving and worsening.  Think about it!
 

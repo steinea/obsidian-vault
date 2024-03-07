@@ -9,11 +9,7 @@ date: 2014-09-30
 permalink: 2014/09/30/hayden-white-the-historical-text-as-literary-artifact
 ---
 
-# The Historical Text as Literary Artifact
-
-### Hayden White
-
-[[2014]] / [[commonplace]] / [[Critical Theory]]
+[[2014]] • [[commonplace]] • [[Hayden White]] • [[Critical Theory]]
 
 "histories gain . . . their explanatory effect by . . . making stories out of mere chronicles . . . stories in turn are made out of chronicles by an operation which I have elsewhere called "emplotment" . . . the encodation of the facts contained in the chronicle as components of specific kinds of plot structures" (479).
 

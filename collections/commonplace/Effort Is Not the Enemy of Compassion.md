@@ -9,11 +9,7 @@ date: 2014-04-14
 permalink: 2014/04/14/leslie-jamison-effort-is-not-the-enemy-of-compassion
 ---
 
-# Effort Is Not the Enemy of Compassion
-
-### Leslie Jamison
-
-[[2014]] / [[commonplace]] / [[The Atlantic]]
+[[2014]] • [[commonplace]] • [[Leslie Jamison]] • [[The Atlantic]]
 
 “A 1983 study titled "The Structure of Empathy" found a correlation between empathy and four major personality clusters: sensitivity, nonconformity, even-temperedness, and social self-­confidence. I like the word structure. It suggests empathy is an edifice we build like a home or office—with architecture and design, scaffolding and electricity.”
 

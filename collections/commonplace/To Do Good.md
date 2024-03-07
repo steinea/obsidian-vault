@@ -9,11 +9,7 @@ date: 2014-12-23
 permalink: 2014/12/23/orson-scott-card-to-do-good
 ---
 
-# To Do Good
-
-### Orson Scott Card
-
-[[2014]] / [[commonplace]] / [[Shadow Puppets]]
+[[2014]] • [[commonplace]] • [[Orson Scott Card]] • [[Shadow Puppets]]
 
 "The things I want are simple. To do good wherever it's within my power, and where I can't do good, at least do no harm."
 

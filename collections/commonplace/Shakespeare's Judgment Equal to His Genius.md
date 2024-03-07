@@ -9,11 +9,7 @@ date: 2014-09-12
 permalink: 2014/09/12/samuel-taylor-coleridge-shakespeares-judgment-equal-to-his-genius
 ---
 
-# Shakespeare's Judgment Equal to His Genius
-
-### Samuel Taylor Coleridge
-
-[[2014]] / [[commonplace]] / [[The Norton Anthology of Theory and Criticism]]
+[[2014]] • [[commonplace]] • [[Samuel Taylor Coleridge]] • [[The Norton Anthology of Theory and Criticism]]
 
 From the Introduction: "The primary IMAGINATION I hold to be the living Power and prime Agent of all human perception, and as a repetition in the finite mind of the eternal act of creation in the infinite I AM" (301).
 

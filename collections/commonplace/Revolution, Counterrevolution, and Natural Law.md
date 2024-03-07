@@ -9,11 +9,7 @@ date: 2014-09-24
 permalink: 2014/09/24/philip-loosemore-revolution-counterrevolution-and-natural-law
 ---
 
-# Revolution, Counterrevolution, and Natural Law
-
-### Philip Loosemore
-
-[[2014]] / [[commonplace]] / [[Criticism]] / [[Billy Budd, Sailor]]
+[[2014]] • [[commonplace]] • [[Philip Loosemore]] • [[Criticism]] • [[Billy Budd, Sailor]]
 
 Epigraph: Hans Morganthau asks Hannah Arendt what her political leanings are, "within the contemporary possibilities" (99). 
 

@@ -9,11 +9,7 @@ date: 2014-10-01
 permalink: 2014/10/01/roland-barthes-the-death-of-the-author
 ---
 
-# The Death of the Author
-
-### Roland Barthes
-
-[[2014]] / [[commonplace]] / [[Critical Theory]]
+[[2014]] • [[commonplace]] • [[Roland Barthes]] • [[Critical Theory]]
 
 Introduction: “literature is written by the overall system of writing. . . . [authors] inherit a repertoire” (83). 
 

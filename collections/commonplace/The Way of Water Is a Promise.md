@@ -9,11 +9,7 @@ date: 2022-12-17
 permalink: 2022/12/17/dom-sinacola-avatar-the-way-of-water
 ---
 
-# *The Way of Water* Is a Promise
-
-### Dom Sinacola
-
-[[2022]] / [[commonplace]] / [[Paste]]
+[[2022]] • [[commonplace]] • [[Dom Sinacola]] • [[Paste]]
 
 "*Avatar: The Way of Water* is a promise—like the titular Way as described by a beatific, finned Na’vi fish-people princess, the film connects all things: the past and the future; cinema as a generational ideal and one film’s world-uniting box office reality; James Cameron’s megalomania and his justification for Being Like That; one audience member and another audience member on the other side of the world; one archetypal cliché and another archetypal cliché; dreams and waking life"
 

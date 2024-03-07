@@ -9,11 +9,7 @@ date: 2014-10-13
 permalink: 2014/10/13/h-bruce-franklin-billy-budd-and-capital-punishment
 ---
 
-# Billy Budd and Capital Punishment
-
-### H. Bruce Franklin
-
-[[2014]] / [[commonplace]] / [[American Literature]] / [[Billy Budd, Sailor]]
+[[2014]] • [[commonplace]] • [[H. Bruce Franklin]] • [[American Literature]] • [[Billy Budd, Sailor]]
 
 “Are we supposed to admire or condemn Captain Vere for his decision to sentence Billy Budd to death by public hanging?” (337). 
 

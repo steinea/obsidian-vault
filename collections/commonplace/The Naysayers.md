@@ -9,13 +9,7 @@ date: 2014-09-15
 permalink: 2014/09/15/alex-ross-the-naysayers
 ---
 
-# The Naysayers
-
-### Alex Ross
-
-[[2014]] / [[commonplace]] / [[The New Yorker]]
-
-From []()
+[[2014]] • [[commonplace]] • [[Alex Ross]] • [[The New Yorker]]
 
 "Technology conspires with populism to create an ideologically vacant dictatorship of likes. "
 

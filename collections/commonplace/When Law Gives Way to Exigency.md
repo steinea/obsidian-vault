@@ -9,11 +9,7 @@ date: 2014-12-19
 permalink: 2014/12/19/orson-scott-card-when-law-gives-way-to-exigency
 ---
 
-# When Law Gives Way to Exigency
-
-### Orson Scott Card
-
-[[2014]] / [[commonplace]] / [[Shadow of the Hegemon]]
+[[2014]] • [[commonplace]] • [[Orson Scott Card]] • [[Shadow of the Hegemon]]
 
 "If there is anything that can be called my “life study,” it is precisely this subject area: great leaders and great forces shaping the interplay of nations and peoples throughout history. As a child, I would put myself to sleep at night imagining a map of the world as it existed in the late fifties, just as the great colonial empires were beginning to grant independence, one by one, to the colonies that had once made up those great swathes of British pink and French blue across Africa and southern Asia. I imagined all those colonies as free countries, and, choosing one of them or some other relatively small nation, I would imagine alliance, unifications, invasions, conquests, until the world was united under one magnanimous, democratic government. Cincinnatus and George Washington, not Caesar or Napoleon, were my models. I read Machiavelli’s The Prince and Shirer’s Rise and Fall of the Third Reich, but I also read Mormon scripture (most notably the Book of Mormon stories of the generals Gideon, Moroni, Helaman,and Gidgiddoni, and Doctrine and Covenants section 121) and the Old and New Testaments, all the while trying to imagine how one might govern well when law gives way to exigency, and the circumstances under which war becomes righteous.
 

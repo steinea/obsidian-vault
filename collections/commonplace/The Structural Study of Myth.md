@@ -9,11 +9,7 @@ date: 2014-10-15
 permalink: 2014/10/15/claude-levi-strauss-the-structural-study-of-myth
 ---
 
-# The Structural Study of Myth
-
-### Claude Lévi-Strauss
-
-[[2014]] / [[commonplace]] / [[Critical Theory]]
+[[2014]] • [[commonplace]] • [[Claude Lévi-Strauss]] • [[Critical Theory]]
 
 ". . . the problem: if the content of a myth is contingent, how are we going to explain that throughout the world myths do resemble one another so much?" (75). 
 

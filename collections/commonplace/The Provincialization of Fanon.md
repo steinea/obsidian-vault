@@ -9,11 +9,7 @@ date: 2022-12-16
 permalink: 2022/12/16/muriam-haleh-davis-the-us-academy-and-the-provincialization-of-fanon
 ---
 
-# The Provincialization of Fanon
-
-### Muriam Haleh Davis
-
-[[2022]] / [[commonplace]] / [[Los Angeles Review of Books]]
+[[2022]] • [[commonplace]] • [[Muriam Haleh Davis]] • [[Los Angeles Review of Books]]
 
 "War shocked Fanon. Not only was he horrified by the racial segregation of the French Army, but he was also struck by many French citizens’ disinterest despite the acute threat to freedom that Nazi Germany presented. In a heart-wrenching letter to his family, he wrote: “I was wrong! Nothing here justifies this sudden decision to defend the interests of the French farmer when he himself does not care.”"
 

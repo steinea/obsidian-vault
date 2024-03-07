@@ -9,11 +9,7 @@ date: 2015-03-18
 permalink: 2015/03/18/brian-merchant-fully-automated-luxury-communism
 ---
 
-# Fully Automated Luxury Communism
-
-### Briant Merchant
-
-[[2015]] / [[commonplace]] / [[The Guardian]]
+[[2015]] • [[commonplace]] • [[Briant Merchant]] • [[The Guardian]]
 
 “At a time when robots crowd factory lines, algorithms steer cars and smart screens litter the checkout aisles, automation is the new spectre. The robots, they say, are coming for our jobs.”
 

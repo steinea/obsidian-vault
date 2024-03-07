@@ -9,11 +9,7 @@ date: 2014-07-25
 permalink: 2014/07/25/said-sayrafiezadeh-last-meal-at-whole-foods
 ---
 
-# Last Meal at Whole Foods
-
-### Saïd Sayrafiezadeh
-
-[[2014]] / [[commonplace]] / [[The New Yorker]]
+[[2014]] • [[commonplace]] • [[Saïd Sayrafiezadeh]] • [[The New Yorker]]
 
 "I was a little boy being instructed in the immutable fact of my own helplessness." 
 

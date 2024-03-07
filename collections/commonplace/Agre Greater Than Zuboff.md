@@ -9,11 +9,7 @@ date: 2022-11-13
 permalink: 2022/11/13/alexander-galloway-agre-greater-than-zuboff
 ---
 
-# Agre > Zuboff
-
-### Alexander Galloway
-
-[[2022]] / [[commonplace]] / [[Culture & Communication]]
+[[2022]] • [[commonplace]] • [[Alexander Galloway]] • [[Culture & Communication]]
 
 "In his essay on surveillance and capture, Agre offered a model for thinking about power. Or, I should be clear, his particular lens was "privacy." But I think we can easily extrapolate to a more general model of power, within which privacy was and is a central concern. In a nutshell, Agre turned away from *surveillance* as the central mechanism of power, and toward what he called *capture*."
 

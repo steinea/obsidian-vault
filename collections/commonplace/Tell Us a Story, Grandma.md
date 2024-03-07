@@ -9,11 +9,7 @@ date: 2015-01-26
 permalink: 2015/01/26/natalie-wise-tell-us-a-story-grandma
 ---
 
-# Tell Us a Story, Grandma
-
-### Natalie Wise
-
-[[2015]] / [[commonplace]] / [[The New Yorker]]
+[[2015]] •[[commonplace]] • [[Natalie Wise]] • [[The New Yorker]]
 
 I wonder which ones I will remember:
 <br>That I loved my boyfriend’s best friend?

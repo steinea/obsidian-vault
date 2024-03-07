@@ -9,11 +9,7 @@ date: 2014-08-03
 permalink: 2014/08/03/damon-lindelof-all-suffering-and-no-salvation
 ---
 
-# All Suffering and No Salvation
-
-### Damon Lindelof
-
-[[2014]] / [[commonplace]] / [[The Leftovers]]
+[[2014]] • [[commonplace]] • [[Damon Lindelof]] • [[The Leftovers]]
 
 Wayne to Tom, The Leftovers
 

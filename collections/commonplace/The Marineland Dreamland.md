@@ -9,11 +9,7 @@ date: 2013-08-02
 permalink: 2013/08/02/craig-davidson-the-marineland-dreamland
 ---
 
-# The Marineland Dreamland
-
-### Craig Davidson
-
-[[2013]] / [[commonplace]] / [[The Walrus]]
+[[2013]] • [[commonplace]] • [[Craig Davidson]] • [[The Walrus]]
 
 "This is the most dangerous element about memory. If it means enough to us, we can convince ourselves that almost anything happened." 
 

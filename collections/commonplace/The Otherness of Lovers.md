@@ -9,11 +9,7 @@ date: 2013-06-28
 permalink: 2013/06/28/eunice-de-souza-advice-to-women
 ---
 
-# Advice to Women
-
-### Eunice de Souza
-
-[[2013]] / [[commonplace]] / [[Google Books]]
+[[2013]] • [[commonplace]] • [[Eunice de Souza]] • [[Google Books]]
 
 Keep cats 
 <br>if you want to learn to cope with

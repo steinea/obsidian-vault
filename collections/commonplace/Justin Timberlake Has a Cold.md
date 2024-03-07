@@ -9,11 +9,7 @@ date: 2014-08-03
 permalink: 2014/08/03/david-samuels-justin-timberlake-has-a-cold
 ---
 
-# Justin Timberlake Has a Cold
-
-### David Samuels
-
-[[2014]] / [[commonplace]] / [[n+1]]
+[[2014]] • [[commonplace]] • [[David Samuels]] • [[n+1]]
 
 "thanks to Facebook and Twitter and WhatsApp and the buzzing hive of selfies and chats and tweets and chatter and casual surveillance in which no man may speak from a burning bush or a shimmering mist, or be uncamera-ready, or cranky, or worse still, out of touch."
 

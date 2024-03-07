@@ -9,11 +9,7 @@ date: 2022-12-17
 permalink: 2022/12/16/emily-short-beyond-branching
 ---
 
-# Beyond Branching
-
-### Emily Short
-
-[[2022]] / [[commonplace]] / [[Emily Short's Interactive Storytelling]]
+[[2022]] • [[commonplace]] • [[Emily Short]] • [[Emily Short's Interactive Storytelling]]
 
 "[Quality-based narrative](https://emshort.wordpress.com/category/quality-based-narrative/) is the term invented by Failbetter Games to refer to [interactive narratives structured around storylets unlocked by qualities](http://www.failbettergames.com/tag/narrative-engineering/)."
 

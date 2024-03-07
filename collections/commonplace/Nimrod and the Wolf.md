@@ -9,11 +9,7 @@ date: 2014-11-10
 permalink: 2014/11/10/robert-menner-nimrod-and-the-wolf
 ---
 
-# Nimrod and the Wolf
-
-### Robert Menner
-
-[[2014]] / [[commonplace]] / [[Journal of English and Germanic Philology]]
+[[2014]] • [[commonplace]] • [[Robert Menner]] • [[Journal of English and Germanic Philology]]
 
 "Saturn and Marcolf both, in any case, replace the demons of earlier Hebrew and Arabic legend who reveal to Solomon the mysteries of the universe" (333).
 

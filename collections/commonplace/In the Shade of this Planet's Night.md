@@ -9,11 +9,7 @@ date: 2014-12-28
 permalink: 2014/12/28/orson-scott-card-baboons
 ---
 
-# In the Shade of this Planet's Night
-
-### Orson Scott Card
-
-[[2014]] / [[commonplace]] / [[Shadow of the Giant]]
+[[2014]] • [[commonplace]] • [[Orson Scott Card]] • [[Shadow of the Giant]]
 
 Humanity:
 

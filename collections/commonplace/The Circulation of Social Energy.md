@@ -9,11 +9,7 @@ date: 2014-09-28
 permalink: 2014/09/28/stephen-greenblatt-the-circulation-of-social-energy
 ---
 
-# The Circulation of Social Energy
-
-### Stephen Greenblatt
-
-[[2014]] / [[commonplace]] / [[Shakespearean Negotiations]]
+[[2014]] • [[commonplace]] • [[Stephen Greenblatt]] • [[Shakespearean Negotiations]]
 
 “simulations are undertaken in full awareness of the absence of the life they contrive to represent, and hence they may skillfully anticipate and compensate for the vanishing of the actual life that has empowered them” (2A). 
 

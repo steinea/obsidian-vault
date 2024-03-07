@@ -9,11 +9,7 @@ date: 2022-11-13
 permalink: 2022/11/13/sam-barlow-vous-vivrez-en-moi
 ---
 
-# Vous Vivrez En Moi
-
-### Sam Barlow
-
-[[2022]] / [[commonplace]] / [[Immortality]]
+[[2022]] • [[commonplace]] • [[Sam Barlow]] • [[Immortality]]
 
 "Making a movie is about capturing the light that bounces off your skin and recording it on film and then releasing it to the audience in the theaters. When you're sat in the theater, the light that hits your eye, it's part of this chemical chain that reaches back to and touches my skin. I think in that way, if we'd make movies that show more of the body, it could be a powerful magic."
 <br>(Marissa, Ambrosio - 9-16-1968)

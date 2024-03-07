@@ -9,11 +9,7 @@ date: 2015-03-30
 permalink: 2015/03/30/lenika-cruz-david-sims-redemption-and-forgiveness-on-the-walking-dead
 ---
 
-# Redemption and Forgiveness on The Walking Dead
-
-### Lenika Cruz and David Sims
-
-[[2015]] / [[commonplace]] / [[The Atlantic]]
+[[2015]] • [[commonplace]] • [[Lenika Cruz]] • [[David Sims]] • [[The Atlantic]]
 
 The show's fifth-season finale wisely chose story over the typical explosion of violence.
 

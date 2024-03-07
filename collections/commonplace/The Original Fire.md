@@ -9,11 +9,7 @@ date: 2022-11-12
 permalink: 2022/11/12/bryan-vandyke-the-original-fire
 ---
 
-# The Original Fire
-
-### Bryan VanDyke
-
-[[2022]] / [[commonplace]] / [[The Millions]]
+[[2022]] • [[commonplace]] • [[Bryan VanDyke]] • [[The Millions]]
 
 "In the foreword to the 1947 edition of Mary Shelley’s collected journals, editor Frederick L. Jones complains that many of Mary’s entries are too short, too self-aware. She’s cautious, impersonal. As if it’s somehow unfair that Mary kept back some of herself, rather than filling page after page with the guileless trust that no one else would ever read them. Because clearly she knew otherwise."
 

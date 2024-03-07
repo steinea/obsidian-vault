@@ -9,11 +9,7 @@ date: 2014-10-13
 permalink: 2014/10/13/kevin-goddard-hanging-utopia
 ---
 
-# Hanging Utopia
-
-### Kevin Goddard
-
-[[2014]] / [[commonplace]] / [[Arizona Quarterly]] / [[Billy Budd, Sailor]]
+[[2014]] • [[commonplace]] • [[Kevin Goddard]] • [[Arizona Quarterly]] • [[Billy Budd, Sailor]]
 
 The “New Israel” Melville proclaimed in White-Jacket “had failed” (102).  
 

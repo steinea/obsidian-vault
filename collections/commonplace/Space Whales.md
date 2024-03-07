@@ -13,7 +13,7 @@ permalink: 2022/12/17/petrana-radulovic-space-whales
 
 ### Petrana Radulovic
 
-[[2022]] / [[commonplace]] / [[Polygon]]
+[[2022]] • [[commonplace]] • [[Petra Radulovic]] • [[Polygon]]
 
 "“The conceit is that the tulkun culture and the Na’vi culture are joined together with music, with singing, with dance,” Cameron explains in the film’s production notes. “The Metkayina [the reef-dwelling Na’vi clan], for example, would do tattoo patterns on the tulkun that will express their family story. Adult tulkun who have gone through their coming-of-age ceremony have tattooed bodies and tattooed fins, just as the Metkayina, as teenagers, get their first tattoos as well.”"
 

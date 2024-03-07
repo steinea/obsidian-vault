@@ -9,11 +9,7 @@ date: 2015-03-19
 permalink: 2015/03/19/edward-slingerland-trying-not-to-trying
 ---
 
-# Trying Not to Try
-
-### Edward Slingerland
-
-[[2015]] / [[commonplace]] / [[Nautilus]]
+[[2015]] • [[commonplace]] • [[Edward Slingerland]] • [[Nautilus]]
 
 "When I first began cutting up oxen, all I could see was the ox itself. After three years, I no longer saw the ox as a whole. And now—now I meet it with my spirit and don’t look with my eyes. My senses and conscious awareness have shut down and my spiritual desires take me away. I follow the Heavenly pattern of the ox, thrusting into the big hollows, guiding the knife through the big openings, and adapting my motions to the fixed structure of the ox. In this way, I never touch the smallest ligament or tendon, much less a main joint."
 

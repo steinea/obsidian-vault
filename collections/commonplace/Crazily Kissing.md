@@ -9,11 +9,7 @@ date: 2014-01-23
 permalink: 2014/01/23/e-e-cummings-crazily-kissing
 ---
 
-# Crazily Kissing
-
-### E. E. Cummings
-
-[[2014]] / [[commonplace]] / [[Google Books]]
+[[2014]] • [[commonplace]] • [[E. E. Cummings]] • [[Google Books]]
 
 why from this her and him
 <br>did you and did i climb

@@ -9,11 +9,7 @@ date: 2015-03-09
 permalink: 2015/03/09/adam-phillips-against-self-criticism
 ---
 
-# Against Self-Criticism
-
-### Adam Phillips
-
-[[2015]] / [[commonplace]] / [[London Review of Books]]
+[[2015]] • [[commonplace]] • [[Adam Phillips]] • [[London Review of Books]]
 
 "A life without a so-called critical faculty would seem an idiocy: what are we, after all, but our powers of discrimination, our taste, the violence of our preferences?"
 

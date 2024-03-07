@@ -9,10 +9,6 @@ date: 2015-03-29
 permalink: 2015/03/29/garry-wills-the-pope-is-a-christian
 ---
 
-# The Pope Is a Christian
-
-### Garry Wills
-
-[[2015]] / [[commonplace]] / [[New York Review of Books]]
+[[2015]] • [[commonplace]] • [[Garry Wills]] • [[New York Review of Books]]
 
 "some Catholic bloggers have suggested that the pope is not truly Catholic. They are right to be in a panic. They are not used to having a pope who is a Christian."

@@ -9,11 +9,7 @@ date: 2014-11-10
 permalink: 2014/11/10/roy-liuzza-tower-of-babel
 ---
 
-# Tower of Babel
-
-# Roy Liuzza
-
-[[2014]] / [[commonplace]] / [[Studies in the Literary Imagination]]
+[[2014]] • [[commonplace]] • [[Roy Liuzza]] • [[Studies in the Literary Imagination]]
 
 "the tower, intended as a sign of their [fame and glory] becomes the marker of the limits of their possibilities and a sign of their divinely imposed ungedheode, a word whose use in this context reminds of the close relationships between OE dheod (“nation”), gedheodan (“unite”), and gedheode (“language”)" (4). 
 

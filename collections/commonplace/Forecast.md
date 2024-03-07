@@ -9,10 +9,6 @@ date: 2014-07-25
 permalink: 2014/07/25/charles-rafferty-forecast
 ---
 
-# Forecast
-
-### Charles Rafferty
-
-[[2014]] / [[commonplace]] / [[Poets]]
+[[2014]] • [[commonplace]] • [[Charles Rafferty]] • [[Poets]]
 
 "I wish I could say the coming dark was taking me by surprise."

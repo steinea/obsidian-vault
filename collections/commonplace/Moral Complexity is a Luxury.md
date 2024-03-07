@@ -9,11 +9,7 @@ date: 2015-02-25
 permalink: 2015/02/25/susan-lerner-jonathan-franzen-moral-complexity-is-a-luxury
 ---
 
-# Moral Complexity is a Luxury
-
-### Susan Lerner and Jonathan Franzen
-
-[[2015]] / [[commonplace]] / [[Booth]]
+[[2015]] • [[commonplace]] • [[Susan Lerner]] • [[Jonathan Franzen]] • [[Booth]]
 
 "People don’t want moral complexity. Moral complexity is a luxury. You might be forced to read it in school, but a lot of people have hard lives. They come home at the end of the day, they feel they’ve been jerked around by the world yet again for another day. The last thing they want to do is read Alice Munro, who is always pointing toward the possibility that you’re not the heroic figure you think of yourself as, that you might be the very dubious figure that other people think of you as. That’s the last thing you’d want if you’ve had a hard day. You want to be told good people are good, bad people are bad, and love conquers all. And love is more important than money. You know, all these schmaltzy tropes. That’s exactly what you want if you’re having a hard life. Who am I to tell people that they need to have their noses rubbed in moral complexity?"
  

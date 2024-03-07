@@ -9,11 +9,7 @@ date: 2014-07-28
 permalink: 2014/07/28/pankaj-mishra-the-places-in-between
 ---
 
-# The Places in Between
-
-### Pankaj Mishra
-
-[[2014]] / [[commonplace]] / [[The New Yorker]]
+[[2014]] • [[commonplace]] • [[Pankaj Mishra]] • [[The New Yorker]]
 
 “Indonesia did have such a person: Sukarno, a qualified engineer and architect who had become a prominent insurgent against Dutch rule. For a brief while, he formed—with India’s Jawaharlal Nehru and Egypt’s Gamal Abdel Nasser—a kind of Holy Trinity of the post-colonial world.”
 

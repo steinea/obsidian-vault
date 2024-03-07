@@ -9,11 +9,7 @@ date: 2013-09-29
 permalink: 2013/09/29/thomas-paine-the-age-of-reason
 ---
 
-# The Age of Reason
-
-### Thomas Paine
-
-[[2013]] / [[commonplace]] / [[Wikipedia]]
+[[2013]] • [[commonplace]] • [[Thomas Paine]] • [[Wikipedia]]
 
 "My own mind is my own church" (654).
 

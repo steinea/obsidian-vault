@@ -9,11 +9,7 @@ date: 2015-01-26
 permalink: 2015/01/26/po-chu-i-the-dragon-of-the-black-pool
 ---
 
-# The Dragon of the Black Pool
-
-### Po Chu I
-
-[[2015]] / [[commonplace]] / [[Chinese Classics in English]]
+[[2015]] • [[commonplace]] • [[Po Chu I]] • [[Chinese Classics in English]]
 
 Deep the waters of the Black Pool, colored like ink;
 <br>They say a Holy Dragon lives there, whom men have never seen.

@@ -9,11 +9,7 @@ date: 2014-01-02
 permalink: 2014/01/02/pope-francis-evangelii-gaudium
 ---
 
-# Evangelii Gaudium
-
-### Evangelii Gaudium
-
-[[2014]] / [[commonplace]] / [[Vatican]]
+[[2014]] • [[commonplace]] • [[Pope Francis]] • [[Vatican]]
 
 6. Joy adapts and changes, but it always endures, even as a flicker of light born of our personal certainty that, when everything is said and done, we are infinitely loved.
 

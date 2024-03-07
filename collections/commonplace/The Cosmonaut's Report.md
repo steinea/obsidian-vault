@@ -9,11 +9,7 @@ date: 2015-03-26
 permalink: 2015/03/26/fredric-jameson-the-cosmonauts-report
 ---
 
-# The Cosmonaut's Report
-
-### Fredric Jameson
-
-[[2015]] / [[commonplace]] / [[New Left Review]]
+[[2015]] • [[commonplace]] • [[Fredric Jameson]] • [[New Left Review]]
 
 "the word I should have used was not postmodernism but rather postmodernity: for I had in mind not a style but a historical period"
 

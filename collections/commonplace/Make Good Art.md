@@ -9,11 +9,7 @@ date: 2013-08-01
 permalink: 2013/08/01/neil-gaiman-make-good-art
 ---
 
-# Make Good Art
-
-### Neil Gaiman
-
-[[2013]] / [[commonplace]]
+[[2013]] • [[commonplace]] • [[Neil Gaiman]] • [[University of the Arts]]
 
 I never really expected to find myself giving advice to people graduating from an establishment of higher education. I never graduated from any such establishment. I never even started at one. I escaped from school as soon as I could, when the prospect of four more years of enforced learning before I'd become the writer I wanted to be was stifling. 
 

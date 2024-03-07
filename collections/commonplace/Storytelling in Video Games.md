@@ -9,10 +9,6 @@ date: 2022-12-16
 permalink: 2022/12/16/emily-short-storytelling-in-video-games
 ---
 
-# Storytelling in Video Games
-
-### Emily Short
-
-[[2022]] / [[commonplace]] / [[Emily Short's Interactive Storytelling]]
+[[2022]] • [[commonplace]] • [[Emily Short]] • [[Emily Short's Interactive Storytelling]]
 
 "Going via [Tzvetan Todorov](https://en.wikipedia.org/wiki/Tzvetan_Todorov) to conclude that stories need an opening hook and that *Last of Us* has one — this feels like coming up with an itinerary that includes two hours on the Eurostar but the only destination is my corner shop"

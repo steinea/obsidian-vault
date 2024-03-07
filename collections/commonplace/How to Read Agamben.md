@@ -9,11 +9,7 @@ date: 2013-06-04
 permalink: 2013/06/04/adam-kotsko-how-to-read-agamben
 ---
 
-# How to Read Agamben
-
-### Adam Kotsko
-
-[[2013]] / [[commonplace]] / [[Los Angeles Review of Books]]
+[[2013]] • [[commonplace]] • [[Adam Kotsko]] • [[Los Angeles Review of Books]]
 
 “A striking feature of Agamben’s work is its tendency to leap immediately from the tiniest detail to the broadest possible generalization.”
 

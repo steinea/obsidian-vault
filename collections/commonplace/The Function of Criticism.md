@@ -9,11 +9,7 @@ date: 2014-09-17
 permalink: 2014/09/17/matthew-arnold-the-function-of-criticism
 ---
 
-# The Function of Criticism
-
-### Matthew Arnold
-
-[[2014]] / [[commonplace]] / [[The Norton Anthology of Theory and Criticism]]
+[[2014]] • [[commonplace]] • [[Matthew Arnold]] • [[The Norton Anthology of Theory and Criticism]]
 
 From the Introduction
 

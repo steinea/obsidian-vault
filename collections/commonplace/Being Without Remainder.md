@@ -9,11 +9,7 @@ date: 2015-02-12
 permalink: 2015/02/12/marilynne-robinson-being-without-remainder
 ---
 
-# Being Without Remainder
-
-### Marilynne Robinson
-
-[[2015]] / [[commonplace]] / [[Gilead]]
+[[2015]] • [[commonplace]] • [[Marilynne Robinson]] • [[Gilead]]
 
 "We participate in Being without remainder. No breath, no thought, no wart or whisker, is not as sunk in Being as it could be. And yet no one can say what Being is."
 

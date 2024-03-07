@@ -9,11 +9,7 @@ date: 2014-11-08
 permalink: 2014/11/08/edward-said-narrative-and-social-space
 ---
 
-# Narrative and Social Space
-
-### Edward Said
-
-[[2014]] / [[commonplace]] / [[Critical Theory]]
+[[2014]] • [[commonplace]] • [[Edward Said]] • [[Critical Theory]]
 
 imperial possessions are as usefully there, anonymous and collective, as the outcast populations (719). 
 

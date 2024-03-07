@@ -9,11 +9,7 @@ date: 2015-02-19
 permalink: 2015/02/19/mary-norris-confessions-of-a-comma-queen
 ---
 
-# Confessions of a Comma Queen
-
-### Mary Norris
-
-[[2015]] / [[commonplace]] / [[The New Yorker]]
+[[2015]] • [[commonplace]] • [[Mary Norris]] • [[The New Yorker]]
 
 "The comma as we know it was invented by Aldo Manuzio, a printer working in Venice, circa 1500. It was intended to prevent confusion by separating things. In the Greek, komma means “something cut off,” a segment. (Aldo was printing Greek classics during the High Renaissance. The comma was a Renaissance invention.)"
 

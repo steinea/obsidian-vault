@@ -9,11 +9,7 @@ date: 2014-09-23
 permalink: 2014/09/23/nick-mount-rock-modern
 ---
 
-# Rock Modern
-
-### Nick Mount
-
-[[2014]] / [[commonplace]] / [[The Walrus]]
+[[2014]] • [[commonplace]] • [[Nick Mount]] • [[The Walrus]]
 
 “Crummey’s novels have tended to be crowded with stories and characters, maybe because he grew up in small communities in which everybody knows everybody else, and their stories. (Novels by urbanites are more solitary, driven inward by the solipsism it takes to survive cities too big to know.)”
 

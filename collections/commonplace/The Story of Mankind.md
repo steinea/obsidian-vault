@@ -9,11 +9,7 @@ date: 2013-10-01
 permalink: 2013/10/01/hendrik-willem-van-loon-the-story-of-mankind
 ---
 
-# The Story of Mankind
-
-### Hendrik Willem van Loon
-
-[[2013]] / [[commonplace]] / [[Wikipedia]]
+[[2013]] • [[commonplace]] • [[Hendrik Willem van Loon]] • [[Wikipedia]]
 
 "High up in the North in the land called Svithjod, there stands a rock. It is a hundred miles high and a hundred miles wide. Once every thousand years a little bird comes to this rock to sharpen its beak."
 

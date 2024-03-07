@@ -9,11 +9,7 @@ date: 2022-09-23
 permalink: 2022/09/23/wikipedia-novel-sequence
 ---
 
-# Novel Sequence
-
-### Wikipedia
-
-[[2022]] / [[commonplace]] / [[Wikipedia]]
+[[2022]] • [[commonplace]] • [[Wikipedia]]
 
 "A novel sequence is a set or series of novels which share common themes, characters, or settings, but where each novel has its own title and free-standing storyline, and can thus be read independently or out of sequence. A novel sequence contains story arcs or themes that cross over several books, rather than simply sharing one or more characters."
 

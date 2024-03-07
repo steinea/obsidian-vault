@@ -9,11 +9,7 @@ date: 2013-07-02
 permalink: 2013/07/02/thomas-wyatt-circa-regna-tonat
 ---
 
-# Circa Regna Tonat
-
-### Thomas Wyatt
-
-[[2013]] / [[commonplace]] / [[Luminarium]]
+[[2013]] • [[commonplace]] • [[Thomas Wyatt]] • [[Luminarium]]
 
 Circa regna tonat (Latin): About the throne the thunder rolls
 

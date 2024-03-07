@@ -9,11 +9,7 @@ date: 2022-11-13
 permalink: 2022/11/13/alexander-galloway-fred-serval-le-jeu-de-la-guerre
 ---
 
-# Le Jeu de la Guerre
-
-### Alexander Galloway and Fred Serval
-
-[[2022]] / [[commonplace]] / [[Homo Ludens]]
+[[2022]] • [[commonplace]] • [[Alexander Galloway]] • [[Fred Serval]] • [[Homo Ludens]]
 
 "Guy Debord was, I think, pretty unironically obsessed with Clausewitz the military theorist, and also Napoleon, he was obsessed with Hegel, he was sort of interested in a kind of heroic, glorious form of militancy."
 

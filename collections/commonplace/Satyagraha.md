@@ -9,11 +9,7 @@ date: 2014-12-10
 permalink: 2014/12/10/orson-scott-card-satyagraha
 ---
 
-# Satyagraha
-
-### Orson Scott Card
-
-[[2014]] / [[commonplace]] / [[Shadow of the Hegemon]]
+[[2014]] • [[commonplace]] • [[Orson Scott Card]] • [[Shadow of the Hegemon]]
 
 "One bears what one must" 
 

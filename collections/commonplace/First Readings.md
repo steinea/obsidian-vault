@@ -9,11 +9,7 @@ date: 2014-01-26
 permalink: 2014/01/26/adam-kotsko-first-readings
 ---
 
-# First Readings
-
-### Adam Kotsko
-
-[[2014]] / [[commonplace]] / [[Wordpress]]
+[[2014]] • [[commonplace]] • [[Adam Kotsko]] • [[Wordpress]]
 
 "We’re always trying to do our second reading first. We do background reading, we look at introductory works — in short, we want to somehow “already know” the text before reading it. We can also get ahead of ourselves while doing our first reading, trying to take detailed notes on the first pass through, for example — which amounts of trying to digest before we’ve chewed. We need to let go and let the first reading be the first reading.
 

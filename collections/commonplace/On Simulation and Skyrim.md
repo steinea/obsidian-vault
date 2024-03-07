@@ -9,11 +9,7 @@ date: 2014-09-05
 permalink: 2014/09/05/jean-baudrillard-on-simulation-and-skyrim
 ---
 
-# On Simulation and Skyrim
-
-### Jean Baudrillard
-
-[[2014]] / [[commonplace]] / [[Simulacra and Simulation]]
+[[2014]] • [[commonplace]] • [[Jean Baudrillard]] • [[Simulacra and Simulation]]
 
 Orders of image: good, malefice, sorcery, simulation.
 

@@ -9,11 +9,7 @@ date: 2014-09-27
 permalink: 2014/09/27/brook-thomas-measured-forms
 ---
 
-# Measured Forms
-
-### Brook Thomas
-
-[[2014]] / [[commonplace]] / [[Cross-Examinations of Law and Literature]] / [[Billy Budd, Sailor]]
+[[2014]] • [[commonplace]] • [[Brook Thomas]] • [[Cross-Examinations of Law and Literature]] • [[Billy Budd, Sailor]]
 
 “Dr. John W. Webster” “had entrusted his defines to those who had already prejudged his guilt” (202-3). 
 

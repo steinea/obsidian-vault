@@ -9,11 +9,7 @@ date: 2013-06-28
 permalink: 2013/06/28/charles-bukowski-so-you-want-to-be-a-writer
 ---
 
-# so you want to be a writer?
-
-### Charles Bukowski
-
-[[2013]] / [[commonplace]] / [[Poets]]
+[[2013]] • [[commonplace]] • [[Charles Bukowski]] • [[Poets]]
 
 if it doesn't come bursting out of you 
 <br> in spite of everything,

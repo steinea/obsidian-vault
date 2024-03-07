@@ -9,11 +9,7 @@ date: 2015-03-03
 permalink: 2015/03/03/miriam-toews-emptiness
 ---
 
-# Emptiness
-
-### Miriam Toews
-
-[[2015]] / [[commonplace]] / [[A Complicated Kindness]]
+[[2015]] • [[commonplace]] • [[Miriam Toews]] • [[A Complicated Kindness]]
 
 "It's hard to know what to do with your emptiness when you're not supposed to have emptiness."
 

@@ -9,11 +9,7 @@ date: 2015-03-03
 permalink: 2015/03/03/carlo-rovelli-hot-black-holes-and-the-arrow-of-time
 ---
 
-# Hot Black Holes and the Arrow of Time
-
-### Carlo Rovelli
-
-[[2015]] / [[commonplace]] / [[Aeon]]
+[[2015]] • [[commonplace]] • [[Carlo Rovelli]] • [[Aeon]]
 
 “Another way of posing the problem is to ask: what is the present? We say that only the things of the present exist; the past no longer exists and the future doesn’t exist yet. But in physics there is nothing that corresponds to the notion of the ‘now’. Compare ‘now’ with ‘here’. ‘Here’ designates the place where a speaker is. For two different people, ‘here’ points to two different places. Consequently ‘here’ is a word whose meaning depends on where it is spoken. The technical term for this kind of utterance is ‘indexical’. ‘Now’ also points to the instant in which the word is uttered and is also classed as indexical.”
 

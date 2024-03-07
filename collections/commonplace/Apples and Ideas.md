@@ -9,10 +9,6 @@ date: 2014-12-08
 permalink: 2014/12/08/george-bernard-shaw-apples
 ---
 
-# Apples and Ideas
-
-### George Bernard Shaw
-
-[[2014]] / [[commonplace]] / [[Asymptote Journal]]
+[[2014]] • [[commonplace]] • [[George Bernard Shaw]] • [[Asymptote Journal]]
 
 “If you have an apple and I have an apple and we exchange apples then you and I will still each have one apple. But if you have an idea and I have an idea and we exchange those ideas, then each of us will have two ideas.”

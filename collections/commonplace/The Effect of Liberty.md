@@ -9,11 +9,7 @@ date: 2014-09-08
 permalink: 2014/09/08/edmund-burke-reflections-on-the-revolution-in-france
 ---
 
-# The Effect of Liberty
-
-### Edmund Burke
-
-[[2014]] / [[commonplace]] / [[Reflections on the Revolution in France]]
+[[2014]] • [[commonplace]] • [[Edmund Burke]] • [[Reflections on the Revolution in France]]
 
 Burke is wary of people, who, under the pretext of zeal towards the Revolution and Constitution, too frequently wander from their true principles; and are ready in every occaisoon to depart from the firm but cautious and deliberate spirit which produced the one, and which presides in the other" (4). 
 

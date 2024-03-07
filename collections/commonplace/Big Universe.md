@@ -9,11 +9,7 @@ date: 2014-08-10
 permalink: 2014/08/10/steven-moffat-big-universe
 ---
 
-# Big Universe
-
-### Steven Moffat
-
-[[2014]] / [[commonplace]] / [[IMDb]]
+[[2014]] • [[commonplace]] • [[Steven Moffat]] • [[IMDb]]
 
 "It's a big universe; everything happens somewhere."
 

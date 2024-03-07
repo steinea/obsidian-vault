@@ -9,11 +9,7 @@ date: 2022-12-17
 permalink: 2022/12/17/david-sims-avatar-the-constant-torrent-of-wide-screen-spectacle
 ---
 
-# The Constant Torrent of Wide-Screen Spectacle
-
-### David Sims
-
-[[2022]] / [[commonplace]] / [[The Atlantic]]
+[[2022]] • [[commonplace]] • [[David Sims]] • [[The Atlantic]]
 
 "Can audiences still be wowed, given the constant torrent of wide-screen spectacle? And are there new delights to be discovered in the alien world of Pandora, all these years after the [original *Avatar*](https://www.theatlantic.com/culture/archive/2022/09/avatar-2-movie-james-cameron/671578/)?"
 

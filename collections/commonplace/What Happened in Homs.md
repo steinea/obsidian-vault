@@ -9,11 +9,7 @@ date: 2015-03-19
 permalink: 2015/03/19/jonathan-littell-what-happened-in-homs
 ---
 
-# What Happened in Homs
-
-### Jonathan Littell
-
-[[2015]] / [[commonplace]] / [[New York Review of Books]]
+[[2015]] • [[commonplace]] • [[Jonathan Littell]] • [[New York Review of Books]]
 
 "America, traumatized by two useless and disastrous wars to the point of forgetting its own founding myth—that of a people rising against tyranny with their hunting guns, helped only by indomitable spirit and idealism—stood back and watched, petrified. Europe, weakened by economic crisis and self-doubt, followed suit, while the regime’s friends, Russia and Iran, occupied every inch of the political space thus made available. And geopolitics is always written with the blood of the people."
  

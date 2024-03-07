@@ -9,11 +9,7 @@ date: 2015-02-24
 permalink: 2015/02/24/philip-ball-is-the-many-worlds-hypothesis-just-a-fantasy
 ---
 
-# Is the Many Worlds Hypothesis Just a Fantasy?
-
-### Philip Ball
-
-[[2015]] / [[commonplace]] / [[Aeon]]
+[[2015]] • [[commonplace]] • [[Philip Ball]] • [[Aeon]]
 
 "The most widely used form of quantum maths, devised by Erwin Schrödinger in the 1920s, involves an abstract object called a wavefunction. This wavefunction expresses all that can be known about a quantum object, such as a particle. But it doesn’t tell you what properties the object has. Instead, it enumerates all the possible properties it could have, along with their relative probabilities. Which of these possibilities is real? Is an electron here or there? We can find out by looking. But here’s the thing: quantum mechanics seems to be telling us that the very act of looking – of making a measurement – forces the universe to make that decision, at random. Before we look, there are only probabilities. When we open the box, those probabilities give way to a single, determinate actuality: something conventionally called collapse of the wavefunction. But wavefunction collapse isn’t actually part of the theory: it has to be put in by hand, as it were. That’s rightly considered to be most unsatisfactory."
 

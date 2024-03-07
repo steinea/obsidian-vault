@@ -9,11 +9,7 @@ date: 2014-06-23
 permalink: 2014/06/23/jill-lepore-the-disruption-machine
 ---
 
-# The Disruption Machine
-
-### Jill Lepore
-
-[[2014]] / [[commonplace]] / [[The New Yorker]]
+[[2014]] • [[commonplace]] • [[Jill Lepore]] • [[The New Yorker]]
 
 “Disruptive innovation is competitive strategy for an age seized by terror.”
 

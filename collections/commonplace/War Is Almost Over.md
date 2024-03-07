@@ -9,11 +9,7 @@ date: 2014-10-20
 permalink: 2014/10/20/david-denby-war-is-almost-over
 ---
 
-# War Is Almost Over
-
-### David Denby
-
-[[2014]] / [[commonplace]] / [[The New Yorker]]
+[[2014]] • [[commonplace]] • [[David Denby]] • [[The New Yorker]]
 
 “Fury” is literally visceral—a kind of war horror film, which is, of course, what good combat films should be. 
 

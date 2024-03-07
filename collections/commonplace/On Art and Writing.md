@@ -9,11 +9,7 @@ date: 2014-09-01
 permalink: 2014/09/01/plato-on-art-and-writing
 ---
 
-# On Art and Writing
-
-### Plato
-
-[[2014]] / [[commonplace]] / [[The Norton Anthology of Theory and Criticism]]
+[[2014]] • [[commonplace]] • [[Plato]] • [[The Norton Anthology of Theory and Criticism]]
 
 Republic, Ion, Phaedrus
 

@@ -9,11 +9,7 @@ date: 2014-12-19
 permalink: 2014/12/19/philip-larkin-this-be-the-verse
 ---
 
-# This Be The Verse
-
-### Philip Larkin
-
-[[2014]] / [[commonplace]] / [[Poetry Foundation]]
+[[2014]] • [[commonplace]] • [[Philip Larkin]] • [[Poetry Foundation]]
 
 They fuck you up, your mum and dad.   
 <br>They may not mean to, but they do.   

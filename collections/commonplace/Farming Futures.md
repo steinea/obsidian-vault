@@ -9,11 +9,7 @@ date: 2023-01-07
 permalink: 2022/01/07/harriet-friedmann-farming-futures
 ---
 
-# Farming Futures
-
-### Harriet Friedmann
-
-[[2022]] / [[commonplace]] / [[New Left Review]]
+[[2022]] • [[commonplace]] • [[Harriet Friedmann]] • [[New Left Review]]
 
 "Four companies, Cargill, Archer Daniels Midland, Bunge and Louis Dreyfus, now control 90 per cent of the global grain trade; another quartet—Bayer, Corteva, ChemChina and basf—have cornered two-thirds of the agricultural-chemicals market, and the same handful own over half of the world’s seeds"
 

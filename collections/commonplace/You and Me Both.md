@@ -9,11 +9,7 @@ date: 2014-12-01
 permalink: 2014/12/01/dan-chiasson-you-and-me-both
 ---
 
-# You and Me Both
-
-### Dan Chiasson
-
-[[2014]] / [[commonplace]] / [[The New Yorker]]
+[[2014]] • [[commonplace]] • [[Dan Chiasson]] • [[The New Yorker]]
 
 "The poet Olena Kalytiak Davis’s new book, her third, is “The Poem She Didn’t Write and Other Poems.” The title echoes, even as it undermines, an old formula that seems to have gone out of favor: Eliot’s “The Waste Land and Other Poems,” Yeats’s “The Green Helmet and Other Poems,” Ginsberg’s “Howl and Other Poems,” Plath’s “The Colossus and Other Poems” all come readily to mind, along with many slim but stately volumes before them. These titles conjure a world in which poetry was a game played across the ages, masterpiece versus masterpiece. The struggle was dynastic; the combatants were male, unless, like Plath, they had internalized (in Plath’s case, tragically) the patrilineal rules for advancement. Anthologies were printed and syllabi distributed, and so the canon was formed."
 

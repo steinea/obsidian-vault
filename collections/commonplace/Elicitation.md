@@ -9,11 +9,7 @@ date: 2014-04-01
 permalink: 2014/04/01/john-mcphee-elicitation
 ---
 
-# Elicitation
-
-### John McPhee
-
-[[2014]] / [[commonplace]] / [[The New Yorker]]
+[[2014]] • [[commonplace]] • [[John McPhee]] • [[The New Yorker]]
 
 “Display your notebook as if it were a fishing license.”
 

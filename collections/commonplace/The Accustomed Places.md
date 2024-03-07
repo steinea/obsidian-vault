@@ -9,11 +9,7 @@ date: 2015-03-11
 permalink: 2015/03/11/gregory-the-great-the-accustomed-places
 ---
 
-# The Accustomed Places
-
-### Gregory the Great
-
-[[2015]] / [[commonplace]] / [[Wikipedia]]
+[[2015]] • [[commonplace]] • [[Gregory the Great]] • [[Wikipedia]]
 
 In Britain, the legendary King Lucius, was reported by Geoffrey of Monmouth, the often unreliable Christian chronicler, to have deliberately converted all the old temples to churches. The historical actuality is nowhere more forthrightly discussed than in the famous letter from Pope Gregory I to Mellitus, about to join Augustine of Kent among the Anglo-Saxons:
 

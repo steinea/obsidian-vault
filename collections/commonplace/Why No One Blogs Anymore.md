@@ -9,11 +9,7 @@ date: 2015-02-27
 permalink: 2015/02/27/robinson-meyer-why-no-one-blogs-anymore
 ---
 
-# Why No One Blogs Anymore
-
-### Robinson Meyer
-
-[[2015]] / [[commonplace]] / [[The Atlantic]]
+[[2015]] • [[commonplace]] • [[Robinson Meyer]] • [[The Atlantic]]
 
 "BuzzFeed is a venture-backed, metrics-optimized ying built for Facebook’s venture-backed, metrics-optimized yang."
  

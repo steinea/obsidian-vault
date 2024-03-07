@@ -9,11 +9,7 @@ date: 2013-06-28
 permalink: 2013/06/28/omar-khayyam-to-cancel-half-a-line
 ---
  
-# To Cancel Half a Line
-
-### Omar Khayyam
-
-[[2013]] / [[commonplace]] / [[Rubaiyat]]
+[[2013]] • [[commonplace]] • [[Omar Khayyam]] • [[Rubaiyat]]
 
 The Moving Finger writes; and, having writ,                        
 <br>Moves on: nor all your Piety nor Wit                        

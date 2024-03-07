@@ -9,11 +9,7 @@ date: 2014-07-29
 permalink: 2014/07/29/emily-nussbaum-gut-reaction
 ---
 
-# Gut Reaction
-
-### Emily Nussbaum
-
-[[2014]] / [[commonplace]] / [[The New Yorker]]
+[[2014]] • [[commonplace]] • [[Emily Nussbaum]] • [[The New Yorker]]
 
 “Like laughing at comedy, or shrieking at horror, crying is another kind of review: it’s your body saying yes to the story.”
 

@@ -9,11 +9,7 @@ date: 2022-12-26
 permalink: 2022/12/26/jeanette-winterson-art-objects
 ---
 
-# Art Objects
-
-### Jeanette Winterson
-
-[[2022]] / [[commonplace]] / [[Twitter]]
+[[2022]] • [[commonplace]] • [[Jeanette Winterson]] • [[Twitter]]
 
 "Long looking at paintings is equivalent to being dropped into a foreign city, where gradually, out of desire and despair, a few key words, then a little syntax make a clearing in the silence. Art, all art, not just painting, is a foreign city, and we deceive ourselves when we think it familiar. No-one is surprised to find that a foreign city follows its own customs and speaks its own language. Only a boor would ignore both and blame his defaulting on the place. Every day this happens to the artist and the art. We have to recognize that the language of art, all art, is not our mother-tongue."
 

@@ -9,11 +9,7 @@ date: 2015-02-19
 permalink: 2015/02/19/graeme-wood-what-isis-really-wants
 ---
 
-# What ISIS Really Wants
-
-### Graeme Wood
-
-[[2015]] / [[commonplace]] / [[The Atlantic]]
+[[2015]] • [[commonplace]] • [[Graeme Wood]] • [[The Atlantic]]
 
 "Bin Laden viewed his terrorism as a prologue to a caliphate he did not expect to see in his lifetime. His organization was flexible, operating as a geographically diffuse network of autonomous cells. The Islamic State, by contrast, requires territory to remain legitimate, and a top-down structure to rule it. (Its bureaucracy is divided into civil and military arms, and its territory into provinces.)"
 

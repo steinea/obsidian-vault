@@ -9,7 +9,7 @@ date: 2024-02-01
 permalink: 2024/02/01/cameron-kunzelman-understanding-is-not-required
 ---
 
-[[2024]] / [[commonplace]] / [[Game Studies Study Buddies]] / [[Cameron Kunzelman]]
+[[2024]] • [[commonplace]] • [[Cameron Kunzelman]] • [[Game Studies Study Buddies]]
 
 “Roger has successfully scratched through the plasticine surface of modern reality and realized it doesn’t matter if you understand anything as long as you can operate the system. Understanding is not required for anything in the world. It’s all just a play of surfaces.”
 

@@ -9,11 +9,7 @@ date: 2014-09-05
 permalink: 2014/09/05/geoffrey-hawthorn-moral-chaos
 ---
 
-# Moral Chaos
-
-### Geoffrey Hawthorn
-
-[[2014]] / [[commonplace]] / [[Times Literary Supplement]]
+[[2014]] • [[commonplace]] • [[Geoffrey Hawthorn]] • [[Times Literary Supplement]]
 
 the world “is not, if ever it was, governed by social forces; it is governed by governments” 
 

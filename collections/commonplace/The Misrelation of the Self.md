@@ -9,11 +9,7 @@ date: 2015-02-14
 permalink: 2015/02/14/soren-kierkegaard-the-misrelation-of-the-self
 ---
 
-# The Misrelation of the Self
-
-### Søren Kierkegaard
-
-[[2015]] / [[commonplace]] / [[The Sickness Unto Death]]
+[[2015]] • [[commonplace]] • [[Søren Kierkegaard]] • [[The Sickness Unto Death]]
 
 "This is why there can be two forms of despair in the strict sense. If a human self had itself established itself, then there could be only one form: not to will to be oneself, to will to do away with oneself, but there could not be the form: in despair to will to be oneself."
 

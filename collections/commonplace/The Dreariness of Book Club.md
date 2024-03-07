@@ -9,11 +9,7 @@ date: 2022-12-30
 permalink: 2022/12/30/naomi-kanakia-the-dreariness-of-book-club-discussions
 ---
 
-# The Dreariness of Book Club
-
-### Naomi Kanakia
-
-[[2022]] / [[commonplace]] / [[Los Angeles Review of Books]]
+[[2022]] • [[commonplace]] • [[Naomi Kanakia]] • [[Los Angeles Review of Books]]
 
 "I AM A MEMBER of two book clubs, and both of them follow the same format: 20 minutes of discussion about our lives, a half hour of discussion about the book, and an hour of discussion over what book to read for next time"
 

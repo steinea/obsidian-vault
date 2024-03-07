@@ -9,11 +9,7 @@ date: 2015-03-03
 permalink: 2015/03/03/radiolab-la-mancha-screwjob
 ---
 
-# La Mancha Screwjob
-
-### Radiolab
-
-[[2015]] / [[commonplace]] / [[Radiolab]]
+[[2015]] • [[commonplace]] • [[Radiolab]]
 
 "We are aware of our own contingency."
 

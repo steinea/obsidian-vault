@@ -9,11 +9,7 @@ date: 2014-09-25
 permalink: 2014/09/25/n-plus-one-editors-on-privilege
 ---
 
-# On Privilege
-
-### n+1 Editors
-
-[[2014]] / [[commonplace]] / [[n+1]]
+[[2014]] • [[commonplace]] • [[n+1]]
 
 "Privilege is an old word, from Old En­glish and Old French, that referred to the existence of different laws and benefits for different people. It might be the oldest target of insurrections on the books. The English Civil War and French Revolution were both revolts against privilege and the elites who inherited and abused it."
 

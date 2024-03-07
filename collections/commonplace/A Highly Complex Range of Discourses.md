@@ -9,11 +9,7 @@ date: 2014-09-01
 permalink: 2014/09/01/terry-eagleton-literary-theory
 ---
 
-# A Highly Complex Range of Discourses
-
-### Terry Eagleton
-
-[[2014]] / [[commonplace]] / [[Literary Theory]]
+[[2014]] • [[commonplace]] • [[Terry Eagleton]] • [[Literary Theory]]
 
 "Hostility to theory usually means an opposition to other people's theories and an oblivion to one's own" (xii).
 

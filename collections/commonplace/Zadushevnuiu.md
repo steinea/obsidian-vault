@@ -9,11 +9,7 @@ date: 2015-01-24
 permalink: 2015/01/24/leo-tolstoy-zadushevnuiu
 ---
 
-# Zadushevnuiu
-
-### Leo Tolstoy
-
-[[2015]] / [[commonplace]] / [[Salon]]
+[[2015]] • [[commonplace]] • [[Leo Tolstoy]] • [[Salon]]
 
 zadushevnuiu — innermost (Russian), literally, the “behind-the-soul”
 

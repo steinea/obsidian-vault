@@ -9,10 +9,6 @@ date: 2014-07-25
 permalink: 2014/07/25/francisco-bethencourt-racisms
 ---
 
-# Centuries of Practical Racism
-
-### Francisco Bethencourt
-
-[[2014]] / [[commonplace]] / [[Racisms]]
+[[2014]] • [[commonplace]] • [[Francisco Bethencourt]] • [[Racisms]]
 
 "The deed came before the word; racial theory only arose after centuries of practical racism."

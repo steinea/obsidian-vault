@@ -9,11 +9,7 @@ date: 2015-01-14
 permalink: 2015/01/14/dominic-green-one-armed-nazis-and-albino-children
 ---
 
-# One-Armed Nazis and Albino Children
-
-### Dominic Green
-
-[[2015]] / [[commonplace]] / [[The New Republic]]
+[[2015]] • [[commonplace]] • [[Dominic Green]] • [[The New Republic]]
 
 "Historians call this sort of thing “normalization,” or, if they are German, Vergangenheitsbewältigung, “coming to terms with the past.” Through books and films, we process the exceptional and traumatic into the banal and mildly diverting."
  

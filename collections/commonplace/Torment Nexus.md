@@ -9,11 +9,7 @@ date: 2021-11-08
 permalink: 2021/11/08/alex-blechman-torment-nexus
 ---
 
-# Torment Nexus
-
-### Alex Blechman
-
-[[2021]] / [[commonplace]] / [[Twitter]]
+[[2021]] • [[commonplace]] • [[Alex Blechman]] • [[Twitter]]
 
 "Sci-Fi Author: In my book I invented the Torment Nexus as a cautionary tale
 

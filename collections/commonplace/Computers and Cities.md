@@ -9,10 +9,6 @@ date: 2022-11-07
 permalink: 2022/11/07/ellen-ullman-we-build-our-computers-the-way-we-build-our-cities
 ---
 
-# Computers and Cities
-
-### Ellen Ullman
-
-[[2022]] / [[commonplace]] / [[Life in Code]]
+[[2022]] • [[commonplace]] • [[Ellen Ullman]] • [[Life in Code]]
 
 “We build our computers the way we build our cities—over time, without a plan, on top of ruins.”

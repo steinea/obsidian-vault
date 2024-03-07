@@ -9,11 +9,7 @@ date: 2013-07-02
 permalink: 2013/07/02/robert-sheckley-pilgrimage-to-earth
 ---
 
-# Pilgrimage to Earth
-
-### Robert Sheckley
-
-[[2013]] / [[commonplace]] / [[Store of the Worlds]]
+[[2013]] • [[commonplace]] • [[Robert Sheckley]] • [[Store of the Worlds]]
 
 "Love and war are Earth's two staple commodities"
 

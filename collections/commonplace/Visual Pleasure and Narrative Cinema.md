@@ -9,11 +9,7 @@ date: 2014-09-13
 permalink: 2014/09/13/laura-mulvey-visual-pleasure-and-narrative-cinema
 ---
 
-# Visual Pleasure and Narrative Cinema
-
-### Laura Mulvey
-
-[[2014]] / [[commonplace]] / [[Critical Theory]]
+[[2014]] • [[commonplace]] • [[Laura Mulvey]] • [[Critical Theory]]
 
 The cinema perverts the scopohilia (pleasure in looking) of its participants by isolating them from each other in the darkness and directing, controlling there gazes to the screen and the actors displayed on it (234). 
 

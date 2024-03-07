@@ -9,11 +9,7 @@ date: 2014-04-07
 permalink: 2014/04/07/jonathan-lethem-pending-vegan
 ---
 
-# Pending Vegan
-
-### Jonathan Lethem
-
-[[2014]] / [[commonplace]] / [[The New Yorker]]
+[[2014]] • [[commonplace]] • [[Jonathan Lethem]] • [[The New Yorker]]
 
 “Civilizing children was pretty much all about inducing cognitive dissonance. His daughters’ balancing of their desire both to cuddle and to devour mammals was their ticket for entry to the human pageant.”
 

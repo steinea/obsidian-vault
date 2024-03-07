@@ -9,11 +9,7 @@ date: 2014-09-04
 permalink: 2014/09/04/horace-ars-poetica
 ---
 
-# Ars Poetica
-
-### Horace
-
-[[2014]] / [[commonplace]] / [[The Norton Anthology of Theory and Criticism]]
+[[2014]] • [[commonplace]] • [[Horace]] • [[The Norton Anthology of Theory and Criticism]]
 
 From the commentary: 
 

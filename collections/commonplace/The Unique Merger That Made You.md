@@ -9,11 +9,7 @@ date: 2014-02-06
 permalink: 2014/02/06/ed-yong-the-unique-merger-that-made-you
 ---
 
-# The Unique Merger That Made You
-
-### Ed Yong
-
-[[2014]] / [[commonplace]] / [[Nautilus]]
+[[2014]] • [[commonplace]] • [[Ed Yong]] • [[Nautilus]]
 
 “At first glance, a tree could not be more different from the caterpillars that eat its leaves, the mushrooms sprouting from its bark, the grass growing by its trunk, or the humans canoodling under its shade. Appearances, however, can be deceiving.”
 

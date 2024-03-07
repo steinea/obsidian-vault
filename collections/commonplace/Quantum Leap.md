@@ -9,11 +9,7 @@ date: 2013-08-02
 permalink: 2013/08/02/alex-hutchinson-quantum-leap
 ---
 
-# Quantum Leap
-
-### Alex Hutchinson
-
-[[2013]] / [[commonplace]] / [[The Walrus]]
+[[2013]] • [[commonplace]] • [[Alex Hutchinson]] • [[The Walrus]]
 
 "That's the standard jetpack playbook: a whiz-bang new technology that will change your life but remains just around the corner for years, until it becomes a running joke."
 

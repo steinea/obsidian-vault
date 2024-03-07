@@ -9,11 +9,7 @@ date: 2014-09-16
 permalink: 2014/09/16/nick-paumgarten-we-are-a-camera
 ---
 
-# We Are A Camera
-
-### Nick Paumgarten
-
-[[2014]] / [[commonplace]] / [[The New Yorker]]
+[[2014]] • [[commonplace]] • [[Nick Paumgarten]] • [[The New Yorker]]
 
 When the agony of missing the shot trumps the joy of the experience worth shooting, the adventure athlete (climber, surfer, extreme skier) reveals himself to be something else: a filmmaker, a brand, a vessel for the creation of content. 
 

@@ -9,11 +9,7 @@ date: 2015-03-20
 permalink: 2015/03/20/jeremiah-i-will-make-you-like-iron
 ---
 
-# I Will Make You Like Iron
-
-### Jeremiah
-
-[[2015]] / [[commonplace]] / [[Bible]]
+[[2015]] • [[commonplace]] • [[Jeremiah]] • [[Bible]]
 
 "But you, dress yourself for work; arise, and say to them everything that I command you. Do not be dismayed by them, lest I dismay you before them. And I, behold, I make you this day a fortified city, an iron pillar, and bronze walls, against the whole land, against the kings of Judah, its officials, its priests, and the people of the land."
 

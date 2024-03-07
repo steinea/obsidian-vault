@@ -9,11 +9,7 @@ date: 2022-10-14
 permalink: 2022/10/14/tolkien-gateway-sea-longing
 ---
 
-# Sea-Longing
-
-### Tolkien Gateway
-
-[[2022]] / [[commonplace]] / [[Tolkien Gateway]]
+[[2022]] • [[commonplace]] • [[J. R. R. Tolkien]] • [[Tolkien Gateway]]
 
 ""*The Sea! Alas! I have not yet beheld it. But deep in the hearts of all my kindred lies the sea-longing, which it is perilous to stir. Alas! for the gulls. No peace shall I have again under beech or under elm.*""
 

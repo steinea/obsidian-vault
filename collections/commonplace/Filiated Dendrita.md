@@ -9,11 +9,7 @@ date: 2015-03-04
 permalink: 2015/03/04/fred-wah-filiated-dendrita
 ---
 
-# Filiated Dendrita
-
-### Fred Wah
-
-[[2015]] / [[commonplace]] / [[Diamond Grill]]
+[[2015]] • [[commonplace]] • [[Fred Wah]] • [[Diamond Grill]]
 
 "The food, the names, the geography, the family history—the filiated dendrita of myself displayed before me."
 

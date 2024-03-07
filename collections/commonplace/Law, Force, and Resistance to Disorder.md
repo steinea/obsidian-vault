@@ -9,11 +9,7 @@ date: 2014-10-13
 permalink: 2014/10/13/lawrence-friedman-law-force-and-resistance-to-disorder
 ---
 
-# Law, Force, and Resistance to Disorder
-
-### Lawrence Friedman
-
-[[2014]] / [[commonplace]] / [[Thomas Jefferson Law Review]] / [[Billy Budd, Sailor]]
+[[2014]] • [[commonplace]] • [[Lawrence Friedman]] • [[Thomas Jefferson Law Review]] • [[Billy Budd, Sailor]]
 
 Responding to Weisberg: “We should be careful to heed the words that Melville wrote, and not privilege over the text extrinsic evidence of the controlling law from the period in which the events of Billy Budd occur. Melville was writing fiction, not history” (66). 
 

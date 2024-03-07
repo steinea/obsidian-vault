@@ -9,10 +9,6 @@ date: 2014-03-24
 permalink: 2014/03/24/tessa-hadley-chink-in-the-consciousness
 ---
 
-# Chink in the Consciousness
-
-### Tessa Hadley
-
-[[2014]] / [[commonplace]] / [[The New Yorker]]
+[[2014]] • [[commonplace]] • [[Tessa Hadley]] • [[The New Yorker]]
 
 "Since her illness began, at least in the intervals when she felt well enough to read, she had immersed herself in books almost fanatically, trying not to leave open any chink in her consciousness through which she could be waylaid by awareness of her body or by fear or disgust."

@@ -9,11 +9,7 @@ date: 2015-03-15
 permalink: 2015/03/15/jeremiah-new-mercies
 ---
 
-# New Mercies
-
-### Jeremiah
-
-[[2015]] / [[commonplace]] / [[Bible]]
+[[2015]] • [[commonplace]] • [[Jeremiah]] • [[Bible]]
 
 "The steadfast love of the Lord never ceases;[a]
 <br>his mercies never come to an end;

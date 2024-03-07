@@ -9,11 +9,7 @@ date: 2014-08-01
 permalink: 2014/08/01/david-bromwich-epistolary-frost
 ---
 
-# Epistolary Frost
-
-### David Bromwich
-
-[[2014]] / [[commonplace]] / [[Times Literary Supplement]]
+[[2014]] • [[commonplace]] • [[David Bromwich]] • [[Times Literary Supplement]]
 
 "Frost’s early thoughts about poetry are indistinguishable from thoughts about himself" 
 

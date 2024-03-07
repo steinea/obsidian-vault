@@ -9,11 +9,7 @@ date: 2014-09-25
 permalink: 2014/09/25/cleanth-brooks-paradox-and-formalism
 ---
 
-# Paradox and Formalism
-
-### Cleanth Brooks
-
-[[2014]] / [[commonplace]] / [[Critical Theory]]
+[[2014]] • [[commonplace]] • [[Cleanth Brooks]] • [[Critical Theory]]
 
 The Language of Paradox 
 

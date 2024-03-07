@@ -9,11 +9,7 @@ date: 2015-02-12
 permalink: 2015/02/12/william-james-varieties-of-religious-experience
 ---
 
-# This Mass of Suggested Feeling
-
-### William James
-
-[[2015]] / [[commonplace]] / [[The Varieties of Religious Experience]]
+[[2015]] • [[commonplace]] • [[William James]] • [[The Varieties of Religious Experience]]
 
 two orders of inquiry concerning anything.
 LOCATION: 126

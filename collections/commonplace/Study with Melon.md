@@ -9,11 +9,7 @@ date: 2014-11-27
 permalink: 2014/11/27/lia-purpura-study-with-melon
 ---
 
-# Study with Melon
-
-### Lia Purpura
-
-[[2014]] / [[commonplace]] / [[The New Yorker]]
+[[2014]] • [[commonplace]] • [[Lia Purpura]] • [[The New Yorker]]
 
 The stem end of a melon	
 <br>is weblike, form	

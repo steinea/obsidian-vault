@@ -9,11 +9,7 @@ date: 2014-10-24
 permalink: 2014/10/24/john-atwell-decisions-judgments-universalizability
 ---
 
-# Decisions, Judgments, Universalizability
-
-### John Atwell
-
-[[2014]] / [[commonplace]] / [[Ethics]] / [[Billy Budd, Sailor]]
+[[2014]] • [[commonplace]] • [[John Atwell]] • [[Ethics]] • [[Billy Budd, Sailor]]
 
 Mary Warnock makes the remark, for instance, that "it is far from clear that the process of deciding what to do is [as the emotivists, and others, seem to assume] exactly like the process of judging somebody else's actions” (130). 
 

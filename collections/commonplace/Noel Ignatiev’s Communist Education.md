@@ -9,11 +9,7 @@ date: 2022-12-15
 permalink: 2022/12/15/dylan-davis-patrick-king-noel-ignatievs-communist-education
 ---
 
-# Noel Ignatiev’s Communist Education
-
-### Dylan Davis and Patrick King
-
-[[2022]] / [[commonplace]] / [[Los Angeles Review of Books]]
+[[2022]] • [[commonplace]] • [[Dylan Davis]] • [[Patrick King]] • [[Los Angeles Review of Books]]
 
 "Whether on factory floors or through economic ebbs and flows, Ignatiev presented class struggle as a sequence of enigmatic forms of conflict, accommodation, and rapprochement. He traced, in microcosm, how the revolutionary processes initiated through the daily activities of ordinary people constituted important “[outposts](http://www.sojournertruth.net/bwww.html)” of a future socialist society in the present"
 

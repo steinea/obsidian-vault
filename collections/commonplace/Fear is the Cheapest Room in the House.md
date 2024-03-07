@@ -9,11 +9,7 @@ date: 2022-12-25
 permalink: 2022/12/25/hafiz-fear-is-the-cheapest-room-in-the-house
 ---
 
-# Fear is the Cheapest Room in the House
-
-### Hafiz
-
-[[2022]] / [[commonplace]] / [[Poets United]]
+[[2022]] • [[commonplace]] • [[Hafiz]] • [[Poets United]]
 
 Fear is the cheapest room in the house
 <br>I would like to see you living

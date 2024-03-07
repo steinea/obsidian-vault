@@ -9,11 +9,7 @@ date: 2014-06-02
 permalink: 2014/06/02/david-gilbert-heres-the-story
 ---
 
-# Here's the Story
-
-### David Gilbert
-
-[[2014]] / [[commonplace]] / [[The New Yorker]]
+[[2014]] • [[commonplace]] • [[David Gilbert]] • [[The New Yorker]]
 
 "Was he pedantic and sentimental? Was there a worse combination?"
 

@@ -9,11 +9,7 @@ date: 2014-10-16
 permalink: 2014/10/16/lester-hunt-melvilles-dilemma
 ---
 
-# Melville's Dilemma
-
-### Lester Hunt
-
-[[2014]] / [[commonplace]] / [[Philosophy and Literature]] / [[Billy Budd, Sailor]]
+[[2014]] • [[commonplace]] • [[Lester Hunt]] • [[Philosophy and Literature]] • [[Billy Budd, Sailor]]
 
 “Melville unflinchingly represents to us the moral horror of what Captain Vere does to Billy, and yet he also depicts Vere himself with a respect that borders on admiration” (273). 
 

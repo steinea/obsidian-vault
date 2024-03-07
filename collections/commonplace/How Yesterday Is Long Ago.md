@@ -9,9 +9,7 @@ date: 2015-03-05
 permalink: 2015-03-05-fernando-pessoa-how-yesterday-is-long-ago
 ---
 
-# How Yesterday Is Long Ago
-
-[[2015]] / [[commonplace]] / [[35 Sonnets]]
+[[2015]] • [[commonplace]] • [[Fernando Pessoa]] • [[35 Sonnets]]
 
 XXVII. 
 

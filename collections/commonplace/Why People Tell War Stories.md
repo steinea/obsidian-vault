@@ -9,11 +9,7 @@ date: 2015-02-06
 permalink: 2015/02/06/david-a-graham-why-people-tell-war-stories
 ---
 
-# Why People Tell War Stories
-
-### David A. Graham
-
-[[2015]] / [[commonplace]] / [[The Atlantic]]
+[[2015]] • [[commonplace]] • [[David A. Graham]] • [[The Atlantic]]
 
 "Tim O'Brien, the Vietnam veteran, Purple Heart winner, and great writer of war, meditated on "true war stories." "You can tell a true war story by its absolute and uncompromising allegiance to obscenity and evil," O'Brien wrote:"
 

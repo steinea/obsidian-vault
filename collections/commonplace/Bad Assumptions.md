@@ -9,11 +9,7 @@ date: 2022-07-27
 permalink: 2022/07/27/zens-bad-assumptions
 ---
 
-# Bad Assumptions
-
-### Zens
-
-[[2022]] / [[commonplace]] / [[Merveilles]]
+[[2022]] • [[commonplace]] • [[Zens]] • [[Merveilles]]
 
 things user/profile systems fuck up, bad assumptions
 

@@ -9,11 +9,7 @@ date: 2014-05-07
 permalink: 2014/05/07/keith-gessen-waiting-for-war
 ---
 
-# Waiting for War
-
-### Keith Gessen
-
-[[2014]] / [[commonplace]] / [[The New Yorker]]
+[[2014]] • [[commonplace]] • [[Keith Gissen]] • [[The New Yorker]]
 
 Quoting his friend Shvetz:
 

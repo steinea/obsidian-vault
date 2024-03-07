@@ -9,11 +9,7 @@ date: 2015-02-04
 permalink: 2015/02/04/graham-huggan-rhetoric-of-resistance
 ---
 
-# Rhetoric of Resistance
-
-### Graham Huggan
-
-[[2015]] / [[commonplace]] / [[Bourdieu and Postcolonial Studies]]
+[[2015]] • [[commonplace]] • [[Graham Huggan]] • [[Bourdieu and Postcolonial Studies]]
 
 “postcolonialism and its rhetoric of resistance have themselves become consumer products"
 

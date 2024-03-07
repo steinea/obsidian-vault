@@ -9,11 +9,7 @@ date: 2015-02-05
 permalink: 2015/02/05/jeffrey-tyler-fyodors-guide
 ---
 
-# Fyodor's Guide
-
-### Jeffrey Tyler
-
-[[2015]] / [[commonplace]] / [[The Atlantic]]
+[[2015]] • [[commonplace]] • [[Jeffrey Tyler]] • [[The Atlantic]]
 
 "Dostoyevsky adored super-strong tea, scalding coffee, Kiev jam, chocolate, and blue raisins."
  

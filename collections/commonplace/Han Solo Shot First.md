@@ -9,11 +9,7 @@ date: 2015-02-19
 permalink: 2015/02/19/jacob-brogan-han-solo-shot-first
 ---
 
-# Han Solo Shot First
-
-### Jacob Brogan
-
-[[2015]] / [[commonplace]] / [[The Atlantic]]
+[[2015]] • [[commonplace]] • [[Jacob Brogan]] • [[The Atlantic]]
 
 "On Wikipedia, you’d face censure for writing, “In Cloud City, Darth Vader confessed that he was Luke’s father.” But if you were to instead write, “Vader confesses that he is Luke’s father,” your change would likely go unnoticed. In a small corner of Wikipedia’s edit wars, the struggle against in-universe perspective’s temporality reveals some of the larger ways people process works of fiction. These peripheral slippages into the past tense suggest that the most obscure stories may seem most real to those who know them well."
  

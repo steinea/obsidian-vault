@@ -9,11 +9,7 @@ date: 2015-02-14
 permalink: 2015/02/14/soren-kierkegaard-despair
 ---
 
-# Despair
-
-### Søren Kierkegaard
-
-[[2015]] / [[commonplace]] / [[The Sickness Unto Death]]
+[[2015]] • [[commonplace]] • [[Søren Kierkegaard]] • [[The Sickness Unto Death]]
 
 A. Despair is the sickness unto death 
 

@@ -9,11 +9,7 @@ date: 2015-03-05
 permalink: 2015/03/05/guy-deutscher-does-your-language-shape-how-you-think
 ---
 
-# Does Your Language Shape How You Think?
-
-### Guy Deutscher
-
-[[2015]] / [[commonplace]] / [[The New York Times]]
+[[2015]] • [[commonplace]] • [[Guy Deutscher]] • [[The New York Times]]
 
 Published: August 26, 2010
 

@@ -9,11 +9,7 @@ date: 2015-02-06
 permalink: 2015/02/06/robert-h-scales-gun-trouble
 ---
 
-# Gun Trouble
-
-### Robert H. Scales
-
-[[2015]] / [[commonplace]] / [[The Atlantic]]
+[[2015]] • [[commonplace]] • [[Robert H. Scales]] • [[The Atlantic]]
 
 "from Gettysburg to Hamburger Hill to the streets of Baghdad, the American penchant for arming troops with lousy rifles has been responsible for a staggering number of unnecessary deaths."
  

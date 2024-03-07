@@ -9,11 +9,7 @@ date: 2014-08-12
 permalink: 2014/08/12/david-remnick-watching-the-eclipse
 ---
 
-# Watching the Eclipse
-
-### David Remnick
-
-[[2014]] / [[commonplace]] / [[The New Yorker]]
+[[2014]] • [[commonplace]] • [[David Remnick]] • [[The New Yorker]]
 
 ““Western journalism, in large part, produces values,” Kiselyov said. “When I saw the horror in Ukraine and I returned to Russia, I realized we need to produce values. . . .”
 

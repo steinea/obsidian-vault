@@ -9,11 +9,7 @@ date: 2014-09-26
 permalink: 2014/09/26/brook-thomas-billy-budd-and-the-untold-story-of-the-law
 ---
 
-# Billy Budd and the Untold Story of the Law
-
-### Brook Thomas
-
-[[2014]] / [[commonplace]] / [[JSTOR]] / [[Billy Budd, Sailor]]
+[[2014]] • [[commonplace]] • [[Brook Thomas]] • [[JSTOR]] • [[Billy Budd, Sailor]]
 
 “Argue all we like about textual determinacy or indeterminacy, the social function of the law demands that it render judgements, inevitably errant or not” (50). 
 

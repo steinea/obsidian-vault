@@ -9,11 +9,7 @@ date: 2013-09-29
 permalink: 2013/09/29/alexis-de-tocqueville-democracy
 ---
 
-# Democracy in America
-
-### Alexis de Tocqueville
-
-[[2013]] / [[commonplace]] / [[Project Gutenberg]]
+[[2013]] • [[commonplace]] • [[Alexis de Tocqueville]] • [[Project Gutenberg]]
 
 "The means of democracy are therefore more imperfect than those of aristocracy: often it works against itself, without wanting to; but its goal is more useful" (222).
 

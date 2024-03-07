@@ -9,11 +9,7 @@ date: 2013-02-24
 permalink: 2013/02/24/casey-johnston-ten-hours-with-dwarf-fortress
 ---
 
-# Ten Hours with Dwarf Fortress
-
-### Casey Johnston
-
-[[2013]] / [[commonplace]] / [[Ars Technica]]
+[[2013]] • [[commonplace]] • [[Caey Johnston]] • [[Ars Technica]]
 
 “Dwarf Fortress is one of the most complex computer games in the history of computer games.”
 

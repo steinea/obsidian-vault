@@ -9,11 +9,7 @@ date: 2015-03-05
 permalink: 2015/03/05/fernando-pessoa-we-are-in-fate
 ---
 
-# We Are In Fate
-
-### Fernando Pessoa
-
-[[2015]] / [[commonplace]] / [[35 Sonnets]]
+[[2015]] • [[commonplace]] • [[Fernando Pessoa]] • [[35 Sonnets]]
 
 XXV. 
 

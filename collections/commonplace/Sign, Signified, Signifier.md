@@ -9,11 +9,7 @@ date: 2014-10-14
 permalink: 2014-10-14-ferdinand-de-saussure-course-in-general-linguistics
 ---
 
-# Sign, Signified, Signifier
-
-### Ferdinand de Saussure
-
-[[2014]] / [[commonplace]] / [[Course in General Linguistics]]
+[[2014]] • [[commonplace]] • [[Ferdinand de Saussure]] • [[Course in General Linguistics]]
 
 Langue (language): overall system of language, rules of grammar
 Parole (speech): individual utterance, particular instance of language

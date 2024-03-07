@@ -9,11 +9,7 @@ date: 2022-12-15
 permalink: 2022/12/15/james-gleick-space-age-magus
 ---
 
-# Space-Age Magus
-
-### James Gleick
-
-[[2022]] / [[commonplace]] / [[New York Review of Books]]
+[[2022]] • [[commonplace]] • [[James Gleick]] • [[New York Review of Books]]
 
 "instead of posts and beams making the rectilinear boxes “that have been the accepted basis of architecture since the beginning of shelter,” the visionary Fuller used tetrahedrons and octahedrons, shapes inspired by crystals and atoms, to create “lacy frameworks of the widest versatility.”"
 

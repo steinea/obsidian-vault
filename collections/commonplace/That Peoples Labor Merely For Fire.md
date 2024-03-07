@@ -9,11 +9,7 @@ date: 2015-03-29
 permalink: 2015/03/29/habakkuk-that-peoples-labor-merely-for-fire
 ---
 
-# That Peoples Labor Merely For Fire
-
-### Habakkuk
-
-[[2015]] / [[commonplace]] / [[Bible]]
+[[2015]] • [[commonplace]] • [[Habakkuk]] • [[Bible]]
 
 "Behold, is it not from the LORD of hosts that peoples labor merely for fire, and nations weary themselves for nothing?"
 

@@ -9,11 +9,7 @@ date: 2015-02-05
 permalink: 2015/02/05/phil-eklund-a-word-is-worth-a-thousand-pictures
 ---
 
-# A Word is Worth a Thousand Pictures
-
-### Phil Eklund
-
-[[2015]] / [[commonplace]] / [[Entropy Mag]]
+[[2015]] • [[commonplace]] • [[Phil Eklund]] • [[Entropy Mag]]
 
 "Unit economy enables human cognition to reduce a vast amount of sense information to a minimal number of units, and the unit becomes the link between mathematics and reality."
  

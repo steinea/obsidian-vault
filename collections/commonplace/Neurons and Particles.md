@@ -9,11 +9,7 @@ date: 2014-04-17
 permalink: 2014/04/17/iain-mcgilchrist-neurons-and-particles
 ---
 
-# Neurons and Particles
-
-### Iain McGilchrist
-
-[[2014]] / [[commonplace]] / [[YouTube]]
+[[2014]] • [[commonplace]] • [[Iain McGilchrist]] • [[YouTube]]
 
 “There are more potential connection pathways in the brain than there are in the universe.”
 

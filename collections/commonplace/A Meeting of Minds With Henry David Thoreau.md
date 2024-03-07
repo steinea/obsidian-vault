@@ -9,11 +9,7 @@ date: 2015-03-23
 permalink: 2015/03/23/andrew-motion-noonlight-a-meeting-of-minds-with-henry-david-thoreau
 ---
 
-# A Meeting of Minds With Henry David Thoreau
-
-### Andrew Motion
-
-[[2015]] / [[commonplace]] / [[Granta]]
+[[2015]] • [[commonplace]] • [[Andrew Motion]] • [[Granta]]
 
 I remind myself when I reach the pond at sunset 
 <br> how far water reveals itself by night, 

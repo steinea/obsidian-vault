@@ -9,11 +9,7 @@ date: 2015-03-06
 permalink: 2015/03/06/santiago-zabala-gianni-vattimo-european-union-nihilism
 ---
 
-# European (Union) Nihilism
-
-### Santiago Zabala and Gianni Vattimo
-
-[[2015]] / [[commonplace]] / [[Los Angeles Review of Books]]
+[[2015]] • [[commonplace]] • [[Santiago Zabala]] • [[Gianni Vattimo]] • [[Los Angeles Review of Books]]
 
 "Heidegger, in his writings on Nietzsche in the 1950s, defined nihilism as the process in the course of which “there is nothing to Being itself.” He was not only thinking of the forgetting of Being (existence) in favor of beings (objects), but also of the future of Europe. And this future, as we have since been able to see, has turned out to be a metaphysical organization of society in which science and power reciprocally sustain themselves through technology"
  

@@ -9,11 +9,7 @@ date: 2015-03-18
 permalink: 2015/03/18/rawi-hage-all-was-accepted-by-the-underworld
 ---
 
-# All Was Accepted By The Underworld
-
-### Rawi Hage
-
-[[2015]] / [[commonplace]] / [[Cockroach]]
+[[2015]] • [[commonplace]] • [[Rawi Hage]] • [[Cockroach]]
 
 "All was good, all was natural, all was accepted by the underworld."
 

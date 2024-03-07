@@ -9,11 +9,7 @@ date: 2015-03-05
 permalink: 2015/03/05/dan-piepenbring-why-do-we-personify-the-weather
 ---
 
-# Why Do We Personify the Weather?
-
-### Dan Piepenbring
-
-[[2015]] / [[commonplace]] / [[The Paris Review]]
+[[2015]] • [[commonplace]] • [[Dan Piepenbring]] • [[The Paris Review]]
 
 "Weather forecasting is an earnest attempt to assert control over nature: by codifying it, anticipating it. This is why, it seems to me, so many of the elderly attend with almost sacred focus to fluctuations in the weather, to raw meteorological data. It offers a sense of containment, the reassurance that someone, somewhere, knows what’s coming. But such is not the case. Though you’ll never hear it from Weather.com, Edward Lorenz, the mathematician who developed chaos theory, got the idea when he was working as a meteorologist."
  

@@ -9,11 +9,7 @@ date: 2013-03-28
 permalink: 2013/03/28/krista-tippett-john-lewis-love-in-action
 ---
 
-# Love in Action
-
-### Krista Tippett and John Lewis
-
-[[2013]] / [[commonplace]] / [[On Being]]
+[[2013]] • [[commonplace]] • [[Krista Tippett]] • [[John Lewis]] • [[On Being]]
 
 “my mother would say over and over again, “Work hard.”
 

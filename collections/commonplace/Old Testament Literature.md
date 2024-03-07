@@ -9,11 +9,7 @@ date: 2014-09-21
 permalink: 2014/09/21/malcolm-godden-old-testament-literature
 ---
 
-# Old Testament Literature
-
-### Malcolm Godden
-
-[[2014]] / [[commonplace]] / [[The Cambridge Companion to Old English Literature]]
+[[2014]] • [[commonplace]] • [[Malcolm Godden]] • [[The Cambridge Companion to Old English Literature]]
 
 "one of the major advantages which Christianity appeared to offer the heathen Anglo-Saxons was a coherent account of the world's beginning" (2).
 

@@ -9,11 +9,7 @@ date: 2022-12-17
 permalink: 2022/12/16/sam-kabo-ashwell-standard-patterns-in-choice-based-games
 ---
 
-# Standard Patterns
-
-### Sam Kabo Ashwell
-
-[[2022]] / [[commonplace]] / [[Heterogenous Tasks]]
+[[2022]] • [[commonplace]] • [[Sam Kabo Ashwell]] • [[Heterogenous Tasks]]
 
 "When I was analysing the structures of CYOA works a few years back, I began to recognise some strong recurring design patterns. I came up with some home-brewed terminology, but didn’t ever lay it out in a nice clear way. This is a non-exhaustive look at some of the more common approaches"
 

@@ -9,10 +9,6 @@ date: 2014-12-01
 permalink: 2014/12/01/jelani-cobb-crimes-and-commissions
 ---
 
-# Crimes and Commissions
-
-### Jelani Cobb
-
-[[2014]] / [[commonplace]] / [[The New Yorker]]
+[[2014]] • [[commonplace]] • [[Jelani Cobb]] • [[The New Yorker]]
 
 "A defining achievement of American bureaucracy is that even assaults on its authority wind up generating more bureaucracy."

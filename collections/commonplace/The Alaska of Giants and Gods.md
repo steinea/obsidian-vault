@@ -9,11 +9,7 @@ date: 2014-11-10
 permalink: 2014/11/10/dave-eggers-the-alaska-of-giants-and-gods
 ---
 
-# The Alaska of Giants and Gods
-
-### Dave Eggers
-
-[[2014]] / [[commonplace]] / [[The New Yorker]]
+[[2014]] • [[commonplace]] • [[Dave Eggers]] • [[The New Yorker]]
 
 “there is the happiness of one’s personal slum. The happiness of being alone”
 

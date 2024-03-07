@@ -9,11 +9,7 @@ date: 2015-03-19
 permalink: 2015/03/19/jeremiah-the-way-of-man-is-not-in-himself
 ---
 
-# The Way Of Man Is Not In Himself
-
-### Jeremiah
-
-[[2015]] / [[commonplace]] / [[Bible]]
+[[2015]] • [[commonplace]] • [[Jeremiah]] • [[Bible]]
 
 "I know, O LORD, that the way of man is not in himself, that it is not in man who walks to direct his steps. Correct me, O LORD, but in justice; not in your anger, lest you bring me to nothing."
 

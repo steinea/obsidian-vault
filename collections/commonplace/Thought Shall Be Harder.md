@@ -9,11 +9,7 @@ date: 2014-09-07
 permalink: 2014/09/07/anonymous-the-battle-of-maldon
 ---
 
-# Thought Shall Be Harder
-
-### Anonymous
-
-[[2014]] / [[commonplace]] / [[The Medieval Period]]
+[[2014]] • [[commonplace]] • [[Anonymous]] • [[The Medieval Period]]
 
 Hige sceal þē heardra, &nbsp; &nbsp; &nbsp; heorte þē cēnre,
 <br>mōd sceal þē māre, &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; þē ūre mægen lytlað.

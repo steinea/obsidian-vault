@@ -9,11 +9,7 @@ date: 2014-06-19
 permalink: 2014/06/19/dave-cameron-behind-the-mask
 ---
 
-# Behind the Mask
-
-### Dave Cameron
-
-[[2014]] / [[commonplace]] / [[The Walrus]]
+[[2014]] • [[commonplace]] • [[Dave Cameron]] • [[The Walrus]]
 
 “Goalies are supposed to be crazy, because who else would want the job?”
 

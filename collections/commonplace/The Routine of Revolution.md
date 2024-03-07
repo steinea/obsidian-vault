@@ -9,11 +9,7 @@ date: 2015-03-08
 permalink: 2015/03/08/andrey-platonov-the-routine-of-revolution
 ---
 
-# The Routine of Revolution
-
-### Andrey Platonov
-
-[[2015]] / [[commonplace]] / [[Asymptote Journal]]
+[[2015]] • [[commonplace]] • [[Andrey Platonov]] • [[Asymptote Journal]]
 
 "Dvanov felt sorry for Nekhvoraiko, because he was being wept over not by his mother and father but only by music, and there was no feeling on the faces of the men following behind, who were themselves ready for inevitable death in the routine of revolution."
 

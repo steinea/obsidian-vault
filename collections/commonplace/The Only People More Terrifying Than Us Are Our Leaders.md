@@ -9,11 +9,7 @@ date: 2014-04-09
 permalink: 2014/04/09/john-michael-mcgrath-the-only-people-more-terrifying-than-us-are-our-leaders
 ---
 
-# The Only People More Terrifying Than Us Are Our Leaders
-
-### John Michael McGrath
-
-[[2014]] / [[commonplace]] / [[Hazlitt]]
+[[2014]] • [[commonplace]] • [[John Michael McGrath]] • [[Hazlitt]]
 
 "we have a direct correlation here between being objectively wrong and supporting a military intervention somewhere in the world"
 

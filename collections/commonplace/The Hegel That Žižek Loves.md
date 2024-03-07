@@ -9,11 +9,7 @@ date: 2014-12-06
 permalink: 2014/12/06/slavoj-zizek-less-than-nothing
 ---
 
-# The Hegel That Žižek Loves
-
-### Slavoj Žižek
-
-[[2014]] / [[commonplace]] / [[Verso]]
+[[2014]] • [[commonplace]] • [[Slavoj Zizek]] • [[Verso]]
 
 “The Hegel that Žižek loves is much like Žižek himself: a relentless iconoclast, a restless wordsmith, an inventive thinker with a hatred of received wisdom.” —Bookforum
 

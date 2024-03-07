@@ -9,11 +9,7 @@ date: 2014-10-06
 permalink: 2014/10/06/heather-green-i-was-reading-up-on-my-hellenic-math
 ---
 
-# I Was Reading Up On My Hellenic Math
-
-### Heather Green
-
-[[2014]] / [[commonplace]] / [[The New Yorker]]
+[[2014]] • [[commonplace]] • [[Heather Green]] • [[The New Yorker]]
 
 I was reading up on my Hellenic math: no zero yet, no 
 <br>transfinite set theory, no sine or cosine, just a Brotherhood that 

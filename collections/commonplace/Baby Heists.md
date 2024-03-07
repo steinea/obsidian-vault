@@ -9,11 +9,7 @@ date: 2022-12-17
 permalink: 2022/12/16/andrew-lee-baby-heists
 ---
 
-# Baby Heists
-
-### Andrew Lee
-
-[[2022]] / [[commonplace]] / [[The New Inquiry]]
+[[2022]] • [[commonplace]] • [[Andrew Lee]] • [[The New Inquiry]]
 
 "The deepest wish of the modern state is to forge precisely the sort of population which might perfectly support it."
 

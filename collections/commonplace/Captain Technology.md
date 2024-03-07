@@ -9,11 +9,7 @@ date: 2022-12-17
 permalink: 2022/12/17/jordan-hoffman-captain-technology
 ---
 
-# Captain Technology
-
-### Jordan Hoffman
-
-[[2022]] / [[commonplace]] / [[Polygon]]
+[[2022]] • [[commonplace]] • [[Jordan Hoffman]] • [[Polygon]]
 
 "many viewers will have a vexing experience if they see the picture in what’s considered the optimum format"
 

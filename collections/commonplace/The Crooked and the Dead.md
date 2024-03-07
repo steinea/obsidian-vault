@@ -9,10 +9,6 @@ date: 2014-08-19
 permalink: 2014/08/19/jill-lepore-the-crooked-and-the-dead
 ---
 
-# The Crooked and the Dead
-
-### Jill Lepore
-
-[[2014]] / [[commonplace]] / [[The New Yorker]]
+[[2014]] • [[commonplace]] • [[Jill Lepore]] • [[The New Yorker]]
 
 "'Money is a proxy for speech,' Bork wrote. 'Money is speech,' Justice Potter Stewart echoed, during oral arguments, 'and speech is money.'" 

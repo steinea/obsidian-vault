@@ -9,11 +9,7 @@ date: 2014-09-21
 permalink: 2014/09/21/aelfric-old-english-genesis
 ---
 
-# Old English Genesis
-
-### Ælfric of Eynsham
-
-[[2014]] / [[commonplace]] / [[The Medieval Period]]
+[[2014]] • [[commonplace]] • [[Ælfric of Eynsham]] • [[The Medieval Period]]
 
 God is the "Helm of all created things" (4).
 

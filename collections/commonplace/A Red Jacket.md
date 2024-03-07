@@ -9,11 +9,7 @@ date: 2014-03-26
 permalink: 2014/03/26/samantha-reynolds-a-red-jacket
 ---
 
-# A Red Jacket
-
-### Samantha Reynolds
-
-[[2014]] / [[commonplace]] / [[bentlily]]
+[[2014]] • [[commonplace]] • [[Samantha Reynolds]] • [[bentlily]]
 
 A four-year-old boy once asked me
 <br>if a ladybug

@@ -9,11 +9,7 @@ date: 2015-03-23
 permalink: 2015/03/23/jeremiah-i-will-be-found-by-you
 ---
 
-# I Will Be Found By You
-
-### Jeremiah
-
-[[2015]] / [[commonplace]] / [[Bible]]
+[[2015]] • [[commonplace]] • [[Jeremiah]] • [[Bible]]
 
 "For thus says the LORD: When seventy years are completed for Babylon, I will visit you, and I will fulfill to you my promise and bring you back to this place. For I know the plans I have for you, declares the LORD , plans for welfare and not for evil, to give you a future and a hope. Then you will call upon me and come and pray to me, and I will hear you. You will seek me and find me, when you seek me a with all your heart. I will be found by you, declares the LORD, and I will restore your fortunes and gather you from all the nations and all the places where I have driven you, declares the LORD, and I will bring you back to the place from which I sent you into exile."
 

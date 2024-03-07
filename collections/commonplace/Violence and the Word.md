@@ -9,11 +9,7 @@ date: 2014-10-25
 permalink: 2014/10/25/robert-cover-violence-and-the-word
 ---
 
-# Violence and the Word
-
-### Robert Cover
-
-[[2014]] / [[commonplace]] / [[Yale Law Journal]]
+[[2014]] • [[commonplace]] • [[Robert Cover]] • [[Yale Law Journal]]
 
 I. THE VIOLENCE OF LEGAL ACTS
 

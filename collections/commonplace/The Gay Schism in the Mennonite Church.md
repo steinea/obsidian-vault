@@ -9,11 +9,7 @@ date: 2015-03-19
 permalink: 2015/03/19/emma-green-the-gay-schism-in-the-mennonite-church
 ---
 
-# The Gay Schism in the Mennonite Church
-
-### Emma Green
-
-[[2015]] / [[commonplace]] / [[The Atlantic]]
+[[2015]] • [[commonplace]] • [[Emma Green]] • [[The Atlantic]]
 
 "“When people are vulnerable, regardless of what the situation may be, we as humans must often offer love and grace, even if in fact we may not understand,” Weaver said to the group. “Safe places, safe churches, allow people to be vulnerable. The problem I’m finding, though, is that there appears to be fewer and fewer safe churches.”"
 

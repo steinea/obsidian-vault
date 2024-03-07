@@ -9,11 +9,7 @@ date: 2014-11-01
 permalink: 2014/11/01/robert-post-whos-afraid-of-jurispathic-courts
 ---
 
-# Who's Afraid of Jurispathic Courts?
-
-### Robert Post
-
-[[2014]] / [[commonplace]] / [[Yale Journal of Law & the Humanities]] / [[Billy Budd, Sailor]]
+[[2014]] • [[commonplace]] • [[Robert Post]] • [[Yale Journal of Law & the Humanities]] • [[Billy Budd, Sailor]]
 
 "As against the constitutional politics of the state, Cover associates legal meaning almost invariably with “autonomous interpretive communities.” These communities can be insular and turn away from the state. Or they can be redemptive and attempt to capture the state. But if and when they do come to the levers of government power, they seemingly lose their association with nomos" (10). 
 

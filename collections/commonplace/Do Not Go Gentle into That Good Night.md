@@ -9,11 +9,7 @@ date: 2014-08-03
 permalink: 2014/08/03/dylan-thomas-do-not-go-gentle-into-that-good-night
 ---
 
-# Do Not Go Gentle into That Good Night
-
-### Dylan Thomas
-
-[[2014]] / [[commonplace]] / [[Poets]]
+[[2014]] • [[commonplace]] • [[Dylan Thomas]] • [[Poets]]
 
 Do not go gentle into that good night,
 <br> Old age should burn and rave at close of day;

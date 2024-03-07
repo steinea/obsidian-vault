@@ -9,11 +9,7 @@ date: 2022-11-09
 permalink: 2022/11/09/edward-berger-all-of-this-is-like-a-fever
 ---
 
-# All of This Is Like a Fever
-
-### Edward Berger
-
-[[2022]] / [[commonplace]] / [[All Quiet On the Western Front]]
+[[2022]] • [[commonplace]] • [[Edward Berger]] • [[All Quiet On the Western Front]]
 
 "All of this is like a fever. No one actually wants it, but suddenly it's here. We didn't want it, the others didn't want it. And yet, here we are. And yet, half the world is here. And God watches on as we slaughter each other. Well... But what do I know? I know nothing. I'm a pair of boots with a rifle."
 

@@ -9,11 +9,7 @@ date: 2014-10-28
 permalink: 2014/10/28/walter-benjamin-the-work-of-art-in-the-age-of-its-mechanical-reproducibility
 ---
 
-# The Work of Art in the Age of its Mechanical Reproducibility
-
-### Walter Benjamin
-
-[[2014]] / [[commonplace]] / [[Critical Theory]]
+[[2014]] • [[commonplace]] • [[Walter Benjamin]] • [[Critical Theory]]
 
 II 
 In even the most perfect reproduction, one thing is lacking: the here and now of the work of art—its unique existence in a particular place (397).

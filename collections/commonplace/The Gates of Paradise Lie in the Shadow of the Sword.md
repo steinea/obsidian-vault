@@ -9,11 +9,7 @@ date: 2015-03-15
 permalink: 2015/03/15/muhammad-the-gates-of-paradise-lie-in-the-shadow-of-the-sword
 ---
 
-# The Gates of Paradise Lie in the Shadow of the Sword
-
-### Muhammad
-
-[[2015]] / [[commonplace]] / [[In the Shadow of the Sword]]
+[[2015]] • [[commonplace]] • [[Muhammad]] • [[In the Shadow of the Sword]]
 
 "Do not look for a fight with the enemy. Beg God for peace and security. But if you do end up facing the enemy, then show endurance, and remember that the gates of Paradise lie in the shadow of the sword.  "
 

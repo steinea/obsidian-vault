@@ -9,11 +9,7 @@ date: 2014-09-03
 permalink: 2014/09/03/gildas-on-the-ruin-of-britain
 ---
 
-# A Kind of Mirror of Human Life
-
-### Gildas
-
-[[2014]] / [[commonplace]] / [[A Kind of Mirror of Human Life]]
+[[2014]] • [[commonplace]] • [[Gildas]] • [[A Kind of Mirror of Human Life]]
 
 "These and many other passages in the ancient Scriptures I regarded as a kind of mirror of human life" (6). 
 

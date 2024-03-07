@@ -9,11 +9,7 @@ date: 2015-02-16
 permalink: 2015/02/16/james-fallows-the-tragedy-of-the-american-military
 ---
 
-# The Tragedy of the American Military
-
-### James Fallows
-
-[[2015]] / [[commonplace]] / [[The Atlantic]]
+[[2015]] • [[commonplace]] • [[James Fallows]] • [[The Atlantic]]
 
 "He told members of the military that the nation was grateful for their nonstop deployments and for the unique losses and burdens placed on them through the past dozen years of open-ended war. He noted that they were often the face of American influence in the world, being dispatched to Liberia in 2014 to cope with the then-dawning Ebola epidemic as they had been sent to Indonesia 10 years earlier to rescue victims of the catastrophic tsunami there. He said that the “9/11 generation of heroes” represented the very best in its country, and that its members constituted a military that was not only superior to all current adversaries but no less than “the finest fighting force in the history of the world.”"
  

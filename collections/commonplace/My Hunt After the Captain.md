@@ -9,11 +9,7 @@ date: 2015-02-03
 permalink: 2015/02/03/oliver-wendall-holmes-my-hunt-after-the-captain
 ---
 
-# My Hunt After the Captain
-
-### Oliver Wendall Holmes
-
-[[2015]] / [[commonplace]] / [[The Atlantic]]
+[[2015]] • [[commonplace]] • [[Oliver Wendall Holmes]] • [[The Atlantic]]
 
 "Thought not mortal, or not thought mortal,--which was it? The first; that is better than the second would be."
 

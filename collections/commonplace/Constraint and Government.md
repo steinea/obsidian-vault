@@ -9,11 +9,7 @@ date: 2013-09-29
 permalink: 2013/09/29/thomas-jefferson-constraint-and-government
 ---
 
-# Constraint and Government
-
-### Thomas Jefferson
-
-[[2013]] / [[commonplace]] / [[Wikipedia]]
+[[2013]] • [[commonplace]] • [[Thomas Jefferson]] • [[Wikipedia]]
 
 "Constraint may make him worse by making him a hypocrite, but it will never make him a truer man" (674). 
 

@@ -9,11 +9,7 @@ date: 2022-12-17
 permalink: 2022/12/17/eli-glasner-no-concessions-no-compromise
 ---
 
-# No Concessions, No Compromise
-
-### Eli Glasner
-
-[[2022]] / [[commonplace]] / [[CBC]]
+[[2022]] • [[commonplace]] • [[Eli Glasner]] • [[CBC]]
 
 "This is the Cameron way, no concessions, no compromise — a wildly ambitious story which he sees as part of seven-film (!) cycle. A movie so expensive Cameron estimates it will need to earn $2 billion to break even."
 

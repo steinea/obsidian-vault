@@ -9,11 +9,7 @@ date: 2015-02-19
 permalink: 2015/02/19/simon-dedeo-nostalgia-just-became-a-law-of-nature
 ---
 
-# Nostalgia Just Became a Law of Nature
-
-### Simon DeDeo
-
-[[2015]] / [[commonplace]] / [[Nautilus]]
+[[2015]] • [[commonplace]] • [[Simon DeDeo]] • [[Nautilus]]
 
 "Still and her collaborators showed how dissipation is bounded by the unnecessary information a system retains—information irrelevant to the system’s future behavior. With an admirable poetry of mind, they referred to this as nostalgia, the memories of the past that are useless for the future. What they showed is that the nostalgia of a system puts a minimum on the amount of work you will lose in acting on it."
 

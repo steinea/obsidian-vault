@@ -9,11 +9,7 @@ date: 2014-10-19
 permalink: 2014/10/19/gregg-crane-the-hard-case
 ---
 
-# The Hard Case
-
-### Gregg Crane
-
-[[2014]] / [[commonplace]] / [[University of Toronto Quarterly]] / [[Billy Budd, Sailor]]
+[[2014]] • [[commonplace]] • [[Gregg Crane]] • [[University of Toronto Quarterly]] • [[Billy Budd, Sailor]]
 
 ‘No set of legal institutions exists apart from the narratives that locate it and give it meaning’ (889). 
 

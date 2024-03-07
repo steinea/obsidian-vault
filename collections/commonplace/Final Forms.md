@@ -9,10 +9,6 @@ date: 2014-03-31
 permalink: 2014/03/31/kathryn-schulz-finals-forms
 ---
 
-# Final Forms
-
-### Kathryn Schulz
-
-[[2014]] / [[commonplace]] / [[The New Yorker]]
+[[2014]] • [[commonplace]] • [[Kathryn Schulz]] • [[The New Yorker]]
 
 “The flip side of democracy is bureaucracy: if everyone counts, everyone must be counted. The flip side of equality is equality: the pauper gets a driver’s license, the President needs one, and you wait in line at the D.M.V. And the flip side of representation is surveillance: by 1851, the French political theorist Pierre-Joseph Proudhon could observe that “to be governed is to be noted, registered, enumerated, accounted for, stamped, measured, classified, audited, patented, licensed, authorized, endorsed, reprimanded, prevented, reformed, rectified, and corrected, in every operation, every transaction, every movement.””

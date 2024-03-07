@@ -9,11 +9,7 @@ date: 2014-11-04
 permalink: 2014/11/04/wulfstan-concerning-kingship-and-the-throne
 ---
 
-# Concerning Kingship and the Throne
-
-### Wulfstan
-
-[[2014]] / [[commonplace]] / [[Anglo-Saxon Prose]]
+[[2014]] • [[commonplace]] • [[Wulfstan]] • [[Anglo-Saxon Prose]]
 
 "There are eight columns which firmly support lawful kingship: truth, patience, liberality, good counsel (veritas, patientia, largitas, persuasibilitas): formidableness, helpfulness, moderation, righteousness (correctio malorum, exultatio bonorum, levitas tributi, equitas iudicii). And seven things befit a righteous king: . . . awe of God . . . cherish righteousness . . . humble before God . . . resolute against evil . . . comfort and feed God’s poor . . . advance and protect the Church of God . . . order correct judgment for friend and stranger alike" (189). 
 

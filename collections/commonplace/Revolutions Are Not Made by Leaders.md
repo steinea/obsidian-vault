@@ -9,11 +9,7 @@ date: 2022-11-24
 permalink: 2022/11/24/diego-luna-revolutions-are-not-made-by-leaders
 ---
 
-# Revolutions Are Not Made by Leaders
-
-### Diego Luna
-
-[[2022]] / [[commonplace]] / [[Vulture]]
+[[2022]] • [[commonplace]] • [[Diego Luna]] • [[Vulture]]
 
 Sean T. Collins: "One of the most unusual things about the show is that, especially in the early episodes, Cassian Andor is not particularly charismatic. We’re used to dramas centered on the most magnetic guy in the room."
 

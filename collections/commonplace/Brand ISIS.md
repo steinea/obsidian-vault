@@ -9,11 +9,7 @@ date: 2015-02-16
 permalink: 2015/02/16/naheed-mustafa-brand-isis
 ---
 
-# Brand ISIS
-
-### Naheed Mustafa
-
-[[2015]] / [[commonplace]] / [[The Walrus]]
+[[2015]] • [[commonplace]] • [[Naheed Mustafa]] • [[The Walrus]]
 
 "ISIS is doing something unprecedented: building a nation-state in real time. To interpret its media efforts as anything less than the creation of a national foundation myth is to grossly underestimate its project."
  

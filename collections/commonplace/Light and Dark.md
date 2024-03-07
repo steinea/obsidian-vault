@@ -9,11 +9,7 @@ date: 2014-08-31
 permalink: 2014/08/31/nic-pizzolatto-light-and-dark
 ---
 
-# Light and Dark
-
-### Nic Pizzolatto
-
-[[2014]] / [[commonplace]] / [[True Detective]]
+[[2014]] • [[commonplace]] • [[Nic Pizzolatto]] • [[True Detective]]
 
 Marty: “Talk to me, Rust.”
 

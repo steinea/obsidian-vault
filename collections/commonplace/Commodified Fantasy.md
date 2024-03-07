@@ -9,11 +9,7 @@ date: 2022-12-23
 permalink: 2022/12/23/ursula-k-le-guin-commodified-fantasy
 ---
 
-# Commodified Fantasy
-
-### Ursula K. Le Guin
-
-[[2022]] / [[commonplace]] / [[Tales from Earthsea]]
+[[2022]] • [[commonplace]] • [[Ursula K. Le Guin]] • [[Tales from Earthsea]]
 
 "All times are changing times, but ours is one of massive, rapid moral and mental transformation. Archetypes turn into millstones, large simplicities get complicated, chaos becomes elegant, and what everybody knows is true turns out to be what some people used to think.
 

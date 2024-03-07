@@ -9,11 +9,7 @@ date: 2013-09-25
 permalink: 2013/09/25/j-r-r-tolkien-the-horse-and-the-rider
 ---
 
-# The Horse and the Rider
-
-### J. R. R. Tolkien
-
-[[2013]] / [[commonplace]] / [[Wikipedia]]
+[[2013]] • [[commonplace]] • [[J. R. R. Tolkien]] • [[Wikipedia]]
 
 Where now the horse and the rider? 
 <br>Where is the horn that was blowing?

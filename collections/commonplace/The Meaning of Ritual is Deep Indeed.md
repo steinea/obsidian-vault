@@ -9,11 +9,7 @@ date: 2014-05-23
 permalink: 2014/05/23/xunzi-the-meaning-of-ritual-is-deep-indeed
 ---
 
-# The Meaning of Ritual is Deep Indeed
-
-### Xunzi
-
-[[2014]] / [[commonplace]] / [[Google Books]]
+[[2014]] • [[commonplace]] • [[Xunzi]] • [[Google Books]]
 
 "The meaning of ritual is deep indeed.
 

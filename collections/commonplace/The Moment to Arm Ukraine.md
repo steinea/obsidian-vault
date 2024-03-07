@@ -9,10 +9,6 @@ date: 2015-02-04
 permalink: 2015/02/04/adam-chandler-the-moment-to-arm-ukraine
 ---
 
-# The Moment to Arm Ukraine?
-
-### Adam Chandler
-
-[[2015]] / [[commonplace]] / [[The Atlantic]]
+[[2015]] • [[commonplace]] • [[Adam Chandler]] • [[The Atlantic]]
 
 "For his part, Ukrainian President Petro Poroshenko also addressed a session of Congress in September during which he practically begged the United States to provide weapons, stressing that 'blankets, night-vision goggles are also important. … But one cannot win the war with blankets. Even more, we cannot keep the peace with a blanket. ... In Ukraine, you don’t build a democracy. It already exists. You just defend it.'"

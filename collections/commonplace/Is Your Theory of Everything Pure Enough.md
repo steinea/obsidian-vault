@@ -9,11 +9,7 @@ date: 2015-02-19
 permalink: 2015/02/19/michael-segal-is-your-theory-of-everything-pure-enough
 ---
 
-# Is Your Theory of Everything Pure Enough?
-
-### Michael Segal
-
-[[2015]] / [[commonplace]] / [[Nautilus]]
+[[2015]] • [[commonplace]] • [[Michael Segal]] • [[Nautilus]]
 
 "Let’s play a game. You get a box with two compartments and one ball. The ball could be in either compartment with equal probability, and my job is to guess which one. Ok, it’s not the most exciting game, but at least it’s fair. My odds are 50/50. But suppose I know that your box was produced in a factory where a conveyor belt brought boxes to a cannon, which shot balls into one compartment or another depending on a coin toss. The coin toss was done once a day, and all the boxes produced on the same day have the ball in the same compartment. If I managed to get a box that was produced on the same day as yours, I would be able to win the game with certainty. So much for being fair. The lesson is clear: Whether or not our game is fair depends on whether or not the ball in your box is correlated with some other system in my possession. In order to be sure that I don’t cheat, you need to collect all the systems that are correlated with your box and keep them safely in your control. But how can you be confident that you’ve collected all of them? The strongest guarantee is that your systems are in what physicists call a “pure state,” which means that nothing else can be correlated with it, and that you have maximal knowledge of your systems. A “mixed state,” on the other hand, gives you only partial knowledge, and some essential information can hide elsewhere. And just like that, we have come to an idea at the heart of quantum mechanics, called the Purification Principle. It states that if one takes into consideration a sufficient number of systems, it is always possible to find a level of description where all systems are in a pure state. The Purification Principle is a sieve that separates physical theories that can aspire to fundamental status, from those that are merely effective. After all, fundamental theories of nature should describe phenomena in a self-contained way, making predictions that cannot be altered by the presence of information hiding elsewhere."
  

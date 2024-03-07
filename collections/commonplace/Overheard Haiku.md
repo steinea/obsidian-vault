@@ -9,11 +9,7 @@ date: 2014-11-27
 permalink: 2014/11/27/damion-searls-overheard-haiku
 ---
 
-# Overheard Haiku
-
-### Damion Searls
-
-[[2014]] / [[commonplace]] / [[The Paris Review]]
+[[2014]] • [[commonplace]] • [[Damion Searls]] • [[The Paris Review]]
 
 “The problem is in
 <br>this country people believe

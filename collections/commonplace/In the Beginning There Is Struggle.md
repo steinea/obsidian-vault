@@ -9,11 +9,7 @@ date: 2013-07-09
 permalink: 2013/07/09/amma-syncletica-in-the-beginning-there-is-struggle 
 ---
 
-# In the Beginning There Is Struggle 
-
-### Amma Syncletica
-
-[[2013]] / [[commonplace]] / [[Monachos]]
+[[2013]] • [[commonplace]] • [[Amma Syncletica]] • [[Monachos]]
 
 “Amma Syncletica said: In the beginning there is struggle and a lot of work for those who come near to God. But after that there is indescribable joy. It is just like building a fire: at first it is smoky and your eyes water, but later you get the desired result. Thus we ought to light the divine fire in ourselves with tears and effort.
 

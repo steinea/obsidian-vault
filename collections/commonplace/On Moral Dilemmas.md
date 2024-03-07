@@ -9,11 +9,7 @@ date: 2014-09-28
 permalink: 2014/09/28/lilian-alweiss-on-moral-dilemmas
 ---
 
-# On Moral Dilemmas
-
-### Lilian Alweiss
-
-[[2014]] / [[commonplace]] / [[Philosophy]] / [[Billy Budd, Sailor]]
+[[2014]] • [[commonplace]] • [[Lilian Alweiss]] • [[Philosophy]] / [[Billy Budd, Sailor]]
 
 “moral issues seem particular, subjective, context dependent, and not open to generalizations” (205). 
 "moral theoryfails to express what truly matters to us” (206).

@@ -9,11 +9,7 @@ date: 2015-01-12
 permalink: 2015/01/12/lia-purpura-the-shiver-of-nothing
 ---
 
-# The Shiver of Noticing
-
-### Lia Purpura
-
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Lia Purpura]] • [[The New Yorker]] 
 
 Most coincidents are not
 <br>miraculous, but way more

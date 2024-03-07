@@ -9,11 +9,7 @@ date: 2015-03-08
 permalink: 2015/03/08/isaiah-my-thoughts-are-not-your-thoughts
 ---
 
-# My Thoughts Are Not Your Thoughts
-
-### Isaiah
-
-[[2015]] / [[commonplace]] / [[Bible]]
+[[2015]] • [[commonplace]] • [[Isaiah]] • [[Bible]]
 
 For my thoughts are not your thoughts, neither are your ways my ways, declares the LORD. For as the heavens are higher than the earth, so are my ways higher than your ways and my thoughts than your thoughts. 
 

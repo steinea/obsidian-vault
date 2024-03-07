@@ -9,11 +9,7 @@ date: 2014-12-15
 permalink: 2014/12/15/nicholas-st-fleur-what-are-we-searching-for-on-mars 
 ---
 
-# What Are We Searching for on Mars?
-
-### Nicholas St. Fleur
-
-[[2014]] / [[commonplace]] / [[The Atlantic]]
+[[2014]] • [[commonplace]] • [[Nicholas St. Fleur]] • [[The Atlantic]]
 
 Martians terrified me growing up. I remember watching the 1996 movie Mars Attacks! and fearing that the Red Planet harbored hostile alien neighbors. Though I was only six at the time, I was convinced life on Mars meant little green men wielding vaporizer guns. There was a time, not so long ago, when such an assumption about Mars wouldn’t have seemed so far-fetched.
 

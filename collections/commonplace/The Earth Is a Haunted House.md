@@ -9,11 +9,7 @@ date: 2022-12-15
 permalink: 2022/12/15/stephanie-feldman-andy-davidson-the-earth-is-a-haunted-house
 ---
 
-# The Earth Is a Haunted House
-
-### Stephanie Feldman and Andy Davidson
-
-[[2022]] / [[commonplace]] / [[Los Angeles Review of Books]]
+[[2022]] • [[commonplace]] • [[Stephanie Feldman]] • [[Andy Davidson]] • [[Los Angeles Review of Books]]
 
 "Tom Hilliard has observed that the first American literature was gothic literature, rooted in a Puritan fear of unfamiliar wilderness, and Bernice Murphy argues that contemporary American narratives are haunted by the “wilderness-that-was” — persistent fears about the landscape, however changed it may be"
 

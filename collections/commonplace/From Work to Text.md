@@ -9,11 +9,7 @@ date: 2014-10-07
 permalink: 2014/10/07/roland-barthes-from-work-to-text
 ---
 
-# From Work to Text
-
-### Roland Barthes
-
-[[2014]] / [[commonplace]] / [[Critical Theory]]
+[[2014]] • [[commonplace]] • [[Roland Barthes]] • [[Critical Theory]]
 
 1. “The Text is not to be thought of as an object that can be computed" 
 

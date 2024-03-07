@@ -9,11 +9,7 @@ date: 2014-05-22
 permalink: 2014/05/22/adam-gopnik-word-magic 
 ---
 
-# Word Magic
-
-### Adam Gopnik
-
-[[2014]] / [[commonplace]] / [[The New Yorker]]
+[[2014]] • [[commonplace]] • [[Adam Gopnik]] • [[The New Yorker]]
 
 “A truly untranslatable word, it seems, may be the sign of an unsustainable concept.”
 

@@ -9,10 +9,6 @@ date: 2014-10-09
 permalink: 2014/10/09/john-luther-adams-noise
 ---
 
-# The Enveloping Presence of Elemental Noise
-
-### John Luther Adams 
-
-[[2014]] / [[commonplace]] / [[Strange and Sacred Noise]]
+[[2014]] • [[commonplace]] • [[John Luther Adams]] • [[Strange and Sacred Noise]]
 
 "Immersed in the enveloping presence of elemental noise, in the fullness of the present moment, we just may begin to hear, with the whole of the self, something of the inaudible totality of sound."

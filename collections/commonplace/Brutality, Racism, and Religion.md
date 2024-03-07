@@ -9,11 +9,7 @@ date: 2015-02-06
 permalink: 2015/02/06/ta-nehisi-coates-brutality-racism-and-religion
 ---
 
-# Brutality, Racism, and Religion
-
-### Ta-Nehisi Coates
-
-[[2015]] / [[commonplace]] / [[The Atlantic]]
+[[2015]] • [[commonplace]] • [[Ta-Nehisi Coates]] • [[The Atlantic]]
 
 "Christianity did not "cause" slavery, anymore than Christianity "caused" the Civil Rights movement. The interest in power is almost always accompanied by the need to sanctify that power. That is what the Muslims terrorists in ISIS are seeking to do today, and that is what Christian enslavers and Christian terrorists did for the lion's share of American history."
  

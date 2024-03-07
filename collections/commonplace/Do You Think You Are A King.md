@@ -9,11 +9,7 @@ date: 2015-03-21
 permalink: 2015/03/21/jeremiah-do-you-think-you-are-a-king
 ---
 
-# Do You Think You Are A King?
-
-### Jeremiah
-
-[[2015]] / [[commonplace]] / [[Bible]]
+[[2015]] • [[commonplace]] • [[Jeremiah]] • [[Bible]]
 
 "Do you think you are a king because you compete in cedar? Did not your father eat and drink and do justice and righteousness? Then it was well with him. He judged the cause of the poor and needy; then it was well. Is not this to know me?"
 

@@ -9,11 +9,7 @@ date: 2022-12-17
 permalink: 2022/12/17/eric-francisco-technical-wizardry-and-pulp-imagination
 ---
 
-# Technical Wizardry and Pulp Imagination
-
-### Eric Francisco
-
-[[2022]] / [[commonplace]] / [[Inverse]]
+[[2022]] • [[commonplace]] • [[Eric Francisco]] • [[Inverse]]
 
 "there’s something unique in its symbiosis of technical wizardry and dreamlike, pulp-inspired imagination that underpins every minute of this three-hour-plus runtime. Its length never feels like a marathon but a scenic endurance hike of natural pauses and the drama of steep elevation"
 

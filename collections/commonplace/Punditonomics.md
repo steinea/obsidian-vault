@@ -9,10 +9,6 @@ date: 2014-03-31
 permalink: 2014/03/31/james-surowiecki-punditonomics
 ---
 
-# Punditonomics
-
-### James Surowiecki
-
-[[2014]] / [[commonplace]] / [[The New Yorker]]
+[[2014]] • [[commonplace]] • [[James Surowiecki]] • [[The New Yorker]]
 
 “To make a splash as a seer, in other words, you have to heed a simple rule: fortune favors the bold.”

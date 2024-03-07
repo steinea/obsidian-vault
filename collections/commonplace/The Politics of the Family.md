@@ -9,11 +9,7 @@ date: 2015-03-04
 permalink: 2015/03/04/fred-wah-the-politics-of-the-family
 ---
 
-# The Politics of the Family
-
-### Fred Wah
-
-[[2015]] / [[commonplace]] / [[Diamond Grill]]
+[[2015]] • [[commonplace]] • [[Fred Wah]] • [[Diamond Grill]]
 
 "We would rather be anywhere, as long as we are somewhere. We would rather be anyone, as long as we are someone."
 

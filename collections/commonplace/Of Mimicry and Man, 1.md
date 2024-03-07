@@ -9,11 +9,7 @@ date: 2014-11-08
 permalink: 2014/11/08/homi-k-bhabha-of-mimicry-and-man-1
 ---
 
-# Of Mimicry and Man, 1
-
-### Homi K. Bhabha
-
-[[2014]] / [[commonplace]] / [[Critical Theory]]
+[[2014]] • [[commonplace]] • [[Homi K. Bhabha]] • [[Critical Theory]]
 
 If colonialism takes power in the name of history, it repeatedly exercises its authority through the figures of farce (669).
 

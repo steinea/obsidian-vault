@@ -9,11 +9,7 @@ date: 2014-08-28
 permalink: 2014/08/28/rebecca-mead-the-troll-slayer
 ---
 
-# The Troll Slayer
-
-### Rebecca Mead
-
-[[2014]] / [[commonplace]] / [[The New Yorker]]
+[[2014]] • [[commonplace]] • [[Rebecca Mead]] • [[The New Yorker]]
 
 1. a Twitter account, @AvoidComments, which issues monitory statements: “You wouldn’t listen to someone named Bonerman26 in real life. Don’t read the comments.” Beard argues, instead, that comments sections expose attitudes that have long remained concealed in places like locker rooms and bars. Bonerman26 exists; his vileness should be contended with.
 

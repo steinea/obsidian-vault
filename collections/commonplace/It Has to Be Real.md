@@ -9,11 +9,7 @@ date: 2022-11-24
 permalink: 2022/11/24/tony-gilroy-it-has-to-be-real
 ---
 
-# It Has to Be Real
-
-### Tony Gilroy
-
-[[2022]] / [[commonplace]] / [[Vulture]]
+[[2022]] • [[commonplace]] • [[Tony Gilroy]] • [[Vulture]]
 
 "the projects align with his belief that human behavior 'is more powerful than anything people design, and more powerful than any political system' — even the Galactic Empire"
 

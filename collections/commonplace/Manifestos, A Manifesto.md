@@ -9,11 +9,7 @@ date: 2014-06-24
 permalink: 2014/06/24/julian-hanna-manifesto-a-manifesto
 ---
 
-# Manifestos: A Manifesto
-
-### Julian Hanna
-
-[[2014]] / [[commonplace]] / [[The Atlantic]]
+[[2014]] • [[commonplace]] • [[Julian Hanna]] • [[The Atlantic]]
 
 Better, obviously, is something like this: “A Short Manifesto” (1964) by the Dutch conceptual artist Stanley Brouwn. It ends with a vision of the future, in 4,000 AD:
 

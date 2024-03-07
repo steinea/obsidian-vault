@@ -9,11 +9,7 @@ date: 2015-02-26
 permalink: 2015/02/26/yanis-varoufakis-how-i-became-an-erratic-marxist
 ---
 
-# How I Became an Erratic Marxist
-
-### Yanis Varoufakis
-
-[[2015]] / [[commonplace]] / [[The Guardian]]
+[[2015]] • [[commonplace]] • [[Yanis Varoufakis]] • [[The Guardian]]
 
 "My view on this dilemma has always been that the powers that be are never perturbed by theories that embark from assumptions different to their own. The only thing that can destabilise and genuinely challenge mainstream, neoclassical economists is the demonstration of the internal inconsistency of their own models."
 

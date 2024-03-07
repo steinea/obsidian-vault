@@ -9,11 +9,7 @@ date: 2014-04-28
 permalink: 2014/04/28/daniel-bosch-on-epitaphic-fictions
 ---
 
-# On Epitaphic Fictions
-
-### Daniel Bosch
-
-[[2014]] / [[commonplace]] / [[The Paris Review]]
+[[2014]] • [[commonplace]] • [[Daniel Bosch]] • [[The Paris Review]]
 
 Witness this epitaph in the collection of the Yale Library, from an autograph manuscript composed circa 1728:
 

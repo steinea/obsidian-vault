@@ -9,11 +9,7 @@ date: 2014-09-22
 permalink: 2014/09/22/t-s-eliot-tradition-and-the-individual-talent
 ---
 
-# Tradition and the Individual Talent
-
-### T. S. Eliot
-
-[[2014]] / [[commonplace]] / [[The Norton Anthology of Theory and Criticism]]
+[[2014]] • [[commonplace]] • [[T. S. Eliot]] • [[The Norton Anthology of Theory and Criticism]]
 
 "the historical sense involves a perception, not only of the pastness of the past, but of its presence [....] This historical sense, which is a sense of the timeless as well as of the temporal and of the timeless and the temporal together, is what makes a writer traditional" (467).
 

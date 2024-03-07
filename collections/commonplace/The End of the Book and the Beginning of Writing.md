@@ -9,11 +9,7 @@ date: 2014-10-07
 permalink: 2014/10/07/jacques-derrida-the-end-of-the-book-and-the-beginning-of-writing
 ---
 
-# The End of the Book and the Beginning of Writing
-
-### Jacques Derrida
-
-[[2014]] / [[commonplace]] / [[Of Grammatology]]
+[[2014]] • [[commonplace]] • [[Jacques Derrida]] • [[Of Grammatology]]
 
 “the Western concept of language . . . opposition of speech [parole] and language [langue]” (99).
 

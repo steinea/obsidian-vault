@@ -9,11 +9,7 @@ date: 2022-12-18
 permalink: 2022/12/18/j-d-connor-the-funnel-and-the-horn
 ---
 
-# The Funnel and the Horn
-
-### J. D. Connor
-
-[[2022]] / [[commonplace]] / [[Los Angeles Review of Books]]
+[[2022]] • [[commonplace]] • [[J. D. Connor]] • [[Los Angeles Review of Books]]
 
 "By now, **Avatar**’s lack of cultural footprint is a given of pop-cultural criticism — a fact so basic that any commentator may be expected to offer a take on its strange absence. Its forgotten status is so taken for granted that **The** **Times** can rely on it as a news peg, or that actually knowing one’s way about the **Avatar** plot constitutes a kind of alt approach, as Patrick Monahan demonstrated in [this roundup in **GQ**](https://www.gq.com/story/can-you-remember-avatar)**.**"
 

@@ -9,11 +9,7 @@ date: 2022-11-12
 permalink: 2022/11/12/nicolas-oueijan-make-cognitive-maps-not-levels
 ---
 
-# Make Cognitive Maps, Not Levels
-
-### Nicolas Oueijan
-
-[[2022]] / [[commonplace]] / [[Game Developers Conference]]
+[[2022]] • [[commonplace]] • [[Nicolas Oueijan]] • [[Game Developers Conference]]
 
 How to understand our cognitive map: <em>The Image of the City</em> by Kevin Lynch
 

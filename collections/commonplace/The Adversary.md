@@ -9,11 +9,7 @@ date: 2014-05-23
 permalink: 2014/05/23/robin-wright-the-adversary
 ---
 
-# The Adversary
-
-### Robin Wright
-
-[[2014]] / [[commonplace]] / [[The New Yorker]]
+[[2014]] • [[commonplace]] • [[Robin Wright]] • [[The New Yorker]]
 
 “Tehran will ultimately have to decide, Kissinger has noted, whether the Islamic Republic is a country or a cause.”
 

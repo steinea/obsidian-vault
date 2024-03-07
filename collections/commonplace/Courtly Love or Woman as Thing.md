@@ -9,11 +9,7 @@ date: 2014-11-14
 permalink: 2014/11/14/slavoj-zizek-courtly-loveor-woman-as-thing
 ---
 
-# Courtly Love or Woman as Thing
-
-### Slavoj Žižek
-
-[[2014]] / [[commonplace]] / [[The Norton Anthology of Theory and Criticism]]
+[[2014]] • [[commonplace]] • [[Slavoj Zizek]] • [[The Norton Anthology of Theory and Criticism]]
 
 “the logic of courtly love still defines the parameters within which the two sexes relate to each other” (1181, my emphasis). 
 

@@ -9,10 +9,6 @@ date: 2014-07-25
 permalink: 2014/07/25/alastair-bonnett-off-the-map
 ---
 
-# Off the Map
-
-### Alastair Bonnett
-
-[[2014]] / [[commonplace]] / [[Google Books]]
+[[2014]] • [[commonplace]] • [[Alastair Bonnett]] • [[Google Books]]
 
 “Place is the fabric of our lives; memory and identity are stitched through it. Without having somewhere of one’s own, a place that is home, freedom is an empty word."

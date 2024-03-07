@@ -9,11 +9,7 @@ date: 2022-10-12
 permalink: 2022/10/12/isaac-asimov-foundation-universe
 ---
 
-# Foundation Universe
-
-### Isaac Asimov
-
-[[2022]] / [[commonplace]] / [[Wikipedia]]
+[[2022]] • [[commonplace]] • [[Isaac Asimov]] • [[Wikipedia]]
 
 #### Robot
 

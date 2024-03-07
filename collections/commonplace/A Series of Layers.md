@@ -9,11 +9,7 @@ date: 2015-01-31
 permalink: 2015/01/31/william-james-a-series-of-layers
 ---
 
-# A Series of Layers
-
-### William James
-
-[[2015]] / [[commonplace]] / [[The Varieties of Religious Experience]] 
+[[2015]] • [[commonplace]] • [[William James]] • [[The Varieties of Religious Experience]] 
 
 "in these inner alterations one may find one unsuspected depth below another, as if the possibilities of character lay disposed in a series of layers or shells, of whose existence we have no premonitory knowledge."
 

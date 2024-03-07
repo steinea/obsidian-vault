@@ -9,11 +9,7 @@ date: 2014-09-03
 permalink: 2014/09/03/aristotle-the-capacity-to-produce-an-imitation
 ---
 
-# The Capacity to Produce an Imitation
-
-### Aristotle
-
-[[2014]] / [[commonplace]] / [[The Norton Anthology of Theory and Criticism]]
+[[2014]] • [[commonplace]] • [[Aristotle]] • [[The Norton Anthology of Theory and Criticism]]
 
 *From the commentary:*
 

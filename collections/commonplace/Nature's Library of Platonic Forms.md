@@ -9,11 +9,7 @@ date: 2015-03-17
 permalink: 2015/03/17/andreas-wagner-natures-library-of-platonic-forms
 ---
 
-# Nature's Library of Platonic Forms
-
-### Andreas Wagner
-
-[[2015]] / [[commonplace]] / [[Aeon]]
+[[2015]] • [[commonplace]] • [[Andreas Wagner]] • [[Aeon]]
 
 "The botanist Hugo de Vries said it best in 1905: ‘Natural selection can explain the survival of the fittest, but it cannot explain the arrival of the fittest.’ (Half a century earlier, Darwin had already admitted that calling variations random is just another way of admitting that we don’t know their origins.)"
 

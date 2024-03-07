@@ -9,11 +9,7 @@ date: 2014-10-20
 permalink: 2014/10/20/ana-ristovic-snow-in-your-shoes
 ---
 
-# Snow In Your Shoes
-
-### Ana Ristovic
-
-[[2014]] / [[commonplace]] / [[The New Yorker]]
+[[2014]] • [[commonplace]] • [[Ana Ristovic]] • [[The New Yorker]]
 
 Cutlery does not a home make
 <br>though an extra spoon

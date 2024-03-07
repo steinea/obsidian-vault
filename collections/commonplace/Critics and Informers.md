@@ -9,10 +9,6 @@ date: 2015-02-10
 permalink: 2015/02/10/gustave-flaubert-critics-and-informers
 ---
 
-# Critics and Informers
-
-### Gustave Flaubert
-
-[[2015]] / [[commonplace]] / [[The Letters of Gustave Flaubert, 1857-1880]]
+[[2015]] • [[commonplace]] • [[Gustave Flaubert]] • [[The Letters of Gustave Flaubert, 1857-1880]]
 
 "One becomes a critic when one cannot be an artist, just as a man becomes a stool pigeon when he cannot be a soldier."

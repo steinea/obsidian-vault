@@ -9,11 +9,7 @@ date: 2015-03-03
 permalink: 2015/03/03/fernando-pessoa-born-before-the-stars
 ---
 
-# Born Before the Stars
-
-### Fernando Pessoa
-
-[[2015]] / [[commonplace]] / [[35 Sonnets]]
+[[2015]] • [[commonplace]] • [[Fernando Pessoa]] • [[35 Sonnets]]
 
 XXIV. 
 

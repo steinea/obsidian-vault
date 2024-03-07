@@ -9,11 +9,7 @@ date: 2013-01-10
 permalink: 2013/01/10/john-r-searle-can-information-theory-explain-consciousness
 ---
 
-# Can Information Theory Explain Consciousness?
-
-### John R. Searle
-
-[[2013]] / [[commonplace]] / [[New York Review of Books]]
+[[2013]] • [[commonplace]] • [[John R. Searle]] • [[New York Review of Books]]
 
 “The problem of consciousness remains with us. What exactly is it and why is it still with us? The single most important question is: How exactly do neurobiological processes in the brain cause human and animal consciousness? Related problems are: How exactly is consciousness realized in the brain? That is, where is it and how does it exist in the brain? Also, how does it function causally in our behavior?”
 

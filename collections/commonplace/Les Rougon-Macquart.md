@@ -9,11 +9,7 @@ date: 2022-09-23
 permalink: 2022/09/23/emile-zola-les-rougon-macquart
 ---
 
-# Les Rougon-Macquart
-
-### Émile Zola
-
-[[2022]] / [[commonplace]] / [[Wikipedia]]
+[[2022]] • [[commonplace]] • [[Émile Zola]] • [[Wikipedia]]
 
 "*Les Rougon-Macquart* is the collective title given to a cycle of twenty novels by French writer Émile Zola. Subtitled *Histoire naturelle et sociale d'une famille sous le Second Empire* (*Natural and social history of a family under the Second Empire*), it follows the lives of the members of the two titular branches of a fictional family living during the Second French Empire (1852–1870) and is one of the most prominent works of the French naturalism literary movement."
 

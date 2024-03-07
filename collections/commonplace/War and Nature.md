@@ -9,11 +9,7 @@ date: 2015-01-27
 permalink: 2015/01/27/thomas-hobbes-war-and-nature
 ---
 
-# War and Nature
-
-### Thomas Hobbes
-
-[[2015]] / [[commonplace]] / [[Leviathan]]
+[[2015]] • [[commonplace]] • [[Thomas Hobbes]] • [[Leviathan]]
 
 "if any two men desire the same thing, which nevertheless they cannot both enjoy, they become enemies; and in the way to their end (which is principally their own conservation, and sometimes their delectation only) endeavour to destroy or subdue one another."
 

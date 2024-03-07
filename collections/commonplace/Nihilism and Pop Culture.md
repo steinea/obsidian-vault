@@ -9,10 +9,6 @@ date: 2014-09-18
 permalink: 2014/09/18/simon-critchley-nihilism-and-pop-culture
 ---
 
-# Nihilism and Pop Culture
-
-### Simon Critchley
-
-[[2014]] / [[commonplace]] / [[Radiolab]]
+[[2014]] • [[commonplace]] • [[Simon Critchley]] • [[Radiolab]]
 
 "why we love nihilism in pop culture is that it saves us having to be burdened with it"

@@ -9,11 +9,7 @@ date: 2015-01-12
 permalink: 2015/01/12/ellen-bass-reincarnation
 ---
 
-# Reincarnation
-
-### Ellen Bass
-
-[[2015]] / [[commonplace]] / [[The New Yorker]]
+[[2015]] • [[commonplace]] • [[Ellen Bass]] • [[The New Yorker]]
 
 Who would believe in reincarnation
 <br>if she thought she would return as

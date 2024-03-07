@@ -9,11 +9,7 @@ date: 2014-09-10
 permalink: 2014/09/10/dante-letter-to-can-grande
 ---
 
-# Letter to Can Grande
-
-### Dante
-
-[[2014]] / [[commonplace]] / [[Georgetown]]
+[[2014]] • [[commonplace]] • [[Dante]] • [[Georgetown]]
 
 "the truth about a thing, which consists in truth as in the subject, is the perfect image of the thing as it is" (par 5).
 

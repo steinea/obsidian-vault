@@ -9,11 +9,7 @@ date: 2014-09-06
 permalink: 2014/09/06/michel-foucault-las-meninas
 ---
 
-# Las Meninas
-
-### Michel Foucault
-
-[[2014]] / [[commonplace]] / [[The Norton Anthology of Theory and Criticism]]
+[[2014]] • [[commonplace]] • [[Michel Foucault]] • [[The Norton Anthology of Theory and Criticism]]
 
 "we are looking at a picture in which the painter is in turn looking out at us" but the "painter is turning his eyes towards us only in so far as we happen to occupy the same position as his subject. We, the spectators, are an additional factor. Though greeted by that gaze, we are also dismissed by it, replaced by that which was always there before we were: the model itself."
 

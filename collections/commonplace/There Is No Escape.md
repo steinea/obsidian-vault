@@ -9,11 +9,7 @@ date: 2022-12-19
 permalink: 2022/12/19/vivian-lam-there-is-no-escape
 ---
 
-# There Is No Escape
-
-### Vivian Lam
-
-[[2022]] / [[commonplace]] / [[Los Angeles Review of Books]]
+[[2022]] • [[commonplace]] • [[Vivian Lam]] • [[Los Angeles Review of Books]]
 
 "it’s no surprise that a game about repeatedly attempting to escape from a violent, labyrinthine hell from which there is no escape (as [one fan noted](https://archive.ph/m9JPh)) continues to strike a chord for many."
 

@@ -9,11 +9,7 @@ date: 2022-12-15
 permalink: 2022/12/15/anarcho-solarpunk-open-source-societies
 ---
 
-# Open Source Societies
-
-### Anarcho Solarpunk
-
-[[2022]] / [[commonplace]] / [[Anarcho Solarpunk]]
+[[2022]] • [[commonplace]] • [[Anarcho Solarpunk]]
 
 "how computer science (and technology in general), solarpunk, and democratic confederalism go well together"
 

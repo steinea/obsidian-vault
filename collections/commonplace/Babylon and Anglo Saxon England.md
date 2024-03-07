@@ -9,11 +9,7 @@ date: 2014-11-09
 permalink: 2014/11/09/andrew-scheil-babylon-and-anglo-saxon-england
 ---
 
-# Babylon and Anglo Saxon England
-
-### Andrew Scheil
-
-[[2014]] / [[commonplace]] / [[Studies in the Literary Imagination]]
+[[2014]] • [[commonplace]] • [[Andrew Scheil]] • [[Studies in the Literary Imagination]]
 
 "Taken as a whole, as a web of narratives and images, Babylon incorporates a number of subsidiary allusions—
 

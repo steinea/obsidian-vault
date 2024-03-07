@@ -9,11 +9,7 @@ date: 2022-11-10
 permalink: 2022/11/10/william-gibson-the-jackpot
 ---
 
-# The Jackpot
-
-### William Gibson
-
-[[2022]] / [[commonplace]] / [[The Peripheral]]
+[[2022]] • [[commonplace]] • [[William Gibson]] • [[The Peripheral]]
 
 The Jackpot: power grid failure, pandemic, environmental catastrophe, agricultural collapse, population collapse, nuclear war.
 

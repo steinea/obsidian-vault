@@ -9,11 +9,7 @@ date: 2014-11-10
 permalink: 2014/11/10/kathryn-powell-orientalist-fantasy
 ---
 
-# Orientalist Fantasy
-
-### Kathryn Powell
-
-[[2014]] / [[commonplace]] / [[Anglo-Saxon England]]
+[[2014]] • [[commonplace]] • [[Kathryn Powell]] • [[Anglo-Saxon England]]
 
 the fantasy of the East that informs the Solomon and Saturn poems seems to respond to anxieties about a symbolic lack, particularly anxieties about the symbolic identity of the English people (119). 
 

@@ -9,11 +9,7 @@ date: 2013-09-29
 permalink: 2013/09/29/immanuel-kant-what-is-enlightenment
 ---
 
-# What Is Enlightenment?
-
-### Immanuel Kant
-
-[[2013]] / [[commonplace]] / [[Internet Modern History Sourcebook]]
+[[2013]] • [[commonplace]] • [[Immanuel Kant]] • [[Internet Modern History Sourcebook]]
 
 "If I have a book which understands for me, a pastor who has a conscience for me, a physician who decides my diet, and so forth, I need not trouble myself. I need not think, if I can only pay - others will easily undertake the irksome work for me."
 

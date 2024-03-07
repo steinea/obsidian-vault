@@ -9,11 +9,7 @@ date: 2015-02-21
 permalink: 2015/02/21/jon-lee-anderson-libya-new-strongman
 ---
 
-# Libya's New Strongman
-
-### Jon Lee Anderson
-
-[[2015]] / [[commonplace]] / [[The New Yorker]]
+[[2015]] • [[commonplace]] • [[Jon Lee Anderson]] • [[The New Yorker]]
 
 "Like many self-appointed saviors, Haftar spoke with a certain self-admiring fatalism."
  

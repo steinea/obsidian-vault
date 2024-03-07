@@ -9,10 +9,6 @@ date: 2013-04-13
 permalink: 2013/04/13/justin-priebe-knowledge-and-wisdom
 ---
 
-# Knowledge and Wisdom
-
-### Justin Priebe
-
-[[2013]] / [[commonplace]]
+[[2013]] • [[commonplace]] • [[Justin Priebe]]
 
 "Knowledge is power, but wisdom is armor."

@@ -9,11 +9,7 @@ date: 2014-09-06
 permalink: 2014/09/06/anonymous-maxims-precepts-rune-poems
 ---
 
-# Maxims, Precepts, Rune Poems
-
-### Anonymous
-
-[[2014]] / [[commonplace]] / [[The Medieval Period]]
+[[2014]] • [[commonplace]] • [[Anonymous]] • [[The Medieval Period]]
 
 In Maxims I-A there is an interesting dichotomy of “life, free will” as “loans” from God and the idea that “all mortals must meet their fate” (171). Both free will and predestination are held up beside each other as doctrines of equal merit and import.
 

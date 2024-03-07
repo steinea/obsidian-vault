@@ -9,11 +9,7 @@ date: 2013-08-01
 permalink: 2013/08/01/peter-andrey-smith-troubled-waters
 ---
 
-# Troubled Waters
-
-### Peter Andrey Smith
-
-[[2013]] / [[commonplace]] / [[The Walrus]]
+[[2013]] • [[commonplace]] • [[Peter Andrey Smith]] • [[The Walrus]]
 
 "'Ecology is not rocket science,' [Stephen Carpenter] writes. 'It is far more difficult.' To build a rocket entails a certain technical prowess and a society's worth of resources. To understand an ecosystem requires a patience and persistence similar to that of raising a child: both are autonomous beings, evolving, adapting--and actively not doing what you want." 
 

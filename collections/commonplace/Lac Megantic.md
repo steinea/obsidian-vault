@@ -9,10 +9,6 @@ date: 2014-06-08
 permalink: 2014/06/08/lorne-sossin-lac-megantic
 ---
 
-# Lac Megantic
-
-### Lorne Sossin
-
-[[2014]] / [[commonplace]] / [[The Walrus]]
+[[2014]] • [[commonplace]] • [[Lorne Sossin]] • [[The Walrus]]
 
 “Risk, in the end, is part of the human condition—the delicate and dynamic balance between how we shape our world and how we identify and react to forces over which we have little or no control.”

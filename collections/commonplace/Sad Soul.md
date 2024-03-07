@@ -9,10 +9,6 @@ date: 2014-05-23
 permalink: 2014/05/23/john-steinbeck-sad-soul
 ---
 
-# Sad Soul
-
-### John Steinbeck
-
-[[2014]] / [[commonplace]] / [[Travels with Charley in Search of America]]
+[[2014]] • [[commonplace]] • [[John Steinbeck]] • [[Travels with Charley in Search of America]]
 
 “A sad soul can kill you quicker, far quicker, than a germ.”

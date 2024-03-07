@@ -9,11 +9,7 @@ date: 2014-09-17
 permalink: 2014/09/17/david-hume-on-the-standard-of-taste
 ---
 
-# On the Standard of Taste
-
-### David Hume
-
-[[2014]] / [[commonplace]] / [[The Norton Anthology of Theory and Criticism]]
+[[2014]] • [[commonplace]] • [[David Hume]] • [[The Norton Anthology of Theory and Criticism]]
 
 "The sentiments of men often differ with regard to beauty and deformity of all kinds, even while their discourse is the same” (212). 
 

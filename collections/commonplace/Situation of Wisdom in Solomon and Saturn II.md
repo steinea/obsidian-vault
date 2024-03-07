@@ -9,11 +9,7 @@ date: 2014-11-10
 permalink: 2014/11/10/antonina-harbus-situation-of-wisdom-in-solomon-and-saturn-II
 ---
 
-# Situation of Wisdom in Solomon and Saturn II
-
-### Antonina Harbus
-
-[[2014]] / [[commonplace]] / [[Studia Neophilologica]]
+[[2014]] • [[commonplace]] • [[Antonina Harbus]] • [[Studia Neophilologica]]
 
 "the diction of this poem appears emphatically to locate wisdom within the mind of the human subject, and figuratively to situate an active engagement with wisdom in the course of a successful life" (97).
 

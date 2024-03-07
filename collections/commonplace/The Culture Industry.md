@@ -1,7 +1,7 @@
 ---
 layout: entry
 category: commonplace
-author: Max Horkheimer and Theodore Adorno
+author: Max Horkheimer and Theodor Adorno
 title: The Culture Industry
 publication: Critical Theory
 link: https://global.oup.com/ushe/product/critical-theory-9780199797776
@@ -9,11 +9,7 @@ date: 2014-10-31
 permalink: 2014/10/31/max-horkheimer-theodore-adorno-the-culture-industry
 ---
 
-# The Culture Industry
-
-### Max Horkheimer and Theodore Adorno
-
-[[2014]] / [[commonplace]] / [[Critical Theory]]
+[[2014]] • [[commonplace]] • [[Max Horkheimer]] • [[Theodor Adorno]] • [[Critical Theory]]
 
 Culture today is infecting everything with sameness (416). 
 

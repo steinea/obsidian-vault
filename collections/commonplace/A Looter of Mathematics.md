@@ -9,11 +9,7 @@ date: 2022-12-26
 permalink: 2022/12/26/terence-blake-a-looter-of-mathematics
 ---
 
-# A Looter of Mathematics
-
-### Terence Blake
-
-[[2022]] / [[commonplace]] / [[Twitter]]
+[[2022]] • [[commonplace]] • [[Terence Blake]] • [[Twitter]]
 
 "Does Badiou maintain unchanged the repeated assertion in BEING AND EVENT (1988) that mathematics is ontology (M=O)? The answer is of course NO! as an examination of a very interesting overview by Badiou of the role of mathematics in his thought: <https://medias.ircam.fr/xa3a059>
 

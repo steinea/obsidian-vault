@@ -9,11 +9,7 @@ date: 2015-02-10
 permalink: 2015/02/10/michel-foucault-dispositif
 ---
 
-# Dispositif
-
-### Michel Foucault
-
-[[2015]] / [[commonplace]] / [[Wikipedia]]
+[[2015]] • [[commonplace]] • [[Michel Foucault]] • [[Wikipedia]]
 
 "Foucault uses the term in his 1977 'The Confession of the Flesh' interview, where he answers the question, 'What is the meaning or methodological function for you of this term, apparatus (dispositif)?' as follows:
 

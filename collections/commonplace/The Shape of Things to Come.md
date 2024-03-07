@@ -9,11 +9,7 @@ date: 2015-02-22
 permalink: 2015/02/22/ian-parker-the-shape-of-things-to-come
 ---
 
-# The Shape of Things to Come
-
-### Ian Parker
-
-[[2015]] / [[commonplace]] / [[The New Yorker]]
+[[2015]] • [[commonplace]] • [[Ian Parker]] • [[The New Yorker]]
 
 "Ive, wearing a royal-blue T-shirt, was affable, but there was little trace of English irony. “I think you can reserve that for entertainment,” he later said. “And not practice that professionally.” In our conversations, his manner could sometimes be unsettling for the way it combined the tender attentiveness of a suicide-prevention volunteer—“I was ever so lucky”; “I do hope you have a good flight”—with a keenness to move the conversation from the particular to the general; his replies, searching for the safe ground of a previously expressed thought, often looped and hedged, or drifted off into a sigh. At first attempt, Ive ran through the first twenty-five years of his life in sixty words; he told me which novel he was reading only after designating the answer off the record."
 

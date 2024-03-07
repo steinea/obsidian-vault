@@ -9,11 +9,7 @@ date: 2015-02-20
 permalink: 2015/02/20/andre-breton-the-verb-to-be
 ---
 
-# The Verb to Be
-
-### André Breton
-
-[[2015]] / [[commonplace]] / [[The Paris Review]]
+[[2015]] • [[commonplace]] • [[André Breton]] • [[The Paris Review]]
 
 André Breton’s poem “The Verb to Be” originally appeared in our Spring 1985 issue.
 

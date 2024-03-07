@@ -9,11 +9,7 @@ date: 2015-01-01
 permalink: 2015/01/01/raffi-khatchadourian-hemserim
 ---
 
-# Hemserim
-
-### Raffi Khatchadourian
-
-[[2015]] / [[commonplace]] / [[The New Yorker]]
+[[2015]] • [[commonplace]] • [[Raffi Khatchadourian]] • [[The New Yorker]]
 
 "hemşerim," "a person of this place" (Armenian)
 

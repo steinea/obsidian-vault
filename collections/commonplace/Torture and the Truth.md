@@ -9,10 +9,6 @@ date: 2014-12-18
 permalink: 2014/12/18/jane-meyer-torture-and-the-truth
 ---
 
-# Torture and the Truth
-
-### Jane Meyer
-
-[[2014]] / [[commonplace]] / [[The New Yorker]]
+[[2014]] • [[commonplace]] • [[Jane Meyer]] • [[The New Yorker]]
 
 “Nothing predicts future behavior as much as past impunity.” (Rejali qtd. in Meyer).
