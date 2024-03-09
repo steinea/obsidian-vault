@@ -2,7 +2,7 @@
 layout: entry
 category: commonplace
 author: Ferdinand de Saussure, Thomas Sebeok, Jakob von Uexkull, and Charles Sanders Peirce
-title: Semiotics
+title: On Semiotics
 publication: Wikipedia
 link: https://en.wikipedia.org/wiki/Semiotics
 date: 2015-06-20

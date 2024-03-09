@@ -2,7 +2,7 @@
 layout: entry
 category: commonplace
 author: Ester Bloom
-title: When Women’s Literary Tastes Are Deemed Less Worthy
+title: When Women's Literary Tastes Are Deemed Less Worthy
 publication: The Atlantic
 link: https://www.theatlantic.com/business/archive/2015/12/when-womens-literary-tastes-are-deemed-less-worthy/418050/
 date: 2015-12-02

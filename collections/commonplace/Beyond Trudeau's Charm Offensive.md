@@ -2,7 +2,7 @@
 layout: entry
 category: commonplace
 author: Dru Oja Jay
-title: Beyond Trudeau’s Charm Offensive
+title: Beyond Trudeau's Charm Offensive
 publication: Medium
 link: https://medium.com/@druojajay/beyond-trudeau-s-charm-offensive-a-social-movement-guide-to-cooptation-7141acbc74f3
 date: 2015-10-29

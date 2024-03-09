@@ -2,7 +2,7 @@
 layout: entry
 category: commonplace
 author: Steven Strogatz
-title: Einstein’s First Proof
+title: Einstein's First Proof
 publication: The New Yorker
 link: https://www.newyorker.com/tech/annals-of-technology/einsteins-first-proof-pythagorean-theorem
 date: 2015-11-30

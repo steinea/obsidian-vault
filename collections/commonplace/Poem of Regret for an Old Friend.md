@@ -11,6 +11,8 @@ permalink: 2015/12/31/meghan-orourke-poem-of-regret-for-an-old-friend
 
 [[2015]] • [[commonplace]] • [[Meghan O'Rourke]] • [[The New Yorker]]
 
+http://www.newyorker.com/magazine/2016/01/04/poem-of-regret-for-an-old-friend
+
 What you did wasn’t so bad.
 <br>You stood in a small room, waiting for the sun.
 <br>At least you told yourself that.

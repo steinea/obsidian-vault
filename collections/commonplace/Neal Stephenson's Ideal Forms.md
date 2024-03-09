@@ -2,7 +2,7 @@
 layout: entry
 category: commonplace
 author: Peter Berard
-title: Neal Stephenson’s Ideal Forms
+title: Neal Stephenson's Ideal Forms
 publication: Los Angeles Review of Books
 link: https://lareviewofbooks.org/article/neal-stephensons-ideal-forms/
 date: 2015-08-21

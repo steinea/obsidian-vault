@@ -2,7 +2,7 @@
 layout: entry
 category: commonplace
 author: Jeremy Glazier
-title: Un Coup d’Idées
+title: Un Coup d'Idées
 publication: Los Angeles Review of Books
 link: https://lareviewofbooks.org/article/un-coup-didees-a-new-translation-of-mallarmes-a-roll-of-the-dice/
 date: 2015-06-03

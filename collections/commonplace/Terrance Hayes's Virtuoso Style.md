@@ -2,7 +2,7 @@
 layout: entry
 category: commonplace
 author: Dan Chiasson
-title: Terrance Hayes’s Virtuoso Style
+title: Terrance Hayes's Virtuoso Style
 publication: The New Yorker
 link: https://www.newyorker.com/magazine/2015/05/11/sense-of-self
 date: 2015-05-08

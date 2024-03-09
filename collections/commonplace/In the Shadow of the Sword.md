@@ -9,7 +9,7 @@ date: 2015-07-10
 permalink: 2015/07/10/tom-holland-in-the-shadow-of-the-sword
 ---
 
-[[2015]] • [[commonplace]] • [[Tom Holland]] • [[In the Shadow of the Sword]] 
+[[2015]] • [[commonplace]] • [[Tom Holland]] • [[constellation/books/In the Shadow of the Sword]] 
 
 https://en.wikipedia.org/wiki/In_the_Shadow_of_the_Sword_(book)
 

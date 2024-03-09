@@ -2,7 +2,7 @@
 layout: entry
 category: commonplace
 author: Albert Atkin
-title: Peirce’s Theory of Signs
+title: Peirce's Theory of Signs
 publication: Stanford Encyclopedia of Philosophy
 link: https://plato.stanford.edu/entries/peirce-semiotics/
 date: 2015-11-25

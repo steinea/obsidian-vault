@@ -2,7 +2,7 @@
 layout: entry
 category: commonplace
 author: Patricia Pisters
-title: Deleuze’s Metallurgic Machines
+title: Deleuze's Metallurgic Machines
 publication: Los Angeles Review of Books
 link: https://lareviewofbooks.org/article/deleuzes-metallurgic-machines/
 date: 2015-11-09

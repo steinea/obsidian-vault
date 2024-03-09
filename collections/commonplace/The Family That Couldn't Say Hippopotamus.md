@@ -2,7 +2,7 @@
 layout: entry
 category: commonplace
 author: Elizabeth Svoboda
-title: The Family That Couldn’t Say Hippopotamus
+title: The Family That Couldn't Say Hippopotamus
 publication: Nautilus
 link: https://nautil.us/issue/24/error/the-family-that-couldnt-say-hippopotamus-rp
 date: 2015-05-09

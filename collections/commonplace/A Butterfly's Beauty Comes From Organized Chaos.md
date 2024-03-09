@@ -2,7 +2,7 @@
 layout: entry
 category: commonplace
 author: Brandon Keim
-title: A Butterfly’s Beauty Comes From Organized Chaos
+title: A Butterfly's Beauty Comes From Organized Chaos
 publication: Nautilus
 link: https://nautil.us/blog/a-butterflys-beauty-comes-from-organized-chaos
 date: 2015-07-22
