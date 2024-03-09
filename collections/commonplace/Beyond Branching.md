@@ -11,6 +11,8 @@ permalink: 2022/12/16/emily-short-beyond-branching
 
 [[2022]] • [[commonplace]] • [[Emily Short]] • [[Emily Short's Interactive Storytelling]]
 
+https://emshort.wordpress.com/2016/04/12/beyond-branching-quality-based-and-salience-based-narrative-structures/
+
 "[Quality-based narrative](https://emshort.wordpress.com/category/quality-based-narrative/) is the term invented by Failbetter Games to refer to [interactive narratives structured around storylets unlocked by qualities](http://www.failbettergames.com/tag/narrative-engineering/)."
 
 "A storylet is typically a paragraph or two of text followed by a choice for the user (each option is referred to as a branch in Failbetter parlance) and text describing the outcome of that choice"

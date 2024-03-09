@@ -11,6 +11,8 @@ permalink: 2015/03/17/andreas-wagner-natures-library-of-platonic-forms
 
 [[2015]] • [[commonplace]] • [[Andreas Wagner]] • [[Aeon]]
 
+https://web.archive.org/web/20150316203345/http://aeon.co/magazine/philosophy/natures-library-of-platonic-forms/
+
 "The botanist Hugo de Vries said it best in 1905: ‘Natural selection can explain the survival of the fittest, but it cannot explain the arrival of the fittest.’ (Half a century earlier, Darwin had already admitted that calling variations random is just another way of admitting that we don’t know their origins.)"
 
 "If you had to find a text on a specific subject in such a library – without a catalogue – you would get utterly lost. Worse than that, if missteps can be fatal, you would quickly die. Yet life not only survived, it found countless new meaningful texts in these libraries. Understanding how it did that requires us to build the catalogue that evolution lacks. It demands that we work out how these libraries are organised to comprehend how innovation through blind search is possible."

@@ -11,4 +11,6 @@ permalink: 2014/10/06/rowan-ricardo-phillips-measure-for-measure
 
 [[2014]] • [[commonplace]] • [[Rowan Ricardo Phillips]] • [[The New Yorker]]
 
+https://www.newyorker.com/magazine/2014/10/13/measure-measure
+
 "death measures us with a noun’s contempt / For our imagination" 

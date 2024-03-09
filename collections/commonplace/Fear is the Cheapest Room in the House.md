@@ -11,6 +11,8 @@ permalink: 2022/12/25/hafiz-fear-is-the-cheapest-room-in-the-house
 
 [[2022]] • [[commonplace]] • [[Hafiz]] • [[Poets United]]
 
+https://poetryblogroll.blogspot.com/2011/09/classic-poetry-your-mother-and-my.html
+
 Fear is the cheapest room in the house
 <br>I would like to see you living
 <br>In better conditions,

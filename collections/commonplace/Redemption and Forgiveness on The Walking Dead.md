@@ -11,6 +11,8 @@ permalink: 2015/03/30/lenika-cruz-david-sims-redemption-and-forgiveness-on-the-w
 
 [[2015]] • [[commonplace]] • [[Lenika Cruz]] • [[David Sims]] • [[The Atlantic]]
 
+https://www.theatlantic.com/entertainment/archive/2015/03/the-walking-dead-season-five-finale-conquer-review/388982/
+
 The show's fifth-season finale wisely chose story over the typical explosion of violence.
 
 Every week for the fifth season of AMC's post-apocalyptic drama The Walking Dead, Lenika Cruz and David Sims discussed the latest threat—human, zombie, or otherwise—to the show's increasingly hardened band of survivors.

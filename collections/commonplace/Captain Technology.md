@@ -11,6 +11,8 @@ permalink: 2022/12/17/jordan-hoffman-captain-technology
 
 [[2022]] • [[commonplace]] • [[Jordan Hoffman]] • [[Polygon]]
 
+https://www.polygon.com/reviews/23506051/avatar-2-way-water-review-james-cameron
+
 "many viewers will have a vexing experience if they see the picture in what’s considered the optimum format"
 
 "Jake and Neytiri’s family becomes a collective fish out of water, almost literally, moving in with an aquatic tribe of Na’vi and adapting to their aquatic lifestyle. This is where Cameron’s rich soak in his invented world is most fulfilling. There’s about an hour of just floatin’ around the local reef"

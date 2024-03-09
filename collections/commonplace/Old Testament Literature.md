@@ -11,6 +11,8 @@ permalink: 2014/09/21/malcolm-godden-old-testament-literature
 
 [[2014]] • [[commonplace]] • [[Malcolm Godden]] • [[The Cambridge Companion to Old English Literature]]
 
+https://www.cambridge.org/core/books/cambridge-companion-to-old-english-literature/47A7B94AF16CC0E995542B4035513E45
+
 "one of the major advantages which Christianity appeared to offer the heathen Anglo-Saxons was a coherent account of the world's beginning" (2).
 
 "The practice of interpreting Old Testament narratives as allegories probably goes back to pre-Christian Jewish tradition, but it was soon adopted by Christian theologians such as Origen and absorbed into the main stream of Christian tradition. Allegory was used to make the Old Testament safe for Christian readers or to make it consonant with the New Testament by discovering Christian doctrines such as the Trinity hidden within it" (2-3).

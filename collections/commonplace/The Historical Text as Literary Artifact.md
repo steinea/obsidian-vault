@@ -4,12 +4,14 @@ category: commonplace
 author: Hayden White
 title: The Historical Text as Literary Artifact
 publication: Critical Theory
-link: https://global.oup.com/ushe/product/critical-theory-9780199797776?cc=ca&lang=en&
+link: https://global.oup.com/ushe/product/critical-theory-9780199797776
 date: 2014-09-30
 permalink: 2014/09/30/hayden-white-the-historical-text-as-literary-artifact
 ---
 
 [[2014]] • [[commonplace]] • [[Hayden White]] • [[Critical Theory]]
+
+https://global.oup.com/ushe/product/critical-theory-9780199797776
 
 "histories gain . . . their explanatory effect by . . . making stories out of mere chronicles . . . stories in turn are made out of chronicles by an operation which I have elsewhere called "emplotment" . . . the encodation of the facts contained in the chronicle as components of specific kinds of plot structures" (479).
 

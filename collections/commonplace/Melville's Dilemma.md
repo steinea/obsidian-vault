@@ -11,6 +11,8 @@ permalink: 2014/10/16/lester-hunt-melvilles-dilemma
 
 [[2014]] • [[commonplace]] • [[Lester Hunt]] • [[Philosophy and Literature]] • [[Billy Budd, Sailor]]
 
+https://muse.jhu.edu/article/38861/pdf
+
 “Melville unflinchingly represents to us the moral horror of what Captain Vere does to Billy, and yet he also depicts Vere himself with a respect that borders on admiration” (273). 
 
 “Billy Budd is about the inescapably dilemmatic nature of certain choices” (273).

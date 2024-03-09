@@ -11,6 +11,8 @@ permalink: 2014/09/06/anonymous-maxims-precepts-rune-poems
 
 [[2014]] • [[commonplace]] • [[Anonymous]] • [[The Medieval Period]]
 
+https://broadviewpress.com/product/the-broadview-anthology-of-british-literature-the-medieval-period-third-edition/
+
 In Maxims I-A there is an interesting dichotomy of “life, free will” as “loans” from God and the idea that “all mortals must meet their fate” (171). Both free will and predestination are held up beside each other as doctrines of equal merit and import.
 
 In Maxims I-B the predetermined is again picked up: “Frost must freeze, fire melt wood,” big wheel keep on turning. The future is indomitable, implacable, unavoidable, unalterable, inevitable. Yet in reciting these lines the poet seems to gain solace. Yes frost must freeze and fire melt wood, but also the earth bears fruit, water will melt, and kind weather will come again (177).

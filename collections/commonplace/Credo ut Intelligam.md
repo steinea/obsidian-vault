@@ -11,4 +11,6 @@ permalink: 2013/07/02/anselm-credo-ut-intelligam
 
 [[2013]] • [[commonplace]] • [[Anselm of Canterbury]] • [[Internet Medieval Sourcebook]]
 
+https://sourcebooks.fordham.edu/basis/anselm-proslogium.asp
+
 Credo ut intelligam (Latin): I believe so that I may understand

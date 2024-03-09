@@ -11,6 +11,8 @@ permalink: 2015/03/03/fernando-pessoa-the-withdrawn-cause
 
 [[2015]] • [[commonplace]] • [[Fernando Pessoa]] • [[35 Sonnets]]
 
+https://en.wikisource.org/wiki/35_Sonnets
+
 XXIII.
 
 Even as upon a low and cloud-domed day,

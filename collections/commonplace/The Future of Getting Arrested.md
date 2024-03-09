@@ -11,6 +11,8 @@ permalink: 2015/02/05/leon-neyfakh-the-future-of-getting-arrested
 
 [[2015]] • [[commonplace]] • [[Leon Neyfakh]] • [[The Atlantic]]
 
+https://www.theatlantic.com/magazine/archive/2015/01/the-future-of-getting-arrested/383507/
+
 "A Brief History of Arrests 
 
 1862: The first adjustable handcuffs are patented. 

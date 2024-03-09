@@ -11,6 +11,8 @@ permalink: 2014/08/31/nic-pizzolatto-light-and-dark
 
 [[2014]] • [[commonplace]] • [[Nic Pizzolatto]] • [[True Detective]]
 
+https://www.imdb.com/title/tt2790254/
+
 Marty: “Talk to me, Rust.”
 
 Rust: “There was a moment, I know, when I was under in the dark, that something… whatever I’d been reduced to, not even consciousness, just a vague awareness in the dark. I could feel my definitions fading. And beneath that darkness there was another kind—it was deeper—warm, like a substance. I could feel man, I knew, I knew my daughter waited for me, there. So clear. I could feel her. I could feel … I could feel the peace of my Pop, too. It was like I was part of everything that I have ever loved, and we were all, the three of us, just fading out. And all I had to do was let go, man. And I did. I said, ‘Darkness, yeah.’ and I disappeared. But I could still feel her love there. Even more than before. Nothing. Nothing but that love. And then I woke up.”

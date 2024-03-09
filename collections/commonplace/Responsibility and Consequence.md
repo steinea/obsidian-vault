@@ -11,6 +11,8 @@ permalink: 2015/01/04/orson-scott-card-responsibility-and-consequence
 
 [[2015]] • [[commonplace]] • [[Orson Scott Card]] • [[Ender in Exile]]
 
+https://en.wikipedia.org/wiki/Ender_in_Exile
+
 "You are the man you have always been: one who takes responsibility, one who foresees consequences and acts to protect other and, yes, yourself. That man will not easily surrender a burden."
 
 Graff to Ender, Ender in Exile, p. 400

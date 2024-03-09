@@ -11,6 +11,8 @@ permalink: 2014/12/10/orson-scott-card-satyagraha
 
 [[2014]] • [[commonplace]] • [[Orson Scott Card]] • [[Shadow of the Hegemon]]
 
+https://en.wikipedia.org/wiki/Shadow_of_the_Hegemon
+
 "One bears what one must" 
 
 Petra, p. 400

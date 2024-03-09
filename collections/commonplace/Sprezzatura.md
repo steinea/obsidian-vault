@@ -11,6 +11,8 @@ permalink: 2014/07/25/caroline-moorhead-sprezzatura
 
 [[2014]] • [[commonplace]] • [[Caroline Moorehead]] • [[Times Literary Supplement]]
 
+https://www.the-tls.co.uk/
+
 "esprit, wit, with all its various nuances, somewhere between impertinence and adulation, designed above all to give pleasure to your riends." 
 
 "sprezzatura, the handling of the complexities of life with a light and nonchalant touch, a “studied carelessness”, was a much recommended Renaissance skill."

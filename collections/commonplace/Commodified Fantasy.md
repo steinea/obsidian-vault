@@ -11,6 +11,8 @@ permalink: 2022/12/23/ursula-k-le-guin-commodified-fantasy
 
 [[2022]] • [[commonplace]] • [[Ursula K. Le Guin]] • [[Tales from Earthsea]]
 
+https://www.ursulakleguin.com/tales-from-earthsea
+
 "All times are changing times, but ours is one of massive, rapid moral and mental transformation. Archetypes turn into millstones, large simplicities get complicated, chaos becomes elegant, and what everybody knows is true turns out to be what some people used to think.
 
 It’s unsettling. For all our delight in the impermanent, the entrancing flicker of electronics, we also long for the unalterable. We cherish the old stories for their changelessness. Arthur dreams eternally in Avalon. Bilbo can go “there and back again,” and “there” is always the beloved familiar Shire. Don Quixote sets out forever to kill a windmill . . . So people turn to the realms of fantasy for stability, ancient truths, immutable simplicities.

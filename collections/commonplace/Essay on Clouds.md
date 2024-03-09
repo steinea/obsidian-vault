@@ -11,6 +11,8 @@ permalink: 2015/01/26/james-richardson-essay-on-clouds
 
 [[2015]] • [[commonplace]] • [[James Richardson]] • [[The New Yorker]]
 
+https://www.newyorker.com/magazine/2015/02/02/essay-clouds
+
 Maybe a whale,
 <br>as Hamlet mused, or a camel or weasel,
 <br>more likely a hill,

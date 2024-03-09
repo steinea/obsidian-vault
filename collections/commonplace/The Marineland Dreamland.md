@@ -11,6 +11,8 @@ permalink: 2013/08/02/craig-davidson-the-marineland-dreamland
 
 [[2013]] • [[commonplace]] • [[Craig Davidson]] • [[The Walrus]]
 
+https://thewalrus.ca/the-marineland-dreamland/
+
 "This is the most dangerous element about memory. If it means enough to us, we can convince ourselves that almost anything happened." 
 
 "You know those hysterical giggles you get when a situation is so absurd, shocking, or terrifying that they're more a form of damage control? The laughter boils up your throat with a fizzy club soda effervescence, impossible to tamp down, intent on releasing the poison inside you."

@@ -11,6 +11,8 @@ permalink: 2023-12-28-thalia-williamson-the-extremely-long-paragraph
 
 [[2023]] • [[commonplace]] • [[Thalia Williamson]] • [[Los Angeles Review of Books]]
 
+https://dev.lareviewofbooks.org/article/technology-attention-and-the-extremely-long-paragraph/
+
 "Bernhard’s influence over the contemporary novel has followed a parabolic trajectory. He has gone from being a writers’ writer, a well-kept secret, to a writer whose influence is felt, even if indirectly, over a broad array of novels that have seen both sales and critical acclaim"
 
 "Bernhard acolytes include Geoff Dyer, Ben Marcus, Ben Lerner, Julie Otsuka, Tim Parks, Emily Hall, Jordan Castro, Mark Haber, László Krasznahorkai, Lucy Ellmann, Mauro Javier Cárdenas, Claudia Piñeiro, Jen Craig, and Adam Ehrlich Sachs"

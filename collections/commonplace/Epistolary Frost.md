@@ -11,6 +11,8 @@ permalink: 2014/08/01/david-bromwich-epistolary-frost
 
 [[2014]] • [[commonplace]] • [[David Bromwich]] • [[Times Literary Supplement]]
 
+https://www.the-tls.co.uk/
+
 "Frost’s early thoughts about poetry are indistinguishable from thoughts about himself" 
 
 "There is a pang that makes poetry. I rather like to gloat over it” —Frost to Ward

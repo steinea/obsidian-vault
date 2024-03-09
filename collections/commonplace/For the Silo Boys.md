@@ -11,6 +11,8 @@ permalink: 2014/10/20/andrew-grace-for-the-silo-boys
 
 [[2014]] • [[commonplace]] • [[Andrew Grace]] • [[The New Yorker]]
 
+https://www.newyorker.com/magazine/2014/10/27/silo-boys
+
 When the corn gave,
 <br> a boy was sucked to the bottom
 <br> of the cement silo whose walls

@@ -11,6 +11,8 @@ permalink: 2014/10/13/kevin-goddard-hanging-utopia
 
 [[2014]] • [[commonplace]] • [[Kevin Goddard]] • [[Arizona Quarterly]] • [[Billy Budd, Sailor]]
 
+https://muse.jhu.edu/article/444592
+
 The “New Israel” Melville proclaimed in White-Jacket “had failed” (102).  
 
 “The Pilgrim Fathers’ hope of the nation being the fulfilment of divine sanction, along with the doctrine of Manifest Destiny, underpin much of the exploration of nationalism and religion in Melville’s later works. . . . hope deferred” (102).

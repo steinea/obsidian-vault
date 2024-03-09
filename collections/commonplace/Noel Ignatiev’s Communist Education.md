@@ -11,6 +11,8 @@ permalink: 2022/12/15/dylan-davis-patrick-king-noel-ignatievs-communist-educatio
 
 [[2022]] • [[commonplace]] • [[Dylan Davis]] • [[Patrick King]] • [[Los Angeles Review of Books]]
 
+https://dev.lareviewofbooks.org/article/unexpected-sledgehammer-noel-ignatievs-communist-education/
+
 "Whether on factory floors or through economic ebbs and flows, Ignatiev presented class struggle as a sequence of enigmatic forms of conflict, accommodation, and rapprochement. He traced, in microcosm, how the revolutionary processes initiated through the daily activities of ordinary people constituted important “[outposts](http://www.sojournertruth.net/bwww.html)” of a future socialist society in the present"
 
 "Short of imposing a fleet of foremen to monitor the machinists directly, management at Tractor Works could not hope to curb unwanted self-organization like timecard forgeries, just as the capitalist class as a whole cannot hope to block once and for all the development of socialism in the future repertoires of collective action from unforeseen sectors"

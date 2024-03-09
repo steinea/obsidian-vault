@@ -11,6 +11,8 @@ permalink: 2014/10/26/jacques-lacan-the-agency-of-the-letter-in-the-unconscious
 
 [[2014]] • [[commonplace]] • [[Jacques Lacan]] • [[Écrits]]
 
+https://wwnorton.com/books/9780393329254
+
 I.
 
 “By “letter” I designate that material support that concrete discourse borrows from language” (1130). 

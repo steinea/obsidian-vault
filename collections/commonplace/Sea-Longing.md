@@ -11,6 +11,8 @@ permalink: 2022/10/14/tolkien-gateway-sea-longing
 
 [[2022]] • [[commonplace]] • [[J. R. R. Tolkien]] • [[Tolkien Gateway]]
 
+https://tolkiengateway.net/wiki/Sea-longing
+
 ""*The Sea! Alas! I have not yet beheld it. But deep in the hearts of all my kindred lies the sea-longing, which it is perilous to stir. Alas! for the gulls. No peace shall I have again under beech or under elm.*""
 
 "**Sea-longing**, or the **Unquiet of [Ulmo](https://tolkiengateway.net/wiki/Ulmo)**"

@@ -11,6 +11,8 @@ permalink: 2014/12/06/slavoj-zizek-less-than-nothing
 
 [[2014]] • [[commonplace]] • [[Slavoj Zizek]] • [[Verso]]
 
+https://www.versobooks.com/books/1523-less-than-nothing
+
 “The Hegel that Žižek loves is much like Žižek himself: a relentless iconoclast, a restless wordsmith, an inventive thinker with a hatred of received wisdom.” —Bookforum
 
 For the last two centuries, Western philosophy has developed in the shadow of Hegel, an influence each new thinker struggles to escape. As a consequence, Hegel's absolute idealism has become the bogeyman of philosophy, obscuring the fact that he is the defining philosopher of the historical transition to modernity, a period with which our own times share startling similarities.

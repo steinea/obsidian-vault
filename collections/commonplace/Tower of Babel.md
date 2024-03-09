@@ -11,6 +11,8 @@ permalink: 2014/11/10/roy-liuzza-tower-of-babel
 
 [[2014]] • [[commonplace]] • [[Roy Liuzza]] • [[Studies in the Literary Imagination]]
 
+https://www.academia.edu/1916615/The_Tower_of_Babel_The_Wanderer_and_the_Ruins_of_History
+
 "the tower, intended as a sign of their [fame and glory] becomes the marker of the limits of their possibilities and a sign of their divinely imposed ungedheode, a word whose use in this context reminds of the close relationships between OE dheod (“nation”), gedheodan (“unite”), and gedheode (“language”)" (4). 
 
 "The sign of a ruined tower and the isolation of linguistic diversity are here joined to the story of migration that is, as Nicholas Howe has persuasively argued, part of the Anglo-Saxon cultural identity" (4).

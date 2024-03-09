@@ -11,6 +11,8 @@ permalink: 2015/02/04/sadie-stein-brown-study
 
 [[2015]] • [[commonplace]] • [[Sadie Stein]] • [[The Paris Review]]
 
+https://www.theparisreview.org/blog/2015/02/03/golden-brown/
+
 "Here’s a phrase you don’t read much nowadays: brown study. First cited in the sixteenth century (specifically in a book called Dice-Play), the expression—which describes a state of intense, sometimes melancholy reverie"
 
  

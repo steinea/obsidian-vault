@@ -11,6 +11,8 @@ permalink: 2014/06/23/jill-lepore-the-disruption-machine
 
 [[2014]] • [[commonplace]] • [[Jill Lepore]] • [[The New Yorker]]
 
+http://www.newyorker.com/magazine/2014/06/23/the-disruption-machine
+
 “Disruptive innovation is competitive strategy for an age seized by terror.”
 
 “Every age has a theory of rising and falling, of growth and decay, of bloom and wilt: a theory of nature. Every age also has a theory about the past and the present, of what was and what is, a notion of time: a theory of history. Theories of history used to be supernatural: the divine ruled time; the hand of God, a special providence, lay behind the fall of each sparrow. If the present differed from the past, it was usually worse: supernatural theories of history tend to involve decline, a fall from grace, the loss of God’s favor, corruption.”

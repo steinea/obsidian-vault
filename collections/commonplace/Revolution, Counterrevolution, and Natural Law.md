@@ -11,6 +11,8 @@ permalink: 2014/09/24/philip-loosemore-revolution-counterrevolution-and-natural-
 
 [[2014]] • [[commonplace]] • [[Philip Loosemore]] • [[Criticism]] • [[Billy Budd, Sailor]]
 
+https://www.jstor.org/stable/23131557
+
 Epigraph: Hans Morganthau asks Hannah Arendt what her political leanings are, "within the contemporary possibilities" (99). 
 
 

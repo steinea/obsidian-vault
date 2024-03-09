@@ -11,6 +11,8 @@ permalink: 2015-03-05-fernando-pessoa-how-yesterday-is-long-ago
 
 [[2015]] • [[commonplace]] • [[Fernando Pessoa]] • [[35 Sonnets]]
 
+https://en.wikisource.org/wiki/35_Sonnets
+
 XXVII. 
 
 How yesterday is long ago! The past

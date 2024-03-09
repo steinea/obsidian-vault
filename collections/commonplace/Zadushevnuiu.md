@@ -11,6 +11,8 @@ permalink: 2015/01/24/leo-tolstoy-zadushevnuiu
 
 [[2015]] • [[commonplace]] • [[Leo Tolstoy]] • [[Salon]]
 
+http://www.salon.com/2015/01/11/leo_tolstoys_theory_of_everything/
+
 zadushevnuiu — innermost (Russian), literally, the “behind-the-soul”
 
 

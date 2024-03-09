@@ -11,6 +11,8 @@ permalink: 2013/06/28/omar-khayyam-to-cancel-half-a-line
  
 [[2013]] • [[commonplace]] • [[Omar Khayyam]] • [[Rubaiyat]]
 
+http://classics.mit.edu/Khayyam/rubaiyat.html
+
 The Moving Finger writes; and, having writ,                        
 <br>Moves on: nor all your Piety nor Wit                        
 <br>Shall lure it back to cancel half a Line,                      

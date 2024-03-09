@@ -11,6 +11,8 @@ permalink: 2014/11/02/john-valery-white-reactions-to-oppression
 
 [[2014]] • [[commonplace]] • [[John Valery White]] • [[Yale Law Journal]] / [[Billy Budd, Sailor]]
 
+https://www.jstor.org/stable/796910
+
 parochialism, fatalism, neo-liberalism, and individualism. These four perspectives are defined by an oppressed community's members' aspirations for liberation (2728). 
 
 any community whose fundamental self-conception is as oppressed will not view liberation and thus life and justice monolithicly (2730).

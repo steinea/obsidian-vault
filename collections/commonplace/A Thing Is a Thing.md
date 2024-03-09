@@ -11,6 +11,8 @@ permalink: 2015/02/10/alejandro-g-inarritu-a-thing-is-a-thing
 
 [[2015]] • [[commonplace]] • [[Alejandro G. Inarritu]] • [[Birdman]]
 
+https://www.imdb.com/title/tt2562232/
+
 "A thing is a thing, not what is said of that thing." --Riggan Thomson
 
 

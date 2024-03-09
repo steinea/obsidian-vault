@@ -11,6 +11,8 @@ permalink: 2014/04/09/john-michael-mcgrath-the-only-people-more-terrifying-than-
 
 [[2014]] • [[commonplace]] • [[John Michael McGrath]] • [[Hazlitt]]
 
+http://hazlitt.net/blog/only-people-more-terrifying-us-are-our-leaders
+
 "we have a direct correlation here between being objectively wrong and supporting a military intervention somewhere in the world"
 
 "It turns out that it’s not just ignorance that leads to supporting terrible policies—it’s certainty."

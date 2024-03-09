@@ -11,4 +11,6 @@ permalink: 2014/03/25/emily-landau-new-adult-fiction
 
 [[2014]] • [[commonplace]] • [[Emily Landau]] • [[The Walrus]]
 
+https://thewalrus.ca/never-never-land/
+
 “In the new-adult world, the separation between writer and reader has all but disappeared; they have become one and the same.”

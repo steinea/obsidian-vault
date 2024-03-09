@@ -11,6 +11,8 @@ permalink: 2015/02/20/hubert-aquin-this-disorganized-siege
 
 [[2015]] • [[commonplace]] • [[Hubert Aquin]] • [[Next Episode]]
 
+https://en.wikipedia.org/wiki/Next_Episode
+
 Packed inside my sentences,
 LOCATION: 58
 

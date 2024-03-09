@@ -11,6 +11,8 @@ permalink: 2022/12/16/muriam-haleh-davis-the-us-academy-and-the-provincializatio
 
 [[2022]] • [[commonplace]] • [[Muriam Haleh Davis]] • [[Los Angeles Review of Books]]
 
+https://dev.lareviewofbooks.org/article/the-us-academy-and-the-provincialization-of-fanon/
+
 "War shocked Fanon. Not only was he horrified by the racial segregation of the French Army, but he was also struck by many French citizens’ disinterest despite the acute threat to freedom that Nazi Germany presented. In a heart-wrenching letter to his family, he wrote: “I was wrong! Nothing here justifies this sudden decision to defend the interests of the French farmer when he himself does not care.”"
 
 "In the last years of his life, he turned his attention towards spreading anticolonial revolution in sub-Saharan Africa, acting as the representative of the Provisional Government of the Algerian Republic in Accra. His best-known work, *The Wretched of the Earth* (1961), was a spirited call for decolonization, which he described as “an agenda for total disorder.”"

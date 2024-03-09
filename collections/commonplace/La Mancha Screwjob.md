@@ -11,6 +11,8 @@ permalink: 2015/03/03/radiolab-la-mancha-screwjob
 
 [[2015]] • [[commonplace]] • [[Radiolab]]
 
+https://radiolab.org/episodes/la-mancha-screwjob
+
 "We are aware of our own contingency."
 
 "Humans have this fascination with infinite regress and embeddedness."

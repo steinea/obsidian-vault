@@ -11,6 +11,8 @@ permalink: 2014/10/01/roland-barthes-the-death-of-the-author
 
 [[2014]] • [[commonplace]] • [[Roland Barthes]] • [[Critical Theory]]
 
+https://global.oup.com/ushe/product/critical-theory-9780199797776
+
 Introduction: “literature is written by the overall system of writing. . . . [authors] inherit a repertoire” (83). 
 
 Text: “to write is, through a prerequisite impersonality . . . to reach that point where only language acts, “performs” and not “me”” (84).

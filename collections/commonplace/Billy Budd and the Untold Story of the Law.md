@@ -11,6 +11,8 @@ permalink: 2014/09/26/brook-thomas-billy-budd-and-the-untold-story-of-the-law
 
 [[2014]] • [[commonplace]] • [[Brook Thomas]] • [[JSTOR]] • [[Billy Budd, Sailor]]
 
+https://www.jstor.org/stable/27670190
+
 “Argue all we like about textual determinacy or indeterminacy, the social function of the law demands that it render judgements, inevitably errant or not” (50). 
 
 That there is an “untold story of the law […] implies that there is, after all, an official story to the law […] that excludes other possible stories” (50-51).

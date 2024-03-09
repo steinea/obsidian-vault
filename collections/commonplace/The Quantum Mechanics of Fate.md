@@ -11,6 +11,8 @@ permalink: 2015/02/19/george-musser-the-quantum-mechanics-of-fate
 
 [[2015]] • [[commonplace]] • [[George Musser]] • [[Nautilus]]
 
+https://nautil.us/issue/21/information/the-quantum-mechanics-of-fate-rp
+
 "“The objective world simply is, it does not happen,” wrote mathematician and physicist Hermann Weyl in 1949. From his point of view, the universe is laid out in time as surely as it is laid out in space. Time does not pass, and the past and future are as real as the present. If your common sense rebels against this idea, it is probably for a single reason: the arrow of causality. Events in the past cause events in the present which cause events in the future. If time really is like space, then shouldn’t events from the future influence the present and past, too?"
  
  "mathematically, entanglement in time is identical to entanglement in space, and we have no qualms with information traveling in all directions across space."

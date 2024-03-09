@@ -11,4 +11,6 @@ permalink: 2015/02/04/adam-chandler-the-moment-to-arm-ukraine
 
 [[2015]] • [[commonplace]] • [[Adam Chandler]] • [[The Atlantic]]
 
+https://www.theatlantic.com/international/archive/2015/02/ukraine-lethal-aid-pro-russian-separatists-arm/385123/
+
 "For his part, Ukrainian President Petro Poroshenko also addressed a session of Congress in September during which he practically begged the United States to provide weapons, stressing that 'blankets, night-vision goggles are also important. … But one cannot win the war with blankets. Even more, we cannot keep the peace with a blanket. ... In Ukraine, you don’t build a democracy. It already exists. You just defend it.'"

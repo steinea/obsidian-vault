@@ -11,6 +11,8 @@ permalink: 2022/10/12/isaac-asimov-foundation-universe
 
 [[2022]] • [[commonplace]] • [[Isaac Asimov]] • [[Wikipedia]]
 
+https://en.wikipedia.org/wiki/Foundation_universe#Merging_the_Robot,_the_Empire_and_the_Foundation_series
+
 #### Robot
 
 * *The Caves of Steel* (1954) [3421]

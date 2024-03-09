@@ -11,6 +11,8 @@ permalink: 2014/10/28/karl-marx-consciousness-determined-from-material-condition
 
 [[2014]] • [[commonplace]] • [[Karl Marx]] • [[The Norton Anthology of Theory and Criticism]]
 
+https://www.worldcat.org/title/norton-anthology-of-theory-and-criticism/oclc/45023141
+
 social relations are the Grundlage = foundation (of a culture) (398).
 
 Überbau = spiritual superstructure found in cultural ideology

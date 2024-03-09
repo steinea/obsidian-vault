@@ -11,6 +11,8 @@ permalink: 2014/10/28/walter-benjamin-the-work-of-art-in-the-age-of-its-mechanic
 
 [[2014]] • [[commonplace]] • [[Walter Benjamin]] • [[Critical Theory]]
 
+https://global.oup.com/ushe/product/critical-theory-9780199797776
+
 II 
 In even the most perfect reproduction, one thing is lacking: the here and now of the work of art—its unique existence in a particular place (397).
 

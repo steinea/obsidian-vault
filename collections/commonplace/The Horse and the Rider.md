@@ -11,6 +11,8 @@ permalink: 2013/09/25/j-r-r-tolkien-the-horse-and-the-rider
 
 [[2013]] • [[commonplace]] • [[J. R. R. Tolkien]] • [[Wikipedia]]
 
+https://en.wikipedia.org/wiki/The_Two_Towers
+
 Where now the horse and the rider? 
 <br>Where is the horn that was blowing?
 <br>Where is the helm and the hauberk, and the bright hair flowing?

@@ -11,6 +11,8 @@ permalink: 2014/11/07/wai-chee-dimock-a-theory-of-resonance
 
 [[2014]] • [[commonplace]] • [[Wai Chee Dimock]] • [[PMLA]]
 
+https://www.jstor.org/stable/463483
+
 The semantic fabric of the text, like the fabric of the universe, can be theorized as a space-time continuum alive with memory of probabilities, memory of alternatives, and memory of change (1060). 
 
 

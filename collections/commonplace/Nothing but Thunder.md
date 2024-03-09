@@ -11,6 +11,8 @@ permalink: 2015/01/13/michael-ondaatje-nothing-but-thunder
 
 [[2015]] • [[commonplace]] • [[Michael Ondaatje]] • [[In the Skin of a Lion]]
 
+https://www.penguinrandomhouse.ca/books/124591/in-the-skin-of-a-lion-by-michael-ondaatje/9780394281827
+
 "—They don't want your revolution, Patrick said to Alice. 
 —No. They won't be involved. Just you. You're a mongrel, like me. Not like my daughter here. But like me.
 —So what do you want?

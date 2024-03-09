@@ -11,6 +11,8 @@ permalink: 2014/09/25/cleanth-brooks-paradox-and-formalism
 
 [[2014]] • [[commonplace]] • [[Cleanth Brooks]] • [[Critical Theory]]
 
+https://global.oup.com/ushe/product/critical-theory-9780199797776
+
 The Language of Paradox 
 
 “Paradox is the language of sophistry, hard, bright, witty; it is hardly the language of the soul […] Our prejudices force us to regard paradox as intellectual rather than emotional, clever rather than profound, rational rather than divinely irrational” (8).

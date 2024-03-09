@@ -11,4 +11,6 @@ permalink: 2014/09/18/simon-critchley-nihilism-and-pop-culture
 
 [[2014]] • [[commonplace]] • [[Simon Critchley]] • [[Radiolab]]
 
+https://radiolab.org/episodes/dust-planet
+
 "why we love nihilism in pop culture is that it saves us having to be burdened with it"

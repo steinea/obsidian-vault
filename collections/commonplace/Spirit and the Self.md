@@ -11,6 +11,8 @@ permalink: 2015/02/14/soren-kierkegaard-spirit-and-the-self
 
 [[2015]] • [[commonplace]] • [[Søren Kierkegaard]] • [[The Sickness Unto Death]]
 
+https://press.princeton.edu/books/paperback/9780691020280/kierkegaards-writings-xix-volume-19
+
 "A human being is a spirit. But what is spirit?"
 
 "Spirit is the self. But what is self?"

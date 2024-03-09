@@ -11,6 +11,8 @@ permalink: 2015/03/03/carlo-rovelli-hot-black-holes-and-the-arrow-of-time
 
 [[2015]] • [[commonplace]] • [[Carlo Rovelli]] • [[Aeon]]
 
+https://aeon.co/opinions/what-s-the-time-just-ask-a-black-hole
+
 “Another way of posing the problem is to ask: what is the present? We say that only the things of the present exist; the past no longer exists and the future doesn’t exist yet. But in physics there is nothing that corresponds to the notion of the ‘now’. Compare ‘now’ with ‘here’. ‘Here’ designates the place where a speaker is. For two different people, ‘here’ points to two different places. Consequently ‘here’ is a word whose meaning depends on where it is spoken. The technical term for this kind of utterance is ‘indexical’. ‘Now’ also points to the instant in which the word is uttered and is also classed as indexical.”
 
 “No one would dream of saying that things ‘here’ exist, whereas things that are not ‘here’ do not exist. So then why do we say that things that are ‘now’ exist and that everything else doesn’t? Is the present something that is objective in the world, that flows, and that makes things exist one after the other, or is it only subjective, like ‘here’?”

@@ -11,4 +11,6 @@ permalink: 2014/05/23/arjun-basu-touring-travel-vacation
 
 [[2014]] • [[commonplace]] • [[Arjun Basu]]
 
+https://arjunbasu.com/archives/onvacation
+
 “There is touring (and touring is great, a mind expanding activity full of enrichment and hangovers and great photographs), there is travel (which is, essentially, about discovery) and then there is vacation. We confuse the words. It always comes down to words.”

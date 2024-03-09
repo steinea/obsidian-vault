@@ -11,6 +11,8 @@ permalink: 2014/09/07/stuart-hall-cultural-identity-and-cinematic-representation
 
 [[2014]] • [[commonplace]] • [[Stuart Hall]] • [[Critical Theory]]
 
+https://global.oup.com/ushe/product/critical-theory-9780199797776
+
 Identity is "not an essence" but "a process" (543). "In this view, identity is not a stable signified that a single signifier passively represents. Instead, identity is a continuous process of multiple signifiers and signifieds circulating through each other, producing identities, not merely labelling identities that are already statically there" (544).
 
 Cultural identity "is a matter of 'becoming' as well as of 'being.' It belongs to the future as much as to the past. It is not something which already exists, transcending place, time, history and culture [...] Far from being eternally fixed in some essentialized past, they are subject to the continuous 'play' of history, culture and power" (546).

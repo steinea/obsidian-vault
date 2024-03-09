@@ -11,6 +11,8 @@ permalink: 2022/11/24/tony-gilroy-it-has-to-be-real
 
 [[2022]] • [[commonplace]] • [[Tony Gilroy]] • [[Vulture]]
 
+https://www.vulture.com/article/andor-tony-gilroy-finale-interview.html
+
 "the projects align with his belief that human behavior 'is more powerful than anything people design, and more powerful than any political system' — even the Galactic Empire"
 
 "Andor is more grimy, compelling, and immersive than has been in a while, and for Gilroy, it’s another opportunity to explore how human emotion, in all its forms — empathy and aggression, angst and love — is more potent than any system that attempts to control it"

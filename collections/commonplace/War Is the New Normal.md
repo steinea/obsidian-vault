@@ -11,6 +11,8 @@ permalink: 2015/02/05/william-j-astore-war-is-the-new-normal
 
 [[2015]] • [[commonplace]] • [[William J. Astore]] • [[Guernica]]
 
+https://www.guernicamag.com/daily/william-j-astore-war-is-the-new-normal/
+
 "1. The privatization of war: The US military’s recourse to private contractors has strengthened the profit motive for war-making and prolonged wars as well."
  
 "2. The embrace of the national security state by both major parties"

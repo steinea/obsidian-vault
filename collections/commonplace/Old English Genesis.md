@@ -11,6 +11,8 @@ permalink: 2014/09/21/aelfric-old-english-genesis
 
 [[2014]] • [[commonplace]] • [[Ælfric of Eynsham]] • [[The Medieval Period]]
 
+https://broadviewpress.com/product/the-broadview-anthology-of-british-literature-the-medieval-period-third-edition/
+
 God is the "Helm of all created things" (4).
 
 "The Lord of life gave both [shadow and light] a name. By the word of God the gleaming light was first called day" (4).

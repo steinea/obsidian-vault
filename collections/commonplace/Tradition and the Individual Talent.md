@@ -11,6 +11,8 @@ permalink: 2014/09/22/t-s-eliot-tradition-and-the-individual-talent
 
 [[2014]] • [[commonplace]] • [[T. S. Eliot]] • [[The Norton Anthology of Theory and Criticism]]
 
+https://www.worldcat.org/title/norton-anthology-of-theory-and-criticism/oclc/45023141
+
 "the historical sense involves a perception, not only of the pastness of the past, but of its presence [....] This historical sense, which is a sense of the timeless as well as of the temporal and of the timeless and the temporal together, is what makes a writer traditional" (467).
 
 "Some can absorb knowledge, the more tardy must sweat for it" (468).

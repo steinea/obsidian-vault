@@ -11,6 +11,8 @@ permalink: 2014/09/16/nick-paumgarten-we-are-a-camera
 
 [[2014]] • [[commonplace]] • [[Nick Paumgarten]] • [[The New Yorker]]
 
+https://www.newyorker.com/magazine/2014/09/22/camera
+
 When the agony of missing the shot trumps the joy of the experience worth shooting, the adventure athlete (climber, surfer, extreme skier) reveals himself to be something else: a filmmaker, a brand, a vessel for the creation of content. 
 
 Now the purpose of the trip or trick is the record of it. Life is footage.

@@ -11,6 +11,8 @@ permalink: 2015/03/03/fernando-pessoa-indefinite-space
 
 [[2015]] • [[commonplace]] • [[Fernando Pessoa]] • [[35 Sonnets]]
 
+https://en.wikisource.org/wiki/35_Sonnets
+
 XVIII. 
 
 Indefinite space, which, by co-substance night,

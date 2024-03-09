@@ -11,6 +11,8 @@ permalink: 2013/09/29/thomas-paine-the-age-of-reason
 
 [[2013]] • [[commonplace]] • [[Thomas Paine]] • [[Wikipedia]]
 
+https://en.wikipedia.org/wiki/The_Age_of_Reason
+
 "My own mind is my own church" (654).
 
 "It is revelation to the first person only, and hearsay to every other" (655).

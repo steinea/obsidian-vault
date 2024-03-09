@@ -11,6 +11,8 @@ permalink: 2014/10/11/bell-hooks-the-oppositional-gaze-black-female-spectators
 
 [[2014]] • [[commonplace]] • [[bell hooks]] • [[Black Looks]]
 
+https://www.worldcat.org/title/892911026
+
 "slaves were denied their right to gaze" (270).
 
 "power as domination reproduces itself in different locations employing similar apparatuses, strategies, and mechanisms of control" (270).

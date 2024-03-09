@@ -4,12 +4,14 @@ category: commonplace
 author: Homi K. Bhabha
 title: Of Mimicry and Man, 1
 publication: Critical Theory
-link: https://global.oup.com/ushe/product/critical-theory-9780199797776?cc=ca&lang=en&
+link: https://global.oup.com/ushe/product/critical-theory-9780199797776
 date: 2014-11-08
 permalink: 2014/11/08/homi-k-bhabha-of-mimicry-and-man-1
 ---
 
 [[2014]] • [[commonplace]] • [[Homi K. Bhabha]] • [[Critical Theory]]
+
+https://global.oup.com/ushe/product/critical-theory-9780199797776
 
 If colonialism takes power in the name of history, it repeatedly exercises its authority through the figures of farce (669).
 

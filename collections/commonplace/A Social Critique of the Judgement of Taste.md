@@ -11,6 +11,8 @@ permalink: 2014/09/22/pierre-bourdieu-a-social-critique-of-the-judgement-of-tast
 
 [[2014]] • [[commonplace]] • [[Pierre Bourdieu]] • [[The Norton Anthology of Theory and Criticism]]
 
+https://www.worldcat.org/title/norton-anthology-of-theory-and-criticism/oclc/45023141
+
 "To the socially recognized hierarchy of the arts, and within each of them, of genres, schools or periods, corresponds a social hierarchy of consumes" (1399).
 
 "A work of art has meaning and interest only for someone who possesses the cultural competence, that is, the code, into which it is encoded" (1399).

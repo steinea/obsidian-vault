@@ -11,6 +11,8 @@ permalink: 2014/01/12/alix-rule-david-levine-international-art-english
 
 [[2014]] • [[commonplace]] • [[Alix Rule]] • [[David Levine]] • [[Triple Canopy]]
 
+https://www.canopycanopycanopy.com/issues/16/contents/international_art_english
+
 On the rise—and the space—of the art-world press release.
 
 "'International Art English' was produced by Triple Canopy as part of its Research Work project area, supported in part by the Brown Foundation, Inc., of Houston, the National Endowment for the Arts, and the New York City Department of Cultural Affairs in partnership with the City Council."

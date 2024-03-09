@@ -11,6 +11,8 @@ permalink: 2014/11/18/amanda-jernigan-three-poems-for-the-raven
 
 [[2014]] • [[commonplace]] • [[Amanda Jernigan]] • [[The Walrus]]
 
+https://thewalrus.ca/three-poems-for-the-raven/
+
 I.
 
 It comforts them to think that we embark

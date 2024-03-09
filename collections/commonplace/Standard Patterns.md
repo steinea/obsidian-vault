@@ -11,6 +11,8 @@ permalink: 2022/12/16/sam-kabo-ashwell-standard-patterns-in-choice-based-games
 
 [[2022]] • [[commonplace]] • [[Sam Kabo Ashwell]] • [[Heterogenous Tasks]]
 
+https://heterogenoustasks.wordpress.com/2015/01/26/standard-patterns-in-choice-based-games/
+
 "When I was analysing the structures of CYOA works a few years back, I began to recognise some strong recurring design patterns. I came up with some home-brewed terminology, but didn’t ever lay it out in a nice clear way. This is a non-exhaustive look at some of the more common approaches"
 
 "**Time Cave.** A heavily-branching sequence. All choices are of roughly equal significance; there is little or no re-merging, and therefore no need for state-tracking. There are many, many endings."

@@ -11,6 +11,8 @@ permalink: 2014/11/10/kathryn-powell-orientalist-fantasy
 
 [[2014]] • [[commonplace]] • [[Kathryn Powell]] • [[Anglo-Saxon England]]
 
+http://journals.cambridge.org/abstract_S0263675105000050
+
 the fantasy of the East that informs the Solomon and Saturn poems seems to respond to anxieties about a symbolic lack, particularly anxieties about the symbolic identity of the English people (119). 
 
 This fantasy functions by disguising or compensating for a kind of cultural anxiety about the newly unified Anglo-Saxon kingdom. By displacing lack into the field of the foreign Other, and by appointing Solomon as the corrector of Eastern error, the Solomon and Saturn poems disguise the fact that error and lack are endemic to the West as well (119).

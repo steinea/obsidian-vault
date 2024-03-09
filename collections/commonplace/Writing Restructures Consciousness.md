@@ -11,6 +11,8 @@ permalink: 2014/11/08/walter-ong-writing-restructures-consciousness
 
 [[2014]] • [[commonplace]] • [[Walter Ong]] • [[Orality and Literacy]]
 
+https://books.google.ca/books/about/Orality_and_Literacy.html?id=37Ikbo9P4M8C
+
 Writing establishes what has been called 'context-free’ language . . . or ‘autonomous’ discourse . . . which cannot be directly questioned or contested as oral speech can be because written discourse has been detached from its author (77). 
 
 Texts are inherently contumacious (78).

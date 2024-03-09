@@ -11,6 +11,8 @@ permalink: 2014/09/28/lilian-alweiss-on-moral-dilemmas
 
 [[2014]] • [[commonplace]] • [[Lilian Alweiss]] • [[Philosophy]] / [[Billy Budd, Sailor]]
 
+https://www.jstor.org/stable/3752044
+
 “moral issues seem particular, subjective, context dependent, and not open to generalizations” (205). 
 "moral theoryfails to express what truly matters to us” (206).
 

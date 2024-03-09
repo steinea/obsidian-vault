@@ -11,6 +11,8 @@ permalink: 2014/01/22/e-e-cummings-i-like-my-body
 
 [[2014]] • [[commonplace]] • [[E. E. Cummings]] • [[Google Books]]
 
+https://books.google.ca/books/about/E_E_Cummings.html?id=NYaQEAAAQBAJ
+
 i like my body when it is with your
 <br>body.    It is so quite a new thing.
 <br>Muscles better and nerves more.

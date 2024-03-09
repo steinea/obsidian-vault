@@ -11,6 +11,8 @@ permalink: 2014/12/19/philip-larkin-this-be-the-verse
 
 [[2014]] • [[commonplace]] • [[Philip Larkin]] • [[Poetry Foundation]]
 
+https://www.poetryfoundation.org/poems/48419/this-be-the-verse
+
 They fuck you up, your mum and dad.   
 <br>They may not mean to, but they do.   
 <br>They fill you with the faults they had 

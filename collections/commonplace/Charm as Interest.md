@@ -11,6 +11,8 @@ permalink: 2015/03/21/richard-avedon-charm
 
 [[2015]] • [[commonplace]] • [[Richard Avedon]] • [[The Paris Review]]
 
+http://www.theparisreview.org/blog/2015/03/20/staff-picks-mendelsohn-microgravity-misconduct/
+
 Richard Avedon’s definition of charm as “the ability to be truly interested in other people.”
 
 

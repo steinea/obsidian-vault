@@ -11,6 +11,8 @@ permalink: 2015/02/19/jacob-brogan-han-solo-shot-first
 
 [[2015]] • [[commonplace]] • [[Jacob Brogan]] • [[The Atlantic]]
 
+https://www.theatlantic.com/technology/archive/2015/02/han-solo-shot-first/385551/
+
 "On Wikipedia, you’d face censure for writing, “In Cloud City, Darth Vader confessed that he was Luke’s father.” But if you were to instead write, “Vader confesses that he is Luke’s father,” your change would likely go unnoticed. In a small corner of Wikipedia’s edit wars, the struggle against in-universe perspective’s temporality reveals some of the larger ways people process works of fiction. These peripheral slippages into the past tense suggest that the most obscure stories may seem most real to those who know them well."
  
 "Marginality has long been a hallmark of the real. Almost 50 years ago, the French literary critic Roland Barthes noted that “every narrative, at least every Western narrative of the ordinary sort nowadays, possesses a certain number” of seemingly “useless details.” In and of themselves, he explained, these bits of insignificant description mean nothing, signifying only the material reality of the more significant information around them."

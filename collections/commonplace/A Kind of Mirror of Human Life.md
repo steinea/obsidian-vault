@@ -11,6 +11,8 @@ permalink: 2014/09/03/gildas-on-the-ruin-of-britain
 
 [[2014]] • [[commonplace]] • [[Gildas]] • [[A Kind of Mirror of Human Life]]
 
+https://en.wikipedia.org/wiki/De_Excidio_et_Conquestu_Britanniae
+
 "These and many other passages in the ancient Scriptures I regarded as a kind of mirror of human life" (6). 
 
 

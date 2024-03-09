@@ -11,6 +11,8 @@ permalink: 2022/12/17/eric-francisco-technical-wizardry-and-pulp-imagination
 
 [[2022]] • [[commonplace]] • [[Eric Francisco]] • [[Inverse]]
 
+https://www.inverse.com/entertainment/avatar-the-way-of-water-review
+
 "there’s something unique in its symbiosis of technical wizardry and dreamlike, pulp-inspired imagination that underpins every minute of this three-hour-plus runtime. Its length never feels like a marathon but a scenic endurance hike of natural pauses and the drama of steep elevation"
 
 "*The Way of Water’s* revolutionary technology only strengthens its political bent. *Avatar’*s more simplistic “*Pocahontas* in space” narrative (a technically accurate criticism that misses the point) is surpassed by *The Way of Water’s* more aggressive pro-Indigenous and pro-ecological activism"

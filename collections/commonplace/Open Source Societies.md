@@ -11,6 +11,8 @@ permalink: 2022/12/15/anarcho-solarpunk-open-source-societies
 
 [[2022]] • [[commonplace]] • [[Anarcho Solarpunk]]
 
+https://anarchosolarpunk.substack.com/p/opensourcesocieties
+
 "how computer science (and technology in general), solarpunk, and democratic confederalism go well together"
 
 "a sort of society based on the core concepts of the open-source movement"

@@ -11,6 +11,8 @@ permalink: 2014/09/01/plato-on-art-and-writing
 
 [[2014]] • [[commonplace]] • [[Plato]] • [[The Norton Anthology of Theory and Criticism]]
 
+https://www.worldcat.org/title/norton-anthology-of-theory-and-criticism/oclc/45023141
+
 Republic, Ion, Phaedrus
 
 

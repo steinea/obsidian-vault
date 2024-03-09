@@ -11,4 +11,6 @@ permalink: 2013/08/01/john-macfarlane-sovereignty-and-climate-change
 
 [[2013]] • [[commonplace]] • [[John Macfarlane]] • [[The Walrus]]
 
+https://thewalrus.ca/editors-note-10-6/
+
 "After all, what good is sovereignty if you can't breathe? I ask myself: is any country's sovereignty, including Canada's, more important than the welfare of future generations?" 

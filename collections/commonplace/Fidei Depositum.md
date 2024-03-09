@@ -11,6 +11,8 @@ permalink: 2014/12/06/pope-john-paul-ii-fidei-depositum
 
 [[2014]] • [[commonplace]] • [[Pope John Paul II]] • [[Wikipedia]]
 
+https://en.wikipedia.org/wiki/Catechism_of_the_Catholic_Church
+
 Fidei depositum is the Apostolic constitution of 11 October 1992 by which Pope John Paul II ordered the publication of the Catechism of the Catholic Church.
 
 He declared the publication to be "a sure norm for teaching the faith ... a sure and authentic reference text for teaching Catholic doctrine and particularly for preparing local catechisms". It was "meant to encourage and assist in the writing of new local catechisms [both applicable and faithful]" rather than replacing them.

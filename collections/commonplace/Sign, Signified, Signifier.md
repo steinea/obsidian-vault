@@ -11,6 +11,8 @@ permalink: 2014-10-14-ferdinand-de-saussure-course-in-general-linguistics
 
 [[2014]] • [[commonplace]] • [[Ferdinand de Saussure]] • [[Course in General Linguistics]]
 
+https://cup.columbia.edu/book/course-in-general-linguistics/9780231157261
+
 Langue (language): overall system of language, rules of grammar
 Parole (speech): individual utterance, particular instance of language
 

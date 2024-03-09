@@ -11,6 +11,8 @@ permalink: 2013/06/04/adam-kotsko-how-to-read-agamben
 
 [[2013]] • [[commonplace]] • [[Adam Kotsko]] • [[Los Angeles Review of Books]]
 
+https://lareviewofbooks.org/article/how-to-read-agamben/
+
 “A striking feature of Agamben’s work is its tendency to leap immediately from the tiniest detail to the broadest possible generalization.”
 
 “while his late works boast increasingly large-scale ambitions, they are nonetheless written in a fragmentary form and always make room for digressions and asides (often in the form of notes inserted right into the middle of the text, introduced by the Hebrew letter “aleph”)”

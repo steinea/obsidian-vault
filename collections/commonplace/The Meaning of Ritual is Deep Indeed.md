@@ -11,6 +11,8 @@ permalink: 2014/05/23/xunzi-the-meaning-of-ritual-is-deep-indeed
 
 [[2014]] • [[commonplace]] • [[Xunzi]] • [[Google Books]]
 
+https://books.google.ca/books/about/Basic_Writings.html?id=HjOJlC_3oDIC
+
 "The meaning of ritual is deep indeed.
 
 He who tries to enter it with the kind of perception that distinguishes hard and white, same and different, will drown there.

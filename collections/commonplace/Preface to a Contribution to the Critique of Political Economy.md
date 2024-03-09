@@ -11,6 +11,8 @@ permalink: 2014/10/28/karl-marx-preface-to-a-contribution-to-the-critique-of-pol
 
 [[2014]] • [[commonplace]] • [[Karl Marx]] • [[Critical Theory]]
 
+https://www.worldcat.org/title/norton-anthology-of-theory-and-criticism/oclc/45023141
+
 “The sum total of these relations of production constitutes the economic structure of society—the real foundation, on which rise legal and political superstructures” (380). 
 
 “The bourgeois relations of production are the last antagonistic form of the social process of production—antagonistic not in the sense of individual antagonism, but of one arising from conditions surrounding the life of individuals in society” (380).

@@ -11,6 +11,8 @@ permalink: 2022/12/15/james-gleick-space-age-magus
 
 [[2022]] • [[commonplace]] • [[James Gleick]] • [[New York Review of Books]]
 
+https://www.nybooks.com/articles/2022/11/03/space-age-magus-buckminster-fuller/
+
 "instead of posts and beams making the rectilinear boxes “that have been the accepted basis of architecture since the beginning of shelter,” the visionary Fuller used tetrahedrons and octahedrons, shapes inspired by crystals and atoms, to create “lacy frameworks of the widest versatility.”"
 
 "People called him a poet, a philosopher, a mathematician, an artist, an engineer, and a futurist"

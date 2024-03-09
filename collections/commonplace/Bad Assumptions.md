@@ -11,6 +11,8 @@ permalink: 2022/07/27/zens-bad-assumptions
 
 [[2022]] • [[commonplace]] • [[Zens]] • [[Merveilles]]
 
+https://merveilles.town/@zens/108722880810316196
+
 things user/profile systems fuck up, bad assumptions
 
 * the user will never delete their account

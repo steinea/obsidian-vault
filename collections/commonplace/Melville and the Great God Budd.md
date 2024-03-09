@@ -11,6 +11,8 @@ permalink: 2014/10/16/walter-sutton-melville-and-the-great-god-budd
 
 [[2014]] • [[commonplace]] • [[Walter Sutton]] • [[Prairie Schooner]] • [[Billy Budd, Sailor]]
 
+https://www.jstor.org/stable/40625631
+
 “In [Billy Budd] there is a deliberately maintained-balance between a naturalistic and a providential or redemptive view of the fate of the victim-hero Budd” (129). 
 
 “Although the hanging of the young Adam-Christ is described in religious terms . . . his inert lifelessness is also emphasized, and his ascension is mechanical and abortive, limited as it is to the height of the ship’s yardarm” (129).

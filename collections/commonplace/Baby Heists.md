@@ -11,6 +11,8 @@ permalink: 2022/12/16/andrew-lee-baby-heists
 
 [[2022]] • [[commonplace]] • [[Andrew Lee]] • [[The New Inquiry]]
 
+https://thenewinquiry.com/baby-heists/
+
 "The deepest wish of the modern state is to forge precisely the sort of population which might perfectly support it."
 
 "The cruder versions of this practice are arithmetical. Fostering the right sort of births from the right sort of families, the inclusion of the right sort of immigrants from acceptable countries: such enlargements are addition. Genocide, forced disappearances, and summary executions represent subtraction. These are brutish tools of the state"

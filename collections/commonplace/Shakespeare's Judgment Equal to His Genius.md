@@ -11,6 +11,8 @@ permalink: 2014/09/12/samuel-taylor-coleridge-shakespeares-judgment-equal-to-his
 
 [[2014]] • [[commonplace]] • [[Samuel Taylor Coleridge]] • [[The Norton Anthology of Theory and Criticism]]
 
+https://www.worldcat.org/title/norton-anthology-of-theory-and-criticism/oclc/45023141
+
 From the Introduction: "The primary IMAGINATION I hold to be the living Power and prime Agent of all human perception, and as a repetition in the finite mind of the eternal act of creation in the infinite I AM" (301).
 
 "What Kant called the productive imagination, Coleridge renamed the primary: that mental faculty by which we create the world of our perceptions at each moment of consciousness. Just as God created the noumena, man creates the phenomena" (301).

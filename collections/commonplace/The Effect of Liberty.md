@@ -11,6 +11,8 @@ permalink: 2014/09/08/edmund-burke-reflections-on-the-revolution-in-france
 
 [[2014]] • [[commonplace]] • [[Edmund Burke]] • [[Reflections on the Revolution in France]]
 
+https://global.oup.com/academic/product/reflections-on-the-revolution-in-france-9780199539024
+
 Burke is wary of people, who, under the pretext of zeal towards the Revolution and Constitution, too frequently wander from their true principles; and are ready in every occaisoon to depart from the firm but cautious and deliberate spirit which produced the one, and which presides in the other" (4). 
 
 

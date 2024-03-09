@@ -11,6 +11,8 @@ permalink: 2013/06/28/eunice-de-souza-advice-to-women
 
 [[2013]] • [[commonplace]] • [[Eunice de Souza]] • [[Google Books]]
 
+https://books.google.ca/books/about/Selected_and_New_Poems.html?id=v3MBNQAACAAJ
+
 Keep cats 
 <br>if you want to learn to cope with
 <br>the otherness of lovers.

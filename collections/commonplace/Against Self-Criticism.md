@@ -11,6 +11,8 @@ permalink: 2015/03/09/adam-phillips-against-self-criticism
 
 [[2015]] • [[commonplace]] • [[Adam Phillips]] • [[London Review of Books]]
 
+https://www.lrb.co.uk/the-paper/v37/n05/adam-phillips/against-self-criticism
+
 "A life without a so-called critical faculty would seem an idiocy: what are we, after all, but our powers of discrimination, our taste, the violence of our preferences?"
 
 "conscience is the consequence of uncompleted revenge"

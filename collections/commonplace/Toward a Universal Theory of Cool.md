@@ -11,6 +11,8 @@ permalink: 2014/05/23/derek-thompson-toward-a-universal-theory-of-cool
 
 [[2014]] • [[commonplace]] • [[Derek Thompson]] • [[The Atlantic]]
 
+https://www.theatlantic.com/business/archive/2014/05/toward-a-universal-theory-of-cool/371510/
+
 “a new paper by Caleb Warren and Margaret C. Campbell applies a more constrictive definition that proves surprisingly workable: "Coolness is a subjective, positive trait perceived in people, brands, products, and trends that are autonomous in an appropriate way.”
 
 If funny is a benign violation of expectations, cool is a measured violation of malign expectations.

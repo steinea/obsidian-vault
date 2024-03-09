@@ -11,6 +11,8 @@ permalink: 2014/10/28/isaac-asimov-on-creativity
 
 [[2014]] • [[commonplace]] • [[Isaac Asimov]] • [[MIT Technology Review]]
 
+https://www.technologyreview.com/2014/10/20/169899/isaac-asimov-asks-how-do-people-get-new-ideas/
+
 How do people get new ideas?
 
 Presumably, the process of creativity, whatever it is, is essentially the same in all its branches and varieties, so that the evolution of a new art form, a new gadget, a new scientific principle, all involve common factors. We are most interested in the “creation” of a new scientific principle or a new application of an old one, but we can be general here.

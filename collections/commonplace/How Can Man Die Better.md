@@ -11,6 +11,8 @@ permalink: 2014/05/23/thomas-babington-macauley-how-can-man-die-better
 
 [[2014]] • [[commonplace]] • [[Thomas Babington Macaulay]] • [[Laws of Ancient Rome]]
 
+https://en.wikipedia.org/wiki/Lays_of_Ancient_Rome
+
 "To every man upon this earth
 <br>Death cometh sooner or late.
 <br>And how can man die better

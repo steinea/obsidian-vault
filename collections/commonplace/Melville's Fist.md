@@ -11,6 +11,8 @@ permalink: 2014/10/10/barbara-johnson-melvilles-fist
 
 [[2014]] • [[commonplace]] • [[Barbara Johnson]] • [[JSTOR]] • [[Billy Budd, Sailor]]
 
+https://www.jstor.org/stable/25600211
+
 I. The Sense of an Ending
 
 

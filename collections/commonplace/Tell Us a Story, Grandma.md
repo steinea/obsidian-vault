@@ -11,6 +11,8 @@ permalink: 2015/01/26/natalie-wise-tell-us-a-story-grandma
 
 [[2015]] •[[commonplace]] • [[Natalie Wise]] • [[The New Yorker]]
 
+https://www.newyorker.com/magazine/2015/02/02/tell-us-story-grandma
+
 I wonder which ones I will remember:
 <br>That I loved my boyfriend’s best friend?
 <br>That I rode the lonely train to Boston?

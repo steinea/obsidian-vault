@@ -11,6 +11,8 @@ permalink: 2014/10/23/sigmund-freud-the-uncanny
 
 [[2014]] • [[commonplace]] • [[Sigmund Freud]] • [[The Norton Anthology of Theory and Criticism]]
 
+https://www.worldcat.org/title/norton-anthology-of-theory-and-criticism/oclc/45023141
+
 the uncanny is “undoubtedly related to what is frightening—to what arouses dread and horror” (514). 
 
 “the uncanny is that class of frightening which leads back to what is known of old and long familiar” (515).

@@ -11,6 +11,8 @@ permalink: 2014/12/01/john-morton-mortons-fork
 
 [[2014]] • [[commonplace]] • [[John Morton]] • [[Wikipedia]]
 
+https://en.wikipedia.org/wiki/Morton%27s_fork
+
 A Morton's Fork is a specious piece of reasoning in which contradictory arguments lead to the same (unpleasant) conclusion. It is said to originate with the collecting of taxes by John Morton, Archbishop of Canterbury in the late 15th century, who held that a man living modestly must be saving money and could therefore afford taxes, whereas if he was living extravagantly then he was obviously rich and could still afford them.
 
 Elected officers (members of parliament and councillors) sometimes may have recourse to a variant on Morton's Fork when dealing with unhelpful unelected officers, or civil servants. This variant asserts that an unelected officer's non-compliance with the directive of their elected officer must be due to one of two equally unacceptable causes: either the civil servant is lazy or incompetent, or the civil servant is acting willfully or maliciously against the instructions given by his or her elected officer.

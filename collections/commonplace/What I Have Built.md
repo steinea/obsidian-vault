@@ -11,6 +11,8 @@ permalink: 2015/03/30/jeremiah-what-i-have-built
 
 [[2015]] • [[commonplace]] • [[Jeremiah]] • [[Bible]]
 
+https://en.wikipedia.org/wiki/Jeremiah_45
+
 "Behold, what I have built I am breaking down, and what I have planted I am plucking up— that is, the whole land."
 
 45:4

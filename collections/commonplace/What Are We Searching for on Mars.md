@@ -11,6 +11,8 @@ permalink: 2014/12/15/nicholas-st-fleur-what-are-we-searching-for-on-mars
 
 [[2014]] • [[commonplace]] • [[Nicholas St. Fleur]] • [[The Atlantic]]
 
+http://www.theatlantic.com/technology/archive/2014/12/mars-curiosity-rover-gale-crater-American-Geophysics-Union-Conference-water/383625/
+
 Martians terrified me growing up. I remember watching the 1996 movie Mars Attacks! and fearing that the Red Planet harbored hostile alien neighbors. Though I was only six at the time, I was convinced life on Mars meant little green men wielding vaporizer guns. There was a time, not so long ago, when such an assumption about Mars wouldn’t have seemed so far-fetched.
 
 Like a child watching a scary movie, people freaked out after listening to “The War of the Worlds,” the now-infamous 1938 radio drama that many listeners believed was a real report about an invading Martian army. Before humans left Earth, humanity’s sense of what—or who—might be in our galactic neighborhood was, by today’s standards, remarkably optimistic.

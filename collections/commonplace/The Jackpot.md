@@ -11,6 +11,8 @@ permalink: 2022/11/10/william-gibson-the-jackpot
 
 [[2022]] • [[commonplace]] • [[William Gibson]] • [[The Peripheral]]
 
+https://www.imdb.com/title/tt15576568/
+
 The Jackpot: power grid failure, pandemic, environmental catastrophe, agricultural collapse, population collapse, nuclear war.
 
 Rella C: "lol people who are like 'the jackpot seems likely' -- it's ALREADY BEGUN" --[Twitter](https://twitter.com/rellac/status/1590956950417985536)

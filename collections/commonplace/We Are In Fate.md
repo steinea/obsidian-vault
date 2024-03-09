@@ -11,6 +11,8 @@ permalink: 2015/03/05/fernando-pessoa-we-are-in-fate
 
 [[2015]] • [[commonplace]] • [[Fernando Pessoa]] • [[35 Sonnets]]
 
+https://en.wikisource.org/wiki/35_Sonnets
+
 XXV. 
 
 We are in Fate and Fate's and do but lack

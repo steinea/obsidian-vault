@@ -11,6 +11,8 @@ permalink: 2015/02/10/shakespeare-tomorrow-and-tomorrow-and-tomorrow
 
 [[2015]] • [[commonplace]] • [[Shakespeare]] • [[Macbeth]]
 
+http://shakespeare.mit.edu/macbeth/full.html
+
 "She should have died hereafter;
 <br>There would have been a time for such a word.
 <br>— To-morrow, and to-morrow, and to-morrow,

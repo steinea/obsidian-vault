@@ -4,12 +4,14 @@ category: commonplace
 author: Edward Said
 title: Narrative and Social Space
 publication: Critical Theory
-link: https://global.oup.com/ushe/product/critical-theory-9780199797776?cc=ca&lang=en&
+link: https://global.oup.com/ushe/product/critical-theory-9780199797776
 date: 2014-11-08
 permalink: 2014/11/08/edward-said-narrative-and-social-space
 ---
 
 [[2014]] • [[commonplace]] • [[Edward Said]] • [[Critical Theory]]
+
+https://global.oup.com/ushe/product/critical-theory-9780199797776
 
 imperial possessions are as usefully there, anonymous and collective, as the outcast populations (719). 
 

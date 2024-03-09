@@ -4,12 +4,14 @@ category: commonplace
 author: Eli Glasner
 title: No Concessions, No Compromise
 publication: CBC
-link: https://www.cbc.ca/news/entertainment/avatar-way-of-water-review-1.6687334?cmp=rss
+link: https://www.cbc.ca/news/entertainment/avatar-way-of-water-review-1.6687334
 date: 2022-12-17
 permalink: 2022/12/17/eli-glasner-no-concessions-no-compromise
 ---
 
 [[2022]] • [[commonplace]] • [[Eli Glasner]] • [[CBC]]
+
+https://www.cbc.ca/news/entertainment/avatar-way-of-water-review-1.6687334
 
 "This is the Cameron way, no concessions, no compromise — a wildly ambitious story which he sees as part of seven-film (!) cycle. A movie so expensive Cameron estimates it will need to earn $2 billion to break even."
 

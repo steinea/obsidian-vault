@@ -11,6 +11,8 @@ permalink: 2015/03/23/andrew-motion-noonlight-a-meeting-of-minds-with-henry-davi
 
 [[2015]] • [[commonplace]] • [[Andrew Motion]] • [[Granta]]
 
+https://granta.com/products/granta-128-american-wild/
+
 I remind myself when I reach the pond at sunset 
 <br> how far water reveals itself by night, 
 <br> as the moon shimmering across the surface, 

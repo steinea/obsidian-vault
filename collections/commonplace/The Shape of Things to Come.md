@@ -11,6 +11,8 @@ permalink: 2015/02/22/ian-parker-the-shape-of-things-to-come
 
 [[2015]] • [[commonplace]] • [[Ian Parker]] • [[The New Yorker]]
 
+https://www.newyorker.com/magazine/2015/02/23/shape-things-come
+
 "Ive, wearing a royal-blue T-shirt, was affable, but there was little trace of English irony. “I think you can reserve that for entertainment,” he later said. “And not practice that professionally.” In our conversations, his manner could sometimes be unsettling for the way it combined the tender attentiveness of a suicide-prevention volunteer—“I was ever so lucky”; “I do hope you have a good flight”—with a keenness to move the conversation from the particular to the general; his replies, searching for the safe ground of a previously expressed thought, often looped and hedged, or drifted off into a sigh. At first attempt, Ive ran through the first twenty-five years of his life in sixty words; he told me which novel he was reading only after designating the answer off the record."
 
 "a poster, well known in design circles, that begins, “Believe in your fucking self. Stay up all fucking night,” and ends, many admonitions later, “Think about all the fucking possibilities.”"

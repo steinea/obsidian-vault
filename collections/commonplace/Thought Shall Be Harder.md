@@ -11,6 +11,8 @@ permalink: 2014/09/07/anonymous-the-battle-of-maldon
 
 [[2014]] • [[commonplace]] • [[Anonymous]] • [[The Medieval Period]]
 
+https://broadviewpress.com/product/the-broadview-anthology-of-british-literature-the-medieval-period-third-edition/
+
 Hige sceal þē heardra, &nbsp; &nbsp; &nbsp; heorte þē cēnre,
 <br>mōd sceal þē māre, &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; þē ūre mægen lytlað.
 

@@ -11,6 +11,8 @@ permalink: 2014/07/25/said-sayrafiezadeh-last-meal-at-whole-foods
 
 [[2014]] • [[commonplace]] • [[Saïd Sayrafiezadeh]] • [[The New Yorker]]
 
+https://www.newyorker.com/magazine/2014/07/28/last-meal-whole-foods
+
 "I was a little boy being instructed in the immutable fact of my own helplessness." 
 
 "I gave up on the team years ago, because one can endure only so much defeat before it begins to feel like a manifestation of one's own character."

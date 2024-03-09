@@ -11,6 +11,8 @@ permalink: 2014/09/05/luce-irigaray-platos-hystera
 
 [[2014]] • [[commonplace]] • [[Luce Irigaray]] • [[Speculum of the Other Woman]]
 
+https://www.cornellpress.cornell.edu/book/9780801416637/speculum-of-the-other-woman/
+
 Irigaray reads The Cave as the a metaphor for "the inner space," that is, "the womb or hystera." "Ground, dwelling, cave, and even, in a different way, form—all these terms can be read more or less as equivalents of the hystera" (243).  
 
 

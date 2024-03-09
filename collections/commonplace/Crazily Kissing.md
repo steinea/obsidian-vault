@@ -11,6 +11,8 @@ permalink: 2014/01/23/e-e-cummings-crazily-kissing
 
 [[2014]] • [[commonplace]] • [[E. E. Cummings]] • [[Google Books]]
 
+https://books.google.ca/books/about/E_E_Cummings.html?id=NYaQEAAAQBAJ
+
 why from this her and him
 <br>did you and did i climb
 <br>(crazily kissing)till

@@ -11,6 +11,8 @@ permalink: 2013/09/29/thomas-jefferson-constraint-and-government
 
 [[2013]] • [[commonplace]] • [[Thomas Jefferson]] • [[Wikipedia]]
 
+https://en.wikipedia.org/wiki/Notes_on_the_State_of_Virginia
+
 "Constraint may make him worse by making him a hypocrite, but it will never make him a truer man" (674). 
 
 "It is error alone which needs the support of government. Truth can stand by itself" (675).

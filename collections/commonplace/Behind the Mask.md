@@ -11,6 +11,8 @@ permalink: 2014/06/19/dave-cameron-behind-the-mask
 
 [[2014]] • [[commonplace]] • [[Dave Cameron]] • [[The Walrus]]
 
+https://thewalrus.ca/behind-the-mask/
+
 “Goalies are supposed to be crazy, because who else would want the job?”
 
 “It is no accident that the entrance to Toronto’s Hockey Hall of Fame is a panoply of goalie masks. As the key figure in one of our central narratives, the goalie exhibits many of the household Canadian traits: eagerness to please, resilience, neuroticism. At the cocktail party of nations, Canada is the quiet guy on the periphery who looks worried about something. Is it possible that we identify with goalies because Canada is the goalie of the world?”

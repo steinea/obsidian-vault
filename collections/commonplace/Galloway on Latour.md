@@ -9,11 +9,9 @@ date: 2022-11-27
 permalink: 2022/11/27/terence-blake-galloway-on-latour
 ---
 
-# Galloway on Latour
-
-### Terence Blake
-
 [[2022]] • [[commonplace]] • [[Terence Blake]] • [[Agent Swarm]]
+
+https://terenceblake.wordpress.com/2018/11/09/postscript-to-the-pluralism-wars-galloway-on-latour/
 
 "One of the most important modes of existence for Latour is that of REL, or the religious mode of existence. Latour invokes Jan Assmann’s MOSES THE EGYPTIAN to describe how REL detached itself from MET, the polytheistic metamorphic mode of existence.This is an event of ontological scale for Latour."
 

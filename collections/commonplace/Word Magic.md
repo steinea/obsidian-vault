@@ -11,6 +11,8 @@ permalink: 2014/05/22/adam-gopnik-word-magic
 
 [[2014]] • [[commonplace]] • [[Adam Gopnik]] • [[The New Yorker]]
 
+http://www.newyorker.com/magazine/2014/05/26/word-magic
+
 “A truly untranslatable word, it seems, may be the sign of an unsustainable concept.”
 
 “In truth, language seems less like a series of cells in which we are imprisoned than like a set of tools that help us escape: some of the files are rusty; some will open any door; and most you have to jiggle around in the lock. But, sooner or later, most words work.”

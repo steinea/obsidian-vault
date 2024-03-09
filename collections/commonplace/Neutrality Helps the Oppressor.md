@@ -11,4 +11,6 @@ permalink: 2014/08/29/elie-wiesel-neutrality
 
 [[2014]] • [[commonplace]] • [[Elie Wiesel]] • [[Nobel Prize]]
 
+https://www.nobelprize.org/prizes/peace/1986/wiesel/acceptance-speech/
+
 "Neutrality helps the oppressor, never the victim. Silence encourages the tormentor, never the tormented."

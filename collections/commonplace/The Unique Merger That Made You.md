@@ -11,6 +11,8 @@ permalink: 2014/02/06/ed-yong-the-unique-merger-that-made-you
 
 [[2014]] • [[commonplace]] • [[Ed Yong]] • [[Nautilus]]
 
+https://web.archive.org/web/20140208012339/http://nautil.us/issue/10/mergers--acquisitions/the-unique-merger-that-made-you-and-ewe-and-yew
+
 “At first glance, a tree could not be more different from the caterpillars that eat its leaves, the mushrooms sprouting from its bark, the grass growing by its trunk, or the humans canoodling under its shade. Appearances, however, can be deceiving.”
 
 “Zoom in closely, and you will see that these organisms are all surprisingly similar at a microscopic level. Specifically, they all consist of cells that share the same basic architecture.”

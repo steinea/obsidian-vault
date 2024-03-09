@@ -11,6 +11,8 @@ permalink: 2014/11/27/lia-purpura-study-with-melon
 
 [[2014]] • [[commonplace]] • [[Lia Purpura]] • [[The New Yorker]]
 
+http://www.newyorker.com/magazine/2014/11/24/study-melon
+
 The stem end of a melon	
 <br>is weblike, form	
 <br>finding a pattern	

@@ -11,6 +11,8 @@ permalink: 2022/12/15/kathryn-lavezzo-multiculturalism-in-middle-earth
 
 [[2022]] • [[commonplace]] • [[Kathryn Lavezzo]] • [[Los Angeles Review of Books]]
 
+https://dev.lareviewofbooks.org/article/multiculturalism-in-middle-earth-on-amazons-the-lord-of-the-rings-the-rings-of-power/
+
 "J. R. R. TOLKIEN HAD an Atlantis complex"
 
 "Míriel’s vision of Númenor radically rejects the white patriarchal bonds embraced by Tolkien. The tsunami hits the island while the queen is blessing newborns brought to her by an emphatically multicultural group of mothers."

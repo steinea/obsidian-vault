@@ -11,6 +11,8 @@ permalink: 2014/09/17/david-hume-on-the-standard-of-taste
 
 [[2014]] • [[commonplace]] • [[David Hume]] • [[The Norton Anthology of Theory and Criticism]]
 
+https://wwnorton.com/books/9780393602951
+
 "The sentiments of men often differ with regard to beauty and deformity of all kinds, even while their discourse is the same” (212). 
 
 “The difference, it is said, is very wide between judgement and sentiment. All sentiment is right; because sentiment has a reference to nothing beyond itself, and is always real, wherever a man is conscious of it. But all determinations of the understanding are not right; because they have a reference to something beyond themselves, to wit, real matter of fact” (214).

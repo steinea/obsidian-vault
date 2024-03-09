@@ -11,6 +11,8 @@ permalink: 2014/10/15/claude-levi-strauss-the-structural-study-of-myth
 
 [[2014]] • [[commonplace]] • [[Claude Lévi-Strauss]] • [[Critical Theory]]
 
+https://global.oup.com/ushe/product/critical-theory-9780199797776
+
 ". . . the problem: if the content of a myth is contingent, how are we going to explain that throughout the world myths do resemble one another so much?" (75). 
 
 "the Saussurean principle of the arbitrary character of the linguistic signs was a prerequisite for the acceding of linguistics to the scientific level" (75).

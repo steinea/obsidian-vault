@@ -11,6 +11,8 @@ permalink: 2022/12/14/david-j-chalmers-narrow-content
 
 [[2022]] • [[commonplace]] • [[David J. Chalmers]] • [[Notre Dame Philosophical Reviews]]
 
+https://ndpr.nd.edu/reviews/narrow-content/
+
 "the Twin Earth Wars"
 
 "At the start of the first act (a long time ago, around 1970) the internalist empire slumbers in dogmatic confidence that the meanings of our words and the contents of our thoughts depend only on what is in the head"

@@ -11,6 +11,8 @@ permalink: 2014/09/05/jean-baudrillard-on-simulation-and-skyrim
 
 [[2014]] • [[commonplace]] • [[Jean Baudrillard]] • [[Simulacra and Simulation]]
 
+https://en.wikipedia.org/wiki/Simulacra_and_Simulation
+
 Orders of image: good, malefice, sorcery, simulation.
 
 "This imaginary world [Disneyland] is supposed to be what makes the operation succesful. But, what draws the crowds is undoubtedly much more the social microcosm, the miniaturized and religious revelling in real America, in its delights and drawbacks [...] digest of the American way of life, panegyrics to American values, idealized transposition of a contradictory reality [...] Disneyland is there to conceal the fact that it is the 'real' country, all of 'real' America, which is Disneyland"

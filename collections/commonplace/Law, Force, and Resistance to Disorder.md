@@ -11,6 +11,8 @@ permalink: 2014/10/13/lawrence-friedman-law-force-and-resistance-to-disorder
 
 [[2014]] • [[commonplace]] • [[Lawrence Friedman]] • [[Thomas Jefferson Law Review]] • [[Billy Budd, Sailor]]
 
+https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1805948
+
 Responding to Weisberg: “We should be careful to heed the words that Melville wrote, and not privilege over the text extrinsic evidence of the controlling law from the period in which the events of Billy Budd occur. Melville was writing fiction, not history” (66). 
 
 “Vere is the most fully realized character in the story, perhaps the only character in whose place we might imagine standing. Vere, in all his human complexity, accordingly may be seen as representative” (68).

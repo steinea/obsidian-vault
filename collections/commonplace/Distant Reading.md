@@ -11,6 +11,8 @@ permalink: 2014/09/28/franco-moretti-distant-reading
 
 [[2014]] • [[commonplace]] • [[Franco Moretti]] • [[New Left Review]]
 
+https://newleftreview.org/issues/ii1/articles/franco-moretti-conjectures-on-world-literature
+
 “world-systems theory showed the power of core literatures to overdetermine, and in fact distort, the development of most national cultures” (44).
 
 “At bottom [close reading is] a theological exercise—very solemn treatment of very few texts taken very seriously” (48).

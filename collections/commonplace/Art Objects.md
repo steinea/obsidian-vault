@@ -11,6 +11,8 @@ permalink: 2022/12/26/jeanette-winterson-art-objects
 
 [[2022]] • [[commonplace]] • [[Jeanette Winterson]] • [[Twitter]]
 
+https://mobile.twitter.com/alissamarie/status/1607490103945101312
+
 "Long looking at paintings is equivalent to being dropped into a foreign city, where gradually, out of desire and despair, a few key words, then a little syntax make a clearing in the silence. Art, all art, not just painting, is a foreign city, and we deceive ourselves when we think it familiar. No-one is surprised to find that a foreign city follows its own customs and speaks its own language. Only a boor would ignore both and blame his defaulting on the place. Every day this happens to the artist and the art. We have to recognize that the language of art, all art, is not our mother-tongue."
 
 "It is impossible to legislate taste, and if it were possible, it would be repugnant. There are no Commandments in art and no easy axioms for art appreciation. 'Do I like this?' is the question anyone should ask themselves at the moment of confrontation with the picture. But if 'yes', why 'yes'? and if 'no', why 'no'? The obvious direct emotional response is never simple, and ninety-nine times out of a hundred, the 'yes' or 'no' has nothing at all to do with the picture in its own right. 'I don't understand this poem', 'I never listen to classical music', 'I don't like this picture,' are common enough statements but not ones that tell us anything about books, painting, or music. They are statements that tell us something about the speaker."

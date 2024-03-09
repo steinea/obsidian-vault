@@ -11,6 +11,8 @@ permalink: 2013/02/24/casey-johnston-ten-hours-with-dwarf-fortress
 
 [[2013]] • [[commonplace]] • [[Caey Johnston]] • [[Ars Technica]]
 
+https://arstechnica.com/gaming/2013/02/dwarf-fortress-ten-hours-with-the-most-inscrutable-video-game-of-all-time/
+
 “Dwarf Fortress is one of the most complex computer games in the history of computer games.”
 
 “How complex? In the game's discussion forum, one player asserts that after 120 failed games, he can finally "get into the swing of things."”

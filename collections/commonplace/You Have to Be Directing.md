@@ -11,6 +11,8 @@ permalink: 2022/11/07/tony-gilroy-you-have-to-be-directing
 
 [[2022]] • [[commonplace]] • [[Tony Gilroy]] • [[Script]]
 
+https://scriptmag.com/interviews-features/tony-gilroy-checks-in-after-10-episodes-of-andor
+
 "I've come completely around on the whole notion. I don't ever wanna hear anybody say that writers shouldn't be directing... You have to be directing. I'm not interested in reading anybody else’s scripts anymore [who] aren't directing the film that they're writing. You should be making a film and showing it to me on the page.
 
 I used to half-believe that and I used to sort of say it, but this experience has led me to be completely... I've gone completely shied on this at this point.

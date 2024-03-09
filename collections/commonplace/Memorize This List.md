@@ -11,6 +11,8 @@ permalink: 2014/12/06/joseph-fink-jeffrey-cranor-the-list
 
 [[2014]] • [[commonplace]] • [[Joseph Fink]] • [[Jeffrey Cranor]] • [[Welcome to Night Vale]]
 
+https://www.welcometonightvale.com/
+
 ATTENTION ALL CITIZENS:
 
 Memorize this list. Memorize it now. It will not now, nor ever, be repeated. Memorize this list for your safety and protection. We cannot tell you when or where you will need to know it but when you do, you will be safe. Here is the list.

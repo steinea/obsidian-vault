@@ -11,6 +11,8 @@ permalink: 2022/12/30/naomi-kanakia-the-dreariness-of-book-club-discussions
 
 [[2022]] • [[commonplace]] • [[Naomi Kanakia]] • [[Los Angeles Review of Books]]
 
+https://lareviewofbooks.org/article/the-dreariness-of-book-club-discussions/
+
 "I AM A MEMBER of two book clubs, and both of them follow the same format: 20 minutes of discussion about our lives, a half hour of discussion about the book, and an hour of discussion over what book to read for next time"
 
 "And in each of the book clubs, the discussion inevitably defaults to the same amateur book review format. Each person says, “I liked it because X, although Y was lacking.” And then we total up all the Xs and Ys and figure out which features worked or didn’t work for each person"

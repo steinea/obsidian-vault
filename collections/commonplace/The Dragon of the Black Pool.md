@@ -11,6 +11,8 @@ permalink: 2015/01/26/po-chu-i-the-dragon-of-the-black-pool
 
 [[2015]] • [[commonplace]] • [[Po Chu I]] • [[Chinese Classics in English]]
 
+https://web.archive.org/web/20170703112448/http://bs.dayabook.com/poetry/po-chu-i-selected-poems/the-dragon-of-the-black-pool
+
 Deep the waters of the Black Pool, colored like ink;
 <br>They say a Holy Dragon lives there, whom men have never seen.
 <br>Beside the Pool they have built a shrine; the authorities have established a ritual;

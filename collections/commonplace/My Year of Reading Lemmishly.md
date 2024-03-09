@@ -11,6 +11,8 @@ permalink: 2022/07/01/jonathan-lethem-my-year-of-reading-lemmishly
 
 [[2022]] • [[commonplace]] • [[Jonathan Lethem]] • [[London Review of Books]]
 
+https://www.lrb.co.uk/the-paper/v44/n03/jonathan-lethem/my-year-of-reading-lemmishly
+
 "Philip K. Dick"
 
 "Lem belongs in that company of SF writers – Wells, Olaf Stapledon, Kim Stanley Robinson"

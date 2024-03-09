@@ -11,6 +11,8 @@ permalink: 2014/07/17/chris-mckitterick-defining-science-fiction
 
 [[2014]] • [[commonplace]] • [[Chris McKitterick]] • [[Center for the Study of Science Fiction]]
 
+https://web.archive.org/web/20140717131126/http://www.sfcenter.ku.edu/SF-Defined.htm
+
 “At the Center for the Study of Science Fiction, we feel it's important to understand the foundations of SF Studies, and that begins with knowing everyone's talking about the same thing.”
 
 “Science fiction is the literature of of the human species encountering change, whether it arrives via scientific discoveries, technological innovations, natural events, or societal shifts.”

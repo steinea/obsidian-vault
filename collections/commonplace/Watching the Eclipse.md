@@ -11,6 +11,8 @@ permalink: 2014/08/12/david-remnick-watching-the-eclipse
 
 [[2014]] • [[commonplace]] • [[David Remnick]] • [[The New Yorker]]
 
+http://www.newyorker.com/magazine/2014/08/11/watching-eclipse
+
 ““Western journalism, in large part, produces values,” Kiselyov said. “When I saw the horror in Ukraine and I returned to Russia, I realized we need to produce values. . . .”
 
 “His most powerful influence is the Eurasianists, who envisioned Russia as a unique civilization, neither European nor Asian, with its own “special destiny” and grandeur.”

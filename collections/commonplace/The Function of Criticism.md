@@ -11,6 +11,8 @@ permalink: 2014/09/17/matthew-arnold-the-function-of-criticism
 
 [[2014]] • [[commonplace]] • [[Matthew Arnold]] • [[The Norton Anthology of Theory and Criticism]]
 
+https://www.worldcat.org/title/norton-anthology-of-theory-and-criticism/oclc/45023141
+
 From the Introduction
 
 “art is never for art’s sake: Literature is of interest to [Arnold] primarily as an index to and a banner of the society that produced it” (379-80). 

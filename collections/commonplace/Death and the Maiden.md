@@ -11,4 +11,6 @@ permalink: 2014/08/27/hannah-proctor-death-and-the-maiden
 
 [[2014]] • [[commonplace]] • [[Hannah Proctor]] • [[The New Inquiry]]
 
+https://thenewinquiry.com/death-and-the-maiden/
+
 “Under capitalism, relations between people become relations between things. But even reified bodies bleed.”

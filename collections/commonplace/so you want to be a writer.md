@@ -11,6 +11,8 @@ permalink: 2013/06/28/charles-bukowski-so-you-want-to-be-a-writer
 
 [[2013]] • [[commonplace]] • [[Charles Bukowski]] • [[Poets]]
 
+https://poets.org/poem/so-you-want-be-writer
+
 if it doesn't come bursting out of you 
 <br> in spite of everything,
 <br> don't do it.

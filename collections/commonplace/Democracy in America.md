@@ -11,6 +11,8 @@ permalink: 2013/09/29/alexis-de-tocqueville-democracy
 
 [[2013]] • [[commonplace]] • [[Alexis de Tocqueville]] • [[Project Gutenberg]]
 
+https://www.gutenberg.org/files/815/815-h/815-h.htm
+
 "The means of democracy are therefore more imperfect than those of aristocracy: often it works against itself, without wanting to; but its goal is more useful" (222).
 
 

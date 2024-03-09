@@ -11,5 +11,7 @@ permalink: 2014/08/27/randall-munroe-one-planet-graves
 
 [[2014]] • [[commonplace]] • [[Randall Munroe]] • [[xkcd]]
 
+https://xkcd.com/893/
+
 [mouse-over]: ”The universe is probably littered with the one-planet graves of cultures which made the sensible economic decision that there's no good reason to go into space--each discovered, studied, and remembered by the ones who made the irrational decision."
 

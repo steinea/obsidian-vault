@@ -11,6 +11,8 @@ permalink: 2015/01/14/dominic-green-one-armed-nazis-and-albino-children
 
 [[2015]] • [[commonplace]] • [[Dominic Green]] • [[The New Republic]]
 
+https://newrepublic.com/article/120769/problem-anthony-doerrs-all-light-we-cannot-see
+
 "Historians call this sort of thing “normalization,” or, if they are German, Vergangenheitsbewältigung, “coming to terms with the past.” Through books and films, we process the exceptional and traumatic into the banal and mildly diverting."
  
 "Rosenfeld identifies three types of normalization: relativization, universalization, and aestheticization."

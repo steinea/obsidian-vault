@@ -11,6 +11,8 @@ permalink: 2014/04/07/jonathan-lethem-pending-vegan
 
 [[2014]] • [[commonplace]] • [[Jonathan Lethem]] • [[The New Yorker]]
 
+http://www.newyorker.com/magazine/2014/04/07/pending-vegan
+
 “Civilizing children was pretty much all about inducing cognitive dissonance. His daughters’ balancing of their desire both to cuddle and to devour mammals was their ticket for entry to the human pageant.”
 
 “Family life, a cataclysm of solitudes.”

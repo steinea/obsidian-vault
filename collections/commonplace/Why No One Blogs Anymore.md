@@ -11,6 +11,8 @@ permalink: 2015/02/27/robinson-meyer-why-no-one-blogs-anymore
 
 [[2015]] • [[commonplace]] • [[Robinson Meyer]] • [[The Atlantic]]
 
+https://www.theatlantic.com/technology/archive/2015/02/what-blogging-has-become/386201/
+
 "BuzzFeed is a venture-backed, metrics-optimized ying built for Facebook’s venture-backed, metrics-optimized yang."
  
 "Topic triumphs over author. Medium doesn’t want you to read something because of who wrote it; Medium wants you to read something because of what it’s about. And because of the implicit promise that Medium = quality."

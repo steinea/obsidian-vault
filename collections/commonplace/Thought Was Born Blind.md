@@ -11,6 +11,8 @@ permalink: 2015/03/03/fernando-pessoa-thought-was-born-blind
 
 [[2015]] • [[commonplace]] • [[Fernando Pessoa]] • [[35 Sonnets]]
 
+https://en.wikisource.org/wiki/35_Sonnets
+
 XXI. 
 
 Thought was born blind, but Thought knows what is seeing.

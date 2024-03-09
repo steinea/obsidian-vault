@@ -11,6 +11,8 @@ permalink: 2015/02/03/oliver-wendall-holmes-my-hunt-after-the-captain
 
 [[2015]] • [[commonplace]] • [[Oliver Wendall Holmes]] • [[The Atlantic]]
 
+https://www.theatlantic.com/magazine/archive/1862/12/my-hunt-after-the-captain/308750/
+
 "Thought not mortal, or not thought mortal,--which was it? The first; that is better than the second would be."
 
 "There are periods in which all places and people seem to be in a conspiracy to impress us with their individuality, in which every ordinary locality seems to assume a special significance and to claim a particular notice, in which every person we meet is either an old acquaintance or a character; days in which the strangest coincidences are continually happening, so that they get to be the rule, and not the exception."

@@ -11,6 +11,8 @@ permalink: 2015/01/12/lia-purpura-the-shiver-of-nothing
 
 [[2015]] • [[commonplace]] • [[Lia Purpura]] • [[The New Yorker]] 
 
+https://www.newyorker.com/magazine/2015/01/19/probability
+
 Most coincidents are not
 <br>miraculous, but way more
 <br>common than we think—

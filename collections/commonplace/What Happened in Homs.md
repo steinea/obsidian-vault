@@ -11,6 +11,8 @@ permalink: 2015/03/19/jonathan-littell-what-happened-in-homs
 
 [[2015]] • [[commonplace]] • [[Jonathan Littell]] • [[New York Review of Books]]
 
+https://www.nybooks.com/online/2015/03/18/syrian-notebooks-what-happened-in-homs/
+
 "America, traumatized by two useless and disastrous wars to the point of forgetting its own founding myth—that of a people rising against tyranny with their hunting guns, helped only by indomitable spirit and idealism—stood back and watched, petrified. Europe, weakened by economic crisis and self-doubt, followed suit, while the regime’s friends, Russia and Iran, occupied every inch of the political space thus made available. And geopolitics is always written with the blood of the people."
  
 "Playing the extremists against the moderates—the basic idea being that, having little or no social base, radical forces will be easy to eliminate once they have helped with the far harder job of crushing a main opponent deeply rooted in society—is a strategy that certainly has its lettres de noblesse."

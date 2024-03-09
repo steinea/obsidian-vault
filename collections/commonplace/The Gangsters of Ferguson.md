@@ -11,6 +11,8 @@ permalink: 2015/03/05/ta-nehisi-coates-the-gangsters-of-ferguson
 
 [[2015]] • [[commonplace]] • [[Ta-Nehisi Coates]] • [[The Atlantic]]
 
+https://www.theatlantic.com/politics/archive/2015/03/The-Gangsters-Of-Ferguson/386893/
+
 "Justice in Ferguson is not a matter of "racism without racists," but racism with racists so secure, so proud, so brazen that they used their government emails to flaunt it."
 
 ...

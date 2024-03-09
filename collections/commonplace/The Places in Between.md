@@ -11,6 +11,8 @@ permalink: 2014/07/28/pankaj-mishra-the-places-in-between
 
 [[2014]] • [[commonplace]] • [[Pankaj Mishra]] • [[The New Yorker]]
 
+https://www.newyorker.com/magazine/2014/08/04/places-3
+
 “Indonesia did have such a person: Sukarno, a qualified engineer and architect who had become a prominent insurgent against Dutch rule. For a brief while, he formed—with India’s Jawaharlal Nehru and Egypt’s Gamal Abdel Nasser—a kind of Holy Trinity of the post-colonial world.”
 
 “He developed an ideology known as Nasakom (an attempted blend of nationalism, Islam, and Communism), before settling on a more autocratic amalgam that he called Guided Democracy.”

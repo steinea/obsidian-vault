@@ -11,6 +11,8 @@ permalink: 2014/10/07/jacques-derrida-the-end-of-the-book-and-the-beginning-of-w
 
 [[2014]] • [[commonplace]] • [[Jacques Derrida]] • [[Of Grammatology]]
 
+https://en.wikipedia.org/wiki/Of_Grammatology
+
 “the Western concept of language . . . opposition of speech [parole] and language [langue]” (99).
 
 

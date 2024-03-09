@@ -11,6 +11,8 @@ permalink: 2015/02/14/soren-kierkegaard-despair
 
 [[2015]] • [[commonplace]] • [[Søren Kierkegaard]] • [[The Sickness Unto Death]]
 
+https://press.princeton.edu/books/paperback/9780691020280/kierkegaards-writings-xix-volume-19
+
 A. Despair is the sickness unto death 
 
    I. Despair is a sickness of the spirit, of the self, and accordingly can take three forms:

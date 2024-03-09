@@ -11,6 +11,8 @@ permalink: 2014/09/01/terry-eagleton-literary-theory
 
 [[2014]] • [[commonplace]] • [[Terry Eagleton]] • [[Literary Theory]]
 
+https://en.wikipedia.org/wiki/Literary_Theory:_An_Introduction
+
 "Hostility to theory usually means an opposition to other people's theories and an oblivion to one's own" (xii).
 
 "The idea that there is a single 'normal' language, a common currency shared equally by all members of society, is an illusion. Any actual language consists of a highly complex range of discourses, diff entailed according to class, region, gender, status, and so on, which can by no means be neatly unified into a single homogenous linguistic community. One person's norm may be another's deviation" (4).

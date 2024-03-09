@@ -11,6 +11,8 @@ permalink: 2014/09/27/brook-thomas-measured-forms
 
 [[2014]] • [[commonplace]] • [[Brook Thomas]] • [[Cross-Examinations of Law and Literature]] • [[Billy Budd, Sailor]]
 
+https://www.cambridge.org/core/books/crossexaminations-of-law-and-literature/3B480C9EAF39815DE86F090B25199090
+
 “Dr. John W. Webster” “had entrusted his defines to those who had already prejudged his guilt” (202-3). 
 
 “Vere has been accused, as Shaw was, of manufacturing law for the occasion and of swerving from the path of judicial integrity” (205).

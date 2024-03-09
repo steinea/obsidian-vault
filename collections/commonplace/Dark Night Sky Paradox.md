@@ -11,6 +11,8 @@ permalink: 2015/01/30/heinrich-wilhelm-olbers-dark-night-sky-paradox
 
 [[2015]] • [[commonplace]] • [[Heinrich Wilhelm Olbers]] • [[Wikipedia]]
 
+https://en.wikipedia.org/wiki/Olbers%27_paradox
+
 In astrophysics and physical cosmology, Olbers' paradox, named after the German astronomer Heinrich Wilhelm Olbers (1758–1840) and also called the "dark night sky paradox", is the argument that the darkness of the night sky conflicts with the assumption of an infinite and eternal static universe. The darkness of the night sky is one of the pieces of evidence for a non-static universe such as the Big Bang model. If the Universe is static, homogeneous at a large scale, and populated by an infinite number of stars, any sight line from Earth must end at the (very bright) surface of a star, so the night sky should be completely bright. This contradicts the observed darkness of the night.
 
 

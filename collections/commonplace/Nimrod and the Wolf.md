@@ -11,6 +11,8 @@ permalink: 2014/11/10/robert-menner-nimrod-and-the-wolf
 
 [[2014]] • [[commonplace]] • [[Robert Menner]] • [[Journal of English and Germanic Philology]]
 
+https://www.jstor.org/stable/27704407
+
 "Saturn and Marcolf both, in any case, replace the demons of earlier Hebrew and Arabic legend who reveal to Solomon the mysteries of the universe" (333).
 
 "there is a direct connection between Solomon's comment on the warning that befell the proud Chaldeans on the field of Shinar (i.e. the destruction of the Tower of Babel), and Saturn's reference to Nimrod (the builder of the Tower)" (336).

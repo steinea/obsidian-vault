@@ -11,6 +11,8 @@ permalink: 2014/08/03/dylan-thomas-do-not-go-gentle-into-that-good-night
 
 [[2014]] • [[commonplace]] • [[Dylan Thomas]] • [[Poets]]
 
+https://poets.org/poem/do-not-go-gentle-good-night
+
 Do not go gentle into that good night,
 <br> Old age should burn and rave at close of day;
 <br> Rage, rage against the dying of the light.

@@ -11,6 +11,8 @@ permalink: 2014/06/24/julian-hanna-manifesto-a-manifesto
 
 [[2014]] • [[commonplace]] • [[Julian Hanna]] • [[The Atlantic]]
 
+https://www.theatlantic.com/entertainment/archive/2014/06/manifestos-a-manifesto-the-10-things-all-manifestos-need/372135/
+
 Better, obviously, is something like this: “A Short Manifesto” (1964) by the Dutch conceptual artist Stanley Brouwn. It ends with a vision of the future, in 4,000 AD:
 
                  NO MUSIC

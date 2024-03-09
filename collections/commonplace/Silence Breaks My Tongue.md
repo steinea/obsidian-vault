@@ -11,6 +11,8 @@ permalink: 2015/03/22/sappho-silence-breaks-my-tongue
 
 [[2015]] • [[commonplace]] • [[Sappho]] • [[Wikipedia]]
 
+https://en.wikipedia.org/wiki/Sappho_31
+
 He seems an equal of the gods,
 <br>That man who sits across from you
 <br>And your sweet speaking, being near,

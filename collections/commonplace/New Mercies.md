@@ -11,6 +11,8 @@ permalink: 2015/03/15/jeremiah-new-mercies
 
 [[2015]] • [[commonplace]] • [[Jeremiah]] • [[Bible]]
 
+https://en.wikipedia.org/wiki/Lamentations_3
+
 "The steadfast love of the Lord never ceases;[a]
 <br>his mercies never come to an end;
 <br>they are new every morning;

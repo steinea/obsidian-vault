@@ -11,6 +11,8 @@ permalink: 2015/03/03/fernando-pessoa-born-before-the-stars
 
 [[2015]] • [[commonplace]] • [[Fernando Pessoa]] • [[35 Sonnets]]
 
+https://en.wikisource.org/wiki/35_Sonnets
+
 XXIV. 
 
 Something in me was born before the stars

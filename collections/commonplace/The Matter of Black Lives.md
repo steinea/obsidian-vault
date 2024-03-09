@@ -11,6 +11,8 @@ permalink: 2015/02/04/kelefa-sanneh-the-matter-of-black-lives
 
 [[2015]] • [[commonplace]] • [[Kelefa Sanneh]] • [[The New Yorker]]
 
+https://www.newyorker.com/magazine/2015/02/09/dont-like
+
 "Sociologists who study black America have a name for these camps: those who emphasize the role of institutional racism and economic circumstances are known as structuralists, while those who emphasize the importance of self-perpetuating norms and behaviors are known as culturalists."
 
 "Moynihan had stumbled into a quandary familiar to sociologists: sometimes your subject doesn’t want to be subjectified."

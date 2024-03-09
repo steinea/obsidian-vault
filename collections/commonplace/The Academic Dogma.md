@@ -11,4 +11,6 @@ permalink: 2014/08/31/robert-nisbet-the-academic-dogma
 
 [[2014]] • [[commonplace]] • [[Robert Nisbet]] • [[The Degradation of the Academic Dogma]]
 
+https://www.routledge.com/The-Degradation-of-the-Academic-Dogma/Nisbet/p/book/9781560009153
+
 “the academic dogma”: “Knowledge is important. Just that. Not ‘relevant’ knowledge; not ‘practical’ knowledge; not the kind of knowledge that enables one to wield power, achieve success, or influence others. Knowledge!” 

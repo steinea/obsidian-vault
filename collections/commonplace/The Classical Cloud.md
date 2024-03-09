@@ -11,4 +11,6 @@ permalink: 2014/09/02/alex-ross-the-classical-cloud
 
 [[2014]] • [[commonplace]] • [[Alex Ross]] • [[The New Yorker]]
 
+https://www.newyorker.com/magazine/2014/09/08/classical-cloud
+
 "what was once known as building a library is now considered hoarding. One is expected to banish all clutter and consume culture in a gleaming, empty room."

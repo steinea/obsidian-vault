@@ -11,6 +11,8 @@ permalink: 2014/11/09/andrew-scheil-babylon-and-anglo-saxon-england
 
 [[2014]] • [[commonplace]] • [[Andrew Scheil]] • [[Studies in the Literary Imagination]]
 
+https://go.gale.com/ps/i.do?id=GALE%7CA110531558&sid=googleScholar&v=2.1&it=r&linkaccess=abs&issn=00393819&p=LitRC&sw=w&userGroupName=anon%7E1c0b3e5d
+
 "Taken as a whole, as a web of narratives and images, Babylon incorporates a number of subsidiary allusions—
 
 1. places: the Tower of Babel, the plain of Shiner, the Tigris and Euphrates rivers; peoples (often blurred together indiscriminately): the Chaldeans, Babylonians, Assyrians, and Mesopotamians; 

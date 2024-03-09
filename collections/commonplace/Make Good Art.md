@@ -11,6 +11,8 @@ permalink: 2013/08/01/neil-gaiman-make-good-art
 
 [[2013]] • [[commonplace]] • [[Neil Gaiman]] • [[University of the Arts]]
 
+https://www.uarts.edu/neil-gaiman-keynote-address-2012
+
 I never really expected to find myself giving advice to people graduating from an establishment of higher education. I never graduated from any such establishment. I never even started at one. I escaped from school as soon as I could, when the prospect of four more years of enforced learning before I'd become the writer I wanted to be was stifling. 
 
 I got out into the world, I wrote, and I became a better writer the more I wrote, and I wrote some more, and nobody ever seemed to mind that I was making it up as I went along, they just read what I wrote and they paid for it, or they didn't, and often they commissioned me to write something else for them.

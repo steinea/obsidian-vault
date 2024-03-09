@@ -11,6 +11,8 @@ permalink: 2014/09/03/aristotle-the-capacity-to-produce-an-imitation
 
 [[2014]] • [[commonplace]] • [[Aristotle]] • [[The Norton Anthology of Theory and Criticism]]
 
+https://www.worldcat.org/title/norton-anthology-of-theory-and-criticism/oclc/45023141
+
 *From the commentary:*
 
 

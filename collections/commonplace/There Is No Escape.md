@@ -11,6 +11,8 @@ permalink: 2022/12/19/vivian-lam-there-is-no-escape
 
 [[2022]] • [[commonplace]] • [[Vivian Lam]] • [[Los Angeles Review of Books]]
 
+https://dev.lareviewofbooks.org/article/there-is-no-escape-on-supergiants-hades/
+
 "it’s no surprise that a game about repeatedly attempting to escape from a violent, labyrinthine hell from which there is no escape (as [one fan noted](https://archive.ph/m9JPh)) continues to strike a chord for many."
 
 "But the appeal of *Hades* lies less in its offer of escapist fantasy than in the way it forces players to confront everything they seek to escape in endless, recursive loops. And it is in the very act of repeated confrontation, the game argues, that survival in the absence of escape becomes possible"

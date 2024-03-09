@@ -11,4 +11,6 @@ permalink: 2014/12/12/laura-robinson-truth-and-positionality
 
 [[2014]] • [[commonplace]] • [[Laura Robinson]] • [[Canadaland]]
 
+https://www.canadaland.com/podcast/laura-robinson/
+
 "As much as I know from the place I now stand." 

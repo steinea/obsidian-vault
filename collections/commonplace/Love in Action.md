@@ -11,6 +11,8 @@ permalink: 2013/03/28/krista-tippett-john-lewis-love-in-action
 
 [[2013]] • [[commonplace]] • [[Krista Tippett]] • [[John Lewis]] • [[On Being]]
 
+http://www.onbeing.org/programs/john-lewis-love-action/
+
 “my mother would say over and over again, “Work hard.”
 
 And sometime working in the field, I would say to my mother, “This is hard work, and this work is about to kill me.” And she would say, “Boy, hard work never killed anybody.” So I worked very, very hard as a child.”

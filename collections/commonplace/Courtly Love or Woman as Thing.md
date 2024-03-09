@@ -11,6 +11,8 @@ permalink: 2014/11/14/slavoj-zizek-courtly-loveor-woman-as-thing
 
 [[2014]] • [[commonplace]] • [[Slavoj Zizek]] • [[The Norton Anthology of Theory and Criticism]]
 
+https://www.worldcat.org/title/norton-anthology-of-theory-and-criticism/oclc/45023141
+
 “the logic of courtly love still defines the parameters within which the two sexes relate to each other” (1181, my emphasis). 
 
 “erroneous notion of the Lady as sublime object” (1181).

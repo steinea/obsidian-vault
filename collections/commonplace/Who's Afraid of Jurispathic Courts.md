@@ -11,6 +11,8 @@ permalink: 2014/11/01/robert-post-whos-afraid-of-jurispathic-courts
 
 [[2014]] • [[commonplace]] • [[Robert Post]] • [[Yale Journal of Law & the Humanities]] • [[Billy Budd, Sailor]]
 
+https://openyls.law.yale.edu/handle/20.500.13051/7365
+
 "As against the constitutional politics of the state, Cover associates legal meaning almost invariably with “autonomous interpretive communities.” These communities can be insular and turn away from the state. Or they can be redemptive and attempt to capture the state. But if and when they do come to the levers of government power, they seemingly lose their association with nomos" (10). 
 
 "law, when it emanates from the state, “takes place in a field of pain and death”" (10).

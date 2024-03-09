@@ -11,6 +11,8 @@ permalink: 2014/04/28/daniel-bosch-on-epitaphic-fictions
 
 [[2014]] • [[commonplace]] • [[Daniel Bosch]] • [[The Paris Review]]
 
+https://www.theparisreview.org/blog/2014/04/28/on-epitaphic-fictions-ben-franklin-w-b-yeats/
+
 Witness this epitaph in the collection of the Yale Library, from an autograph manuscript composed circa 1728:
 
     The Body of

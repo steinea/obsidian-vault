@@ -11,6 +11,8 @@ permalink: 2015/02/10/michel-foucault-dispositif
 
 [[2015]] • [[commonplace]] • [[Michel Foucault]] • [[Wikipedia]]
 
+https://en.wikipedia.org/wiki/Dispositif
+
 "Foucault uses the term in his 1977 'The Confession of the Flesh' interview, where he answers the question, 'What is the meaning or methodological function for you of this term, apparatus (dispositif)?' as follows:
 
 'What I’m trying to pick out with this term is, firstly, a thoroughly heterogeneous ensemble consisting of discourses, institutions, architectural forms, regulatory decisions, laws, administrative measures, scientific statements, philosophical, moral and philanthropic propositions–in short, the said as much as the unsaid. Such are the elements of the apparatus. The apparatus itself is the system of relations that can be established between these elements.'"

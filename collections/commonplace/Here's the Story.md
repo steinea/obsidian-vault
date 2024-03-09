@@ -11,6 +11,8 @@ permalink: 2014/06/02/david-gilbert-heres-the-story
 
 [[2014]] • [[commonplace]] • [[David Gilbert]] • [[The New Yorker]]
 
+https://www.newyorker.com/magazine/2014/06/09/heres-the-story
+
 "Was he pedantic and sentimental? Was there a worse combination?"
 
 "After all, every father carries a kind of badge."

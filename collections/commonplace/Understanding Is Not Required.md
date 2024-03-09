@@ -11,6 +11,8 @@ permalink: 2024/02/01/cameron-kunzelman-understanding-is-not-required
 
 [[2024]] • [[commonplace]] • [[Cameron Kunzelman]] • [[Game Studies Study Buddies]]
 
+http://rangedtouch.com/2023/12/31/65-ito-engineering-play/
+
 “Roger has successfully scratched through the plasticine surface of modern reality and realized it doesn’t matter if you understand anything as long as you can operate the system. Understanding is not required for anything in the world. It’s all just a play of surfaces.”
 
 —Cameron Kunzelman, “65 – Ito – [[Engineering Play]],” *Game Studies Study Buddies*, December 31, 2023. <http://rangedtouch.com/2023/12/31/65-ito-engineering-play/>.

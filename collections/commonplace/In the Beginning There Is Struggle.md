@@ -11,6 +11,8 @@ permalink: 2013/07/09/amma-syncletica-in-the-beginning-there-is-struggle
 
 [[2013]] • [[commonplace]] • [[Amma Syncletica]] • [[Monachos]]
 
+https://web.archive.org/web/20080516225019/http://monachos.net/library/Selection_of_the_sayings_of_Amma_Syncletia
+
 “Amma Syncletica said: In the beginning there is struggle and a lot of work for those who come near to God. But after that there is indescribable joy. It is just like building a fire: at first it is smoky and your eyes water, but later you get the desired result. Thus we ought to light the divine fire in ourselves with tears and effort.
 
 She also said: Those who put out to sea at first sailed with a favourable wind; then the sails spread, but later the wind becomes adverse. Then the ship is tossed by the waves and is no longer controlled by the rudder. But when in a little while there is calm, and the tempest dies down, then the ship sails on again. So it is with us, when we are driven by the spirits who are against us; we hold to the cross as our sail and so we can set a safe course.

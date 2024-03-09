@@ -4,12 +4,14 @@ category: commonplace
 author: John Atwell
 title: Decisions, Judgments, Universalizability
 publication: Ethics
-link: https://www.journals.uchicago.edu/doi/abs/10.1086/291623?journalCode=et
+link: https://www.journals.uchicago.edu/doi/abs/10.1086/291623
 date: 2014-10-24
 permalink: 2014/10/24/john-atwell-decisions-judgments-universalizability
 ---
 
 [[2014]] • [[commonplace]] • [[John Atwell]] • [[Ethics]] • [[Billy Budd, Sailor]]
+
+https://www.journals.uchicago.edu/doi/abs/10.1086/291623
 
 Mary Warnock makes the remark, for instance, that "it is far from clear that the process of deciding what to do is [as the emotivists, and others, seem to assume] exactly like the process of judging somebody else's actions” (130). 
 

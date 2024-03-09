@@ -11,6 +11,8 @@ permalink: 2014/11/10/antonina-harbus-situation-of-wisdom-in-solomon-and-saturn-
 
 [[2014]] • [[commonplace]] • [[Antonina Harbus]] • [[Studia Neophilologica]]
 
+https://www.tandfonline.com/doi/abs/10.1080/00393270310018382
+
 "the diction of this poem appears emphatically to locate wisdom within the mind of the human subject, and figuratively to situate an active engagement with wisdom in the course of a successful life" (97).
 
 "the individual mind is responsible for despondency or delight" (97).

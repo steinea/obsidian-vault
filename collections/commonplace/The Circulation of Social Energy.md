@@ -11,6 +11,8 @@ permalink: 2014/09/28/stephen-greenblatt-the-circulation-of-social-energy
 
 [[2014]] • [[commonplace]] • [[Stephen Greenblatt]] • [[Shakespearean Negotiations]]
 
+https://www.google.ca/books/edition/Shakespearean_Negotiations/866eoQY-tXIC
+
 “simulations are undertaken in full awareness of the absence of the life they contrive to represent, and hence they may skillfully anticipate and compensate for the vanishing of the actual life that has empowered them” (2A). 
 
 “Shakespeare’s plays, it seemed, had precipitated out of a sublime confrontation between a total artist and a totalizing society. By a total artist I mean one who, through training, resourcefulness, and talent, is at the moment of creation complete unto himself; by a totalizing society I mean one that posits an occult network linking all human, natural, and cosmic powers and that claims on behalf of its ruling elite a privileged place in this network” (2A).

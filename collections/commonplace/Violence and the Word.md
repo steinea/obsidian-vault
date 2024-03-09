@@ -11,6 +11,8 @@ permalink: 2014/10/25/robert-cover-violence-and-the-word
 
 [[2014]] • [[commonplace]] • [[Robert Cover]] • [[Yale Law Journal]]
 
+https://openyls.law.yale.edu/handle/20.500.13051/16437
+
 I. THE VIOLENCE OF LEGAL ACTS
 
 

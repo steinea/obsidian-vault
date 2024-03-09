@@ -11,6 +11,8 @@ permalink: 2014/09/26/jeffrey-toobin-the-solace-of-oblivion
 
 [[2014]] • [[commonplace]] • [[Jeffrey Toobin]] • [[The New Yorker]]
 
+https://www.newyorker.com/magazine/2014/09/29/solace-oblivion
+
 Mayer-Schönberger said. “The Communists fought the Nazis with an ideology based on humanism, hoping that they could bring about a more just and fair society. And what did it look like? It turned into the same totalitarian surveillance society. With the Stasi, in East Germany, the task of capturing information and using it to further the power of the state is reintroduced and perfected by the society. So we had two radical ideologies, Fascism and Communism, and both end up with absolutely shockingly tight surveillance states.” 
 
 “We may feel safe living in democratic republics, but so did the Dutch,” he said. “We do not know what the future holds in store for us, and whether future governments will honor the trust we put in them to protect information privacy rights.”
