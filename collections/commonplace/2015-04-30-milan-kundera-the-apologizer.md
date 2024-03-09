@@ -6,9 +6,12 @@ title: The Apologizer
 publication: The New Yorker
 link: https://www.newyorker.com/magazine/2015/05/04/the-apologizer
 date: 2015-04-30
+permalink: 2015/04/30/milan-kundera-the-apologizer
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Milan Kundera]] • [[The New Yorker]] 
+
+https://www.newyorker.com/magazine/2015/05/04/the-apologizer
 
 "Heading for your death, you don’t worry about what you’ve dropped along the way."
 

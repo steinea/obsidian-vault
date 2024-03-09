@@ -6,9 +6,10 @@ title: Poem of Regret for an Old Friend
 publication: The New Yorker
 link: http://www.newyorker.com/magazine/2016/01/04/poem-of-regret-for-an-old-friend
 date: 2015-12-31
+permalink: 2015/12/31/meghan-orourke-poem-of-regret-for-an-old-friend
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Meghan O'Rourke]] • [[The New Yorker]]
 
 What you did wasn’t so bad.
 <br>You stood in a small room, waiting for the sun.

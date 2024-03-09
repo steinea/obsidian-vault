@@ -6,9 +6,12 @@ title: Harrison Bergeron
 publication: Cyber English
 link: http://www.tnellen.com/cybereng/harrison.html
 date: 2015-07-22
+permalink: 2015/07/22/kurt-vonnegut-harrison-bergeron
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Kurt Vonnegut]] • [[Cyber English]] 
+
+http://www.tnellen.com/cybereng/harrison.html
 
 ""If I tried to get away with it," said George, "then other people'd get away with it-and pretty soon we'd be right back to the dark ages again, with everybody competing against everybody else. You wouldn't like that, would you?""
  

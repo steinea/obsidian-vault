@@ -6,9 +6,12 @@ title: America's Fragile Constitution
 publication: The Atlantic
 link: https://www.theatlantic.com/magazine/archive/2015/10/our-fragile-constitution/403237/
 date: 2015-10-10
+permalink: 2015/10/10/yoni-applebaum-americas-fragile-constitution
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Yoni Applebaum]] • [[The Atlantic]]
+
+https://www.theatlantic.com/magazine/archive/2015/10/our-fragile-constitution/403237/
 
 "Which posed the greater threat, legislative tyranny or monarchy? Had America revolted against a king, or against his parliament?"
 

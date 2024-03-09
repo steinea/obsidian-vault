@@ -6,9 +6,12 @@ title: Money and Power at Strip Clubs
 publication: JSTOR Daily
 link: https://daily.jstor.org/money-power-strip-clubs/
 date: 2015-07-16
+permalink: 2015/07/16/livia-gershon-money-and-power-at-strip-clubs
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Livia Gershon]] • [[JSTOR]] 
+
+https://daily.jstor.org/money-power-strip-clubs/
 
 "“An approach of decontextualized individualism is inappropriate for analysis of stripping because, unlike the women who strip, the club owners and entrepreneurs are very organized nationally and internationally,” she writes. “They are not operating simply as individuals.”"
 

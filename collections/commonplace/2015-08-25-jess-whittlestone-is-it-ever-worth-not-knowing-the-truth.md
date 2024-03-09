@@ -6,9 +6,12 @@ title: Is It Ever Worth Not Knowing the Truth
 publication: Aeon
 link: https://aeon.co/magazine/philosophy/is-it-ever-worth-not-knowing-the-truth
 date: 2015-08-25
+permalink: 2015/08/25/jess-whittlestone-is-it-ever-worth-not-knowing-the-truth
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Jess Whittlestone]] • [[Aeon]]
+
+https://aeon.co/magazine/philosophy/is-it-ever-worth-not-knowing-the-truth
 
 "Many people do seem to have an intuition that truth has some intrinsic value. The late Harvard philosopher Robert Nozick’s thought experiment, the ‘experience machine’ of 1974, helps to illustrate this intuition. Imagine you had the option of being hooked up to a machine that could give you whatever desirable or pleasurable experiences you could possibly want – and you could even make it so that you had no idea that your experiences weren’t real. Hooked up to the experience machine, you could experience a happy and fulfilled life – the only catch being that none of your experiences would actually correspond to any external reality. Would you choose the machine over real life?"
 

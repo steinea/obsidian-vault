@@ -6,9 +6,12 @@ title: Not Art and Tech
 publication: Contemporary Home Computing
 link: http://contemporary-home-computing.org/art-and-tech/not/
 date: 2015-12-25
+permalink: 2015/12/25/olia-lialina-not-art-and-tech
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Olia Lialina]] • [[Contemporary Home Computing]]
+
+http://contemporary-home-computing.org/art-and-tech/not/
 
 "But there are many obstacles on my way. Three years ago I grasped and boiled them down to three: technology, experience and people. Or rather “technology,” “experience” and “people”—I have nothing against any of these concepts unless they are used by hardware and software companies as substitutes for “computer,” “interface” and “users.”"
  

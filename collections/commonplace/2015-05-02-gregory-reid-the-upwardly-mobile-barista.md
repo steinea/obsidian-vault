@@ -3,12 +3,15 @@ layout: entry
 category: commonplace
 author: Gregory Reid
 title: The Upwardly Mobile Barista
-publication: The Archive
+publication: The Atlantic
 link: https://www.theatlantic.com/magazine/archive/2015/05/the-upwardly-mobile-barista/389513/
 date: 2015-05-02
+permalink: 2015/05/02/gregory-reid-the-upwardly-mobile-barista
 ---
  
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Gregory Reid]] • [[The Atlantic]] 
+
+https://www.theatlantic.com/magazine/archive/2015/05/the-upwardly-mobile-barista/389513/
 
 "Simply put, many Americans fail to finish college, because many colleges are not designed to be finished. They are designed to enroll students, yes. They are built to garner research funds and accrue status through rankings and the scholarly articles published by faculty. But those things have little to do with making sure students leave prepared to thrive in the modern economy."
  

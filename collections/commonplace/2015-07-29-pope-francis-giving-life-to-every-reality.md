@@ -6,9 +6,12 @@ title: Giving Life to Every Reality
 publication: Vatican
 link: https://www.vatican.va/content/francesco/en/speeches/2014/october/documents/papa-francesco_20141027_plenaria-accademia-scienze.html
 date: 2015-07-29
+permalink: 2015/07/29/pope-francis-giving-life-to-every-reality
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Pope Francis]] • [[Vatican]] 
+
+https://www.vatican.va/content/francesco/en/speeches/2014/october/documents/papa-francesco_20141027_plenaria-accademia-scienze.html
 
 "God and Christ are walking with us and are also present in nature, as the Apostle Paul stated in his discourse at the Areopagus: “In him we live and move and have our being” (Acts 17:28)."
  

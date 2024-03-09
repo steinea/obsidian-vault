@@ -6,9 +6,12 @@ title: The Lake Isle of Innisfree
 publication: Poetry Foundation
 link: https://www.poetryfoundation.org/poems/43281/the-lake-isle-of-innisfree
 date: 2015-10-20
+permalink: 2015/10/20/william-butler-yeats-the-lake-isle-of-innisfree
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[William Butler Yeats]] • [[Poetry Foundation]]
+
+https://www.poetryfoundation.org/poems/43281/the-lake-isle-of-innisfree
 
 I will arise and go now, and go to Innisfree, 
 <br>And a small cabin build there, of clay and wattles made; 

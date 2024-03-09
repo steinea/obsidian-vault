@@ -6,9 +6,12 @@ title: The Hidden Connection Between Morality and Language
 publication: Nautilus
 link: https://nautil.us/blog/the-hidden-connection-between-morality-and-language
 date: 2015-08-10
+permalink: 2015/08/10/cody-delistraty-the-hidden-connection-between-morality-and-language
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Cody Delistraty]] • [[Nautilus]] 
+
+https://nautil.us/blog/the-hidden-connection-between-morality-and-language
 
 "a distance is created between emotional and moral topics when speaking in a second language"
 

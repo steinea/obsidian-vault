@@ -3,12 +3,15 @@ layout: entry
 category: commonplace
 author: Joel Duff
 title: Stars Beyond View
-publication:
+publication: Natural Historian
 link: http://thenaturalhistorian.com/2015/12/26/nh-notes-john-ray-on-the-purpose-of-creation-in-the-wisdom-of-god-2/
 date: 2015-12-28
+permalink: 2015/12/28/joel-duff-stars-beyond-view
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Joel Duff]] • [[Natural Historian]]
+
+http://thenaturalhistorian.com/2015/12/26/nh-notes-john-ray-on-the-purpose-of-creation-in-the-wisdom-of-god-2/
 
 “The question of the day that Ray is addressing is whether all parts of creation were made for man or whether some parts were made solely for the Glory of God irrespective of man’s position in creation.”
 

@@ -6,9 +6,12 @@ title: Kairos and Logos
 publication: The Southern Review
 link: https://thesouthernreview.org/issues/detail/Spring-1941/211/
 date: 2015-10-18
+permalink: 2015/10/18/william-butler-yeats-kairos-and-logos
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[William Butler Yeats]] • [[The Southern Review]]
+
+https://thesouthernreview.org/issues/detail/Spring-1941/211/
 
 I
 

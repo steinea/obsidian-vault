@@ -6,9 +6,12 @@ title: Troubles with Three-ism
 publication: Los Angeles Review of Books
 link: https://lareviewofbooks.org/article/troubles-with-three-ism-body-mind-and-soul/
 date: 2015-11-30
+permalink: 2015/11/30/owen-flanagan-troubles-with-three-ism
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Owen Flanagan]] • [[Los Angeles Review of Books]]
+
+https://lareviewofbooks.org/article/troubles-with-three-ism-body-mind-and-soul/
 
 "my soul, unlike my mind, seemed a bit too vague and general to be “me.” I wanted to be in heaven with me as me myself. Such were the vicissitudes of boyhood. I was troubled by three-ism. I was not, and am not, alone."
 

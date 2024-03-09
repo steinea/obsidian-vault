@@ -6,9 +6,12 @@ title: Donald Trump's Politics of Fear
 publication: The Atlantic
 link: https://www.theatlantic.com/politics/archive/2015/11/donald-trumps-formula-for-success-in-foreign-policy/417456/
 date: 2015-11-24
+permalink: 2015/11/24/peter-beinart-donald-trumps-politics-of-fear
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Peter Beinart]] • [[The Atlantic]]
+
+https://www.theatlantic.com/politics/archive/2015/11/donald-trumps-formula-for-success-in-foreign-policy/417456/
 
 "The Republicans who support Trump—who disproportionately lack college degrees—are largely what Walter Russell Mead calls “Jacksonians.” Jacksonians—whom Mead distinguishes from democracy-spreading “Wilsonians,” commerce-oriented “Hamiltonians,” and empire-fearing “Jeffersonians”—are hawkish isolationists."
  

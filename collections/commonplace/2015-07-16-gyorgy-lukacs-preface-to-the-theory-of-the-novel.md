@@ -6,9 +6,12 @@ title: Preface to The Theory of the Novel
 publication: Marxists
 link: https://www.marxists.org/archive/lukacs/works/theory-novel/preface.htm
 date: 2015-07-16
+permalink: 2015/07/16/gyorgy-lukacs-preface-to-the-theory-of-the-novel
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Gyorgy Lukács]] • [[Marxists]]
+
+https://www.marxists.org/archive/lukacs/works/theory-novel/preface.htm
 
 "Source: The Theory of the Novel. A historico-philosophical essay on the forms of great epic literature. by Georg Lukács, translated from the German by Anna Bostock, published by Merlin Press. THE FIRST draft of this study was written in the summer of 1914 and the final version in the winter of 1914-15. It first appeared in Max Dessoir’s Zeitschrift fur Aesthetik und Allgemeine Kunstwissenschaft in 1916 and was published in book form by P. Cassirer, Berlin, in 1920."
 

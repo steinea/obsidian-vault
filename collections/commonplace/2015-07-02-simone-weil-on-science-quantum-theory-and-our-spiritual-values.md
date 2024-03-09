@@ -6,9 +6,12 @@ title: On Science, Quantum Theory, and Our Spiritual Values
 publication: The Marginalian
 link: https://www.themarginalian.org/2015/06/24/simone-weil-on-science-necessity-and-the-love-of-god/
 date: 2015-07-02
+permalink: 2015/07/02/simone-weil-on-science-quantum-theory-and-our-spiritual-values
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Simone Weil]] • [[The Marginalian]] 
+
+https://www.themarginalian.org/2015/06/24/simone-weil-on-science-necessity-and-the-love-of-god/
 
 "the capital-T truth science purports to produce is merely the average of the various subjectivities of the villagers"
  

@@ -6,9 +6,12 @@ title: Spaces Where Maps Fail
 publication: Los Angeles Review of Books
 link: https://lareviewofbooks.org/article/spaces-where-maps-fail/
 date: 2015-07-14
+permalink: 2015/07/14/john-rieder-spaces-where-maps-fail
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[John Rieder]] • [[Los Angeles Review of Books]] 
+
+https://lareviewofbooks.org/article/spaces-where-maps-fail/
 
 "Taken together, Looking Backward and King Solomon’s Mines comprise the complementary halves of what we can call a collective cartography. If the mapping of social space into tightly controlled regularities in Bellamy’s Boston finds its counterpart in the mapping of the African interior as the repository of hidden treasure in Haggard’s fantasy, the figure of the map here is more than just a metaphor."
 

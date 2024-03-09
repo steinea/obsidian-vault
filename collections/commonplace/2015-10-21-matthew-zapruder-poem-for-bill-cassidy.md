@@ -6,9 +6,12 @@ title: Poem for Bill Cassidy
 publication: Poetry Foundation
 link: https://www.poetryfoundation.org/poetrymagazine/poems/56893/poem-for-bill-cassidy
 date: 2015-10-21
+permalink: 2015/10/21/matthew-zapruder-poem-for-bill-cassidy
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Matthew Zapruder]] • [[Poetry Foundation]]
+
+https://www.poetryfoundation.org/poetrymagazine/poems/56893/poem-for-bill-cassidy
 
 I wish I would
 <br>like a ship

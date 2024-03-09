@@ -3,12 +3,15 @@ layout: entry
 category: commonplace
 author: Friedrich Nietzsche
 title: Passion Will Not Wait
-publication: Human,All Too Human
+publication: Human, All Too Human
 link: https://en.wikipedia.org/wiki/Human,_All_Too_Human
 date: 2015-06-27
+permalink: 2015/06/27/friedrich-nietzsche-passion-will-not-wait
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Friedrich Nietzsche]] • [[Human, All Too Human]] 
+
+https://en.wikipedia.org/wiki/Human,_All_Too_Human
 
 61. THE POWER OF WAITING
 

@@ -6,9 +6,12 @@ title: The Neighbor In The Self
 publication: Open Democracy
 link: https://www.opendemocracy.net/en/article/the-neighbor-in-the-self/
 date: 2015-04-08
+permalink: 2015/04/08/james-r-mensch-the-neighbor-in-the-self
 ---
 
-[[2015]] / [[commonplace]] / [[Open Democracy]]
+[[2015]] • [[commonplace]] • [[James R. Mensch]] • [[Open Democracy]]
+
+https://www.opendemocracy.net/en/article/the-neighbor-in-the-self/
 
 "in his identity with the divine, no human being can be stereotyped"
  

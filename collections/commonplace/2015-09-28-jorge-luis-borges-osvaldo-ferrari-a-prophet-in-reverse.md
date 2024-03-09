@@ -6,9 +6,12 @@ title: A Prophet in Reverse
 publication: New York Review of Books
 link: https://www.nybooks.com/online/2015/09/24/prophet-reverse-borges/
 date: 2015-09-28
+permalink: 2015/09/28/jorge-luis-borges-osvaldo-ferrari-a-prophet-in-reverse
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Jorge Luis Borges]] • [[Osvaldo Ferrari]] • [[New York Review of Books]]
+
+https://www.nybooks.com/online/2015/09/24/prophet-reverse-borges/
 
 "It’s as if each country looks for a form of antidote in the author it chooses. In France’s case, however, it has such a rich literary tradition that it hasn’t chosen one figure, but if one goes for Hugo—clearly, Hugo isn’t like the majority of French people."
 

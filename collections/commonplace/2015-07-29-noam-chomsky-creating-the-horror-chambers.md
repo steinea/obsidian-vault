@@ -6,9 +6,12 @@ title: Creating the Horror Chambers
 publication: Jacobin
 link: https://jacobin.com/2015/07/chomsky-interview-citizens-united-democracy-higher-education/
 date: 2015-07-29
+permalink: 2015/07/29/noam-chomsky-creating-the-horror-chambers
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Noam Chomsky]] • [[Jacobin]] 
+
+https://jacobin.com/2015/07/chomsky-interview-citizens-united-democracy-higher-education/
 
 "Definitions are basically parts of theoretical structures. A definition doesn’t mean anything unless it’s embedded in some theory of some explanatory scope."
  

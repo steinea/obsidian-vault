@@ -6,9 +6,12 @@ title: About Your Skin
 publication: Nautilus
 link: https://nautil.us/issue/26/color/about-your-skin
 date: 2015-07-12
+permalink: 2015/07/12/jasu-hu-about-your-skin
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Jasu Hu]] • [[Nautilus]] 
+
+https://nautil.us/issue/26/color/about-your-skin
 
 "I see it as my autobiography. My skin has seen everything that I have, all of the weather, the sorrow, the happiness, the toil. I love the changes that I see in my skin, and I see it as part of my human story."
  

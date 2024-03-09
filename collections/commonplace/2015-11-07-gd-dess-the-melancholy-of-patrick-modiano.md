@@ -6,9 +6,12 @@ title: The Melancholy of Patrick Modiano
 publication: Los Angeles Review of Books
 link: https://lareviewofbooks.org/article/the-melancholy-of-patrick-modiano/
 date: 2015-11-07
+permalink: 2015/11/07/gd-dess-the-melancholy-of-patrick-modiano
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[GD Dess]] • [[Los Angeles Review of Books]]
+
+https://lareviewofbooks.org/article/the-melancholy-of-patrick-modiano/
 
 "IN 2014, FRENCH AUTHOR Patrick Modiano was awarded the Nobel Prize in literature “for the art of memory with which he has evoked the most ungraspable human destinies and uncovered the life-world of the occupation.”"
 

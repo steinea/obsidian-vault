@@ -6,9 +6,12 @@ title: Open Your Hand
 publication: Bible
 link: https://en.wikipedia.org/wiki/Book_of_Deuteronomy
 date: 2015-10-04
+permalink: 2015/10/04/moses-open-your-hand
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Moses]] • [[Bible]]
+
+https://en.wikipedia.org/wiki/Book_of_Deuteronomy
 
 "If there is among you anyone in need, a member of your community in any of your towns within the land that the LORD your God is giving you, do not be hard-hearted or tight-fisted toward your needy neighbor. You should rather open your hand, willingly lending enough to meet the need, whatever it may be. 
 

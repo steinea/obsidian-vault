@@ -6,9 +6,12 @@ title: What Consumes Destroys
 publication: Los Angeles Review of Books
 link: https://lareviewofbooks.org/article/what-consumes-destroys-don-winslow/
 date: 2015-08-12
+permalink: 2015/08/12/angel-luis-colon-what-consumes-destroys
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Angel Luis Colón]] • [[Los Angeles Review of Books]]
+
+https://lareviewofbooks.org/article/what-consumes-destroys-don-winslow/
 
 "Capitalism demands that desire be our church. There needs to be someone on top and the rest need to be ice skating up that hill. Maybe some of us will even make it up there only to find another hill — another thing we’ll need."
 

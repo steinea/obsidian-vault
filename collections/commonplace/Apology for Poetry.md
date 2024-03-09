@@ -9,7 +9,7 @@ date: 2014-09-12
 permalink: 2014/09/12/philip-sydney-apology-for-poetry
 ---
 
-[[2014]] • [[commonplace]] • [[Philip Sydney]] • [[The Norton Anthology of Theory and Criticism]]
+[[2014]] • [[commonplace]] • [[Philip Sidney]] • [[The Norton Anthology of Theory and Criticism]]
 
 Introduction to Sydney: "At the outset of the essay, poetry is portrayed as in engaged in a contest to prove its excellence and virtue against rival sciences like philosophy and history, and, like a participant in on the formal Elizabethan tournaments, must be gendered masculine. By the end of the essay, though, poesy has become not the contender but what is contended for, the prize for which England's writers strive against those of other nations, the feminine reward for masculine valor" (134-35). 
 

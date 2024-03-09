@@ -6,9 +6,12 @@ title: The Laurentian Consensus
 publication: The Globe and Mail
 link: https://www.theglobeandmail.com/news/politics/the-death-of-the-laurentian-consensus-and-what-it-says-about-canada/article4403773/
 date: 2015-08-19
+permalink: 2015/08/19/john-ibbitson-the-laurentian-consensus
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[John Ibbitson]] • [[The Globe and Mail]]
+
+https://www.theglobeandmail.com/news/politics/the-death-of-the-laurentian-consensus-and-what-it-says-about-canada/article4403773/
 
 "From Confederation until quite recently, the direction of this country was determined by the elites in Toronto, Ottawa, Montreal and other cities along the St. Lawrence River or its watershed. On all of the great issues of the day, the Laurentian elites debated among themselves, reached a consensus and implemented that consensus. In short, they governed the country."
 

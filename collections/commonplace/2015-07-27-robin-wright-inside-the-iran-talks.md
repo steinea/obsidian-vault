@@ -6,9 +6,12 @@ title: Inside the Iran Talks
 publication: The New Yorker
 link: https://www.newyorker.com/magazine/2015/07/27/tehrans-promise
 date: 2015-07-27
+permalink: 2015/07/27/robin-wright-inside-the-iran-talks
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Robin Wright]] • [[The New Yorker]] 
+
+https://www.newyorker.com/magazine/2015/07/27/tehrans-promise
 
 "“The revolution is in a midlife crisis. What is a midlife crisis? When you think idealism and youthfulness are gone. The revolution doesn’t want to accept that it has grown older, that it won’t achieve everything it wanted to achieve. Or that it has to adapt to survive.”"
  

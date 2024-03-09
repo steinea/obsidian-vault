@@ -6,9 +6,12 @@ title: Human Freedom and Divine Foreknowledge
 publication: The Consolation of Philosophy
 link: https://www.gutenberg.org/files/14328/14328-h/14328-h.htm#Page_229
 date: 2015-11-30
+permalink: 2015/11/30/boethius-human-freedom-and-divine-foreknowledge
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Boethius]] • [[The Consolation of Philosophy]]
+
+https://www.gutenberg.org/files/14328/14328-h/14328-h.htm#Page_229
 
 Book V, Chs 2, 3, & 6 
 

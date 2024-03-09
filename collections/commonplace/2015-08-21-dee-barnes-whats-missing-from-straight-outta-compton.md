@@ -6,9 +6,12 @@ title: What's Missing From Straight Outta Compton
 publication: Gawker
 link: https://www.gawker.com/heres-whats-missing-from-straight-outta-compton-me-and-1724735910
 date: 2015-08-21
+permalink: 2015/08/21/dee-barnes-whats-missing-from-straight-outta-compton
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Dee Barnes]] • [[Gawker]]
+
+https://www.gawker.com/heres-whats-missing-from-straight-outta-compton-me-and-1724735910
 
 "That’s what they’re trying to do with Straight Outta Compton: They’re trying to stay hard, and look like good guys."
 

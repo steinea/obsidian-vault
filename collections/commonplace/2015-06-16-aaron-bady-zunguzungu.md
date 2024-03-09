@@ -6,9 +6,12 @@ title: Zunguzungu
 publication: Zunguzungu
 link: https://zunguzungu.wordpress.com/about/
 date: 2015-05-16
+permalink: 2015/05/16/aaron-bady-zunguzungu
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Aaron Bady]] 
+
+https://zunguzungu.wordpress.com/about/
 
 “I was an mzungu in Tanzania, and now I’m an mzungu in California. In Tanzania, you learn that you’re an mzungu when children shout “zunguzungu!” and follow you around, and in California you learn to forget because they aren’t there to remind you.”
 

@@ -6,9 +6,12 @@ title: Undigesting Deleuze
 publication: Los Angeles Review of Books
 link: https://lareviewofbooks.org/article/undigesting-deleuze/
 date: 2015-11-09
+permalink: 2015/11/09/brian-massumi-undigesting-deleuze
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Brian Massumi]] • [[Los Angeles Review of Books]]
+
+https://lareviewofbooks.org/article/undigesting-deleuze/
 
 "This procedure neglects the fact that everything is alive, in the sense that it continues to move through the world in a way that continually generates new variations on itself, ever reincluding itself in the world anew. Everything is in process."
  

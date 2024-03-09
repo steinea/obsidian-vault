@@ -6,9 +6,12 @@ title: Full Brightness
 publication: The New Inquiry
 link: https://thenewinquiry.com/full-brightness/
 date: 2015-12-20
+permalink: 2015/12/20/jacqueline-feldman-full-brightness
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Jacqueline Feldman]] • [[The New Inquiry]]
+
+https://thenewinquiry.com/full-brightness/
 
 "SLEEP Cycle’s logo—a blocky, iconographized clock—looks like the icons for PHONE or ­TOILET on signs along highways, announcing the sleep-tracking service it offers as a basic need."
 

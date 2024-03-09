@@ -6,9 +6,10 @@ title: Fear
 publication: New York Review of Books
 link: https://www.nybooks.com/articles/2015/09/24/marilynne-robinson-fear/
 date: 2015-09-12
+permalink: 2015/09/12/marilynne-robinson-fear
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Marilynne Robinson]] • [[New York Review of Books]]
 
 "We are identified in the world at large with this religion because some of us espouse it not only publicly but also vociferously. As a consequence, we carry a considerable responsibility for its good name in the world, though we seem not much inclined to consider the implications of this fact. If we did, some of us might think a little longer about associating the precious Lord with ignorance, intolerance, and belligerent nationalism."
  

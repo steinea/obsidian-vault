@@ -6,9 +6,12 @@ title: The Idea of Europe
 publication: Los Angeles Review of Books
 link: https://lareviewofbooks.org/article/the-idea-of-europe/
 date: 2015-08-21
+permalink: 2015/08/21/costica-bradatan-robert-zaretsky-the-idea-of-europe
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Costica Bradatan]] • [[Robert Zaretsky]] • [[Los Angeles Review of Books]]
+
+https://lareviewofbooks.org/article/the-idea-of-europe/
 
 "those features — such as coffeehouses, ample pedestrian spaces, and a humanized landscape — which George Steiner finds define Europe."
  

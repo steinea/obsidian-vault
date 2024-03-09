@@ -6,9 +6,12 @@ title: Black Rook In Rainy Weather
 publication: Salt
 link: https://www.saltproject.org/progressive-christian-blog/2021/12/13/black-rook-in-rainy-weather-by-sylvia-plath
 date: 2015-10-18
+permalink: 2015/10/18/sylvia-plath-black-rook-in-rainy-weather
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Sylvia Plath]] • [[Salt Project]]
+
+https://www.saltproject.org/progressive-christian-blog/2021/12/13/black-rook-in-rainy-weather-by-sylvia-plath
 
 On the stiff twig up there
 <br>Hunches a wet black rook

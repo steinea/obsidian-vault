@@ -6,9 +6,12 @@ title: The Matter of Frenchness
 publication: Los Angeles Review of Books
 link: https://lareviewofbooks.org/article/the-matter-of-frenchness/
 date: 2015-12-22
+permalink: 2015/12/22/jonathan-wilson-the-matter-of-frenchness
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Jonathan Wilson]] • [[Los Angeles Review of Books]]
+
+https://lareviewofbooks.org/article/the-matter-of-frenchness/
 
 "Despite the common perception, the French are rather docile, rather easy to govern. But they are not complete idiots. Instead, their main flaw is a kind of forgetful frivolity that necessitates jogging their memory from time to time."
 

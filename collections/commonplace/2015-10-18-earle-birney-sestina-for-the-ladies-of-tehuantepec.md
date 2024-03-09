@@ -6,9 +6,12 @@ title: Sestina for the Ladies of Tehuántepec
 publication: Fall by Fury
 link: https://canpoetry.library.utoronto.ca/birney/poem3.htm
 date: 2015-10-18
+permalink: 2015/10/18/earle-birney-sestina-for-the-ladies-of-tehuantepec
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Earle Birney]] • [[Canadian Poetry Online]]
+
+https://canpoetry.library.utoronto.ca/birney/poem3.htm
 
 "Teh. has six claims to fame:      its numerous hotsprings
 <br>(radioactive, therapeutic); moderate earthquakes

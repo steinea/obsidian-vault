@@ -6,9 +6,12 @@ title: The Free Will Scale
 publication: Aeon
 link: https://aeon.co/magazine/philosophy/free-will-is-back-and-maybe-we-can-measure-it
 date: 2015-10-24
+permalink: 2015/10/24/stephen-cave-the-free-will-scale
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Stephen Cave]] • [[Aeon]]
+
+https://aeon.co/magazine/philosophy/free-will-is-back-and-maybe-we-can-measure-it
 
 "By the standards of most life on Earth, cats have highly sophisticated brains. This gives them a range of behavioural options – a degree of freedom, we might say."
  

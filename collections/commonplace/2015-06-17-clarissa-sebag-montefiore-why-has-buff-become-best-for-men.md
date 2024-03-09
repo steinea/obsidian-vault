@@ -6,9 +6,12 @@ title: Why Has Buff Become Best for Men?
 publication: Aeon
 link: https://aeon.co/magazine/culture/why-has-buff-become-best-for-men
 date: 2015-06-17
+permalink: 2015/06/17/clarissa-sebag-montefiore-why-has-buff-become-best-for-men
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Clarissa Sebag-Montefiore]] • [[Aeon]] 
+
+https://aeon.co/magazine/culture/why-has-buff-become-best-for-men
 
 "‘We’ve idolised this athletic warrior type, but it’s been accepted that most people didn’t aspire to be that,’ explained Timothy Baghurst, a specialist in male body image at Oklahoma State University. ‘Portraits in the 16th century aren’t of tough soldiers – they are more commanders and leaders whose physique isn’t that important.’ In post-subsistence industrialised societies, brains and birthrights have always trumped brawn."
 

@@ -6,9 +6,12 @@ title: A Moment of Silence
 publication: Poetry Foundation
 link: https://www.poetryfoundation.org/poetrymagazine/poems/56904/a-moment-of-silence
 date: 2015-10-21
+permalink: 2015/10/21/najwan-darwish-a-moment-of-silence
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Najwan Darwish]] • [[Poetry Foundation]]
+
+https://www.poetryfoundation.org/poetrymagazine/poems/56904/a-moment-of-silence
 
 And what did the Armenians say?
 

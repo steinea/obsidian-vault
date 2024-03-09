@@ -6,9 +6,12 @@ title: The Art of Fiction No. 21
 publication: The Paris Review
 link: https://www.theparisreview.org/interviews/4825/the-art-of-fiction-no-21-ernest-hemingway
 date: 2015-05-15
+permalink: 2015/05/15/george-plimpton-ernest-hemingway-the-art-of-fiction-no-21
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[George Plimpton]] • [[Ernest Hemingway]] • [[The Paris Review]] 
+
+https://www.theparisreview.org/interviews/4825/the-art-of-fiction-no-21-ernest-hemingway
 
 "On the shelf opposite Hemingway’s knee as he stands up to his “work desk” are Virginia Woolf’s The Common Reader, Ben Ames Williams’s House Divided, The Partisan Reader, Charles A. Beard’s The Republic, Tarle’s Napoleon’s Invasion of Russia, How Young You Look by Peggy Wood, Alden Brooks’s Shakespeare and the Dyer’s Hand, Baldwin’s African Hunting, T. S. Eliot’s Collected Poems, and two books on General Custer’s fall at the battle of the Little Big Horn."
 

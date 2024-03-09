@@ -6,9 +6,12 @@ title: Power, Powerlessness, Thinking, and Future
 publication: Los Angeles Review of Books
 link: https://lareviewofbooks.org/article/power-powerlessness-thinking-and-future/
 date: 2015-10-19
+permalink: 2015/10/19/bernard-stiegler-power-powerlessness-thinking-and-future
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Bernard Stiegler]] • [[Los Angeles Review of Books]]
+
+https://lareviewofbooks.org/article/power-powerlessness-thinking-and-future/
 
 "To think powerlessness is difficult because it is also and firstly to think the impotence of thinking itself, its inability to pass from dunamis (power or potential in Greek) into action (energeia). This also and at the same time necessarily involves thinking the relations between knowledge and power, or knowledges and powers, and so on."
 

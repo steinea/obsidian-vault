@@ -6,9 +6,12 @@ title: The Return to Kant
 publication: Los Angeles Review of Books
 link: https://lareviewofbooks.org/article/the-return-to-kant/
 date: 2015-09-22
+permalink: 2015/09/22/mike-wayne-the-return-to-kant
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Mike Wayne]] • [[Los Angeles Review of Books]]
+
+https://lareviewofbooks.org/article/the-return-to-kant/
 
 "Kant and his interlocutors were struggling not just within a specific set of circumstances — such as monarchical rule in Germany, and the emergence of a revolutionary republic on its borders in France — but also an emerging and novel mode of economic production. This mode barely figures in their discourse, and yet is crucial for thinking about the context of their ideas and their relevance to us today. Enlightenment rationalism and its conservative opponents must be considered within their unconscious relationship with market capitalism."
 

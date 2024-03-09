@@ -6,9 +6,12 @@ title: Paleogenetics and Prehistory
 publication: Aeon
 link: https://aeon.co/magazine/science/what-can-paleogenetics-tell-us-about-prehistory
 date: 2015-09-26
+permalink: 2015/09/26/jacob-mikanowski-paleogenetics-and-prehistory
 ---
- 
-[[2015]] / [[commonplace]] / 
+
+[[2015]] • [[commonplace]] • [[Jacob Mikanowski]] • [[Aeon]]
+
+https://aeon.co/magazine/science/what-can-paleogenetics-tell-us-about-prehistory
 
 "Most of human history is prehistory. Of the 200,000 or more years that humans have spent on Earth, only a tiny fraction have been recorded in writing. Even in our own little sliver of geologic time, the 12,000 years of the Holocene, whose warm weather and relatively stable climate incubated the birth of agriculture, cities, states, and most of the other hallmarks of civilisation, writing has been more the exception than the rule."
 

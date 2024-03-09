@@ -6,9 +6,12 @@ title: A Cataract of Ruin
 publication: The Paris Review
 link: https://www.theparisreview.org/blog/2015/10/26/a-cataract-of-ruin/
 date: 2015-10-27
+permalink: 2015/10/27/dan-piepenbring-a-cataract-of-ruin
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Dan Piepenbring]] • [[The Paris Review]]
+
+https://www.theparisreview.org/blog/2015/10/26/a-cataract-of-ruin/
 
 "“Even his bright gildings,” Herman Melville once wrote of Nathaniel Hawthorne, “play upon the edges of thunder-clouds.” This was in “Hawthorne and His Mosses,” an 1850 appreciation in which Melville reputed the notion that Hawthorne, fifteen years his senior, was merely “a sequestered, harmless man”"
  

@@ -6,9 +6,12 @@ title: Silent Noon
 publication: Poetry Foundation
 link: https://www.poetryfoundation.org/poems/45009/the-house-of-life-19-silent-noon
 date: 2015-10-18
+permalink: 2015/10/18/dante-gabriel-rossetti-silent-noon
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Dante Gabriel Rossetti]] • [[Poetry Foundation]]
+
+https://www.poetryfoundation.org/poems/45009/the-house-of-life-19-silent-noon
 
 Your hands lie open in the long fresh grass,— 
 <br>   The finger-points look through like rosy blooms: 

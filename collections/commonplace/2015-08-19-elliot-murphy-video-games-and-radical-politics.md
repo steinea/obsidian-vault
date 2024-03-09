@@ -6,9 +6,12 @@ title: Video Games and Radical Politics
 publication: Los Angeles Review of Books
 link: https://lareviewofbooks.org/article/always-a-lighthouse-video-games-and-radical-politics/
 date: 2015-08-19
+permalink: 2015/08/19/elliot-murphy-video-games-and-radical-politics
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Elliot Murphy]] • [[Los Angeles Review of Books]]
+
+https://lareviewofbooks.org/article/always-a-lighthouse-video-games-and-radical-politics/
 
 "VIDEO GAMES, as Robert Cassar recently noted in his Games and Culture essay “Gramsci and Games,” are often “sophisticated texts that can represent not just ideas but entire worlds, which invite players to explore them.”"
  

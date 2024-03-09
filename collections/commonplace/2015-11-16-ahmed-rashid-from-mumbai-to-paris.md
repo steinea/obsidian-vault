@@ -3,12 +3,15 @@ layout: entry
 category: commonplace
 author: Ahmed Rashid
 title: From Mumbai to Paris
-publication: The New York Review of Books
+publication: New York Review of Books
 link: https://www.nybooks.com/online/2015/11/16/isis-from-mumbai-to-paris/
 date: 2015-11-16
+permalink: 2015/11/16/ahmed-rashid-from-mumbai-to-paris
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Ahmed Rashid]] • [[New York Review of Books]]
+
+https://www.nybooks.com/online/2015/11/16/isis-from-mumbai-to-paris/
 
 "Yet the recent string of ISIS attacks across the Middle East and now in Europe suggests that its aims, and methods, are more complicated. In October a bombing in Ankara that killed 102 people was blamed on ISIS by the Turkish government. A few weeks later, ISIS’s Sinai affiliate claimed to have brought down a Russian airliner, killing 224 people. On November 12, ISIS claimed responsibility for a double-suicide bombing of a busy shopping street in a Hezbollah stronghold in Beirut that left forty-four people dead. There were bombings in Baghdad. And then there was Paris."
 

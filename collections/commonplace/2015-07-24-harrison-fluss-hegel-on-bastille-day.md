@@ -6,9 +6,12 @@ title: Hegel on Bastille Day
 publication: Jacobin
 link: https://jacobin.com/2016/07/hegel-bastille-day-burke-french-revolution
 date: 2015-07-24
+permalink: 2015/07/24/harrison-fluss-hegel-on-bastille-day
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Harrison Fluss]] • [[Jacobin]] 
+
+https://jacobin.com/2016/07/hegel-bastille-day-burke-french-revolution
 
 "Hegel once told his friend Immanuel Niethammer that to be a philosopher was to be an “expositus,” an exposed person. Once the French Revolution rediscovered that Nous, reason, governs the world, Hegel, the philosopher of reason, would inevitably find himself — whether he liked it or not as a Prussian state philosophy professor — allied to those progressive and potentially rebellious forces. The philosophy of absolute reason thus had real political consequences."
 

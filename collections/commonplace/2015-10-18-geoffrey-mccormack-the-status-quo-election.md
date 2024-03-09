@@ -6,9 +6,12 @@ title: The Status Quo Election
 publication: Jacobin
 link: https://jacobin.com/2015/10/mulcair-harper-trudeau-canadian-election-prime-minister/
 date: 2015-10-18
+permalink: 2015/10/18/geoffrey-mccormack-the-status-quo-election
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Geoffrey McCormack]] • [[Jacobin]]
+
+https://jacobin.com/2015/10/mulcair-harper-trudeau-canadian-election-prime-minister/
 
 "Despite stagnation, from the standpoint of capital, the Conservative Party has competently managed economic affairs. The NDP and Liberal Party, for all their criticisms, have offered few compelling alternatives. Since all three major parties are devoted to capitalism, it is unsurprising that the policies they propose remain technocratic and tepid."
 

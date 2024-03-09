@@ -6,9 +6,12 @@ title: "S = k*log(W)"
 publication: Yahoo
 link: https://ca.answers.yahoo.com/question/index?qid=20090423013431AABs7Gy
 date: 2015-12-17
+permalink: 2015/12/17/drostie-s-equals-k-times-log-w
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Drostie]] • [[Yahoo]]
+
+https://ca.answers.yahoo.com/question/index?qid=20090423013431AABs7Gy
 
 It's written on Ludwig Boltzmann's tombstone, and it means that "entropy is the logarithm of multiplicity." It's a thermodynamics and statistical mechanics fact. 
 

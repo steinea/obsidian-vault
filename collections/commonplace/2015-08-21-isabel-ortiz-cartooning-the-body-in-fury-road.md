@@ -6,9 +6,12 @@ title: Cartooning the Body in *Fury Road*
 publication: Los Angeles Review of Books
 link: https://lareviewofbooks.org/article/cartooning-the-body-in-mad-max-fury-road/
 date: 2015-08-21
+permalink: 2015/08/21/isabel-ortiz-cartooning-the-body-in-fury-road
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Isabel Ortiz]] • [[Los Angeles Review of Books]]
+
+https://lareviewofbooks.org/article/cartooning-the-body-in-mad-max-fury-road/
 
 "If to animate an object is to give it life, to cartoon the same object is to play roulette with that life, for entertainment value."
 

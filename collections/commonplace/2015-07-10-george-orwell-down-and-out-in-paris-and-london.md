@@ -6,9 +6,12 @@ title: Down and Out in Paris and London
 publication: Down and Out in Paris and London
 link: https://en.wikipedia.org/wiki/Down_and_Out_in_Paris_and_London
 date: 2015-07-10
+permalink: 2015/07/10/george-orwell-down-and-out-in-paris-and-london
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[George Orwell]] • [[Down and Out in Paris and London]] 
+
+https://en.wikipedia.org/wiki/Down_and_Out_in_Paris_and_London
 
 Poverty frees them from ordinary standards of behaviour, just as money frees people from work.
 LOCATION: 43

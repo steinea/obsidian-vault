@@ -6,9 +6,12 @@ title: The Question of Machiavelli
 publication: New York Review of Books
 link: https://www.nybooks.com/articles/1971/11/04/a-special-supplement-the-question-of-machiavelli/
 date: 2015-10-26
+permalink: 2015/10/26/isaiah-berlin-the-question-of-machiavelli
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Isaiah Berlin]] • [[New York Review of Books]]
+
+https://www.nybooks.com/articles/1971/11/04/a-special-supplement-the-question-of-machiavelli/
 
 "There is prima facie something strange about so violent a disparity of judgments. What other thinker has presented so many facets to the students of his ideas? What other writer—and he not even a recognized philosopher—has caused his readers to disagree about his purposes so deeply and so widely? Yet I must repeat, Machiavelli does not write obscurely; nearly all his interpreters praise him for his terse, dry, clear prose. What is it that has proved so arresting to so many?"
 

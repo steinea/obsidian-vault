@@ -6,9 +6,12 @@ title: What Is France Doing in Syria?
 publication: The Atlantic
 link: https://www.theatlantic.com/international/archive/2015/11/france-syria-iraq-isis/416013/
 date: 2015-11-16
+permalink: 2015/11/16/david-a-graham-what-is-france-doing-in-syria
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[David A. Graham]] • [[The Atlantic]]
+
+https://www.theatlantic.com/international/archive/2015/11/france-syria-iraq-isis/416013/
 
 "In a statement translated by SITE, ISIS said: Let France and those who walk in its path know that they will remain on the top of the list of targets of the Islamic State, and that the smell of death will never leave their noses as long as they lead the convoy of the Crusader campaign, and dare to curse our Prophet, Allah’s peace and blessings be upon him, and are proud of fighting Islam in France and striking the Muslims in the land of the Caliphate with their planes, which did not help them at all in the streets of Paris and its rotten alleys."
 

@@ -6,9 +6,12 @@ title: A Stranger Side to Nature's Building Blocks
 publication: Quanta Magazine
 link: https://www.quantamagazine.org/string-theory-black-holes-and-a-strange-superconducting-material-20130701
 date: 2015-12-23
+permalink: 2015/12/23/natalie-wolchover-a-stranger-side-to-natures-building-blocks
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Natalie Walchover]] • [[Quanta Magazine]]
+
+https://www.quantamagazine.org/string-theory-black-holes-and-a-strange-superconducting-material-20130701
 
 "According to modern quantum theory, energy fields permeate the universe, and flurries of energy in these fields, called “particles” when they are pointlike and “waves” when they are diffuse, serve as the building blocks of matter and forces. But new findings suggest this wave-particle picture offers only a superficial view of nature’s constituents."
 

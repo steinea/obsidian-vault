@@ -6,9 +6,12 @@ title: The Ingenious Mazviita Chirimuuta
 publication: Nautilus
 link: https://nautil.us/issue/26/color/ingenious-mazviita-chirimuuta
 date: 2015-07-13
+permalink: 2015/07/13/kevin-berger-the-ingenious-mazviita-chirimuuta
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Kevin Berger]] • [[Nautilus]] 
+
+https://nautil.us/issue/26/color/ingenious-mazviita-chirimuuta
 
 "I think of color as a property, or something that can only be understood in terms of the particular ways that we interact with the world. That’s my way of saying that we should try and see those inner and outer domains as not as separate from each other as we think. Really, there’s this constant back and forth between the two and that’s how visual experience is generated, and knowledge maybe more generally."
 

@@ -6,9 +6,12 @@ title: Corporeal and Incorporeal Machines
 publication: Los Angeles Review of Books
 link: https://lareviewofbooks.org/article/corporeal-and-incorporeal-machines-new-materialism/
 date: 2015-07-11
+permalink: 2015/07/11/ian-lowrie-corporeal-and-incorporeal-machines
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Ian Lowrie]] • [[Los Angeles Review of Books]] 
+
+https://lareviewofbooks.org/article/corporeal-and-incorporeal-machines-new-materialism/
 
 "To use the technical language of systems theory: machines emerge from their environment. They are the result of a certain threshold of complexity being crossed in certain arrangements of things such that they begin to be capable of holding themselves together over time. In this sense, machines are both definite things, discrete from other machines, but also ongoing processes. As such, they are characterized by what Maturana and Varela call operational closure and structural openness vis-à-vis their environment. Structural openness means that machines are capable of receiving certain forms of inputs from their environment. Operational closure, however, means that those inputs are shaped to fit specific forms dictated by the machine — other forms of inputs are completely ignored. Machines perform systematic operations on the inputs they receive and produce outputs as a result. In Bryant’s language, that means that we can know a machine by its powers: by what it is capable of doing."
 

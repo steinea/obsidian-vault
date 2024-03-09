@@ -6,9 +6,12 @@ title: Violence and Embodiment
 publication: Open Democracy
 link: https://www.opendemocracy.net/en/article/violence_and_embodiment/
 date: 2015-04-08
+permalink: 2015/04/08/james-r-mensch-violence-and-embodiment
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[James R. Mensch]] • [[Open Democracy]]
+
+https://www.opendemocracy.net/en/article/violence_and_embodiment/
 
 "the role of the embodied "I can" is crucial"
  

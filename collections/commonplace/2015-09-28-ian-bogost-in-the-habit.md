@@ -6,9 +6,12 @@ title: In the Habit
 publication: Los Angeles Review of Books
 link: https://lareviewofbooks.org/article/in-the-habit/
 date: 2015-09-28
+permalink: 2015/09/28/ian-bogost-in-the-habit
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Ian Bogost]] • [[Los Angeles Review of Books]]
+
+https://lareviewofbooks.org/article/in-the-habit/
 
 "Truly great games dominate us, subject us to pattern. They take over our brains, in the same way drugs do an addict’s. By replacing emotion with pattern. By separating humans from their humanity."
 

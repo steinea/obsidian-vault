@@ -6,9 +6,12 @@ title: The Things That Make For Peace
 publication: Bible
 link: https://en.wikipedia.org/wiki/Luke_19
 date: 2015-12-22
+permalink: 2015/12/22/luke-the-things-that-make-for-peace
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Luke]] • [[Bible]]
+
+https://en.wikipedia.org/wiki/Luke_19
 
 "As he came near and saw the city, he wept over it, saying, 'If you, even you, had only recognized on this day the things that make for peace! But now they are hidden from your eyes.'"
 

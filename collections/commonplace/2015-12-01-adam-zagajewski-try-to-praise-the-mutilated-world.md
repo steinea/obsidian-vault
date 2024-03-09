@@ -6,9 +6,12 @@ title: Try to Praise the Mutilated World
 publication: Without End
 link: https://us.macmillan.com/books/9780374528614/withoutend
 date: 2015-12-01
+permalink: 2015/12/01/adam-zagajewski-try-to-praise-the-mutilated-world
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Adam Zagajewski]] • [[Without End]]
+
+https://us.macmillan.com/books/9780374528614/withoutend
 
 Try to praise the mutilated world.
 <br> Remember June's long days,

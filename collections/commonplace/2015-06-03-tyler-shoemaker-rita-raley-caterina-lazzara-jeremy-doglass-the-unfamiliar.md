@@ -6,9 +6,12 @@ title: The Unfamiliar
 publication: Los Angeles Review of Books
 link: https://lareviewofbooks.org/article/the-unfamiliar/
 date: 2015-06-03
+permalink: 2015/06/03/tyler-shoemaker-rita-raley-caterina-lazzara-jeremy-douglass-the-unfamiliar
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Tyler Shoemaker]] • [[Rita Raley]] • [[Caterina Lazzara]] • [[Jeremy Douglass]] • [[Los Angeles Review of Books]] 
+
+https://lareviewofbooks.org/article/the-unfamiliar/
 
 "As reviewers at the outset of a multiyear project, all we can offer is an inventio, the first steps in the direction of developing a critical heuristic, the concepts, questions, and techniques with which sense might begin to be made of this serialized work, the scale of which will eclipse even Marcel Proust’s In Search of Lost Time and Karl Ove Knausgaard’s My Struggle. It is not incidental that the Ancient Greek rhetorician Hermagoras of Temnos should appear just nine pages into the primary narrative, because what one must do at the outset of any inquiry is identify the concrete elements: who, what, when, where, how, in what manner, by what means (quis, quid, quando, ubi, cur, quem ad modum, quibus adminiculis). Bloom’s taxonomy of learning is referenced on the same page, and in its terms our work is less to evaluate (Bloom’s highest level in the cognitive domain) than it is to annotate, mark, and comment upon as we start to familiarize the unfamiliar."
 

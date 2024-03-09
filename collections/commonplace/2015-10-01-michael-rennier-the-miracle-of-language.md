@@ -6,9 +6,12 @@ title: The Miracle of Language
 publication: Dappled Things
 link: https://www.dappledthings.org/7978/the-miracle-of-language/
 date: 2015-10-01
+permalink: 2015/10/01/michael-rennier-the-miracle-of-language
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Michael Rennier]] • [[Dappled Things]]
+
+https://www.dappledthings.org/7978/the-miracle-of-language/
 
 "Through symbol, we are able to make the leap from a particular thing or situation requiring a response and into the realm of universals."
  

@@ -6,9 +6,12 @@ title: On Reading, or White Nights
 publication: The Penguin Classics
 link: https://thepenguinclassics.tumblr.com/post/124572015604/on-reading-or-white-nights-by-roberto-saviano
 date: 2015-07-22
+permalink: 2015/07/22/roberto-saviano-on-reading-or-white-nights
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Roberto Saviano]] • [[The Penguin Classics]] 
+
+https://thepenguinclassics.tumblr.com/post/124572015604/on-reading-or-white-nights-by-roberto-saviano
 
 "‘Do not read, as children do, to amuse yourself, or like the ambitious, for the purpose of instruction. No, read in order to live’ Gustave Flaubert"
  

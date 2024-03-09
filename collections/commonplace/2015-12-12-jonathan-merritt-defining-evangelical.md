@@ -6,9 +6,12 @@ title: Defining Evangelical
 publication: The Atlantic
 link: https://www.theatlantic.com/politics/archive/2015/12/evangelical-christian/418236/
 date: 2015-12-12
+permalink: 2015/12/12/jonathan-merritt-defining-evangelical
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Jonathan Merritt]] • [[The Atlantic]]
+
+https://www.theatlantic.com/politics/archive/2015/12/evangelical-christian/418236/
 
 "individual observers are left to decide how to define what makes someone or something evangelical. To the pollster, it is a sociological term. To the pastor, it is a denominational or doctrinal term. And to the politician, it is a synonym for a white Christian Republican."
 

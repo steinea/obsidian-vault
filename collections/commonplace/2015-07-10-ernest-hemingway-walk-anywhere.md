@@ -6,11 +6,14 @@ title: Walk Anywhere
 publication: A Moveable Feast
 link: https://en.wikipedia.org/wiki/A_Moveable_Feast
 date: 2015-07-10
+permalink: 2015/07/10/ernest-hemingway-walk-anywhere
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Ernest Hemingway]] • [[A Moveable Feast]] 
 
-We can walk anywhere and we can stop at some new café where we don’t know anyone and nobody knows us and have a drink.” 
+https://en.wikipedia.org/wiki/A_Moveable_Feast
+
+“We can walk anywhere and we can stop at some new café where we don’t know anyone and nobody knows us and have a drink.” 
 
 “We can have two drinks.” 
 

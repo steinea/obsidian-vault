@@ -6,9 +6,12 @@ title: No Longer Host or Refugee
 publication: The Atlantic
 link: https://www.theatlantic.com/international/archive/2015/11/paris-attacks-refugees/416019/
 date: 2015-11-14
+permalink: 2015/11/14/judah-grunstein-no-longer-host-or-refugee
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Judah Grunstein]] • [[The Atlantic]]
+
+https://www.theatlantic.com/international/archive/2015/11/paris-attacks-refugees/416019/
 
 "in Paris, as was the case last night, there’s no longer really a “here” and a “there,” no longer a host and a refugee."
 

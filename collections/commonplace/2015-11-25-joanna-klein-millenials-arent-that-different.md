@@ -6,9 +6,12 @@ title: Millenials Really Aren't That Different
 publication: Nautilus
 link: https://nautil.us/blog/heres-why-millennials-really-arent-that-different
 date: 2015-11-25
+permalink: 2015/11/25/joanna-klein-millenials-really-arent-that-different
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[JoAnna Klein]] • [[Nautilus]]
+
+https://nautil.us/blog/heres-why-millennials-really-arent-that-different
 
 "They confuse life stage differences and generational differences. They’ll look at the fairly predictable changes that happen over someone’s life—when you’re starting off, you’re not very attached and don’t have a spouse, a child, a mortgage—and they will often say, ‘Oh this generation is so much different.’ That often is not true, and it’s one of the lessons we keep on having to relearn."
 

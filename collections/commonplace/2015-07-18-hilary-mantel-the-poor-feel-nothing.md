@@ -6,9 +6,12 @@ title: The Poor and the Lawyers
 publication: A Place of Greater Safety
 link: https://en.wikipedia.org/wiki/A_Place_of_Greater_Safety
 date: 2015-07-18
+permalink: 2015/07/18/hilary-mantel-the-poor-and-the-lawyers
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Hilary Mantel]] • [[A Place of Greater Safety]] 
+
+https://en.wikipedia.org/wiki/A_Place_of_Greater_Safety
 
 "‘An equal chance? It seems against nature.’ 
 

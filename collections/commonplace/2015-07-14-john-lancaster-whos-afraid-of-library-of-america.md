@@ -6,9 +6,12 @@ title: Who's Afraid of the Library of America?
 publication: London Review of Books
 link: https://www.lrb.co.uk/the-paper/v30/n12/john-lanchester/short-cuts
 date: 2015-07-14
+permalink: 2015/07/14/john-lancaster-whos-afraid-of-the-library-of-america
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[John Lanchester]] • [[London Review of Books]] 
+
+https://www.lrb.co.uk/the-paper/v30/n12/john-lanchester/short-cuts
 
 "American books are in general printed to much higher standards than British books. (Ask publishers about that, and they always say that it’s to do with economies of scale: five times as big an audience equals higher print runs equals lower costs equals the possibility to make nicer books. So they say.)"
 

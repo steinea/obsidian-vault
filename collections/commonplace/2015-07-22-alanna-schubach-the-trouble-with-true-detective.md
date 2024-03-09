@@ -6,9 +6,12 @@ title: The Trouble With True Detective
 publication: Jacobin
 link: https://jacobin.com/2015/07/mcadams-pizzolatto-sexism-season-two-nussbaum-review/
 date: 2015-07-22
+permalink: 2015/07/22/alanna-schubach-the-trouble-with-true-detective
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Alanna Schubach]] • [[Jacobin]] 
+
+https://jacobin.com/2015/07/mcadams-pizzolatto-sexism-season-two-nussbaum-review/
 
 "Bezzerides isn’t a man shoehorned into a woman’s body, though, and what distinguishes her aren’t glimmers of softness buried beneath an abrasive exterior, but rather the other characters’ responses to her. She’s called a cunt for doing her job well, hit on by a suspect who seems to think they’re in a role-playing fantasy together, and asked by a superior to cozy up to a man for information."
 

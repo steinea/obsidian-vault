@@ -6,9 +6,12 @@ title: Why Science Needs Metaphysics
 publication: Nautilus
 link: https://nautil.us/issue/29/scaling/why-science-needs-metaphysics
 date: 2015-10-02
+permalink: 2015/10/02/roger-trigg-why-science-needs-metaphysics
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Roger Trigg]] • [[Nautilus]]
+
+https://nautil.us/issue/29/scaling/why-science-needs-metaphysics
 
 "Those who say that science can answer all questions are themselves standing outside science to make that claim. That is why naturalism—the modern version of materialism, seeing reality as defined by what is within reach of the sciences—becomes a metaphysical theory when it strays beyond methodology to talk of what can exist."
  

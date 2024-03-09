@@ -6,9 +6,12 @@ title: A Butterfly’s Beauty Comes From Organized Chaos
 publication: Nautilus
 link: https://nautil.us/blog/a-butterflys-beauty-comes-from-organized-chaos
 date: 2015-07-22
+permalink: 2015/07/22/brandon-keim-a-butterflys-beauty-comes-from-organized-chaos
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Brandon Keim]] • [[Nautilus]]
+
+https://nautil.us/blog/a-butterflys-beauty-comes-from-organized-chaos
 
 "a lesson about uncertainty"
 

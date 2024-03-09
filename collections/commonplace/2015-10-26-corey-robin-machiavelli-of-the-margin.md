@@ -6,9 +6,12 @@ title: Machiavelli of the Margin
 publication: Corey Robin
 link: https://coreyrobin.com/2014/11/13/david-ricardo-machiavelli-of-the-margin/
 date: 2015-10-26
+permalink: 2015/10/26/corey-robin-machiavelli-of-the-margin
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Corey Robin]]
+
+https://coreyrobin.com/2014/11/13/david-ricardo-machiavelli-of-the-margin/
 
 "In my course this semester at the Graduate Center, “The Political Theory of Capitalism,” we’ve been exploring how some of the classics of modern political economy translate, traduce, transmit, efface, revise, and/or sublimate traditional categories of and concepts in Western political theory: consent, obedience, rule, law, and so forth."
 

@@ -6,9 +6,12 @@ title: Variation on a Line
 publication: Poetry Foundation
 link: https://www.poetryfoundation.org/poetrymagazine/poems/58162/variation-on-a-line-from-elizabeth-bishops-five-flights-up
 date: 2015-06-19
+permalink: 2015/06/19/stanley-plumly-variation-on-a-line
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Stanley Plumly]] • [[Poetry Foundation]] 
+
+https://www.poetryfoundation.org/poetrymagazine/poems/58162/variation-on-a-line-from-elizabeth-bishops-five-flights-up
 
 *Variation on a Line from Elizabeth Bishop’s “Five Flights Up”*
 

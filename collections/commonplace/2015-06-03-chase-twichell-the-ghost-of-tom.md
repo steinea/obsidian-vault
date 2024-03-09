@@ -6,9 +6,12 @@ title: The Ghost of Tom
 publication: Poetry
 link: https://www.poetryfoundation.org/poetrymagazine/poems/58146/the-ghost-of-tom
 date: 2015-06-03
+permalink: 2015/06/03/chase-twichell-the-ghost-of-tom
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Chase Twichell]] • [[Poetry]] 
+
+https://www.poetryfoundation.org/poetrymagazine/poems/58146/the-ghost-of-tom
 
 At family gatherings,
 <br> a Family Friend liked gathering

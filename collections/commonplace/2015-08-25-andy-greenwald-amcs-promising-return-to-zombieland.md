@@ -6,9 +6,12 @@ title: AMCs Promising Return to Zombieland
 publication: Grantland
 link: http://grantland.com/hollywood-prospectus/dead-again-amcs-promising-return-to-zombieland/
 date: 2015-08-25
+permalink: 2015/08/25/andy-greenwald-amcs-promising-return-to-zombieland
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Andy Greenwald]] • [[Grantland]]
+
+http://grantland.com/hollywood-prospectus/dead-again-amcs-promising-return-to-zombieland/
 
 "But going by the first two hours of Fear, Kirkman and his hand-selected showrunner, Dave Erickson (Sons of Anarchy), have learned from previous mistakes. Fear has more than adrenaline on its side. It has a pulse."
 

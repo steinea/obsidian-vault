@@ -6,9 +6,12 @@ title: Ta-Nehisi Coates and a Generation Waking Up
 publication: The New Yorker
 link: https://www.newyorker.com/culture/cultural-comment/ta-nehisi-coates-and-a-generation-waking-up
 date: 2015-07-22
+permalink: 2015/07/22/brit-bennett-ta-nehisi-coates-and-a-generation-waking-up
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Brit Bennett]] • [[The New Yorker]]
+
+https://www.newyorker.com/culture/cultural-comment/ta-nehisi-coates-and-a-generation-waking-up
 
 "To Coates, a defining feature of black life is that your body can be taken from you easily, and with little consequence."
  

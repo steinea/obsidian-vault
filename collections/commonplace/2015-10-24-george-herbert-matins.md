@@ -6,9 +6,12 @@ title: Matins
 publication: The Temple
 link: https://www.georgeherbert.org.uk/archives/selected_work_02.html
 date: 2015-10-24
+permalink: 2015/10/24/george-herbert-matins
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[George Herbert]] • [[The Temple]]
+
+https://www.georgeherbert.org.uk/archives/selected_work_02.html
 
 I Cannot ope mine eyes,
 <br>But thou art ready there to catch

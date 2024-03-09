@@ -6,9 +6,12 @@ title: kitchenette building
 publication: Poetry Foundation
 link: https://www.poetryfoundation.org/poems/43308/kitchenette-building
 date: 2015-09-19
+permalink: 2015/09/19/gwendolyn-brooks-kitchenette-building
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Gwendolyn Brooks]] • [[Poetry Foundation]]
+
+https://www.poetryfoundation.org/poems/43308/kitchenette-building
 
 We are things of dry hours and the involuntary plan,
 <br>Grayed in, and gray. “Dream” makes a giddy sound, not strong

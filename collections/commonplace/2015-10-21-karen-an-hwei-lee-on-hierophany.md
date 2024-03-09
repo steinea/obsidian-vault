@@ -6,9 +6,12 @@ title: On Hierophany
 publication: Poetry Foundation
 link: https://www.poetryfoundation.org/poetrymagazine/poems/56898/on-hierophany
 date: 2015-10-21
+permalink: 2015/10/21/karen-an-hwei-lee-on-hierophany
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Karen An-Hwei Lee]] • [[Poetry Foundation]]
+
+https://www.poetryfoundation.org/poetrymagazine/poems/56898/on-hierophany
 
 One example of *hierophany* is the apparition of angels. 
 <br>This is a new word I overheard this morning. It occurs

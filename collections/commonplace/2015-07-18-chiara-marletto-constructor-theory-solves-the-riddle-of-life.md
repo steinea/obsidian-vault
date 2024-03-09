@@ -6,9 +6,12 @@ title: Constructor Theory Solves the Riddle of Life
 publication: https://web.archive.org/web/20150905084500/http://aeon.co/magazine/science/constructor-theory-solves-the-riddle-of-life/
 link: Aeon
 date: 2015-07-18
+permalink: 2015/07/18/chiara-marletto-constructor-theory-solves-the-riddle-of-life
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Chiara Marletto]] • [[Aeon]] 
+
+https://web.archive.org/web/20150905084500/http://aeon.co/magazine/science/constructor-theory-solves-the-riddle-of-life/
 
 "A merlin falcon hunting its prey, a hummingbird suspended in the air beside a flower, the self-reproduction of a bacterial cell: all are instances of stunning control and precision. How could anything so complex have originated from inert matter?"
 

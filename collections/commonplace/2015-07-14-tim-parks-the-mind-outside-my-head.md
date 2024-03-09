@@ -3,12 +3,15 @@ layout: entry
 category: commonplace
 author: Tim Parks
 title: The Mind Outside My Head
-publication: The New York Review of Books
+publication: New York Review of Books
 link: https://www.nybooks.com/online/2012/04/10/mind-outside-head-consciousness/
 date: 2015-07-14
+permalink: 2015/07/14/tim-parks-the-mind-outside-my-head
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Tim Parks]] • [[New York Review of Books]] 
+
+https://www.nybooks.com/online/2012/04/10/mind-outside-head-consciousness/
 
 "“There are no images.” This was the first time I noticed Riccardo Manzotti. It was a conference on art and neuroscience. Someone had spoken about the images we keep in our minds. Manzotti seemed agitated. The girl sitting next to me explained that he built robots, was a genius. “There are no images and no representations in our minds,” he insisted. “Our visual experience of the world is a continuum between see-er and seen united in a shared process of seeing.”"
 

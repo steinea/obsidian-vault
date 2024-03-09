@@ -6,9 +6,12 @@ title: When I Consider How My Light Is Spent
 publication: Poetry Foundation
 link: https://www.poetryfoundation.org/poems/44750/sonnet-19-when-i-consider-how-my-light-is-spent
 date: 2015-06-12
+permalink: 2015/06/12/john-milton-when-i-consider-how-my-light-is-spent
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[John Milton]] • [[Poetry Foundation]]
+
+https://www.poetryfoundation.org/poems/44750/sonnet-19-when-i-consider-how-my-light-is-spent
 
 When I consider how my light is spent,
 <br>Ere half my days in this dark world and wide,

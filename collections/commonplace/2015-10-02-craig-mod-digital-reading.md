@@ -6,9 +6,12 @@ title: Digital Reading
 publication: Aeon
 link: https://aeon.co/magazine/technology/why-have-digital-books-stopped-evolving
 date: 2015-10-02
+permalink: 2015/10/02/craig-mod-digital-reading
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Craig Mod]] • [[Aeon]]
+
+https://aeon.co/magazine/technology/why-have-digital-books-stopped-evolving
 
 "Containers matter. They shape stories and the experience of stories. Choose the right binding, cloth, trim size, texture of paper, margins and ink, and you will strengthen the bond between reader and text. Choose badly and the object becomes a wedge between reader and text."
 

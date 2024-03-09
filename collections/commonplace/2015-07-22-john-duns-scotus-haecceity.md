@@ -6,9 +6,12 @@ title: Haecceity
 publication: Wikipedia
 link: https://en.wikipedia.org/wiki/Haecceity
 date: 2015-07-22
+permalink: 2015/07/22/john-duns-scotus-haecceity
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[John Duns Scotus]] • [[Wikipedia]] 
+
+https://en.wikipedia.org/wiki/Haecceity
 
 Haecceity (/hɛkˈsiːɪti, hiːk-/; from the Latin haecceitas, which translates as "thisness") is a term from medieval scholastic philosophy, first coined by Duns Scotus, which denotes the discrete qualities, properties or characteristics of a thing which make it a particular thing. Haecceity is a person or object's "thisness", the individualising difference between the concept 'a man' and the concept 'Socrates' (a specific person). Haecceity is a literal translation of the equivalent term in Aristotle's Greek to ti esti (τὸ τί ἐστι) or "the what it is."
 

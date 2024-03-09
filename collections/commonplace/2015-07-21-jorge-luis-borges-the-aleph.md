@@ -6,9 +6,12 @@ title: The Aleph
 publication: The Aleph and Other Stories
 link: https://en.wikipedia.org/wiki/The_Aleph_(short_story)
 date: 2015-07-21
+permalink: 2015/07/21/jorge-luis-borges-the-aleph
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Jorge Luis Borges]] • [[The Aleph and Other Stories]] 
+
+https://en.wikipedia.org/wiki/The_Aleph_(short_story)
 
 "O God! I could be bounded in a nutshell, and count myself a King of infinite space... Hamlet, II, 2 But they will teach us that Eternity is the Standing still of the Present Time, a Nunc-stans (as the schools call it); which neither they, nor any else understand, no more than they would a Hic-stans for an Infinite greatness of Place. Leviathan, IV, 46"
  

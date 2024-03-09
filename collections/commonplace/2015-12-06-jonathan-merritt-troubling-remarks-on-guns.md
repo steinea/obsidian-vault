@@ -6,9 +6,12 @@ title: Troubling Remarks on Guns
 publication: The Atlantic
 link: https://www.theatlantic.com/politics/archive/2015/12/jerry-falwell-jrs-troubling-remarks-on-guns/419019/
 date: 2015-12-06
+permalink: 2015/12/06/jonathan-merritt-troubling-remarks-on-guns
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Jonathan Merritt]] • [[The Atlantic]]
+
+https://www.theatlantic.com/politics/archive/2015/12/jerry-falwell-jrs-troubling-remarks-on-guns/419019/
 
 "Liberty University’s motto is “training champions for Christ.” Apparently, the training offered by the evangelical college will now include a free concealed-weapons course for its students."
 

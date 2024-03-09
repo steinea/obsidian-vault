@@ -6,9 +6,12 @@ title: The End of Food
 publication: The New Yorker
 link: https://www.newyorker.com/magazine/2014/05/12/the-end-of-food
 date: 2015-12-17
+permalink: 2015/12/17/lizzie-widdicombe-the-end-of-food
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Lizzie Widdicombe]] • [[The New Yorker]]
+
+https://www.newyorker.com/magazine/2014/05/12/the-end-of-food
 
 "“Most of people’s meals are forgotten,” he told me. He imagines that, in the future, “we’ll see a separation between our meals for utility and function, and our meals for experience and socialization.” Soylent isn’t coming for our Sunday potlucks. It’s coming for our frozen quesadillas."
 

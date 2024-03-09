@@ -2,13 +2,16 @@
 layout: entry
 category: commonplace
 author: Lennard Davis
-title: The Sound and the Fury
+title: Ethical Directionality
 publication: Los Angeles Review of Books
 link: https://lareviewofbooks.org/article/the-sound-and-the-fury/
 date: 2015-05-06
+permalink: 2015/05/06/lennard-davis-ethical-directionality
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Lennard Davis]] • [[Los Angeles Review of Books]] 
+
+https://lareviewofbooks.org/article/the-sound-and-the-fury/
 
 "The audience can’t be confused about the differences between the oppressor and the oppressed for the neoliberal politics of diversity to work."
 

@@ -6,9 +6,12 @@ title: Where Inequality Comes From
 publication: Los Angeles Review of Books
 link: https://lareviewofbooks.org/article/where-does-inequality-come-from/
 date: 2015-12-24
+permalink: 2015/12/24/raphael-magarik-where-inequality-comes-from
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Raphael Magarik]] • [[Los Angeles Review of Books]]
+
+https://lareviewofbooks.org/article/where-does-inequality-come-from/
 
 "The Thatcherite revolution of the 1980s not only physically but also ideologically dismantled the British social welfare state. In particular, centrist liberals jettisoned their party’s goal of economic equality in favor of the more modest goal of alleviating poverty."
  

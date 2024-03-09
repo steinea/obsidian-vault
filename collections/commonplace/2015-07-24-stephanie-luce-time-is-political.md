@@ -6,9 +6,12 @@ title: Time Is Political
 publication: Jacobin
 link: https://jacobin.com/2015/07/luce-eight-hour-day-obama-overtime/
 date: 2015-07-24
+permalink: 2015/07/24/stephanie-luce-time-is-political
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Stephanie Luce]] • [[Jacobin]]
+
+https://jacobin.com/2015/07/luce-eight-hour-day-obama-overtime/
 
 "In chapter ten of Capital, Volume 1, Marx chronicles the various ways that capitalists and states worked to extend the working day as much as possible, from the mid-fourteenth century up through the mid-nineteenth century. The reason was simple: the longer the working day, the more capitalists could exploit workers because after paying workers a subsistence wage, all labor done for the rest of the day was a surplus for the employer."
 

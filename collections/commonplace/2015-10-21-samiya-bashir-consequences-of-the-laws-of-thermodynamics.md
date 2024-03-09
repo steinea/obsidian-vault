@@ -6,9 +6,12 @@ title: Consequences of the Laws of Thermodynamics
 publication: Poetry Foundation
 link: https://www.poetryfoundation.org/poetrymagazine/poems/56891/consequences-of-the-laws-of-thermodynamics
 date: 2015-10-21
+permalink: 2015/10/21/samiya-bashir-consequences-of-the-laws-of-thermodynamics
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Samiya Bashir]] • [[Poetry Foundation]]
+
+https://www.poetryfoundation.org/poetrymagazine/poems/56891/consequences-of-the-laws-of-thermodynamics
 
 When Albert Murray said
 <br>the second law adds up to

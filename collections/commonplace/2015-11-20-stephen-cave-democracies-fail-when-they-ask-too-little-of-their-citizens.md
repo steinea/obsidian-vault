@@ -6,9 +6,12 @@ title: Democracies Fail When They Ask Too Little of Their Citizens
 publication: Aeon
 link: https://aeon.co/opinions/democracies-fail-when-they-ask-too-little-of-their-citizens
 date: 2015-11-20
+permalink: 2015/11/20/stephen-cave-democracies-fail-when-they-ask-too-little-of-their-citizens
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Stephen Cave]] • [[Aeon]]
+
+https://aeon.co/opinions/democracies-fail-when-they-ask-too-little-of-their-citizens
 
 "This was not the case in the Athens of two and a half thousand years ago. Then, democracy – rule by the people – meant active participation in the running of the state, if not continually, then at least periodically throughout one’s life. As Aristotle put it: ‘to rule and be ruled in turn.’ This participation was a right but also a responsibility. It was intended not only to create a better state, but to create better citizens: engagement in the political process was an education in the soberingly complex realities of decision-making."
  

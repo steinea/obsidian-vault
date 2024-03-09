@@ -6,9 +6,12 @@ title: The Dream
 publication: Poetry Foundation
 link: https://www.poetryfoundation.org/poems/44098/the-dream-56d2230d79f0b
 date: 2015-10-18
+permalink: 2015/10/18/john-donne-the-dream
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[John Donne]] • [[Poetry Foundation]]
+
+https://www.poetryfoundation.org/poems/44098/the-dream-56d2230d79f0b
 
 Elegies
 X. The Dream

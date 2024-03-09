@@ -6,9 +6,12 @@ title: What Is Becoming of Deleuze?
 publication: Los Angeles Review of Books
 link: https://lareviewofbooks.org/article/what-is-becoming-of-deleuze/
 date: 2015-11-08
+permalink: 2015/11/08/adrian-parr-what-is-becoming-of-deleuze
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Adrian Parr]] • [[Los Angeles Review of Books]]
+
+https://lareviewofbooks.org/article/what-is-becoming-of-deleuze/
 
 "it’s worth remembering some of Deleuze’s key ideas. There is, for example, his famous point that philosophy is the creation of concepts. Without the creation of new concepts, there can be no thinking with a difference, no line of flight in thought. Second, and closely related to this, Deleuze proposed that concepts are tools of analysis, not recognition."
 

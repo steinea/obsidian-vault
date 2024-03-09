@@ -6,9 +6,12 @@ title: Profoundly American
 publication: Los Angeles Review of Books
 link: https://lareviewofbooks.org/article/profoundly-american-marilynne-robinson/
 date: 2015-12-14
+permalink: 2015/12/14/kevin-hart-profoundly-american
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Kevin Hart]] • [[Los Angeles Review of Books]]
+
+https://lareviewofbooks.org/article/profoundly-american-marilynne-robinson/
 
 "Calvin is a modern, concerned with “revelation” (rather than illumination, as the Fathers were, or apocalypsis, uncovering, as the writers of the New Testament were) and with knowing what God is like rather than what sort of being God is."
  

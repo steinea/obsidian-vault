@@ -6,9 +6,12 @@ title: Competition and Coexistence
 publication: Los Angeles Review of Books
 link: https://lareviewofbooks.org/article/competition-and-coexistence-a-pushmi-pullyu-perspective/
 date: 2015-08-25
+permalink: 2015/08/25/david-p-barash-competition-and-coexistence
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[David P. Barash]] • [[Los Angeles Review of Books]]
+
+https://lareviewofbooks.org/article/competition-and-coexistence-a-pushmi-pullyu-perspective/
 
 "As this rather endearing cetacean plummeted toward the surface of the planet Magrathea, it was in fact asking a perfectly reasonable question, but one that has no reasonable answer. It had been “called into existence” by that Infinite Improbability Drive, and as the improbably constructed consequence thereof, had no purpose whatsoever. The same can be said about every living thing in our own nonfictional world … including you, dear reader, and me. We have all been called into existence by a highly improbable event — meiosis combined with the union of a particular sperm with a particular egg — and so (to pluralize a recent cliché) we are what we are. “Purpose” does not come prepackaged with existence; if we want the former, we must achieve it by how we live."
 

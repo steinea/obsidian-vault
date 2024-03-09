@@ -6,9 +6,12 @@ title: The Right to a Dignified Life
 publication: Jacobin
 link: https://jacobin.com/2015/08/universal-basic-income-socialist-libertarian/
 date: 2015-08-10
+permalink: 2015/08/10/jesse-a-myerson-the-right-to-a-dignified-life
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Jesse A. Myerson]] • [[Jacobin]]
+
+https://jacobin.com/2015/08/universal-basic-income-socialist-libertarian/
 
 "At a time when support for a basic income is garnering increasingly more mainstream consideration, it is essential for the Left to make explicit the anticapitalist rationale for a UBI. Below are five important considerations."
  

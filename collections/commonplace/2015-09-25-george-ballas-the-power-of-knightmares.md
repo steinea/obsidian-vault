@@ -6,9 +6,12 @@ title: The Power of Knightmares
 publication: Los Angeles Review of Books
 link: https://lareviewofbooks.org/article/the-power-of-knightmares/
 date: 2015-09-25
+permalink: 2015/09/25/george-ballas-the-power-of-knightmares
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[George Ballas]] • [[Los Angeles Review of Books]]
+
+https://lareviewofbooks.org/article/the-power-of-knightmares/
 
 "Because superheroes stand in for failed institutions, they can assume the moral authority of those institutions and act on behalf of the State with force that falls well beyond ordinary legal and ethical boundaries."
 

@@ -6,9 +6,12 @@ title: The Freakishness of Christianity
 publication: The Atlantic
 link: https://www.theatlantic.com/politics/archive/2015/08/russell-moore-christian-freaks/400265/
 date: 2015-08-09
+permalink: 2015/08/09/emma-green-the-freakishness-of-christianity
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Emma Green]] • [[The Atlantic]] 
+
+https://www.theatlantic.com/politics/archive/2015/08/russell-moore-christian-freaks/400265/
 
 "the cultural preoccupation with perfectionist conservatism has largely come to an end"
 

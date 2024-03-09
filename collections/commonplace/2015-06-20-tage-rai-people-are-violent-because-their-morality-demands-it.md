@@ -6,9 +6,12 @@ title: People Are Violent Because Their Morality Demands It
 publication: Aeon
 link: https://aeon.co/magazine/philosophy/people-do-violence-because-their-moral-codes-demand-it
 date: 2015-06-20
+permalink: 2015/06/20/tage-rai-people-are-violent-because-their-morality-demands-it
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Tage Rai]] • [[Aeon]] 
+
+https://aeon.co/magazine/philosophy/people-do-violence-because-their-moral-codes-demand-it
 
 "Especially for the most heinous crimes, we can’t help but see the perpetrators as ‘bad’ people: inhuman monsters who lack basic moral feeling. Baumeister called this phenomenon ‘the myth of pure evil’. A myth because it isn’t true."
  

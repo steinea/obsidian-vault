@@ -6,9 +6,12 @@ title: Absolved of the Absolute
 publication: Los Angeles Review of Books
 link: https://lareviewofbooks.org/article/absolved-of-the-absolute/
 date: 2015-11-04
+permalink: 2015/11/04/joseph-albernaz-absolved-of-the-absolute
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Joseph Albernaz]] • [[Los Angeles Review of Books]]
+
+https://lareviewofbooks.org/article/absolved-of-the-absolute/
 
 "is there any place for the non-place, for the outside?"
  

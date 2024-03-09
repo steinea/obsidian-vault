@@ -6,9 +6,12 @@ title: A Therapeutic Cartography
 publication: Los Angeles Review of Books
 link: https://lareviewofbooks.org/article/a-therapeutic-cartography/
 date: 2015-07-22
+permalink: 2015/07/22/james-k-a-smith-a-therapeutic-cartography
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[James K. A. Smith]] • [[Los Angeles Review of Books]] 
+
+https://lareviewofbooks.org/article/a-therapeutic-cartography/
 
 "AN OLDER WITTGENSTEIN looked back on his younger self and realized something: “A picture held us captive. And we could not get outside it, for it lay in our language and language seemed to repeat it to us inexorably.” There is a picture — a “worldview,” you might say — carried in our language like a stowaway ideology. This tacit picture frames our experience and governs our observation. How we talk shapes how we see."
  

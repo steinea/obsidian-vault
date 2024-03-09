@@ -6,9 +6,12 @@ title: Roommates on Mars
 publication: The New Yorker
 link: https://www.newyorker.com/magazine/2015/04/20/moving-to-mars
 date: 2015-04-18
+permalink: 2015/04/18/tom-kizzia-roommates-on-mars
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Tom Kizzia]] • [[The New Yorker]] 
+
+https://www.newyorker.com/magazine/2015/04/20/moving-to-mars
 
 "Binsted, five feet six and briskly friendly, speaks with the intensity of someone who drinks a lot of Diet Coke."
 

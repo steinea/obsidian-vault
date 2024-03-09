@@ -6,9 +6,12 @@ title: Schrodinger's Kittens
 publication: Nautilus
 link: https://nautil.us/issue/29/scaling/how-big-can-schr246dingers-kittens-get
 date: 2015-10-13
+permalink: 2015/10/13/philip-ball-schrodingers-kittens
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Philip Ball]] • [[Nautilus]]
+
+https://nautil.us/issue/29/scaling/how-big-can-schr246dingers-kittens-get
 
 "Imagine a broken drying machine that spits out pairs of unmatched socks. They come in complementary contrasts: if one is red, the other is green. Or, if one is white, the other is black, and so on. We don’t know which of these options we’ll get until we look—but we do know that if we find one is red, we can be sure the other is green. Whatever the actual colors are, they are correlated with one another."
  

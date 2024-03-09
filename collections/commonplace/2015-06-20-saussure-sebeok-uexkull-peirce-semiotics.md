@@ -6,9 +6,12 @@ title: Semiotics
 publication: Wikipedia
 link: https://en.wikipedia.org/wiki/Semiotics
 date: 2015-06-20
+permalink: 2015/06/20/ferdinand-de-saussure-thomas-sebeok-jakob-von-uexkull-charles-sanders-peirce-semiotics
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Ferdinand de Saussure]] • [[Thomas Sebeok]] • [[Jakob von Uexkull]] • [[Charles Sanders Peirce]] • [[Wikipedia]] 
+
+https://en.wikipedia.org/wiki/Semiotics
 
 "While the Saussurean semiotic is dyadic (sign/syntax, signal/semantics), the Peircean semiotic is triadic (sign, object, interpretant), being conceived of as philosophical logic studied in terms of signs that are not always linguistic or artificial. The Peircean semiotic addresses not only the external communication mechanism, as per Saussure, but the internal representation machine, investigating not just sign processes, or modes of inference, but the whole inquiry process in general. Peircean semiotics further subdivides each of the three triadic elements into three sub-types. For example, signs can be icons, indices and symbols."
  

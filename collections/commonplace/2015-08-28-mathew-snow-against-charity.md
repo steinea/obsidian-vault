@@ -6,9 +6,12 @@ title: Against Charity
 publication: Jacobin
 link: https://jacobin.com/2015/08/peter-singer-charity-effective-altruism/
 date: 2015-08-28
+permalink: 2015/08/28/mathew-snow-against-charity
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Mathew Snow]] • [[Jacobin]]
+
+https://jacobin.com/2015/08/peter-singer-charity-effective-altruism/
 
 "The moral principle in both cases is the same: we ought to reduce the suffering of others so long as doing so does not require “sacrificing anything nearly as important.” In the drowning child case, your clothing and shoes aren’t nearly as important as a child’s life, and in the case of philanthropy, the monetary equivalent of that clothing and shoes isn’t nearly as important as saving a child’s life if you have the financial means."
  

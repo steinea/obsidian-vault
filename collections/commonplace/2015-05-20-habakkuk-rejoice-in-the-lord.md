@@ -6,9 +6,12 @@ title: Rejoice in the Lord
 publication: Bible
 link: https://en.wikipedia.org/wiki/Habakkuk_3
 date: 2015-05-20
+permalink: 2015/05/20/habakkuk-rejoice-in-the-lord
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Habakkuk]] • [[Bible]] 
+
+https://en.wikipedia.org/wiki/Habakkuk_3
 
 Though the fig tree should not blossom,
 <br>    nor fruit be on the vines,

@@ -6,9 +6,12 @@ title: The Questionable Orthodoxy of Genres
 publication: Los Angeles Review of Books
 link: https://lareviewofbooks.org/article/the-questionable-orthodoxy-of-genres/
 date: 2015-10-13
+permalink: 2015/10/13/alberto-comparini-the-questionable-orthodoxoy-of-genres
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Alberto Comparini]] • [[Los Angeles Review of Books]]
+
+https://lareviewofbooks.org/article/the-questionable-orthodoxy-of-genres/
 
 "Consider Joris-Karl Huysmans’s Against Nature, Fyodor Dostoevsky’s The Brothers Karamazov, Thomas Mann’s The Magic Mountain and Doctor Faustus, Jean-Paul Sartre’s Nausea, or Robert Musil’s The Man without Qualities: What do these novels share? What kind of novels are they? Are these books truly novels, or are they another form altogether?"
 

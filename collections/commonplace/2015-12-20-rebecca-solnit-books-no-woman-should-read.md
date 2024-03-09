@@ -6,9 +6,12 @@ title: Books No Woman Should Read
 publication: Literary Hub
 link: https://lithub.com/80-books-no-woman-should-read/
 date: 2015-12-20
+permalink: 2015/12/20/rebecca-solnit-books-no-woman-should-read
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Rebecca Solnit]] • [[Literary Hub]]
+
+https://lithub.com/80-books-no-woman-should-read/
 
 "Scanning the list, which is full of all the manliest books ever, lots of war books, only one book by an out gay man, I was reminded that though it’s hard to be a woman it’s harder in many ways to be a man, that gender that’s supposed to be incessantly defended and demonstrated through acts of manliness."
  

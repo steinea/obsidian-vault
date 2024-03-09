@@ -6,9 +6,12 @@ title: My Father’s Sign
 publication: The New Inquiry
 link: https://thenewinquiry.com/my-fathers-sign/
 date: 2015-08-26
+permalink: 2015/08/26/stephanie-bailey-my-fathers-sign
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Stephanie Bailey]] • [[The New Inquiry]]
+
+https://thenewinquiry.com/my-fathers-sign/
 
 "Now that I think about it, I didn’t lose a western reference point so much as a moving one: a person who encapsulated the idea that the self never stops becoming. I’ll admit, this might be why the (Hegelian) dialectic has become such a comfort, somehow, since my father’s death. The dialectic is ultimately about the mediation of binaries—the movement could manifest in a single person or thing, as is the case with the Kinsey scale. The synthesis is the third form: the product of a relation, and we are products of such dynamics—hybrid, contradictory, historical. But we are producers, too; these relations occur constantly, between all things, all the time. You might call it rhizomatic, if not biological—think man plus woman equals baby. In the end, maybe history does become us."
 

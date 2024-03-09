@@ -6,9 +6,12 @@ title: Quantum Mechanics Is Putting Human Identity on Trial
 publication: Nautilus
 link: https://web.archive.org/web/20151121053258/https://nautil.us/issue/30/identity/quantum-mechanics-is-putting-human-identity-on-trial
 date: 2015-11-24
+permalink: 2015/11/24/amanda-gefter-quantum-mechanics-is-putting-human-identity-on-trial
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Amanda Gefter]] • [[Nautilus]]
+
+https://web.archive.org/web/20151121053258/https://nautil.us/issue/30/identity/quantum-mechanics-is-putting-human-identity-on-trial
 
 "There is a sense in which our notions of identity are insecure. How can we be sure who someone is, even someone close? How can we be sure who we are, or that we are? What can identity mean in a world that is constantly changing?"
 

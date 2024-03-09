@@ -6,9 +6,12 @@ title: What Drives the Urge to Explore
 publication: Aeon
 link: https://aeon.co/magazine/culture/what-drives-the-urge-to-explore
 date: 2015-08-19
+permalink: 2015/08/19/veronique-greenwood-what-drives-the-urge-to-explore
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Veronique Greenwood]] • [[Aeon]]
+
+https://aeon.co/magazine/culture/what-drives-the-urge-to-explore
 
 "People tend to go out to the edges of things. Which things, exactly, depends on the era: 1.8 million years ago, our early ancestors moved overland out of Africa. Thousands of years ago, early Polynesians sailed outrigger canoes over the horizon, eventually populating the entire Pacific. In the late 19th century, nearly every year a new batch of European explorers headed northwards, throwing themselves into the jaws of the ice. Today, the planet’s atmosphere seems to be the edge of choice. It is not clear how many people applied to be on Mars One’s much-discussed mission to colonise the Red Planet, but what is clear is that a one-way ticket away from Earth sets some people’s eyes alight."
  

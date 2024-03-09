@@ -6,9 +6,12 @@ title: Notes on Twenty-First Century Mystic Carly Rae Jepsen
 publication: The Awl
 link: https://www.theawl.com/2015/08/notes-on-21st-century-mystic-carly-rae-jepsen/
 date: 2015-08-25
+permalink: 2015/08/25/jia-tolentino-notes-on-twenty-first-century-mystic-carly-rae-jepsen
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Jia Tolentino]] • [[The Awl]]
+
+https://www.theawl.com/2015/08/notes-on-21st-century-mystic-carly-rae-jepsen/
 
 "Carly Rae Jepsen is a pop artist zeroed in on love’s totipotency: the glance, the kaleidoscope-confetti-spinning instant, the first bit of nothing that contains it all."
 

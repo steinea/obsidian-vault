@@ -6,9 +6,12 @@ title: The Space Doctor's Big Idea
 publication: The New Yorker
 link: https://www.newyorker.com/tech/annals-of-technology/the-space-doctors-big-idea-einstein-general-relativity
 date: 2015-11-25
+permalink: 2015/11/25/randall-munroe-the-space-doctors-big-idea
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Randall Munroe]] • [[The New Yorker]]
+
+https://www.newyorker.com/tech/annals-of-technology/the-space-doctors-big-idea-einstein-general-relativity
 
 "it’s just a question of what you say is sitting still"
  

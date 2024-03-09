@@ -6,9 +6,12 @@ title: The Ambitious Guest
 publication: The Ambitious Guest
 link: https://en.wikisource.org/wiki/The_Ambitious_Guest
 date: 2015-10-27
+permalink: 2015/10/27/nathaniel-hawthorne-the-ambitious-guest
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Nathaniel Hawthorne]] • [[The Ambitious Guest]]
+
+https://en.wikisource.org/wiki/The_Ambitious_Guest
 
 "The daughter had just uttered some simple jest that filled them all with mirth, when the wind came through the Notch and seemed to pause before their cottage--rattling the door, with a sound of wailing and lamentation, before it passed into the valley. For a moment it saddened them, though there was nothing unusual in the tones."
 

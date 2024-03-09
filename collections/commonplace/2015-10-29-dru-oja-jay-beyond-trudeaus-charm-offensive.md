@@ -6,9 +6,12 @@ title: Beyond Trudeau’s Charm Offensive
 publication: Medium
 link: https://medium.com/@druojajay/beyond-trudeau-s-charm-offensive-a-social-movement-guide-to-cooptation-7141acbc74f3
 date: 2015-10-29
+permalink: 2015/10/29/dru-oja-jay-beyond-trudeaus-charm-offensive
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Dru Oja Jay]] • [[Medium]]
+
+https://medium.com/@druojajay/beyond-trudeau-s-charm-offensive-a-social-movement-guide-to-cooptation-7141acbc74f3
 
 "There are essentially two ways to respond to Trudeau’s charm offensive."
 

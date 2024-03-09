@@ -6,9 +6,12 @@ title: Is God an Accident?
 publication: The Atlantic
 link: https://www.theatlantic.com/magazine/archive/2005/12/is-god-an-accident/304425/
 date: 2015-11-24
+permalink: 2015/11/24/paul-bloom-is-god-an-accident
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Paul Bloom]] • [[The Atlantic]]
+
+https://www.theatlantic.com/magazine/archive/2005/12/is-god-an-accident/304425/
 
 "It is easy for those of us who reject supernatural beliefs to agree with Stephen Jay Gould that the best way to accord dignity and respect to both science and religion is to recognize that they apply to "non-overlapping magisteria": science gets the realm of facts, religion the realm of values."
 

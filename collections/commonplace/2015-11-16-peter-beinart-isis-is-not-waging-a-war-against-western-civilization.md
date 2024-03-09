@@ -6,9 +6,12 @@ title: ​ISIS Is Not Waging a War Against Western Civilization
 publication: The Atlantic
 link: https://www.theatlantic.com/international/archive/2015/11/isis-paris-attacks-rubio-republicans/416085/
 date: 2015-11-16
+permalink: 2015/11/16/peter-beinart-isis-is-not-waging-a-war-against-western-civilization
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Peter Beinart]] • [[The Atlantic]]
+
+https://www.theatlantic.com/international/archive/2015/11/isis-paris-attacks-rubio-republicans/416085/
 
 "The Paris attack was a horrific surprise orchestrated by France’s enemies. It wasn’t a “wake-up call” unless you believe its ultimate author was France itself."
  

@@ -6,9 +6,12 @@ title: Aleph
 publication: Oxford English Dictionary
 link: https://www.oed.com/view/Entry/4833
 date: 2015-07-04
+permalink: 2015/07/04/oxford-english-dictionary-aleph
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Oxford English Dictionary]]  
+
+https://www.oed.com/view/Entry/4833
 
 Pronunciation:  Brit. /ˈalɛf/ , /ˈɑːlɛf/ , /ˈalɪf/ , /ˈɑːlɪf/ , U.S. /ˈɑlɛf/ , /ˈɑləf/
 

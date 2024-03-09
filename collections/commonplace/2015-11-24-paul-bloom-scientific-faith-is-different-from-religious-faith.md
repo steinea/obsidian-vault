@@ -1,12 +1,17 @@
 ---
 layout: entry
 category: commonplace
-author: Scientific Faith Is Different From Religious Faith
-title: Paul Bloom
+author: Paul Bloom
+title: Scientific Faith Is Different From Religious Faith
 publication: The Atlantic
 link: https://www.theatlantic.com/science/archive/2015/11/why-scientific-faith-isnt-the-same-as-religious-faith/417357/
 date: 2015-11-24
+permalink: 2015/11/24/paul-bloom-scientific-faith-is-different-from-religious-faith
 ---
+
+[[2015]] • [[commonplace]] • [[Paul Bloom]] • [[The Atlantic]]
+
+https://www.theatlantic.com/science/archive/2015/11/why-scientific-faith-isnt-the-same-as-religious-faith/417357/
 
 "I argued that many religious beliefs arise from universal modes of thought that have evolved for reasoning about the social world. We are sensitive to signs of agency, which explains the animism that grounds the original religions of the world. We are naturally prone to infer intelligent design when we see complex structure, which makes creationism more appealing that natural selection. We are intuitive dualists, and so the idea of an immaterial soul just makes sense—or at least more sense than the notion that our minds are the products of our physical brains."
 

@@ -6,9 +6,12 @@ title: Metaphors Are Us
 publication: Nautilus
 link: https://nautil.us/issue/29/scaling/metaphors-are-us-rp
 date: 2015-10-22
+permalink: 2015/10/22/robert-sapolsky-metaphors-are-us
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Robert Sapolsky]] • [[Nautilus]]
+
+https://nautil.us/issue/29/scaling/metaphors-are-us-rp
 
 "present-tense emotionality is what communication by animals is mostly about."
  

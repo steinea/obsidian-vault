@@ -6,9 +6,12 @@ title: What Makes Scandinavia Different?
 publication: Jacobin
 link: https://jacobin.com/2015/08/national-review-williamson-bernie-sanders-sweden/
 date: 2015-08-10
+permalink: 2015/08/10/rune-moller-stahl-andreas-moller-mulvad-what-makes-scandinavia-different
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Rune Møller Stahl]] • [[Andreas Møller Mulvad]] • [[Jacobin]]
+
+https://jacobin.com/2015/08/national-review-williamson-bernie-sanders-sweden/
 
 "Scandinavian politics is much less partisan and more coalition-prone than in the US, with proportional representation effectively denying any one party an absolute parliamentary majority. But we should not mistake a contingent twentieth-century historical conjuncture of relative political civility for a supra-historical essence of Nordic political culture."
  

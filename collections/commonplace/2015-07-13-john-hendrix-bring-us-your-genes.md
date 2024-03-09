@@ -6,9 +6,12 @@ title: Bring Us Your Genes
 publication: Nautilus
 link: https://nautil.us/issue/26/color/bring-us-your-genes
 date: 2015-07-13
+permalink: 2015/07/13/john-hendrix-bring-us-your-genes
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[John Hendrix]] • [[Nautilus]]
+
+https://nautil.us/issue/26/color/bring-us-your-genes
 
 "Iceland had an obsession with genealogy, a tradition of centralized medical record keeping, and an altruistic populace. The nation had a massive tissue bank that had been preserving samples from autopsies since 1915, and had recorded every single case of cancer diagnosed since 1952."
 

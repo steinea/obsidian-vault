@@ -6,9 +6,12 @@ title: The Judgment Tale
 publication: Poetry Foundation
 link: https://www.poetryfoundation.org/poetrymagazine/poems/56878/the-judgment-tale
 date: 2015-10-21
+permalink: 2015/10/21/valzhyna-mort-the-judgment-tale
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Valzhyna Mort]] • [[Poetry Foundation]]
+
+https://www.poetryfoundation.org/poetrymagazine/poems/56878/the-judgment-tale
 
 Over the growing shadows fell the dead weight of  light.
 

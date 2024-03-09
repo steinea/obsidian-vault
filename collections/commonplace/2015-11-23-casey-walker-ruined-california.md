@@ -6,9 +6,12 @@ title: Ruined California
 publication: Los Angeles Review of Books
 link: https://lareviewofbooks.org/article/ruined-california/
 date: 2015-11-23
+permalink: 2015/11/23/casey-walker-ruined-california
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Casey Walker]] • [[Los Angeles Review of Books]]
+
+https://lareviewofbooks.org/article/ruined-california/
 
 "Claire Vaye Watkins’ first novel, Gold Fame Citrus. The novel is a nihilistic reckoning with the exploded fantasia of the West, set in a devastated near future where the trees have all died, blueberries are sold in narcotic quantities at exorbitant prices, and a ‘dune sea’ called the ‘Amargosa’ is steadily sanding away much of California’s geography."
 

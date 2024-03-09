@@ -1,14 +1,17 @@
 ---
 layout: entry
 category: commonplace
-author: HAL, Mother, and Father
-title: Jason Z. Resnikoff
+author: Jason Z. Resnikoff
+title: HAL, Mother, and Father
 publication: The Paris Review
 link: https://www.theparisreview.org/blog/2015/01/09/hal-mother-and-father/
 date: 2015-12-22
+permalink: 2015/12/22/jason-z-resnikoff-hal-mother-and-father
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Jason Z. Resnikoff]] • [[The Paris Review]]
+
+https://www.theparisreview.org/blog/2015/01/09/hal-mother-and-father/
 
 "First, this passage from Hannah Arendt’s 1958 Human Condition, which my father bought in the early sixties: This future man, whom scientists tell us they will produce in no more than a hundred years, seems to be possessed by a rebellion against human existence as it has been given, a free gift from nowhere (secularly speaking), which he wishes to exchange, as it were, for something he has made himself."
  

@@ -6,9 +6,12 @@ title: Spooked
 publication: The New Yorker
 link: https://www.newyorker.com/magazine/2015/11/30/spooked-books-adam-gopnik
 date: 2015-11-25
+permalink: 2015/11/25/adam-gopnik-spooked
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Adam Gopnik]] • [[The New Yorker]]
+
+https://www.newyorker.com/magazine/2015/11/30/spooked-books-adam-gopnik
 
 "The story dates to the early decades of quantum theory, in the nineteen-twenties and thirties, when Albert Einstein was holding out against the “probabilistic” views about the identity of particles and waves held by a younger generation of theoretical physicists. He created what he thought of as a reductio ad absurdum. Suppose, he said, that particles like photons and electrons really do act like waves, as the new interpretations insisted, and that, as they also insisted, their properties can be determined only as they are being measured. Then, he pointed out, something else would have to be true: particles that were part of a single wave function would be permanently “entangled,” no matter how far from each other they migrated. If you have a box full of photons governed by one wave function, and one escapes, the escapee remains entangled in the fate of the particles it left behind—like the outer edges of the ripples spreading from a pebble thrown into a pond. An entangled particle, measured here in the Milky Way, would have to show the same spin—or the opposite spin, depending—or momentum as its partner, conjoined millions of light-years away, when measured at the same time. Like Paul Simon and Art Garfunkel, no matter how far they spread apart they would still be helplessly conjoined. Einstein’s point was that such a phenomenon could only mean that the particles were somehow communicating with each other instantaneously, at a speed faster than light, violating the laws of nature. This was what he condemned as “spooky action at a distance.”"
 

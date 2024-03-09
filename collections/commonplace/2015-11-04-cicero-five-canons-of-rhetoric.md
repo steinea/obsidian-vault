@@ -6,9 +6,12 @@ title: Five Canons of Rhetoric
 publication: Wikipedia
 link: https://en.wikipedia.org/wiki/Rhetoric#Canons
 date: 2015-11-04
+permalink: 2015/11/04/cicero-five-canons-of-rhetoric
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Cicero]] • [[Wikipedia]]
+
+https://en.wikipedia.org/wiki/Rhetoric#Canons
 
 The Romans, as well as the Greeks were interested in argument and rhetoric. The five canons of rhetoric appear in Cicero's first century Latin text, Rhetorica ad Herennium, which contained four books that detail the rhetorical approach of the day, and was highly influential for many subsequent centuries: 
 

@@ -6,9 +6,12 @@ title: Ode to the West Wind
 publication: Poetry Foundation
 link: https://www.poetryfoundation.org/poems/45134/ode-to-the-west-wind
 date: 2015-10-18
+permalink: 2015/10/18/percy-bysshe-shelley-ode-to-the-west-wind
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Percy Bysshe Shelley]] • [[Poetry Foundation]]
+
+https://www.poetryfoundation.org/poems/45134/ode-to-the-west-wind
 
 I
 <br>O wild West Wind, thou breath of Autumn's being,

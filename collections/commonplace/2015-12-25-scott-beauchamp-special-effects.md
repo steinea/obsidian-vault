@@ -6,9 +6,12 @@ title: Special Effects
 publication: The Paris Review
 link: https://www.theparisreview.org/blog/2015/05/12/special-effects/
 date: 2015-12-25
+permalink: 2015/12/25/scott-beauchamp-special-effects
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Scott Beauchamp]] • [[The Paris Review]]
+
+https://www.theparisreview.org/blog/2015/05/12/special-effects/
 
 "What bothered me was that I preferred the depth and ambiguity, however unintentional, of the Sharia-revised versions of the films: I liked familiar cultural products through a filter of strict religious values."
 

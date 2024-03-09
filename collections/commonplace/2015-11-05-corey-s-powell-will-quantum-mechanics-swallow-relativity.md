@@ -6,9 +6,12 @@ title: Will Quantum Mechanics Swallow Relativity?
 publication: Nautilus
 link: https://nautil.us/issue/29/scaling/will-quantum-mechanics-swallow-relativity 
 date: 2015-11-05
+permalink: 2015/11/05/corey-s-powell-will-quantum-mechanics-swallow-relativity
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Corey S. Powell]] • [[Nautilus]]
+
+https://nautil.us/issue/29/scaling/will-quantum-mechanics-swallow-relativity 
 
 "A basic assumption in Einstein’s physics—an assumption going all the way back to Aristotle, really—is that space is continuous and infinitely divisible, so that any distance could be chopped up into even smaller distances. But Hogan questions whether that is really true. Just as a pixel is the smallest unit of an image on your screen and a photon is the smallest unit of light, he argues, so there might be an unbreakable smallest unit of distance: a quantum of space."
 

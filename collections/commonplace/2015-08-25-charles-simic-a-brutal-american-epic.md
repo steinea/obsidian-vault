@@ -6,9 +6,12 @@ title: A Brutal American Epic
 publication: New York Review of Books
 link: https://www.nybooks.com/online/2015/08/25/brutal-american-epic-reznikoff-testimony/
 date: 2015-08-25
+permalink: 2015/08/25/charles-simic-a-brutal-american-epic
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Charles Simic]] • [[New York Review of Books]]
+
+https://www.nybooks.com/online/2015/08/25/brutal-american-epic-reznikoff-testimony/
 
 "The child, about six, thin and feeble and sick of a disorder of its bowels, was whipped by its father for befouling its bed: twenty or more “licks” with a switch as thick as its father’s finger, and large “whelks” left on its body. And then, on a cold and rainy December day, sent to its grandfather’s in another county— where it died in a few days."
 

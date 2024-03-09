@@ -6,9 +6,12 @@ title: Peirce’s Theory of Signs
 publication: Stanford Encyclopedia of Philosophy
 link: https://plato.stanford.edu/entries/peirce-semiotics/
 date: 2015-11-25
+permalink: 2015/11/25/albert-atkin-peirces-theory-of-signs
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Albert Atkin]] • [[Stanford Encyclopedia of Philosophy]]
+
+https://plato.stanford.edu/entries/peirce-semiotics/
 
 "Peirce’s Sign Theory, or Semiotic, is an account of signification, representation, reference and meaning."
 

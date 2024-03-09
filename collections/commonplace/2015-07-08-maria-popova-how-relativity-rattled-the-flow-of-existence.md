@@ -6,9 +6,12 @@ title: How Relativity Rattled the Flow of Existence
 publication: The Marginalian
 link: https://www.themarginalian.org/2015/05/07/rebecca-goldstein-incompleteness-godel-einstein-time/
 date: 2015-07-08
+permalink: 2015/07/08/maria-popova-how-relativity-rattled-the-flow-of-existence
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Maria Popova]] • [[The Marginalian]] 
+
+https://www.themarginalian.org/2015/05/07/rebecca-goldstein-incompleteness-godel-einstein-time/
 
 "however convincing our intuitive sense that time is a mutable abstraction shaped by the subjective grab-bag of attributes and experiences we call the self, there remains the empirical nature of time as a measurable, observable, concrete dimension of reality — and the rift between these two conceptions of time is one of the most disorienting yet fascinating aspects of existence."
  

@@ -6,9 +6,12 @@ title: Toward an Immanent Ontology
 publication: Social Ecologies
 link: https://socialecologies.wordpress.com/2012/10/09/nick-srnicek-toward-an-immanent-ontology/
 date: 2015-09-11
+permalink: 2015/09/11/s-c-hickman-toward-an-immanent-ontology
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[S. C. Hickman]] • [[Social Ecologies]]
+
+https://socialecologies.wordpress.com/2012/10/09/nick-srnicek-toward-an-immanent-ontology/
 
 "“Bring something incomprehensible into the world!” — Gilles Deleuze (A Thousand Plateaus: Capitalism and Schizophrenia)"
 

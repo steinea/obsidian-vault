@@ -6,9 +6,12 @@ title: Further Materials Toward a Theory of the Man-Child
 publication: The New Inquiry
 link: https://thenewinquiry.com/further-materials-toward-a-theory-of-the-man-child/
 date: 2015-10-13
+permalink: 2015/10/13/moira-weigel-mal-ahern-further-materials-toward-a-theory-of-the-man-child
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Moira Weigel]] • [[Mal Ahern]] • [[The New Inquiry]]
+
+https://thenewinquiry.com/further-materials-toward-a-theory-of-the-man-child/
 
 "Semiotext(e) published translations of Tiqqun’s Introduction to Civil War and This is Not a Program between 2009 and 2011, and the anarchist press Little Black Cart books distributed Tiqqun 1 and Theory of Bloom in 2011 and 2012. Though their cops-and-robbers bombast sometimes raised our eyebrows, we read these with interest. Then, late last year, Semiotext(e) put out its next Tiqqun ­installment. Enclosed in a bright pink cover, and bookended with what looked like low-grade xerox collages of glossy magazine ads and soft porn, Preliminary Materials for a Theory of the Young-Girl confirmed all that we had begun to suspect."
 

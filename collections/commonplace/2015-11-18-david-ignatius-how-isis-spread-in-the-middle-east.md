@@ -6,9 +6,12 @@ title: How ISIS Spread in the Middle East
 publication: The Atlantic
 link: https://www.theatlantic.com/international/archive/2015/10/how-isis-started-syria-iraq/412042/
 date: 2015-11-18
+permalink: 2015/11/18/david-ignatius-how-isis-spread-in-the-middle-east
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[David Ignatius]] • [[The Atlantic]]
+
+https://www.theatlantic.com/international/archive/2015/10/how-isis-started-syria-iraq/412042/
 
 "“It is perfectly true, as the philosophers say, that life must be understood backwards. But they forget the other proposition: that it must be lived forwards.” This observation was made in 1843 by the Danish philosopher Søren Kierkegaard in a journal entry, but it might have been written about the contemporary Middle East."
 

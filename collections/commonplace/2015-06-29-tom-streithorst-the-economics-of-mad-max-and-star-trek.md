@@ -6,9 +6,12 @@ title: The Economics of Mad Max and Star Trek
 publication: Los Angeles Review of Books 
 link: https://lareviewofbooks.org/article/the-economics-of-mad-max-and-star-trek/
 date: 2015-06-29
+permalink: 2015/06/29/tom-streithorst-the-economics-of-mad-max-and-star-trek
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Tom Streithorst]] • [[Los Angeles Review of Books]]
+
+https://lareviewofbooks.org/article/the-economics-of-mad-max-and-star-trek/
 
 "The dream we can call Star Trek, the nightmare Mad Max."
  

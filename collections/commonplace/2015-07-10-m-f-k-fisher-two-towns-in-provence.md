@@ -6,9 +6,12 @@ title: Two Towns in Provence
 publication: Two Towns in Provence
 link: https://www.penguinrandomhouse.com/books/49916/two-towns-in-provence-by-mfk-fisher/
 date: 2015-07-10
+permalink: 2015/07/10/m-f-k-fisher-two-towns-in-provence
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[M. F. K. Fisher]] • [[Two Towns in Provence]] 
+
+https://www.penguinrandomhouse.com/books/49916/two-towns-in-provence-by-mfk-fisher/
 
 OFTEN in the sketch for a portrait, the invisible lines that bridge one stroke of the pencil or brush to another are what really make it live. This is probably true in a word picture too. The myriad undrawn unwritten lines are the ones that hold together what the painter and the writer have tried to set down, their own visions of a thing: a town, one town, this town.
 LOCATION: 61

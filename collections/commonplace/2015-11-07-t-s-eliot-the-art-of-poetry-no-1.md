@@ -6,9 +6,12 @@ title: The Art of Poetry, No. 1
 publication: The Paris Review
 link: https://www.theparisreview.org/interviews/4738/the-art-of-poetry-no-1-t-s-eliot
 date: 2015-11-07
+permalink: 2015/11/07/t-s-eliot-the-art-of-poetry-no-1
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[T. S. Eliot]] • [[The Paris Review]]
+
+https://www.theparisreview.org/interviews/4738/the-art-of-poetry-no-1-t-s-eliot
 
 "INTERVIEWER You have mentioned in print that Pound cut The Waste Land from a much larger poem into its present form. Were you benefited by his criticism of your poems in general? Did he cut other poems? ELIOT Yes. At that period, yes. He was a marvelous critic because he didn’t try to turn you into an imitation of himself. He tried to see what you were trying to do."
  

@@ -6,9 +6,12 @@ title: Exegesis, Allegoresis, Eisegesis, Epexegesis, Periegesis
 publication: Oxford English Dictionary
 link: https://www.oed.com/
 date: 2015-07-01
+permalink: 2015/07/01/oxford-english-dictionary-exegesis-allegoresis-eisegesis-epexegesis-periegesis
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Oxford English Dictionary]] 
+
+https://www.oed.com/
 
 EXEGESIS
 

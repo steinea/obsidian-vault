@@ -6,9 +6,12 @@ title: The Meaning of Zombies
 publication: Granta
 link: https://granta.com/the-meaning-of-zombies/
 date: 2015-10-29
+permalink: 2015/10/29/naomi-alderman-the-meaning-of-zombies
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Naomi Alderman]] • [[Granta]]
+
+https://granta.com/the-meaning-of-zombies/
 
 "We will all die. When we’re young, a voice inside says ‘but not me, surely not me’. But that voice fades in time, leaving us only with the longing for eternal life. And so these myths comfort us: vampires are lonely, ghosts are intangible, werewolves are bestial, this is the price of immortality. To become a zombie exacts an even sharper price: brainless, repulsive, no one would choose that fractional life over the peace of death. Perhaps the zombie represents our society’s increasing yearning for immortality, and the increasing necessity therefore to imagine it as horrifying."
  

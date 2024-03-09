@@ -6,9 +6,12 @@ title: Freud's War
 publication: Poetry Foundation
 link: https://www.poetryfoundation.org/poetrymagazine/poems/58144/freuds-war
 date: 2015-06-03
+permalink: 2015/06/03/emily-berry-freuds-war
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Emily Berry]] • [[Poetry Foundation]] 
+
+https://www.poetryfoundation.org/poetrymagazine/poems/58144/freuds-war
 
 *A cento*
 

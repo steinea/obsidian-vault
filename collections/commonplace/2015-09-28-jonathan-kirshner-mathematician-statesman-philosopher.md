@@ -6,9 +6,12 @@ title: Mathematician, Statesman, Philosopher
 publication: Los Angeles Review of Books
 link: https://lareviewofbooks.org/article/mathematician-statesman-philosopher-the-life-of-john-maynard-keynes/
 date: 2015-09-28
+permalink: 2015/09/28/jonathan-kirshner-mathematician-statesman-philosopher
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Jonathan Kirshner]] • [[Los Angeles Review of Books]]
+
+https://lareviewofbooks.org/article/mathematician-statesman-philosopher-the-life-of-john-maynard-keynes/
 
 "The Burke essay is especially valuable, Skidelsky explains, as it illustrates Keynes’s lifelong emphasis on “the doctrine of prudence,” which had “a profound effect” both on his theory of economic policy and of statesmanship. “Burke ever held, and held rightly,” the young Keynes wrote, that “our power of prediction is so slight, and our knowledge of remote consequences so uncertain, that it is seldom wise to sacrifice a present benefit for a doubtful advantage in the future.” This early piece (along with an excerpt from Keynes’s early book A Treatise on Probability) hint at his future epiphany regarding the difference between risk (making a bet knowing the true odds) and uncertainty (making one’s best guesses in an environment characterized by unknowables), that would inform The General Theory."
 

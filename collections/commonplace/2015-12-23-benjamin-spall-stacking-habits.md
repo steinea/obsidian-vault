@@ -6,9 +6,12 @@ title: Stacking Habits
 publication: 99U
 link: https://99u.adobe.com/articles/38251/stacking-habits-how-to-finally-stick-to-your-morning-routine
 date: 2015-12-23
+permalink: 2015/12/23/benjamin-spall-stacking-habits
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Benjamin Spall]] • [[99U]]
+
+https://99u.adobe.com/articles/38251/stacking-habits-how-to-finally-stick-to-your-morning-routine
 
 "Kaizen, the Japanese word for “continuous improvement,” is often applied in business situations to improve how a business runs and, therefore, the profitability of the entire operation. Focusing on the belief that good processes bring good results, this same ideal can be applied to you and your habits."
 

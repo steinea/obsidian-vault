@@ -6,9 +6,12 @@ title: A Search Engine for Mathematics
 publication: Nautilus
 link: https://nautil.us/issue/29/scaling/how-to-build-a-search-engine-for-mathematics
 date: 2015-10-22
+permalink: 2015/10/22/siobhan-roberts-a-search-engine-for-mathematics
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Siobhan Roberts]] • [[Nautilus]]
+
+https://nautil.us/issue/29/scaling/how-to-build-a-search-engine-for-mathematics
 
 "Search the keyword “cloud,” for instance, and you get sequence A136281: Among the references you find the comment: “These are thunderstorm graphs. Their connected components are a single cycle (clouds), a path (lightning bolts), or an isolated vertex (raindrops).”"
 

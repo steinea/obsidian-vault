@@ -6,9 +6,12 @@ title: The Library of Babel as Seen from Within
 publication: The Paris Review
 link: https://www.theparisreview.org/blog/2015/07/23/the-library-of-babel-as-seen-from-within/
 date: 2015-07-24
+permalink: 2015/07/24/jonathan-basile-the-library-of-babel-as-seen-from-within
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Jonathan Basile]] • [[The Paris Review]] 
+
+https://www.theparisreview.org/blog/2015/07/23/the-library-of-babel-as-seen-from-within/
 
 "Though the story’s librarian-narrator believes in the possible triumph of reason, the principle force underlying the library is irrationality. Any expression, even the most elegant or undeniably true, is nonetheless possible without sincerity, or even any intention towards signification."
 

@@ -6,9 +6,12 @@ title: The Art of Fiction No. 177
 publication: The Paris Review
 link: https://www.theparisreview.org/interviews/228/the-art-of-fiction-no-177-jonathan-lethem
 date: 2015-11-10
+permalink: 2015/11/10/jonathan-lethem-the-art-of-fiction-no-177
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Jonathan Lethem]] • [[The Paris Review]]
+
+https://www.theparisreview.org/interviews/228/the-art-of-fiction-no-177-jonathan-lethem
 
 "In that sense, I’m a native. When you say I don’t appear paranoiac to you, I figure you mean I don’t traffic in the thin membrane of social paranoia. Why bother? We live in a fallen universe. We can at least be kind to one another and not jump on one another’s slightest errors or moods. In a desperate situation, pick your battles."
 

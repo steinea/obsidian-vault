@@ -6,9 +6,12 @@ title: Was Human Evolution Inevitable Or a Matter of Luck?
 publication: Aeon
 link: https://aeon.co/magazine/science/was-human-evolution-inevitable-or-a-matter-of-luck
 date: 2015-07-02
+permalink: 2015/07/02/dan-falk-was-human-evolution-inevitable-or-a-matter-of-luck
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Dan Falk]] • [[Aeon]] 
+
+https://aeon.co/magazine/science/was-human-evolution-inevitable-or-a-matter-of-luck
 
 "Was the appearance of intelligent life an evolutionary fluke, or was it inevitable? This was one of the central themes in Stephen Jay Gould’s book, Wonderful Life: The Burgess Shale and the Nature of History (1989). If we re-played the tape of evolution, so to speak, would Homo sapiens – or something like it – arise once again, or was humanity’s emergence contingent on a highly improbable set of circumstances?"
  

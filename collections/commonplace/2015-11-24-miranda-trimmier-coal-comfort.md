@@ -6,9 +6,12 @@ title: Coal Comfort
 publication: The New Inquiry
 link: https://thenewinquiry.com/coal-comfort/
 date: 2015-11-24
+permalink: 2015/11/24/miranda-trimmier-coal-comfort
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Miranda Trimmier]] • [[The New Inquiry]]
+
+https://thenewinquiry.com/coal-comfort/
 
 "Malm opposes any history that treats the rise of fossil fuels as natural or inevitable. His account is about labor and the contingencies that allowed fossil fuels to emerge as an indispensable tool in capital’s struggles to control it."
 

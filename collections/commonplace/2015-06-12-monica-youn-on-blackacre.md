@@ -6,9 +6,12 @@ title: On Blackacre
 publication: Poetry Foundations
 link: https://www.poetryfoundation.org/harriet-books/2015/06/on-blackacre
 date: 2015-06-12
+permalink: 2015/06/12/monica-youn-on-blackacre
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Monica Youn]] • [[Poetry Foundation]] 
+
+https://www.poetryfoundation.org/harriet-books/2015/06/on-blackacre
 
 "Blackacre—with its echoes of Bleak House, of black-letter law, of blight taken to gothic extremes—is an inside joke among lawyers, a password marking one’s initiation into a centuries-old tradition of legal indoctrination."
 

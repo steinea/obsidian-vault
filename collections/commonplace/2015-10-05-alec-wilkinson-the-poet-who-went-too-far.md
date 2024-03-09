@@ -6,9 +6,12 @@ title: The Poet Who Went Too Far
 publication: The New Yorker
 link: https://www.newyorker.com/magazine/2015/10/05/something-borrowed-wilkinson
 date: 2015-10-05
+permalink: 2015/10/05/alec-wilkinson-the-poet-who-went-too-far
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Alec Wilkinson]] • [[The New Yorker]]
+
+https://www.newyorker.com/magazine/2015/10/05/something-borrowed-wilkinson
 
 "He believes that the propositions his writing presents—uncreative writing’s permission to borrow entire texts, for example—are more interesting than the writing itself. “I don’t have a readership,” he said. “I have a thinkership.”"
 

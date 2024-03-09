@@ -6,9 +6,12 @@ title: Reading Is Forgetting
 publication: New York Review of Books
 link: https://www.nybooks.com/online/2015/06/26/reading-is-forgetting/
 date: 2015-07-01
+permalink: 2015/07/01/tim-parks-reading-is-forgetting
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Tim Parks]] • [[New York Review of Books]] 
+
+https://www.nybooks.com/online/2015/06/26/reading-is-forgetting/
 
 "Opening a new book called Forgetting by the Dutch writer Douwe Draaisma, I am told almost at once that our immediate visual memories “can hold on to stimuli for no more than a fraction of a second.” This fact—our inevitable forgetting, or simply barely registering most of the visual input we receive—is acknowledged with some regret since we are generally encouraged, Draaisma reflects, “to imagine memory as the ability to preserve something, preferably everything, wholly intact.”"
  

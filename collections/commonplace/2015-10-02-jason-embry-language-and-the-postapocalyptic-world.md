@@ -6,9 +6,12 @@ title: Language and the Postapocalyptic World
 publication: Los Angeles Review of Books
 link: https://lareviewofbooks.org/article/language-and-the-postapocalyptic-world/
 date: 2015-10-02
+permalink: 2015/10/02/jason-embry-language-and-the-postapocalyptic-world
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Jason Embry]] • [[Los Angeles Review of Books]]
+
+https://lareviewofbooks.org/article/language-and-the-postapocalyptic-world/
 
 "Because the world is small and their needs are immediate, Ice Cream and her fellow Sengles are happy. They hunt, play, thieve, and smoke, because little else needs doing. This simple life is reflected in their language. Technobabble and political jargon are absent from their vocabulary. They lack knowledge of history and literature, so the descriptions of events that transpire are immediate and grounded in the moment. Ice Cream uses nature and weather imagery to depict complex emotions like love and pain."
  

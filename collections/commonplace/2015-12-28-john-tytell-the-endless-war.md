@@ -6,9 +6,12 @@ title: The Endless War
 publication: Los Angeles Review of Books
 link: https://lareviewofbooks.org/review/the-endless-war/
 date: 2015-12-28
+permalink: 2015/12/28/john-tytell-the-endless-war
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[John Tytell]] • [[Los Angeles Review of Books]]
+
+https://lareviewofbooks.org/review/the-endless-war/
 
 “For war’s a banker, flesh his gold.There by the furnace of Troy’s field,Where thrust meets thrust, he sits to holdHis scale, and watch the spearpoint sway;And back to waiting homes he sendsSlag from the ore, a little dustTo drain hot tears from hearts of friends;Good measure, safely stored and sealed
 In a convenient jar — the just

@@ -6,9 +6,12 @@ title: No, Crisis
 publication: Los Angeles Review of Books
 link: https://lareviewofbooks.org/article/no-crisis-2/
 date: 2015-12-12
+permalink: 2015/12/12/evan-calder-williams-no-crisis
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Evan Calder Williams]] •[[Los Angeles Review of Books]]
+
+https://lareviewofbooks.org/article/no-crisis-2/
 
 "Real critique, rare thing that it is, usually pays dreck, in no small part because it threatens systems of valuation."
  

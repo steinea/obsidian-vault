@@ -6,9 +6,12 @@ title: One Need Not Be A Chamber
 publication: Complete Poems
 link: https://www.bartleby.com/113/4069.html
 date: 2015-06-15
+permalink: 2015/06/15/emily-dickinson-one-need-not-be-a-chamber
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Emily Dickinson]] • [[Bartleby]]
+
+https://www.bartleby.com/113/4069.html
 
 670 ("One need not be a Chamber—to be Haunted—")
  by Emily Dickinson (1830-1886)  

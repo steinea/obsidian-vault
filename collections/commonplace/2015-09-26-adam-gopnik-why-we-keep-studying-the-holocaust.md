@@ -6,9 +6,12 @@ title: Why We Keep Studying the Holocaust
 publication: The New Yorker
 link: https://www.newyorker.com/magazine/2015/09/21/blood-and-soil
 date: 2015-09-26
+permalink: 2015/09/26/adam-gopnik-why-we-keep-studying-the-holocaust
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Adam Gopnik]] • [[The New Yorker]]
+
+https://www.newyorker.com/magazine/2015/09/21/blood-and-soil
 
 "How you feel about things as seemingly remote as Iranian deals and Putin’s aggressions is shaped by—or shapes—your judgment of the historical micro-details."
 

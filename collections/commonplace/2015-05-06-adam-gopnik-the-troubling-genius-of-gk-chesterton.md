@@ -6,9 +6,12 @@ title: The Troubling Genius of G. K. Chesterton
 publication: The New Yorker
 link: https://www.newyorker.com/magazine/2008/07/07/the-back-of-the-world
 date: 2015-05-06
+permalink: 2015/05/06/adam-gopnik-the-troubling-genius-of-g-k-chesterton
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Adam Gopnik]] • [[The New Yorker]]
+
+https://www.newyorker.com/magazine/2008/07/07/the-back-of-the-world
 
 "'“The Man Who Was Thursday' is one of the hidden hinges of twentieth-century writing, the place where, before our eyes, the nonsense-fantastical tradition of Lewis Carroll and Edward Lear pivots and becomes the nightmare-fantastical tradition of Kafka and Borges. It is also, along with Chesterton’s “The Napoleon of Notting Hill,” the nearest thing that this masterly writer wrote to a masterpiece."
 

@@ -6,9 +6,10 @@ title: The Dagger
 publication: Selected Poems
 link: https://www.penguinrandomhouse.ca/books/331320/selected-poems-by-jorge-luis-borges/9780140587210
 date: 2015-12-01
+permalink: 2015/12/01/jorge-luis-borges-the-dagger
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Jorge Luis Borges]]
 
 A dagger rests in a drawer.
 

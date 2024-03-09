@@ -6,9 +6,12 @@ title: Three Contemporary Spinozas
 publication: Los Angeles Review of Books
 link: https://lareviewofbooks.org/article/three-contemporary-spinozas/
 date: 2015-04-23
+permalink: 2015/04/23/benjamin-aldes-wurgaft-three-contemporary-spinozas
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Benjamin Aldes Wurgaft]] • [[Los Angeles Review of Books]] 
+
+https://lareviewofbooks.org/article/three-contemporary-spinozas/
 
 "I shall consider human actions and appetites just as if it were a question of lines, planes and bodies. — Baruch Spinoza"
  

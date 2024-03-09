@@ -6,9 +6,12 @@ title: The Pixar Theory of Labor
 publication: The Awl
 link: https://www.theawl.com/2015/07/the-pixar-theory-of-labor/
 date: 2015-07-22
+permalink: 2015/07/22/james-douglas-the-pixar-theory-of-labor
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[James Douglas]] • [[The Awl]] 
+
+https://www.theawl.com/2015/07/the-pixar-theory-of-labor/
 
 "A lot of Pixar films come packaged with a quasi-humanist narrative hook that enables the public digestion of their work."
  

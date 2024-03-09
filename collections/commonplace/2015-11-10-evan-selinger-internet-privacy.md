@@ -6,9 +6,12 @@ title: Internet Privacy
 publication: Los Angeles Review of Books
 link: https://lareviewofbooks.org/article/internet-privacy-stepping-up-our-self-defense-game/
 date: 2015-11-10
+permalink: 2015/11/10/evan-selinger-internet-privacy
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Evan Selinger]] • [[Los Angeles Review of Books]]
+
+https://lareviewofbooks.org/article/internet-privacy-stepping-up-our-self-defense-game/
 
 "Brunton and Nissenbaum’s outrage centers on two points. First, they insist that major tech companies are actively trying to keep us in the dark, and they’re capitalizing on our limited knowledge of how data mining and analysis works."
 

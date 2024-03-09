@@ -6,9 +6,12 @@ title: Edge of Europe, End of Europe
 publication: New York Review of Books
 link: https://www.nybooks.com/online/2015/07/21/ukraine-kharkiv-edge-of-europe/
 date: 2015-07-24
+permalink: 2015/07/24/timothy-snyder-edge-of-europe-end-of-europe
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Timothy Snyder]] • [[New York Review of Books]] 
+
+https://www.nybooks.com/online/2015/07/21/ukraine-kharkiv-edge-of-europe/
 
 "The crisis of the European Union has two sides. One is political, about the lack of democracy within European institutions; the other is philosophical, about the erosion of Europe as a source of and home for universal values."
  

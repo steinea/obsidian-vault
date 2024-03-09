@@ -6,9 +6,12 @@ title: Why Sci-Fi Has So Many Catholics
 publication: The Atlantic
 link: https://www.theatlantic.com/technology/archive/2015/11/why-are-there-so-many-catholics-in-science-fiction/414990/
 date: 2015-11-10
+permalink: 2015/11/10/grayson-clary-why-sci-fi-has-so-many-catholics
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Grayson Clary]] • [[The Atlantic]]
+
+https://www.theatlantic.com/technology/archive/2015/11/why-are-there-so-many-catholics-in-science-fiction/414990/
 
 "On several counts, the Jesuits are ideal sci-fi/fantasy protagonists: mystical, adventurous, scientifically inclined."
 

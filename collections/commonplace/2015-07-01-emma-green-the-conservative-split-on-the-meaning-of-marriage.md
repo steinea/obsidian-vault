@@ -6,9 +6,12 @@ title: The Conservative Split on the Meaning of Marriage
 publication: The Atlantic
 link: https://www.theatlantic.com/politics/archive/2015/07/the-conservative-split-on-the-meaning-of-marriage/397415/
 date: 2015-07-01
+permalink: 2015/07/01/emma-green-the-conservative-split-on-the-meaning-of-marriage
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Emma Green]] • [[The Atlantic]] 
+
+https://www.theatlantic.com/politics/archive/2015/07/the-conservative-split-on-the-meaning-of-marriage/397415/
 
 "But they can’t write that in a Supreme Court opinion. “If conservatives say [marriage is] one man, one woman, ordained by God, they’ve just violated the First Amendment, because they’ve basically said, this is now a religious establishment,” said Mark Graber, a constitutional law professor at the University of Maryland. “It highlights a dilemma for conservatives.”"
 

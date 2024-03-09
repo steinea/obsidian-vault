@@ -6,9 +6,12 @@ title: Physicists and Philosophes Hold Peace Talks
 publication: The Atlantic
 link: https://www.theatlantic.com/science/archive/2015/12/physics-philosophy-string-theory/421569/
 date: 2015-12-23
+permalink: 2015/12/23/natalie-wolchover-physicists-and-philosophes-hold-peace-talks
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Natalie Walchover]] • [[The Atlantic]]
+
+https://www.theatlantic.com/science/archive/2015/12/physics-philosophy-string-theory/421569/
 
 "Theory has detached itself from experiment. The objects of theoretical speculation are now too far away, too small, too energetic or too far in the past to reach or rule out with our earthly instruments."
  

@@ -6,9 +6,12 @@ title: When Game of Thrones Stopped Being Necessary
 publication: The New Inquiry
 link: https://thenewinquiry.com/blog/when-game-of-thrones-stopped-being-necessary/
 date: 2015-06-15
+permalink: 2015/06/15/aaron-bady-when-game-of-thrones-stopped-being-necessary
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Aaron Bady]] • [[The New Inquiry]] 
+
+https://thenewinquiry.com/blog/when-game-of-thrones-stopped-being-necessary/
 
 “I’ve been fascinated by the notion that a rape scene should be (or could be) necessary.”
 

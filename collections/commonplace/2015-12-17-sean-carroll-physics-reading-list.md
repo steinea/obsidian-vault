@@ -6,9 +6,12 @@ title: Physics Reading List
 publication: Preposterous Universe
 link: http://www.preposterousuniverse.com/blog/2015/12/16/reading-list/
 date: 2015-12-17
+permalink: 2015/12/17/sean-carroll-physics-reading-list
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Sean Carroll]] •[[Preposterous Universe]]
+
+http://www.preposterousuniverse.com/blog/2015/12/16/reading-list/
 
 "Part One, Cosmos: Adams, F., & Laughlin, G. (1999). The Five Ages of the Universe: Inside the Physics of Eternity. Free Press. Albert, D.Z. (2003). Time and Chance. Harvard University Press. Carroll, S. (2010). From Eternity to Here: The Quest for the Ultimate Theory of Time. Dutton. Feynman, R.P. (1967). The Character of Physical Law. M.I.T. Press. Greene, B. (2004). The Fabric of the Cosmos: Space, Time, and the Texture of Reality. A.A. Knopf. Guth, A. (1997). The Inflationary Universe: The Quest for a New Theory of Cosmic Origins. Addison-Wesley Pub. Hawking, S.W. and Mlodinow, L. (2010). The Grand Design. Bantam. Pearl, J. (2009). Causality: Models, Reasoning, and Inference. Cambridge University Press. Penrose, R. (2005). The Road to Reality: A Complete Guide to the Laws of the Universe. A.A. Knopf. Weinberg, S. (2015). To Explain the World: The Discovery of Modern Science. HarperCollins."
  

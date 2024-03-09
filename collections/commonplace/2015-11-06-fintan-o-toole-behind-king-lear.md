@@ -3,12 +3,15 @@ layout: entry
 category: commonplace
 author: Fintan O'Toole
 title: Behind *King Lear*
-publication: The New York Review of Books
+publication: New York Review of Books
 link: https://www.nybooks.com/articles/2015/11/19/behind-king-lear-history-revealed/
 date: 2015-11-06
+permalink: 2015/11/06/fintan-otoole-behind-king-lear
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Fintan O'Toole]] • [[New York Review of Books]]
+
+https://www.nybooks.com/articles/2015/11/19/behind-king-lear-history-revealed/
 
 "To see Shakespeare as a court official working to please his political masters is not to reduce him to the level of functionary or propagandist. It is to marvel anew at the ways in which he could use even such humbling demands as sources of imaginative energy. Though it may be incidental to his purpose, Shapiro effectively overturns the Romantic conception of the artist as the champion of freedom over necessity. We begin to see a Shakespeare for whom the distinction between freedom and necessity is scarcely relevant. Here is Shakespeare as an opportunist in every sense, a political operator taking advantage of a shift in power and a voracious artist for whom the need to please new masters is not a restriction but a creative stimulus."
 

@@ -6,9 +6,12 @@ title: American Wild
 publication: Granta
 link: https://granta.com/products/granta-128-american-wild/
 date: 2015-07-10
+permalink: 2015/07/10/sigrid-rausing-american-wild
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Sigrid Rausing]] • [[Granta]] 
+
+https://granta.com/products/granta-128-american-wild/
 
 ‘It is one of the great unspoken facts of America that the land of the free largely belongs to the state,’
 LOCATION: 86

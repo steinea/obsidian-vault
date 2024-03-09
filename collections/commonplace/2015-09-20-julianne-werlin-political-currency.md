@@ -6,9 +6,12 @@ title: Political Currency
 publication: The New Inquiry
 link: https://thenewinquiry.com/political-currency/
 date: 2015-09-20
+permalink: 2015/09/20/julianne-werlin-political-currency
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Julianne Werlin]] • [[The New Inquiry]]
+
+https://thenewinquiry.com/political-currency/
 
 "What appears at first glance to be a cautionary tale about the lust for gold turns out to be a much more complicated fable about the creation of coined money by the state"
 

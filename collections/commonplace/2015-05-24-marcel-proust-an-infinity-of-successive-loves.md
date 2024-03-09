@@ -6,9 +6,12 @@ title: An Infinity of Successive Loves
 publication: Swann’s Way
 link: https://en.wikipedia.org/wiki/In_Search_of_Lost_Time
 date: 2015-05-24
+permalink: 2015/05/24/marcel-proust-an-infinity-of-successive-loves
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Marcel Proust]] • [[Swann’s Way]] 
+
+https://en.wikipedia.org/wiki/In_Search_of_Lost_Time
 
 "For what we suppose to be our love or our jealousy is never a single, continuous and indivisible passion. It is composed of an infinity of successive loves, of different jealousies, each of which is ephemeral, although by their uninterrupted multiplicity they give us the impression of continuity, the illusion of unity."
 

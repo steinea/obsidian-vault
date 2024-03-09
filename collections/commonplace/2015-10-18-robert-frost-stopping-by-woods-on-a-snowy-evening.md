@@ -6,9 +6,12 @@ title: Stopping by Woods on a Snowy Evening
 publication: Poetry Foundation
 link: https://www.poetryfoundation.org/poems/42891/stopping-by-woods-on-a-snowy-evening
 date: 2015-10-18
+permalink: 2015/10/18/robert-frost-stopping-by-woods-on-a-snowy-evening
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Robert Frost]] • [[Poetry Foundation]]
+
+https://www.poetryfoundation.org/poems/42891/stopping-by-woods-on-a-snowy-evening
 
 Whose woods these are I think I know.   
 <br>His house is in the village though;   

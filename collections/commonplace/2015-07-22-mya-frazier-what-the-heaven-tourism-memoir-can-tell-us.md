@@ -6,9 +6,12 @@ title: What the Heaven Tourism Memoir Can Tell Us
 publication: Aeon
 link: https://aeon.co/magazine/philosophy/what-the-heaven-tourism-memoir-can-tell-us
 date: 2015-07-22
+permalink: 2015/07/22/mya-frazier-what-the-heaven-tourism-memoir-can-tell-us
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Mya Frazier]] • [[Aeon]] 
+
+https://aeon.co/magazine/philosophy/what-the-heaven-tourism-memoir-can-tell-us
 
 "a soul leaves the body only to return with a message – is a narrative arc that pervades all ages, literatures and cultures"
  

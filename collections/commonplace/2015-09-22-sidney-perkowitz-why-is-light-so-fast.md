@@ -6,9 +6,12 @@ title: Why Is Light So Fast
 publication: Aeon
 link: https://aeon.co/magazine/science/the-universal-constants-that-drive-physicists-mad
 date: 2015-09-22
+permalink: 2015/09/22/sidney-perkowitz-why-is-light-so-fast
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Sidney Perkowitz]] • [[Aeon]]
+
+https://aeon.co/magazine/science/the-universal-constants-that-drive-physicists-mad
 
 "Electromagnetic theory gave a first crucial insight 150 years ago. The Scottish physicist James Clerk Maxwell showed that when electric and magnetic fields change in time, they interact to produce a travelling electromagnetic wave. Maxwell calculated the speed of the wave from his equations and found it to be exactly the known speed of light. This strongly suggested that light was an electromagnetic wave – as was soon definitively confirmed."
  

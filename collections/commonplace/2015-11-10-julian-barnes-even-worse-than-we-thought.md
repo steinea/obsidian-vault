@@ -6,9 +6,12 @@ title: Even Worse Than We Thought
 publication: New York Review of Books
 link: https://www.nybooks.com/articles/2015/11/19/jedwabne-even-worse-we-thought/
 date: 2015-11-10
+permalink: 2015/11/10/julian-barnes-even-worse-than-we-thought
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Julian Barnes]] • [[New York Review of Books]]
+
+https://www.nybooks.com/articles/2015/11/19/jedwabne-even-worse-we-thought/
 
 "Even those who come at the book from a historical and geographical distance will be obliged to pace themselves. It is not just a question of taking in individual spasms of bestial cruelty. It is also a broader question: the rate at which we can stomach the truths of man’s inhumanity to man, and ruminate on their causes."
 

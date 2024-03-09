@@ -6,9 +6,12 @@ title: Thinking Through Images
 publication: The Paris Review
 link: https://www.theparisreview.org/blog/2015/07/20/thinking-through-images-an-interview-with-nick-sousanis/
 date: 2015-07-22
+permalink: 2015/07/22/timothy-hodler-nick-sousanis-thinking-through-images
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Timothy Hodler]] • [[Nick Sousanis]] • [[The Paris Review]] 
+
+https://www.theparisreview.org/blog/2015/07/20/thinking-through-images-an-interview-with-nick-sousanis/
 
 "Rudolf Arnheim art theory meets Herbert Marcuse radicalism meets Scott McCloud comics boosterism"
  

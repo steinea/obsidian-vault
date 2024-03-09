@@ -6,9 +6,12 @@ title: The Algorithm and the Watchtower
 publication: The New Inquiry
 link: https://thenewinquiry.com/the-algorithm-and-the-watchtower/
 date: 2015-09-29
+permalink: 2015/09/29/colin-koopman-the-algorithm-and-the-watchtower
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Colin Koopman]] • [[The New Inquiry]]
+
+https://thenewinquiry.com/the-algorithm-and-the-watchtower/
 
 "All the data that is ceaselessly being produced about us and by us is so important to us in part because we are constantly invited to live our lives through updates, comments, shares, and other manner of informational self-presentation. This invitation is extended to us not only by the cool new social media startups and digital device manufacturers who profit from all the data, but it is also the message we frequently get from colleagues, contacts, family, and above all the “friends” who implicitly promise to pay attention to the data we produce."
 

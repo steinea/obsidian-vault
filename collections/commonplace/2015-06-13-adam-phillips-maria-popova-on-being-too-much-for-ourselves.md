@@ -6,9 +6,12 @@ title: On Being Too Much For Ourselves
 publication: The Marginalian
 link: https://www.themarginalian.org/2015/06/08/adam-phillips-on-balance/
 date: 2015-06-13
+permalink: 2015/06/13/adam-phillips-maria-popova-on-being-too-much-for-ourselves
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Adam Phillips]] • [[Maria Popova]] • [[The Marginalian]] 
+
+https://www.themarginalian.org/2015/06/08/adam-phillips-on-balance/
 
 "when we call our reactions overreactions what we mean is just that they are stronger than we would like them to be. In other words, we sometimes call ourselves and other people excessive as a way of invalidating or tempering the truths we tell ourselves or that other people tell us. It is impossible to overreact."
 

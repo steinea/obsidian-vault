@@ -6,9 +6,12 @@ title: A World Without Work
 publication: The Atlantic
 link: https://www.theatlantic.com/magazine/archive/2015/07/world-without-work/395294/
 date: 2015-07-02
+permalink: 2015/07/02/derek-thompson-a-world-without-work
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Derek Thompson]] •[[The Atlantic]] 
+
+https://www.theatlantic.com/magazine/archive/2015/07/world-without-work/395294/
 
 "“Youngstown’s story is America’s story, because it shows that when jobs go away, the cultural cohesion of a place is destroyed,” says John Russo, a professor of labor studies at Youngstown State University. “The cultural breakdown matters even more than the economic breakdown.”"
 

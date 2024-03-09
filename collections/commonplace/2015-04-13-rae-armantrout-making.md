@@ -6,9 +6,12 @@ title: Making
 publication: The New Yorker
 link: https://www.newyorker.com/magazine/2015/04/20/making-poem-rae-armantrout
 date: 2015-04-13
+permalink: 2015/04/13/rae-armantrout-making
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Rae Armantrout]] • [[The New Yorker]] 
+
+https://www.newyorker.com/magazine/2015/04/20/making-poem-rae-armantrout
 
 “What made this happen?”
 <br>you ask every time

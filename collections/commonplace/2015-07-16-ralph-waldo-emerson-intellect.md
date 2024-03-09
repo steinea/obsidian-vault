@@ -6,9 +6,12 @@ title: Intellect
 publication: Emerson Central
 link: https://emersoncentral.com/texts/essays-first-series/intellect/
 date: 2015-07-16
+permalink: 2015/07/16/ralph-waldo-emerson-intellect
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Ralph Waldo Emerson]] • [[Emerson Central]] 
+
+https://emersoncentral.com/texts/essays-first-series/intellect/
 
 "Intellect is the simple power anterior to all action or construction."
  

@@ -6,9 +6,12 @@ title: People Want Fairness
 publication: The Atlantic
 link: https://www.theatlantic.com/science/archive/2015/10/people-dont-actually-want-equality/411784/
 date: 2015-10-22
+permalink: 2015/10/22/paul-bloom-people-want-fairness
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Paul Bloom]] • [[The Atlantic]]
+
+https://www.theatlantic.com/science/archive/2015/10/people-dont-actually-want-equality/411784/
 
 "But in his just-published book, On Inequality, the philosopher Henry Frankfurt argues that economic equality has no intrinsic value. This is a moral claim, but it’s also a psychological one: Frankfurt suggests that if people take the time to reflect, they’ll realize that inequality isn’t really what’s bothering them. People might be troubled by what they see as unjust causes of economic inequality, a perfectly reasonable concern given how much your income and wealth are determined by accidents of birth, including how much money your parents had, your sex, and the color of your skin. We are troubled as well by potential consequences of economic inequality. We may think it corrodes democracy, or increases crime, or diminishes overall happiness. Most of all, people worry about poverty—not that some have less, but rather “that those with less have too little.” Frankfurt argues, though, that we aren’t really bothered by inequality for its own sake. He points out that few worry about inequalities between the very rich and the very well off, even though these might be greater, both absolutely and proportionately, than inequalities between the moderately well-off and the poor. A world in which everyone suffered from horrible poverty would be a perfectly equal one, he says, but few would prefer that to the world in which we now live. Therefore, “equality” can’t be what we really value."
 

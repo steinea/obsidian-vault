@@ -6,9 +6,12 @@ title: The Language of Cinema
 publication: Los Angeles Review of Books
 link: https://lareviewofbooks.org/article/the-tribe-and-the-language-of-cinema/
 date: 2015-12-10
+permalink: 2015/12/10/annie-julia-wyman-the-language-of-cinema
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] •  [[Annie Julia Wyman]] • [[Los Angeles Review of Books]]
+
+https://lareviewofbooks.org/article/the-tribe-and-the-language-of-cinema/
 
 "But we should only feel anxiety if our attentions have been so brutalized by convention that we have forgotten that a formally rigorous film will teach us how to watch it, that it may want to prime our attention, to direct it differently than we expect."
 

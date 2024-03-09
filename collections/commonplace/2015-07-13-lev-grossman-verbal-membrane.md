@@ -6,9 +6,12 @@ title: Verbal Membrane
 publication: Reader's Almanac
 link: http://blog.loa.org/2011/08/lev-grossman-on-ernest-hemingway-verbal.html
 date: 2015-07-13
+permalink: 2015/07/13/lev-grossman-verbal-membrane
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Lev Grossman]] • [[Reader's Almanac]] 
+
+http://blog.loa.org/2011/08/lev-grossman-on-ernest-hemingway-verbal.html
 
 "His prose is so unadorned and unshowy it’s practically ego-less—not a thing one usually hears said about Hemingway, but it's true. He’s absolutely determined to get out of the way of what’s going on, to make the verbal membrane between you and the action so thin you can almost touch it, and he does."
  

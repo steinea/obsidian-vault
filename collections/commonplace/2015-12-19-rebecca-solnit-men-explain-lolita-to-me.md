@@ -6,9 +6,12 @@ title: Men Explain <em>Lolita</em> to Me
 publication: Literary Hub
 link: https://lithub.com/men-explain-lolita-to-me/
 date: 2015-12-19
+permalink: 2015/12/19/rebecca-solnit-men-explain-lolita-to-me
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Rebecca Solnit]] •[[Literary Hub]]
+
+https://lithub.com/men-explain-lolita-to-me/
 
 "This paying attention is the foundational act of empathy, of listening, of seeing, of imagining experiences other than one’s own, of getting out of the boundaries of one’s own experience."
  

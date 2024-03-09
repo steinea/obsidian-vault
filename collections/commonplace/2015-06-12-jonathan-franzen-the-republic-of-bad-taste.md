@@ -6,9 +6,12 @@ title: The Republic of Bad Taste
 publication: The New Yorker
 link: https://www.newyorker.com/magazine/2015/06/08/the-republic-of-bad-taste
 date: 2015-06-12
+permalink: 2015/06/12/jonathan-franzen-the-republic-of-bad-taste
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Jonathan Franzen]] • [[The New Yorker]] 
+
+https://www.newyorker.com/magazine/2015/06/08/the-republic-of-bad-taste
 
 "Seeing her again, after a week of merely imagining her, Andreas was overwhelmed by the contrast between love and lust. Love turned out to be soul-crippling, stomach-turning, weirdly claustrophobic: a sense of endlessness bottled up inside him, endless weight, endless potential, with only the small outlet of a shivering pale girl in a bad rain jacket to escape through. Touching her was the farthest thing from his mind. The impulse was to throw himself at her feet."
  

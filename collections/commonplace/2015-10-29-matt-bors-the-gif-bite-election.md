@@ -6,9 +6,12 @@ title: The GIF Bite Election
 publication: Medium
 link: https://mattbors.medium.com/the-gif-bite-election-34dfab84014
 date: 2015-10-29
+permalink: 2015/10/29/matt-bors-the-gif-bite-election
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Matt Bors]] • [[Medium]]
+
+https://mattbors.medium.com/the-gif-bite-election-34dfab84014
 
 "Theory: while Republicans were playing for the sound bite, Hillary was playing to the gif, perhaps the first politician in history to consciously do so."
  

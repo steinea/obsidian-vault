@@ -6,9 +6,12 @@ title: In an Empire of the Dead
 publication: Los Angeles Review of Books
 link: https://lareviewofbooks.org/article/in-an-empire-of-the-dead-stone/
 date: 2015-07-20
+permalink: 2015/07/20/hunter-dukes-in-an-empire-of-the-dead
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Hunter Dukes]] • [[Los Angeles Review of Books]] 
+
+https://lareviewofbooks.org/article/in-an-empire-of-the-dead-stone/
 
 "we turn toward things when words won’t do"
 

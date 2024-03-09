@@ -6,9 +6,12 @@ title: Waterless Springs
 publication: Bible
 link: https://en.wikipedia.org/wiki/Second_Epistle_of_Peter
 date: 2015-07-31
+permalink: 2015/07/31/peter-waterless-springs
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Peter]] • [[Bible]] 
+
+https://en.wikipedia.org/wiki/Second_Epistle_of_Peter
 
 "These are waterless springs and mists driven by a storm. For them the gloom of utter darkness has been reserved."
  

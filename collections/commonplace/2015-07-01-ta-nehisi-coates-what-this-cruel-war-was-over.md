@@ -6,9 +6,12 @@ title: What This Cruel War Was Over
 publication: The Atlantic
 link: https://www.theatlantic.com/politics/archive/2015/06/what-this-cruel-war-was-over/396482/
 date: 2015-07-01
+permalink: 2015/07/01/ta-nehisi-coates-what-this-cruel-war-was-over
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Ta-Nehisi Coates]] • [[The Atlantic]]
+
+https://www.theatlantic.com/politics/archive/2015/06/what-this-cruel-war-was-over/396482/
 
 "Roof’s belief that black life had no purpose beyond subjugation is “sick and twisted” in the exact same manner as the beliefs of those who created the Confederate flag were “sick and twisted.” The Confederate flag is directly tied to the Confederate cause, and the Confederate cause was white supremacy. This claim is not the result of revisionism. It does not require reading between the lines. It is the plain meaning of the words of those who bore the Confederate flag across history."
  

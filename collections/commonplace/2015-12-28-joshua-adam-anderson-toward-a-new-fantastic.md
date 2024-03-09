@@ -6,9 +6,12 @@ title: Toward a New Fantastic
 publication: Los Angeles Review of Books
 link: https://lareviewofbooks.org/essay/toward-a-new-fantastic-stop-calling-it-science-fiction/
 date: 2015-12-28
+permalink: 2015/12/28/joshua-adam-anderson-toward-a-new-fantastic
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Joshua Adam Fantastic]] • [[Los Angeles Review of Books]]
+
+https://lareviewofbooks.org/essay/toward-a-new-fantastic-stop-calling-it-science-fiction/
 
 “In 1957, Roland Barthes illustrated how semiotic units are animated by forces outside of themselves by showing how the lack of a pure signifier means that any sign is subject to being taken up and deployed for multiple uses. Barthes used this modulation away from a sign’s apparent meaning — what Barthes referred to as myth — to articulate the ways in which ideology saturates language.”
 

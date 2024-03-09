@@ -6,9 +6,12 @@ title: Deleuze on Assemblages
 publication: Larval Subjects
 link: https://larvalsubjects.wordpress.com/2009/10/08/deleuze-on-assemblages/
 date: 2015-09-11
+permalink: 2015/09/11/levi-bryant-deleuze-on-assemblages
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Levi Bryant]] • [[Larval Subjects]]
+
+https://larvalsubjects.wordpress.com/2009/10/08/deleuze-on-assemblages/
 
 "In assemblages you you find states of things, bodies, various combinations of bodies, hodgepodges; but you also find utterances, modes of expression, and whole regimes of signs."
 

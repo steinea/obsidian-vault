@@ -6,9 +6,12 @@ title: Univocity of Being
 publication: Wikipedia
 link: https://en.wikipedia.org/wiki/Univocity_of_being
 date: 2015-07-22
+permalink: 2015/07/22/john-duns-scotus-gilles-deleuze-univocity-of-being
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[John Duns Scotus]] • [[Gilles Deleuze]] • [[Wikipedia]] 
+
+https://en.wikipedia.org/wiki/Univocity_of_being
 
 Univocity of being is the idea that words describing the properties of God mean the same thing as when they apply to people or things, even if God is vastly different in kind.
 

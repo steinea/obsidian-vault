@@ -6,9 +6,12 @@ title: Clickbait Ideology and Viral Violence
 publication: Los Angeles Review of Books
 link: https://lareviewofbooks.org/article/clickbait-ideology-goes-viral/
 date: 2015-11-17
+permalink: 2015/11/17/judah-grunstein-clickbait-ideology-and-viral-violence
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Judah Grunstein]] • [[Los Angeles Review of Books]]
+
+https://lareviewofbooks.org/article/clickbait-ideology-goes-viral/
 
 "IN DECEMBER 2006, Time magazine famously awarded its Person of the Year Award to “you.” The decision was a nod to the advent of a new and prominent actor in online communications and media, one that promised to revolutionize the way in which we generated and consumed online content: the user."
  

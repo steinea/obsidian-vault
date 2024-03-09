@@ -6,9 +6,12 @@ title: When Women’s Literary Tastes Are Deemed Less Worthy
 publication: The Atlantic
 link: https://www.theatlantic.com/business/archive/2015/12/when-womens-literary-tastes-are-deemed-less-worthy/418050/
 date: 2015-12-02
+permalink: 2015/12/02/ester-bloom-when-womens-literary-tastes-are-deemed-less-worthy
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Ester Bloom]] • [[The Atlantic]]
+
+https://www.theatlantic.com/business/archive/2015/12/when-womens-literary-tastes-are-deemed-less-worthy/418050/
 
 "When it comes to literary fiction, there seems to be almost no relationship between the novels that summon advances in the hundreds of thousands or even millions of dollars and the ones that become wildly successful."
  

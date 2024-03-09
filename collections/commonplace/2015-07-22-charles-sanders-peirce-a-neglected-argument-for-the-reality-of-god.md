@@ -6,9 +6,12 @@ title: Neglected Argument for the Reality of God
 publication: Wikisource
 link: https://en.wikisource.org/wiki/A_Neglected_Argument_for_the_Reality_of_God
 date: 2015-07-22
+permalink: 2015/07/22/charles-sanders-peirce-neglected-argument-for-the-reality-of-god
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Charles Sanders Peirce]] • [[Wikisource]] 
+
+https://en.wikisource.org/wiki/A_Neglected_Argument_for_the_Reality_of_God
 
 "The word "God," so "capitalised" (as we Americans say), is the definable proper name, signifying Ens necessarium"
 

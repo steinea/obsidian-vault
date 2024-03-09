@@ -6,9 +6,12 @@ title: The Problem with Saving the World
 publication: Jacobin
 link: https://jacobin.com/2015/08/global-poverty-climate-change-sdgs/
 date: 2015-08-10
+permalink: 2015/08/10/jason-hickel-the-problem-with-saving-the-world
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Jason Hickel]] • [[Jacobin]]
+
+https://jacobin.com/2015/08/global-poverty-climate-change-sdgs/
 
 "an emerging awareness of the fact that something about our economic system has gone terribly awry – that the mandatory pursuit of endless industrial growth is chewing through our living planet, producing poverty at a rapid rate, and threatening the basis of our existence."
  

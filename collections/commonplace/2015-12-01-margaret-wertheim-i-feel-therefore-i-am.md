@@ -6,9 +6,12 @@ title: I Feel Therefore I Am
 publication: Aeon
 link: https://aeon.co/essays/how-and-why-exactly-did-consciousness-become-a-problem
 date: 2015-12-01
+permalink: 2015/12/01/margaret-wertheim-i-feel-therefore-i-am
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Margaret Wertheim]] • [[Aeon]]
+
+https://aeon.co/essays/how-and-why-exactly-did-consciousness-become-a-problem
 
 "A spectrometer does not perceive blue. So what then, does it mean to be ‘conscious’ of colour?"
  

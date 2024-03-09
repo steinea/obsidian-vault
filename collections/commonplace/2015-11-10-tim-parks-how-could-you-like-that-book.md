@@ -6,9 +6,12 @@ title: How Could You Like That Book?
 publication: New York Review of Books
 link: https://www.nybooks.com/online/2015/11/10/how-could-you-like-that-book/
 date: 2015-11-10
+permalink: 2015/11/10/tim-parks-how-could-you-like-that-book
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Tim Parks]] • [[New York Review of Books]]
+
+https://www.nybooks.com/online/2015/11/10/how-could-you-like-that-book/
 
 "However “adult” the material, one is reminded of the way one read as a child: to know what happens."
  

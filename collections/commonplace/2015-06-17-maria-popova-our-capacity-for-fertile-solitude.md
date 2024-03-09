@@ -6,9 +6,12 @@ title: Our Capacity for Fertile Solitude
 publication: The Marginalian
 link: https://www.themarginalian.org/2014/07/18/adam-phillips-on-risk-and-solitude/
 date: 2015-06-17
+permalink: 2015/06/17/maria-popova-our-capacity-for-fertile-solitude
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Maria Popova]] • [[The Marginalian]] 
+
+https://www.themarginalian.org/2014/07/18/adam-phillips-on-risk-and-solitude/
 
 "“All of humanity’s problems,” the French scientist and philosopher Blaise Pascal wrote in 1654, “stem from man’s inability to sit quietly in a room alone.”"
 

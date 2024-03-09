@@ -6,9 +6,12 @@ title: Is France at War?
 publication: The Atlantic
 link: https://www.theatlantic.com/international/archive/2015/11/is-france-at-war-isis/416244/
 date: 2015-11-16
+permalink: 2015/11/16/krishnadev-calamur-is-france-at-war
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Krishnadev Calamur]] • [[The Atlantic]]
+
+https://www.theatlantic.com/international/archive/2015/11/is-france-at-war-isis/416244/
 
 "“France is at war,” President Francois Hollande said Monday, addressing a rare joint session of France’s parliament just days after multiple attacks in Paris killed 129 people and wounded more than 300 others. The Islamic State claimed responsibility for the attacks and Hollande has vowed a “merciless” response."
 

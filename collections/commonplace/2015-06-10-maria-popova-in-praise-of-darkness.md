@@ -4,11 +4,14 @@ category: commonplace
 author: Maria Popova
 title: In Praise of Darkness
 publication: The Marginalian
-link: https://www.themarginalian.org/
+link: https://www.themarginalian.org/2015/06/04/henry-beston-night-outermost-house/
 date: 2015-06-10
+permalink: 2015/06/10/maria-popova-in-praise-of-darkness
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Maria Popova]] • [[The Marginalian]] 
+
+https://www.themarginalian.org/2015/06/04/henry-beston-night-outermost-house/
 
 "“For a moment of night we have a glimpse of ourselves and of our world islanded in its stream of stars — pilgrims of mortality, voyaging between horizons across eternal seas of space and time.”"
  

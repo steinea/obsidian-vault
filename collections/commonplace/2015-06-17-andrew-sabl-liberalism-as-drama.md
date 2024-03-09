@@ -6,9 +6,12 @@ title: Liberalism as Drama
 publication: Los Angeles Review of Books
 link: https://lareviewofbooks.org/article/liberalism-as-drama/
 date: 2015-06-17
+permalink: 2015/06/17/andrew-sabl-liberalism-as-drama
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Andrew Sabl]] • [[Los Angeles Review of Books]] 
+
+https://lareviewofbooks.org/article/liberalism-as-drama/
 
 "Liberalism: The Life of an Idea author: Edmund Fawcett publisher: Princeton University Press pub date: 05.04.2014 pp: 488 tags: Politics & Economics Andrew Sabl on Liberalism: The Life of an Idea"
 

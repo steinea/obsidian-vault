@@ -1,14 +1,17 @@
 ---
 layout: entry
 category: commonplace
-author:  Scott Atran and Nafees Hamid	
+author: Scott Atran and Nafees Hamid	
 title: The War ISIS Wants
 publication: New York Review of Books
 link: https://www.nybooks.com/online/2015/11/16/paris-attacks-isis-strategy-chaos/
 date: 2015-11-18
+permalink: 2015/11/18/scott-atran-nafees-hamid-the-war-isis-wants
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Scott Atran]] • [[Nafees Hamid]] • [[New York Review of Books]]
+
+https://www.nybooks.com/online/2015/11/16/paris-attacks-isis-strategy-chaos/
 
 "the greater the hostility toward Muslims in Europe and the deeper the West becomes involved in military action in the Middle East, the closer ISIS comes to its goal of creating and managing chaos."
  

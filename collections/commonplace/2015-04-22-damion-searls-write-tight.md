@@ -6,9 +6,12 @@ title: Write Tight
 publication: The Paris Review
 link: https://www.theparisreview.org/blog/2015/04/21/write-tight/
 date: 2015-04-22
+permalink: 2015/04/22/damion-searls-write-tight
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Damion Searls]] • [[The Paris Review]] 
+
+https://www.theparisreview.org/blog/2015/04/21/write-tight/
 
 "Poetry is from the Greek poiein, “to make”: a poem is something made, or in English we would more naturally say crafted. Yet everyone agrees good prose is well crafted, too. Prose means, literally, “straightforward,” from the Latin prosa, proversus, “turned to face forward” (whereas verse is all wound up, twisty and snaky, “turned” in every direction except, apparently, forward). Yet we all know that poems can be clear and direct, too, especially when they’re songs."
  

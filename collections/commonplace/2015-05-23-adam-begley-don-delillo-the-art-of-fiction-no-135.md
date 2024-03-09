@@ -6,9 +6,12 @@ title: The Art of Fiction No. 135
 publication: The Paris Review
 link: https://www.theparisreview.org/interviews/1887/the-art-of-fiction-no-135-don-delillo
 date: 2015-05-23
+permalink: 2015/05/23/adam-begley-don-delillo-the-art-of-fiction-no-135
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Adam Begley]] • [[Don DeLillo]] • [[The Paris Review]] 
+
+https://www.theparisreview.org/interviews/1887/the-art-of-fiction-no-135-don-delillo
 
 "Americana, his first novel, was published in 1971. It took him about four years to write. At the time he was living in a small studio apartment in Manhattan. After Americana the novels poured out in a rush: five more in the next seven years. End Zone (1972), Great Jones Street (1973), Ratner’s Star (1976), Players (1977), and Running Dog (1978) all received enthusiastic reviews. They did not sell well. The books were known to a small but loyal following. Things changed in the eighties. The Names (1982) was more prominently reviewed than any previous DeLillo novel. White Noise (1985) won the National Book Award. Libra (1988) was a bestseller. Mao II, his latest, won the 1992 PEN/Faulkner Award. He is currently at work on a novel, a portion of which appeared in Harper’s under the title “Pafko at the Wall.” He has written two plays, The Engineer of Moonlight (1979) and The Day Room (1986)."
 

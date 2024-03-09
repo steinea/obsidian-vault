@@ -6,9 +6,12 @@ title: Life Beyond the Pale Blue Dot
 publication: Nautilus
 link: https://nautil.us/issue/26/color/life-beyond-the-pale-blue-dot
 date: 2015-07-02
+permalink: 2015/07/02/sam-chivers-life-beyond-the-pale-blue-dot 
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Sam Chivers]] • [[Nautilus]] 
+
+https://nautil.us/issue/26/color/life-beyond-the-pale-blue-dot
 
 "The Pale Blue Dot was the latest in a long history of association of the color blue with our home in the universe, and with life itself. Two decades before Voyager, as Apollo 8 circled the moon, astronauts recorded the now-famous “Earthrise”—a stunning color photograph of a bright blue-white hemisphere suspended above a gray lunar landscape. Four years later, the Apollo 17 mission captured a beguiling whole-Earth image that became “The Blue Marble.”"
  

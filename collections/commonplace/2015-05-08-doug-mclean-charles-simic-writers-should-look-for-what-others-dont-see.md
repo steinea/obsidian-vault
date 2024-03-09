@@ -6,9 +6,12 @@ title: Writers Should Look for What Others Don't See
 publication: The Atlantic
 link: https://www.theatlantic.com/entertainment/archive/2015/05/by-heart-charles-simic/392519/
 date: 2015-05-08
+permalink: 2015/05/08/doug-mclean-charles-simic-writers-should-look-for-what-others-dont-see
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Doug McLean]] • [[Charles Simic]] • [[The Atlantic]] 
+
+https://www.theatlantic.com/entertainment/archive/2015/05/by-heart-charles-simic/392519/
 
 "We keep killing Christ, or someone Christ-like, over and over again. It’s a vision of our collective madness. Of course, in Whitman’s time there were a lot of people who read that poem and felt this was blasphemous—the idea of putting Christ there. But this is the power of the poem."
 

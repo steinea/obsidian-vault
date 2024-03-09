@@ -6,9 +6,12 @@ title: Why We Need Arnold Toynbee's Good Life
 publication: Aeon
 link: https://aeon.co/magazine/society/why-we-need-arnold-toynbees-muscular-humanism
 date: 2015-07-02
+permalink: 2015/07/02/ian-beacock-why-we-need-arnold-toynbees-good-life
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Ian Beacock]] • [[Aeon]] 
+
+https://aeon.co/magazine/society/why-we-need-arnold-toynbees-muscular-humanism
 
 "He was an expert in world civilisations who made the cover of Time magazine in 1947, praised for writing ‘the most provocative work of historical theory… since Karl Marx’s Capital’."
  

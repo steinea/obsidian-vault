@@ -6,9 +6,12 @@ title: Taylor Swift Is Definitely in Her Zone
 publication: Jezebel
 link: https://jezebel.com/taylor-swift-is-definitely-in-her-zone-1718196417
 date: 2015-07-22
+permalink: 2015/07/22/jia-tolentino-taylor-swift-is-definitely-in-her-zone
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Jia Tolentino]] • [[Jezebel]] 
+
+https://jezebel.com/taylor-swift-is-definitely-in-her-zone-1718196417
 
 "girls and mothers, all adorable and almost all white, who had come to the annual Taylor Swift Young Leadership Conference to engage in the safest possible fantasy with 41,887 of their best friends."
 

@@ -6,9 +6,12 @@ title: The Patriarchy is Dead, but the Kyriarchy Lives On
 publication: The Guardian
 link: https://www.theguardian.com/commentisfree/2010/sep/10/kyriarchy-and-patriarchy
 date: 2015-07-14
+permalink: 2015/07/14/nichi-hodgson-the-patriarchy-is-dead-but-the-kyriarchy-lives-on
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Nichi Hodgson]] • [[The Guardian]] 
+
+https://www.theguardian.com/commentisfree/2010/sep/10/kyriarchy-and-patriarchy
 
 "kyriarchy, the system identified by Harvard theologian Elisabeth Schussler Fiorenza, which explains how ethnicity, class, economics and education, as well as gender, intersect to oppress us all, men as well as women."
 

@@ -6,9 +6,12 @@ title: Reading After Levinas
 publication: Bryn Mawr College
 link: https://www.brynmawr.edu/bmrcl/rev10eaglestone.html
 date: 2015-09-11
+permalink: 2015/09/11/john-david-dawson-reading-after-levinas
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[John David Dawson]] • [[Bryn Mawr College]]
+
+https://www.brynmawr.edu/bmrcl/rev10eaglestone.html
 
 "How does Levinas discover responsibility in reading, especially given his well-known "deep-seated antipathy to art" (p. 98)? In Totality and Infinity, Levinas had discovered the ethical to lie in one's face-to-face encounter with the presence of another person, not through the presence or absence of representation. But Derrida, in "Violence and Metaphysics," showed that this conception of ethics was unable to escape language, representation, and the metaphysics of presence, despite all of its efforts to do so. Eaglestone argues that Levinas took to heart Derrida's deconstructive reading of Totality and Infinity by executing a linguistic turn in Otherwise than Being: "Levinas abandons his previous position which demanded 'true representation' and instead offers a way of understanding ethics philosophically through representation, through the phenomenon of language" (p. 135)."
 

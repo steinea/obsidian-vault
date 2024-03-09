@@ -6,9 +6,12 @@ title: A Theory of Human Rights
 publication: Open Democracy
 link: https://www.opendemocracy.net/en/james-r-mensch/theory-of-human-rights/
 date: 2015-04-15
+permalink: 2015/04/15/james-r-mensch-a-theory-of-human-rights
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[James R. Mensch]] • [[Open Democracy]] 
+
+https://www.opendemocracy.net/en/james-r-mensch/theory-of-human-rights/
 
 "Freedom is the goal rather than the ground of human rights. But freedom is also essentially dependent on others and other cultures. Achieving the conditions for freedom - human rights - is humanity's overriding moral obligation."
 

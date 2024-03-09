@@ -6,9 +6,12 @@ title: Praise Song for the Day
 publication: Poets
 link: https://poets.org/poem/praise-song-day
 date: 2015-09-19
+permalink: 2015/09/19/elizabeth-alexander-praise-song-for-the-day
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Elizabeth Alexander]] • [[Poets]]
+
+https://poets.org/poem/praise-song-day
 
 *A Poem for Barack Obama’s Presidential Inauguration*
 

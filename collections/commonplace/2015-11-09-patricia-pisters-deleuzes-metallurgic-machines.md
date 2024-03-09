@@ -1,14 +1,17 @@
 ---
 layout: entry
 category: commonplace
-author: Deleuze’s Metallurgic Machines
-title: Patricia Pisters
+author: Patricia Pisters
+title: Deleuze’s Metallurgic Machines
 publication: Los Angeles Review of Books
 link: https://lareviewofbooks.org/article/deleuzes-metallurgic-machines/
 date: 2015-11-09
+permalink: 2015/11/09/patricia-pisters-deleuzes-metallurgic-machines
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Patricia Pisters]] • [[Los Angeles Review of Books]]
+
+https://lareviewofbooks.org/article/deleuzes-metallurgic-machines/
 
 "This concept of ecology as a triple enfolding of the environmental, the social, and the mental that always belong together (but again, not always through straightforward, causal connections) is developed by Guattari; as a rhizomatic “ecosophy” it can also be found everywhere in A Thousand Plateaus."
 

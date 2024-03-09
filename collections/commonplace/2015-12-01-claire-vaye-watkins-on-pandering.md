@@ -6,9 +6,12 @@ title: On Pandering
 publication: Tin House
 link: https://tinhouse.com/blog/41314/on-pandering.html
 date: 2015-12-01
+permalink: 2015/12/01/claire-vaye-watkins-on-pandering
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Claire Vaye Watkins]] • [[Tin House]]
+
+https://tinhouse.com/blog/41314/on-pandering.html
 
 "Lewisburg, and countless other so-called college towns like it, is Bedford Falls in loco parentis. It’s a country-mouse theme park for young people wanting the illusion of distance, wanting the sense of being away on a journey and all the self-discovery that promises. It’s for them, and it’s for their parents, who will tolerate this distance and this freaky looming self-discovery, so long as it comes with the quaintness of the country, the control of a company town, and all the safety that $62,368 can buy. All to say that for the past four years, I lived in a landscape of pandering."
 

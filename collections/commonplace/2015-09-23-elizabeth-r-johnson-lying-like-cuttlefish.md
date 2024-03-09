@@ -6,9 +6,12 @@ title: Lying Like Cuttlefish
 publication: The New Inquiry
 link: https://thenewinquiry.com/lying-like-cuttlefish/
 date: 2015-09-23
+permalink: 2015/09/23/elizabeth-r-johnson-lying-like-cuttlefish
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Elizabeth R. Johnson]] • [[The New Inquiry]]
+
+https://thenewinquiry.com/lying-like-cuttlefish/
 
 "Fantasies of life-like machines decouple life from living. It is only from the position of being stuck in the world that we learn to engage with it anew"
 

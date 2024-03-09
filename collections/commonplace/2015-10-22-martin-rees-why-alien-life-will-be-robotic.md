@@ -6,9 +6,12 @@ title: Why Alien Life Will Be Robotic
 publication: Nautilus
 link: https://nautil.us/issue/29/scaling/why-alien-life-will-be-robotic
 date: 2015-10-22
+permalink: 2015/10/22/martin-rees-why-alien-life-will-be-robotic
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Martin Rees]] • [[Nautilus]]
+
+https://nautil.us/issue/29/scaling/why-alien-life-will-be-robotic
 
 "the timescales for technological advance are but an instant compared to the timescales of the Darwinian selection that led to humanity’s emergence—and (more relevantly) they are less than a millionth of the vast expanses of time lying ahead. So the outcomes of future technological evolution will surpass humans by as much as we (intellectually) surpass a bug."
  

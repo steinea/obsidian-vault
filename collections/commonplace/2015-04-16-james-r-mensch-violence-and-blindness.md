@@ -6,9 +6,12 @@ title: Violence and Blindness
 publication: Open Democracy
 link: https://www.opendemocracy.net/en/article/violence-and-blindness-the-case-of-uchuraccay/
 date: 2015-04-16
+permalink: 2015/04/16/james-r-mensch-violence-and-blindness
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[James R. Mensch]] • [[Open Democracy]] 
+
+https://www.opendemocracy.net/en/article/violence-and-blindness-the-case-of-uchuraccay/
 
 "I have to examine the visibility and, hence, the light of the public space we share in our social and political relations. Aristotle defined light as the actualization of the visible. Allowing things to appear, its absence makes us blind. The question of public blindness is actually that of the light that makes things publicly visible."
 

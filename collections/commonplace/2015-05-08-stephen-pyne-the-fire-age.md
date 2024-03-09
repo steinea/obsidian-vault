@@ -6,9 +6,12 @@ title: The Fire Age
 publication: Aeon
 link: https://aeon.co/magazine/science/how-our-pact-with-fire-made-us-what-we-are
 date: 2015-05-08
+permalink: 2015/05/08/stephen-pyne-the-fire-age
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Stephen Pyne]] • [[Aeon]] 
+
+https://aeon.co/magazine/science/how-our-pact-with-fire-made-us-what-we-are
 
 "Among the ancient elements, fire is the odd one out. Earth, water, air – all are substances. Fire is a reaction. It synthesises its surroundings, takes its character from its context. It burns one way in peat, another in tallgrass prairie, and yet another through lodgepole pine; it behaves differently in mountains than on plains; it burns hot and fast when the air is dry and breezy, and it might not burn at all in fog. It’s a shapeshifter."
  

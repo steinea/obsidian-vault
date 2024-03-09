@@ -6,9 +6,12 @@ title: Undead and Loving It
 publication: Grantland
 link: http://grantland.com/hollywood-prospectus/amc-walking-dead-season-five-review/
 date: 2015-08-25
+permalink: 2015/08/25/andy-greenwald-undead-and-loving-it
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Andy Greenwald]] • [[Grantland]]
+
+http://grantland.com/hollywood-prospectus/amc-walking-dead-season-five-review/
 
 "The Walking Dead is a stronger show when it tries to make us care instead of trying to prove a point."
 

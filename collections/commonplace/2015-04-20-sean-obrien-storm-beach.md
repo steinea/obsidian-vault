@@ -6,9 +6,12 @@ title: Storm Beach
 publication: The New Yorker
 link: https://www.newyorker.com/magazine/2015/04/27/storm-beach
 date: 2015-04-20
+permalink: 2015/04/20/sean-obrien-storm-beach
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Sean O’Brien]] • [[The New Yorker]]
+
+https://www.newyorker.com/magazine/2015/04/27/storm-beach
 
 It feels like an achievement, emptiness
 <br>Reorganized to make the matter plain.

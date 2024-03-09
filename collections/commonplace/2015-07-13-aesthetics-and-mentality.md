@@ -6,9 +6,12 @@ title: On Aesthetics and Mentality in Speculative Philosophy Today
 publication: Los Angeles Review of Books
 link: https://lareviewofbooks.org/article/on-aesthetics-and-mentality-in-speculative-philosophy-today/
 date: 2015-07-13
+permalink: 2015/07/13/a-j-nocek-on-aesthetics-and-mentality-in-speculative-philosophy-today
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[A. J. Nocek]] • [[Los Angeles Review of Books]] 
+
+https://lareviewofbooks.org/article/on-aesthetics-and-mentality-in-speculative-philosophy-today/
 
 "With analytical philosophers under the spell of Wittgenstein’s philosophy of language and Continentals enamored with Husserlian and Heideggerian phenomenology, Whitehead’s brazen adoption of an outmoded philosophical method fated his work to gather dust on bookshelves for the rest of the 20th century."
 

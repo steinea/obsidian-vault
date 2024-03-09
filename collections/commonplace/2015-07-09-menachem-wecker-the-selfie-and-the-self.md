@@ -6,9 +6,12 @@ title: The Selfie and the Self
 publication: The Atlantic
 link: https://www.theatlantic.com/entertainment/archive/2015/07/facebook-rainbow-filters-history-of-art/398057/
 date: 2015-07-09
+permalink: 2015/07/09/menachem-wecker-the-selfie-and-the-self
 ---
  
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Menachem Wecker]] • [[The Atlantic]] 
+
+https://www.theatlantic.com/entertainment/archive/2015/07/facebook-rainbow-filters-history-of-art/398057/
 
 "Just as social media users today are performing for the public and posturing themselves in a variety of ways—whether they’re aware of it or not— portraiture has long incorporated symbols and other design elements to help define and express identity, while also associating its subjects with particular causes or traditions."
  

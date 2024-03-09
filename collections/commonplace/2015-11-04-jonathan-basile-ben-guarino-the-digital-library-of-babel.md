@@ -2,13 +2,14 @@
 layout: entry
 category: commonplace
 author: Jonathan Basile and Ben Guarino
-title: the Digital Library of Babel
+title: The Digital Library of Babel
 publication: Inverse
 link: https://www.inverse.com/article/7785-jonathan-basile-on-the-digital-library-of-babel-a-collection-of-every-book
 date: 2015-11-04
+permalink: 2015/11/04/jonathan-basile-ben-guarino-the-digital-library-of-babel
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Jonathan Basile]] • [[Ben Guarino]] • [[Inverse]]
 
 "How many books are in the library? The version that’s online now went up in May. There was about a month and a half where the first version was online — the first version was text on disk; it would just read from text files to retrieve pages from books. There were about a million books. Then I figured out an algorithm so you wouldn’t have to store any information on disk. It went from a million books to 10^5,000th books in about a month."
 

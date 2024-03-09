@@ -6,9 +6,12 @@ title: The Tragic, Forgotten History of Zombies
 publication: The Atlantic
 link: https://www.theatlantic.com/entertainment/archive/2015/10/how-america-erased-the-tragic-history-of-the-zombie/412264/
 date: 2015-10-29
+permalink: 2015/10/29/mike-mariani-the-tragic-forgotten-history-of-zombies
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Mike Mariani]] • [[The Atlantic]]
+
+https://www.theatlantic.com/entertainment/archive/2015/10/how-america-erased-the-tragic-history-of-the-zombie/412264/
 
 "But the zombie myth is far older and more rooted in history than the blinkered arc of American pop culture suggests. It first appeared in Haiti in the 17th and 18th centuries, when the country was known as Saint-Domingue and ruled by France, which hauled in African slaves to work on sugar plantations. Slavery in Saint-Domingue under the French was extremely brutal: Half of the slaves brought in from Africa were worked to death within a few years, which only led to the capture and import of more. In the hundreds of years since, the zombie myth has been widely appropriated by American pop culture in a way that whitewashes its origins—and turns the undead into a platform for escapist fantasy."
 

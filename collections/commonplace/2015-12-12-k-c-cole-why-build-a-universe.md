@@ -6,9 +6,12 @@ title: Why Build a Universe?
 publication: Los Angeles Review of Books
 link: https://lareviewofbooks.org/article/why-build-a-universe/
 date: 2015-12-12
+permalink: 2015/12/12/k-c-cole-why-build-a-universe
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[K. C. Cole]] • [[Los Angeles Review of Books]]
+
+https://lareviewofbooks.org/article/why-build-a-universe/
 
 "To create something beautiful, concludes Nobel laureate physicist Frank Wilczek in his relentlessly engaging new book, A Beautiful Question. “Many motivations have been ascribed to the Creator,” he points out, “but artist ambition is rarely prominent among them.”"
 

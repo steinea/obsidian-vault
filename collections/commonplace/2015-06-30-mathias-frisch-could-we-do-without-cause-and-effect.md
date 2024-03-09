@@ -6,9 +6,12 @@ title: Could We Do Without Cause and Effect?
 publication: Aeon
 link: https://aeon.co/magazine/philosophy/could-we-do-without-cause-and-effect
 date: 2015-06-30
+permalink: 2015/06/30/mathias-frisch-could-we-do-without-cause-and-effect
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Mathias Frisch]] • [[Aeon]] 
+
+https://aeon.co/magazine/philosophy/could-we-do-without-cause-and-effect
 
 "Why not see both the probabilistic independence assumption and the common-cause principle as mutually dependent aspects of causal structures? We can accept that these structures have an important role to play in physics, just as they do in other sciences and in common sense, without having to commit to the metaphysical priority of either."
  

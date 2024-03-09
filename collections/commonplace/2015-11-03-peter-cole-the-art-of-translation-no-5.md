@@ -6,9 +6,12 @@ title: The Art of Translation, no. 5
 publication: The Paris Review
 link: https://www.theparisreview.org/interviews/6386/the-art-of-translation-no-5-peter-cole
 date: 2015-11-03
+permalink: 2015/11/03/peter-cole-the-art-of-translation-no-5
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Peter Cole]] • [[The Paris Review]]
+
+https://www.theparisreview.org/interviews/6386/the-art-of-translation-no-5-peter-cole
 
 "Poetry isn’t lost in translation, it is translation. It’s lost only in bad or gray translation—and in the mindless repetition of the thin figures of speech we use to talk about it."
  

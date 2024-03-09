@@ -6,9 +6,12 @@ title: On the Power of Brevity
 publication: The Atlantic
 link: https://www.theatlantic.com/entertainment/archive/2015/04/karl-ove-knausgaard-on-the-power-of-short-stories/391658/
 date: 2015-04-30
+permalink: 2015/04/30/karl-ove-knausgaard-on-the-power-of-brevity
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Karl Ove Knausgaard]] • [[The Atlantic]] 
+
+https://www.theatlantic.com/entertainment/archive/2015/04/karl-ove-knausgaard-on-the-power-of-short-stories/391658/
 
 "In the Bible, if it’s very important, it’s very short. If it’s not important, it’s very long. That’s a rule in almost all texts."
 

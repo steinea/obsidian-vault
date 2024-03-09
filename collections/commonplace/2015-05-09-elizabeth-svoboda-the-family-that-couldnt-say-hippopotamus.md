@@ -6,9 +6,12 @@ title: The Family That Couldn’t Say Hippopotamus
 publication: Nautilus
 link: https://nautil.us/issue/24/error/the-family-that-couldnt-say-hippopotamus-rp
 date: 2015-05-09
+permalink: 2015/05/09/elizabeth-svoboda-the-family-that-couldnt-say-hippopotamus
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Elizabeth Svoboda]] • [[Nautilus]] 
+
+https://nautil.us/issue/24/error/the-family-that-couldnt-say-hippopotamus-rp
 
 "four of the world’s largest language groups: Uto-Aztecan, Indo-European, Bantu, and Austronesian"
  

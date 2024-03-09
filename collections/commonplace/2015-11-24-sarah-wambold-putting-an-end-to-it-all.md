@@ -6,9 +6,12 @@ title: Putting an End to It All
 publication: Los Angeles Review of Books
 link: https://lareviewofbooks.org/article/putting-an-end-to-it-all-understanding-suicide/
 date: 2015-11-24
+permalink: 2015/11/24/sarah-wambold-putting-an-end-to-it-all
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Sarah Wambold]] • [[Los Angeles Review of Books]]
+
+https://lareviewofbooks.org/article/putting-an-end-to-it-all-understanding-suicide/
 
 "Farewell to the World begins by breaking down what Barbagli considers to be the flaws in Durkheim’s original theory of suicide. In brief, Durkheim held that all suicides fall into one of four categories: egoistic, altruistic, anomic, and fatalistic. All four types of suicide, according to Durkheim, were ultimately caused by a lack of social regulation and integration. In other words, suicide came about as a result of pathology, a fatal mismatch between an individual and environment."
 

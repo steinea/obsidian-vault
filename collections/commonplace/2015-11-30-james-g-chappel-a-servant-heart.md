@@ -6,9 +6,12 @@ title: A Servant Heart
 publication: Boston Review
 link: https://www.bostonreview.net/articles/james-chappel-servant-heart-religion-neoliberalism/
 date: 2015-11-30
+permalink: 2015/11/30/james-g-chappel-a-servant-heart
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[James G. Chappel]] • [[Boston Review]]
+
+https://www.bostonreview.net/articles/james-chappel-servant-heart-religion-neoliberalism/
 
 “Faith Based: Religious Neoliberalism and the Politics of Welfare in the United States, Jason Hackworth, University of Georgia Press, $22.95 (paper)”
 

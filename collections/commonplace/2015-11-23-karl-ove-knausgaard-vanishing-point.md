@@ -6,9 +6,12 @@ title: Vanishing Point
 publication: The New Yorker
 link: https://www.newyorker.com/books/page-turner/vanishing-point
 date: 2015-11-23
+permalink: 2015/11/23/karl-ove-knausgaard-vanishing-point
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Karl Ove Knausgaard]] • [[The New Yorker]]
+
+https://www.newyorker.com/books/page-turner/vanishing-point
 
 "To me, as I sit here at my desk, all this is but a series of images in the mind, conceptions, imagination."
 

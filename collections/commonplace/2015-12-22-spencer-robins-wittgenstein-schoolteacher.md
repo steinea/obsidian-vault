@@ -6,9 +6,12 @@ title: Wittgenstein, Schoolteacher
 publication: The Paris Review
 link: https://www.theparisreview.org/blog/2015/03/05/wittgenstein-schoolteacher/
 date: 2015-12-22
+permalink: 2015/12/22/spencer-robins-wittgenstein-schoolteacher
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Spencer Robins]] • [[The Paris Review]]
+
+https://www.theparisreview.org/blog/2015/03/05/wittgenstein-schoolteacher/
 
 "his Tractatus Logico-Philosophicus, at once an austere work of analytic philosophy and—for some readers, Wittgenstein apparently included—an almost mystical experience. In it, he claimed charmingly and not without reason to have solved all the problems of philosophy."
 

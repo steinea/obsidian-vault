@@ -6,9 +6,10 @@ title: Via
 publication: Fig
 link: https://carolinebergvall.com/work/fig/
 date: 2015-11-25
+permalink: 2015/11/25/caroline-bergvall-via
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Caroline Bergvall]] • [[Fig]]
 
 48 Dante Variations   
 

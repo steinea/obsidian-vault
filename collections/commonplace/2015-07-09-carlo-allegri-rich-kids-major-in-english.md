@@ -6,9 +6,12 @@ title: Rich Kids Major in English
 publication: The Atlantic
 link: https://www.theatlantic.com/business/archive/2015/07/college-major-rich-families-liberal-arts/397439/
 date: 2015-07-09
+permalink: 2015/07/09/carlo-allegri-rich-kids-major-in-english
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Carlo Allegri]] • [[The Atlantic]] 
+
+https://www.theatlantic.com/business/archive/2015/07/college-major-rich-families-liberal-arts/397439/
 
 "In 1780, John Adams wrote a letter to his wife, Abigail, in which he laid out his plans for what his children and grandchildren would devote their lives to. Having himself taken the time to master “Politicks and War,” two revolutionary necessities, Adams hoped his children would go into disciplines that promoted nation-building, such as “mathematicks,” “navigation,” and “commerce.” His plan was that in turn, those practical subjects would give his children’s children room “to study painting, poetry, musick, architecture, statuary, tapestry, and porcelaine.”"
 

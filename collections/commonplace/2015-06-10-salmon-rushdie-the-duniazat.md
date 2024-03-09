@@ -6,9 +6,12 @@ title: The Duniazát
 publication: The New Yorker
 link: https://www.newyorker.com/magazine/2015/06/01/the-duniazat
 date: 2015-06-10
+permalink: 2015/06/10/salmon-rushdie-the-duniazat
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Salmon Rushdie]] • [[The New Yorker]] 
+
+https://www.newyorker.com/magazine/2015/06/01/the-duniazat
 
 "favorites go out of fashion"
  

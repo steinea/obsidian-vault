@@ -6,9 +6,12 @@ title: Where Pope Francis Learned Humility
 publication: The Atlantic
 link: https://www.theatlantic.com/international/archive/2015/08/pope-francis-cordoba-exile-humble/402032/
 date: 2015-08-26
+permalink: 2015/08/26/paul-vallely-where-pope-francis-learned-humility
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Paul Vallely]] • [[The Atlantic]]
+
+https://www.theatlantic.com/international/archive/2015/08/pope-francis-cordoba-exile-humble/402032/
 
 "one reporter asked what was in the briefcase. “The keys to the atomic bomb aren’t in it,” Francis joked. So what did it contain? “My razor, my breviary, my diary, a book to read—on St Therese of Lisieux to whom I am devoted. ... I always take this bag when I travel. It’s normal. We have to get used to this being normal,” he added."
  

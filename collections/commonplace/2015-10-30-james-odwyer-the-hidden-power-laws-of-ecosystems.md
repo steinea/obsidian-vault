@@ -6,9 +6,12 @@ title: The Hidden Power Laws of Ecosystems
 publication: Nautilus
 link: https://nautil.us/issue/29/scaling/the-hidden-power-laws-of-ecosystems
 date: 2015-10-30
+permalink: 2015/10/30/james-odwyer-the-hidden-power-laws-of-ecosystems
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[James O'Dwyer]] • [[Nautilus]]
+
+https://nautil.us/issue/29/scaling/the-hidden-power-laws-of-ecosystems
 
 "Why shouldn’t an ecosystem be just as beautifully perfect as an ideal gas, and why can’t ecologists have as much predicting power as a physicist? The answers to these questions just might be “it is,” and “they can.” But only when viewed from a particular perspective."
  

@@ -6,9 +6,12 @@ title: The Problem of Our Laws
 publication: London Review of Books
 link: https://www.lrb.co.uk/the-paper/v37/n14/franz-kafka/short-cuts
 date: 2015-07-19
+permalink: 2015/07/19/franz-kafka-the-problem-of-our-laws
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Franz Kafka]] • [[London Review of Books]] 
+
+https://www.lrb.co.uk/the-paper/v37/n14/franz-kafka/short-cuts
 
 "The laws after all are so old, centuries have worked on their interpretation, even their interpretation has in a sense become codified, and while there is surely room still for interpretation, it will be quite limited."
 

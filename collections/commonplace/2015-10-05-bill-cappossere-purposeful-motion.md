@@ -6,9 +6,12 @@ title: Purposeful Motion
 publication: Los Angeles Review of Books
 link: https://lareviewofbooks.org/article/purposeful-motion/
 date: 2015-10-05
+permalink: 2015/10/05/bill-cappossere-purposeful-motion
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Bill Cappossere]] • [[Los Angeles Review of Books]]
+
+https://lareviewofbooks.org/article/purposeful-motion/
 
 "it is Birkerts’s thinking that is the highlight throughout; his musing aloud on a deep-seated fear “[t]hat we have a different, much diminished sense of human presence now … that something deep in the human ecology has been disturbed”"
 

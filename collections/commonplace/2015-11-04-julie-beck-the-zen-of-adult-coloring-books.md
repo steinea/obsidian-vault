@@ -6,9 +6,12 @@ title: The Zen of Adult Coloring Books
 publication: The Atlantic
 link: https://www.theatlantic.com/health/archive/2015/11/sorry-benedict-cumberbatch-your-head-is-fine/414010/
 date: 2015-11-04
+permalink: 2015/11/04/julie-beck-the-zen-of-adult-coloring-books
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Julie Beck]] • [[The Atlantic]]
+
+https://www.theatlantic.com/health/archive/2015/11/sorry-benedict-cumberbatch-your-head-is-fine/414010/
 
 "So the polish and the coloring both involve repetitive motion and limited space in which to work, creating a locus point around which thoughts can revolve. And here’s where the patterns are important (have I mentioned I like the patterns?), because I think there’s a comfort in the concentration detail demands, something that coloring in the vast expanse of Butterbeer Cornichon’s head doesn’t offer."
 

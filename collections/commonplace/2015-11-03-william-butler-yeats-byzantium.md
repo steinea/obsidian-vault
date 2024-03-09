@@ -6,9 +6,12 @@ title: Byzantium
 publication: Poetry Foundation
 link: https://www.poetryfoundation.org/poems/43296/byzantium
 date: 2015-11-03
+permalink: 2015/11/03/william-butler-yeats-byzantium
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[William Butler Yeats]] • [[Poetry Foundation]]
+
+https://www.poetryfoundation.org/poems/43296/byzantium
 
 The unpurged images of day recede; 
 <br>The Emperor's drunken soldiery are abed; 

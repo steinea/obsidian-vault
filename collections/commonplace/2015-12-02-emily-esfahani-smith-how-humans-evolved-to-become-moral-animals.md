@@ -6,9 +6,12 @@ title: How Humans Evolved to Become Moral Animals
 publication: The Atlantic
 link: https://www.theatlantic.com/health/archive/2015/12/evolution-of-morality-social-humans-and-apes/418371/
 date: 2015-12-02
+permalink: 2015/12/02/emily-esfahani-smith-how-humans-evolved-to-become-moral-animals
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Emily Esfahani Smith]] • [[The Atlantic]]
+
+https://www.theatlantic.com/health/archive/2015/12/evolution-of-morality-social-humans-and-apes/418371/
 
 "But as Tomasello argues in his book, this “social intelligence hypothesis” is something of an understatement. A social nature isn’t enough to fully distinguish between humans and chimpanzees—male chimpanzees can form political alliances, for example, and sometimes work together to hunt, both of which require advanced social skills. Humans are not just socially intelligent, then; as Tomasello and others have put it, we’re “ultra-social” in ways that the great apes are not, with an enhanced capacity for cooperation that arose somewhere along our species’ evolutionary path."
 

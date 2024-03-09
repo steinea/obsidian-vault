@@ -6,9 +6,12 @@ title: Fuccbois, Beta Bros, Softboys, Man-Children
 publication: Topical Cream
 link: https://topicalcream.org/features/fuccbois-beta-bros-softboys-man-children/
 date: 2015-10-05
+permalink: 2015/10/05/emily-rappaport-fuccbois-beta-bros-softboys-man-children
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Emily Rappaport]] • [[Topical Cream]]
+
+https://topicalcream.org/features/fuccbois-beta-bros-softboys-man-children/
 
 "The problem is that self-styling, here, is self-definition through the expression of taste, aesthetics, and cultural consumption instead of through work, values, and—most importantly from my perspective—interpersonal relationships."
 

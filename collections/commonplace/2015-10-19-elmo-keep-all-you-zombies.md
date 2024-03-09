@@ -6,9 +6,12 @@ title: All You Zombies
 publication: The Awl
 link: https://www.theawl.com/2015/10/all-you-zombies/
 date: 2015-10-19
+permalink: 2015/10/19/elmo-keep-all-you-zombies
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Elmo Keep]] • [[The Awl]]
+
+https://www.theawl.com/2015/10/all-you-zombies/
 
 "Apocalypse stories enduring appeal as a genre is in the thought experiment undertaken by the viewer or reader: if this actually happened, what kind of person would I be?"
 

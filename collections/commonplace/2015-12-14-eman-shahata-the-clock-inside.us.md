@@ -6,9 +6,12 @@ title: The Clock Inside Us
 publication: The New Inquiry
 link: https://thenewinquiry.com/the-clock-inside-us/
 date: 2015-12-14
+permalink: 2015/12/14/eman-shahata-the-clock-inside-us
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Eman Shahata]] •[[The New Inquiry]]
+
+https://thenewinquiry.com/the-clock-inside-us/
 
 "IF time is money, then sleep is theft. Today’s cult of busyness regards sleep as a defect that threatens to render people competitively unfit."
 

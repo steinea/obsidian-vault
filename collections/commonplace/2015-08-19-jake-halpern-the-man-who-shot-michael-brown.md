@@ -6,9 +6,12 @@ title: The Man Who Shot Michael Brown
 publication: The New Yorker
 link: https://www.newyorker.com/magazine/2015/08/10/the-cop
 date: 2015-08-19
+permalink: 2015/08/19/jake-halpern-the-man-who-shot-michael-brown
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Jake Halpern]] • [[The New Yorker]]
+
+https://www.newyorker.com/magazine/2015/08/10/the-cop
 
 "Ta-Nehisi Coates, in his new book, “Between the World and Me,” writing of the psychological impact of incidents like the Brown shooting, says, “It does not matter if the destruction is the result of an unfortunate overreaction. It does not matter if it originates in a misunderstanding.” Coates also notes, “There is nothing uniquely evil in these destroyers or even in this moment. The destroyers are merely men enforcing the whims of our country.”"
 

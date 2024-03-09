@@ -6,9 +6,12 @@ title: The Lossless Self
 publication: The New Inquiry
 link: https://thenewinquiry.com/the-lossless-self/
 date: 2015-09-22
+permalink: 2015/09/22/elizabeth-newton-the-lossless-self
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Elizabeth Newton]] • [[The New Inquiry]]
+
+https://thenewinquiry.com/the-lossless-self/
 
 "The word analog, like fidelity, is pure gimmick. These terms easily detach from any clear meaning and become fetishes ready to be enlisted in the service of a variety of agendas."
 

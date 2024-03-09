@@ -6,9 +6,12 @@ title: Discipline
 publication: Poetry Foundation
 link: https://www.poetryfoundation.org/poems/50702/discipline
 date: 2015-10-24
+permalink: 2015/10/24/george-herbert-discipline
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[George Herbert]] • [[Poetry Foundation]]
+
+https://www.poetryfoundation.org/poems/50702/discipline
 
 “Throw away thy rod,
 <br>Throw away thy wrath:

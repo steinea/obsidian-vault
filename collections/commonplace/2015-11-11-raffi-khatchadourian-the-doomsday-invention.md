@@ -6,9 +6,12 @@ title: The Doomsday Invention
 publication: The New Yorker
 link: https://www.newyorker.com/magazine/2015/11/23/doomsday-invention-artificial-intelligence-nick-bostrom
 date: 2015-11-10
+permalink: 2015/11/10/raffi-khatchadourian-the-doomsday-invention
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Raffi Khatchadourian]] • [[The New Yorker]]
+
+https://www.newyorker.com/magazine/2015/11/23/doomsday-invention-artificial-intelligence-nick-bostrom
 
 "“Before the prospect of an intelligence explosion, we humans are like small children playing with a bomb,” he concludes. “We have little idea when the detonation will occur, though if we hold the device to our ear we can hear a faint ticking sound.”"
  

@@ -6,9 +6,12 @@ title: Postcards from the Threshold
 publication: Los Angeles Review of Books
 link: https://lareviewofbooks.org/article/postcards-from-the-threshold/
 date: 2015-09-28
+permalink: 2015/09/28/jerusha-joy-emerson-postcards-from-the-threshold
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Jerusha Joy Emerson]] • [[Los Angeles Review of Books]]
+
+https://lareviewofbooks.org/article/postcards-from-the-threshold/
 
 "To touch the edge of a theory, to talk about forces and dimensions and vibrating energy, is beautiful and fearful, the kind of fear that is good, like fearing God."
 

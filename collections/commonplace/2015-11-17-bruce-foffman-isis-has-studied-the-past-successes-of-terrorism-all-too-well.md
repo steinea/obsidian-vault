@@ -6,9 +6,12 @@ title: ISIS Has Studied the Past Successes of Terrorism All Too Well
 publication: Aeon
 link: https://aeon.co/opinions/political-leaders-say-terrorism-doesn-t-work-they-re-wrong
 date: 2015-11-17
+permalink: 2015/11/17/bruce-hoffman-isis-has-studied-the-past-successes-of-terrorism-all-too-well
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Bruce Hoffman]] • [[Aeon]]
+
+https://aeon.co/opinions/political-leaders-say-terrorism-doesn-t-work-they-re-wrong
 
 "Begin’s success in undermining the foundations of British rule and thereby hastening Britain’s withdrawal from Palestine shows that, despite the repeated denials of governments, terrorism can – in the right conditions and with the appropriate strategy and tactics – succeed in advancing its practitioners’ political agendas."
  

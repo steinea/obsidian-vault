@@ -6,9 +6,12 @@ title: A Practical Vision of a More Equal Society
 publication: New York Review of Books
 link: http://www.nybooks.com/articles/2015/06/25/practical-vision-more-equal-society/
 date: 2015-06-25
+permalink: 2015/06/25/thomas-piketty-a-practical-vision-of-a-more-equal-society
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Thomas Piketty]] • [[New York Review of Books]] 
+
+http://www.nybooks.com/articles/2015/06/25/practical-vision-more-equal-society/
 
 “Toward a New Radical Reformism”
 

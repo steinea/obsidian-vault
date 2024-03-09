@@ -6,9 +6,12 @@ title: The Prophets Leave Hometown
 publication: Los Angeles Review of Books
 link: https://lareviewofbooks.org/article/the-prophets-leave-hometown-three-physicists-try-philosophy/
 date: 2015-07-11
+permalink: 2015/07/11/david-kordahl-the-prophets-leave-hometown
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[David Kordahl]] • [[Los Angeles Review of Books]] 
+
+https://lareviewofbooks.org/article/the-prophets-leave-hometown-three-physicists-try-philosophy/
 
 "HERE’S THE PART that everyone forgets: when Schrödinger made up the cat thing, he meant it as a complaint."
 

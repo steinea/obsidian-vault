@@ -6,9 +6,12 @@ title: The Problem with Obfuscation
 publication: Los Angeles Review of Books
 link: https://lareviewofbooks.org/article/hide-and-seek-the-problem-with-obfuscation/
 date: 2015-11-10
+permalink: 2015/11/10/rob-horning-the-problem-with-obfuscation
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Rob Horning]] • [[Los Angeles Review of Books]]
+
+https://lareviewofbooks.org/article/hide-and-seek-the-problem-with-obfuscation/
 
 "By various means of seduction, coercion, and co-optation, everyday life has been irresistibly colonized by forces collectively known as Big Data: the corporations and state agencies that use communications networks and digital surveillance to amass huge quantities of information on the activities of individuals and groups in hopes of predicting and containing their next moves."
  

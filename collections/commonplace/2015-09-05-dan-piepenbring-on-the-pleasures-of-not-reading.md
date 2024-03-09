@@ -6,9 +6,12 @@ title: On the Pleasures of Not Reading
 publication: The Paris Review
 link: https://www.theparisreview.org/blog/2015/08/31/on-the-pleasures-of-not-reading/
 date: 2015-09-05
+permalink: 2015/09/05/dan-piepenbring-on-the-pleasures-of-not-reading
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Dan Piepenbring]] • [[The Paris Review]]
+
+https://www.theparisreview.org/blog/2015/08/31/on-the-pleasures-of-not-reading/
 
 "There are writers we instinctively, permanently dislike: not only will we never read them, we will quietly relish the not-reading, finding in it a pleasure that can occasionally rival reading itself."
  

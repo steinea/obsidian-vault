@@ -6,9 +6,12 @@ title: Our Quantum Reality Problem
 publication: Aeon
 link: https://web.archive.org/web/20150906055003/http://aeon.co/magazine/science/our-quantum-reality-problem/
 date: 2015-07-09
+permalink: 2015/07/09/adrian-kent-our-quantum-reality-problem
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Adrian Kent]] • [[Aeon]] 
+
+https://web.archive.org/web/20150906055003/http://aeon.co/magazine/science/our-quantum-reality-problem/
 
 "the theory itself is both mathematically precise and extremely well confirmed by experiment."
 

@@ -6,9 +6,12 @@ title: Musashi-san
 publication: Rattle
 link: https://www.rattle.com/product/i47/
 date: 2015-06-18
+permalink: 2015/06/18/jack-vian-musashi-san
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Jack Vian]] • [[Rattle]] 
+
+https://www.rattle.com/product/i47/
 
 *Haibun*
 

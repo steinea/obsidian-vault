@@ -6,9 +6,12 @@ title: Hall of Mirrors
 publication: The New Inquiry
 link: https://thenewinquiry.com/hall-of-mirrors/
 date: 2015-09-07
+permalink: 2015/09/07/elena-greco-hall-of-mirrors
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Elena Greco]] • [[The New Inquiry]]
+
+https://thenewinquiry.com/hall-of-mirrors/
 
 "A self is not true or false when it is illegible, uncontained"
 

@@ -6,9 +6,12 @@ title: Sarah Howe
 publication: The Paris Review
 link: https://www.theparisreview.org/blog/2015/10/08/on-relativity/
 date: 2015-10-10
+permalink: 2015/10/10/sarah-howe-on-relativity
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[On Relativity]] • [[Sarah Howe]]
+
+https://www.theparisreview.org/blog/2015/10/08/on-relativity/
 
 "For me, relativity also suggests the relationship between two things in a comparison—the ligature of the word like, which chimes through my poem—whose interplay enables us to think."
  

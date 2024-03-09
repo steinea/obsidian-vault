@@ -6,9 +6,12 @@ title: Obama on San Bernardino
 publication: The Atlantic
 link: https://www.theatlantic.com/national/archive/2015/12/obama-speech-san-bernardino/419043/
 date: 2015-12-08
+permalink: 2015/12/08/marina-koren-obama-on-san-bernardino
 ---
- 
-[[2015]] / [[commonplace]] / 
+
+[[2015]] • [[commonplace]] • [[Marina Koren]] • [[The Atlantic]]
+
+https://www.theatlantic.com/national/archive/2015/12/obama-speech-san-bernardino/419043/
 
 "President Obama called a mass shooting in California this week “an act of terrorism designed to kill innocent people.”"
 

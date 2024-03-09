@@ -6,9 +6,12 @@ title: Self, with or without Selfies
 publication: Los Angeles Review of Books
 link: https://lareviewofbooks.org/article/self-with-or-without-selfies/
 date: 2015-05-08
+permalink: 2015/05/08/stan-persky-self-with-or-without-selfies
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Stan Persky]] • [[Los Angeles Review of Books]]
+
+https://lareviewofbooks.org/article/self-with-or-without-selfies/
 
 "It seems obvious to many of us that the ability to conjure up, construct, or develop a “self” is directly dependent on the complex brain that has evolved in humans, and on the unique human capacity for language. What’s notable about language is the device known as “grammar,” the set of rules or algorithms that allows us to combine and re-combine the thousands of items in our total vocabularies (both lexical — e.g., “apple,” “ball,” “the,” “self,” etc. — and referential — e.g., “World War I,” “Justin Bieber,” “Iran,” “New York Yankees,” etc.) to generate new sentences, thoughts, and ideas. There are no doubt other “vocabularies” of images, sounds, and movement that also come into play. As far as we know, no other animals share this generative capacity (despite a good deal of sentimentality about animals we like) and, in a sense, that’s why we have rocket science and chimpanzees don’t."
  

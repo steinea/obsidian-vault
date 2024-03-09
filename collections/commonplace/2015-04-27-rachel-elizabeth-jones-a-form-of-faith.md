@@ -6,9 +6,12 @@ title: A Form of Faith
 publication: The New Inquiry
 link: http://thenewinquiry.com/essays/a-form-of-faith/
 date: 2015-04-27
+permalink: 2015/04/27/rachel-elizabeth-jones-a-form-of-faith
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Rachel Elizabeth Jones]] • [[The New Inquiry]] 
+
+http://thenewinquiry.com/essays/a-form-of-faith/
 
 “Anyone can be a curator online, arranging image-objects and images of objects as they please, even if they may never see these objects in person. In its relationship to digital imagery, the trend in curation subtly undermines awareness of the structures that deny true access both to material goods and space.”
 

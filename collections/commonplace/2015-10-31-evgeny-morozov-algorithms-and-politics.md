@@ -6,9 +6,12 @@ title: Algorithms and Politics
 publication: The Guardian
 link: https://www.theguardian.com/technology/2014/jul/20/rise-of-data-death-of-politics-evgeny-morozov-algorithmic-regulation
 date: 2015-10-31
+permalink: 2015/10/31/evgeny-morozov-algorithms-and-politics
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Evgeny Morozov]] • [[The Guardian]]
+
+https://www.theguardian.com/technology/2014/jul/20/rise-of-data-death-of-politics-evgeny-morozov-algorithmic-regulation
 
 "This “smartification” of everyday life follows a familiar pattern: there’s primary data – a list of what’s in your smart fridge and your bin – and metadata – a log of how often you open either of these things or when they communicate with one another."
 

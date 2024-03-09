@@ -6,9 +6,12 @@ title: Against Students
 publication: The New Inquiry
 link: https://thenewinquiry.com/against-students/
 date: 2015-11-12
+permalink: 2015/11/12/sara/ahmed-against-students
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Sara Ahmed]] • [[The New Inquiry]]
+
+https://thenewinquiry.com/against-students/
 
 "it is in the bodies of students that the failure is located"
  

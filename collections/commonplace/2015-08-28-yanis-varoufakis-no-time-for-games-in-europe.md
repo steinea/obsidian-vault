@@ -4,11 +4,14 @@ category: commonplace
 author: Yanis Varoufakis
 title: No Time for Games in Europe
 publication: The New York Times
-link: https://www.nytimes.com/2015/02/17/opinion/yanis-varoufakis-no-time-for-games-in-europe.html?_r=3&referrer=
+link: https://www.nytimes.com/2015/02/17/opinion/yanis-varoufakis-no-time-for-games-in-europe.html
 date: 2015-08-28
+permalink: 2015/08/28/yanis-varoufakis-no-time-for-games-in-europe
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Yanis Varoufakis]] • [[The New York Times]]
+
+https://www.nytimes.com/2015/02/17/opinion/yanis-varoufakis-no-time-for-games-in-europe.html
 
 "One may think that this retreat from game theory is motivated by some radical-left agenda. Not so. The major influence here is Immanuel Kant, the German philosopher who taught us that the rational and the free escape the empire of expediency by doing what is right."
  

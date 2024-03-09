@@ -6,9 +6,12 @@ title: The Myth of Magna Carta
 publication: The New Yorker
 link: https://www.newyorker.com/magazine/2015/04/20/the-rule-of-history
 date: 2015-04-20
+permalink: 2015/04/20/jill-lepore-the-myth-of-magna-carta
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Jill Lepore]] • [[The New Yorker]] 
+
+https://www.newyorker.com/magazine/2015/04/20/the-rule-of-history
 
 "Few men have been less mourned, few legal documents more adored."
 

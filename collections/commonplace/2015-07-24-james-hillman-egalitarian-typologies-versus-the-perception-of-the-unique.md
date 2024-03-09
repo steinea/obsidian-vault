@@ -6,9 +6,12 @@ title: Egalitarian Typologies Versus the Perception of the Unique
 publication: Compiler Press
 link: http://www.compilerpress.ca/Competitiveness/Anno/Anno%20Hillman%20Egal%201.htm
 date: 2015-07-24
+permalink: 2015/07/24/james-hillman-egalitarian-typologies-versus-the-perception-of-the-unique
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[James Hillman]] • [[Compiler Press]] 
+
+http://www.compilerpress.ca/Competitiveness/Anno/Anno%20Hillman%20Egal%201.htm
 
 "Esse is percipi George Berkeley, Of the Principles of Human Knowledge, I, 3"
 

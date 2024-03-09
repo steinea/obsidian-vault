@@ -6,9 +6,12 @@ title: Obama the Analyst
 publication: The Atlantic
 link: https://www.theatlantic.com/politics/archive/2015/12/obama-the-analyst/419049/
 date: 2015-12-08
+permalink: 2015/12/08/james-fallows-obama-the-analyst
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[James Fallows]] • [[The Atlantic]]
+
+https://www.theatlantic.com/politics/archive/2015/12/obama-the-analyst/419049/
 
 "Note “minimize,” rather than eliminate. There are evils and forms of damage that societies can reduce, without imagining that they can be brought to zero."
  

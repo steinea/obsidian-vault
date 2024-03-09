@@ -6,9 +6,12 @@ title: Atoms with Consciousness
 publication: Preposterous Universe
 link: https://www.preposterousuniverse.com/blog/2013/09/04/atoms-with-consciousness-matter-with-curiosity/
 date: 2015-09-22
+permalink: 2015/09/22/richard-feynman-atoms-with-consciousness
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Richard Feynman]] • [[Preposterous Universe]]
+
+https://www.preposterousuniverse.com/blog/2013/09/04/atoms-with-consciousness-matter-with-curiosity/
 
 There are the rushing waves
 <br>mountains of molecules

@@ -6,9 +6,12 @@ title: Cosmologists Should Be More Skeptical of Dark Matter
 publication: Aeon
 link: https://aeon.co/opinions/cosmologists-should-be-more-skeptical-of-dark-matter
 date: 2015-11-30
+permalink: 2015/11/30/stuart-clark-cosmologists-should-be-more-skeptical-of-dark-matter
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Stuart Clark]] • [[Aeon]]
+
+https://aeon.co/opinions/cosmologists-should-be-more-skeptical-of-dark-matter
 
 "Back in 1620, Francis Bacon published his Novum Organum (The New Method). In his description of how to investigate nature, he cautioned would-be scientists about four ‘idols of the mind’."
  

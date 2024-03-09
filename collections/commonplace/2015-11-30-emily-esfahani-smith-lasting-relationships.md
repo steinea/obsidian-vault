@@ -1,14 +1,17 @@
 ---
 layout: entry
 category: commonplace
-author:  Emily Esfahani Smith
+author: Emily Esfahani Smith
 title: Lasting Relationships
 publication: Business Insider
 link: https://www.businessinsider.com/lasting-relationships-rely-on-traits-2015-11
 date: 2015-11-30
+permalink: 2015/11/30/emily-esfahani-smith-lasting-relationships
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Emily Esfahani Smith]] • [[Business Insider]]
+
+https://www.businessinsider.com/lasting-relationships-rely-on-traits-2015-11
 
 "the disasters showed all the signs of arousal — of being in fight-or-flight mode — in their relationships"
  

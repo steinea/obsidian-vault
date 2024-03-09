@@ -6,9 +6,12 @@ title: Beyond Growth for Growth's Sake
 publication: Aeon
 link: https://aeon.co/opinions/it-s-time-to-move-beyond-growth-for-growth-s-sake
 date: 2015-11-27
+permalink: 2015/11/27/martin-kirk-beyond-growth-for-growths-sake
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Martin Kirk]] • [[Aeon]]
+
+https://aeon.co/opinions/it-s-time-to-move-beyond-growth-for-growth-s-sake
 
 "Economic growth sits at the root of all plans to tackle poverty. The two concepts – growth and poverty reduction – are treated as practically interchangeable. Nowhere is this more apparent than in the new UN Sustainable Development Goals (SDGs), which promise to eradicate poverty ‘in all its forms everywhere’ by 2030. The entire formula for success rests on economic growth; at least 7 per cent per annum in the least developed countries, and higher levels of economic productivity across the board. Goal 8 is entirely dedicated to this objective."
  

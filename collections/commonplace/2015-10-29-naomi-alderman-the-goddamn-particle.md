@@ -6,9 +6,12 @@ title: The Goddamn Particle
 publication: Granta
 link: https://granta.com/The-Goddamn-Particle/
 date: 2015-10-29
+permalink: 2015/10/29/naomi-alderman-the-goddamn-particle
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Naomi Alderman]] • [[Granta]]
+
+https://granta.com/The-Goddamn-Particle/
 
 "Our intuitions and imaginations, helpful as they are for working out human size problems like whether our neighbour is likely to cheat on his wife or how far away Geneva is from Inverness, are only useful in the middle world. In the very small world, or the very big one, those intuitions are likely to mislead and confuse us. When we find results that seem to make no sense, we should not be surprised or alarmed. ‘Sense’ only belongs to the middle world."
 

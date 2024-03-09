@@ -6,9 +6,12 @@ title: Two Books on the Anthropocene
 publication: Los Angeles Review of Books
 link: https://lareviewofbooks.org/article/impurity-two-books-on-the-anthropocene/
 date: 2015-12-01
+permalink: 2015/12/01/rebecca-tuhus-dubrow-two-books-on-the-anthropocene
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Rebecca Tuhus-Dubrow]] • [[Los Angeles Review of Books]]
+
+https://lareviewofbooks.org/article/impurity-two-books-on-the-anthropocene/
 
 "That’s what we didn’t, perhaps, understand: that there would be no before and after to catastrophic climate change, that the dystopian could be so cozy with the quotidian."
  

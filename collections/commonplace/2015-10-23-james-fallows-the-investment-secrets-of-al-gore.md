@@ -6,9 +6,12 @@ title: The Investment Secrets of Al Gore
 publication: The Atlantic
 link: https://www.theatlantic.com/magazine/archive/2015/11/the-planet-saving-capitalism-subverting-surprisingly-lucrative-investment-secrets-of-al-gore/407857/
 date: 2015-10-23
+permalink: 2015/10/23/james-fallows-the-investment-secrets-of-al-gore
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[James Fallows]] • [[The Atlantic]]
+
+https://www.theatlantic.com/magazine/archive/2015/11/the-planet-saving-capitalism-subverting-surprisingly-lucrative-investment-secrets-of-al-gore/407857/
 
 "The formal name for the concept he and Gore are advancing is sustainable capitalism, which sounds both more familiar and less hard-edged than what I understand to be the real underlying idea. The idea is that if some tenets of “long term” and “value based” investing are extended to include the environmental and social ramifications of corporate activity, the result can be better financial performance, rather than returns that are “nearly as good” or “worth it when you think of the social benefits.”"
 

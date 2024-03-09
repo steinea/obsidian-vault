@@ -6,9 +6,12 @@ title: Fail Slow, Fail Hard
 publication: Los Angeles Review of Books
 link: https://lareviewofbooks.org/article/fail-slow-fail-hard-heidegger/
 date: 2015-08-28
+permalink: 2015/08/28/martin-woessner-fail-slow-fail-hard
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Martin Woessner]] • [[Los Angeles Review of Books]]
+
+https://lareviewofbooks.org/article/fail-slow-fail-hard-heidegger/
 
 "Once you start looking for them, Heideggerians are everywhere. But identifying what they had in common with each other wasn’t easy. It was hard to tell who even counted as a Heideggerian, anyway, especially in the United States — a nation for which Heidegger himself had little positive to say throughout his life (among other things, we had too much technology and too little history, he thought). Catholics read him, but so too did Protestants and Jews. Existentialists claimed him as one of their own, despite his protests, but deconstructionists did the same, and by then he was no longer around to protest. Pragmatists sometimes made their peace with him, and occasionally poets and novelists played around with his wordplay-filled writings. I found that those last ones generally had the most fun, partly because they didn’t take it all so terribly seriously. Critical Theory, Hermeneutics, and Phenomenology — theoretical paradigms predicated on seriousness — each genuflected in Heidegger’s direction at one point or another, sometimes skeptically, sometimes not. There was hardly a corner of the American academy that hadn’t been infiltrated by some kind of at least latent Heideggerianism —except, of course, actual philosophy departments, where Heidegger often remained simply too foreign and too suspicious. One had better luck finding him in anthropology, literature, or theology."
  

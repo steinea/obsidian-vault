@@ -6,9 +6,12 @@ title: The Signature of All Things
 publication: The Signature of All Things
 link: https://books.google.ca/books/about/The_Signature_of_All_Things_Poems_Songs.html?id=85a5zgEACAAJ
 date: 2015-10-24
+permalink: 2015/10/24/kenneth-rexroth-the-signature-of-all-things
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Kenneth Rexroth]] • [[The Signature of All Things]]
+
+https://books.google.ca/books/about/The_Signature_of_All_Things_Poems_Songs.html?id=85a5zgEACAAJ
 
 My head and shoulders, and my book
 <br>In the cool shade, and my body

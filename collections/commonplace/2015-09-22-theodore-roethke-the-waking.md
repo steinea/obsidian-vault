@@ -6,9 +6,12 @@ title: The Waking
 publication: Poetry Foundation
 link: https://www.poetryfoundation.org/poems/43333/the-waking-56d2220f25315
 date: 2015-09-22
+permalink: 2015/09/22/theodore-roethke-the-waking
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Theodore Roethke]] • [[Poetry Foundation]]
+
+https://www.poetryfoundation.org/poems/43333/the-waking-56d2220f25315
 
 I wake to sleep, and take my waking slow.   
 <br>I feel my fate in what I cannot fear.   

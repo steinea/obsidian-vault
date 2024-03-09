@@ -6,9 +6,12 @@ title: Jonathan Lethem, the Elephant Man
 publication: Los Angeles Review of Books
 link: https://lareviewofbooks.org/article/jonathan-lethem-elephant-man/
 date: 2015-04-22
+permalink: 2015/04/22/ira-wells-jonathan-lethem-the-elephant-man
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Ira Wells]] • [[Los Angeles Review of Books]] 
+
+https://lareviewofbooks.org/article/jonathan-lethem-elephant-man/
 
 "If everyone is continually executing interpretive strategies and in that act constituting texts, intentions, speakers, and authors, how can any one of us know whether or not he is a member of the same interpretive community as any other of us? The answer is that he can’t […]. The only “proof” of membership is fellowship, the nod of recognition from someone in the same community, someone who says to you what neither of us could ever prove to a third party: “we know.”             — Stanley Fish, “Interpreting the Variorum”"
 

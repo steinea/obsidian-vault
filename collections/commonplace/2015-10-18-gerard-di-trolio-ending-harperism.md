@@ -6,9 +6,12 @@ title: Ending Harperism
 publication: Jacobin
 link: https://jacobin.com/2015/10/canada-general-election-ndp-harper-trudeau-mulcair/
 date: 2015-10-18
+permalink: 2015/10/18/gerard-di-trolio-ending-harperism
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Gerard Di Trolio]] • [[Jacobin]]
+
+https://jacobin.com/2015/10/canada-general-election-ndp-harper-trudeau-mulcair/
 
 "If Harper didn’t create Canada’s neoliberal consensus, his government certainly deepened it, forcing opponents to debate within its terms."
 

@@ -6,9 +6,12 @@ title: White Debt
 publication: The New York Times
 link: https://www.nytimes.com/2015/12/06/magazine/white-debt.html
 date: 2015-12-06
+permalink: 2015/12/06/eula-biss-white-debt
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Eula Biss]] • [[The New York Times]]
+
+https://www.nytimes.com/2015/12/06/magazine/white-debt.html
 
 “The word for debt in German also means guilt.”
 

@@ -6,9 +6,12 @@ title: Why I Write
 publication: The Orwell Foundation
 link: https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/why-i-write/
 date: 2015-06-17
+permalink: 2015/06/17/george-orwell-white-i-write 
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[George Orwell]] • [[The Orwell Foundation]] 
+
+https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/why-i-write/
 
 "I had the lonely child’s habit of making up stories and holding conversations with imaginary persons, and I think from the very start my literary ambitions were mixed up with the feeling of being isolated and undervalued. I knew that I had a facility with words and a power of facing unpleasant facts, and I felt that this created a sort of private world in which I could get my own back for my failure in everyday life."
 

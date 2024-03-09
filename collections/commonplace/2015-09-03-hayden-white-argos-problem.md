@@ -6,9 +6,10 @@ title: Argos Problem
 publication: Theory of Assemblage
 link:
 date: 2015-09-03
+permalink: 2015/09/03/hayden-white-argos-problem
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Hayden White]]
 
 Stanford Archeology, Theory of Assemblage
 

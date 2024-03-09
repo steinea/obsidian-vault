@@ -6,9 +6,12 @@ title: Peacetime
 publication: The New Yorker
 link: https://www.newyorker.com/magazine/2015/04/27/peacetime
 date: 2015-04-28
+permalink: 2015/04/28/luke-mogelson-peacetime
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Luke Mogelson]] • [[The New Yorker]] 
+
+https://www.newyorker.com/magazine/2015/04/27/peacetime
 
 "It was as if, by running into their house, grabbing their knife, and murdering himself, the E.D.P. had bewitched the couple"
 

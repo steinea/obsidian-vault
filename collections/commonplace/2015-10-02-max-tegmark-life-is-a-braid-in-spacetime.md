@@ -6,9 +6,12 @@ title: Life Is a Braid in Spacetime
 publication: Nautilus
 link: https://nautil.us/issue/29/scaling/life-is-a-braid-in-spacetime-rp
 date: 2015-10-02
+permalink: 2015/10/02/max-tegmark-life-is-a-braid-in-spacetime
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Max Tegmark]] • [[Nautilus]]
+
+https://nautil.us/issue/29/scaling/life-is-a-braid-in-spacetime-rp
 
 "Our language reveals how differently we think of space and time: The first as a static stage, and the second as something flowing. Despite our intuition, however, the flow of time is an illusion. Einstein taught us that there are two equivalent ways of thinking about our physical reality: Either as a three-dimensional place called space, where things change over time, or as a four-dimensional place called spacetime that simply exists, unchanging, never created, and never destroyed."
 

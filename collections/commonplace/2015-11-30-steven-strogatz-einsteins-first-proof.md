@@ -6,9 +6,12 @@ title: Einstein’s First Proof
 publication: The New Yorker
 link: https://www.newyorker.com/tech/annals-of-technology/einsteins-first-proof-pythagorean-theorem
 date: 2015-11-30
+permalink: 2015/11/30/steven-strogatz-einsteins-first-proof
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Steven Strogatz]] • [[The New Yorker]]
+
+https://www.newyorker.com/tech/annals-of-technology/einsteins-first-proof-pythagorean-theorem
 
 "This little gem of reasoning foreshadows the man he became, scientifically, stylistically, and temperamentally. His instinct for symmetry, his economy of means, his iconoclasm, his tenacity, his penchant for thinking in pictures—they’re all here, just as they are in his theory of relativity."
  

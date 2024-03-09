@@ -1,4 +1,3 @@
-
 ---
 layout: entry
 category: commonplace
@@ -7,9 +6,12 @@ title: Our Backup Planet
 publication: The New Yorker
 link: https://www.newyorker.com/magazine/2015/06/01/project-exodus-critic-at-large-kolbert
 date: 2015-06-10
+permalink: 2015/06/10/elizabeth-kolbert-our-backup-planet
 ---
 
-[[2015]] / [[commonplace]] / 
+[[2015]] • [[commonplace]] • [[Elizabeth Kolbert]] • [[The New Yorker]] 
+
+https://www.newyorker.com/magazine/2015/06/01/project-exodus-critic-at-large-kolbert
 
 "Every sensate being we’ve encountered in the universe so far—from dogs and humans and mice to turtles and spiders and seahorses—has evolved to suit the cosmic accident that is Earth. The notion that we could take these forms, most beautiful and most wonderful, and hurl them into space, and that this would, to use Petranek’s formulation, constitute “our best hope,” is either fantastically far-fetched or deeply depressing."
 
