@@ -152,6 +152,7 @@
 | [[constellation/games/Jedi Survivor.md\|Jedi Survivor]]                                                         |
 | [[constellation/games/Jett The Far Shore.md\|Jett The Far Shore]]                                               |
 | [[constellation/games/Journey.md\|Journey]]                                                                     |
+| [[constellation/games/Jubensha.md\|Jubensha]]                                                                   |
 | [[constellation/games/Jusant.md\|Jusant]]                                                                       |
 | [[constellation/games/Kentucky Route Zero.md\|Kentucky Route Zero]]                                             |
 | [[constellation/games/Kinect Adventures.md\|Kinect Adventures]]                                                 |

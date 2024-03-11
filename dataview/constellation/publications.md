@@ -44,7 +44,6 @@
 | [[constellation/publications/New York Review of Books.md\|New York Review of Books]]                             |
 | [[constellation/publications/Newsweek.md\|Newsweek]]                                                             |
 | [[constellation/publications/Nobel Prize.md\|Nobel Prize]]                                                       |
-| [[constellation/publications/Notre Dame Philosophical Reviews.md\|Notre Dame Philosophical Reviews]]             |
 | [[constellation/publications/Ohio State University Press.md\|Ohio State University Press]]                       |
 | [[constellation/publications/On Being.md\|On Being]]                                                             |
 | [[constellation/publications/Open Library.md\|Open Library]]                                                     |

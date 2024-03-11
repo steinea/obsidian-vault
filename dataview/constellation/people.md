@@ -42,6 +42,7 @@
 | [[constellation/people/Naoki Yoshida.md\|Naoki Yoshida]]                   |
 | [[constellation/people/Neil Druckmann.md\|Neil Druckmann]]                 |
 | [[constellation/people/Paul Muldoon.md\|Paul Muldoon]]                     |
+| [[constellation/people/Philip Sidney.md\|Philip Sidney]]                   |
 | [[constellation/people/Riccardo Fassone.md\|Riccardo Fassone]]             |
 | [[constellation/people/Richard Lemarchand.md\|Richard Lemarchand]]         |
 | [[constellation/people/Robert Henryson.md\|Robert Henryson]]               |
