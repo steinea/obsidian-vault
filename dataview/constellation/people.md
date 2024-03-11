@@ -16,6 +16,7 @@
 | [[constellation/people/Erik Olin Wright.md\|Erik Olin Wright]]             |
 | [[constellation/people/François Laruelle.md\|François Laruelle]]           |
 | [[constellation/people/Franz Brentano.md\|Franz Brentano]]                 |
+| [[constellation/people/Friedrich Engels.md\|Friedrich Engels]]             |
 | [[constellation/people/Fumihiko Yasuda.md\|Fumihiko Yasuda]]               |
 | [[constellation/people/Fumito Ueda.md\|Fumito Ueda]]                       |
 | [[constellation/people/George Grant.md\|George Grant]]                     |
@@ -40,6 +41,7 @@
 | [[constellation/people/Motomu Toriyama.md\|Motomu Toriyama]]               |
 | [[constellation/people/Nam Jun Paik.md\|Nam Jun Paik]]                     |
 | [[constellation/people/Naoki Yoshida.md\|Naoki Yoshida]]                   |
+| [[constellation/people/Natalie Wolchover.md\|Natalie Wolchover]]           |
 | [[constellation/people/Neil Druckmann.md\|Neil Druckmann]]                 |
 | [[constellation/people/Paul Muldoon.md\|Paul Muldoon]]                     |
 | [[constellation/people/Philip Sidney.md\|Philip Sidney]]                   |
