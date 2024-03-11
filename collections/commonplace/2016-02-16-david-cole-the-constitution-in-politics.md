@@ -6,9 +6,10 @@ title: The Constitution in Politics
 publication: New York Review of Books
 link: http://www.nybooks.com/daily/2016/02/15/justice-antonin-scalia-constitution-in-politics/
 date: 2016-02-16
+permalink: 2016/02/16/david-cole-the-constitution-in-politics
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[David Cole]] • [[New York Review of Books]]
  
 “In life, Scalia insisted that the content of constitutional law must be determined by the “original public meaning” of the text adopted by the framers some two hundred and forty years ago, and should be unaffected by contemporary politics;”
 

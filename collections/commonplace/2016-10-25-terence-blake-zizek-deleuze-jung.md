@@ -6,9 +6,10 @@ title: Zizek, Deleuze, Jung
 publication: Agent Swarm
 link: https://terenceblake.wordpress.com/2013/08/06/zizek-deleuze-jung-the-analogical-self-versus-the-digital-ego/
 date: 2016-10-25
+permalink: 2016/10/25/terence-blake-zizek-deleuze-jung
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Terence Blake]] • [[Agent Swarm]]
  
 “Zizek: “my thesis is that in Anti-Oedipus Deleuze/Guattari do to Lacan what Carl Gustav Jung did to Freud”. (Zizek, Notes on a Debate“From Within the People”).”
 

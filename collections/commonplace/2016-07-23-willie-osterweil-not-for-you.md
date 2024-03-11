@@ -1,14 +1,15 @@
 ---
 layout: entry
 category: commonplace
-author: Willie Osterweil
+author: Vicky Osterweil
 title: Not for You
 publication: The New Inquiry
 link: http://thenewinquiry.com/essays/not-for-you/
 date: 2016-07-23
+permalink: 2016/07/23/vicky-osterweil-not-for-you
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Vicky Osterweil]] • [[The New Inquiry]]
  
 “Studies on inequality tend to focus, with good reason, on income and wealth. But marketing, advertising, mass culture, retail trends, and other aspects of society that dominate our day-to-day lives outside work are driven by consumption — the money actually spent on goods and services, not put into investment, savings, taxes or debt repayment — which is reflected only indirectly by income or wealth.”
 

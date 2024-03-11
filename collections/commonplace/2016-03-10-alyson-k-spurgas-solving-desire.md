@@ -6,9 +6,10 @@ title: Solving Desire
 publication: The New Inquiry
 link: http://thenewinquiry.com/essays/solving-desire/
 date: 2016-03-10
+permalink: 2016/03/10/alyson-k-spurgas-solving-desire
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Alyson K. Spurgas]] • [[The New Inquiry]]
  
 “Though Addyi is sometimes called the “pink” or “female” Viagra, how similar are the two drugs really? It turns out that the approaches the two drugs take to sexual dysfunction are entirely different, drawing on very different sets of assumptions about men’s and women’s sexuality.”
 

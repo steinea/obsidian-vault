@@ -6,9 +6,10 @@ title: The Time After
 publication: Music and Literature
 link: http://www.musicandliterature.org/reviews/2013/10/28/bla-tarr-the-time-after
 date: 2016-03-10
+permalink: 2016/03/10/rose-mclaren-the-time-after
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Rose McLaren]] • [[Music and Literature]]
  
 “Jacques Rancière’s latest work, Béla Tarr, The Time After, is that awkward thing: an essay-book. It appears primarily to serve as a manifesto of Rancière’s theory of cinema, via a ponderous and dogmatic guide to the Hungarian filmmaker, Béla Tarr.”
 

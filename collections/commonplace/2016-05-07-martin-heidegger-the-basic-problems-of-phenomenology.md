@@ -2,13 +2,14 @@
 layout: entry
 category: commonplace
 author: Martin Heidegger
-title: The Basic Problems of Phenomenology
+title: The Method of Scientific Philosophy in General
 publication: Marxists
 link: https://www.marxists.org/reference/subject/philosophy/works/ge/heidegge.htm
 date: 2016-05-07
+permalink: 2016/05/07/martin-heidegger-the-method-of-scientific-philosophy-in-general
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Martin Heidegger]] • [[Marxists]]
  
 “Phenomenology must develop its concept out of what it takes as its theme and how it investigates its object.”
 

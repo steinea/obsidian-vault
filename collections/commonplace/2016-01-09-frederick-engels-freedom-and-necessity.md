@@ -6,9 +6,10 @@ title: Freedom and Necessity
 publication: Marxists
 link: https://www.marxists.org/archive/marx/works/1877/anti-duhring/ch09.htm
 date: 2016-01-09
+permalink: 2016/01/09/frederick-engels-freedom-and-necessity
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Friedrich Engels]] • [[Marxists]]
  
 “To which we might answer with Spinoza: Ignorantia non est argumentum. Ignorance is no argument.”
 

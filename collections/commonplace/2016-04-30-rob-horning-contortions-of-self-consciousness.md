@@ -6,9 +6,10 @@ title: Contortions of Self-Consciousness
 publication: The New Inquiry
 link: http://thenewinquiry.com/blogs/marginal-utility/contortions-of-self-consciousness/
 date: 2016-04-30
+permalink: 2016/04/30/rob-horning-contortions-of-self-consciousness
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Rob Horning]] • [[The New Inquiry]]
  
 “we mistake observation of an emotional state as the ability to also identify its cause — noticing my spontaneity made me spontaneous, so I should just think about being spontaneous more!”
 

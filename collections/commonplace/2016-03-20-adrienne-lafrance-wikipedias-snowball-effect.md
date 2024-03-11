@@ -6,9 +6,10 @@ title: Wikipedia’s Snowball Effect
 publication: The Atlantic
 link: http://www.theatlantic.com/technology/archive/2016/03/wikipedia-cumulative-growth-effect/473994/
 date: 2016-03-20
+permalink: 2016/03/20/adrienne-lafrance-wikipedias-snowball-effect
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Adrienne LaFrance]] • [[The Atlantic]]
  
 “If there’s a unifying theory here, a rule about why some topics have sprawling Wikipedia pages and others are relative blips, it’s not immediately evident. A lot of the heftiest articles are in list format, but the topics are all over the map.”
 

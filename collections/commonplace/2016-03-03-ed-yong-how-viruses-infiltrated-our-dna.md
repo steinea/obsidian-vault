@@ -6,9 +6,10 @@ title: How Viruses Infiltrated Our DNA and Supercharged Our Immune System
 publication: The Atlantic
 link: http://www.theatlantic.com/science/archive/2016/03/how-we-repurposed-viruses-to-defend-ourselves-from-viruses/471702/
 date: 2016-03-03
+permalink: 2016/03/03/ed-yong-how-viruses-infiltrated-our-dna-and-supercharged-our-immune-system
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Ed Yong]] • [[The Atlantic]]
  
 “Hundreds of millions of years ago, prehistoric viruses inserted their genes into the genomes of our ancestors. They found their way into eggs or sperm, and then into embryos. As they passed down from one generation to the next, they picked up mutations that disabled their ability to infect new cells. Eventually, they became permanent fixtures of our genomes, as much a part of our DNA as our own genes.”
 

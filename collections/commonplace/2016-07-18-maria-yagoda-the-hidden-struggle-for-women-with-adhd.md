@@ -6,9 +6,10 @@ title: The Hidden Struggle for Women with ADHD
 publication: Broadly
 link: https://broadly.vice.com/en_us/article/adhd-women-better-together-festival
 date: 2016-07-18
+permalink: 2016/07/18/maria-yagoda-the-hidden-struggle-for-women-with-adhd
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Maria Yagoda]] • [[Broadly]]
  
 “Courtney was diagnosed with Obsessive Compulsive Disorder in middle school, anxiety and depression in high school, and ADHD just five months prior to the festival. Now, she wonders if the childhood OCD was a misdiagnosis, as she's learning that many of her rituals stem from the chaos of navigating ADHD.”
 

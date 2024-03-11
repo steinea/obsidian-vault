@@ -6,9 +6,10 @@ title: Discourse on Method
 publication: Marxists
 link: https://www.marxists.org/reference/subject/philosophy/works/fr/descarte.htm
 date: 2016-02-03
+permalink: 2016/02/03/rene-descartes-discourse-on-method
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Rene Descartes]] • [[Marxists]]
  
 “Good sense is of all things in the world the most equally distributed, for everybody thinks himself so abundantly provided with it, that even those most difficult to please in all other matters do not commonly desire more of it than they already possess.”
 

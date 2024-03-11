@@ -6,9 +6,10 @@ title: Dark Pools
 publication: The New Inquiry
 link: http://thenewinquiry.com/essays/dark-pools/
 date: 2016-03-31
+permalink: 2016/03/31/miranda-trimmier-dark-pools
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Miranda Trimmier]] • [[The New Inquiry]]
  
 “Narratives of financial complexity obscure how capitalist realisms are made—and might be unmade”
 

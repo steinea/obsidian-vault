@@ -6,9 +6,10 @@ title: The Problem of the Subject Matter and Sources of Logic
 publication: Marxists
 link: https://www.marxists.org/archive/ilyenkov/works/essays/essay1.htm
 date: 2016-02-19
+permalink: 2016/02/19/evald-ilyenkov-the-problem-of-the-subject-matter-and-sources-of-logic
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Evald Ilyenkov]] • [[Marxists]]
  
 “The fact is that what are now called logic are doctrines that differ considerably in their understanding of the boundaries of this science. Each of them, of course, lays claim not so much simply to the title as to the right to be considered the sole modern stage in the development of world logical thought. That, therefore, is why we must go into the history of the matter.”
 

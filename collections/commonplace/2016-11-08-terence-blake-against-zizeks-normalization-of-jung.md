@@ -6,9 +6,10 @@ title: Against Zizek's Normalization of Jung
 publication: Agent Swarm
 link: https://terenceblake.wordpress.com/2016/11/08/against-zizeks-normalization-of-jung-hillmans-non-standard-jung/
 date: 2016-11-08
+permalink: 2016/11/08/terence-blake-against-zizeks-normalization-of-jung
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Terence Blake]] • [[Agent Swarm]]
  
 “Zizek has done some excellent work on the middle period of Deleuze’s thought and he has succeeded in integrating important ideas from DIFFERENCE AND REPETITION and LOGIC OF SENSE, but Deleuze’s positive evaluation of Jung remains a blind spot for him.”
 

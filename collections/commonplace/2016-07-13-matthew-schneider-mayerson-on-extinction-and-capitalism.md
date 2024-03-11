@@ -6,9 +6,10 @@ title: On Extinction and Capitalism
 publication: Los Angeles Review of Books
 link: https://lareviewofbooks.org/review/on-extinction-and-capitalism/
 date: 2016-07-13
+permalink: 2016/07/13/matthew-schneider-mayerson-on-extinction-and-capitalism
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Matthew Schneider-Mayerson]] • [[Los Angeles Review of Books]]
  
 “we are in the midst of the sixth mass extinction in the history of the planet, in which 25 to 40 percent of all species are expected to disappear by 2050.”
 

@@ -6,7 +6,10 @@ title: The Buddhist Challenge
 publication: Los Angeles Review of Books
 link: https://lareviewofbooks.org/article/the-buddhist-challenge/
 date: 2016-11-16
+permalink: 2016/11/16/jay-l-garfield-the-buddhist-challenge
 ---
+
+[[2016]] • [[commonplace]] • [[Jay L. Garfield]] • [[Los Angeles Review of Books]]
 
 “Buddhist philosophy’s guiding thought is expressed in the “no-self” (anātma) doctrine: the claim, sketched with admirable nuance by Garfield, that persons do not have enduring, unitary selves.”
 

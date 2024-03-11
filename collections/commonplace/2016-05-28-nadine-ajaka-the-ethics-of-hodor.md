@@ -6,9 +6,10 @@ title: The Ethics of Hodor
 publication: The Atlantic
 link: http://www.theatlantic.com/entertainment/archive/2016/05/the-ethics-of-hodor/484643/
 date: 2016-05-28
+permalink: 2016/05/28/nadine-ajaka-the-ethics-of-hodor
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Nadine Ajaka]] • [[The Atlantic]]
  
 “In the 2014 scholarly essay “A Song of Ice and Fire’s Ethics of Disability,” Lauryn S. Mayer of Washington and Jefferson College and Pascal J. Massie of Miami University of Ohio examined the disability themes in George R.R. Martin’s book series. They wrote that the saga seemed interested in “dismantling the clichés of disability, examining the costs of ableist ideologies, and uncovering the fear of mortality and vulnerability that compels people to build a wall separating themselves from the disabled.””
 

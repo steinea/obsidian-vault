@@ -6,9 +6,10 @@ title: The Force Awakens Stinks
 publication: Los Angeles Times
 link: http://www.latimes.com/business/hiltzik/la-fi-mh-star-wars-the-force-awakens-stinks-20151226-column.html
 date: 2016-01-05
+permalink: 2016/01/05/michael-hiltzik-the-force-awakens-stinks
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Michael Hiltzik]] • [[Los Angeles Times]]
  
 “It's the anchoring element of a vast commercial program, painstakingly factory-made for maximal audience appeal, which means maximal inoffensiveness.”
 

@@ -6,9 +6,10 @@ title: Hannah Horvath, Why Do We (Still) Hate Thee So?
 publication: Vulture
 link: http://www.vulture.com/2016/04/hannah-horvath-why-do-we-still-hate-thee-so.html
 date: 2016-04-16
+permalink: 2016/04/16/kathryn-vanarendonk-hannah-horvath-why-do-we-still-hate-thee-so
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Kathryn VanArendonk]] • [[Vulture]]
  
 “TV, which by its most basic structure implies progression and development, has taught us to look at Hannah’s story and search for change. Instead, at least up until this point in season five, we are routinely denied that pleasure.”
 

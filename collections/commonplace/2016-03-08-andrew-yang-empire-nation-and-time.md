@@ -6,9 +6,10 @@ title: Empire, Nation, and Time
 publication: Los Angeles Review of Books
 link: https://lareviewofbooks.org/review/empire-nation-and-time/
 date: 2016-03-08
+permalink: 2016/03/08/andrew-yang-empire-nation-and-time
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Andrew Yang]] • [[Los Angeles Review of Books]]
  
 “BENEDICT ANDERSON, in Imagined Communities, suggests that the novel is a product of national culture.”
 

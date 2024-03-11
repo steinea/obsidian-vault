@@ -6,9 +6,10 @@ title: A Darker Jungle
 publication: New York Review of Books
 link: http://www.nybooks.com/daily/2016/04/26/darker-jungle-book/
 date: 2016-05-07
+permalink: 2016/05/07/christopher-benfey-a-darker-jungle
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Christopher Benfey]] • [[New York Review of Books]]
  
 ““I am two Mowgli’s,” he laments. “These two things fight together in me as the snakes fight in the spring.” Freud understandably adored the book.”
 

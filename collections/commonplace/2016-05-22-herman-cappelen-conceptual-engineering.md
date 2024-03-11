@@ -6,9 +6,10 @@ title: Conceptual Engineering
 publication: Daily Nous
 link: http://dailynous.com/2016/05/19/philosophers-win-3-6-million-for-conceptual-engineering/
 date: 2016-05-22
+permalink: 2016/05/22/herman-cappelan-conceptual-engineering
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Herman Cappelan]] • [[Daily Nous]]
  
 “Professor Cappelen offers a description of the project:”
 

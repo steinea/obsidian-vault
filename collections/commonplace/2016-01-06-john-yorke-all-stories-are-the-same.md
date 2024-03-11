@@ -6,9 +6,10 @@ title: All Stories Are the Same
 publication: The Atlantic
 link: http://www.theatlantic.com/entertainment/archive/2016/01/into-the-woods-excerpt/421566/
 date: 2016-01-06
+permalink: 2016/01/06/john-yorke-all-stories-are-the-same
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[John Yorke]] • [[The Atlantic]]
  
 “Though they are superficially different, they all share the same framework and the same story engine: All plunge their characters into a strange new world; all involve a quest to find a way out of it; and in whatever form they choose to take, in every story “monsters” are vanquished. All, at some level, too, have as their goal safety, security, completion, and the importance of home.”
 

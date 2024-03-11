@@ -6,9 +6,10 @@ title: The Classic Metal Behind the Origins of Life
 publication: Nautilus
 link: http://nautil.us/issue/34/adaptation/the-classic-metal-behind-the-origins-of-life
 date: 2016-03-27
+permalink: 2016/03/27/al-crumbliss-the-classic-metal-behind-the-origins-of-life
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Al Crumbliss]] • [[Nautilus]]
  
 “Where the other “omes” are full of complex structures and intricate biomachinery, the metallome is much simpler. It’s just a collection of metal atoms.”
 

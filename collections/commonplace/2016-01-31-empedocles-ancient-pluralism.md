@@ -6,9 +6,10 @@ title: Ancient Pluralism
 publication: Wikipedia
 link: https://en.wikipedia.org/wiki/Pluralism_(philosophy)#Ancient_pluralism
 date: 2016-01-31
+permalink: 2016/01/31/empedocles-ancient-pluralism
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Empedocles]] • [[Wikipedia]]
  
 In Greece, Empedocles wrote that they were fire, air, water and earth,[6] although he used the word "root" rather than "element" (στοιχεῖον; stoicheion), which appeared later in Plato.[7] From the association (φιλία; philia) and separation (νεῖκος; neikos) of these indestructible and unchangeable root elements, all things came to be in a fullness (πλήρωμα; pleroma) of ratio (λόγος; logos) and proportion (ἀνάλογος; analogos).
 

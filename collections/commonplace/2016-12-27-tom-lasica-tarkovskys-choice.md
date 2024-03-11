@@ -6,9 +6,10 @@ title: Tarkovsky's Choice
 publication: Nostalghia
 link: http://www.nostalghia.com/TheTopics/Tarkovsky-TopTen.html
 date: 2016-12-27
+permalink: 2016/12/27/tom-lasica-tarkovskys-choice
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Tom Lasica]] • [[Nostalghia]]
  
 In 1972 Andrei Tarkovsky told Leonid Kozlov about his favorite films. Tom Lasica recently talked with the critic. 
 

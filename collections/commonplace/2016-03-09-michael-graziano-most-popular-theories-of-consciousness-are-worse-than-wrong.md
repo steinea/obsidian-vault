@@ -6,9 +6,10 @@ title: Most Popular Theories of Consciousness Are Worse Than Wrong
 publication: The Atlantic
 link: http://www.theatlantic.com/science/archive/2016/03/phlegm-theories-of-consciousness/472812/
 date: 2016-03-09
+permalink: 2016/03/09/michael-graziano-most-popular-theories-of-consciousness-are-worse-than-wrong
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Michael Graziano]] • [[The Atlantic]]
  
 “In the modern age we can chuckle over medieval naiveté, but we often suffer from similar conceptual confusions. We have our share of phlegm theories, which flatter our intuitions while explaining nothing. They’re compelling, they often convince, but at a deeper level they’re empty.”
 

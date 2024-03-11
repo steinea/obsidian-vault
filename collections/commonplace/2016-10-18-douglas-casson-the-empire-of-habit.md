@@ -6,9 +6,10 @@ title: The Empire of Habit
 publication: Notre Dame Philosophical Reviews
 link: https://ndpr.nd.edu/news/70560-the-empire-of-habit-john-locke-discipline-and-the-origins-of-liberalism/
 date: 2016-10-18
+permalink: 2016/10/18/douglas-casson-the-empire-of-habit
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Douglas Casson]] • [[Notre Dame Philosophical Reviews]]
  
 “By resisting the power of habitual associations, such individuals exhibit a freedom "which few men have the notion of in themselves, and fewer are allowed the practice of by others." (CU §41). Intellectual freedom, for Locke, involves contesting the empire of habit.”
 

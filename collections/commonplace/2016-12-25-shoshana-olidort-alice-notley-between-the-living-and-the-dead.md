@@ -6,9 +6,10 @@ title: Between the Living and the Dead
 publication: Los Angeles Review of Books
 link: https://lareviewofbooks.org/article/between-the-living-and-the-dead-an-interview-with-alice-notley/
 date: 2016-12-25
+permalink: 2016/12/25/shoshana-olidort-alice-notley-between-the-living-and-the-dead
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Shoshana Olidort]] • [[Alice Notley]] • [[Los Angeles Review of Books]]
  
 “ALICE NOTLEY has been hailed as one of the United States’s greatest living poets. She is the author of more than 25 books of poetry and the recipient of numerous awards, including, most recently, the Ruth Lilly Poetry Prize. Certain Magical Acts is her latest book.”
 

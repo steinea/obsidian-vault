@@ -6,9 +6,10 @@ title: The Silence of the Lens
 publication: e-flux
 link: http://www.e-flux.com/journal/the-silence-of-the-lens/
 date: 2016-07-24
+permalink: 2016/07/24/david-claerbout-the-silence-of-the-lens
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[David Claerbout]] •[[e-flux]]
  
 “Photography is currently undergoing the sort of transformation that music went through roughly fifteen years ago. This transition was a major shift for musicians but was generally considered positive by the listeners. For those young photographers keen on knowing how their profession will evolve, I would suggest they look at the music industry of today, fifteen years later, to get a glimpse of the changes to come.”
 

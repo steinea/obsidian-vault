@@ -6,9 +6,10 @@ title: The Responsibility of Intellectuals
 publication: Boston Review
 link: http://bostonreview.net/noam-chomsky-responsibility-of-intellectuals-redux
 date: 2016-10-09
+permalink: 2016/10/09/noam-chomsky-the-responsibility-of-intellectuals
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Noam Chomsky]] • [[Boston Review]]
  
 “intellectuals as defenders of justice, confronting power with courage and integrity”
 

@@ -6,9 +6,10 @@ title: What’s so Bad About Original Sin?
 publication: Los Angeles Review of Books
 link: https://lareviewofbooks.org/review/whats-so-bad-about-original-sin/
 date: 2016-05-07
+permalink: 2016/05/07/charles-halton-whats-so-bad-about-original-sin
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Charles Halton]] • [[Los Angeles Review of Books]]
  
 “CONSIDER THIS: for almost 2,000 years and counting the entirety of Western culture has been brainwashed. The fields of biology, economics, religion, and psychology are built on a lie. Even those who self-consciously reject this falsehood are subconsciously shaped by it. It’s unavoidable and all pervasive. It’s made us who we are. Indeed, it’s turning us into monsters. What is this lie exactly? It’s the assumption that humans are born bad.”
 

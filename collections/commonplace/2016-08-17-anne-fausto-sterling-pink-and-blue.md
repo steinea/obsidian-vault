@@ -6,9 +6,10 @@ title: Pink and Blue
 publication: Boston Review
 link: http://bostonreview.net/wonders/anne-fausto-sterling-trans-kids
 date: 2016-08-17
+permalink: 2016/08/17/anne-fausto-sterling-pink-and-blue
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Anne Fausto-Sterling]] • [[Boston Review]]
  
 “children do not begin life with a sense of body permanence”
 

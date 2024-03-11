@@ -6,9 +6,10 @@ title: Contradiction and Overdetermination
 publication: Marxists
 link: https://www.marxists.org/reference/archive/althusser/1962/overdetermination.htm
 date: 2016-01-25
+permalink: 2016/01/25/louis-althusser-contradiction-and-overdetermination
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Louis Althusser]] • [[Marxists]]
  
 “We cannot go on reiterating indefinitely approximations such as the difference between system and method, the inversion of philosophy or dialectic, the extraction of the ‘rational kernel’, and so on, without letting these formulae think for us, that is, stop thinking ourselves and trust ourselves to the magic of a number of completely devalued words for our completion of Marx’s work”
 

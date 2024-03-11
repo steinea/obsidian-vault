@@ -6,9 +6,10 @@ title: Divine Fire
 publication: Aeon
 link: https://aeon.co/ideas/the-divine-fire-of-philip-k-dick-s-religious-visions
 date: 2016-08-17
+permalink: 2016/08/18/kyle-arnold-divine-fire
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Kyle Arnold]] • [[Aeon]]
  
 “Although the earliest psychoanalysts saw religion as neurotic, the modern mental health field has stopped pathologising religious beliefs.”
 

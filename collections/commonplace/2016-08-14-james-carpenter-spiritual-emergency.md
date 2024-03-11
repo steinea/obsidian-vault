@@ -6,9 +6,10 @@ title: Spiritual Emergency
 publication: Aeon
 link: https://aeon.co/essays/treating-acute-psychosis-with-drugs-can-prolong-the-anguish
 date: 2016-08-14
+permalink: 2016/08/14/james-carpenter-spiritual-emergency
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[James Carpenter]] • [[Aeon]]
  
 “She frames a question that carries deep implications of challenge and shame: ‘Do you think they are real?’
 

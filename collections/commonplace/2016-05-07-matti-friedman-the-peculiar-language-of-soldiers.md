@@ -6,9 +6,10 @@ title: The Peculiar Language of Soldiers
 publication: The Atlantic
 link: http://www.theatlantic.com/international/archive/2016/05/military-jargon-idf/481092/
 date: 2016-05-07
+permalink: 2016/05/07/matti-friedman-the-peculiar-language-of-soldiers
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Matti Friedman]] • [[The Atlantic]]
  
 “The soldiers’ vernacular must provide words for things that civilians don’t need to describe, like grades of officers and kinds of weapons. But it has deeper purposes too.”
 

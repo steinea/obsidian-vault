@@ -6,9 +6,10 @@ title: Pet Sounds
 publication: Real Life
 link: http://reallifemag.com/pet-sounds/
 date: 2016-08-17
+permalink: 2016/08/17/elizabeth-newton-pet-sounds
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Elizabeth Newton]] • [[Pet Sounds]]
  
 “It has always struck me as ironic that audiophiles are often mediocre listeners. Careful listening to music defines the audiophile’s identity, yet conversations with them can be frustrating affairs. They believe themselves to hold special insights into sound, which they impart with little prompting: knowledge of the best books about audio fidelity, of the highest quality recordings, of historic hi-fi landmarks, of the best speakers, speaker cables, speaker polish. The audiophile tends toward monologues, impervious to disinterest — or dissent.”
 

@@ -6,9 +6,10 @@ title: Arabic Translators Did Far More than Just Preserve Greek Philosophy
 publication: Aeon
 link: https://aeon.co/ideas/arabic-translators-did-far-more-than-just-preserve-greek-philosophy
 date: 2016-11-04
+permalink: 2016/11/04/peter-adamson-arabic-translators-did-far-more-than-just-preserve-greek-philosophy
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Peter Adamson]] • [[Aeon]]
  
 “This was thanks to a well-funded translation movement that unfolded during the Abbasid caliphate, beginning in the second half of the eighth century. Sponsored at the highest levels, even by the caliph and his family, this movement sought to import Greek philosophy and science into Islamic culture”
 

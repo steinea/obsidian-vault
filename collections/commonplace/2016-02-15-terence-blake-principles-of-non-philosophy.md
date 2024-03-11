@@ -6,9 +6,10 @@ title: Principles of Non-Philosophy
 publication: Agent Swarm
 link: https://terenceblake.wordpress.com/2016/02/15/principles-of-non-philosophy-creative-tension-or-self-paralysing-conflict/
 date: 2016-02-15
+permalink: 2016/02/15/terence-blake-principles-of-non-philosophy
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Terence Blake]] • [[Agent Swarm]]
  
 “Laruelle’s PRINCIPLES OF NON-PHILOSOPHY was published in French in 1996. Some people have claimed that it is in part a response to Deleuze and Guattari’s WHAT IS PHILOSOPHY?, published in 1991.”
 

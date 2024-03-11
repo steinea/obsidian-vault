@@ -6,9 +6,10 @@ title: The Phenomenon of Reification
 publication: Stanford Encyclopedia of Philosophy
 link: https://plato.stanford.edu/entries/lukacs/
 date: 2016-05-11
+permalink: 2016/05/11/gyorgy-lukacs-the-phenomenon-of-reification
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Gyorgy Lukács]] • [[Stanford Encyclopedia of Philosophy]]
  
 3.1 Reification Theory
 

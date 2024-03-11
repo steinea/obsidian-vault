@@ -6,9 +6,10 @@ title: There Will Be Feelings
 publication: Los Angeles Review of Books
 link: https://lareviewofbooks.org/article/will-feelings-george-toless-paul-thomas-anderson/
 date: 2016-12-23
+permalink: 2016/12/23/martin-woessner-there-will-be-feelings
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Martin Woessner]] • [[Los Angeles Review of Books]]
  
 “LIKE ME, the esteemed film scholar George Toles thinks that Paul Thomas Anderson didn’t really come into his own as a director until he made There Will Be Blood (2007), his fifth feature film.”
 

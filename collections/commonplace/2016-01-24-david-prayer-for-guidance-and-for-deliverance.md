@@ -6,9 +6,10 @@ title: Prayer for Guidance and for Deliverance
 publication: Book of Psalms
 link: https://en.wikipedia.org/wiki/Psalm_25
 date: 2016-01-24
+permalink: 2016/01/24/david-prayer-for-guidance-and-for-deliverance
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[David]] • [[The Book of Psalms]]
  
 Of David.
 

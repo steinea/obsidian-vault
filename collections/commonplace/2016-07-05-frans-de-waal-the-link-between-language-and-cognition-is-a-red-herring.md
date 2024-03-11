@@ -6,9 +6,10 @@ title: The Link Between Language and Cognition is a Red Herring
 publication: Aeon
 link: https://aeon.co/ideas/the-link-between-language-and-cognition-is-a-red-herring
 date: 2016-07-05
+permalink: 2016/07/05/frans-de-waal-the-link-between-language-and-cognition-is-a-red-herring
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Frans de Waal]] • [[Aeon]]
  
 “It is far too easy to invent post-hoc reasons for one’s behaviour, to be silent about one’s sexual habits, to downplay excessive eating or drinking, or to present oneself as more admirable than one really is.”
 

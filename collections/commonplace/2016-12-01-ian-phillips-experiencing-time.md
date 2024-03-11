@@ -6,9 +6,10 @@ title: Experiencing Time
 publication: Notre Dame Philosophical Reviews
 link: https://ndpr.nd.edu/news/experiencing-time/
 date: 2016-12-01
+permalink: 2016/12/01/ian-phillips-experiencing-time
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Ian Phillips]] • [[Notre Dame Philosophical Reviews]]
  
 “Our experience of time has long puzzled theorists from very different perspectives: psychologists and physicists, metaphysicians and philosophers of mind.”
 

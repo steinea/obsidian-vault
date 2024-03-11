@@ -6,9 +6,10 @@ title: Immanence of Truths
 publication: Agent Swarm
 link: https://terenceblake.wordpress.com/2016/11/10/badious-immanence-of-truths-arguments-2012-2017/
 date: 2016-11-10
+permalink: 2016/11/10/terence-blake-immanence-of-truths
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Terence Blake]] • [[Agent Swarm]]
  
 1) Alain Badiou, Argument Seminar 2012-2013:
 

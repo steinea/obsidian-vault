@@ -6,9 +6,10 @@ title: Differential Life, Perception, and the Nervous Elements
 publication: Culture Machine
 link: http://www.culturemachine.net/index.php/%20cm/article/viewArticle/32/39
 date: 2016-08-10
+permalink: 2016/08/10/andrew-murphie-differential-life-perception-and-the-nervous-elements
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Andrew Murphie]] • [[Culture Machine]]
  
 “The living being is above all a thoroughfare, and . . . the essence of life is in the movement by which life is transmitted. (Bergson, 1911: 128)”
 

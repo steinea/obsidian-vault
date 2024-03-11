@@ -6,9 +6,10 @@ title: Disparity and Speculative Realism
 publication: Agent Swarm
 link: https://terenceblake.wordpress.com/2016/10/22/reading-disparities-2-disparity-and-speculative-realism/
 date: 2016-10-22
+permalink: 2016/10/22/terence-blake-disparity-and-speculative-realism 
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Terence Blake]] • [[Agent Swarm]]
  
 Reading DISPARITIES (2)
 

@@ -6,9 +6,10 @@ title: Deliverance from Oppression
 publication: Bible
 link: https://en.wikipedia.org/wiki/Isaiah_25
 date: 2016-04-24
+permalink: 2016/04/24/isaiah-deliverance-from-oppression
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Isaiah]] • [[Bible]]
  
 O Lord, you are my God;
 <br>I will exalt you, I will praise your name;

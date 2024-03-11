@@ -6,9 +6,10 @@ title: The Conservative Mindset
 publication: Los Angeles Review of Books
 link: https://lareviewofbooks.org/review/the-conservative-mindset/
 date: 2016-03-21
+permalink: 2016/03/21/allen-mendenhall-the-conservative-mindset
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Allen Mendenhall]] • [[Los Angeles Review of Books]]
  
 “A plump, bespectacled gentleman who feigned disdain for technology, Kirk was something of a spiritualist with a penchant for the weird. He considered himself a Stoic before he had converted to Catholicism, a regeneration that makes sense in light of the relation of Stoic to Pauline thought.”
 

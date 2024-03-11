@@ -6,9 +6,10 @@ title: Like This So I Know I'm Real
 publication: Hazlitt
 link: http://hazlitt.net/feature/so-i-know-im-real
 date: 2016-03-13
+permalink: 2016/03/13/bethlehem-shoals-like-this-so-i-know-im-real
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Bethlehem Shoals]] • [[Hazlitt]]
  
 “These new reactions aren’t contradictions, they’re all variations on that simple “I see you” of the “like.””
 

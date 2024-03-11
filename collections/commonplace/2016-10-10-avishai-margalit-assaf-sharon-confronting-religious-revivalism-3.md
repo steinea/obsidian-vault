@@ -6,9 +6,10 @@ title: Response to Walzer
 publication: Boston Review
 link: https://bostonreview.net/forum/confronting-religious-revivalism/avishai-margalit-assaf-sharon-response-michael-walzer
 date: 2016-10-10
+permalink: 2016/10/10/avishai-margalit-assaf-sharon-response-to-walzer
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Avishai Margalit]] • [[Assaf Sharon]] • [[Boston Review]]
  
 “Our dispute with Michael Walzer is not a dispute between impatient militants and a moderate sellout. It is also not a dispute about religion. We agree that religious revivalism is bad and must be defeated, that politics should be divorced from religion, and that ideals of freedom, equality, and dignity are the best foundations for a good society. Our dispute concerns how to confront intense religious nationalism in light of these ideals.”
 

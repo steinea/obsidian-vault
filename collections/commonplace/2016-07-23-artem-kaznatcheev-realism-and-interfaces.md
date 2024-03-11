@@ -6,9 +6,10 @@ title: Realism and Interfaces
 publication: Theory, Evolution, and Games Group
 link: https://egtheory.wordpress.com/2014/11/30/interface-philosophy/
 date: 2016-07-23
+permalink: 2016/07/23/artem-kaznatcheev-realism-and-interfaces
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Artem Kaznatcheev]] • [[Theory, Evolution, and Games Group]]
  
 “In an earlier post, I discussed three theories of perception: naive realism, critical realism, and interfaces.”
 

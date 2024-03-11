@@ -6,9 +6,10 @@ title: Physics Is on the Verge of an Earth Shattering Discovery
 publication: Aeon
 link: https://aeon.co/opinions/physics-is-on-the-verge-of-an-earth-shattering-discovery
 date: 2016-05-01
+permalink: 2016/05/01/pauline-gagnon-physics-is-on-the-verge-of-an-earth-shattering-discovery
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Pauline Gagnon]] • [[Aeon]]
  
 “No one knows yet what the successor to the Standard Model will look like, but we hope it will address at least some, if not all, the big questions left unanswered by the current theory. In particular, the new theory should be able to describe dark matter, give some clues about the imbalance between matter and antimatter, and explain why the various building blocks of matter have such different masses. It must also incorporate all of the extremely successful descriptions contained within the Standard Model, but go much further.”
 

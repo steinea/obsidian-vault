@@ -6,9 +6,10 @@ title: The Star Wars Fandom Menace
 publication: Salon
 link: http://www.salon.com/2015/12/22/the_star_wars_fandom_menace_the_glaring_emotional_blind_spots_that_power_the_force_awakens/
 date: 2016-07-14
+permalink: 2016/07/14/lili-loofbourow-the-star-wars-fandom-menace
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Lili Loofbourow]] • [[Salon]]
  
 ““Star Wars” is shallow and silly and campy and fun, and a dozen other synonyms that suggest we shouldn’t think about it too hard.”
 

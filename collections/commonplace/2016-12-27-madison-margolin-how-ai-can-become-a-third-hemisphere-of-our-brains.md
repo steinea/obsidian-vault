@@ -6,9 +6,10 @@ title: How AI Can Become a Third Hemisphere of Our Brains
 publication: Motherboard
 link: http://motherboard.vice.com/read/how-ai-can-become-a-third-hemisphere-of-our-brains
 date: 2016-12-27
+permalink: 2016/12/27/madison-margolin-how-ai-can-become-a-third-hemisphere-of-our-brains
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Madison Margolin]] • [[Motherboard]]
  
 “it can free up our minds and responsibilities for the tasks and social interactions we humans are best suited for”
 

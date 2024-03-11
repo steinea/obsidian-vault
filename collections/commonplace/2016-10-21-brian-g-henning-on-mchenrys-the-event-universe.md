@@ -6,9 +6,10 @@ title: The Event Universe
 publication: Notre Dame Philosophical Reviews
 link: https://ndpr.nd.edu/news/70867-the-event-universe-the-revisionary-metaphysics-of-alfred-north-whitehead/
 date: 2016-10-21
+permalink: 2016/10/21/brian-g-henning-the-event-universe
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Brian G. Henning]] • [[Notre Dame Philosophical Reviews]]
  
 “After decades of careful and productive philosophical work, it may be that the seams of descriptive metaphysics have been all but mined out. Fortunately, as Leemon B. McHenry beautifully illustrates, after more than a half-century of slumber the speculative impulse has been reawakened.”
 

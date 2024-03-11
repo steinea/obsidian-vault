@@ -6,9 +6,10 @@ title: The Next Justice Is Not Up to Us
 publication: New York Review of Books
 link: http://www.nybooks.com/daily/2016/02/15/next-supreme-court-justice-not-up-to-us/
 date: 2016-02-15
+permalink: 2016/02/15/garry-wills-the-next-justice-is-not-up-to-us
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Garry Wills]] • [[New York Review of Books]]
  
 “Senator Ted Cruz, the presidential candidate, Senate Judiciary Committee member, and self-styled guardian of the Constitution, wrote on Twitter, “We owe it to him, [Scalia] & the Nation, for the Senate to ensure that the next President names his replacement.” That is, we owe it to the archetypal originalist, where the Constitution is concerned, to ignore and defy the original Constitution.”
 

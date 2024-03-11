@@ -6,9 +6,10 @@ title: American Nostalgia
 publication: Los Angeles Review of Books
 link: https://lareviewofbooks.org/essay/american-nostalgia/
 date: 2016-01-09
+permalink: 2016/01/09/michael-a-elliott-american-nostalgia
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Michael A. Elliott]] • [[Los Angeles Review of Books]]
  
 “The few seconds that these images appear in the context of The Man in the High Castle reveal something of the affective power of alternate history. The genre offers us a chance to recognize our historical lexicon spoken in strange accents, just unfamiliar enough to achieve a certain distance but sufficiently close to yield to the frisson of comprehension.”
 

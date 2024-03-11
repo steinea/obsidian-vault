@@ -6,9 +6,10 @@ title: Suspicious Minds
 publication: n+1
 link: https://nplusonemag.com/issue-25/reviews/suspicious-minds-2/
 date: 2016-07-18
+permalink: 2016/07/18/evan-kindley-suspicious-minds
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Evan Kindley]] • [[n+1]]
  
 “Luc Boltanski is, himself, a slightly mysterious figure, at least to American readers. A star pupil of Pierre Bourdieu’s in the late 1970s, he has since established himself internationally as a powerful social theorist in his own right. His idiosyncratic body of work on subjects including class formation, love, theology, decision-making, capitalism, trade unions, philosophy, the left after May ’68, TV news, comic strips, and abortion has been gradually appearing in En-glish translation over the course of the past two decades.”
 

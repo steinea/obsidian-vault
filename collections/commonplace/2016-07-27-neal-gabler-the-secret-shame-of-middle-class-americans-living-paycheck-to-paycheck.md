@@ -6,9 +6,10 @@ title: The Secret Shame of Middle-Class Americans Living Paycheck to Paycheck
 publication: The Atlantic
 link: http://www.theatlantic.com/magazine/archive/2016/05/my-secret-shame/476415/
 date: 2016-07-27
+permalink: 2016/07/27/neal-gabler-the-secret-shame-of-middle-class-americans-living-paycheck-to-paycheck
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Neal Gabler]] • [[The Atlantic]]
  
 “Financial impotence goes by other names: financial fragility, financial insecurity, financial distress. But whatever you call it, the evidence strongly indicates that either a sizable minority or a slim majority of Americans are on thin ice financially.”
 

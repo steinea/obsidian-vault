@@ -6,9 +6,10 @@ title: Pumpkin Spice Lattes
 publication: Vox
 link: http://www.vox.com/2014/9/10/6126359/pumpkin-spice-latte-starbucks-season-trend
 date: 2016-09-06
+permalink: 2016/09/06/alex-abad-santos-pumpkin-spice-latters
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Alex Abad-Santos]] • [[Vox]]
  
 “the crown jewel of this pumpkin berserker rage is what's known as the pumpkin spice latte, an unctuous, pungent, saccharine brown liquid, equal parts dairy and diabetes, served in paper cups and guzzled down by the liters”
 

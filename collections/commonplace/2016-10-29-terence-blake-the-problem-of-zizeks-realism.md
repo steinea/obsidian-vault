@@ -6,9 +6,10 @@ title: The Problem of Zizek’s Realism
 publication: Agent Swarm
 link: https://terenceblake.wordpress.com/2016/10/29/reading-disparities-9-the-problem-of-zizeks-realism/
 date: 2016-10-29
+permalink: 2016/10/29/terence-blake-the-problem-of-zizeks-realism
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Terence Blake]] • [[Agent Swarm]]
  
 Reading DISPARITIES (9)
 

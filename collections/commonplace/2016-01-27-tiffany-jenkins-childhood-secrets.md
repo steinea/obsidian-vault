@@ -6,9 +6,10 @@ title: Childhood Secrets
 publication: Aeon
 link: https://aeon.co/essays/we-ve-forgotten-how-to-give-children-the-space-to-have-secrets
 date: 2016-01-27
+permalink: 2016/01/27/tiffany-jenkins-childhood-secrets
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Tiffany Jenkins]] • [[Aeon]]
  
 “Secrets in this novel are disclosed only once their protective shelter is no longer required.”
 

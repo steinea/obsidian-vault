@@ -6,9 +6,10 @@ title: My Brother's Keeper
 publication: The Atlantic
 link: http://www.theatlantic.com/politics/archive/2016/03/my-brothers-keeper/471171/
 date: 2016-03-07
+permalink: 2016/03/07/cory-booker-my-brothers-keeper
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Cory Booker]] • [[The Atlantic]]
  
 “I was 29. I had just been elected to the Central Ward council seat in an upset. I had beaten an incumbent who was more than 40 years my senior and had held the seat for 16 years. I was a year out of law school, where I had spent a lot of time sitting in classes—but not like this one. Those classes were in ivy-covered buildings, modern and comfortable, with very few black men. Those classes did not fully explore how the broken legal system damages communities such as Newark. I felt that every law-school student should see rooms like that one in the Willie T. Wright Apartments—that America should see.”
 

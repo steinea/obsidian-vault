@@ -6,9 +6,10 @@ title: Death by Immortality
 publication: The New Inquiry
 link: http://thenewinquiry.com/essays/death-by-immortality/
 date: 2016-07-14
+permalink: 2016/07/14/keguro-macharia-death-by-immortality
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Keguro Macharia]] • [[The New Inquiry]]
  
 “Cancer cells are “immortal”: they replicate incessantly, refusing to obey signals to moderate their speed or to die. They are, in fact, death-defying cells that kill.”
 

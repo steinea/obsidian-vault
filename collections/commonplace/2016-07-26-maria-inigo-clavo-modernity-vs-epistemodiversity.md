@@ -6,9 +6,10 @@ title: Modernity vs. Epistemodiversity
 publication: e-flux
 link: http://www.e-flux.com/journal/modernity-vs-epistemodiversity/
 date: 2016-07-26
+permalink: 2016/07/26/maria-inigo-clavo-modernity-vs-epistemodiversity
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[María Iñigo Clavo]] • [[e-flux]]
  
 “Postcolonial theorists from both Europe and the rest of the world have illustrated how ideals of emancipation, equality, freedom, and scientific and industrial development were only possible through their opposites: colonial exploitation, inequality, slavery, torture, and suffering in the Global South.”
 

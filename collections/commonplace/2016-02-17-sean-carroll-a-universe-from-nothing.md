@@ -6,9 +6,10 @@ title: A Universe from Nothing
 publication: Preposterous Universe
 link: http://www.preposterousuniverse.com/blog/2012/04/28/a-universe-from-nothing/
 date: 2016-02-17
+permalink: 2016/02/17/sean-carroll-a-universe-from-nothing
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Sean Carroll]] • [[Preposterous Universe]]
  
 “Very roughly, there are two different kinds of questions lurking around the issue of “Why is there something rather than nothing?””
 

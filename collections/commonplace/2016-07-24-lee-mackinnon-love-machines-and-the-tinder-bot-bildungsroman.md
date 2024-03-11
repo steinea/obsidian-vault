@@ -6,9 +6,10 @@ title: Love Machines and the Tinder Bot Bildungsroman
 publication: e-flux
 link: http://www.e-flux.com/journal/love-machines-and-the-tinder-bot-bildungsroman/
 date: 2016-07-24
+permalink: 2016/07/24/lee-mackinnon-love-machines-and-the-tinder-bot-bildungsroman
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Lee Mackinnon]] • [[e-flux]]
  
 “I have elsewhere considered love from the point of view of two technical systems of delivery and distribution that reflect this split between a temporal, calculable, analog discourse, and an ultra-rapid, digital, and computational one.”
 

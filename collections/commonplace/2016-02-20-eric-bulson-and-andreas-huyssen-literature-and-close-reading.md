@@ -6,9 +6,10 @@ title: Literature and Close Reading
 publication: Los Angeles Review of Books
 link: http://lareviewofbooks.org/interview/literature-and-close-reading/
 date: 2016-02-20
+permalink: 
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Eric Bulson]] • [[Andreas Huyssen]] • [[Los Angeles Review of Books]]
  
 “ANDREAS HUYSSEN, whose name is widely recognized, though regularly mispronounced and misspelled, has been writing about modernism and postmodernism for more years than he’d like to admit. At Columbia University, he continues to teach a legendary course on Frankfurt School Critical Theory — a major body of work by 20th-century German intellectuals — that confounds, inspires, and enlightens undergraduate and graduate students alike. I was among those lucky enough to watch him unpack Georg Lukács’s masterpiece, History and Class Consciousness, and follow it up with a robust explanation for why the debates about aesthetics and politics between Lukács and Theodor Adorno, Walter Benjamin, and Bertolt Brecht, are as urgent today as ever.”
 

@@ -6,9 +6,10 @@ title: Political Vernaculars
 publication: The New Inquiry
 link: http://thenewinquiry.com/essays/political-vernaculars-freedom-and-love/
 date: 2016-03-14
+permalink: 2016/03/14/keguro-macharia-political-vernaculars
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Keguro Macharia]] • [[The New Inquiry]]
  
 “New languages untethered to the state can help us imagine how we want to live with each other”
 

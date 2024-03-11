@@ -6,9 +6,10 @@ title: Remembering, Repeating and Working-Through
 publication: Marxists
 link: https://www.marxists.org/reference/subject/philosophy/works/at/catharsis.htm
 date: 2016-03-05
+permalink: 2016/03/05/sigmund-freud-remembering-repeating-and-working-through
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Sigmund Freud]] • [[Marxists]]
  
 “the doctor uncovers the resistances which are unknown to the patient; when these have been got the better of, the patient often relates the forgotten situations and connections without any difficulty”
 

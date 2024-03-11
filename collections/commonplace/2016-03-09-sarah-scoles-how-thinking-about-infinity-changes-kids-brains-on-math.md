@@ -6,9 +6,10 @@ title: How Thinking About Infinity Changes Kids’ Brains on Math
 publication: Aeon
 link: https://aeon.co/opinions/how-thinking-about-infinity-changes-kids-brains-on-math
 date: 2016-03-09
+permalink: 2016/03/09/sarah-scoles-how-thinking-about-infinity-changes-kids-brains-on-math
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Sarah Scoles]] • [[Aeon]]
  
 “According to the constructivist philosophy of education, built on the ideas of the late philosopher Ernst von Glasersfeld, this experience altered my brain’s perception of mathematics, even though it didn’t involve doing math in the traditional sense.”
 

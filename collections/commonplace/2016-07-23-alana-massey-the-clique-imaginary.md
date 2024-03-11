@@ -6,9 +6,10 @@ title: The Clique Imaginary
 publication: The New Inquiry
 link: http://thenewinquiry.com/essays/the-clique-imaginary/
 date: 2016-07-23
+permalink: 2016/07/23/alana-massey-the-clique-imaginary
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Alana Massey]] • [[The New Inquiry]]
  
 “outsiders are preoccupied with how the members of the clique perceive them, while clique members are not preoccupied with outsiders at all”
 

@@ -6,9 +6,10 @@ title: A Priori and A Posteriori
 publication: Internet Encyclopedia of Philosophy
 link: http://www.iep.utm.edu/apriori/
 date: 2016-02-05
+permalink: 2016/02/05/jason-baehr-a-priori-and-a-posteriori
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Jason Baehr]] • [[Internet Encyclopedia of Philosophy]]
  
 “The terms "a priori" and "a posteriori" are used primarily to denote the foundations upon which a proposition is known.”
 

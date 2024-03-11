@@ -6,9 +6,10 @@ title: When a Video Game's World Ends
 publication: The Atlantic
 link: http://www.theatlantic.com/entertainment/archive/2016/01/when-a-video-game-world-ends/423360/
 date: 2016-01-15
+permalink: 2016/01/15/will-partin-when-a-video-games-world-ends
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Will Partin]] • [[The Atlantic]]
  
 “In English, the word “apocalypse”—ety. Greek, n. apo (un-) + kaluptein (-veil)—has three non-exclusive meanings.”
 

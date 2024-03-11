@@ -6,9 +6,10 @@ title: A Better Way to Parent Than the Nuclear Family
 publication: Aeon
 link: https://aeon.co/opinions/there-is-a-better-way-to-parent-than-the-nuclear-family
 date: 2016-02-24
+permalink: 2016/02/24/vicki-larson-a-better-way-to-parent-than-the-nuclear-family
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Vicki Larson]] • [[Aeon]]
  
 “Is the nuclear family all it’s cracked up to be?”
 

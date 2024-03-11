@@ -6,9 +6,10 @@ title: On Kant
 publication: Marxists
 link: https://www.marxists.org/reference/archive/hegel/works/hp/hpkant.htm
 date: 2016-02-04
+permalink: 2016/02/04/g-w-f-hegel-on-kant
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[G. W. F. Hegel]] • [[Marxists]]
  
 “The philosophy of Kant has in the first place a direct relation to that of Hume as stated above (p. 370). That is to say, the significance of the Kantian philosophy, generally expressed, is from the very beginning to allow that determinations such as those of universality and necessity are not to be met with in perception, and this Hume has already shown in relation to Locke.”
 

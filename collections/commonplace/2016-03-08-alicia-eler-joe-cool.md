@@ -6,9 +6,10 @@ title: Joe Cool
 publication: The New Inquiry
 link: http://thenewinquiry.com/essays/joe-cool/
 date: 2016-03-08
+permalink: 2016/03/08/alicia-eler-joe-cool
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Alicia Eler]] • [[The New Inquiry]]
  
 “Why isn’t the popular grocery store Trader Joe’s on social media?”
 

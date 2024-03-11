@@ -6,9 +6,10 @@ title: What Does Greimas's Semiotic Square Really Do?
 publication: Mosaic
 link: https://www.jstor.org/stable/44030128
 date: 2016-03-10
+permalink: 2016/03/10/john-j-corso-what-does-greimas-semiotic-square-really-do
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[John J. Corso]] • [[Mosaic]]
  
 Semiotician A.J. Greimas introduced the semiotic square to consider semiotic relationships (and constraints) between binary terms. Literary, art, and music critics have seized upon the procedure to analyze actants, narrative structures, and discursive paradigms. This essay argues that current literature ignores the visual aspects of the square. 
 

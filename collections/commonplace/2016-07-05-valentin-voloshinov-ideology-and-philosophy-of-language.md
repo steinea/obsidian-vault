@@ -6,9 +6,10 @@ title: Ideology and Philosophy of Language
 publication: Marxists
 link: https://www.marxists.org/archive/voloshinov/1929/marxism-language.htm
 date: 2016-07-05
+permalink: 2016/07/05/valentin-voloshinov-ideology-and-philosophy-of-language
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Valentin Voloshinov]] • [[Marxists]]
  
 “Valentin Nikolaevich Voloshinov
 

@@ -6,9 +6,10 @@ title: The Political Economy of Hunger
 publication: Libcom
 link: https://libcom.org/blog/political-economy-hunger-17112014
 date: 2016-01-28
+permalink: 2016/01/28/out-of-the-woods-the-political-economy-of-hunger
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Out of the Woods]] • [[Libcom]]
  
 “Why do people go hungry?”
 

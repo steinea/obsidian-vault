@@ -6,9 +6,10 @@ title: Pajama Rich
 publication: Real Life
 link: http://reallifemag.com/pajama-rich/
 date: 2016-08-30
+permalink: 2016/08/30/moira-weigel-pajama-rich
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Moira Weigel]] • [[Real Life]]
  
 “The size of the market for athleisure — a coinage officially adopted into Merriam-Webster’s lexicon this April — grew five percent each year between 2009 and 2014, from $54 billion to $68 billion.”
 

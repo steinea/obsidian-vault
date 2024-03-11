@@ -6,9 +6,10 @@ title: It’s the Halves that Halve You in Half
 publication: Like Crazy
 link: https://www.imdb.com/title/tt1758692/
 date: 2016-04-25
+permalink: 2016/04/25/drake-doremus-its-the-halves-that-halve-you-in-half
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Drake Doremus]] • [[Like Crazy]]
  
 Anna, Like Crazy
  

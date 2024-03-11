@@ -6,9 +6,10 @@ title: The Secular Psalmist
 publication: The New Yorker
 link: http://www.newyorker.com/magazine/2016/01/04/like-a-prayer
 date: 2016-01-08
+permalink: 2016/01/08/james-wood-the-secular-psalmist
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[James Wood]] • [[The New Yorker]]
  
 “When we encounter a natural style, Pascal says, we are surprised and delighted, because we expected to find an author and instead found a man.”
 

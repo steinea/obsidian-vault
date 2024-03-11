@@ -6,9 +6,10 @@ title: Bildungsroman in the Postmodern Era
 publication: Los Angeles Review of Books
 link: https://lareviewofbooks.org/review/bildungsroman-in-the-postmodern-era/
 date: 2016-03-22
+permalink: 2016/03/22/dehn-gilmore-bildungsroman-in-the-postmodern-era
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Dehn Gilmore]] • [[Los Angeles Review of Books]]
  
 “studies briefly with a Buddhist guru, whose advice is to “[e]xamine every thought, desire, sensation until you fully understand its source. Expect nothing from the world. Then you will naturally wake up to your true state.””
 

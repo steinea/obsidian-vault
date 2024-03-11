@@ -6,9 +6,10 @@ title: The Last Kantian
 publication: Social Ecologies
 link: https://socialecologies.wordpress.com/2016/12/03/ernst-cassirer-the-last-kantian/
 date: 2016-12-03
+permalink: 2016/12/03/s-c-hickman-the-last-kantian
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[S. C. Hickman]] • [[Social Ecologies]]
  
 “Cassirer occupies a unique place in twentieth-century philosophy. His work pays equal attention to foundational and epistemological issues in the philosophy of mathematics and natural science and to aesthetics, the philosophy of history, and other issues in the “cultural sciences” broadly conceived.”
 

@@ -6,9 +6,10 @@ title: The Diver's Clothes Lying Empty
 publication: Mud and Lotus
 link: https://mudandlotus.blogspot.com/2010/07/divers-clothes-lying-empty.html
 date: 2016-03-03
+permalink: 2016/03/03/rumi-the-divers-clothes-lying-empty
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Rumi]] • [[Mud and Lotus]]
  
 You are sitting here with us,
 <br>but you are also out walking in a field at dawn.

@@ -6,9 +6,10 @@ title: Synhoran
 publication: Truth and Method
 link: https://en.wikipedia.org/wiki/Truth_and_Method
 date: 2016-11-30
+permalink: 2016/11/30/hans-georg-gadamer-synhoran
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Hans-Georg Gadamer]] • [[Truth and Method]]
  
 συνορᾶν (synhoran)
 

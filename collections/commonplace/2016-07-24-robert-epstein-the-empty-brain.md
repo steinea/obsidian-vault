@@ -6,9 +6,10 @@ title: The Empty Brain
 publication: Aeon
 link: https://aeon.co/essays/your-brain-does-not-process-information-and-it-is-not-a-computer
 date: 2016-07-24
+permalink: 2016/07/24/robert-epstein-the-empty-brain
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Robert Epstein]] • [[Aeon]]
  
 “No matter how hard they try, brain scientists and cognitive psychologists will never find a copy of Beethoven’s 5th Symphony in the brain – or copies of words, pictures, grammatical rules or any other kinds of environmental stimuli. The human brain isn’t really empty, of course. But it does not contain most of the things people think it does – not even simple things such as ‘memories’.”
 

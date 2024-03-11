@@ -6,9 +6,10 @@ title: Why Conservatives Hate Fiscal Policy
 publication: Los Angeles Review of Books
 link: https://lareviewofbooks.org/essay/why-conservatives-hate-fiscal-policy/
 date: 2016-03-03
+permalink: 2016/03/03/tom-streithorst-why-conservatives-hate-fiscal-policy
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Tom Streithorst]] • [[Los Angeles Review of Books]]
  
 “Obstinate ignorance is usually a manifestation of underlying political motives.
 

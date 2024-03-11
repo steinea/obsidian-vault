@@ -6,9 +6,10 @@ title: Introduction to the Reading of Hegel
 publication: Marxists
 link: https://www.marxists.org/reference/subject/philosophy/works/fr/kojeve.htm
 date: 2016-02-25
+permalink: 2016/02/25/alexandre-kojeve-introduction-to-the-reading-of-hegel
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Alexandre Kojève]] • [[Marxists]]
  
 “Alexandre Kojève (1934)
 

@@ -6,9 +6,10 @@ title: Just Deserts
 publication: Boston Review
 link: http://bostonreview.net/made-america/claude-fischer-just-deserts
 date: 2016-09-03
+permalink: 2016/09/03/claude-s-fischer-just-deserts
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Claude S. Fischer]] • [[Boston Review]]
  
 “This puzzle recalls the hoary question of why there is no socialism in America. Why is the United States distinctive among Western nations in the weakness of its labor movement, absence of universal health care and other public goods, and reluctance to redistribute income where the elderly are not concerned?”
 

@@ -6,9 +6,10 @@ title: How to Be a Writer
 publication: Literary Hub
 link: https://lithub.com/how-to-be-a-writer-10-tips-from-rebecca-solnit/
 date: 2016-11-26
+permalink: 2016/11/26/rebecca-solnit-how-to-be-a-writer
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Rebecca Solnit]] • [[Literary Hub]]
  
 1) Write. There is no substitute. Write what you most passionately want to write, not blogs, posts, tweets or all the disposable bubblewrap in which modern life is cushioned. But start small: write a good sentence, then a good paragraph, and don’t be dreaming about writing the great American novel or what you’ll wear at the awards ceremony because that’s not what writing’s about or how you get there from here. The road is made entirely out of words. Write a lot. Maybe at the outset you’ll be like a toddler—the terrible twos are partly about being frustrated because you’re smarter than your motor skills or your mouth, you want to color the picture, ask for the toy, and you’re bumbling, incoherent and no one gets it, but it’s not only time that gets the kid onward to more sophistication and skill, it’s effort and practice. Write bad stuff because the road to good writing is made out of words and not all of them are well-arranged words.
 

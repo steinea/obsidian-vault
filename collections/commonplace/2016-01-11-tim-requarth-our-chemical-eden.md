@@ -6,9 +6,10 @@ title: Our Chemical Eden
 publication: Aeon
 link: https://aeon.co/essays/why-life-is-not-a-thing-but-a-restless-manner-of-being
 date: 2016-01-11
+permalink: 2016/01/11/tim-requarth-our-chemical-eden
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Tim Requarth]] • [[Aeon]]
  
 “Russell posited a whole new geological phenomenon to explain it: undersea hydrothermal hotspots where mineral-rich water spewed from Earth’s interior and then precipitated in the cool surrounding water, creating chemical gardens of towering, hollow rocks growing up from the ocean floor.
 

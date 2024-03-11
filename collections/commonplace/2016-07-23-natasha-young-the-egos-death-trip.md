@@ -6,9 +6,10 @@ title: The Ego’s Death Trip
 publication: The New Inquiry
 link: http://thenewinquiry.com/essays/the-egos-death-trip/
 date: 2016-07-23
+permalink: 2016/07/23/natasha-young-the-egos-death-trip
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Natasha Young]] •[[The New Inquiry]]
  
 “Having only ever taken psilocybin mushrooms once, I set about attempting to understand ego death by consulting Hamilton Morris, psychedelics expert and resident pharmacopoeia correspondent for Vice. He described ego death as “a very complex and strange thing that involves, at least, loss of consciousness, like washing away into a black ocean of unconsciousness, then coming back and not really knowing where you were or what happened. You could just as easily call it being reborn, but you don’t need to call it anything. There is no word to describe it — who knows what it is? It’s a pharmacological fact and no language will ever describe what it is accurately. It’s a neurochemical change.””
 

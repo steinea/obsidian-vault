@@ -6,9 +6,10 @@ title: Existence Precedes Essence
 publication: Wikipedia
 link: https://en.wikipedia.org/wiki/Existence_precedes_essence
 date: 2016-01-07
+permalink: 2016/01/07/jean-paul-sartre-existence-precedes-essence
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Jean-Paul Sartre]] • [[Wikipedia]]
  
 This article is about the existentialist phrase coined by Jean-Paul Sartre. For the transcendent theosophy founder, see Mulla Sadra.
 

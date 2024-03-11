@@ -6,9 +6,10 @@ title: What Have We Done
 publication: Boston Review
 link: http://bostonreview.net/poetry/sherod-santos-david-baker-scavenger-loop
 date: 2016-07-08
+permalink: 2016/07/08/sherod-santos-what-have-we-done
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Sherod Santos]] • [[Boston Review]]
  
 “Why not, David Baker asks, express ideas in such a way that we perceive them as sensations? That we comprehend them not as argument or discourse or information but as lived experience—“thought through my eyes,” as Joyce described it—closing the gap in that binary divide.”
 

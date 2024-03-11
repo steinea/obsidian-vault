@@ -6,9 +6,10 @@ title: Bernie's Rage Against the Machine
 publication: The Atlantic
 link: http://www.theatlantic.com/politics/archive/2016/03/bernies-rage-against-the-machine/473763/
 date: 2016-03-15
+permalink: 2016/03/15/christopher-d-cook-bernies-rage-against-the-machine
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Christopher D. Cook]] • [[The Atlantic]]
  
 “Whether he wins the Democratic Party nomination or not—and his chances are increasingly viable—the candidacy of Bernie Sanders has already won, by vastly enlarging America’s political conversation and possibilities.”
 

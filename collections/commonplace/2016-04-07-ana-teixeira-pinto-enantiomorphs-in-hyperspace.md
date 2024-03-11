@@ -6,9 +6,10 @@ title: Enantiomorphs in Hyperspace
 publication: e-flux
 link: http://www.e-flux.com/journal/enantiomorphs-in-hyperspace-living-and-dying-on-the-fourth-dimension/
 date: 2016-04-07
+permalink: 2016/04/07/ana-teixeira-pinto-enantiomorphs-in-hyperspace
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Ana Teixeira Pinto]] • [[e-flux]]
  
 “Space is the order of the coexistence of bodies, just as time is nothing other than the order of the succession of events.”
 

@@ -6,9 +6,10 @@ title: Normative Commitments
 publication: Los Angeles Review of Books
 link: https://lareviewofbooks.org/article/normative-commitments-a-philosophical-vision-for-the-study-of-religion/
 date: 2016-09-06
+permalink: 2016/09/06/raphael-magarik-normative-commitments
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Raphael Magarik]] • [[Los Angeles Review of Books]]
  
 “How can public universities teach theology if they are forbidden from endorsing particular theological claims?”
 

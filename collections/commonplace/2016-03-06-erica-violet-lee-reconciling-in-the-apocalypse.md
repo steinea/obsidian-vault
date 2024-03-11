@@ -6,9 +6,10 @@ title: Reconciling in the Apocalypse
 publication: Canadian Centre for Policy Alternatives
 link: https://www.policyalternatives.ca/publications/monitor/reconciling-apocalypse
 date: 2016-03-06
+permalink: 2016/03/06/erica-violet-lee-reconciling-in-the-apocalypse
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Erica Violet Lee]] • [[Canadian Centre for Policy Alternatives]]
  
 “few have an understanding of what it means to practice reconciliation in the face of ongoing colonialism”
 

@@ -6,9 +6,10 @@ title: The Deep Space of Digital Reading
 publication: Nautilus
 link: http://nautil.us/issue/32/space/the-deep-space-of-digital-reading
 date: 2016-01-07
+permalink: 2016/01/07/paul-la-farge-the-deep-space-of-digital-reading
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Paul La Farge]] • [[Nautilus]]
  
 “In A History of Reading, the Canadian novelist and essayist Alberto Manguel describes a remarkable transformation of human consciousness, which took place around the 10th century A.D.: the advent of silent reading. Human beings have been reading for thousands of years, but in antiquity, the normal thing was to read aloud.”
 

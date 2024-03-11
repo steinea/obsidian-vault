@@ -6,9 +6,10 @@ title: Tinderization of Feeling
 publication: The New Inquiry
 link: http://thenewinquiry.com/essays/tinderization-of-feeling/
 date: 2016-01-14
+permalink: 2016/01/14/alicia-eler-eve-peyser-tinderization-of-feeling
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Alicia Eler]] • [[Eve Peyser]] • [[The New Inquiry]]
  
 “LIVING with a sense of overwhelming choice means exerting an insane amount of emotional energy in making the most banal decisions. What should you watch on Hulu tonight? Make a Facebook status asking for recommendations. Tweet the question to your followers. After perusing for an hour, settle comfortably into Seinfeld, which you’ve seen a million times before. Wonder whether you made the wrong choice. Do it again anyway. There is some comfort in sameness.”
 

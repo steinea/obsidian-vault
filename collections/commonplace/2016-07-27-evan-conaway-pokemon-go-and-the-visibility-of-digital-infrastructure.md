@@ -6,9 +6,10 @@ title: Pokémon Go and the Visibility of Digital Infrastructure
 publication: Platypus
 link: http://blog.castac.org/2016/07/pokemon-go/
 date: 2016-07-27
+permalink: 2016/07/27/evan-conaway-pokemon-go-and-the-visibility-of-digital-infrastructure
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Evan Conaway]] • [[Platypus]]
  
 “The material lives of servers are normally hidden for the average Internet user. We have our own machines to use and care for, and we have a basic understanding that there are some other machines maintained by someone, housed in some place, doing something. As sociologist Susan Leigh Star remarked in her famous call for the closer ethnographic examination of ‘boring things’ like servers: “[Infrastructure] is by definition invisible, part of the background of other kinds of work” (1999, 380). With the rapid and nearly global explosion of Pokémon GO, I think we are seeing an emergence of very real, popular attempts to visualize and represent server infrastructure, to make vague grasps at one of the many strange, yet familiar black boxes in our everyday experiences of digital interconnectedness.”
 

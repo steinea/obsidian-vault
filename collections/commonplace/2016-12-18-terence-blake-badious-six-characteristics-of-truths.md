@@ -6,9 +6,10 @@ title: Badiou’s Six Characteristics of Truths
 publication: Agent Swarm
 link: https://terenceblake.wordpress.com/2016/12/18/badious-inquiry-1-six-characteristics-of-truths/
 date: 2016-12-18
+permalink: 2016/12/18/terence-blake-badious-six-characteristics-of-truths
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Terence Blake]] • [[Agent Swarm]]
  
 Badiou explicitly calls his research in view of writing a third book to complete the system begun with BEING AND EVENT and continued with LOGICS OF WORLDS an “inquiry“. The first two books constituted an “analytic“, but the third book requires a “conversion”. He is no longer deducing the conditions of possibility of truths from the point of view of their being (ontology) or of their appearing in a world (phenomenology). He is concerned in this third stage of his with exploring what a world is when examined from the point of view of a truth. Given his emphasis that a truth is a practice we can perhaps call this a pragmatic conversion, but Badiou himself does not use this term.
 

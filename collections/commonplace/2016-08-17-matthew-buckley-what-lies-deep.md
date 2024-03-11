@@ -6,9 +6,10 @@ title: What Lies Deep
 publication: Boston Review
 link: http://bostonreview.net/books-ideas/matthew-buckley-search-new-physics-cern-part-7
 date: 2016-08-17
+permalink: 2016/08/17/matthew-buckley-what-lies-deep
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Matthew Buckley]] •[[Boston Review]]
  
 “The Standard Model, as I have explained, requires a Higgs field: a field with a nonzero value everywhere that allows the matter (fermion) fields and W and Z bosons to gain masses and that creates electromagnetism by mixing up the weak and hypercharge forces (breaking their gauge symmetries).”
 

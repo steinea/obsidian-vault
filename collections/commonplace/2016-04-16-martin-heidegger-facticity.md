@@ -6,9 +6,10 @@ title: Facticity
 publication: Wikipedia
 link: https://en.wikipedia.org/w/index.php?title=Facticity&oldid=706533128
 date: 2016-04-16
+permalink: 2016/04/16/martin-heidegger-facticity
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Martin Heidegger]] • [[Wikipedia]]
  
 Facticity
 

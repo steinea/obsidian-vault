@@ -6,9 +6,10 @@ title: Gravitational Waves Exist
 publication: The New Yorker
 link: http://www.newyorker.com/tech/elements/gravitational-waves-exist-heres-how-scientists-finally-found-them
 date: 2016-02-15
+permalink: 2016/02/15/nicola-twilley-gravitational-waves-exist
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Nicola Twilley]] • [[The New Yorker]]
  
 “Just over a billion years ago, many millions of galaxies from here, a pair of black holes collided. They had been circling each other for aeons, in a sort of mating dance, gathering pace with each orbit, hurtling closer and closer. By the time they were a few hundred miles apart, they were whipping around at nearly the speed of light, releasing great shudders of gravitational energy. Space and time became distorted, like water at a rolling boil. In the fraction of a second that it took for the black holes to finally merge, they radiated a hundred times more energy than all the stars in the universe combined.”
 

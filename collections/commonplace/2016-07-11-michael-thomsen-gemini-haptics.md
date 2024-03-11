@@ -6,9 +6,10 @@ title: Gemini Haptics
 publication: Real Life
 link: http://reallifemag.com/gemini-haptics/
 date: 2016-07-11
+permalink: 2016/07/11/michael-thomsen-gemini-haptics
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Michael Thomsen]] • [[Real Life]]
  
 “Owning a new computer never seems to satisfy the desire for one. It’s like committing to a different arranged marriage every few years out of a belief in the institution itself rather than any potential partner. They induce a hopefulness that’s out of step with their day-to-day use.”
 

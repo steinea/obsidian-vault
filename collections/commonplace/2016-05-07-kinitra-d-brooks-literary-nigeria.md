@@ -6,9 +6,10 @@ title: Literary Nigeria
 publication: Los Angeles Review of Books
 link: https://lareviewofbooks.org/review/the-multiple-pasts-presents-and-futures-of-nnedi-okorafors-literary-nigeria/
 date: 2016-05-07
+permalink: 2016/05/07/kinitra-d-brooks-literary-nigeria
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Kinitra D. Brooks]] • [[Los Angeles Review of Books]]
  
 “The aliens in Lagoon embody change. Their superior technologies and ability to heal humans and shapeshift into multiple beings affects every living creature in Lagos — from the swordfish in the sea to the bats hurling through the air to the tarantula scurrying across the highway to the citizens of Lagos, with whom we spend the most time as Ayodele forecasts The Arrival.”
 

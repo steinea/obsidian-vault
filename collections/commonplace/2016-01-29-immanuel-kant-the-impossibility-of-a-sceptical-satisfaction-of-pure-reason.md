@@ -6,9 +6,10 @@ title: The Impossibility of a Sceptical Satisfaction of Pure Reason
 publication: Marxists
 link: https://www.marxists.org/reference/subject/ethics/kant/reason/ch04.htm
 date: 2016-01-29
+permalink: 2016/01/29/immanuel-kant-the-impossibility-of-a-sceptical-satisfaction-of-pure-reason
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Immanuel Kant]] • [[Marxists]]
  
 “All ignorance is either ignorance of things or of the functions and limits of knowledge.”
 

@@ -6,9 +6,10 @@ title: Towards the New Realism
 publication: e-flux
 link: http://www.e-flux.com/journal/77/77109/towards-the-new-realism/
 date: 2016-11-01
+permalink: 2016/11/01/boris-groys-towards-the-new-realism
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Boris Groys]] • [[e-flux]]
  
 “Recently we have seen a growing interest in realism, which for a long time seemed historically passé.”
 

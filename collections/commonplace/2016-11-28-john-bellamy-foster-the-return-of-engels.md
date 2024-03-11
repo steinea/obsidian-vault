@@ -6,9 +6,10 @@ title: The Return of Engels
 publication: Jacobin
 link: https://www.jacobinmag.com/2016/11/engels-marx-ecology-climate-crisis-materialism/
 date: 2016-11-28
+permalink: 2016/11/28/john-bellamy-foster-the-return-of-engels
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[John Bellamy Foster]] • [[Jacobin]]
  
 “It was Engels, McLellan contended, who had introduced positivism into Marxism”
 

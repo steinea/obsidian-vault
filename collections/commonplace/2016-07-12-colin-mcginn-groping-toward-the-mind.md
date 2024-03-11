@@ -6,9 +6,10 @@ title: Groping Toward the Mind
 publication: New York Review of Books
 link: http://www.nybooks.com/articles/2016/06/23/groping-toward-modern-mind/
 date: 2016-07-12
+permalink: 2016/07/12/colin-mcginn-groping-toward-the-mind
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Colin McGinn]] • [[New York Review of Books]]
  
 “There are three things that might be meant by “the emergence of the modern mind”:”
 

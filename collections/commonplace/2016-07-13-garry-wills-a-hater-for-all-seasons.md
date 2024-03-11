@@ -6,9 +6,10 @@ title: A Hater for All Seasons
 publication: New York Review of Books
 link: http://www.nybooks.com/daily/2016/06/29/trump-eliot-objective-correlatives-hater-for-all-seasons/
 date: 2016-07-13
+permalink: 2016/07/13/garry-wills-a-hater-for-all-season
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Garry Wills]] • [[New York Review of Books]]
  
 “T. S. Eliot popularized the notion of “an objective correlative”—what he described as “a set of objects, a situation, a chain of events” that becomes the “formula” that anchors what would otherwise just be fugitive emotions of fear, suspicion, and belief. Eliot was speaking in aesthetic terms, where the objective correlative was not meant to convey truths but to carry instantly felt emotions. This is a form of artistry that, translated into the realm of political speech, Trump has mastered. He partly disguises but enhances the force of a whole series of interlocking hates—black hate, Muslim hate, woman hate, and “Mexican” hate—by giving each an objective correlative.”
 

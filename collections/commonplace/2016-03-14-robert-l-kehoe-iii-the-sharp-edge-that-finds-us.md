@@ -6,9 +6,10 @@ title: The Sharp Edge That Finds Us
 publication: Los Angeles Review of Books
 link: https://lareviewofbooks.org/review/the-sharp-edge-that-finds-us-edward-mendelsons-moral-agents-and-the-question-what-is-man/
 date: 2016-03-14
+permalink: 2016/03/14/robert-l-kehoe-iii-the-sharp-edge-that-finds-us
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Robert L. Kehoe III]] • [[Los Angeles Review of Books]]
  
 “In his essay “The Sharp Edge of Life,” Saul Bellow argued, “The great issue of fiction is the stature of characters. It starts with something like the Psalmist’s question, ‘What is man that though art mindful of him?’ Responses range from ‘a little lower than the angels’ to ‘a poor bare, forked animal.’” Today we could add to that range of responses, featuring various utopian or apocalyptic suppositions about our shared natural or digital future. But interestingly enough, it seems that contemporary literary criticism has less to say about our expanding range of answers than it does about the presumed futility of the question.”
 

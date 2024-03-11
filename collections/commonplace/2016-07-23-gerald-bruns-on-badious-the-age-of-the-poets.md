@@ -6,9 +6,10 @@ title: On Badiou's The Age of the Poets
 publication: Notre Dame Philosophical Review
 link: https://ndpr.nd.edu/news/66649-the-age-of-the-poets-and-other-writings-on-twentieth-century-poetry-and-prose/
 date: 2016-07-23
+permalink: 2016/07/23/gerald-bruns-on-badious-the-age-of-the-poets
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Gerald Bruns]] • [[Notre Dame Philosophical Reviews]]
  
 “Badiou's touchstone is Stéphane Mallarmé (1842-98), specifically Mallarmé's conception of la poésie pur in which the poem is no longer a form of mediation but a materialization of language whose words are scattered as if by chance across the white space of the printed page.”
 

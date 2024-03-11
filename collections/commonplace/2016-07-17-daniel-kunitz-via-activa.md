@@ -6,9 +6,10 @@ title: Via Activa
 publication: The Paris Review
 link: http://www.theparisreview.org/blog/2016/07/12/via-activa/
 date: 2016-07-17
+permalink: 2016/07/17/daniel-kunitz-via-activa
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Daniel Kunitz]] •[[The Paris Review]]
  
 “At our best, we emulated the Review's founder and editor, George Plimpton, who, I now see, was an exemplar of a mid-twentieth-century ideal of vigorous masculinity.”
 

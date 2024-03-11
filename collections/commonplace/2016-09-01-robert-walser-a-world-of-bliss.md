@@ -6,9 +6,10 @@ title: A World of Bliss
 publication: New York Review of Books
 link: http://www.nybooks.com/daily/2016/09/01/a-world-of-bliss-girlfriends-ghosts-and-other-stories/
 date: 2016-09-01
+permalink: 2016/09/01/robert-walser-a-world-of-bliss
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Robert Walser]] • [[New York Review of Books]]
  
 “Yet everything in the world that enchants the mind and delights the soul has its limits, as does, fortunately, all that inspires fear and anxiety.”
 

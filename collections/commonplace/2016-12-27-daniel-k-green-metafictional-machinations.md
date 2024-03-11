@@ -6,9 +6,10 @@ title: Metafictional Machinations
 publication: Los Angeles Review of Books
 link: https://lareviewofbooks.org/article/metafictional-machinations-william-luvaass-beneath-coyote-hills/
 date: 2016-12-27
+permalink: 2016/12/27/daniel-k-green-metafictional-machinations
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Daniel K. Green]] • [[Los Angeles Review of Books]]
  
 “WILLIAM LUVAAS is probably best known for his 2013 book Ashes Rain Down, a linked collection of stories depicting a mountain community trying to subsist in a near future in which climate change has wreaked its havoc and the world order has apparently collapsed.”
 

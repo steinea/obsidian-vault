@@ -6,9 +6,10 @@ title: Evidence Rebuts Chomsky's Theory of Language Learning
 publication: Scientific American
 link: http://www.scientificamerican.com/article/evidence-rebuts-chomsky-s-theory-of-language-learning/
 date: 2016-10-16
+permalink: 2016/10/16/paul-ibbotson-evidence-rebuts-chomskys-theory-of-language-learning
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Paul Ibbotson]] • [[Scientific American]]
  
 “The research suggests a radically different view, in which learning of a child’s first language does not rely on an innate grammar module.”
 

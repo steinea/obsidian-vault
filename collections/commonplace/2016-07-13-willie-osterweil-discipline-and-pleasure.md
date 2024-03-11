@@ -1,14 +1,15 @@
 ---
 layout: entry
 category: commonplace
-author: Willie Osterweil
+author: Vicky Osterweil
 title: Discipline and Pleasure
 publication: The New Inquiry
 link: http://thenewinquiry.com/essays/discipline-and-pleasure/
 date: 2016-07-13
+permalink: 2016/07/13/vicky-osterweil-discipline-and-pleasure
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Vicky Osterweil]] • [[The New Inquiry]]
  
 “DEPRESSION and addiction are hard to distinguish when they happen simultaneously; they seem to overlap and reinforce each other, becoming an endless cycle.”
 

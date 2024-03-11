@@ -2,13 +2,14 @@
 layout: entry
 category: commonplace
 author: Julia S. Falk
-title: William Dwight Whitney
+title: On William Dwight Whitney
 publication: American National Biography
 link: https://www.anb.org/view/10.1093/anb/9780198606697.001.0001/anb-9780198606697-e-1400696#anb-9780198606697-e-1400696
 date: 2016-01-01
+permalink: 2016/01/01/julia-s-falk-on-william-dwight-whitney
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Julia S. Falk]] • [[American National Biography]]
  
 William Dwight Whitney. Albumen silver print, c. 1868, by Garrett Brothers.
 

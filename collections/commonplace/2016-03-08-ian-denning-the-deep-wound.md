@@ -6,9 +6,10 @@ title: The Deep Wound
 publication: Los Angeles Review of Books
 link: https://lareviewofbooks.org/review/the-deep-wound/
 date: 2016-03-08
+permalink: 2016/03/08/ian-denning-the-deep-wound
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Ian Denning]] • [[Los Angeles Review of Books]]
  
 “Matt Bell’s book-length essay Baldur’s Gate II: Shadows of Amn is a book about shame. Using a playthrough of the eponymous Dungeons & Dragons computer game as a framework, Bell explores his history with D&D, fantasy, and computer games, and the friction between his fantasy life and his literary life”
 

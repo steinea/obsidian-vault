@@ -6,9 +6,10 @@ title: The Question Concerning Heidegger
 publication: Los Angeles Review of Books
 link: https://lareviewofbooks.org/article/question-concerning-heidegger/
 date: 2016-07-14
+permalink: 2016/07/14/richard-polt-the-question-concerning-heidegger
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Richard Polt]] • [[Los Angeles Review of Books]]
  
 “The truth in this charge is that Derrida did, in fact, question the ideal of a final account, an ultimate system — not by bombing, but by tickling and teasing.”
 

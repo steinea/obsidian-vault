@@ -6,9 +6,10 @@ title: Bearman
 publication: New York Review of Books
 link: http://www.nybooks.com/daily/2016/01/07/bearman-inarritu-the-revenant/
 date: 2016-01-08
+permalink: 2016/01/08/christopher-benfey-bearman
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Christopher Benfey]] • [[Bearman]]
  
 “This is all a bit reminiscent of the hair-raising stories of the production of Werner Herzog’s rainforest epic Aguirre, the Wrath of God, in which arduousness is felt to entail authenticity, as though the movie is a reenactment of the events it records rather than a mere Hollywood facsimile.”
 

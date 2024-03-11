@@ -6,9 +6,10 @@ title: Chaos Theory and the Logistic Map
 publication: Geoff Boeing
 link: http://geoffboeing.com/2015/03/chaos-theory-logistic-map/
 date: 2016-03-10
+permalink: 2016/03/10/geoff-boeing-chaos-theory-and-the-logistic-map
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Geoff Boeing]]
  
 “Chaos theory is a branch of mathematics that deals with nonlinear dynamical systems.”
 

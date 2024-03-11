@@ -6,9 +6,10 @@ title: Derrida's Metaphors
 publication: Los Angeles Review of Books
 link: https://lareviewofbooks.org/article/question-concerning-heidegger/
 date: 2016-07-14
+permalink: 2016/07/14/richard-polt-derridas-metaphors
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Richard Polt]] • [[Los Angeles Review of Books]]
  
 “Echoing Nietzsche’s saying that “truth is a mobile army of metaphors,” Derrida calls metaphor “the beginning of language” and says that “language itself is metaphysics.””
 

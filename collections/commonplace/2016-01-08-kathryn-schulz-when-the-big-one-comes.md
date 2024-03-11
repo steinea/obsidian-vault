@@ -6,9 +6,10 @@ title: When the Big One Comes
 publication: The New Yorker
 link: http://www.newyorker.com/tech/elements/how-to-stay-safe-when-the-big-one-comes
 date: 2016-01-08
+permalink: 2016/01/08/kathryn-schulz-when-the-big-one-comes
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Kathryn Schulz]] • [[The New Yorker]]
  
 “for journalists, or at least this one, fear is not an end in itself. At best, it is a means to an end, a way to channel emotion into action.”
 

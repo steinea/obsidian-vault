@@ -6,9 +6,10 @@ title: Baby Laughter
 publication: Aeon
 link: https://aeon.co/opinions/why-playing-peekaboo-with-babies-is-a-very-serious-matter
 date: 2016-02-26
+permalink: 2016/02/26/casper-addyman-baby-laughter
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Casper Addyman]] • [[Aeon]]
  
 “Laughter and smiles transcend barriers of age, language and culture, and babies know this better than anyone. They don’t speak our language. They don’t share our culture; and they are at least a generation younger than us. All the same, we can easily share a laugh.”
 

@@ -6,9 +6,10 @@ title: The Unconscious Is the Last Activist
 publication: Los Angeles Review of Books
 link: https://lareviewofbooks.org/interview/the-unconscious-is-the-last-activist/
 date: 2016-02-10
+permalink: 2016/02/10/cassandra-seltman-the-unconscious-is-the-last-activist
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Cassandra Seltman]] • [[Los Angeles Review of Books]]
  
 “PATRICIA GHEROVICI is a Lacanian psychoanalyst practicing in Philadelphia whose work seeks to bridge several key divides: between psychoanalysis and activism, and between the complex language of theory and the needs of a broad readership.”
 

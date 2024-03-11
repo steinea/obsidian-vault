@@ -6,9 +6,10 @@ title: Embedded Beings
 publication: Aeon
 link: https://aeon.co/ideas/embedded-beings-how-we-blended-our-minds-with-our-devices
 date: 2016-10-08
+permalink: 2016/10/08/saskia-k-nagel-peter-b-reiner-embedded-beings
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Saskia K. Nagel]] • [[Peter B. Reiner]] • [[Aeon]]
  
 “Like life itself, technologies evolve.”
 

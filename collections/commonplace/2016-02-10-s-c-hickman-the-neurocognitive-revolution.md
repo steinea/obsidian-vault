@@ -6,9 +6,10 @@ title: The Neurocognitive Revolution
 publication: Social Ecologies
 link: https://socialecologies.wordpress.com/2016/01/26/the-neurocognitive-revolution-triumph-or-undoing/
 date: 2016-02-10
+permalink: 2016/02/10/s-c-hickman-the-neurocognitive-revolution
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[S. C. Hickman]] • [[Social Ecologies]]
  
 “Donald Merlin in his Origins of the Modern Mind: Three Stages in the Evolution of Culture and Cognition (1993: see a Precise) once argued the australopithecines were limited to concrete/episodic minds: bipedal creatures able to benefit from pair-bonding, cooperative hunting, etc., but essentially of a seize-the-day mentality: the immediacy of the moment.”
 

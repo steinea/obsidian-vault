@@ -6,9 +6,10 @@ title: Systemic Neglect
 publication: The New York Times
 link: https://www.nytimes.com/2016/05/11/opinion/if-philosophy-wont-diversify-lets-call-it-what-it-really-is.html
 date: 2016-05-11
+permalink: 2016/05/11/jay-garfield-bryan-van-norden-systemic-neglect
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Jay Garfield]] • [[Bryan Van Norden]] • [[The New York Times]]
  
 The vast majority of philosophy departments in the United States offer courses only on philosophy derived from Europe and the English-speaking world. For example, of the 118 doctoral programs in philosophy in the United States and Canada, only 10 percent have a specialist in Chinese philosophy as part of their regular faculty. Most philosophy departments also offer no courses on Africana, Indian, Islamic, Jewish, Latin American, Native American or other non-European traditions. Indeed, of the top 50 philosophy doctoral programs in the English-speaking world, only 15 percent have any regular faculty members who teach any non-Western philosophy.
 

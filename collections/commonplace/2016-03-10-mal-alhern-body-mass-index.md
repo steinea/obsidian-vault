@@ -6,9 +6,10 @@ title: Body Mass Index
 publication: The New Inquiry
 link: http://thenewinquiry.com/essays/body-mass-index/
 date: 2016-03-10
+permalink: 2016/03/10/mal-ahern-body-mass-index
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Mal Ahern]] • [[The New Inquiry]]
  
 “Of all the troubles Bullock faces, her own body is rarely one of them. Like most action heroes, she’s immune to the baser functions that plague the rest of us.”
 

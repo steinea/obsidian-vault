@@ -6,9 +6,10 @@ title: Property’s Principal Corruption
 publication: New Philosopher
 link: http://www.newphilosopher.com/articles/2977/
 date: 2016-03-04
+permalink: 2016/03/04/tom-chatfield-propertys-principal-corruption
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Tom Chatfield]] • [[New Philosopher]]
  
 “If you own a property, everyone wants to know: how much is it worth; how much did you pay for it; how much has its value gone up? If you don’t own a property, they ask: will you ever be able to afford one; how much are you paying in rent; how much do you need to save to get on the housing ladder?”
 

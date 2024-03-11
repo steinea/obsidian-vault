@@ -6,9 +6,10 @@ title: How Consciousness Works
 publication: Aeon
 link: https://aeon.co/essays/how-consciousness-works-and-why-we-believe-in-ghosts
 date: 2016-07-12
+permalink: 2016/07/12/michael-graziano-how-consciousness-works
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Michael Graziano]] • [[Aeon]]
  
 “The effect is automatic: being social animals, we project awareness onto the puppet. Indeed, part of the fun of ventriloquism is experiencing the illusion while knowing, on an intellectual level, that it isn’t real.”
 

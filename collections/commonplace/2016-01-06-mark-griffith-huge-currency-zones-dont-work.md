@@ -6,9 +6,10 @@ title: Huge Currency Zones Don’t Work
 publication: Aeon
 link: https://aeon.co/opinions/huge-currency-zones-don-t-work-we-need-one-per-city
 date: 2016-01-06
+permalink: 2016/01/06/mark-griffith-huge-currency-zones-dont-work
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Mark Griffith]] • [[Aeon]]
  
 “How many currencies does the world need? Actually, let’s make this more concrete. The euro was a colossal bet on the proposition that Europe, at any rate, needs only one. You will have noticed that the experiment is going badly.”
 

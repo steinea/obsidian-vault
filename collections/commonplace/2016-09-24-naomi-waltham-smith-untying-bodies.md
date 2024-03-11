@@ -6,9 +6,10 @@ title: Untying Bodies
 publication: Los Angeles Review of Books
 link: https://lareviewofbooks.org/article/untying-bodies/
 date: 2016-09-24
+permalink: 2016/09/24/naomi-waltham-smith-untying-bodies
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Naomi Waltham-Smith]] • [[Los Angeles Review of Books]]
  
 “Kali’s third hand is what Peter Szendy would call an “effiction,” a concept he borrows from an old figure of Latin rhetoric (effictio) that denoted the head-to-toe verbal fashioning of a body.”
 

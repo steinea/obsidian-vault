@@ -6,9 +6,10 @@ title: On Gender as Soft Assembly
 publication: American Psychological Association
 link: http://www.apadivisions.org/division-39/publications/reviews/assembly.aspx
 date: 2016-07-23
+permalink: 2016/07/23/jeanne-wolff-bernstein-on-gender-as-soft-assembly
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Jeanne Wolff Bernstein]] • [[American Psychological Association]]
  
 “Harris challenges her readers to engage in their own thinking with the detailed information she provides on developmental theories, chaos theory, gender development, psycholinguistics, attachment theory and developmental psycholinguistics.”
 

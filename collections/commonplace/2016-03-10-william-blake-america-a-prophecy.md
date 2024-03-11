@@ -6,9 +6,10 @@ title: "America: A Prophecy"
 publication: Bartleby
 link: https://www.bartleby.com/235/257.html
 date: 2016-03-10
+permalink: 2016/03/10/william-blake-america-a-prophecy
 ---
-   
-[[2016]] / [[commonplace]] / 
+
+[[2016]] • [[commonplace]] • [[William Blake]] • [[Bartleby]]
       
 Preludium
 

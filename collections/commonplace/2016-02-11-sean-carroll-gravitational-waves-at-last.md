@@ -6,9 +6,10 @@ title: Gravitational Waves at Last
 publication: Preposterous Universe
 link: http://www.preposterousuniverse.com/blog/2016/02/11/gravitational-waves-at-last/
 date: 2016-02-11
+permalink: 2016/02/11/sean-carroll-gravitational-waves-at-last
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Sean Carroll]] • [[Preposterous Universe]]
  
 “Our universe is mind-bogglingly vast, complex, and subtle. It is also fantastically, indisputably knowable.”
 

@@ -6,9 +6,10 @@ title: Why Leftists Go Right
 publication: The New Yorker
 link: http://www.newyorker.com/magazine/2016/02/22/why-leftists-go-right
 date: 2016-02-17
+permalink: 2016/02/17/george-packer-why-leftists-go-right
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[George Packer]] • [[The New Yorker]]
  
 “The most common explanation is the one variously attributed to Churchill, Clemenceau, and Lloyd George: “Any man who is not a socialist at age twenty has no heart. Any man who is still a socialist at age forty has no head.” The move rightward is thus a sign of the hard wisdom that comes with age and experience—or, perhaps, the callousness and curdled dreams that accompany stability and success.”
 

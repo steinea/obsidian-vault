@@ -6,9 +6,10 @@ title: Malabou and Plasticity
 publication: Fractal Ontology
 link: https://fractalontology.wordpress.com/2016/04/08/malabou/
 date: 2016-04-08
+permalink: 2016/04/08/joseph-weissman-malabou-and-plasticity
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Joseph Weissman]] • [[Fractal Ontology]]
  
 “Catherine Malabou has created a meticulous and profound new concept of the brain.”
 

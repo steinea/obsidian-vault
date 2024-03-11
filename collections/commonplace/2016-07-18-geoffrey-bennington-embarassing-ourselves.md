@@ -6,9 +6,10 @@ title: Embarrassing Ourselves
 publication: Los Angeles Review of Books
 link: https://lareviewofbooks.org/review/embarrassing-ourselves/
 date: 2016-07-18
+permalink: 2016/07/18/geoffrey-bennington-embarassing-ourselves
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Geoffrey Bennington]] • [[Los Angeles Review of Books]]
  
 “Like other seismic events of thought, Derrida’s insight is quite simple, yet in its very simplicity hard to grasp.”
 

@@ -6,9 +6,10 @@ title: Einstein's Radical Idea
 publication: The Atlantic
 link: http://www.theatlantic.com/science/archive/2016/02/all-physics-is-local/462480/
 date: 2016-02-15
+permalink: 2016/02/15/sean-carroll-einsteins-radical-idea
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Sean Carroll]] • [[The Atlantic]]
  
 “Finding gravitational waves indicates that Einstein was (once again) right, and opens a new window onto energetic events occurring around the universe. But there’s a deeper lesson, as well: a reminder of the central importance of locality, an idea that underlies much of modern physics.”
 

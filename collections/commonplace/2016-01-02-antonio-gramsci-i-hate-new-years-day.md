@@ -6,9 +6,10 @@ title: I Hate New Year's Day
 publication: Jacobin
 link: https://www.jacobinmag.com/2016/01/antonio-gramsci-new-years-day/
 date: 2016-01-02
+permalink: 2016/01/02/antonio-gramsci-i-hate-new-years-day
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Antonio Gramsci]] • [[Jacobin]]
  
 “these New Year’s that fall like fixed maturities, which turn life and human spirit into a commercial concern with its neat final balance, its outstanding amounts, its budget for the new management.”
 

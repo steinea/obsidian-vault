@@ -6,9 +6,10 @@ title: Facebook and the New Colonialism
 publication: The Atlantic
 link: http://www.theatlantic.com/technology/archive/2016/02/facebook-and-the-new-colonialism/462393/
 date: 2016-02-12
+permalink: 2016/02/12/adrienne-lafrance-facebook-and-the-new-colonialism
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Adrienne LaFrance]] • [[The Atlantic]]
  
 ““Anti-colonialism has been economically catastrophic for the Indian people for decades,” Andreessen wrote. “Why stop now?””
 

@@ -6,9 +6,10 @@ title: Ethiopia’s Boom Times
 publication: Jacobin
 link: https://www.jacobinmag.com/2016/05/ethiopia-addis-ababa-development-midroc-amoudi/
 date: 2016-07-10
+permalink: 2016/07/10/carlos-hernandez-ethiopias-boom-times
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Carlos Hernández]] • [[Jacobin]]
  
 “Ethiopia has a new nickname: “The African Lion.” Like China (“The Asian Dragon”), Ethiopia’s economy is growing: 10 percent annually from 2003 to 2014.”
 

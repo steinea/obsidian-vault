@@ -6,9 +6,10 @@ title: A Morphology of Method
 publication: Penn State York
 link: http://www2.york.psu.edu/~jmj3/home.html
 date: 2016-03-10
+permalink: 2016/03/10/michael-jarrett-a-morphology-of-method
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Michael Jarrett]] • [[Penn State York]]
  
 All discourses on method, including this essay, share a common set of elements. Ulmer identifies them as:
 

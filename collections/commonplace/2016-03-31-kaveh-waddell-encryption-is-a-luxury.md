@@ -6,9 +6,10 @@ title: Encryption Is a Luxury
 publication: The Atlantic
 link: http://www.theatlantic.com/technology/archive/2016/03/the-digital-security-divide/475590/
 date: 2016-03-31
+permalink: 2016/03/31/kaveh-waddell-encryption-is-a-luxury
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • 
  
 “Many of the devices that run Android software have cheap or out-of-date hardware that can’t handle continuous encryption and decryption. Google recently required that all new Android devices encrypt device data by default—but exempted slower (and therefore cheaper) phones, making encryption a de-facto luxury feature.”
 

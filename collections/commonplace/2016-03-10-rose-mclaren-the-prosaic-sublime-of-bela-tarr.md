@@ -6,9 +6,10 @@ title: The Prosaic Sublime of Béla Tarr
 publication: The White Review
 link: http://www.thewhitereview.org/features/the-prosaic-sublime-of-bela-tarr/
 date: 2016-03-10
+permalink: 2016/03/10/rose-mclaren-the-prosaic-sublime-of-bela-tarr
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Rose McLaren]] • [[The White Review]]
  
 “I have to recognise it’s cosmical; the shit is cosmical. It’s not just social, it’s not just ontological, it’s really huge. And that’s why we expand. (Béla Tarr, 2007)”
 

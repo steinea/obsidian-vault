@@ -6,9 +6,10 @@ title: Contra-Internet
 publication: e-flux
 link: http://www.e-flux.com/journal/contra-internet/
 date: 2016-07-20
+permalink: 2016/07/20/zach-blas-contra-internet
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Zach Blas]] •[[e-flux]]
  
 “What does it mean to kill the internet?”
 

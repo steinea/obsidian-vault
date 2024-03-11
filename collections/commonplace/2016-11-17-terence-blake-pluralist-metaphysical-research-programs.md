@@ -6,9 +6,10 @@ title: Pluralist Metaphysical Research Programs
 publication: Agent Swarm
 link: https://terenceblake.wordpress.com/2016/11/17/pluralist-metaphysical-research-programmes-feyerabend-deleuze-laruelle-zizek-serres-stiegler-badiou-latour/
 date: 2016-11-17
+permalink: 2016/11/17/terence-blake-pluralist-metaphysical-research-programs
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Terence Blake]] • [[Agent Swarm]]
  
 “My long-term philosophical project is the critical analysis of the differing pluralist French Continental philosophies, those of Deleuze, Laruelle, Zizek, Serres, Stiegler, Badiou and Latour, as competing alternative metaphysical research programmes (in the sense proposed by Karl Popper).”
 

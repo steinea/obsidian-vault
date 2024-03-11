@@ -6,9 +6,10 @@ title: Reification
 publication: Marxists
 link: https://www.marxists.org/archive/petrovic/1965/reification.htm
 date: 2016-02-02
+permalink: 2016/02/02/gajo-petrovic-reification
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Gajo Petrović]] • [[Marxists]]
  
 “Gajo Petrović 1965
 

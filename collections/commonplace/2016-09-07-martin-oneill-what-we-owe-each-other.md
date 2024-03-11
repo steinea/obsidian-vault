@@ -6,9 +6,10 @@ title: What We Owe Each Other
 publication: Boston Review
 link: http://bostonreview.net/books-ideas/martin-oneill-tm-scanlon-inequality
 date: 2016-09-07
+permalink: 2016/09/07/martin-oneill-what-we-owe-each-other
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Martin O’Neill]] • [[Boston Review]]
  
 “What We Owe to Each Other (1998), develops and defends a distinctive approach to interpersonal morality, known as contractualism.”
 

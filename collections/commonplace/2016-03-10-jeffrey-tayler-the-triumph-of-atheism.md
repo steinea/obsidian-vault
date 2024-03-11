@@ -6,9 +6,10 @@ title: The Triumph of Atheism
 publication: Los Angeles Review of Books
 link: https://lareviewofbooks.org/review/the-triumph-of-atheism/
 date: 2016-03-10
+permalink: 2016/03/10/jeffrey-tayler-the-triumph-of-atheism
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Jeffrey Tayler]] • [[Los Angeles Review of Books]]
  
 “In short, religion, at least in the United States, is dying out with its (aging) adherents, pretty much as it has in northern Europe.”
 

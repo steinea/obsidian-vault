@@ -6,9 +6,10 @@ title: Radiohead, or the Philosophy of Pop
 publication: n+1
 link: https://nplusonemag.com/issue-3/essays/radiohead-or-philosophy-pop/
 date: 2016-07-26
+permalink: 2016/07/26/mark-greif-radiohead-or-the-philosophy-of-pop
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Mark Greif]] • [[n+1]]
  
 “Radiohead belong to “rock,” and if rock has a characteristic subject, as country music’s is small pleasures in hard times (getting by), and rap’s is success in competition (getting over), that subject must be freedom from constraint (getting free).”
 

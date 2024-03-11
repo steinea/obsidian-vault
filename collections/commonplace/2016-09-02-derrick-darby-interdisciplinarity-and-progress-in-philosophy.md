@@ -6,9 +6,10 @@ title: Interdisciplinarity and Progress in Philosophy
 publication: Daily Nous
 link: http://dailynous.com/2016/09/02/interdisciplinarity-progress-philosophy/
 date: 2016-09-02
+permalink: 2016/09/02/derrick-darby-interdisciplinarity-and-progress-in-philosophy
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Derrick Darby]] • [[Daily Nous]]
  
 “I am trying to establish an alternative to the race consciousness championed by the American left and the colorblindness defended by the American right.”
 

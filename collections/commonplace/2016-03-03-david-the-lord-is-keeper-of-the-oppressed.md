@@ -3,12 +3,13 @@ layout: entry
 category: commonplace
 author: David
 title: The Lord is Keeper of the Oppressed
-publication: Psalms
+publication: The Book of Psalms
 link: https://en.wikipedia.org/wiki/Psalm_146
 date: 2016-03-03
+permalink: 2016/03/03/david-the-lord-is-keeper-of-the-oppressed
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[David]] • [[The Book of Psalms]]
  
 God cares for the:
 

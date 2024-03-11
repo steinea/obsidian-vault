@@ -6,9 +6,10 @@ title: Quiet Powers of the Possible
 publication: Notre Dame Philosophical Reviews
 link: https://ndpr.nd.edu/reviews/quiet-powers-of-the-possible-interviews-in-contemporary-french-phenomenology/
 date: 2016-12-13
+permalink: 2016/12/13/ian-james-quiet-powers-of-the-possible
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Ian James]] • [[Notre Dame Philosophical Reviews]]
  
 Tarek R. Dika and W. Chris Hackett (eds.)
 

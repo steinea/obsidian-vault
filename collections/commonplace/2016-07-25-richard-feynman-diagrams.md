@@ -2,13 +2,14 @@
 layout: entry
 category: commonplace
 author: Richard Feynman
-title: Diagrams
+title: Feynman Diagrams
 publication: Wikipedia
 link: https://simple.wikipedia.org/w/index.php?title=Feynman_diagram&oldid=5389250
 date: 2016-07-25
+permalink: 2016/07/25/richard-feynman-diagrams
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Richard Feynman]] • [[Wikipedia]]
  
 In this Feynman diagram, an electron and positron destroy each other, producing a virtual photon which becomes a quark-antiquark pair. Then one radiates a gluon
 

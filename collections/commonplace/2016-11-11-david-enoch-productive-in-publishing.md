@@ -6,9 +6,10 @@ title: Productive in Publishing
 publication: Daily Nous
 link: http://dailynous.com/2016/11/11/productive-publishing-2-david-enoch/
 date: 2016-11-11
+permalink: 2016/11/11/david-enoch-productive-in-publishing
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[David Enoch]] • [[Daily Nous]]
  
 Yesterday, I posted an outline of Jason Brennan’s advice to graduate students on how to be productive in publishing (when you read that, do note the further details Brennan supplies in response to some of the comments). In what follows, David Enoch, the Rodney Blackman Chair in the Philosophy of Law in the Faculty of Law and the Philosophy Department at Hebrew University of Jerusalem, replies to Brennan.
 

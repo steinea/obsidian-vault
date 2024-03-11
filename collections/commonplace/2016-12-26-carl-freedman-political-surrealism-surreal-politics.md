@@ -6,9 +6,10 @@ title: Political Surrealism, Surreal Politics
 publication: Los Angeles Review of Books
 link: https://lareviewofbooks.org/article/political-surrealism-surreal-politics/
 date: 2016-12-26
+permalink: 2016/12/26/carl-freedman-political-surrealism-surreal-politics
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Carl Freedman]] • [[Los Angeles Review of Books]]
  
 “WHAT IS THE RELATIONSHIP between radical aesthetic practices and actual political radicalism?”
 

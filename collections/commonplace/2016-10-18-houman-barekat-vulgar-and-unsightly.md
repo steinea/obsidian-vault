@@ -6,9 +6,10 @@ title: Vulgar and Unsightly
 publication: Los Angeles Review of Books
 link: https://lareviewofbooks.org/article/vulgar-unsightly-adrian-nathan-wests-jaccuse-extremely-degrading-pornography/
 date: 2016-10-18
+permalink: 2016/10/18/houman-barekat-vulgar-and-unsightly
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Houman Barekat]] • [[Los Angeles Review of Books]]
  
 “West also discusses the psychological phenomenon known as repetition compulsion, in which victims of abuse feel compelled to reenact a trauma. He speculates that a significant proportion of porn actresses may well suffer from this condition, in which case the profession would amount, in effect, to an industrial-scale abusive exploitation of a self-selecting group of vulnerable people.”
 

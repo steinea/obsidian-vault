@@ -6,9 +6,10 @@ title: The Shrugged Atlas
 publication: Los Angeles Review of Books
 link: https://lareviewofbooks.org/article/the-shrugged-atlas/
 date: 2016-11-06
+permalink: 2016/11/06/geoff-nicholson-the-shrugged-atlas
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Geoff Nicholson]] • [[Los Angeles Review of Books]]
  
 “There are photographs in the book, but no maps, and in the prologue Borges writes, “Each and every man is a discoverer. He begins by discovering bitterness, saltiness, concavity, smoothness, harshness, the seven colors of the rainbow and the twenty-some letters of the alphabet; he goes on to visages, maps, animals and stars.” That strikes me as a curious order for discovering things. I’d have thought maps came well after animals and stars, though only a fool would argue with Borges.”
 

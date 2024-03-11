@@ -6,9 +6,10 @@ title: In the Eye of the Coder
 publication: Real Life
 link: http://reallifemag.com/in-the-eye-of-the-coder/
 date: 2016-07-14
+permalink: 2016/07/14/autumn-whitefield-modrano-in-the-eye-of-the-coder
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Autumn Whitefield-Modrano]] • [[Real Life]]
  
 “a definitive, quantified measure of your appeal, as measured by the computer, the ultimate objective eye, but without the inherent competitiveness of being measured against other people”
 

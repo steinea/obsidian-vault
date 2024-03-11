@@ -6,9 +6,10 @@ title: Fourth Industrial Revolution
 publication: The Guardian
 link: http://www.theguardian.com/sustainable-business/2016/sep/26/with-robots-is-a-life-without-work-one-wed-want-to-live
 date: 2016-09-26
+permalink: 2016/09/26/matthew-beard-fourth-industrial-revolution
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Matthew Beard]] • [[The Guardian]]
  
 “When Aristotle described “the complete happiness of man”, he thought it would include, among other things, “self-sufficiency, leisureliness and unweariedness”.”
 

@@ -6,9 +6,10 @@ title: The Art of Poetry No. 97
 publication: The Paris Review
 link: https://www.theparisreview.org/interviews/6189/the-art-of-poetry-no-97-susan-howe
 date: 2016-06-17
+permalink: 2016/06/17/susan-howe-the-art-of-poetry-no-97
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Susan Howe]] • [[The Paris Review]]
  
 "Howe’s work summons broad historical vistas, encompassing the violence and possibilities of the American frontier; the lost voices of Native Americans; shunned, exiled, or captive colonial-era women; scorned preachers; the New England landscape; the Adirondack wilds; domestic intimacy; and the obscured brilliance of the linguist and philosopher Charles Sanders Peirce. She is, among other things, a serious war poet"
 

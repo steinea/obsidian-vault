@@ -6,9 +6,10 @@ title: Why Does This Virus Have Spider DNA?
 publication: The Atlantic
 link: http://www.theatlantic.com/science/archive/2016/10/the-virus-with-spider-dna/503585/
 date: 2016-10-11
+permalink: 2016/10/11/ed-yong-why-does-this-virus-have-spider-dna
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Ed Yong]] • [[The Atlantic]]
  
 “If you pick a random species of insect and look inside its cells, there’s a 40 percent chance that you’ll find bacteria called Wolbachia. And if you look at Wolbachia carefully, you’ll almost certainly find a virus called WO, lying in wait within its DNA. And if you look at WO carefully, as Seth and Sarah Bordenstein, from Vanderbilt University, have done, you’ll find parts of genes that look like they come from animals—including a toxin gene that makes the bite of the black widow spider so deadly.”
 

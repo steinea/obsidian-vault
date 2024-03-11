@@ -6,9 +6,10 @@ title: The Enduring Evolution of Logic
 publication: Daily Nous
 link: http://dailynous.com/2016/07/11/enduring-evolution-logic-ferguson-priest/
 date: 2016-07-17
+permalink: 2016/07/17/thomas-ferguson-graham-priest-the-enduring-evolution-of-logic
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Thomas Ferguson]] • [[Graham Priest]] • [[Daily Nous]]
  
 “In very general terms, it is the study of what (conclusions) follows from what (premises)—logical consequence”
 

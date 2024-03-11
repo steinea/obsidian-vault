@@ -6,9 +6,10 @@ title: Revisiting <em>The Power and the Glory</em> During Lent
 publication: The Atlantic
 link: http://www.theatlantic.com/entertainment/archive/2016/02/the-power-and-the-glory-lent-graham-greene/461820/
 date: 2016-02-15
+permalink: 2016/02/15/nick-ripatrazone-revisiting-the-power-and-the-glory-during-lent
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Nick Ripatrazone]] • [[The Atlantic]]
  
 “Greene’s dark novel and its deeply flawed protagonist offer a richer way to think of faith and self-reflection—one that average Christians might find more accessible and realistic than romantic narratives about belief.”
 

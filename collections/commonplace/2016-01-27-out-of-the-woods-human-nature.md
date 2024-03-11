@@ -6,9 +6,10 @@ title: Human Nature
 publication: The New Inquiry
 link: http://thenewinquiry.com/essays/human-nature/
 date: 2016-01-27
+permalink: 2016/01/27/out-of-the-woods-human nature
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Out of the Woods]] • [[The New Inquiry]]
  
 “Although not a book on political movements, the philosopher Jason W. Moore’s Capitalism in the Web of Life: Ecology and the Accumulation of Capital seeks to analyze the root cause of this impasse for environmentalism: the widely-shared view that “the environment” is a separate and unique part of existence outside of capitalism that capitalism devalues.”
 

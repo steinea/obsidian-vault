@@ -6,9 +6,10 @@ title: Confronting Religious Revivalism
 publication: Boston Review
 link: https://bostonreview.net/forum/avishai-margalit-assaf-sharon-confronting-religious-revivalism
 date: 2016-10-10
+permalink: 2016/10/10/avishai-margalit-assaf-sharon-confronting-religious-revivalism
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Avishai Margalit]] • [[Assaf Sharon]] • [[Boston Review]]
  
 “Societies in which religion appeared to have been overcome as a political force only half a century ago are witnessing what political philosopher Michael Walzer calls a “return of the negated.” Of course, as Freud says of the repressed, the negated does not return unaltered.”
 

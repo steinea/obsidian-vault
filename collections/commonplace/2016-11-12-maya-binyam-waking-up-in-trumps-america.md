@@ -6,9 +6,10 @@ title: Waking Up in Trump’s America
 publication: The New Inquiry
 link: http://thenewinquiry.com/essays/waking-up-in-trumps-america-part-1/
 date: 2016-11-12
+permalink: 2016/11/12/maya-binyam-waking-up-in-trumps-america
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Maya Binyam]] •[[The New Inquiry]]
  
 “The imperative to ironize violence necessarily relies on the presumption that hate originates from a point of distance.”
 

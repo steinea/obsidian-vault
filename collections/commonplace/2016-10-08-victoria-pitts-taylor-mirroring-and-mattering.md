@@ -6,9 +6,10 @@ title: Mirroring and Mattering
 publication: Los Angeles Review of Books
 link: https://lareviewofbooks.org/article/mirroring-and-mattering-science-politics-and-the-new-feminist-materialism/
 date: 2016-10-08
+permalink: 2016/10/08/victoria-pitts-taylor-mirroring-and-mattering
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Victoria Pitts-Taylor]] • [[Los Angeles Review of Books]]
  
 “Over the last several years, “mirror neurons” have become key players in biological research and popular discourse. They are alleged to endow our brains with a built-in capacity for empathy, mediating sociality and binding us to the suffering of others.”
 

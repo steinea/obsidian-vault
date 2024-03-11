@@ -6,9 +6,10 @@ title: Dynamic Semantics
 publication: Stanford Encyclopedia of Philosophy
 link: http://plato.stanford.edu/entries/dynamic-semantics/
 date: 2016-07-23
+permalink: 2016/07/23/rick-nouwen-dynamic-semantics
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Rick Nouwen]] • [[Stanford Encyclopedia of Philosophy]]
  
 “Dynamic semantics is a perspective on natural language semantics that emphasizes the growth of information in time.”
 

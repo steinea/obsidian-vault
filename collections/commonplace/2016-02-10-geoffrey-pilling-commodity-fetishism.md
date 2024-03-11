@@ -6,9 +6,10 @@ title: Commodity Fetishism
 publication: Marxists
 link: https://www.marxists.org/archive/pilling/works/capital/ch05.htm
 date: 2016-02-10
+permalink: 2016/02/10/geoffrey-pilling-commodity-fetishism
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Geoffrey Pilling]] • [[Marxists]]
  
 Marx's ‘Capital’, Philosophy and Political Economy by Geoffrey Pilling 1980
 

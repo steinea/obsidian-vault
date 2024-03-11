@@ -6,9 +6,10 @@ title: A Peculiar Oceanography
 publication: Los Angeles Review of Books
 link: https://lareviewofbooks.org/review/a-peculiar-oceanography/
 date: 2016-02-15
+permalink: 2016/02/15/matthew-stanley-a-peculiar-oceanography
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Matthew Stanley]] • [[Los Angeles Review of Books]]
  
 “WHEN YOU HEAR someone arguing that scientific knowledge is limited, you could be excused for expecting to find a creationist or a tobacco industry spokesperson. Instead, here we have a distinguished Ivy League physicist contending that science gives us only a fraction of reality. In The Island of Knowledge, Marcelo Gleiser wants to forge a third way between scientism and obscurantism whereby we can embrace both the power and incompleteness of science.”
 

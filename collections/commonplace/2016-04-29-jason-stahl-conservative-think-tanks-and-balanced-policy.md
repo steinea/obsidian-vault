@@ -6,9 +6,10 @@ title: Conservative Think Tanks and Balanced Policy
 publication: Aeon
 link: https://aeon.co/opinions/do-conservative-think-tanks-help-to-balance-policy-debates
 date: 2016-04-29
+permalink: 2016/04/29/jason-stahl-conservative-think-tanks-and-balanced-policy
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Jason Stahl]] • [[Aeon]]
  
 “While agreeing with these criticisms, I think they largely miss the point. To fully understand Brooks’s paean to ideological diversity, we have to understand the history of Brooks’s own institutional home: the conservative think tank.”
 

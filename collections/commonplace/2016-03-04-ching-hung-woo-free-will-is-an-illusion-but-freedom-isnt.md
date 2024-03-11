@@ -6,9 +6,10 @@ title: Free Will Is An Illusion But Freedom Isn’t
 publication: Philosophy Now
 link: https://philosophynow.org/issues/112/Free_Will_Is_An_Illusion_But_Freedom_Isnt
 date: 2016-03-04
+permalink: 2016/03/04/ching-hung-woo-free-will-is-an-illusion-but-freedom-isnt
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Ching-Hung Woo]] • [[Philosophy Now]]
  
 “All the events in the world, however, obey the law of physics, including those that happen inside a brain. If all events in the brain unfold according to classical physics, then free will in the above sense does not exist. This is because classical physics is deterministic: the state of the world at any moment is the inevitable consequence of its state at an earlier moment. Hence the alternatives are only apparently available to the decision-maker, as in fact only a single alternative is destined to be the one chosen.”
 

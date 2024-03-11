@@ -6,9 +6,10 @@ title: Afternoon of the Sex Children
 publication: n+1
 link: https://nplusonemag.com/issue-4/essays/afternoon-of-the-sex-children/
 date: 2016-07-26
+permalink: 2016/07/26/mark-greif-afternoon-of-the-sex-children
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Mark Greif]] • [[n+1]]
  
 “Not long ago I took part in one of the conversations you’re not supposed to have. It turned on whether Vladimir Nabokov, author of Lolita, really desired underage girls. The usual arguments came out: Nabokov was a master of personae, and Humbert Humbert a game to him. Kinbote, analogous narrator of Pale Fire, didn’t make you think Nabokov loved boys. The late novels were Nabokov’s allegories of the seductions of aestheticism, which transfigures the forbidden into the beautiful; or moral paintings of our acceptance of crime, when crime is presented alluringly. So love of the wrong object becomes a metaphor for art, ethics, personality, and so forth.”
 

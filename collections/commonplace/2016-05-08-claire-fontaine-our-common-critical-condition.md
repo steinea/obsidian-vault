@@ -6,9 +6,10 @@ title: Our Common Critical Condition
 publication: e-flux
 link: http://www.e-flux.com/journal/our-common-critical-condition/
 date: 2016-05-08
+permalink: 2016/05/08/claire-fontaine-our-common-critical-condition
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Claire Fontaine]] • [[e-flux]]
  
 “The adjective “critical,” which he uses here to define a condition, refers both to the medical sense of the term, as well as its philosophical sense, where “critical” comes by way of the Greek verb krino, meaning to discern, to separate things by means of the intellect.”
 

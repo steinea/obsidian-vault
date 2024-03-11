@@ -6,9 +6,10 @@ title: Brief Notes on Ideological Complicity
 publication: Triple Ampersand
 link: http://tripleampersand.org/brief-notes-ideological-complicity/
 date: 2016-09-17
+permalink: 2016/09/17/dock-angus-ramsay-currie-brief-notes-on-ideological-complicity
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Dock Angus Ramsay Currie]] • [[Triple Ampersand]]
  
 “Ideology is a cynical self defence against the subject’s inability to reconcile themselves with their social existence, the selection between ideal adaptations to the world.*”
 

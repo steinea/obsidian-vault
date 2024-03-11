@@ -6,9 +6,10 @@ title: Attention Schema Theory
 publication: The Atlantic
 link: http://www.theatlantic.com/science/archive/2016/02/phantom-limbs-explain-consciousness/459780/
 date: 2016-02-05
+permalink: 2016/02/05/michael-graziano-attention-schema-theory
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Michael Graziano]] • [[The Atlantic]]
  
 “The reason for the phantom is both simple and profound. The brain constructs a model of the self that neuroscientists call the body schema. The body schema is a simulation.”
 

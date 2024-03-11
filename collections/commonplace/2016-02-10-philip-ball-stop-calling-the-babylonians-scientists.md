@@ -6,9 +6,10 @@ title: Stop Calling the Babylonians Scientists
 publication: The Atlantic
 link: http://www.theatlantic.com/science/archive/2016/02/babylonians-scientists/462150/
 date: 2016-02-10
+permalink: 2016/02/10/philip-ball-stop-calling-the-babylonians-scientists
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Philip Ball]] • [[The Atlantic]]
  
 “We’ve never escaped the influence of the Babylonians. That there are 60 seconds in a minute, 60 minutes in an hour, and 360 degrees in a full circle, are all echoes of the Babylonian preference for counting in base 60. An affinity for base 12 (inches in a foot, pence in an old British shilling) is also an offshoot, 12 being a factor of 60.”
 

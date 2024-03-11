@@ -6,9 +6,10 @@ title: Megastructure Visions
 publication: Verso Books
 link: http://www.versobooks.com/blogs/2481-megastructure-visions-an-extract-from-last-futures
 date: 2016-02-19
+permalink: 2016/02/19/douglas-murphy-megastructure-visions
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Douglas Murphy]] • [[Verso]]
  
 “Many architectural proposals and experiments of the early 1960s were eventually gathered under the umbrella term of ‘megastructure’.”
 

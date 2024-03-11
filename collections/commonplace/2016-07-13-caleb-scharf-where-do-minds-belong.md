@@ -6,9 +6,10 @@ title: Where Do Minds Belong?
 publication: Aeon
 link: http://aeon.co/essays/intelligent-machines-might-want-to-become-biological-again
 date: 2016-07-13
+permalink: 2016/07/13/caleb-scharf-where-do-minds-belong
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Caleb Scharf]] • [[Aeon]]
  
 “If machine intelligence is the inevitable end-point of both technology and biology, then perhaps the aliens are hyper-evolved machines so off-the-charts advanced, so far removed from familiar biological forms, that we wouldn’t recognise them if we saw them.”
 

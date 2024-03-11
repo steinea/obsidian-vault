@@ -6,9 +6,10 @@ title: The Swiss Tax Haven
 publication: The Atlantic
 link: http://www.theatlantic.com/international/archive/2016/04/panama-papers-tax-havens-world/477042/
 date: 2016-05-08
+permalink: 2016/05/08/uri-friedman-the-swiss-tax-haven
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Uri Friedman]] • [[The Atlantic]]
  
 “the index is a valuable exercise in complicating binary thinking about financial secrecy—the notion that a state is either an otherworldly no- or low-tax haven, or it’s not.”
 

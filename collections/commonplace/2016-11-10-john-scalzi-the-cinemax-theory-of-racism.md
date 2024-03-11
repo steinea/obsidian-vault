@@ -6,9 +6,10 @@ title: The Cinemax Theory of Racism
 publication: Whatever
 link: http://whatever.scalzi.com/2016/11/10/the-cinemax-theory-of-racism/
 date: 2016-11-10
+permalink: 2016/11/10/john-scalzi-the-cinemax-theory-of-racism
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[John Scalzi]] • [[Whatever]]
  
 “Let’s say you want HBO. So you go to your local cable provider to get HBO and the only way they’ll let you get HBO is to sign up for a premium channel package, which includes HBO but also includes Cinemax. Now, maybe you don’t want Cinemax, and you don’t care about Cinemax, and maybe never personally plan to ever watch Cinemax, but the deal is: If you want HBO, you have to sign on to Cinemax too. You have to be a Cinemax subscriber to get HBO. And you go ahead and sign up for the premium channel package.”
 

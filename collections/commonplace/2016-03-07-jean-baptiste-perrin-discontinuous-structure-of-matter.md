@@ -6,9 +6,10 @@ title: Discontinuous Structure of Matter
 publication: Nobel Prize
 link: http://www.nobelprize.org/nobel_prizes/physics/laureates/1926/perrin-lecture.html
 date: 2016-03-07
+permalink: 2016/03/07/jean-baptiste-perrin-discontinuous-structure-of-matter
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Jean Baptiste Perrin]] • [[Nobel Prize]]
  
 “A fluid such as air or water seems to us at first glance to be perfectly homogeneous and continuous; we can put more water or less water into this glass, and the experiment seems to suggest to us that the amount of water contained in it can vary by an infinitely small amount, which is the same as saying that water is "indefinitely divisible". Similarly, a sphere of glass or of quartz, a crystal of alum, are received by our senses as being perfectly continuous, and particularly when we see this alum crystal growing in a supersaturated solution, each of the planes bounding the crystal moves parallel to itself in a continuous manner.”
 

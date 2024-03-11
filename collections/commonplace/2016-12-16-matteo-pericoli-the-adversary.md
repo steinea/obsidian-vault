@@ -6,9 +6,10 @@ title: <em>The Adversary</em>
 publication: The Paris Review
 link: https://www.theparisreview.org/blog/2016/12/16/carrere-the-adversary/
 date: 2016-12-16
+permalink: 2016/12/16/matteo-pericoli-the-adversary
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Matteo Pericoli]] • [[The Paris Review]]
  
 "*Matteo Pericoli is the founder of the Laboratory of Literary Architecture, an interdisciplinary project that looks at fiction through the lens of architecture, designing and building stories as architectural projects. In this series, he shares some of his designs and what they reveal about the stories they’re modeled on.*
   

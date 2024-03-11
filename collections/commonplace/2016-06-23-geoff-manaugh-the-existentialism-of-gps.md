@@ -6,9 +6,10 @@ title: The Existentialism of GPS
 publication: The Atlantic
 link: http://www.theatlantic.com/technology/archive/2016/06/gps-goes-adrift/487334/
 date: 2016-06-23
+permalink: 2016/06/23/geoff-manaugh-the-existentialism-of-gps
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Geoff Manaugh]] • [[The Atlantic]]
  
 ““This, we speculated, is due to the way in which these apps are recording the GPS inaccuracies and counting these as actual, physical movements,” they continued. “In reality, these odd asymmetrical star-shaped tracks offer a map of the shifts of the phone attempting to locate itself.” It is not you, then, but a mathematical error, a phantom version of yourself wandering in the blind spots of military satellites.”
 

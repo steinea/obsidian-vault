@@ -6,9 +6,10 @@ title: Seconds of Pleasure
 publication: The New Inquiry
 link: http://thenewinquiry.com/essays/seconds-of-pleasure/
 date: 2016-02-02
+permalink: 2016/02/02/alfie-brown-seconds-of-pleasure
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Alfie Brown]] • [[The New Inquiry]]
  
 “Living in what Walter Benjamin had predicted would be a “culture of distraction,” we now experience and enjoy hundreds of apparently mindless things that function to fill our time — not only mobile-phone games and internet tabs but also phenomena like social-media notifications and YouTube clips.”
 

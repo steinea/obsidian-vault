@@ -6,9 +6,10 @@ title: Pragmatic Maxim
 publication: Wikipedia
 link: https://en.wikipedia.org/wiki/Pragmatic_maxim
 date: 2016-01-27
+permalink: 2016/01/27/charles-sanders-peirce-pragmatic-maxim
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Charles Sanders Peirce]] • [[Wikipedia]]
  
 “Serving as a normative recommendation or a regulative principle in the normative science of logic, its function is to guide the conduct of thought toward the achievement of its purpose, advising on an optimal way of "attaining clearness of apprehension".”
 

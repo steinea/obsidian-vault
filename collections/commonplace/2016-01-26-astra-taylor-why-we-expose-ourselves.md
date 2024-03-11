@@ -6,9 +6,10 @@ title: Why We Expose Ourselves
 publication: The Intercept
 link: https://theintercept.com/2016/01/23/surveillance-bernard-harcourt-why-do-we-expose-ourselves/
 date: 2016-01-26
+permalink: 2016/01/26/astra-taylor-why-we-expose-ourselves
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Astra Taylor]] • [[The Intercept]]
  
 “1984, Harcourt acknowledges, was an astoundingly farsighted text, but Orwell failed to anticipate the role pleasure would come to play in our culture of surveillance — specifically, the way it could be harnessed, as opposed to suppressed, by powerful interests. Oceania’s “Hate Week” is nowhere to be found; instead, we live in a world of likes, favorites, and friending. Foucault’s panopticon, in turn, needs a similar update; mass incarceration aside, the panopticon — for the rest of us — has become participatory, more of an amusement park or shopping mall than a penal institution. Rather than being coerced to reveal secrets, today we seem to enjoy self-exposure, giving away “our most intimate information and whereabouts so willingly and passionately — so voluntarily.””
 

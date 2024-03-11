@@ -6,9 +6,10 @@ title: Kierkegaard's Relation to Hegel Reconsidered
 publication: Notre Dame Philosophical Reviews
 link: https://ndpr.nd.edu/reviews/kierkegaard-s-relation-to-hegel-reconsidered/
 date: 2016-08-25
+permalink: 2016/08/25/matthew-edgar-kierkegaards-relation-to-hegel-reconsidered
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Matthew Edgar]] • [[Notre Dame Philosophical Reviews]]
  
 “In Kierkegaard’s Relation to Hegel Reconsidered, Jon Stewart provides a detailed historical argument which challenges the standard assumption that Kierkegaard’s position was developed in opposition to Hegel’s philosophy, and as such is antithetical to it.”
 

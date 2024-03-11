@@ -6,9 +6,10 @@ title: Etymologies of Sadness
 publication: Los Angeles Review of Books
 link: http://lareviewofbooks.org/review/etymologies-of-sadness/
 date: 2016-01-06
+permalink: 2016/01/06/marta-figlerowicz-etymologies-of-sadness
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Marta Figlerowicz]] • [[Los Angeles Review of Books]]
  
 ““I SEE A WORD like a Russian nesting doll. How can I strip it to what its imagined core would be?” asks Hannah Sanghee Park in an interview with Jessica Laser. Her Walt Whitman Award–winning poetry collection, The Same-Different, searches relentlessly for the “core” of its own language.”
 

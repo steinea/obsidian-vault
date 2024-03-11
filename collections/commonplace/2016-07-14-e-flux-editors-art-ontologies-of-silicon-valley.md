@@ -6,9 +6,10 @@ title: Art Ontologies of Silicon Valley
 publication: e-flux
 link: http://www.e-flux.com/journal/editorial-art-ontologies-of-silicon-valley/
 date: 2016-07-14
+permalink: 2016/07/14/e-flux-editors-art-ontologies-of-silicon-valley
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[e-flux Editors]] • [[e-flux]]
  
 “Tech is never simply technology.”
 

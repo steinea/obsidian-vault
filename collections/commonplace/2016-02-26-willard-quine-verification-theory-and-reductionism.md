@@ -6,9 +6,10 @@ title: Verification Theory and Reductionism
 publication: Marxists
 link: https://www.marxists.org/reference/subject/philosophy/works/us/quine.htm
 date: 2016-02-26
+permalink: 2016/02/26/willard-quine-verification-theory-and-reductionism
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Willard Quine]] • [[Marxists]]
  
 “Source: The Emergence of Logical Empiricism (1996) publ. Garland Publishing Inc. The second half of Quine's contribution to series is reproduced here.”
 

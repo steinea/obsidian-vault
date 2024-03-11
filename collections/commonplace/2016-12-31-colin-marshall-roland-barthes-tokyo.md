@@ -6,9 +6,10 @@ title: Roland Barthes's Tokyo
 publication: Los Angeles Review of Books
 link: https://lareviewofbooks.org/article/ways-seeing-japan-roland-barthess-tokyo-50-years-later/
 date: 2016-12-31
+permalink: 2016/12/31/colin-marshall-roland-barthes-tokyo
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Colin Marshall]] • [[Los Angeles Review of Books]]
  
 “ROLAND BARTHES FIRST VISITED Japan in 1966, not long after the defeated and reconstructed country announced its return to the international community with the 1964 Summer Olympics in Tokyo.”
 

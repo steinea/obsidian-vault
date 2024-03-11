@@ -6,9 +6,10 @@ title: Am I Texting My Friends Way Too Much?
 publication: Real Life
 link: http://reallifemag.com/ok-pls-thx-am-i-texting-my-friends-way-too-much/
 date: 2016-07-03
+permalink: 2016/07/03/mira-gonzalez-am-i-texting-my-friends-way-too-much
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Mira Gonzalez]] • [[Real Life]]
  
 “We are all hopelessly terrified of the Beyond and so addicted to our phones that we look to them for answers to almost everything.”
 

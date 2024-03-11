@@ -6,9 +6,10 @@ title: Jam Tomorrow
 publication: Through the Looking Glass
 link: https://en.wikipedia.org/wiki/Through_the_Looking-Glass
 date: 2016-01-03
+permalink: 2016/03/03/lewis-carroll-jam-tomorrow
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Lewis Carroll]] • [[Through the Looking Glass]]
  
 “The rule is, jam tomorrow and jam yesterday—but never jam today.”
 

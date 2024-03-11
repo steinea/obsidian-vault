@@ -6,9 +6,10 @@ title: An Empire Divided
 publication: Los Angeles Review of Books
 link: https://lareviewofbooks.org/article/an-empire-divided/
 date: 2016-12-17
+permalink: 2016/12/17/graham-j-murphy-an-empire-divided
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Graham J. Murphy]] • [[Los Angeles Review of Books]]
  
 “SPACE OPERA has a long and rich history within science fiction, but it has only started to achieve a degree of recognition and respectability over the last few decades.”
 

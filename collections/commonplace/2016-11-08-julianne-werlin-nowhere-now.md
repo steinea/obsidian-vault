@@ -6,9 +6,10 @@ title: Nowhere Now
 publication: Los Angeles Review of Books
 link: https://lareviewofbooks.org/article/nowhere-now-thomas-mores-utopia-at-500/
 date: 2016-11-08
+permalink: 2016/11/08/julianne-werlin-nowhere-now
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Julianne Werlin]] • [[Los Angeles Review of Books]]
  
 “IN 1985, FORDHAM UNIVERSITY held a conference on Thomas More’s Utopia, on the occasion of the 450th anniversary of More’s death and the 50th anniversary of his canonization as a Catholic saint. The conference brought together three scholars of More, including the editor of the new Cambridge edition of Utopia and the founder of the journal Moreana. But the event’s keynote speaker was not a scholar at all: it was, rather, the then-governor of New York, Mario Cuomo, who had been invited because of his longstanding interest in More and had, rather surprisingly, accepted. In the early years of his career, as a young lawyer, Cuomo had taken More as a personal model; now a portrait of More hung on the wall of the governor’s office. “He was both man of action and Christian mystic,” Cuomo remarked, explaining More’s appeal. “What a nice and convenient combination.””
 

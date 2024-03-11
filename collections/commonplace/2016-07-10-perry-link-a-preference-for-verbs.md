@@ -6,9 +6,10 @@ title: A Preference for Verbs
 publication: New York Review of Books
 link: https://www.nybooks.com/online/2016/06/30/the-mind-less-puzzling-in-chinese/
 date: 2016-07-10
+permalink: 2016/07/10/perry-link-a-preference-for-verbs
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Perry Link]] • [[New York Review of Books]]
  
 “People who study other cultures sometimes note that they benefit twice: first by learning about the other culture and second by realizing that certain assumptions of their own are arbitrary.”
 

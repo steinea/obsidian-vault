@@ -6,9 +6,10 @@ title: Wittgenstein’s Handles
 publication: New York Review of Books
 link: http://www.nybooks.com/daily/2016/05/24/wittgensteins-handles/
 date: 2016-07-23
+permalink: 2016/07/23/christopher-benfey-wittgensteins-handles
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Christopher Benfey]] • [[New York Review of Books]]
  
 “I doubt that the return to philosophy was prompted by social connections, which were always a mixed bag for the antisocial Wittgenstein. I prefer to believe that the prompt was in the handle.”
 

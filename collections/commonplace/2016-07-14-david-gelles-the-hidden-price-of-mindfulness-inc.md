@@ -6,9 +6,10 @@ title: The Hidden Price of Mindfulness Inc.
 publication: The New York Times
 link: http://www.nytimes.com/2016/03/20/opinion/sunday/the-hidden-price-of-mindfulness-inc.html
 date: 2016-07-14
+permalink: 2016/07/14/david-gelles-the-hidden-price-of-mindfulness-inc
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[David Gelles]] • [[The New York Times]]
  
 “THE other morning, I woke up and brewed a cup of Mindful Lotus tea ($6 for 20 bags). On the subway, I loaded the Headspace app on my iPhone and followed a guided mindfulness exercise ($13 a month for premium content). Later in the day, I dropped by Mndfl, a meditation studio in Greenwich Village ($20 for a 45-minute class).”
 

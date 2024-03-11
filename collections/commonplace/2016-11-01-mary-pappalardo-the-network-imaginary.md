@@ -6,9 +6,10 @@ title: The Network Imaginary
 publication: Los Angeles Review of Books
 link: https://lareviewofbooks.org/article/the-network-imaginary/
 date: 2016-11-01
+permalink: 2016/11/01/mary-pappalardo-the-network-imaginary
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Mary Pappalardo]] • [[Los Angeles Review of Books]]
  
 “1989 saw the introduction of the World Wide Web: the information space whose name metaphorized the network form which commonly characterizes and defines contemporary life”
 

@@ -6,9 +6,10 @@ title: Are We the Only Animals That Understand Ignorance?
 publication: The Atlantic
 link: https://www.theatlantic.com/science/archive/2016/07/are-we-the-only-animals-that-understand-ignorance/493295/
 date: 2016-07-31
+permalink: 2016/07/31/ed-yong-are-we-the-only-animals-that-understand-ignorance
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Ed Yong]] • [[The Atlantic]]
  
 You’re holding a surprise party for a friend. The door opens, the lights flick on, everyone leaps out... and your friend stands there silent and unmoved. Now, you’re the one who’s surprised. You assumed she had no idea, and based on that, you made a (wrong) prediction about how she would react. You were counting on her ignorance. This ability to understand that someone else might be missing certain information about the world comes so naturally to us that describing it feels mundane and trite.
 

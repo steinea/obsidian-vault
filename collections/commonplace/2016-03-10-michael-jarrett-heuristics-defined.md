@@ -6,9 +6,10 @@ title: Heuretics Defined
 publication: Penn State York
 link: http://www2.york.psu.edu/~jmj3/home.html
 date: 2016-03-10
+permalink: 2016/03/10/michael-jarrett-heuretics-defined
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Michael Jarrett]] • [[Penn State York]]
  
 "While readers might associate heuretics with a varied set of connotators--eureka, heuristics, heretics, and, yes, diuretics--the word originated as a theological term, as the flip-side or repressed Other of hermeneutics. One could interpret scripture (read through a hermeneutic), or one could employ scripture as a means of invention (read it heuretically). Hermeneutics asks, What can be made of the Bible? Heuretics asks, What can be made from the Bible?
 

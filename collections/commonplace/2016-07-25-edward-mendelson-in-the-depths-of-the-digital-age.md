@@ -6,9 +6,10 @@ title: In the Depths of the Digital Age
 publication: New York Review of Books
 link: http://www.nybooks.com/articles/2016/06/23/depths-of-the-digital-age/
 date: 2016-07-25
+permalink: 2016/07/25/edward-mendelson-in-the-depths-of-the-digital-age
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Edward Mendelson]] • [[New York Review of Books]]
  
 “Every technological revolution coincides with changes in what it means to be a human being, in the kinds of psychological borders that divide the inner life from the world outside.”
 

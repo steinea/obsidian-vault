@@ -6,9 +6,10 @@ title: Deleuze, Zizek, Bachelard, Jung
 publication: Agent Swarm
 link: https://terenceblake.wordpress.com/2016/11/06/deleuze-zizek-bachelard-jung-on-lost-occasions/
 date: 2016-11-06
+permalink: 2016/11/06/terence-blake-deleuze-zizek-bachelard-jung
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Terence Blake]] • [[Agent Swarm]]
  
 “Every time Zizek can he declares his hostility and contempt for Jung and damns Deleuze for having similar ideas or having been influenced by Jung’s ideas, but it is obvious that he knows almost nothing about Jung’s work and even less about the post-Jungians.”
 

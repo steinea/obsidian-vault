@@ -6,9 +6,10 @@ title: The Ideology of the Olympics
 publication: Boston Review
 link: http://bostonreview.net/world/robert-kehoe-ideology-olympics
 date: 2016-08-17
+permalink: 2016/08/17/robert-l-kehoe-iii-the-ideology-of-the-olympics
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Robert L. Kehoe III]] • [[Boston Review]]
  
 “the leaders of the XXXI Olympiad will echo their claim that anything done in the name of sport is above and beyond public scrutiny or political protest”
 

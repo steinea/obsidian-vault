@@ -6,9 +6,10 @@ title: McTaggart's Paradox
 publication: Notre Dame Philosophical Reviews
 link: https://ndpr.nd.edu/news/mctaggarts-paradox/
 date: 2016-12-11
+permalink: 2016/12/11/m-joshua-mozersky-mctaggarts-paradox
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[M. Joshua Mozersky]] • [[Notre Dame Philosophical Reviews]]
  
 “J. M. E. McTaggart is well known for distinguishing two ways of conceptualizing time: first, as a series of positions ordered by 'past', 'present', and 'future', which he calls the A-series; secondly, as a series of positions ordered by 'earlier than', 'later than', and 'simultaneous with', which he calls the B-series.”
 

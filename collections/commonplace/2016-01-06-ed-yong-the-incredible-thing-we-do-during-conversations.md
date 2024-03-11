@@ -6,9 +6,10 @@ title: The Incredible Thing We Do During Conversations
 publication: The Atlantic
 link: http://www.theatlantic.com/science/archive/2016/01/the-incredible-thing-we-do-during-conversations/422439/
 date: 2016-01-06
+permalink: 2016/01/06/ed-yong-the-incredible-thing-we-do-during-conversations
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Ed Yong]] • [[The Atlantic]]
  
 “Conversations have a far greater number of possible responses, which ought to saddle us with lengthy gaps between turns. Those don't exist because we build our responses during our partner's turn. We listen to their words while simultaneously crafting our own, so that when our opportunity comes, we seize it as quickly as it's physically possible to.”
 

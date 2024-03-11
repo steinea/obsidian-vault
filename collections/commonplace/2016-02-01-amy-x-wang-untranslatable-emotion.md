@@ -6,9 +6,10 @@ title: Untranslatable Emotion
 publication: Quartz
 link: http://qz.com/605935/there-are-hundreds-of-positive-emotions-that-have-no-direct-english-translation/
 date: 2016-02-01
+permalink: 2016/02/01/amy-x-wang-untranslatable-emotion
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Amy X. Wang]] • [[Quartz]]
  
 "There are hundreds of positive emotions that have no direct English translation"
 

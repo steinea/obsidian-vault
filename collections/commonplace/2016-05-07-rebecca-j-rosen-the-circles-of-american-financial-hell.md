@@ -6,9 +6,10 @@ title: The Circles of American Financial Hell
 publication: The Atlantic
 link: http://www.theatlantic.com/business/archive/2016/05/american-financial-hell/481107/
 date: 2016-05-07
+permalink: 2016/05/07/rebecca-j-rosen-the-circles-of-american-financial-hell
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Rebecca J. Rosen]] • [[The Atlantic]]
  
 “For people earning between $40,000 and $100,000 (i.e. not the very poorest), 44 percent said they could not come up with $400 in an emergency (either with cash or with a credit card whose bill they could pay off within a month). Even more astonishing, 27 percent of those making more than $100,000 also could not. This is not poverty. So what is it?”
 

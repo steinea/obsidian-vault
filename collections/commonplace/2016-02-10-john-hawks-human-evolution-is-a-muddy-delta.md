@@ -6,9 +6,10 @@ title: Human Evolution is a Muddy Delta
 publication: Aeon
 link: https://aeon.co/opinions/human-evolution-is-more-a-muddy-delta-than-a-branching-tree
 date: 2016-02-10
+permalink: 2016/02/10/john-hawks-human-evolution-is-a-muddy-delta
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[John Hawks]] • [[Aeon]]
  
 “This approach yielded the now-ubiquitous image of the human family tree, with Homo sapiens – the one and only living hominid – sitting alone, seemingly inevitable, at the top. It’s a powerful metaphor, but it also turns out to be a deeply mistaken one. Where once we saw each branch in isolation, DNA evidence now reveals a network of connections.”
 

@@ -6,9 +6,10 @@ title: Programs and Realizabilities
 publication: e-flux
 link: http://www.e-flux.com/journal/what-is-philosophy-part-two-programs-and-realizabilities/
 date: 2016-02-06
+permalink: 2016/02/06/reza-negarestani-programs-and-realizabilities
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Reza Negarestani]] • [[e-flux]]
  
 “§4. Viewed from an Archimedean point in the future of thought’s unfolding, philosophy is seen as what has instructed thinking to become a systematic program, only as a way of organizing it into a project for the emancipation of intelligence.”
 

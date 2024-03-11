@@ -1,14 +1,15 @@
 ---
 layout: entry
 category: commonplace
-author: Ken Wharton and Huw PRice
+author: Ken Wharton and Huw Price
 title: To Understand Your Past, Look to Your Future
 publication: Nautilus
 link: http://nautil.us/issue/36/aging/to-understand-your-past-look-to-your-future
 date: 2016-05-24
+permalink: 2016/05/24/ken-wharton-huw-price-to-understand-your-past-look-to-your-future
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Ken Wharton]] • [[Huw Price]] • [[Nautilus]]
  
 “You’re thinking about time all wrong, according to our best physical theories. In Einstein’s general theory of relativity, there’s no conceptual distinction between the past and the future, let alone an objective line of “now.” There’s also no sense in which time “flows”; instead, all of space and time is just there in some four-dimensional structure. What’s more, all the fundamental laws of physics work essentially the same both forward and backward.”
 

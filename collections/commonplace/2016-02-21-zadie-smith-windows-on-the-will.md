@@ -6,9 +6,10 @@ title: Windows on the Will
 publication: New York Review of Books
 link: http://www.nybooks.com/articles/2016/03/10/windows-on-the-will/
 date: 2016-02-21
+permalink: 2016/02/21/zadie-smith-windows-on-the-will
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Zadie Smith]] • [[New York Review of Books]]
  
 "That we believe ourselves to be separate from each other, and separate from the apparent objects of our desire, was, for Schopenhauer, the root of our suffering. A better consciousness was possible, one that recognized our essence as “will” (expressed in us as will-to-live, and objectified, with varying degrees of consciousness, in our urges, desires, and actions), and that this essence was not individual but rather shared with all people (not just Lisa), all animals, all plants, all the phenomena of the world. What we can know intimately through our bodies has, for Schopenhauer, its equivalent in the keenness of the iron to fly to the magnet, in the determination of water to flow downward, in the force of gravity itself, and though such knowledge is not a synonym for “force” or “energy,” it contains both those terms."
 

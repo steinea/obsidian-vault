@@ -6,9 +6,10 @@ title: Allegorical Knowledge
 publication: Los Angeles Review of Books
 link: https://lareviewofbooks.org/article/allegorical-knowledge-the-art-of-alchemy/
 date: 2016-12-21
+permalink: 2016/12/21/johanna-drucker-allegorical-knowledge
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Johanna Drucker]] • [[Los Angeles Review of Books]]
  
 “ALCHEMY. The word suggests transformative practices and the mutation of base substances into precious ones through mysterious processes that depend on secret knowledge.”
 

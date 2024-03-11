@@ -6,9 +6,10 @@ title: Americans Don't Get Nordic Countries
 publication: The Atlantic
 link: http://www.theatlantic.com/politics/archive/2016/03/bernie-sanders-nordic-countries/473385/
 date: 2016-03-27
+permalink: 2016/03/27/anu-partanen-americans-dont-get-nordic-countries
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Anu Partanen]] • [[The Atlantic]]
  
 “Nordic countries are the way they are, I’m told, because they are small, homogeneous “nanny states” where everyone looks alike, thinks alike, and belongs to a big extended family. This, in turn, makes Nordic citizens willing to sacrifice their own interests to help their neighbors. Americans don’t feel a similar kinship with other Americans, I’m told, and thus will never sacrifice their own interests for the common good.”
 

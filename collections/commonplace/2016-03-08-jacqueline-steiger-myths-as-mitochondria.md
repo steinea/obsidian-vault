@@ -6,9 +6,10 @@ title: Myths as Mitochondria
 publication: Los Angeles Review of Books
 link: https://lareviewofbooks.org/review/myths-as-mitochondria/
 date: 2016-03-08
+permalink: 2016/03/08/jacqueline-steiger-myths-as-mitochondria
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Jacqueline Steiger]] • [[Los Angeles Review of Books]]
  
 “ARCHANGEL — the debut science fiction novel by Marguerite Reed — powerfully invokes the wonder of myth: Reed draws on fairy tales, legends, holy works, and prayer to create the speech and personality of her protagonist.”
 

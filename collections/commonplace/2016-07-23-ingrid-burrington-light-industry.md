@@ -6,9 +6,10 @@ title: Light Industry
 publication: e-flux
 link: http://www.e-flux.com/journal/light-industry-toxic-waste-and-pastoral-capitalism/
 date: 2016-07-23
+permalink: 2016/07/23/ingrid-burrington-light-industry
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Ingrid Burrington]] •[[e-flux]]
  
 “This dislocated sense of history suits a place that is often perceived less as historical landscape and more as a synecdoche for an entire way of life.”
 

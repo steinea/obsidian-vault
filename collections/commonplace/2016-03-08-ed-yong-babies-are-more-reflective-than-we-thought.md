@@ -6,9 +6,10 @@ title: Babies Are More Reflective Than We Thought
 publication: The Atlantic
 link: http://www.theatlantic.com/science/archive/2016/03/babies-know-when-they-know/472539/
 date: 2016-03-08
+permalink: 2016/03/08/ed-yong-babies-are-more-reflective-than-we-thought
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Ed Yong]] • [[The Atlantic]]
  
 “When we take a test, we have some idea of how well we’re going to do. When we start a task, we can predict how long it’ll take us to finish it. When we field a question, we can judge whether we need to consult the oracle of Google.”
 

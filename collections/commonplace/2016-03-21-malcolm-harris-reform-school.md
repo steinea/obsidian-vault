@@ -6,9 +6,10 @@ title: Reform School
 publication: The New Inquiry
 link: http://thenewinquiry.com/essays/reform-school/
 date: 2016-03-21
+permalink: 2016/03/21/malcolm-harris-reform-school-the-new-inquiry
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Malcolm Harris]] • [[The New Inquiry]]
  
 “Capitalists will constantly seek to reshape schooling because their labor supply can always be more efficient”
 

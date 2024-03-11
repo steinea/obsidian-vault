@@ -6,9 +6,10 @@ title: Temporality, Modality, and Identity
 publication: Xeno Swarm
 link: https://xenoswarm.wordpress.com/2016/08/15/the-last-days-of-new-paris-2-temporality-modality-and-identity/
 date: 2016-10-26
+permalink: 2016/10/26/terence-blake-temporality-modality-and-identity
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Terence Blake]] • [[Xeno Swarm]]
  
 THE LAST DAYS OF NEW PARIS (2)
 

@@ -6,9 +6,10 @@ title: Reification and the Consciousness of the Proletariat
 publication: Marxists
 link: https://www.marxists.org/archive/lukacs/works/history/hcc05.htm
 date: 2016-02-02
+permalink: 2016/02/02/gyorgy-lukacs-reification-and-the-consciousness-of-the-proletariat
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Gyorgy Lukács]] • [[Marxists]]
  
 “To be radical is to go to the root of the matter. For man, however, the root is man himself.
 Marx: Critique of Hegel’s Philosophy of Right.”

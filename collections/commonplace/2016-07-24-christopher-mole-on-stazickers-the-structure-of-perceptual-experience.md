@@ -6,9 +6,10 @@ title: On Stazicker's The Structure of Perceptual Experience
 publication: Notre Dame Philosophical Reviews
 link: https://ndpr.nd.edu/news/66488-the-structure-of-perceptual-experience/
 date: 2016-07-24
+permalink: 2016/07/24/christopher-mole-on-stazickers-the-structure-of-perceptual-experience
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Christopher Mole]] • [[Notre Dame Philosophical Reviews]]
  
 “The philosophy of perception has many parts. Some border on epistemology, some on the philosophy of psychology, and some on enquiries into the metaphysics of consciousness.”
 

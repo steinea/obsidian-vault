@@ -6,9 +6,10 @@ title: Zizek’s Critique of Ontological Reason
 publication: Agent Swarm
 link: https://terenceblake.wordpress.com/2016/10/27/reading-disparities-8-zizeks-critique-of-ontological-reason/
 date: 2016-10-29
+permalink: 2016/10/29/terence-blake-zizeks-critique-of-ontological-reason
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Terence Blake]] • [[Agent Swarm]]
  
 Reading DISPARITIES (8)
 

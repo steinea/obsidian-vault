@@ -6,9 +6,10 @@ title: Let Them Drink Blood
 publication: The New Inquiry
 link: http://thenewinquiry.com/essays/let-them-drink-blood/
 date: 2016-12-27
+permalink: 2016/12/27/a-m-gittlitz-let-them-drink-blood
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[A. M. Gittlitz]] • [[The New Inquiry]]
  
 “Silicon Valley futurists plan to live forever by harvesting both the labor and the body parts of the working class”
 

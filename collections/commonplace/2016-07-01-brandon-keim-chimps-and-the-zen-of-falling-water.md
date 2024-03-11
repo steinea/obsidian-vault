@@ -6,9 +6,10 @@ title: Chimps and the Zen of Falling Water
 publication: Nautilus
 link: https://nautil.us/blog/chimps-and-the-zen-of-falling-water
 date: 2016-07-01
+permalink: 2016/07/01/brandon-keim-chimps-and-the-zen-of-falling-water
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Brandon Keim]] • [[Nautilus]]
  
 "“I can’t help feeling that this waterfall display, or dance, is perhaps triggered by feelings of awe and wonder,” says Goodall in the video. “The chimpanzee brain is similar to ours. They have emotions that are clearly similar to those that we call happiness and sadness and fear and despair and so forth. So why wouldn’t they also have feelings of some kind at spirituality? Which is, really, being amazed at things outside yourself.”"
  

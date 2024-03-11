@@ -6,9 +6,10 @@ title: The United States Is Not a Democracy
 publication: Los Angeles Review of Books
 link: https://lareviewofbooks.org/review/the-united-states-is-not-a-democracy/
 date: 2016-05-07
+permalink: 2016/05/07/roslyn-fuller-the-united-states-is-not-a-democracy
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Roslyn Fuller]] • [[Los Angeles Review of Books]]
  
 “It all has to do with the root of the word “democracy,” which comes from two Greek words: “demos,” meaning “people,” and “kratos,” which translates as “power.” The original use of the word demokratia in ancient Greece therefore meant something like “people power” or, as some have translated it, “the capacity of the people to do things.””
 

@@ -6,9 +6,10 @@ title: Introduction to Reason and Revolution
 publication: Marxists
 link: https://www.marxists.org/reference/archive/marcuse/works/reason/ch01-1.htm
 date: 2016-03-13
+permalink: 2016/03/13/herbert-marcuse-introduction-to-reason-and-revolution
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Herbert Marcuse]] • [[Marxists]]
  
 “Religious and political problems were discussed in terms of eighteenth century rationalism, the dignity of man was extolled, as was his right to shape his own life against all obsolete forms of authority and tradition, and tolerance and justice were praised.”
 

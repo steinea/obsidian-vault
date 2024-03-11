@@ -6,9 +6,10 @@ title: Writing Philosophy With Style
 publication: Daily Nous
 link: http://dailynous.com/2016/12/21/writing-philosophy-style/
 date: 2016-12-21
+permalink: 2016/12/21/friedrich-nietzsche-lou-andreas-salome-writing-philosophy-with-style
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Friedrich Nietzsche]] • [[Lou Andreas-Salomé]] • [[Daily Nous]]
  
 “Lou Andreas-Salomé, who was at one time a friend and romantic interest of Friedrich Nietzsche’s, included in her book on the philosopher his “ten rules of writing.””
 

@@ -6,9 +6,10 @@ title: Symbols of Power
 publication: On Being
 link: http://www.onbeing.org/blog/symbols-power-adinkras-and-nature-reality/2438
 date: 2016-07-25
+permalink: 2016/07/25/s-james-gates-symbols-of-power
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[S. James Gates]] •[[On Being]]
  
 “In the land of theoretical physics, equations have always been king.”
 

@@ -6,9 +6,10 @@ title: Play as Symbol of the World
 publication: Notre Dame Philosophical Reviews
 link: https://ndpr.nd.edu/news/71322-play-as-symbol-of-the-world-and-other-writings/
 date: 2016-11-14
+permalink: 2016/11/14/stuart-elden-play-as-symbol-of-the-world
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Stuart Elden]] • [[Notre Dame Philosophical Reviews]]
  
 “The inspiration for the whole work can perhaps be found in Heraclitus's fragment which declares that aion, which Fink renders as Weltlauf, 'course of the world', is 'like a child playing a game' (i.e. p. 51). The game, or play -- Spiel -- is the theme throughout this work, though regularly related back to the world, and the human-world relation. As he states, "Our question concerning play is led by a fundamental philosophical problem. This problem is the relation between the human being and the world" (p. 80).”
 

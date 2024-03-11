@@ -6,9 +6,10 @@ title: Analytic–Synthetic Distinction
 publication: Wikipedia
 link: https://en.wikipedia.org/wiki/Analytic%E2%80%93synthetic_distinction
 date: 2016-01-30
+permalink: 2016/01/30/immanuel-kant-analytic-synthetic-distinction
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Immanuel Kant]] • [[Wikipedia]]
  
 The analytic–synthetic distinction (also called the analytic–synthetic dichotomy) is a conceptual distinction, used primarily in philosophy to distinguish propositions (in particular, statements that are affirmative subject–predicate judgments) into two types: analytic propositions and synthetic propositions. Analytic propositions are true by virtue of their meaning, while synthetic propositions are true by how their meaning relates to the world.[1] However, philosophers have used the terms in very different ways. Furthermore, philosophers have debated whether there is a legitimate distinction.
 

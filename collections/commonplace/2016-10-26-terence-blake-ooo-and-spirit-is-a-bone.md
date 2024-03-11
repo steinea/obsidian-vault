@@ -6,9 +6,10 @@ title: OOO and Spirit is a Bone
 publication: Agent Swarm
 link: https://terenceblake.wordpress.com/2016/10/26/reading-disparities-7-ooo-and-spirit-is-a-bone/
 date: 2016-10-26
+permalink: 2016/10/26/terence-blake-ooo-and-spirit-is-a-bone
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Terence Blake]] • [[Agent Swarm]]
  
 Reading DISPARITIES (7)
 

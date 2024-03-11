@@ -6,9 +6,10 @@ title: Why Moviegoing Matters
 publication: Los Angeles Review of Books
 link: https://lareviewofbooks.org/article/why-moviegoing-matters/
 date: 2016-12-05
+permalink: 2016/12/05/graham-daseler-why-moviegoing-matters
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Graham Daseler]] • [[Los Angeles Review of Books]]
  
 “if technology has expanded our cinematic choices, it has circumscribed our cinematic spaces, mostly to our own private screens”
 

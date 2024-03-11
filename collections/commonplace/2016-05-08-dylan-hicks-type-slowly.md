@@ -6,9 +6,10 @@ title: Type Slowly
 publication: Los Angeles Review of Books
 link: https://lareviewofbooks.org/review/type-slowly-word-processing-and-literary-composition/
 date: 2016-05-08
+permalink: 2016/05/08/dylan-hicks-type-slowly
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Dylan Hicks]] • [[Los Angeles Review of Books]]
  
 “For those of us who’ve spent all or much of our writing lives in the era of personal computers, it’s sometimes hard to fathom the drudgery (and delegation) that went into the production of pre-digital books.”
 

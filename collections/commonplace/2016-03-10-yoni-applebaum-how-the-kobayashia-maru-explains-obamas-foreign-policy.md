@@ -6,9 +6,10 @@ title: How the <em>Kobayashi Maru</em> Explains Obama's Foreign Policy
 publication: The Atlantic
 link: https://www.theatlantic.com/politics/archive/2016/03/how-the-kobayashi-maru-explains-obamas-foreign-policy/624714/
 date: 2016-03-10
+permalink: 2016/03/10/yoni-applebaum-how-the-kobayashi-maru-explains-obamas-foreign-policy
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Yoni Applebaum]] • [[The Atlantic]]
  
 My colleague Jeffrey Goldberg’s cover story will serve as a Rosetta Stone for scholars and analysts trying to decode President Obama’s foreign policy. I won’t try to summarize it; it deserves to be read in full. But at one point, Jeff writes of Obama: “He is, by nature, Spockian.”
 

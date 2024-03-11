@@ -6,9 +6,10 @@ title: We Are Hopelessly Hooked
 publication: New York Review of Books
 link: http://www.nybooks.com/articles/2016/02/25/we-are-hopelessly-hooked/
 date: 2016-02-15
+permalink: 2016/02/15/jacob-weisberg-we-are-hopelessly-hooked
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Jacob Weisberg]] • [[New York Review of Books]]
  
 ““As smoking gives us something to do with our hands when we aren’t using them, Time gives us something to do with our minds when we aren’t thinking,” Dwight Macdonald wrote in 1957. With smartphones, the issue never arises. Hands and mind are continuously occupied texting, e-mailing, liking, tweeting, watching YouTube videos, and playing Candy Crush.”
 

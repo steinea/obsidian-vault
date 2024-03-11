@@ -6,9 +6,10 @@ title: The Evolution of the Perfect Hero Body
 publication: The Atlantic
 link: http://www.theatlantic.com/entertainment/archive/2016/04/superman-batman-and-the-evolution-of-the-perfect-male-body/475998/
 date: 2016-04-03
+permalink: 2016/04/03/maria-teresa-hart-the-evolution-of-the-perfect-hero-body
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Maria Teresa Hart]] • [[The Atlantic]]
  
 “These superheroes are approaching a point of such rigid physical perfection that Hollywood is hovering dangerously close to the uncanny valley, a place of eerie, manufactured humanity.”
 

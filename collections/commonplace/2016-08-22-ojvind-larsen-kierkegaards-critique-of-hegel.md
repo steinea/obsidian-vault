@@ -6,9 +6,10 @@ title: Kierkegaard’s Critique of Hegel
 publication: Nordicum Mediterraneum
 link: http://nome.unak.is/wordpress/08-3/c69-conference-paper/kierkegaard-s-critique-of-hegel-existentialist-ethics-versus-hegel-s-sittlichkeit-in-the-institutions-of-civil-society-of-the-state/
 date: 2016-08-22
+permalink: 2016/08/22/ojvind-larsen-kierkegaards-critique-of-hegel
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Ojvind Larsen]] • [[Nordicum Mediterraneum]]
  
 “For Kierkegaard, it is a matter of uncovering the ethical demand’s special characteristics in the original Ur-Christianity, as this relationship has become veiled through Ethical Life, since it was formed through cultural Christianity. In this way, Kierkegaard’s project may be said to be diametrically opposite to Hegel’s. Since, Hegel’s project is to account for the ethical’s mediation in Ethical Life as mediated through cultural Christianity.”
 

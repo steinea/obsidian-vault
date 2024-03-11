@@ -6,9 +6,10 @@ title: Microfascism
 publication: The Mantle
 link: https://www.themantle.com/philosophy/microfascism
 date: 2016-10-26
+permalink: 2016/10/26/cæmeron-crain-microfascism
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Cæmeron Crain]] • [[The Mantle]]
  
 The Mantle is excited to present the first in series of blog posts by Cæmeron Crain exploring key concepts in contemporary political philosophy, beginning with the work of the seminal French theorists, Gilles Deleuze and Felix Guattari. 
 

@@ -6,9 +6,10 @@ title: The Evidence of Memory
 publication: Boston Review
 link: http://bostonreview.net/wonders/fausto-sterling-evidence-memory
 date: 2016-07-20
+permalink: 2016/07/20/anne-fausto-sterling-the-evidence-of-memory
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Anne Fausto-Sterling]] • [[Boston Review]]
  
 “Long before cognitive science was a glint in Donald Hebb’s eye, Freud understood that memories do not precisely mirror the past.”
 

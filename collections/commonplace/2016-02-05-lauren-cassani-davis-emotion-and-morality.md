@@ -6,9 +6,10 @@ title: Emotion and Morality
 publication: The Atlantic
 link: http://www.theatlantic.com/science/archive/2016/02/how-do-emotions-sway-moral-thinking/460014/
 date: 2016-02-05
+permalink: 2016/02/05/lauren-cassani-davis-emotion-and-morality
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Lauren Cassani Davis]] • [[The Atlantic]]
  
 “Should subjective feelings matter when deciding right and wrong? Philosophers have debated this question for thousands of years. Some say absolutely: Emotions, like our love for our friends and family, are a crucial part of what give life meaning, and ought to play a guiding role in morality. Some say absolutely not: Cold, impartial, rational thinking is the only proper way to make a decision. Emotion versus reason—it’s one of the oldest and most epic standoffs we know.”
 

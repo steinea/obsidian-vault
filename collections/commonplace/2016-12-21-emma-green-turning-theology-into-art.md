@@ -6,9 +6,10 @@ title: Turning Theology Into Art
 publication: The Atlantic
 link: https://www.theatlantic.com/entertainment/archive/2016/12/martin-scorsese-silence-theology-art-jesuits/510827/
 date: 2016-12-21
+permalink: 2016/12/21/emma-green-turning-theology-into-art
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Emma Green]] • [[The Atlantic]]
  
 “It’s a striking cinematographic choice and an apt metaphor for Scorsese’s depiction of faith: Humans can attempt to describe, emulate, and revere God, but ultimately, this is only imitation, the director seems to say.”
 

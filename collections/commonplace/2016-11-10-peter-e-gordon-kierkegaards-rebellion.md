@@ -6,9 +6,10 @@ title: Kierkegaard’s Rebellion
 publication: New York Review of Books
 link: http://www.nybooks.com/articles/2016/11/10/kierkegaards-rebellion/
 date: 2016-11-10
+permalink: 2016/11/10/peter-e-gordon-kierkegaards-rebellion
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Peter E. Gordon]] • [[New York Review of Books]]
  
 “Kierkegaard is widely considered the most important religious thinker of the modern age. This is because he dramatized with special intensity the conflict between religion and secular reason, between private faith and the public world, and he went so far as to entertain the thought that a genuine reconciliation between them is impossible.”
 

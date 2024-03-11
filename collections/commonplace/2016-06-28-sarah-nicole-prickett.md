@@ -6,9 +6,10 @@ title: Speaking in Tongues
 publication: The New Inquiry
 link: http://thenewinquiry.com/essays/speaking-in-tongues/
 date: 2016-06-28
+permalink: 2016/06/28/sarah-nicole-prickett-speaking-in-tongues
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Sarah Nicole Prickett]] • [[The New Inquiry]]
  
 “Then he spent the rest of the night with her in embracing and clipping, plying the particle of copulation in concert and joining the conjunctive with the conjoined, whilst her husband was a cast-out nunnation of construction. —Arabian Nights, 1706”
 

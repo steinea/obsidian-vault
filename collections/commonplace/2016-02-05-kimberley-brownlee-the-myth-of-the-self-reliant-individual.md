@@ -6,9 +6,10 @@ title: The Myth of the Self-Reliant Individual
 publication: Aeon
 link: https://aeon.co/opinions/what-lies-behind-the-myth-of-the-strong-self-reliant-loner
 date: 2016-02-05
+permalink: 2016/02/05/kimberley-brownlee-the-myth-of-the-self-reliant-individual
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Kimberley Brownlee]] • [[Aeon]]
  
 The self-reliant individual is a myth that needs updating — Kimberley Brownlee 
 

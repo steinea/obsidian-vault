@@ -6,9 +6,10 @@ title: Make the Wrong Choice
 publication: Los Angeles Review of Books
 link: https://lareviewofbooks.org/article/make-wrong-choice-rereading-conrads-victory/
 date: 2016-08-10
+permalink: 2016/08/10/ed-schad-make-the-wrong-choice
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Ed Schad]] • [[Los Angeles Review of Books]]
  
 “I hadn’t traveled to Kenya to flee a shameful past, and yet, the mysterious mechanisms of connectivity that run the world arrived, as they always do in Conrad, to make sure that I remained part of the world I thought I had left behind”
 

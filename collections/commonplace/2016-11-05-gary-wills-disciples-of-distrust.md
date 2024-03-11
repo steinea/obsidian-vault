@@ -1,14 +1,15 @@
 ---
 layout: entry
 category: commonplace
-author: Gary Wills
+author: Garry Wills
 title: Disciples of Distrust
 publication: New York Review of Books
 link: http://www.nybooks.com/daily/2016/11/05/disciples-of-distrust-trump-iraq-war-legacy/
 date: 2016-11-05
+permalink: 2016/11/05/gary-wills-disciples-of-distrust
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Garry Wills]] •[[New York Review of Books]]
  
 “Coughlin was a priest tending a shrine to Saint Thérèse of Lisieux who found that he had a syrupy radio voice. McCarthy was a ferret who fancied himself the Grand Inquisitor from the Dostoevsky novel he was not literate enough to read. Wallace was a strutting little fellow dwarfed by the doorway he stood in to keep blacks out. Trump looks like an overripe former matinee idol, a male Norma Desmond insisting that he is still wonderful (make Hollywood great again). These are not people of great charm.”
 

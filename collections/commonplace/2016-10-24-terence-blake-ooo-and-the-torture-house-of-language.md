@@ -6,9 +6,10 @@ title: OOO and the Torture House of Language
 publication: Agent Swarm
 link: https://terenceblake.wordpress.com/2016/10/24/reading-disparities-5-ooo-and-the-torture-house-of-language/
 date: 2016-10-24
+permalink: 2016/10/24/terence-blake-ooo-and-the-torture-house-of-language
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Terence Blake]] • [[Agent Swarm]]
  
 Reading DISPARITIES (5)
 

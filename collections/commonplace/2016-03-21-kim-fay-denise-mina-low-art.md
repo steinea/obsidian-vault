@@ -6,9 +6,10 @@ title: Low Art
 publication: Los Angeles Review of Books
 link: https://lareviewofbooks.org/interview/low-art-denise-mina/
 date: 2016-03-21
+permalink: 2016/03/21/kim-fay-denise-mina-low-art
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Kim Fay]] • [[Denise Mina]] • [[Low Art]]
  
 “Crime is a social system, not an aberrant individual, but in character-led novels it always comes down to two individuals.”
 

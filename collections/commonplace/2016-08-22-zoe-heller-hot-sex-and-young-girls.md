@@ -6,9 +6,10 @@ title: Hot Sex and Young Girls
 publication: New York Review of Books
 link: http://www.nybooks.com/articles/2016/08/18/hot-sex-young-girls/
 date: 2016-08-22
+permalink: 2016/08/22/zoe-heller-hot-sex-and-young-girls
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Zoe Heller]] • [[New York Review of Books]]
  
 “American Girls: Social Media and the Secret Lives of Teenagers
 by Nancy Jo Sales”

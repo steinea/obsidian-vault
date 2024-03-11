@@ -6,9 +6,10 @@ title: War Is King
 publication: New York Review of Books
 link: http://www.nybooks.com/daily/2016/05/23/shakespeare-history-plays-chicago-war-is-king/
 date: 2016-05-24
+permalink: 2016/05/24/garry-wills-war-is-king
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Garry Wills]] • [[New York Review of Books]]
  
 “Every now and then the plays are performed as a sequence—or at least four of them are: Richard II, Henry IV, Parts One and Two, and Henry V.”
 

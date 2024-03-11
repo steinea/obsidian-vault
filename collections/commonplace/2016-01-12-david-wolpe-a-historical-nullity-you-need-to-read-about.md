@@ -6,9 +6,10 @@ title: A Historical Nullity You Need to Read About
 publication: Los Angeles Review of Books
 link: https://lareviewofbooks.org/review/a-historical-nullity-you-need-to-read-about/
 date: 2016-01-12
+permalink: 2016/01/12/david-wolpe-a-historical-nullity-you-need-to-read-about
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[David Wolpe]] • [[Los Angeles Review of Books]]
  
 “What seems epochal to later generations, Bruegel seems to suggest, may have been trivial to actual witnesses.”
 

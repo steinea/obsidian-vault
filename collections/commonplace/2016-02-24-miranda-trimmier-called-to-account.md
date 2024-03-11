@@ -6,9 +6,10 @@ title: Called to Account
 publication: The New Inquiry
 link: http://thenewinquiry.com/essays/called-to-account/
 date: 2016-02-24
+permalink: 2016/02/24/miranda-trimmier-called-to-account
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Miranda Trimmier]] • [[The New Inquiry]]
  
 “Put simply, Miranda Joseph’s Debt to Society argues that we are made by capitalist accounting practices.”
 

@@ -6,9 +6,10 @@ title: Westworld, Season One
 publication: Los Angeles Review of Books
 link: https://lareviewofbooks.org/article/westworld-season-1/
 date: 2016-10-07
+permalink: 2016/10/07/aaron-bady-westworld-season-one
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Aaron Bady]] • [[Los Angeles Review of Books]]
  
 “Adaptations clarify the passage of time: in repetition, we measure what has changed by what has not.”
 

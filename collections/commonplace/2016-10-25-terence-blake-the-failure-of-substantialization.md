@@ -6,9 +6,10 @@ title: The Failure of Substantialization
 publication: Agent Swarm
 link: https://terenceblake.wordpress.com/2016/10/25/reading-disparities-6-the-failure-of-substantialization/
 date: 2016-10-25
+permalink: 2016/10/25/terence-blake-the-failure-of-substantialization
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Terence Blake]] • [[Agent Swarm]]
  
 Reading DISPARITIES (6)
 

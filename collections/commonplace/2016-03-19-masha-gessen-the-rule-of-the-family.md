@@ -6,9 +6,10 @@ title: The Rule of the Family
 publication: New York Review of Books
 link: http://www.nybooks.com/daily/2016/03/14/putin-mafia-state-lesin-killing/
 date: 2016-03-19
+permalink: 2016/03/19/masha-gessen-the-rule-of-the-family
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Masha Gessen]] • [[New York Review of Books]]
  
 ““Part half-decayed empire on ice and part gas station,” a description offered by political scientist Lilia Shevtsova, was probably the most colorful, but the current fashion among the Russian intellectual class is to call Russia a “hybrid regime,” one that combines elements of dictatorship and democracy.”
 

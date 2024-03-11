@@ -6,9 +6,10 @@ title: How Male Theologians Ruined Parenting
 publication: The Atlantic
 link: http://www.theatlantic.com/politics/archive/2016/05/parenting-theology/480477/
 date: 2016-05-02
+permalink: 2016/05/02/emma-green-how-male-theologians-ruined-parenting
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Emma Green]] • [[The Atlantic]]
  
 “We have our texts that guide our thinking, and we have the rabbis and the teachers throughout the ages who have commented on the primary texts, and we have logical reasoning and philosophy. The tradition hasn’t always known what to do with experience that isn’t mediated through those things, like being in a relationship or having children.”
 

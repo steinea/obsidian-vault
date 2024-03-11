@@ -6,9 +6,10 @@ title: The Chinese Rooms of Cognitive Capital
 publication: Triple Ampersand
 link: http://tripleampersand.org/the-chinese-rooms-of-cognitive-capital/
 date: 2016-05-20
+permalink: 2016/05/20/adam-burke-the-chinese-rooms-of-cognitive-capital
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Adam Burke]] •[[Triple Ampersand]]
  
 “This piece was developed while participating in Matteo Pasquinelli‘s seminar, Capital as Computation & Cognition: From Babbage’s Factory to Google’s Algorithmic Governance, hosted by The New Centre for Research & Practice in March 2015… The status of robots and workers under cognitive capitalism can be likened to Searle’s Chinese Room, as noted by Srnicek and Williams when writing on high frequency automated trading. What was initiated by Searle as an argument emphasizing the alienness and stupidity of artificial intelligence, complete with Orientalist framing, is here repurposed to view the subject of the “worker­obot” within the calculating machine’d political economy.”
 

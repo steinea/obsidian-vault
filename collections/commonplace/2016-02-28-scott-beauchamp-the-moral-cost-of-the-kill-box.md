@@ -6,9 +6,10 @@ title: The Moral Cost of the Kill Box
 publication: The Atlantic
 link: http://www.theatlantic.com/politics/archive/2016/02/the-cost-of-the-kill-box/470751/
 date: 2016-02-28
+permalink: 2016/02/28/scott-beauchamp-the-moral-cost-of-the-kill-box
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Scott Beauchamp]] • [[The Atlantic]]
  
 “In laymen’s terms, “kill boxes” sound like torture devices. In military jargon, they are almost incomprehensible; as defined in the Department of Defense Dictionary, they are “a three-dimensional area reference that enables timely, effective coordination and control and facilitates rapid attacks.””
 

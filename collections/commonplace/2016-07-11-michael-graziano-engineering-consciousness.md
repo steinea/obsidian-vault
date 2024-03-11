@@ -6,9 +6,10 @@ title: Engineering Consciousness
 publication: Aeon
 link: https://aeon.co/essays/can-we-make-consciousness-into-an-engineering-problem
 date: 2016-07-11
+permalink: 2016/07/11/michael-graziano-engineering-consciousness
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Michael Graziano]] • [[Aeon]]
  
 “The brain is a machine: a device that processes information.”
 

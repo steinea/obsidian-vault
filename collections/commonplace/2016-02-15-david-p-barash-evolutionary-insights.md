@@ -6,9 +6,10 @@ title: Evolutionary Insights
 publication: Los Angeles Review of Books
 link: https://lareviewofbooks.org/review/five-blockbuster-evolutionary-insights-and-one-wild-life-on-robert-trivers/
 date: 2016-02-15
+permalink: 2016/02/15/david-p-barash-evolutionary-insights
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[David P. Barash]] • [[Los Angeles Review of Books]]
  
 ““THE MASS OF MEN,” according to Thoreau, “lead lives of quiet desperation.” I always thought this an overstatement, and still do. Nonetheless, in a perverse way, this dictum might be true of many — perhaps most — great scientists, especially if we substitute “concentration” for “desperation.”
 

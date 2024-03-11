@@ -6,9 +6,10 @@ title: Imagination Battles
 publication: Los Angeles Review of Books
 link: https://lareviewofbooks.org/review/imagination-battles-what-will-the-future-look-like/
 date: 2016-01-24
+permalink: 2016/01/24/rose-eveleth-imagination-battles
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Rose Eveleth]] • [[Los Angeles Review of Books]]
  
 “The same sentiment is expressed a bit more clearly by Samuel Delany, in a remark filed under “Speculation”: “The healthiest way I know to use the future is to think about what sort of future you would like, then research the factors that would make such a future possible.””
 

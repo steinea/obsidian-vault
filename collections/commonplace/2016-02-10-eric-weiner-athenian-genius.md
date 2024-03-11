@@ -6,9 +6,10 @@ title: Athenian Genius
 publication: The Atlantic
 link: http://www.theatlantic.com/science/archive/2016/02/what-made-ancient-athens-a-city-of-genius/462009/
 date: 2016-02-10
+permalink: 2016/02/10/eric-weiner-athenian-genius
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Eric Weiner]] • [[Athenian Genius]]
  
 “But the apex of their civilization, sandwiched between two wars, lasted just 24 years—in human history, a lightning flash across the summer sky.
 

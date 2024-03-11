@@ -6,9 +6,10 @@ title: Entropy Begets Design
 publication: Asynsis
 link: https://asynsis.wordpress.com/2014/09/05/entropy-begets-design-qed-2/
 date: 2016-02-02
+permalink: 2016/02/02/nigel-anthony-reading-entropy-begets-design
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Nigel Anthony Reading]] • [[Asynsis]]
  
 “Design is an emergent property of and irreversibility and entropy.”
 

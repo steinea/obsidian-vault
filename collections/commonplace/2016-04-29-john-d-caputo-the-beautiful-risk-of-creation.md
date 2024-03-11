@@ -6,15 +6,16 @@ title: The Beautiful Risk of Creation
 publication: The Weakness of God
 link: https://books.google.ca/books/about/The_Weakness_of_God.html?id=8t4cl5rgDb8C
 date: 2016-04-29
+permalink: 2016/04/29/john-d-caputo-the-beautiful-risk-of-creation
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[John D. Caputo]] • [[The Weakness of God]]
  
 Twenty-six attempts preceded the present genesis,
 <br>all of which were destined to fail.
 <br>The world of man has arisen out of the chaotic heart
 <br>of the preceding debris; he too is exposed
-<br>to the risk of failure, and the reutrn to nothing.
+<br>to the risk of failure, and the return to nothing.
 <br>‘Let us hope it works’ (Halway Sheyaamod)
 <br>exclaimed God as he created the world,
 <br>and this hope, which has accompanied the subsequent history

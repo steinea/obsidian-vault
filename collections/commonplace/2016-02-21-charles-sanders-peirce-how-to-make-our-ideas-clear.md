@@ -6,9 +6,10 @@ title: How to Make Our Ideas Clear
 publication: Popular Science Monthly
 link: http://www.peirce.org/writings/p119.html
 date: 2016-02-21
+permalink: 2016/02/21/charles-sanders-peirce-how-to-make-our-ideas-clear
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Charles Sanders Peirce]] • [[Popular Science Monthly]]
  
 “A clear idea is defined as one which is so apprehended that it will be recognized wherever it is met with, and so that no other will be mistaken for it. If it fails of this clearness, it is said to be obscure.”
 

@@ -6,9 +6,10 @@ title: We Need to Save the Internet from the Internet of Things
 publication: Motherboard
 link: http://motherboard.vice.com/read/we-need-to-save-the-internet-from-the-internet-of-things
 date: 2016-10-06
+permalink: 2016/10/06/bruce-schneier-we-need-to-save-the-internet-from-the-internet-of-things
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Bruce Schneier]] • [[Motherboard]]
  
 “Basically, it's a size vs. size game. If the attackers can cobble together a fire hose of data bigger than the defender's capability to cope with, they win. If the defenders can increase their capability in the face of attack, they win.”
 

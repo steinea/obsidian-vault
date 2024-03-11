@@ -6,9 +6,10 @@ title: The Winds of Winter
 publication: Los Angeles Review of Books
 link: https://lareviewofbooks.org/article/game-thrones-season-6-winds-winter/
 date: 2016-07-14
+permalink: 2016/07/14/aaron-bady-sarah-mesle-the-winds-of-winter
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Aaron Bady]] • [[Sarah Mesle]] • [[Los Angeles Review of Books]]
  
 “Has there been a Game of Thrones episode that felt so resolutely Game of Thrones-centric? So totally uninterested in the larger world? I mean, this was an episode that paid off so many of its own plots, that resolved all sorts of things and moved the ball forward, but the show feels much less like a mirror held up to our reality than it often has in the past.”
 

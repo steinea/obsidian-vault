@@ -6,9 +6,10 @@ title: Mass Authentic
 publication: The New Inquiry
 link: http://thenewinquiry.com/blogs/marginal-utility/mass-authentic/
 date: 2016-12-21
+permalink: 2016/12/21/rob-horning-mass-authentic
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Rob Horning]] • [[The New Inquiry]]
  
 “(This is the text from a talk I gave at the Impakt Festival in Utrecht in October; it synthesizes some earlier posts from this blog and elsewhere.)”
 

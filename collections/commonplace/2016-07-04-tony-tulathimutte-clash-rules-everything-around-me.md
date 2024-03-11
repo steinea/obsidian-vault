@@ -6,9 +6,10 @@ title: Clash Rules Everything Around Me
 publication: Real Life
 link: http://reallifemag.com/clash-rules-everything-around-me/
 date: 2016-07-04
+permalink: 2016/07/04/tony-tulathimutte-clash-rules-everything-around-me
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Tony Tulathimutte]] • [[Real Life]]
  
 “Clash isn’t especially addictive (I know what that looks like), but it puts me in constant low-grade anxiety”
 

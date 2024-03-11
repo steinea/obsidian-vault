@@ -6,9 +6,10 @@ title: Critical Algorithm Studies
 publication: Social Media Collective
 link: http://socialmediacollective.org/reading-lists/critical-algorithm-studies/
 date: 2016-01-29
+permalink: 2016/01/29/tarleton-gillespie-nick-seaver-critical-algorithm-studies
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Tarleton Gillespie]] • [[Nick Seaver]] • [[Social Media Collective]]
  
 This list is an attempt to collect and categorize a growing critical literature on algorithms as social concerns. The work included spans sociology, anthropology, science and technology studies, geography, communication, media studies, and legal studies, among others. Our interest in assembling this list was to catalog the emergence of “algorithms” as objects of interest for disciplines beyond mathematics, computer science, and software engineering.
 

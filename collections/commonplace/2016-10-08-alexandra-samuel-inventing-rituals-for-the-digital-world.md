@@ -6,9 +6,10 @@ title: Inventing Rituals for the Digital World
 publication: JSTOR Daily
 link: http://daily.jstor.org/inventing-rituals-for-the-digital-world/
 date: 2016-10-08
+permalink: 2016/10/08/alexandra-samuel-inventing-rituals-for-the-digital-world
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Alexandra Samuel]] • [[JSTOR]]
  
 “As such, our online milestones are not yet surrounded with the traditions or rituals that mark significant offline turning points.”
 

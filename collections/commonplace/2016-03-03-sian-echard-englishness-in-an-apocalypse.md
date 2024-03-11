@@ -6,9 +6,10 @@ title: Englishness in an Apocalypse
 publication: Los Angeles Review of Books
 link: https://lareviewofbooks.org/review/englishness-in-an-apocalypse/
 date: 2016-03-03
+permalink: 2016/03/03/sian-echard-englishness-in-an-apocalypse
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Siân Echard]] • [[Los Angeles Review of Books]]
  
 “scarcity echoes the destruction brought about by the Norman Conquest of 1066. A farmer who struggles to find eels symbolizes the invaders’ power to create a world in which deprivation will become the new normal.”
 

@@ -6,9 +6,10 @@ title: Battle of the Bastards
 publication: Los Angeles Review of Books
 link: https://lareviewofbooks.org/article/game-thrones-season-6-battles-bastards/
 date: 2016-06-23
+permalink: 2016/06/23/sarah-mesle-aaron-bady-battle-of-the-bastards
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Sarah Mesle]] • [[Aaron Bady]] • [[Los Angeles Review of Books]]
  
 “At the level of language, this show was about the miserable wastefulness of violent patriarchy. But how to square that with the full half of this episode spent in wrenchingly rendered blood and gore?”
 

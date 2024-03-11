@@ -6,9 +6,10 @@ title: The False Dasein
 publication: Tripod
 link: http://jonmills.tripod.com/Dasein.htm
 date: 2016-07-28
+permalink: 2016/07/28/jon-mills-the-false-dasein
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[John Mills]]
  
 From Heidegger to Sartre and Psychoanalysis.
 

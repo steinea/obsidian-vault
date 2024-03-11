@@ -6,9 +6,10 @@ title: What Is Medium?
 publication: The Atlantic
 link: http://www.theatlantic.com/technology/archive/2013/08/what-is-medium/278965/
 date: 2016-10-08
+permalink: 2016/10/08/alexis-c-madrigal-what-is-medium
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Alexis C. Madrigal]] • [[The Atlantic]]
  
 “Perhaps Medium can continue to do precisely what it has been doing, and their brand value will continue to grow while these major questions remain unresolved. The center will hold because there is no center.”
 

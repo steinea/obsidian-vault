@@ -6,7 +6,10 @@ title: Quiet, Too Quiet
 publication: Los Angeles Review of Books
 link: https://lareviewofbooks.org/review/quiet-too-quiet/
 date: 2016-11-15
+permalink: 2016/11/15/gerry-canavan-quiet-too-quiet
 ---
+
+[[2016]] • [[commonplace]] • [[Gerry Canavan]] • [[Los Angeles Review of Books]]
 
 “THE FERMI PARADOX is an avenue of cosmological speculation popularly attributed to Italian physicist Enrico Fermi, who developed the world’s first nuclear reactor as part of the Manhattan Project and who is thus considered (alongside men like Oppenheimer, Einstein, and Szilard) one of the fathers of the atomic bomb. Around 1950, during one of his visits to Los Alamos, Fermi pondered the possibility of alien life in the galaxy with his lunchtime companions and asked the unexpected question, “Where are they?””
 

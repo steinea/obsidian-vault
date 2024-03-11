@@ -6,9 +6,10 @@ title: No Surrender
 publication: n+1
 link: https://nplusonemag.com/online-only/online-only/no-surrender/
 date: 2016-05-01
+permalink: 2016/05/01/richard-beck-no-surrender
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Richard Beck]] • [[n+1]]
  
 “There also exists an equally prevalent and equally false notion that terrorism represents an existential threat to the US. Taken together, these fantasies make terrorists seem more like zombies than like political actors, although more like the fast zombies from 28 Days Later than the traditional, Evil Dead–era models. As with zombies, the only way to resolve a conflict with terrorists is to kill them all.”
 

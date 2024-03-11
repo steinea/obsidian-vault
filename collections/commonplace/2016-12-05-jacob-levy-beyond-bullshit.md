@@ -6,9 +6,10 @@ title: Beyond Bullshit
 publication: Daily Nous
 link: http://dailynous.com/2016/12/05/beyond-bullshit/
 date: 2016-12-05
+permalink: 2016/12/05/jacob-levy-beyond-bullshit
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Jacob Levy]] • [[Daily Nous]]
  
 “To understand this kind of political untruth, I think we have to look to theorists of truth and language in politics; Frankfurt’s essay was only tangentially that. But the great analysts of truth and speech under totalitarianism—George Orwell, Hannah Arendt, Vaclav Havel—can help us recognize this kind of lie for what it is. Sometimes—often—a leader with authoritarian tendencies will lie in order to make others repeat his lie both as a way to demonstrate and strengthen his power over them.”
 

@@ -6,9 +6,10 @@ title: Male Fantasies
 publication: e-flux
 link: http://www.e-flux.com/journal/76/72759/male-fantasies-the-sequel-s/
 date: 2016-10-05
+permalink: 2016/10/05/ana-teixeira-pinto-male-fantasies
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Ana Teixeira Pinto]] • [[e-flux]]
  
 “the question of fascism, or rather the question of why might people vote for their own oppression, has never ceased to haunt political philosophy”
 

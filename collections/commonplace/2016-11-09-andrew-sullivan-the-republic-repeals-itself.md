@@ -6,9 +6,10 @@ title: The Republic Repeals Itself
 publication: New York Magazine
 link: http://nymag.com/daily/intelligencer/2016/11/andrew-sullivan-president-trump-and-the-end-of-the-republic.html
 date: 2016-11-09
+permalink: 2016/11/09/andrew-sullivan-the-republic-repeals-itself
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Andrew Sullivan]] • [[New York Magazine]]
  
 “We are witnessing the power of a massive populist movement that has now upended the two most stable democracies in the world — and thrown both countries into a completely unknown future.”
 

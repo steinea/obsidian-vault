@@ -6,9 +6,10 @@ title: The Anatomy of the Mental Personality
 publication: Marxists
 link: https://www.marxists.org/reference/subject/philosophy/works/at/freud2.htm
 date: 2016-03-10
+permalink: 2016/03/10/sigmund-freud-the-anatomy-of-the-mental-personality
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Sigmund Freud]] • [[Marxists]]
  
 “With regard to the two alternatives - that the ego and the super-ego may themselves be unconscious, or that they may merely give rise to unconscious effects - we have for good reasons decided in favour of the former.”
 

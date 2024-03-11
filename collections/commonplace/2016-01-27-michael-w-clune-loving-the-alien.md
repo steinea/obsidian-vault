@@ -6,9 +6,10 @@ title: Loving the Alien
 publication: Los Angeles Review of Books
 link: https://lareviewofbooks.org/review/loving-the-alien-thomas-ligotti-and-the-psychology-of-cosmic-horror/
 date: 2016-01-27
+permalink: 2016/01/27/michael-w-clune-loving-the-alien
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Michael W. Clune]] • [[Los Angeles Review of Books]]
  
 “Lovecraft’s most ardent recent lovers have been philosophers like Graham Harman, Quentin Meillassoux, and Eugene Thacker, who approach his work with a new kind of intellectual intensity. These philosophers see Lovecraft as effecting a kind of Copernican revolution. In story after story, he depicts the invasion of the human world by a monstrous perspective, embodied in hideous forms of alien life. But what makes Lovecraftian horror genuinely cosmic is the capacity of the monstrous perspective to put humans in their place.”
 

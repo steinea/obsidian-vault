@@ -6,9 +6,10 @@ title: Theory of Knowledge
 publication: Marxists
 link: https://www.marxists.org/reference/subject/philosophy/works/en/russell1.htm
 date: 2016-02-26
+permalink: 2016/02/26/bertrand-russell-theory-of-knowledge
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Bertrand Russell]] • [[Marxists]]
  
 “Theory of Knowledge
 for The Encyclopaedia Britannica”

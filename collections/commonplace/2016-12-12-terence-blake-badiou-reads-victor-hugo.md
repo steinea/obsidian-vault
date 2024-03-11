@@ -6,9 +6,10 @@ title: Badiou Reads Victor Hugo
 publication: Agent Swarm
 link: https://terenceblake.wordpress.com/2016/12/22/badiou-reads-victor-hugo-1-the-blue-thistle-and-dis-enclosing-the-finite/
 date: 2016-12-22
+permalink: 2016/12/22/terence-blake-badiou-reads-victor-hugo
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Terence Blake]] • [[Agent Swarm]]
  
 Badiou’s strategy involves beginning with a critique of the dominant ideology of modern society, which is no longer based on a finitude of stability and repetition but on a new form of finitude, one of movement and innovation. The critique of the dogma of human finitude will lead him to elaborate a new theory of the infinite.
 

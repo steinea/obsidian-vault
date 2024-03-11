@@ -6,9 +6,10 @@ title: Soul and Dual
 publication: Los Angeles Review of Books
 link: https://lareviewofbooks.org/article/soul-dual-dothead-amit-majmudar/
 date: 2016-10-12
+permalink: 2016/10/12/caitlin-doyle-soul-and-dual
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Caitlin Doyle]] • [[Los Angeles Review of Books]]
  
 “THE EPIGRAPH of Amit Majmudar’s new poetry collection Dothead comes from Dr. Seuss: “It is fun to have fun / But you have to know how.””
 

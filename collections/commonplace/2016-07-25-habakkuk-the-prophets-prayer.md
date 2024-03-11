@@ -2,13 +2,14 @@
 layout: entry
 category: commonplace
 author: Habakkuk
-title: Bible
+title: In Wrath May You Remember Mercy
 publication: Wikipedia
 link: https://en.wikipedia.org/wiki/Habakkuk_3
 date: 2016-07-25
+permalink: 2016/07/25/habakkuk-in-wrath-may-you-remember-mercy
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Habakkuk]] • [[Bible]]
  
 O LORD, I have heard of your renown,  
 <br>and I stand in awe, O LORD, of your work.

@@ -2,13 +2,14 @@
 layout: entry
 category: commonplace
 author: Douglas Coupland
-title: What if There’s No Next Big Thing?
+title: What If There’s No Next Big Thing?
 publication: e-flux
 link: http://www.e-flux.com/journal/what-if-theres-no-next-big-thing/
 date: 2016-07-20
+permalink: 2016/07/20/douglas-coupland-what-if-theres-no-next-big-thing
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Douglas Coupland]] • [[e-flux]]
  
 “What if tech itself is the next big thing in the art world?”
 

@@ -6,9 +6,10 @@ title: A Declaration of the Dignity Image
 publication: The New Inquiry
 link: http://thenewinquiry.com/essays/a-declaration-of-the-dignity-image/
 date: 2016-09-17
+permalink: 2016/09/17/american-artist-a-declaration-of-the-dignity-image
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[American Artist]] •[[The New Inquiry]]
  
 “The act of creating and modifying online identities by deciding which images to share is also an act of erecting boundaries between self-conception and assimilation to an avatar. Avatars are vulnerable to exploitation by social media platforms.”
 

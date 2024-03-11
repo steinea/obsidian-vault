@@ -6,9 +6,10 @@ title: The World's Most Efficient Languages
 publication: The Atlantic
 link: http://www.theatlantic.com/international/archive/2016/06/complex-languages/489389/
 date: 2016-07-13
+permalink: 2016/07/13/john-mcwhorter-the-worlds-most-efficient-languages
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[John McWhorter]] • [[The Atlantic]]
  
 “German is, overall, busier than English, and yet Germans feel their way of putting things is as normal as English speakers feel their way is.”
 

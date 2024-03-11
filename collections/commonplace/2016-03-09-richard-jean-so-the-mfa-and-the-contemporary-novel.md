@@ -6,9 +6,10 @@ title: The MFA and the Contemporary Novel
 publication: The Atlantic
 link: http://www.theatlantic.com/entertainment/archive/2016/03/mfa-creative-writing/462483/
 date: 2016-03-09
+permalink: 2016/03/09/richard-jean-so-the-mfa-and-the-contemporary-novel
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Richard Jean So]] • [[The Atlantic]]
  
 “But what if there’s no change to speak of? Is it really possible to tell the difference between novels that have been through the meat-grinder of the MFA and those that haven’t?”
 

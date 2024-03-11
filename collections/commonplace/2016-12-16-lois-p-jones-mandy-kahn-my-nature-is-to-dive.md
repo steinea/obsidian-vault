@@ -6,9 +6,10 @@ title: My Nature Is to Dive
 publication: Los Angeles Review of Books
 link: https://lareviewofbooks.org/article/nature-dive-interview-poet-mandy-kahn/
 date: 2016-12-16
+permalink: 2016/12/16/lois-p-jones-mandy-kahn-my-nature-is-to-dive
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Lois P. Jones]] • [[Mandy Kahn]] • [[Los Angeles Review of Books]]
  
 “AFTER SELLING OUT its original UK edition on Eyewear Publishing, Mandy Kahn’s remarkable first collection of poems, Math, Heaven, Time, is now available in an American paperback edition.”
 

@@ -6,9 +6,10 @@ title: In Catastrophic Times
 publication: Social Ecologies
 link: https://socialecologies.wordpress.com/2015/12/30/isabelle-stengers-in-catastrophic-times/
 date: 2016-02-10
+permalink: 2016/02/10/s-c-hickman-in-catastrophic-times
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[S. C. Hickman]] •[[Social Ecologies]]
  
 ““In writing this book I am situating myself amongst those who want to be the inheritors of a history of struggles undertaken against the perpetual state of war that capitalism makes rule. It is the question of how to inherit this history today that makes me write.” 
 ………….– Isabelle Stengers, In Catastrophic Times”

@@ -6,9 +6,10 @@ title: School Children and Philosophers
 publication: Aeon
 link: https://aeon.co/opinions/to-see-philosophy-in-action-visit-a-primary-school-class
 date: 2016-03-03
+permalink: 2016/03/03/peter-worley-school-children-and-philosophers
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Peter Worley]] • [[Aeon]]
  
 “‘Everything’s a time machine,’ someone else announces later. And when asked to say more about this, adds: ‘Because everything is moving into the future one second at a time.’ I have seen two students respond to this point in the same way on two separate occasions: ‘I’m travelling through time one second at a time, but if I stand up…’ [student stands up] ‘…I’m still travelling through time, so the chair isn’t a time machine; it’s not making me travel through time.’ Elegant.”
 

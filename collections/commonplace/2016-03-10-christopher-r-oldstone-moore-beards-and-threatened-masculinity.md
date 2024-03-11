@@ -6,9 +6,10 @@ title: Beards and Threatened Masculinity
 publication: Aeon
 link: https://aeon.co/opinions/how-beards-put-a-brave-face-on-threatened-masculinity
 date: 2016-03-10
+permalink: 2016/03/10/christopher-r-oldstone-moore-beards-and-threatened-masculinity
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Christopher R. Oldstone-Moore]] • [[Aeon]]
  
 “Disconnection from nature and the increasing irrelevance of physical strength, along with the gradual rise of women in public life, threatened to destabilise common understandings of manliness at the very moment when manhood had achieved new political status.”
 

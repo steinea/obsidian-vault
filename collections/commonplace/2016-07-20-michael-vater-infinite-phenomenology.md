@@ -6,9 +6,10 @@ title: Infinite Phenomenology
 publication: Notre Dame Philosophical Reviews
 link: https://ndpr.nd.edu/news/67644-infinite-phenomenology-the-lessons-of-hegels-science-of-experience/
 date: 2016-07-20
+permalink: 2016/07/20/michael-vater-infinite-phenomenology
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Michael Vater]] • [[Notre Dame Philosophical Reviews]]
  
 “J.N. Findlay remarked that it was not worth the effort to read the 19th and 20th century British Idealists as heirs of Kant or Hegel because their grand systems smacked too much of empire, colonialism, and Eurocentrism. The march of abstract categories to the triumph of the Universal was just too systematic, and reason far too hegemonic for the power of the negative and the persistence of the particular (‘ethicality’) to manifest their true force.”
 

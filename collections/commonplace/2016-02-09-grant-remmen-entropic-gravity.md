@@ -6,9 +6,10 @@ title: Entropic Gravity
 publication: Preposterous Universe
 link: http://www.preposterousuniverse.com/blog/2016/02/08/guest-post-grant-remmen-on-entropic-gravity/
 date: 2016-02-09
+permalink: 2016/02/09/grant-remmen-entropic-gravity
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Grant Remmen]] • [[Preposterous Universe]]
  
 “Famously, a complete quantum mechanical theory of gravitation is difficult to construct. However, one of the aspects that we are now coming to understand about quantum gravity is that in the final theory, gravitation and even spacetime itself will be closely related to, and maybe even emergent from, the mysterious quantum mechanical property known as entanglement.”
 

@@ -6,9 +6,10 @@ title: Society of the Spectacle
 publication: Marxists
 link: https://www.marxists.org/reference/archive/debord/society.htm
 date: 2016-01-18
+permalink: 2016/01/18/guy-debord-society-of-the-spectacle
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Guy Debord]] • [[Marxists]]
  
 “But certainly for the present age, which prefers the sign to the thing signified, the copy to the original, representation to reality, the appearance to the essence... illusion only is sacred, truth profane.”
 

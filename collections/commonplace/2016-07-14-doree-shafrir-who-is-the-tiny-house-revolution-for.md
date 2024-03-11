@@ -6,9 +6,10 @@ title: Who Is The Tiny House Revolution For?
 publication: Buzzfeed
 link: https://www.buzzfeed.com/doree/who-is-the-tiny-house-revolution-for
 date: 2016-07-14
+permalink: 2016/07/14/doree-shafrir-who-is-the-tiny-house-revolution-for
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Doree Shafrir]] • [[Buzzfeed]]
  
 “Why are there so many shows about tiny houses? Because people can’t get enough of them. According to an HGTV spokesperson, their tiny house programming gets an average of 5 million viewers per week combined.”
 

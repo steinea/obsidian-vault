@@ -6,9 +6,10 @@ title: Azeen Ghorayshi
 publication: The New Inquiry
 link: http://thenewinquiry.com/essays/this-sex-which-is-not-two/
 date: 2016-02-17
+permalink: 2016/02/17/azeen-ghorayshi-this-sex-which-is-not-two
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Azeen Ghorayshi]] • [[The New Inquiry]]
  
 “I discovered Esther Thelen and dynamic systems theory, and I became very irritated at the constant reiteration of the nature versus nurture paradigm. I thought, Well, this is what has to happen to the study of gender and development.”
 

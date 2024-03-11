@@ -6,9 +6,10 @@ title: There Is
 publication: Notre Dame Philosophical Reviews
 link: https://ndpr.nd.edu/news/68329-there-is-the-event-and-the-finitude-of-appearing/
 date: 2016-07-27
+permalink: 2016/07/27/pierre-jean-renaudie-there-is
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Pierre Jean Renaudie]] • [[Notre Dame Philosophical Reviews]]
  
 “This is the third volume (originally published in French as Il y a, 2003) in Claude Romano's 'evential hermeneutics' project. It evolved from Event and World (2009; L’événement et le monde, 1998) and Event and Time (2014; L’événement et le temps, 1999). This third volume laid the groundwork for Romano's major work, At the Heart of Reason (2015; Au cœur de la raison, la phénoménologie, 2010).”
 

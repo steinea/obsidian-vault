@@ -9,7 +9,7 @@ date: 2015-12-23
 permalink: 2015/12/23/natalie-wolchover-a-stranger-side-to-natures-building-blocks
 ---
 
-[[2015]] • [[commonplace]] • [[Natalie Walchover]] • [[Quanta Magazine]]
+[[2015]] • [[commonplace]] • [[Natalie Wolchover]] • [[Quanta Magazine]]
 
 https://www.quantamagazine.org/string-theory-black-holes-and-a-strange-superconducting-material-20130701
 

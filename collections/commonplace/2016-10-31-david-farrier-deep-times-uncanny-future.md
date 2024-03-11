@@ -6,9 +6,10 @@ title: Deep Time's Uncanny Future
 publication: Aeon
 link: https://aeon.co/ideas/deep-time-s-uncanny-future-is-full-of-ghostly-human-traces
 date: 2016-10-31
+permalink: 2016/10/31/david-farrier-deep-times-uncanny-future
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[David Farrier]] • [[Aeon]]
  
 “We are accustomed to the idea of geology and astronomy speaking the secrets of ‘deep time’, the immense arc of non-human history that shaped the world as we perceive it.”
 

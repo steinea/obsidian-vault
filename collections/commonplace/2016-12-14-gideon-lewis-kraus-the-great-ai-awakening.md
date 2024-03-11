@@ -6,9 +6,10 @@ title: The Great A.I. Awakening
 publication: The New York Times
 link: http://www.nytimes.com/2016/12/14/magazine/the-great-ai-awakening.html
 date: 2016-12-14
+permalink: 2016/12/14/gideon-lewis-kraus-the-great-ai-awakening
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Gideon Lewis-Kraus]] • [[The New York Times]]
  
 “Everybody wondered: How had Google Translate become so uncannily artful?”
 

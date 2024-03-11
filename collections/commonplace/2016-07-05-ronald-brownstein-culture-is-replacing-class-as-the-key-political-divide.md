@@ -6,9 +6,10 @@ title: Culture Is Replacing Class as the Key Political Divide
 publication: The Atlantic
 link: http://www.theatlantic.com/politics/archive/2016/06/britain-united-states/489410/
 date: 2016-07-05
+permalink: 2016/07/05/ronald-brownstein-culture-is-replacing-class-as-the-key-political-divide
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Ronald Brownstein]] • [[The Atlantic]]
  
 “Both geographically and demographically, the British referendum split the U.K. along lines familiar in America. An extensive election-day survey by Lord Michael Ashcroft, a British pollster, found that the leave campaign carried over three-fifths of those without four-year college degrees, a comparable number of seniors, and a narrow majority of all whites. Election results showed the leave campaign amassing big margins outside of major cities. The campaign to remain won over two-thirds of non-whites, about three-fifths of college graduates, and big majorities among younger and urban voters. In London, which recently elected one of the western world’s first Muslim mayors, 60 percent voted to stay.”
 

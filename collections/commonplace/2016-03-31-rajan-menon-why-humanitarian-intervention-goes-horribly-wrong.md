@@ -6,9 +6,10 @@ title: Why Humanitarian Intervention Goes Horribly Wrong
 publication: Aeon
 link: https://aeon.co/opinions/why-humanitarian-intervention-goes-horribly-wrong
 date: 2016-03-31
+permalink: 2016/03/31/rajan-menon-why-humanitarian-intervention-goes-horribly-wrong
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Rajan Menon]] • [[Aeon]]
  
 “Two decades have shown that plans to protect people from massacres are so rife with practical and political shortcomings that we might be better off discarding the ideal.”
 

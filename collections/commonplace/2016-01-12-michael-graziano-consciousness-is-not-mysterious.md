@@ -6,9 +6,10 @@ title: Consciousness Is Not Mysterious
 publication: The Atlantic
 link: http://www.theatlantic.com/science/archive/2016/01/consciousness-color-brain/423522/
 date: 2016-01-12
+permalink: 2016/01/12/michael-graziano-consciousness-is-not-mysterious
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Michael Graziano]] • [[The Atlantic]]
  
 “When Isaac Newton was 17 years old, he performed a series of experiments with prisms and light beams. Within weeks he discovered the scientific explanation for color, invented the reflecting telescope, proposed the particle theory of light, and deduced that the human eye contained three receptor types corresponding to the three primary colors. Not bad for a teen.”
 

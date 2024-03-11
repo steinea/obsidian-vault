@@ -6,9 +6,10 @@ title: What Does Eternity Indicate
 publication: Poets
 link: https://poets.org/poem/song-myself-44
 date: 2016-09-29
+permalink: 2016/09/29/walt-whitman-what-does-eternity-indicate
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Walt Whitman]] • [[Poets]]
  
 It is time to explain myself—Let us stand up.
  

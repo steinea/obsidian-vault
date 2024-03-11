@@ -6,9 +6,10 @@ title: Zizek’s Quantum Hermeneutics
 publication: Agent Swarm
 link: https://terenceblake.wordpress.com/2016/10/23/reading-disparities-3-zizeks-quantum-hermeneutics/
 date: 2016-10-23
+permalink: 2016/10/23/terence-blake-zizeks-quantum-hermeneutics
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Terence Blake]] • [[Agent Swarm]]
  
 Reading DISPARITIES (3)
 

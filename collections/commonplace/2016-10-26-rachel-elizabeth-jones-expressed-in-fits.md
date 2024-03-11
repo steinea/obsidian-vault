@@ -6,9 +6,10 @@ title: Expressed in Fits
 publication: The New Inquiry
 link: http://thenewinquiry.com/essays/expressed-in-fits/
 date: 2016-10-26
+permalink: 2016/10/26/rachel-elizabeth-jones-expressed-in-fits
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Rachel Elizabeth Jones]] • [[The New Inquiry]]
  
 “Dancing represents work towards reaching a powerful, controlled feminine ideal of sexiness and strength. The fits are a closely related inverse; they are highly physical and gendered, but instead represent the loss of bodily control through a mysterious spasm.”
 

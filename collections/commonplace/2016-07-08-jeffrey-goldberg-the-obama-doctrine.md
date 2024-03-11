@@ -6,9 +6,10 @@ title: The Obama Doctrine
 publication: The Atlantic
 link: http://www.theatlantic.com/magazine/archive/2016/04/the-obama-doctrine/471525/
 date: 2016-07-08
+permalink: 2016/07/08/jeffrey-goldberg-the-obama-doctrine
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Jeffrey Goldberg]] • [[The Atlantic]]
  
 “Obama believes that the Manichaeanism, and eloquently rendered bellicosity, commonly associated with Churchill were justified by Hitler’s rise, and were at times defensible in the struggle against the Soviet Union. But he also thinks rhetoric should be weaponized sparingly, if at all, in today’s more ambiguous and complicated international arena. The president believes that Churchillian rhetoric and, more to the point, Churchillian habits of thought, helped bring his predecessor, George W. Bush, to ruinous war in Iraq.”
 

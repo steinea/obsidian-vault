@@ -6,9 +6,10 @@ title: Six Theses on the One and the Infinite
 publication: Agent Swarm
 link: https://terenceblake.wordpress.com/2016/11/10/badiou-the-one-the-infinite-six-theses/
 date: 2016-11-10
+permalink: 2016/11/10/terence-blake-six-theses-on-the-one-and-the-infinite
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Terence Blake]] • [[Agent Swarm]]
  
 “In the introduction to his seminar L’INFINI: ARISTOTE, SPINOZA, HEGEL (1984-1985) Badiou lists eight fundamental theses concerning the concepts of the One and the Infinite.”
 

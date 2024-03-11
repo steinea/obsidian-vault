@@ -6,9 +6,10 @@ title: The Science Fiction That Came Before Science
 publication: The Atlantic
 link: http://www.theatlantic.com/science/archive/2016/11/the-science-fiction-that-came-before-science/508067/
 date: 2016-11-18
+permalink: 2016/11/18/edward-simon-the-science-fiction-that-came-before-science
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] •  [[Edward Simon]] • [[The Atlantic]]
  
 “A reading list of these early stories includes works of varying canonicity, such as Thomas More’s Utopia (1516), Francis Bacon’s New Atlantis (1627), Johannes Kepler’s Somnium (1634), Margaret Cavendish’s The Blazing World (1666), Henry Neville’s The Isle of Pines (1688), and Jonathan Swift’s Gulliver’s Travels (1726).”
 

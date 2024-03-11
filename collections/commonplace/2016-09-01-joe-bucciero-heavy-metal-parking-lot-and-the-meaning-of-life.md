@@ -6,9 +6,10 @@ title: <em>Heavy Metal Parking Lot</em> and the Meaning of Life
 publication: Los Angeles Review of Books
 link: https://lareviewofbooks.org/article/heavy-metal-parking-lot-and-the-meaning-of-life/
 date: 2016-09-01
+permalink: 2016/09/01/joe-bucciero-heavy-metal-parking-lot-and-the-meaning-of-life
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Joe Bucciero]] • [[Los Angeles Review of Books]]
  
 “Viewers see behavior that’s definitely juvenile and often illegal. But is it really rebellion or simply a desperate performance? What’s the value of performing rebellion?”
 

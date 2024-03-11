@@ -6,9 +6,10 @@ title: City Hunger
 publication: The New Inquiry
 link: http://thenewinquiry.com/essays/city-hunger/
 date: 2016-02-02
+permalink: 2016/02/02/monica-datta-city-hunger
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Monica Datta]] • [[The New Inquiry]]
  
 “ARCHITECTURE has a limited vocabulary for hunger.”
 

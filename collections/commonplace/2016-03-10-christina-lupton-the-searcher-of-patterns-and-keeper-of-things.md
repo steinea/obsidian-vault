@@ -6,9 +6,10 @@ title: The Searcher of Patterns and the Keeper of Things
 publication: Los Angeles Review of Books
 link: https://lareviewofbooks.org/review/the-searcher-of-patterns-and-the-keeper-of-things/
 date: 2016-03-10
+permalink: 2016/03/10/christina-lupton-the-searcher-of-patterns-and-the-keeper-of-things
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Christina Lupton]] • [[Los Angeles Review of Books]]
  
 “We find ourselves these days at a strange point in the history of intellection, where the “how” of finding out often looms larger as a form of innovation than the “what.””
 

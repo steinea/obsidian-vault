@@ -6,9 +6,10 @@ title: Hjelmslev's Univocity
 publication: The Univocity of Deleuze
 link: http://users.rcn.com/bmetcalf.ma.ultranet/Hjelmslev's%20Univocity.htm
 date: 2016-10-14
+permalink: 2016/10/14/beth-metcalf-hjelmslevs-univocity
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Beth Metcalf]] • [[The Univocity of Deleuze]]
  
 Hjelmslev’s Univocity
 by Beth Metcalf

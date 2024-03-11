@@ -6,9 +6,10 @@ title: Evangelicals Are Losing the Battle for the Bible
 publication: Los Angeles Review of Books
 link: https://lareviewofbooks.org/essay/evangelicals-are-losing-the-battle-for-the-bible-and-theyre-just-fine-with-that/
 date: 2016-02-17
+permalink: 2016/02/17/jim-hinch-evangelicals-are-losing-the-battle-for-the-bible
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Jim Hinch]] • [[Los Angeles Review of Books]]
  
 “Zimmermann’s prototypical evangelical experience is emblematic in one additional, unexpected way. Since graduating from high school, Zimmermann has undergone a revolution in his thinking about evangelicals’ foundational text, the Bible, to the extent that he no longer regards the Bible as inerrant, dictated by God, historically accurate in all of its claims or even internally consistent with itself.”
 

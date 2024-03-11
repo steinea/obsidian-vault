@@ -6,9 +6,10 @@ title: A Matter of Interpretation
 publication: New York Review of Books
 link: http://www.nybooks.com/articles/1998/06/11/justice-for-scalia/
 date: 2016-02-17
+permalink: 2016/02/17/robert-post-a-matter-of-interpretation
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Robert Post]] • [[New York Review of Books]]
  
 “Much concerned with questions of legal theory, he has brought to the bench a sharp intelligence, lively prose that fairly jumps from the dreary pages of the Supreme Court reports, and a determined commitment to reform the ways courts interpret the law.”
 

@@ -6,9 +6,10 @@ title: On Killing Dogs
 publication: Los Angeles Review of Books
 link: https://lareviewofbooks.org/review/on-killing-dogs/
 date: 2016-02-02
+permalink: 2016/02/02/colin-dickey-on-killing-dogs
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Colin Dickey]] • [[Los Angeles Review of Books]]
  
 “WE ARE CONDITIONED from a young age to think of humanity as somehow separate from Nature. Nature is the blank slate against which humans define themselves, from God’s command in Genesis that humans “have dominion over the fish of the sea, and over the fowl of the air, and over the cattle, and over all the earth, and over every creeping thing that creepeth upon the earth,” to modern environmentalism’s call to preserve it. Nature is the passive recipient of our actions; we are the active, vital force that exerts ourselves on it.”
 

@@ -6,9 +6,10 @@ title: Reacting to Reactions
 publication: The New Inquiry
 link: http://thenewinquiry.com/blogs/marginal-utility/reacting-to-reactions/
 date: 2016-03-12
+permalink: 2016/03/12/rob-horning-reacting-to-reactions
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Rob Horning]] • [[The New Inquiry]]
  
 “identity construction on social media as a form of labor, and the role the idea of “authenticity” plays in extracting that labor”
 

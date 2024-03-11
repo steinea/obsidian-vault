@@ -6,9 +6,10 @@ title: Bros Before Homes
 publication: The New Republic
 link: https://newrepublic.com/article/134651/bros-homes
 date: 2016-07-03
+permalink: 2016/07/03/phoebe-maltz-bovy-bros-before-homes
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Phoebe Maltz Bovy]] • [[The New Republic]]
  
 “The superiority of experiences has become our era’s reigning banality.”
 

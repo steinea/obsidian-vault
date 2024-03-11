@@ -6,9 +6,10 @@ title: Cosmology Returns in the Connected Age
 publication: Los Angeles Review of Books
 link: https://lareviewofbooks.org/article/cosmology-returns-connected-age-werner-herzogs-lo-behold/
 date: 2016-09-04
+permalink: 2016/09/04/florian-fuchs-cosmology-returns-in-the-connected-age
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Florian Fuchs]] • [[Los Angeles Review of Books]]
  
 “Within this optical ecosystem Herzog has developed a special care for those images, spectacles, and phenomena that must be kept clean from cinematic vision so that they may remain visible off screen, in their own habitat. Essentially, his is a concern not for particular phenomena, but for unguarded seeing itself.”
 

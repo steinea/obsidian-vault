@@ -6,9 +6,10 @@ title: Chaos of Facts
 publication: Real Life
 link: http://reallifemag.com/chaos-of-facts/
 date: 2016-10-19
+permalink: 2016/10/19/nathan-jurgenson-chaos-of-facts
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Nathan Jurgenson]] • [[Real Life]]
  
 “The candidates are brands, and the debates have almost no discussion of ideas or positions, let alone much bearing on what being president actually requires. Instead, debates signify “politics” while allowing for depoliticized analysis”
 

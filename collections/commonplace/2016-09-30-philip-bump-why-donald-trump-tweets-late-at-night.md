@@ -6,9 +6,10 @@ title: Why Donald Trump Tweets Late at Night
 publication: The Washington Post
 link: https://www.washingtonpost.com/news/the-fix/wp/2016/09/30/why-donald-trump-tweets-late-at-night-and-very-early-in-the-morning/
 date: 2016-09-30
+permalink: 2016/09/30/philip-bump-why-donald-trump-tweets-late-at-night
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Philip Ball]] • [[Washington Post]]
  
 “While most American voters were asleep, Trump was up and tweeting about things that were making him angry.”
 

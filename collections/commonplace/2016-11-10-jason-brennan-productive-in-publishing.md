@@ -6,9 +6,10 @@ title: Productive in Publishing
 publication: Daily Nous
 link: http://dailynous.com/2016/11/10/productive-publishing-guest-post-jason-brennan/
 date: 2016-11-10
+permalink: 2016/11/10/jason-brennan-productive-in-publishing
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Jason Brennan]] • [[Daily Nous]]
  
 Jason Brennan received his Ph.D. in philosophy in 2007. Since then, he has authored or co-authored seven books, and has two more books currently in progress. He has also written a good number of peer-reviewed articles, reference entries, and pieces for popular consumption. He’s currently Robert J. and Elizabeth Flanagan Family Chair and Provost’s Distinguished Associate Professor of Strategy, Economics, Ethics, and Public Policy at the McDonough School of Business at Georgetown University. How is he so prolific? What follows is an outline of advice he presented to graduate students at Georgetown.
 

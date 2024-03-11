@@ -6,9 +6,10 @@ title: The Art of the Possible
 publication: Los Angeles Review of Books
 link: https://lareviewofbooks.org/article/art-possible-peter-frases-four-futures/
 date: 2016-10-05
+permalink: 2016/10/05/jedidiah-purdy-the-art-of-the-possible
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Jedidiah Purdy]] • [[The Art of the Possible]]
  
 “HISTORY, THE SOCIAL THEORIST Roberto Unger once observed, is genuinely surprising: it does not just seem that way.”
 

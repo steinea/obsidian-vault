@@ -6,9 +6,10 @@ title: The Limits of Absurdity
 publication: Los Angeles Review of Books
 link: https://lareviewofbooks.org/essay/the-limits-of-absurdity/
 date: 2016-03-23
+permalink: 2016/03/23/robert-zaretsky-the-limits-of-absurdity
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Robert Zaretsky]] • [[Los Angeles Review of Books]]
  
 “Jean-Paul Sartre, had preceded him to New York in 1945. Playing the role of existentialism’s John the Baptist, Sartre spoke at great length about Camus to a reporter from, of all places, the American edition of Vogue.”
 

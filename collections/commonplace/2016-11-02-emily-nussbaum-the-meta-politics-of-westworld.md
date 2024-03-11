@@ -6,9 +6,10 @@ title: The Meta-Politics of *Westworld*
 publication: The New Yorker
 link: http://www.newyorker.com/magazine/2016/10/24/the-meta-politics-of-westworld
 date: 2016-11-02
+permalink: 2016/11/02/emily-nussbaum-the-metapolitics-of-westworld
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Emily Nussbaum]] • [[The New Yorker]]
  
 “Self-cannibalism and the snake that eats its own tail: that’s a fair description of “Westworld,” a come-hither drama that introduces itself as a science-fiction thriller about cyborgs who become self-aware, then reveals its true identity as what happens when an HBO drama struggles to do the same.”
 

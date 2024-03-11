@@ -6,9 +6,10 @@ title: The Logic of Misogyny
 publication: Bostom Review
 link: http://bostonreview.net/forum/kate-manne-logic-misogyny
 date: 2016-07-20
+permalink: 2016/07/20/kate-manne-the-logic-of-misogyny
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Kate Manne]] • [[Boston Review]]
  
 “Whereas old-school misogynists condemn and punish women for their sexual powers and transgressions, this new kind of misogynist competes with other men for heterosexual dominance—and for the ladies.”
 

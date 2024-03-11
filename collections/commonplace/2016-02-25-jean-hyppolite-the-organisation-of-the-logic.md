@@ -6,9 +6,10 @@ title: The Organisation of the Logic
 publication: Marxists
 link: https://www.marxists.org/reference/subject/philosophy/works/fr/hyppolit.htm
 date: 2016-02-25
+permalink: 2016/02/25/jean-hyppolite-the-organisation-of-the-logic
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Jean Hyppolite]] • [[Marxists]]
  
 “Jean Hyppolite (1952)
 

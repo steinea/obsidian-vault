@@ -6,9 +6,10 @@ title: Speech and Writing According to Hegel
 publication: Marxists
 link: https://www.marxists.org/reference/subject/philosophy/works/fr/derrida1.htm
 date: 2016-02-23
+permalink: 2016/02/23/jacques-derrida-speech-and-writing-according-to-hegel
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Jacques Derrida]] •[[Marxists]]
  
 “Introduction to Hegel's semiology
 

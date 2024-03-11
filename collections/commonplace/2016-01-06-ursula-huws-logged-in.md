@@ -6,9 +6,10 @@ title: Logged In
 publication: Jacobin
 link: https://www.jacobinmag.com/2016/01/huws-sharing-economy-crowdsource-precarity-uber-workers/
 date: 2016-01-06
+permalink: 2016/01/06/ursula-huws-logged-in
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Ursula Huws]] • [[Jacobin]]
  
 “First there’s an economic crisis. Then comes an enormous restructuring of capital — and with it a restructuring of labor — throwing past certainties into doubt. Old industries, companies, and occupations disappear and new ones emerge, enabled by new technologies. As people struggle to find a way to describe the seismic upheavals in the economic and social landscape, a linguistic mist arises, muddling the features of this new landscape, blurring attempts to analyze and map it.”
 

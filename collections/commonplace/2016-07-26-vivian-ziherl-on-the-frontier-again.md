@@ -6,9 +6,10 @@ title: On the Frontier, Again
 publication: e-flux
 link: http://www.e-flux.com/journal/on-the-frontier-again/
 date: 2016-07-26
+permalink: 2016/07/26/vivian-ziherl-on-the-frontier-again
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Vivian Ziherl]] • [[e-flux]]
  
 “Like the stick pulled through sand to create a line, the frontier marks the point at which the soaring ideals of modernity touch ground.”
 

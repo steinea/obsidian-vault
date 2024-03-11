@@ -6,9 +6,10 @@ title: Imitatio Americana
 publication: Los Angeles Review of Books
 link: https://lareviewofbooks.org/review/imitatio-americana/
 date: 2016-03-22
+permalink: 2016/03/22/d-berton-emerson-imitatio-americana
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[D. Berton Emerson]] • [[Los Angeles Review of Books]]
  
 “William Huntting Howell’s book of literary and cultural criticism Against Self-Reliance begins with Emerson’s maxim — which Howell finds, ironically, scrawled onto a bathroom wall. Using this small bit of imitative graffiti as a launching point, Howell sets about amending the popular story of the United States of America as the force that indelibly gave the individual, the sacred self, a position of fundamental prominence.”
 

@@ -6,9 +6,10 @@ title: Review of Through Vegetal Being
 publication: Notre Dame Philosophical Reviews
 link: https://ndpr.nd.edu/news/71015-through-vegetal-being-two-philosophical-perspectives/
 date: 2016-11-03
+permalink: 2016/11/03/elaine-p-miller-review-of-through-vegetal-being
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Elaine P. Miller]] • [[Notre Dame Philosophical Reviews]]
  
 “joint project by Luce Irigaray and Michael Marder”
 

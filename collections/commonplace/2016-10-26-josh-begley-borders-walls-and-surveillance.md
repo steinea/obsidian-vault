@@ -6,9 +6,10 @@ title: Borders, Walls, and Surveillance
 publication: The Intercept
 link: https://theintercept.com/2016/10/26/best-of-luck-with-the-wall/
 date: 2016-10-26
+permalink: 2016/10/26/josh-begley-borders-walls-and-surveillance
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Josh Begley]] • [[The Intercept]]
  
 “Borders begin as fictions. They are performed. They are lines drawn in the sand, spaces that bend and break and make exceptions for certain kinds of bodies.”
 

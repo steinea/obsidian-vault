@@ -6,9 +6,10 @@ title: Existentialism is a Humanism
 publication: Marxists
 link: https://www.marxists.org/reference/archive/sartre/works/exist/sartre.htm
 date: 2016-01-16
+permalink: 2016/01/16/jean-paul-sartre-existentialism-is-a-humanism
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Jean-Paul Sartre]] • [[Marxists]]
  
 “First, it has been reproached as an invitation to people to dwell in quietism of despair. For if every way to a solution is barred, one would have to regard any action in this world as entirely ineffective, and one would arrive finally at a contemplative philosophy. Moreover, since contemplation is a luxury, this would be only another bourgeois philosophy. This is, especially, the reproach made by the Communists.”
 

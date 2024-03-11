@@ -6,9 +6,10 @@ title: Shirtless Trump Saves Drowning Kitten
 publication: MTV
 link: https://www.mtv.com/news/sctf7j/shirtless-trump-saves-drowning-kitten
 date: 2016-11-16
+permalink: 2016/11/16/brian-phillips-shirtless-trump-saves-drowning-kitten
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Brian Phillips]] • [[MTV]]
  
 “One of the luxuries of power in Silicon Valley is the luxury to deny that your power exists.”
 

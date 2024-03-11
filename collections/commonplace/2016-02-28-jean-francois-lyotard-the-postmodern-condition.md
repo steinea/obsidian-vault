@@ -2,13 +2,14 @@
 layout: entry
 category: commonplace
 author: Jean-Francois Lyotard
-title: The Postmodern Condition
+title: The Status of Knowledge
 publication: Marxists
 link: https://www.marxists.org/reference/subject/philosophy/works/fr/lyotard.htm
 date: 2016-02-28
+permalink: 2016/02/28/jean-francois-lyotard-the-postmodern-condition
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Jean-Francois Lyotard]] • [[Marxists]]
  
 “The Postmodern Condition: A Report on Knowledge
 

@@ -6,9 +6,10 @@ title: Social Science, Socialist Scientists, and the Future of Utopias
 publication: Platypus
 link: http://blog.castac.org/2015/09/socialist-scientists/
 date: 2016-01-09
+permalink: 2016/01/09/abou-farman-social-science-socialist-scientist-and-the-future-of-utopias
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Abou Farman]] • [[Platypus]]
  
 “JD Bernal’s 1929 warning about “human dimorphism”: Bernal wondered about a future in which “mechanizers” would live an enhanced, technoscientifically-evolved form of life, separated from the “humanizers,” the masses whose physical needs would be equally gratified thanks to scientific advancements—but who would prefer to exist in an atavistic human way, enjoying mundanities such as friendliness, poetry, dancing, drinking, singing, and art.”
 

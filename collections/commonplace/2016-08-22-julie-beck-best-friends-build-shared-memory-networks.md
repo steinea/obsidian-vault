@@ -6,9 +6,10 @@ title: Best Friends Build Shared Memory Networks
 publication: The Atlantic
 link: https://www.theatlantic.com/health/archive/2016/08/how-best-friends-share-each-others-memories/496715/
 date: 2016-08-22
+permalink: 2016/08/22/julie-beck-best-friends-build-shared-memory-networks
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Julie Beck]] • [[The Atlantic]]
  
 “They’re always reminding me of things I’ve forgotten. They’re an extra hard drive for my limited memory capacity.”
 

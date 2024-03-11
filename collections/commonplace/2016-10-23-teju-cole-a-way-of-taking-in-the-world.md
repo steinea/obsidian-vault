@@ -6,9 +6,10 @@ title: A Way of Taking in the World
 publication: Los Angeles Review of Books
 link: https://lareviewofbooks.org/article/a-way-of-taking-in-the-world/
 date: 2016-10-23
+permalink: 2016/10/23/teju-cole-a-way-of-taking-in-the-world
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Teju Cole]] • [[Los Angeles Review of Books]]
  
 “Cole brings us his discoveries and celebrations of the often lesser-known artists he has come upon in his wanderings. An outsider and a flâneur, he is a man of many interests and several strong compulsions — and he makes his way forward by following the flights of his restless sensibility.”
 

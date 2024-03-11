@@ -6,9 +6,10 @@ title: The Soviet Matrix
 publication: Los Angeles Review of Books
 link: https://lareviewofbooks.org/article/the-soviet-matrix-on-the-strugatsky-brothers-the-doomed-city/
 date: 2016-11-05
+permalink: 2016/11/05/marat-grinberg-the-soviet-matrix
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Marat Grinberg]] • [[Los Angeles Review of Books]]
  
 “The older Arkady and the younger Boris began as devout communist idealists in thrall of the revolutionary Soviet project, and they ended as its harshest critics and opponents, equating the drabness and nightmares of Kafka’s world with Soviet values.”
 

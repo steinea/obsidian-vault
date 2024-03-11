@@ -6,9 +6,10 @@ title: Naked Criticism
 publication: The New Inquiry
 link: http://thenewinquiry.com/essays/naked-criticism/
 date: 2016-03-09
+permalink: 2016/03/09/mal-ahern-naked-criticism
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Mal Ahern]] • [[The New Inquiry]]
  
 “But is it possible to write criticism—or even to write critically—while at the same time refusing the critic’s authority? Can a work be coherent, meaningful, and precise without its author dressing it as a piece of art criticism—or as an interview, a short story, a book of photos, a psychoanalytic case study, an autobiography?”
 

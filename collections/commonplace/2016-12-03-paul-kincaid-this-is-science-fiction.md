@@ -6,9 +6,10 @@ title: This is Science Fiction?
 publication: Los Angeles Review of Books
 link: https://lareviewofbooks.org/article/this-is-science-fiction/
 date: 2016-12-03
+permalink: 2016/12/03/paul-kincaid-this-is-science-fiction
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Paul Kincaid]] • [[Los Angeles Review of Books]]
  
 “IS THERE ANY BRANCH of literature so insecure, so uncertain of its own status, as science fiction?”
 

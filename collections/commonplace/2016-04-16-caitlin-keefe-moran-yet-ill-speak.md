@@ -6,9 +6,10 @@ title: Yet I'll Speak
 publication: The Toast
 link: http://the-toast.net/2016/04/13/yet-ill-speak-othellos-emilia/
 date: 2016-04-16
+permalink: 2016/04/16/caitlin-keefe-moran-yet-ill-speak
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Caitlin Keefe Moran]] • [[The Toast]]
  
 “Iago, sensing that she’s about to expose him, tells her to shut up and go home. She responds with a speech that puts the rest of the characters of the play to shame:
 

@@ -6,9 +6,10 @@ title: Give Us Today
 publication: Los Angeles Review of Books
 link: https://lareviewofbooks.org/article/give-us-today/
 date: 2016-12-29
+permalink: 2016/12/29/david-haeselin-give-us-today
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[David Haeselin]] • [[Los Angeles Review of Books]]
  
 “Scott Cutler Shershow’s Bread, the newest entry from Bloomsbury’s Object Lessons series, maintains this connection between food and work, insisting that the meaning of bread not be separated from questions of labor.”
 

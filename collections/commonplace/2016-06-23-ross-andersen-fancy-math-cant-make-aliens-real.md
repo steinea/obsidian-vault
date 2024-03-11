@@ -6,9 +6,10 @@ title: Fancy Math Can’t Make Aliens Real
 publication: The Atlantic
 link: http://www.theatlantic.com/science/archive/2016/06/fancy-math-cant-make-aliens-real/487589/
 date: 2016-06-23
+permalink: 2016/06/23/ross-andersen-fancy-math-cant-make-aliens-real
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Ross Andersen]] • [[The Atlantic]]
  
 “No generation of humans has ever gazed up at night skies so pregnant with possibility.”
 

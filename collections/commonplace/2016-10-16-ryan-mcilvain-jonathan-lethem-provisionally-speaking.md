@@ -6,9 +6,10 @@ title: Provisionally Speaking
 publication: Los Angeles Review of Books
 link: https://lareviewofbooks.org/article/provisionally-speaking-interview-jonathan-lethem/
 date: 2016-10-16
+permalink: 2016/10/16/ryan-mcilvain-jonathan-lethem-provisionally-speaking
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Ryan McIlvain]] •[[Jonathan Lethem]] • [[Los Angeles Review of Books]]
  
 “being in the presence of this writer’s talented talk is like being in the presence of his novelistic voice — an exhilarating experience, instructive, freewheeling, earnest, sometimes confusing, intimidating, occasionally overwhelming, spirited, high-speed, funny, fun.”
 

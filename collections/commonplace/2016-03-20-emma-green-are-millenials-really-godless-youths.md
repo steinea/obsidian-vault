@@ -6,9 +6,10 @@ title: Are Millennials Really Godless Youths?
 publication: The Atlantic
 link: http://www.theatlantic.com/politics/archive/2016/03/how-will-young-people-choose-their-religion/474366/
 date: 2016-03-20
+permalink: 2016/03/20/emma-green-are-millenials-really-godless-youths
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Emma Green]] • [[The Atlantic]]
  
 “People in their 20s and early 30s account for more than a third of the country’s “nones,” an academic nickname for the religiously disaffiliated.”
 

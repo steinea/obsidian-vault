@@ -6,9 +6,10 @@ title: Inequality Is About So Much More Than Money
 publication: The Atlantic
 link: http://www.theatlantic.com/business/archive/2016/04/total-inequality/476238/
 date: 2016-04-03
+permalink: 2016/04/03/derek-thompson-inequality-is-about-so-much-more-than-money
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Derek Thompson]] • [[The Atlantic]]
  
 “In rich countries, the distribution of wealth is more unequal than the distribution of income; wealth will continue to grow faster than income (r>g); and, therefore, a small elite will inherit the wealth of the world with little left over for the many poor.”
 

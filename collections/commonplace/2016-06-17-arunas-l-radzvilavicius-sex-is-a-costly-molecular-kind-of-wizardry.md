@@ -6,9 +6,10 @@ title: Sex is a Costly Molecular Kind of Wizardry
 publication: Aeon
 link: https://aeon.co/ideas/sex-is-a-costly-molecular-kind-of-wizardry-why-evolve-it
 date: 2016-06-17
+permalink: 2016/06/17/arunas-l-radzvilavicius-sex-is-a-costly-molecular-kind-of-wizardry
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Arunas L. Radzvilavicius]] • [[Aeon]]
  
 “At its heart, sex is a process of genetic mixing: it creates unique sets of genes and trait combinations different from either of the two parents.”
 

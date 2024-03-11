@@ -6,9 +6,10 @@ title: Pathologies of Organized Violence
 publication: Los Angeles Review of Books
 link: http://lareviewofbooks.org/review/the-pathologies-of-organized-violence/
 date: 2016-01-14
+permalink: 2016/01/14/cajetan-nwabueze-iheka-pathologies-of-organized-violence
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Cajetan Nwabueze Iheka]] • [[Los Angeles Review of Books]]
  
 “The triangle between the three characters demonstrates the globalization of state violence at the heart of this story. From his interactions with Melissa, Mrs. Shaw, and Rafael, who they visit in prison, Kalumba is exposed to stories of state-sponsored violence that transcend Africa.”
 

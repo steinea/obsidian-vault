@@ -6,9 +6,10 @@ title: Buying Less by Buying Better
 publication: The Atlantic
 link: http://www.theatlantic.com/business/archive/2016/02/buying-less-by-buying-better/462639/
 date: 2016-02-17
+permalink: 2016/02/17/elizabeth-cline-buying-less-by-buying-better
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Elizabeth Cline]] • [[The Atlantic]]
  
 “According to a recent survey commissioned by the British charity Barnardo’s, a majority of women’s garments are worn a mere seven times before being pushed to the back of the closet or tossed into the garbage.”
 

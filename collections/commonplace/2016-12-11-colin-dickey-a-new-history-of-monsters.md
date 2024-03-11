@@ -6,9 +6,10 @@ title: Up Out of the Darkness
 publication: Los Angeles Review of Books
 link: https://lareviewofbooks.org/article/darkness-new-history-monsters/
 date: 2016-12-11
+permalink: 2016/12/11/colin-dickey-up-out-of-the-darkness
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Colin Dickey]] • [[Los Angeles Review of Books]]
  
 “WE HAVE ALWAYS HAD monsters in our lives.”
 

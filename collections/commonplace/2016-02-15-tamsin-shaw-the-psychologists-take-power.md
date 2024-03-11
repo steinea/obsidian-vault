@@ -6,9 +6,10 @@ title: The Psychologists Take Power
 publication: New York Review of Books
 link: http://www.nybooks.com/articles/2016/02/25/the-psychologists-take-power/
 date: 2016-02-15
+permalink: 2016/02/15/tamsin-shaw-the-psychologists-take-power
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Tamsin Shaw]] • [[New York Review of Books]]
  
 “The psychological school of behaviorism sought to replace the idea of human beings as autonomous agents with the “scientific” view of them as biological organisms, responding to external stimuli, whose behavior could be modified by altering their environment.”
 

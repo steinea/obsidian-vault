@@ -6,9 +6,10 @@ title: Sunday Morning
 publication: Poetry Foundation
 link: https://www.poetryfoundation.org/poetrymagazine/poems/13261/sunday-morning
 date: 2016-03-10
+permalink: 2016/03/10/wallace-stevens-sunday-morning
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Wallace Stevens]] • [[Poetry Foundation]]
  
       I
 

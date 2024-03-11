@@ -6,9 +6,10 @@ title: Quantum Mechanics Could Be Even Weirder
 publication: The Atlantic
 link: https://www.theatlantic.com/science/archive/2016/06/quantum-mechanics-weird/487691/
 date: 2016-06-26
+permalink: 2016/06/26/philip-ball-quantum-mechanics-could-be-even-weirder
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Philip Ball]] • [[The Atlantic]]
  
 Why doesn’t the world make sense? At the fundamental level of atoms and subatomic particles, the familiar “classical” physics that accounts for how objects move around gives way to quantum physics, with new rules that defy intuition. Traditionally these are expressed as paradoxes: particles that can be in two places at once, cats that are simultaneously alive and dead, apparently impossible faster-than-light signaling between distant particles. But quantum rules are perfectly logical and consistent—the “paradoxes” are the result of our trying to impose on them the everyday reasoning of classical physics.
 

@@ -6,9 +6,10 @@ title: Face to Interface
 publication: Real Life
 link: http://reallifemag.com/face-to-interface/
 date: 2016-08-10
+permalink: 2016/08/10/jenny-l-davis-face-to-interface
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Jenny L. Davis]] • [[Real Life]]
  
 “This false universality, and the indifference it can breed, is the crux of privilege: The privileged group needn’t worry themselves with the nuts and bolts of social navigation, because the system has evolved to accommodate them.”
 

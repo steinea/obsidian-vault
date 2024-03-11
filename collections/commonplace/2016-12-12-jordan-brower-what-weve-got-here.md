@@ -6,7 +6,10 @@ title: What We’ve Got Here
 publication: Los Angeles Review of Books
 link: https://lareviewofbooks.org/article/weve-got-arrival/
 date: 2016-12-12
+permalink: 2016/12/12/jordan-brower-what-weve-got-here
 ---
+
+[[2016]] • [[commonplace]] • [[Jordan Brower]] • [[Los Angeles Review of Books]]
 
 “Like a Finnegans Wake for everybody, Arrival plays with both language and narrative circularity, upsetting our expectations of beginnings and endings.”
 

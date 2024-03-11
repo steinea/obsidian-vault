@@ -6,9 +6,10 @@ title: On Hegel
 publication: Marxists
 link: https://www.marxists.org/reference/subject/philosophy/works/us/peirce3.htm
 date: 2016-02-04
+permalink: 2016/02/04/charles-sanders-peirce-on-hegel
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Charles Sanders Peirce]] • [[Marxists]]
  
 “The critical logicians have been much affiliated to the theological seminaries.”
 

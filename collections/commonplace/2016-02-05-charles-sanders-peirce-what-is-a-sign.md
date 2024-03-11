@@ -6,9 +6,10 @@ title: What Is a Sign?
 publication: Marxists
 link: https://www.marxists.org/reference/subject/philosophy/works/us/peirce1.htm
 date: 2016-02-05
+permalink: 2016/02/05/charles-sanders-peirce-what-is-a-sign
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Charles Sanders Peirce]] • [[Marxists]]
  
 “What Is a Sign?”
 

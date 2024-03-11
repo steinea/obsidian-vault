@@ -6,9 +6,10 @@ title: Freedom and Self-Creation
 publication: Notre Dame Philosophical Reviews
 link: https://ndpr.nd.edu/news/66679-freedom-and-self-creation-anselmian-libertarianism/
 date: 2016-07-23
+permalink: 2016/07/23/tomas-ekenberg-freedom-and-self-creation
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Tomas Ekenberg]] •[[Notre Dame Philosophical Reviews]]
  
 “Rogers wishes to introduce into the free will debate a new (old) position, Anselmian libertarianism.”
 

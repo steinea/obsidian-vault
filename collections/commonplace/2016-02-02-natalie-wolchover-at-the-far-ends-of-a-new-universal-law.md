@@ -6,9 +6,10 @@ title: At the Far Ends of a New Universal Law
 publication: Quanta Magazine
 link: https://www.quantamagazine.org/20141015-at-the-far-ends-of-a-new-universal-law/
 date: 2016-02-02
+permalink: 2016/02/02/natalie-wolchover-at-the-far-ends-of-a-new-universal-law
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Natalie Wolchover]] • [[Quanta Magazine]]
  
 “Systems of many interacting components — be they species, integers or subatomic particles — kept producing the same statistical curve, which had become known as the Tracy-Widom distribution. This puzzling curve seemed to be the complex cousin of the familiar bell curve, or Gaussian distribution, which represents the natural variation of independent random variables like the heights of students in a classroom or their test scores.”
 

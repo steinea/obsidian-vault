@@ -6,9 +6,10 @@ title: Five Hundred Years of Utopia
 publication: Jacobin
 link: https://www.jacobinmag.com/2016/04/thomas-more-utopia-socialism-progress-wilde/
 date: 2016-05-08
+permalink: 2016/05/08/ed-simon-five-hundred-years-of-utopia
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Ed Simon]] • [[Jacobin]]
  
 “Utopia turns five hundred this year. Thomas More — lawyer, author, theorist, radical, martyr, saint — gave us the word with his 1516 book Utopia.”
 

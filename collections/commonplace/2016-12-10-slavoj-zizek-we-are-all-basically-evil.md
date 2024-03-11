@@ -6,9 +6,10 @@ title: We Are All Basically Evil
 publication: The Guardian
 link: http://www.theguardian.com/lifeandstyle/2016/dec/10/slavoj-zizek-we-are-all-basically-evil-egotistical-disgusting
 date: 2016-12-10
+permalink: 2016/12/10/slavoj-zizek-we-are-all-basically-evil
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Slavoj Zizek]] • [[The Guardian]]
  
 “Hollywood knows everything. It’s obsessed with dystopias, like in Elysium or The Hunger Games. I really think this is one of our quite possible futures. Young people today should prepare for a big catastrophe, but engage in well thought out, local everyday struggles, and not escape into moralism.”
 

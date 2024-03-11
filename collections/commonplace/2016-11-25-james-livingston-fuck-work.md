@@ -6,9 +6,10 @@ title: Fuck Work
 publication: Aeon
 link: https://aeon.co/essays/what-if-jobs-are-not-the-solution-but-the-problem
 date: 2016-11-25
+permalink: 2016/11/25/james-livingston-fuck-work
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[James Livingston]] • [[Aeon]]
  
 “Work means everything to us Americans.”
 

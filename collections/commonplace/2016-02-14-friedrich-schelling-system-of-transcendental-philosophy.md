@@ -6,9 +6,10 @@ title: System of Transcendental Philosophy
 publication: Marxists
 link: https://www.marxists.org/reference/subject/philosophy/works/ge/schellin.htm
 date: 2016-02-14
+permalink: 2016/02/14/friedrich-schelling-system-of-transcendental-philosophy
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Friedrich Schelling]] • [[Marxists]]
  
 “1. All knowledge is founded upon the coincidence of an objective with a subjective. - For we know only what is true; but truth is generally taken to consist in the coincidence of presentations with their objects.”
 

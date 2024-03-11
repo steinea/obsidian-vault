@@ -6,9 +6,10 @@ title: Kant's Antinomies of Pure Reason
 publication: University of Richmond
 link: https://philosophy.richmond.edu/faculty/ggoddu/
 date: 2016-02-20
+permalink: 2016/02/20/geoffrey-goddu-kants-antinomies-of-pure-reason
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Geoffrey Goddu]] • [[University of Richmond]]
  
 Philosophy 272: Handout K1
 

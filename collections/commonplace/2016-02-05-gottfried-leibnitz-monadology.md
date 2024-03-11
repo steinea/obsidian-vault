@@ -6,9 +6,10 @@ title: Monadology
 publication: Marxists
 link: https://www.marxists.org/reference/subject/philosophy/works/ge/leibniz.htm
 date: 2016-02-05
+permalink: 2016/02/05/gottfried-leibnitz-monadology
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Gottfried Leibnitz]] • [[Marxists]]
  
 “1. The monad, of which we will speak here, is nothing else than a simple substance, which goes to make up compounds; by simple, we mean without parts.”
 

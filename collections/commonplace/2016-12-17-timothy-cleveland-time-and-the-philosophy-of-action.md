@@ -6,9 +6,10 @@ title: Time and the Philosophy of Action
 publication: Notre Dame Philosophical Reviews
 link: https://ndpr.nd.edu/news/time-and-the-philosophy-of-action-2/
 date: 2016-12-17
+permalink: 2016/12/17/timothy-cleveland-time-and-the-philosophy-of-action
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Timothy Cleveland]] •[[Notre Dame Philosophical Reviews]]
  
 “Action takes time, unfolds in time.”
 

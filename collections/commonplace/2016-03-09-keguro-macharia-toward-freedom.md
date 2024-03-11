@@ -6,9 +6,10 @@ title: Toward Freedom
 publication: The New Inquiry
 link: http://thenewinquiry.com/blogs/wiathi/toward-freedom/
 date: 2016-03-09
+permalink: 2016/03/09/keguro-macharia-toward-freedom
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Keguro Macharia]] • [[Toward Freedom]]
  
 “Wiathi is a grounding and grounded word, a world-imagining, world-building word.”
 

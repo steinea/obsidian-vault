@@ -2,13 +2,14 @@
 layout: entry
 category: commonplace
 author: Pierre Bourdieu
-title: Field
+title: Bourdieu's Field
 publication: Wikipedia
 link: https://en.wikipedia.org/wiki/Field_(Bourdieu)
 date: 2016-05-11
+permalink: 2016/05/11/pierre-bourdieu-field
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Pierre Bourdieu]] • [[Wikipedia]]
  
 Field
 

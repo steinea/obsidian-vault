@@ -6,9 +6,10 @@ title: Traits of the Pluralist
 publication: Agent Swarm
 link: https://terenceblake.wordpress.com/2016/11/06/traits-of-the-pluralist-non-originality-non-uniqueness-non-totalisation-of-the-other/
 date: 2016-11-06
+permalink: 2016/11/06/terence-blake-traits-of-the-pluralist
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Terence Blake]] • [[Agent Swarm]]
  
 “Zizek often talks as if Deleuze had put forward a post-modern relativism, which he didn’t, and as if he had no arguments against Freud and Lacan, which he did. The unconscious and the dialectic belong to noone.”
 

@@ -6,9 +6,10 @@ title: Logic and Dialectics
 publication: Marcists
 link: https://www.marxists.org/archive/ilyenkov/works/essays/essay3.htm
 date: 2016-02-20
+permalink: 2016/02/20/evald-ilyenkov-logic-and-dialectics
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Evald Ilyenkov]] • [[Marxists]]
  
 “First of all we must note that it was German classical philosophy that clearly recognised and sharply expressed the fact that all problems of philosophy as a special science somehow or other turned on the question of what thought was and what were its interrelations with the external world.”
 

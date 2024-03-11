@@ -6,9 +6,10 @@ title: For They Know Not What They Do
 publication: Amazon Review
 link: https://www.amazon.ca/product-reviews/0860913554/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=recent
 date: 2016-08-22
+permalink: 2016/08/22/tony-k-for-they-know-not-what-they-do
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Tony K.]] • [[Amazon Review]]
  
 "Slavoj Zizek is known for his eccentric Hegelian-Lacanian philosophy and his free-associating style, where he often peppers references to anything from Hollywood to theology to Kafka novels, alongside jokes about sex and other obscene matters, in his rather large collection of works which is still growing by the year. However, For They Know Not What They Do is one of his rare sustained theoretical works that, together with Tarrying With The Negative, The Ticklish Subject, and The Parallax View, almost maps out his full philosophical "system" - if one can call it that - i.e. the Lacanian reading of Hegel (and German Idealism in general), and vice versa. 
 

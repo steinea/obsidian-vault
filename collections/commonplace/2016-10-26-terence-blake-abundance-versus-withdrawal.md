@@ -6,9 +6,10 @@ title: Abundance versus Withdrawal
 publication: Agent Swarm
 link: https://terenceblake.wordpress.com/2014/04/24/ontology-abundance-vs-withdrawal/
 date: 2016-10-26
+permalink: 2016/10/26/terence-blake-abundance-versus-withdrawal
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Terence Blake]] • [[Agent Swarm]]
  
 “Graham Harman’s philosophy of science promulgates an absolute difference between the “real” object as posited in his philosophy and the “sensual” object, i.e. both the theoretical object of science and the ideological object of common sense and of the humanities.”
 

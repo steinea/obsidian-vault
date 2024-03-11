@@ -6,9 +6,10 @@ title: Prometheanism, Intelligence, Self-Determination
 publication: Social Ecologies
 link: https://socialecologies.wordpress.com/2016/01/13/reza-negarestani-prometheanism-intelligence-self-determination/
 date: 2016-02-10
+permalink: 2016/02/10/s-c-hickman-prometheanism-intelligence-self-determination
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[S. C. Hickman]] • [[Social Ecologies]]
  
 “In this post I will revisit both Negarestani’s and Brassier’s Prometheanism, which implies a critique of all those philosophies that have been based on forms of Will and Voluntarism.”
 

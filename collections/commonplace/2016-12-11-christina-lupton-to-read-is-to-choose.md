@@ -6,9 +6,10 @@ title: To Read is to Choose
 publication: Los Angeles Review of Books
 link: https://lareviewofbooks.org/article/to-read-is-to-choose/
 date: 2016-12-11
+permalink: 2016/12/11/christina-lupton-to-read-is-to-choose
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Christina Lupton]] • [[Los Angeles Review of Books]]
  
 “His stated purpose in The Untold Story of the Talking Book is not to weigh up the comparative advantages of media forms but to parse the whole concept of reading through the history of one of them.”
 

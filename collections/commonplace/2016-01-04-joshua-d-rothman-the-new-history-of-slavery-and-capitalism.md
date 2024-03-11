@@ -1,14 +1,15 @@
 ---
 layout: entry
 category: commonplace
-author: Joshua D Rothman
+author: Joshua D. Rothman
 title: The New History of Slavery and Capitalism
 publication: Aeon
 link: https://aeon.co/opinions/how-capitalist-was-american-slavery
 date: 2016-01-04
+permalink: 2016/01/04/joshua-d-rothman-the-new-history-of-slavery-and-capitalism
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Joshua D. Rothman]] • [[Aeon]]
  
 “human bondage gave rise to a modern Western superpower”
 

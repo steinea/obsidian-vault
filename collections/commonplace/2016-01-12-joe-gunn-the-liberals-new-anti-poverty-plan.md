@@ -6,9 +6,10 @@ title: The Liberals' New Anti-Poverty Plan
 publication: Rabble
 link: http://rabble.ca/blogs/bloggers/views-expressed/2016/01/five-keys-to-liberals-new-anti-poverty-plan
 date: 2016-01-12
+permalink: 2016/01/12/joe-gunn-the-liberals-new-anti-poverty-plan
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Joe Gunn]] • [[Rabble]]
  
 “here are five key characteristics any solid national strategy should include.”
 

@@ -6,9 +6,10 @@ title: The World According to Stanisław Lem
 publication: Los Angeles Review of Books
 link: https://lareviewofbooks.org/article/world-according-stanislaw-lem/
 date: 2016-12-10
+permalink: 2016/12/10/ezra-glinter-the-world-according-to-stanislaw-lem
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Ezra Glinter]] • [[Los Angeles Review of Books]]
  
 “THERE’S A PARADOX at the heart of science fiction. The most basic aspiration of the genre — its very essence, really — is to transcend time and place.”
 

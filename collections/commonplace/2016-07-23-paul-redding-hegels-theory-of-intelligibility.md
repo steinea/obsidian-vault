@@ -6,9 +6,10 @@ title: Hegel's Theory of Intelligibility
 publication: Notre Dame Philosophical Reviews
 link: https://ndpr.nd.edu/news/66506-hegels-theory-of-intelligibility/
 date: 2016-07-23
+permalink: 2016/07/23/paul-redding-hegels-theory-of-intelligibility
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Paul Redding]] •[[Notre Dame Philosophical Reviews]]
  
 “For Pippin, most, if not all, of the connotations of Hegel's key concept that might worry the modernist -- the concept of "spirit" (Geist) -- can be sidelined by correctly placing it in relation to Kant's notion of the "transcendental unity of apperception". "Spirit" is not the name of some spooky non-natural substance. Rather, at its heart is the type of normative requirement that any finite rational individual integrate their beliefs into a consistent whole. This is the demand for unification expressed in the moral context in Kant by the idea of acting on the Categorical Imperative.”
 

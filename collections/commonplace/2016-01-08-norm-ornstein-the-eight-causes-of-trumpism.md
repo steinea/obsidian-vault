@@ -6,9 +6,10 @@ title: The Eight Causes of Trumpism
 publication: The Atlantic
 link: http://www.theatlantic.com/politics/archive/2016/01/the-eight-causes-of-trumpism/422427/
 date: 2016-01-08
+permalink: 2016/01/08/norm-ornstein-the-eight-causes-of-trumpism
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Norm Ornstein]] • [[The Atlantic]]
  
 “Trump and a broader phenomenon—call it Trumpism—are stronger and deeper than most veteran political analysts realized or were willing to acknowledge.”
 

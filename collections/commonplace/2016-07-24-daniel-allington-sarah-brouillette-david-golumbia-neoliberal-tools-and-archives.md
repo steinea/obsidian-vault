@@ -6,9 +6,10 @@ title: Neoliberal Tools (and Archives)
 publication: Los Angeles Review of Books
 link: https://lareviewofbooks.org/article/neoliberal-tools-archives-political-history-digital-humanities/
 date: 2016-07-24
+permalink: 2016/07/24/daniel-allington-sarah-brouillette-david-golumbia-neoliberal-tools-and-archives
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Daniel Allington]] •[[Sarah Brouillette]] • [[David Golumbia]] • [[Los Angeles Review of Books]]
  
 “Advocates position Digital Humanities as a corrective to the “traditional” and outmoded approaches to literary study that supposedly plague English departments.”
 

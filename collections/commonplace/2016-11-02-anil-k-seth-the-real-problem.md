@@ -6,9 +6,10 @@ title: The Real Problem
 publication: Aeon
 link: https://aeon.co/essays/the-hard-problem-of-consciousness-is-a-distraction-from-the-real-one
 date: 2016-11-02
+permalink: 2016/11/02/anil-k-seth-the-real-problem
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Anil K. Seth]] • [[Aeon]]
  
 “Its key is to recognise that explaining why consciousness exists at all is not necessary in order to make progress in revealing its material basis – to start building explanatory bridges from the subjective and phenomenal to the objective and measurable.”
 

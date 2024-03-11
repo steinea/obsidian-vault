@@ -6,9 +6,10 @@ title: The Overload
 publication: The New Inquiry
 link: http://thenewinquiry.com/blogs/marginal-utility/the-overload/
 date: 2016-05-02
+permalink: 2016/05/02/rob-horning-the-overload
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Rob Horning]] • [[The New Inquiry]]
  
 “Not only can’t we curate our information feeds, but we can’t curate our personal desires, so we welcome ads and algorithms to solve the overwhelming problem for us.”
 

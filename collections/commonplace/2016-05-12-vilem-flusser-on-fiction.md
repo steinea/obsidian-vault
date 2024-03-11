@@ -6,9 +6,10 @@ title: On Fiction
 publication: Triple Ampersand
 link: http://tripleampersand.org/flusser-on-fiction/
 date: 2016-05-12
+permalink: 2016/05/12/vilem-flusser-on-fiction
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Vilém Flusser]] • [[Triple Ampersand]]
  
 “Originally published as DA FICÇÃO in Jornal O Diário de Ribeirão Preto, São Paulo, on 26 August 1966.”
 

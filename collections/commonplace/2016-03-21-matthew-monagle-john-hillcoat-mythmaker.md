@@ -6,9 +6,10 @@ title: John Hillcoat, Mythmaker
 publication: Los Angeles Review of Books
 link: https://lareviewofbooks.org/essay/john-hillcoat-mythmaker/
 date: 2016-03-21
+permalink: 2016/03/21/matthew-monagle-john-hillcoat-mythmaker
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Matthew Monagle]] • [[Los Angeles Review of Books]]
  
 “For fans of Hillcoat’s work, the timing of this release is more than a little serendipitous; this June marks the 10th anniversary of The Proposition, a revenge Western that launched the director to international acclaim and a career outside his native Australia. In the decade since The Proposition, Hillcoat has regularly returned to the mythic properties of his most successful feature; the subsequent release of The Road (2009) and Lawless (2012) formed a loose trilogy that focused on the permeability of historical eras and the “frontier myth” of the American Western.”
 

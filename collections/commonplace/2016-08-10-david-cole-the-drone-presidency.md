@@ -6,9 +6,10 @@ title: The Drone Presidency
 publication: New York Review of Books
 link: http://www.nybooks.com/articles/2016/08/18/the-drone-presidency/
 date: 2016-08-10
+permalink: 2016/08/10/david-cole-the-drone-presidency
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[David Cole]] • [[New York Review of Books]]
  
 “Greenwald summarizes Obama’s approach to drones as follows:
 

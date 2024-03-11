@@ -6,9 +6,10 @@ title: We Can Afford a Universal Basic Income
 publication: The Guardian
 link: http://www.theguardian.com/commentisfree/2016/apr/07/panama-papers-taxes-universal-basic-income-public-services
 date: 2016-04-09
+permalink: 2016/04/09/colin-holtz-we-can-afford-a-universal-basic-income
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Colin Holtz]] • [[The Guardian]]
  
 “Called a universal basic income by supporters, the idea has has attracted support throughout American history, from Thomas Paine to Martin Luther King Jr.”
 

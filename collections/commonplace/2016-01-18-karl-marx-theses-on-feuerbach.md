@@ -6,9 +6,10 @@ title: Theses on Feuerbach
 publication: Marxists
 link: https://www.marxists.org/archive/marx/works/1845/theses/theses.htm
 date: 2016-01-18
+permalink: 2016/01/18/karl-marx-theses-on-feuerbach
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Karl Marx]] • [[Marxists]]
  
 “The chief defect of all hitherto existing materialism – that of Feuerbach included – is that the thing, reality, sensuousness, is conceived only in the form of the object or of contemplation, but not as sensuous human activity, practice, not subjectively.”
 

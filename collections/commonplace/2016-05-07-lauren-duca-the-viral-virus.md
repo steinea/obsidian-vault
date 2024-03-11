@@ -6,9 +6,10 @@ title: The Viral Virus
 publication: The New Inquiry
 link: http://thenewinquiry.com/essays/the-viral-virus/
 date: 2016-05-07
+permalink: 2016/05/07/lauren-duca-the-viral-virus
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Lauren Duca]] • [[The New Inquiry]]
  
 “AT its core, social media is a public pinboard of self-expression, a set of arenas where anything we post inevitably doubles as a signal of our identity.”
 

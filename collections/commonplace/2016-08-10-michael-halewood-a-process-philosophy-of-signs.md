@@ -6,9 +6,10 @@ title: A Process Philosophy of Signs
 publication: Notre Dame Philosophical Reviews
 link: https://ndpr.nd.edu/news/68693-a-process-philosophy-of-signs/
 date: 2016-08-10
+permalink: 2016/08/10/michael-halewood-a-process-philosophy-of-signs
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Michael Halewood]] • [[Notre Dame Philosophical Reviews]]
  
 “In this book, James Williams develops his own approach to, and understanding of, what constitutes process and how this can be dealt with philosophically. All of this unfolds within a very careful and insightful reconfiguring of the status of signs.”
 

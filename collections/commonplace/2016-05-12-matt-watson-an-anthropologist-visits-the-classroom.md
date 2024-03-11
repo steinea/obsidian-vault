@@ -6,9 +6,10 @@ title: An Anthropologist Visits the Classroom
 publication: Platypus
 link: http://blog.castac.org/2016/05/anthro-class/
 date: 2016-05-12
+permalink: 2016/05/12/matt-watson-an-anthropologist-visits-the-classroom
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Matt Watson]] • [[Platypus]]
  
 “my copy of Latour and Woolgar’s (1986[1979]) Laboratory Life has been unpacked four times since I finished my Ph.D.”
 

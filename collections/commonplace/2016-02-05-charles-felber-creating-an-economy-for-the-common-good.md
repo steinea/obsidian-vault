@@ -6,9 +6,10 @@ title: Creating an Economy for the Common Good
 publication: Peace News
 link: http://peacenews.info/node/8306/charles-felber-change-everything-creating-economy-common-good
 date: 2016-02-05
+permalink: 2016/02/05/charles-felber-creating-an-economy-for-the-common-good
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Charles Felber]] • [[Peace News]]
  
 “As Karl Polanyi described in his book The Great Transformation, the last few hundred years have seen a constant and conscious drive to create a completely marketised economy, based on 'economic man': citizens whose motivations are completely those of self-interest, expressed entirely through the monetised economy.”
 

@@ -6,9 +6,10 @@ title: All Things Have Borders
 publication: e-flux
 link: http://www.e-flux.com/journal/editorial-48/
 date: 2016-05-07
+permalink: 2016/05/07/e-flux-editors-all-things-have-borders
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[e-flux Editors]] • [[e-flux]]
  
 “All things have borders that make them what they are.”
 

@@ -6,9 +6,10 @@ title: No One
 publication: Los Angeles Review of Books
 link: https://lareviewofbooks.org/article/game-thrones-season-6-no-one/
 date: 2016-06-14
+permalink: 2016/06/14/aaron-bady-sarah-mesle-no-one
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Aaron Bady]] •[[Sarah Mesle]] • [[Los Angeles Review of Books]]
  
 “Violence, in this episode, was strange and complicated — but brutal, even when it was defused, or pushed aside, or displayed only obliquely.”
 

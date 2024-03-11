@@ -6,9 +6,10 @@ title: The Challenge of Consciousness
 publication: New York Review of Books
 link: http://www.nybooks.com/daily/2016/11/21/challenge-of-defining-consciousness/
 date: 2016-11-21
+permalink: 2016/11/21/riccardo-manzotti-tim-parks-the-challenge-of-consciousness
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Riccardo Manzotti]] • [[Tim Parks]] • [[New York Review of Books]]
  
 “some reflections on the social implications of the various theories for what we think about consciousness, which is as much as to say what we think about who and what we are, inevitably has consequences for how we relate to one another, and to the world”
 

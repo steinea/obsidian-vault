@@ -6,9 +6,10 @@ title: Game of Thrones Finally Became a Different Show
 publication: The Atlantic
 link: http://www.theatlantic.com/entertainment/archive/2016/06/how-game-of-thrones-became-a-different-show/489305/
 date: 2016-07-05
+permalink: 2016/07/05/christopher-orr-game-of-thrones-finally-became-a-different-show
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Christopher Orr]] • [[The Atlantic]]
  
 “John le Carre, but with dragons.”
 

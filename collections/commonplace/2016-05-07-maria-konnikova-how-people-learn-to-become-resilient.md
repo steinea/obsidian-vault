@@ -6,9 +6,10 @@ title: How People Learn to Become Resilient
 publication: The New Yorker
 link: http://www.newyorker.com/science/maria-konnikova/the-secret-formula-for-resilience
 date: 2016-05-07
+permalink: 2016/05/07/maria-konnikova-how-people-learn-to-become-resilient
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Maria Konnikova]] • [[The New Yorker]]
  
 “Resilience presents a challenge for psychologists. Whether you can be said to have it or not largely depends not on any particular psychological test but on the way your life unfolds.”
 

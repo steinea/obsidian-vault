@@ -6,9 +6,10 @@ title: Space Emerging from Quantum Mechanics
 publication: Preposterous Universe
 link: http://www.preposterousuniverse.com/blog/2016/07/18/space-emerging-from-quantum-mechanics/
 date: 2016-07-19
+permalink: 2016/07/19/sean-carroll-space-emerging-from-quantum-mechanics
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Sean Carroll]] • [[Preposterous Universe]]
  
 “The quantum state of the universe is not a collection of things distributed through space, but something called a wave function.”
 

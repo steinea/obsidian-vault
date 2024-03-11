@@ -6,9 +6,10 @@ title: Art Does Not Know a Beyond
 publication: The White Review
 link: http://www.thewhitereview.org/features/art-does-not-know-a-beyond-on-karl-ove-knausgaard/
 date: 2016-03-12
+permalink: 2016/03/12/rose-mclaren-art-does-not-know-a-beyond
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Rose McLaren]] • [[The White Review]]
  
 “KARL OVE KNAUSGAARD’S MY STRUGGLE HAS AN ODDLY MEDIEVAL FORM: a cycle, composed of six auto-biographical books about the Norwegian author’s life.”
 

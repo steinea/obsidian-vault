@@ -6,9 +6,10 @@ title: Enjoy
 publication: London Review of Books
 link: http://www.lrb.co.uk/v19/n23/terry-eagleton/enjoy
 date: 2016-02-12
+permalink: 2016/02/12/terry-eagleton-enjoy
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Terry Eagleton]] • [[London Review of Books]]
  
 “Schopenhauer saw us all as permanently pregnant with monsters, bearing at the very core of our being something implacably alien to it.”
 

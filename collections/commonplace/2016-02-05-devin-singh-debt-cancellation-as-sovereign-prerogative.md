@@ -6,9 +6,10 @@ title: Debt Cancellation as Sovereign Prerogative
 publication: Cosmologics
 link: http://cosmologicsmagazine.com/devin-singh-debt-cancellation-as-sovereign-crisis-management/
 date: 2016-02-05
+permalink: 2016/02/05/devin-singh-debt-cancellation-as-sovereign-prerogative
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Devin Singh]] • [[Cosmologics]]
  
 “It’s in part because of its proximity to language of salvation and its association with divine activity that debt cancellation has garnered an altruistic aura. It smacks of profound mercy and justice. Progressive social movements, whether religiously inspired or not, champion debt cancellation in various forms, from the famed Jubilee 2000 campaign to groups associated with Occupy Wall Street. Thus, Jubilee is part of a set of purportedly radical options marshaled to challenge the excesses and abuses of our current global capitalist order.”
 

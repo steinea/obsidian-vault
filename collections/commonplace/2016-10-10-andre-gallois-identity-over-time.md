@@ -6,9 +6,10 @@ title: Identity Over Time
 publication: Stanford Encyclopedia of Philosophy
 link: http://plato.stanford.edu/entries/identity-time/
 date: 2016-10-10
+permalink: 2016/10/10/andre-gallois-identity-over-time
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Andre Gallois]] •[[Stanford Encyclopedia of Philosophy]]
  
 “Traditionally, this puzzle has been solved in various ways. Aristotle, for example, distinguished between “accidental” and “essential” changes.”
 

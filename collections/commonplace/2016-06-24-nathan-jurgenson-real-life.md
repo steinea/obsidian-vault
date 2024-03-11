@@ -2,13 +2,14 @@
 layout: entry
 category: commonplace
 author: Nathan Jurgenson
-title: Real Life
+title: Virtual and Real
 publication: Real Life
 link: https://reallifemag.com/dispatches/editors-letter/
 date: 2016-06-24
+permalink: 2016/06/24/nathan-jurgenson-virtual-and-real
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Nathan Jurgenson]] • [[Real Life]]
  
 “Videodrome is the best film ever made about the internet. When I first watched David Cronenberg’s 1983 masterpiece, I was studying the sociology of knowledge and beginning to apply these theories to the web, which researchers and everyday commentators seemed to treat as weirdly foreign.”
 

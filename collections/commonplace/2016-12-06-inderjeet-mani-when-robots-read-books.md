@@ -6,9 +6,10 @@ title: When Robots Read Books
 publication: Aeon
 link: https://aeon.co/essays/how-ai-is-revolutionising-the-role-of-the-literary-critic
 date: 2016-12-06
+permalink: 2016/12/06/inderjeet-mani-when-robots-read-books
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Inderjeet Mani]] • [[Aeon]]
  
 “Such ‘computational folkloristics’ raise a big question: what can algorithms tell us about the stories we love to read?”
 

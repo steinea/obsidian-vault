@@ -6,9 +6,10 @@ title: Our Brand Could Be Your Crisis
 publication: The New Inquiry
 link: http://thenewinquiry.com/essays/our-brand-could-be-your-crisis/
 date: 2016-07-24
+permalink: 2016/07/24/ayesha-siddiqi-our-brand-could-be-your-crisis
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Ayesha Siddiqi]] • [[The New Inquiry]]
  
 “These first-wave millennials are largely skeptical of their generational younger siblings, for whom the tools and spaces of work, leisure, and identity formation have become in many cases become identical.”
 

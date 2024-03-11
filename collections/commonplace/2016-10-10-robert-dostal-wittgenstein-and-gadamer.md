@@ -6,9 +6,10 @@ title: Wittgenstein and Gadamer
 publication: Notre Dame Philosophical Reviews
 link: http://ndpr.nd.edu/news/24813-wittgenstein-and-gadamer-towards-a-post-analytic-philosophy-of-language/
 date: 2016-10-10
+permalink: 2016/10/10/robert-dostal-wittgenstein-and-gadamer
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Robert Dostal]] • [[Notre Dame Philosophical Reviews]]
  
 “Wittgenstein did not and could not have known Gadamer's work in this area. Gadamer tells us that he had not seriously read Wittgenstein until after the publication of Truth and Method (1960).”
 

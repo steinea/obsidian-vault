@@ -6,9 +6,10 @@ title: <em>Labyrinth</em> and the Deep, Dark Heart of Childhood
 publication: The Atlantic
 link: http://www.theatlantic.com/entertainment/archive/2016/06/labyrinth-captured-the-dark-heart-of-childhood/489146/
 date: 2016-07-13
+permalink: 2016/07/13/alison-stine-labyrinth-and-the-deep-dark-heart-of-childhood
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Alison Stine]] • [[The Atlantic]]
  
 “For all its flaws and superficial delights, Labyrinth reacquainted audiences with an old idea that Hollywood had long neglected: Childhood is a scary and dangerous place, an inherently strange time filled with dead-ends, wrong turns, lies, and traps. In other words: It’s not the Muppets.”
 

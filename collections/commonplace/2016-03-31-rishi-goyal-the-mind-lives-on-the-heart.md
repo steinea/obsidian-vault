@@ -6,9 +6,10 @@ title: The Mind Lives on the Heart
 publication: Los Angeles Review of Books
 link: https://lareviewofbooks.org/review/the-mind-lives-on-the-heart-a-death-deferred/
 date: 2016-03-31
+permalink: 2016/03/31/rishi-goyal-the-mind-lives-on-the-heart
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Rishi Goyal]] • [[Los Angeles Review of Books]]
  
 “CATASTROPHE AND MIRACLE are the two poles of our bipolar imagination, and both are enveloped in the folds of contemporary science.”
 

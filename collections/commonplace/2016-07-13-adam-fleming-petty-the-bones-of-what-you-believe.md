@@ -6,9 +6,10 @@ title: The Bones of What You Believe
 publication: Los Angeles Review of Books
 link: https://lareviewofbooks.org/review/the-bones-of-what-you-believe/
 date: 2016-07-13
+permalink: 2016/07/13/adam-fleming-petty-the-bones-of-what-you-believe
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Adam Fleming Petty]] • [[Los Angeles Review of Books]]
  
 “How did these 12 men, perennially slow on the uptake, manage to turn the teachings of an obscure Galilean Jew into the most widely dispersed religion in history? This is the question Tom Bissell looks to answer, or at least grapple with, in Apostle: Travels Among the Tombs of the Twelve.”
 

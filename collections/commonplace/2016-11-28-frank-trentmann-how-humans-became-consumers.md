@@ -6,9 +6,10 @@ title: How Humans Became Consumers
 publication: The Atlantic
 link: http://www.theatlantic.com/business/archive/2016/11/how-humans-became-consumers/508700/
 date: 2016-11-28
+permalink: 2016/11/28/frank-trentmann-how-humans-became-consumers
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Frank Trentmann]] • [[The Atlantic]]
  
 ““Consumption is the sole end and purpose of all production,” Adam Smith confidently announced in The Wealth of Nations in 1776.”
 

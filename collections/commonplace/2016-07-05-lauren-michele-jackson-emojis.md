@@ -6,9 +6,10 @@ title: E•MO•JIS
 publication: Real Life
 link: http://reallifemag.com/e-mo-jis/
 date: 2016-07-05
+permalink: 2016/07/05/lauren-michele-jackson-e-mo-jis
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Lauren Michele Jackson]] • [[Real Life]]
  
 “We have plenty reason to see this coming. We know what happens to idioms that reach critical mass; more important, how the process of popularity in fact necessitates a kind of ironic reduction of the object.”
 

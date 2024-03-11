@@ -6,9 +6,10 @@ title: The Cult of the Supreme Being
 publication: Jacobin
 link: https://www.jacobinmag.com/2016/01/robespierre-rousseau-religion-separation-church-state-kim-davis/
 date: 2016-01-14
+permalink: 2016/01/14/harrison-fluss-the-cult-of-the-supreme-being
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Harrison Fluss]] • [[Jacobin]]
  
 "But it seems unlikely that Robespierre would have much sympathy for the secular motivations to ban the hijab, any more than he would have sympathy for prohibiting other forms of religious expression. Robespierre was more committed to justice and the oppressed than to mere fidelity to the secular state. Hence his statement that “atheism is aristocratic, whereas belief in a Supreme Being who watches over oppressed innocence and punishes the crimes of the oppressor is popular.”"
 

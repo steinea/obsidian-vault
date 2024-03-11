@@ -6,9 +6,10 @@ title: Moving Beyond Pain
 publication: bell hooks Institute
 link: http://www.bellhooksinstitute.com/blog/2016/5/9/moving-beyond-pain
 date: 2016-05-18
+permalink: 2016/05/18/bell-hooks-moving-beyond-pain
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[bell hooks]] • [[bell hooks Institute]]
  
 “Commodities, irrespective of their subject matter, are made, produced, and marketed to entice any and all consumers.”
 

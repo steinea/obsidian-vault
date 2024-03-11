@@ -1,14 +1,15 @@
 ---
 layout: entry
 category: commonplace
-author: Algirdas Julien Greimas
+author: Algirdas Greimas
 title: Semiotic Square
 publication: Wikipedia
 link: https://en.wikipedia.org/wiki/Semiotic_square
 date: 2016-03-10
+permalink: 2016/03/10/algirdas-greimas-semiotic-square
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Algirdas Greimas]] • [[Wikipedia]]
  
 Oxford Reference, Semiotic Square
 

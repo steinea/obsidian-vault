@@ -6,9 +6,10 @@ title: Deconstruction in America
 publication: Boston Review
 link: https://bostonreview.net/books-ideas/gregory-jones-katz-deconstruction-america
 date: 2016-10-09
+permalink: 2016/10/09/gregory-jones-katz-deconstruction-in-america
 ---
 
-[[2016]] / [[commonplace]] / 
+[[2016]] • [[commonplace]] • [[Gregory Jones-Katz]] • [[Boston Review]]
  
 “Central to the story of deconstruction, but often neglected, are the various American contexts that cultivated and disseminated deconstructive undertakings.”
 
