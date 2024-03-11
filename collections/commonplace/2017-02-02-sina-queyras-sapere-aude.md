@@ -6,9 +6,10 @@ title: Sapere Aude
 publication:
 link: https://lareviewofbooks.org/article/sapere-aude-on-3-summers-and-the-poetry-of-lisa-robertson/
 date: 2017-02-02
+permalink: 
 ---
 
-[[2017]] / [[commonplace]] / 
+[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
  
 “A NEW LISA ROBERTSON BOOK is both a public event and a private kind of bacchanal. I tried to hide my copy of 3 Summers because I knew that I would put everything aside and read the entire book at one go, then start over again right away, which I did.”
 

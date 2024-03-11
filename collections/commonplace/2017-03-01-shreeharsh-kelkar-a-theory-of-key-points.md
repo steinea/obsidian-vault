@@ -6,9 +6,10 @@ title: A Theory of Key Points
 publication: Platypus
 link: http://blog.castac.org/2017/03/key-points/
 date: 2017-03-01
+permalink: 
 ---
 
-[[2017]] / [[commonplace]] / 
+[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
  
 “How can we account for the radical uncertainty of change when we think about the future, but its seeming inevitability when it comes to the past?”
 

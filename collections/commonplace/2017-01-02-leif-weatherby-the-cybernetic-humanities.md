@@ -6,9 +6,10 @@ title: The Cybernetic Humanities
 publication: Los Angeles Review of Books
 link: https://lareviewofbooks.org/article/the-cybernetic-humanities/
 date: 2017-01-02
+permalink: 
 ---
 
-[[2017]] / [[commonplace]] / 
+[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
  
 “Cybernetics” (based on kybernetes, the Greek word for “steersman,” cognate to English “governor”) was the science, Wiener announced, of “communication and control,” or of feedback mechanisms in general.”
 

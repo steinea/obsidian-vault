@@ -6,9 +6,10 @@ title: Universe in a Bubble
 publication: Aeon
 link: https://aeon.co/essays/did-our-cosmos-emerge-from-a-sea-of-inflating-bubbles
 date: 2017-10-05
+permalink: 
 ---
 
-[[2017]] / [[commonplace]] / 
+[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
  
 “Beginning in the mid-1990s, now as a member of Harvard’s faculty, Kirshner started a group using supernovae to measure the expansion rate of the Universe – a particularly telling indication of how the cosmos is changing over time.”
 

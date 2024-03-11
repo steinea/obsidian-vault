@@ -6,9 +6,10 @@ title: <em>Twin Peaks</em> Returns
 publication: The Atlantic
 link: https://www.theatlantic.com/entertainment/archive/2017/05/twin-peaks-return-parts-1-and-2-review/527565/
 date: 2017-05-22
+permalink: 
 ---
 
-[[2017]] / [[commonplace]] / 
+[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
  
 “today, Lynch and Frost seem even less concerned about keeping audiences on board with a propulsive or linear narrative.”
 

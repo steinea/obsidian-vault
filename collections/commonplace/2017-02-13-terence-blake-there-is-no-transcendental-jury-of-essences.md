@@ -6,9 +6,10 @@ title: There Is No Transcendental Jury of Essences
 publication: Agent Swarm
 link: https://terenceblake.wordpress.com/2017/02/05/badious-burden-there-is-no-transcendental-jury-of-essences/
 date: 2017-02-13
+permalink: 
 ---
 
-[[2017]] / [[commonplace]] / 
+[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
  
 “The burden of proof is upon Badiou from the moment that another system exists that has 15 modes of veridiction.”
 

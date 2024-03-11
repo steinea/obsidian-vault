@@ -6,9 +6,10 @@ title: Blade Runner 2049
 publication: The Atlantic
 link: https://www.theatlantic.com/entertainment/archive/2017/10/blade-runner-2049-is-a-worthy-heir-to-the-classic-original/542205/
 date: 2017-10-11
+permalink: 
 ---
 
-[[2017]] / [[commonplace]] / 
+[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
  
 “Blade Runner 2049 is the sequel to Ridley Scott’s 1982 sci-fi game-changer Blade Runner, and it stars Ryan Gosling and Harrison Ford.”
 

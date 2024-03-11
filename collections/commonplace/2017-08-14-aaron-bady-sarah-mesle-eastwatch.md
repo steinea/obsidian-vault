@@ -6,9 +6,10 @@ title: Eastwatch
 publication:  Los Angeles Review of Books
 link: https://lareviewofbooks.org/article/game-thrones-eastwatch/
 date: 2017-08-14
+permalink: 
 ---
 
-[[2017]] / [[commonplace]] / 
+[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
  
 “Winter: How Does It Even Work?”
 

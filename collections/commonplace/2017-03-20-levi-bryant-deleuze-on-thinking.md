@@ -6,9 +6,10 @@ title: Deleuze on Thinking
 publication: Larval Subjects
 link: https://larvalsubjects.wordpress.com/2017/03/20/deleuze-what-is-called-thinking/
 date: 2017-03-20
+permalink: 
 ---
 
-[[2017]] / [[commonplace]] / 
+[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
  
 “A delicate problem animates chapter 3 of Difference and Repetition. Deleuze wants to defend a pure concept of difference, an account of difference in itself, yet our experience is representational through and through.”
 

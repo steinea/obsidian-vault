@@ -6,9 +6,10 @@ title: Keep the Red Planet Red
 publication: Jacobin
 link: https://www.jacobinmag.com/2017/02/mars-elon-musk-space-exploration-nasa-colonization/
 date: 2017-02-05
+permalink: 
 ---
 
-[[2017]] / [[commonplace]] / 
+[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
  
 “Musk’s articulation of his Mars mission reveals not only what’s wrong with how we think about extraterrestrial colonies and resources, but also how little faith most people have in democracy here on Earth.”
 

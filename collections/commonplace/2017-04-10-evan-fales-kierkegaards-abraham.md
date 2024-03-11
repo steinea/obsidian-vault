@@ -6,9 +6,10 @@ title: Kierkegaard’s Abraham
 publication: Satanic Verses
 link: https://academic.oup.com/book/34310/chapter-abstract/291114430
 date: 2017-04-10
+permalink: 
 ---
 
-[[2017]] / [[commonplace]] / 
+[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
  
 "Kierkegaard affects us because of his seriousness, his honesty, and the depth of his psychological insights. His efforts to plumb Abraham’s depths therefore deserve respect, even if the biblical text remains silent, and even if de Silentio’s Abraham may have little connection to the figure the author of Gen. 22 wanted to portray."
 

@@ -6,9 +6,10 @@ title: Carmel Point
 publication: Poets
 link: https://poets.org/poem/carmel-point
 date: 2017-03-02
+permalink: 
 ---
 
-[[2017]] / [[commonplace]] / 
+[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
  
 The extraordinary patience of things! 
 <br>This beautiful place defaced with a crop of suburban houses—

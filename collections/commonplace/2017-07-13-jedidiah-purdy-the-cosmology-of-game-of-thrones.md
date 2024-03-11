@@ -6,9 +6,10 @@ title: The Cosmology of Game of Thrones
 publication: Los Angeles Review of Books
 link: https://lareviewofbooks.org/article/fiery-heaven-bastard-earth-the-cosmology-of-game-of-thrones/
 date: 2017-07-13
+permalink: 
 ---
 
-[[2017]] / [[commonplace]] / 
+[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
  
 “There has been a veritable Maker Faire of commentary on the iconic and addictive show, falling mainly into three genres:”
 

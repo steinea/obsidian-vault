@@ -6,9 +6,10 @@ title: Let No-One Ignorant of STS Enter Here
 publication: Agent Swarm
 link: https://terenceblake.wordpress.com/2017/05/04/let-noone-ignorant-of-sts-enter-1-latourology-and-the-dark-latour/
 date: 2017-05-04
+permalink: 
 ---
 
-[[2017]] / [[commonplace]] / 
+[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
  
 (1): Latourology and the “Dark” Latour
 

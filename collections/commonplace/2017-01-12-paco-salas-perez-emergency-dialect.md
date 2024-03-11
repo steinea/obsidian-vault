@@ -6,9 +6,10 @@ title: Emergency Dialect
 publication: Real Life
 link: http://reallifemag.com/emergency-dialect/
 date: 2017-01-12
+permalink: 
 ---
 
-[[2017]] / [[commonplace]] / 
+[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
  
 “In Arrival, the film adaptation of Ted Chiang’s Nebula award-winning “The Story of Your Life,” a seven-limbed alien species arrives on Earth in twelve mysterious monoliths spread around the globe.”
 

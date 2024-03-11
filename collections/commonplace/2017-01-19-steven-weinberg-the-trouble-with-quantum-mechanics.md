@@ -6,9 +6,10 @@ title: The Trouble with Quantum Mechanics
 publication: New York Review of Books
 link: http://www.nybooks.com/articles/2017/01/19/trouble-with-quantum-mechanics/
 date: 2017-01-19
+permalink: 
 ---
 
-[[2017]] / [[commonplace]] / 
+[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
  
 “The development of quantum mechanics in the first decades of the twentieth century came as a shock to many physicists. Today, despite the great successes of quantum mechanics, arguments continue about its meaning, and its future.”
 

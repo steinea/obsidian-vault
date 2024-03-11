@@ -6,9 +6,10 @@ title: Those Who Want Out
 publication: A Door in the Hive
 link: https://books.google.ca/books/about/A_Door_in_the_Hive.html?id=Z7ja367ovMoC
 date: 2017-02-13
+permalink: 
 ---
 
-[[2017]] / [[commonplace]] / 
+[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
  
 In their homes, much glass and steel. Their cars
 <br> are fast—walking’s for children, except in rooms.

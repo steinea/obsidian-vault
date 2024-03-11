@@ -6,9 +6,10 @@ title: The Art of Fiction 39
 publication: The Paris review
 link: https://www.theparisreview.org/interviews/4331/jorge-luis-borges-the-art-of-fiction-no-39-jorge-luis-borges
 date: 2017-06-20
+permalink: 
 ---
 
-[[2017]] / [[commonplace]] / 
+[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
  
 
 BORGES

@@ -6,9 +6,10 @@ title: How to Look at Kristen Stewart
 publication: The New Republic
 link: https://newrepublic.com/article/141308/look-kristen-stewart
 date: 2017-03-14
+permalink: 
 ---
 
-[[2017]] / [[commonplace]] / 
+[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
  
 “Critics, male critics in particular, have turned her into a withholding figure.”
 

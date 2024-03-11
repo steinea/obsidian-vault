@@ -6,9 +6,10 @@ title: Temporality
 publication: The Guardian
 link: http://www.theguardian.com/commentisfree/belief/2009/jul/27/heidegger-being-time-philosophy
 date: 2017-02-16
+permalink: 
 ---
 
-[[2017]] / [[commonplace]] / 
+[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
  
 Being and Time pt. 8
 

@@ -6,9 +6,10 @@ title: Problem vs. Mystery
 publication: Stanford Encyclopedia of Philosophy
 link: https://plato.stanford.edu/entries/marcel/
 date: 2017-07-02
+permalink: 
 ---
 
-[[2017]] / [[commonplace]] / 
+[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
  
 “The notion that we live in a broken world is used—along with the person who is characteristic of the broken world, the functionalized person—to segue into one of Marcel's central thematic distinctions: the distinction between problem and mystery. He states that the broken world is one that is “on the one hand, riddled with problems and, on the other, determined to allow no room for mystery” (Marcel 1995, p. 12). The denial of the mysterious is symptomatic of the modern broken world and is tied to its technical character, which only acknowledges that which technique can address: the problematic. The distinction between problem and mystery is one that hinges, like much of Marcel's thought, on the notion of participation.
 

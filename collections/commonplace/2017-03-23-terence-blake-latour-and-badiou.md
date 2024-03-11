@@ -6,9 +6,10 @@ title: Latour and Badiou
 publication: Agent Swarm
 link: https://terenceblake.wordpress.com/2017/03/23/latourbadiou-a-wild-comparison/
 date: 2017-03-23
+permalink: 
 ---
 
-[[2017]] / [[commonplace]] / 
+[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
  
 “The problem with Bruno Latour’s style is largely due to his anxiety of influence and his consequent covering his tracks by changing the terminology and hiding the concepts by means of a seemingly de-concepted “infra-language””
 

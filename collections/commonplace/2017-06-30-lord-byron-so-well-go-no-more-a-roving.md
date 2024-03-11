@@ -6,9 +6,10 @@ title: So We'll Go No More a Roving
 publication: Poetry Foundation
 link: https://www.poetryfoundation.org/poems/43845/so-well-go-no-more-a-roving
 date: 2017-06-30
+permalink: 
 ---
 
-[[2017]] / [[commonplace]] / 
+[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
  
 So, we'll go no more a roving
 <br>So late into the night,

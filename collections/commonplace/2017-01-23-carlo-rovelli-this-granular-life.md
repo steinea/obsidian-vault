@@ -6,9 +6,10 @@ title: This Granular Life
 publication: Aeon
 link: https://aeon.co/essays/is-atomic-theory-the-most-important-idea-in-human-history
 date: 2017-01-23
+permalink: 
 ---
 
-[[2017]] / [[commonplace]] / 
+[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
  
 “According to tradition, in the year 450 BCE, a man embarked on a 400-mile sea voyage from Miletus in Anatolia to Abdera in Thrace”
 

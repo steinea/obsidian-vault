@@ -6,9 +6,10 @@ title: White Men on a Mission
 publication: Los Angeles Review of Books
 link: https://lareviewofbooks.org/article/white-men-mission-martin-scorseses-long-silence/
 date: 2017-01-29
+permalink: 
 ---
 
-[[2017]] / [[commonplace]] / 
+[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
  
 “Silence is a film about varieties of guilt, each of which is represented as a particularly Catholic and particularly white experience. Repeatedly confessed, but also continually accumulating, guilt in the film becomes the basis of an unbreakable, quasi-familial relationship with Christianity.”
 

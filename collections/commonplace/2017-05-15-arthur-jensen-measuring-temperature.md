@@ -6,9 +6,10 @@ title: Measuring Temperature
 publication: Bias in Mental Testing
 link: https://en.wikipedia.org/wiki/Bias_in_Mental_Testing
 date: 2017-05-15
+permalink: 
 ---
 
-[[2017]] / [[commonplace]] / 
+[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
  
 Cf. Hasok Chang for the subject of temperature
 

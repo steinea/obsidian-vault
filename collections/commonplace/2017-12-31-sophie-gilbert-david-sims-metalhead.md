@@ -6,9 +6,10 @@ title: Metalhead
 publication: The Atlantic
 link: https://www.theatlantic.com/entertainment/archive/2017/12/black-mirrors-metalhead-is-a-short-stylish-survival-thriller/549392/
 date: 2017-12-31
+permalink: 
 ---
 
-[[2017]] / [[commonplace]] / 
+[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
  
 "“Hang the DJ” might have been my favorite episode of the season. Yes, it hits you over the head with the metaphor, but it’s such a perfect deployment of Charlie Brooker’s skills: relatable comedy, subtle sci-fi, melancholy British fatalism about life and love. "
 

@@ -6,9 +6,10 @@ title: On Mineness
 publication: The Guardian
 link: http://www.theguardian.com/commentisfree/belief/2009/jun/15/heidegger-being-time-philosophy
 date: 2017-02-10
+permalink: 
 ---
 
-[[2017]] / [[commonplace]] / 
+[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
  
 Being and Time pt. 2
 

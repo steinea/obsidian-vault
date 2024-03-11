@@ -6,9 +6,10 @@ title: Haiku
 publication: Poetry Foundation
 link: https://www.poetryfoundation.org/features/articles/detail/68845
 date: 2017-03-02
+permalink: 
 ---
 
-[[2017]] / [[commonplace]] / 
+[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
  
 “[Haiku] is not a literary career; it’s an exercise in mind-focus that everyone shares.”
 

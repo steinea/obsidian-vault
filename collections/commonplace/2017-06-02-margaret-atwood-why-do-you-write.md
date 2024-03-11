@@ -6,9 +6,10 @@ title: Why Do You Write
 publication: Nine Beginnings
 link: https://www.terriwindling.com/blog/2017/01/margaret-atwood.html
 date: 2017-06-02
+permalink: 
 ---
 
-[[2017]] / [[commonplace]] / 
+[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
  
 "You learn to write by reading and writing, writing and reading. As a craft it’s acquired through the apprentice system, but you choose your own teachers. Sometimes they’re alive, sometimes dead."
 

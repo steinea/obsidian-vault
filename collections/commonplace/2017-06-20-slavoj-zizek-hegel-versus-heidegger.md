@@ -6,9 +6,10 @@ title: Hegel versus Heidegger
 publication: http://www.e-flux.com/journal/hegel-versus-heidegger/
 link: https://www.e-flux.com/journal/32/68252/hegel-versus-heidegger/
 date: 2017-06-20
+permalink: 
 ---
 
-[[2017]] / [[commonplace]] / 
+[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
  
 “the inherent tension between Hegel’s systematic drive of notional self-mediation (or sublation) and a more original ontological project that, following Heidegger, Alexandre Koyre describes as the historicity of the human condition oriented towards future”
 

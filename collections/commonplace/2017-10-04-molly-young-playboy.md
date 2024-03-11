@@ -6,9 +6,10 @@ title: Playboy
 publication: n+1
 link: https://nplusonemag.com/online-only/book-review/playboy-hugh-hefner-story/
 date: 2017-10-04
+permalink: 
 ---
 
-[[2017]] / [[commonplace]] / 
+[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
  
 “Their premise is simple: by identifying with the absent man, a viewer can enter the scene.”
 

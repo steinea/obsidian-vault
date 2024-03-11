@@ -6,9 +6,10 @@ title: How to Play Mathematics
 publication: Aeon
 link: https://aeon.co/essays/theres-more-maths-in-slugs-and-corals-than-we-can-think-of
 date: 2017-02-07
+permalink: 
 ---
 
-[[2017]] / [[commonplace]] / 
+[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
  
 “What does it mean to know mathematics?”
 

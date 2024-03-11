@@ -6,9 +6,10 @@ title: Cracking the Indus Valley Script
 publication: The Verge
 link: http://www.theverge.com/2017/1/25/14371450/indus-valley-civilization-ancient-seals-symbols-language-algorithms-ai
 date: 2017-01-25
+permalink: 
 ---
 
-[[2017]] / [[commonplace]] / 
+[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
  
 “In 1872 a British general named Alexander Cunningham, excavating an area in what was then British-controlled northern India, came across something peculiar. Buried in some ruins, he uncovered a small, one inch by one inch square piece of what he described as smooth, black, unpolished stone engraved with strange symbols — lines, interlocking ovals, something resembling a fish — and what looked like a bull etched underneath. The general, not recognizing the symbols and finding the bull to be unlike other Indian animals, assumed the artifact wasn’t Indian at all but some misplaced foreign token. The stone, along with similar ones found over the next few years, ended up in the British Museum. In the 1920s many more of these artifacts, by then known as seals, were found and identified as evidence of a 4,000-year-old culture now known as the Indus Valley Civilization, the oldest known Indian civilization to date.”
 

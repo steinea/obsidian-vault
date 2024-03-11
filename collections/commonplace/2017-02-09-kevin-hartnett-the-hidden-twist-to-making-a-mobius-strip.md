@@ -6,9 +6,10 @@ title: The Hidden Twist to Making a Möbius Strip
 publication: Quanta Magazine
 link: https://www.quantamagazine.org/20170209-mobius-strip-symplectic-geometry/
 date: 2017-02-09
+permalink: 
 ---
 
-[[2017]] / [[commonplace]] / 
+[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
  
 “In the field of symplectic geometry, a central issue involves how to count the intersection points of two complicated geometric spaces.”
 

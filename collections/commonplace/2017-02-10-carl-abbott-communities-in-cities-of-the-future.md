@@ -6,9 +6,10 @@ title: Beyond Blade Runner
 publication: Los Angeles Review of Books
 link: https://lareviewofbooks.org/article/beyond-blade-runner/
 date: 2017-02-10
+permalink: 
 ---
 
-[[2017]] / [[commonplace]] / 
+[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
  
 “SCIENCE FICTION often gives short shrift to cities. Nothing says trouble, after all, like a great city smashed to smithereens on screen by natural cataclysms, creepy aliens in oversized flying saucers, or even an ill-tempered Godzilla.”
 

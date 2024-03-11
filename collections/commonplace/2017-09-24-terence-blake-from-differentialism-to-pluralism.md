@@ -6,9 +6,10 @@ title: From Differentialism to Pluralism
 publication: Agent Swarm
 link: https://terenceblake.wordpress.com/2017/09/24/from-differentialism-to-pluralism/
 date: 2017-09-24
+permalink: 
 ---
 
-[[2017]] / [[commonplace]] / 
+[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
  
 “The so-called “philosophies of difference” had great importance in the 1960s in France, but by the end of the 60s something else was happening in thought. The “deconstruction” of structuralism was already under way. Difference is the master-concept of structuralist philosophies, multiplicity characterises a non-structuralist, or “post-structuralist” thought that attempts to have done with the master-function of such concepts by subjecting them to various processes of multiplication, relativisation, and continual variation.”
 

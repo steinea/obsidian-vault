@@ -6,9 +6,10 @@ title: Kant on the Soul
 publication: Stanford Encyclopedia of Philosophy
 link: https://plato.stanford.edu/entries/kant-metaphysics/#SouRatPsy
 date: 2017-07-04
+permalink: 
 ---
 
-[[2017]] / [[commonplace]] / 
+[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
  
 3. The Soul and Rational Psychology
 

@@ -6,9 +6,10 @@ title: <em>Blade Runner 2049</em>
 publication: Motherboard
 link: https://motherboard.vice.com/en_us/article/43amnb/blade-runner-2049-review-ryan-gosling-harrison-ford-ridley-scott-replicant
 date: 2017-10-06
+permalink: 
 ---
 
-[[2017]] / [[commonplace]] / 
+[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
  
 “What is love? Do memories define us? What does it mean to be human? These questions are core to both Blade Runner and Blade Runner 2049, but the sequel does a better job of answering them.”
 

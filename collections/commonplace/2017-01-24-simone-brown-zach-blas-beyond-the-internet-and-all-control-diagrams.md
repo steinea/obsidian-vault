@@ -6,9 +6,10 @@ title: Beyond the Internet and All Control Diagrams
 publication: The New Inquiry
 link: http://thenewinquiry.com/features/beyond-the-internet-and-all-control-diagrams/
 date: 2017-01-24
+permalink: 
 ---
 
-[[2017]] / [[commonplace]] / 
+[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
  
 “In an exclusive conversation, surveillance scholar Simone Browne and artist Zach Blas critique various forms of “control diagrams” and imagine a new commons in the space between the Internet’s network nodes.”
 

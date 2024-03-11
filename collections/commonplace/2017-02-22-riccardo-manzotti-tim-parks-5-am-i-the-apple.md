@@ -6,9 +6,10 @@ title: Am I the Apple?
 publication: New York Review of Books
 link: http://www.nybooks.com/daily/2017/02/22/consciousness-am-i-the-apple/
 date: 2017-02-22
+permalink: 
 ---
 
-[[2017]] / [[commonplace]] / 
+[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
  
 “How is it that we experience the world? How is it possible that the environment we live in, the objects we use and see, touch and taste, hear and smell, are both patently out there and simultaneously, it seems, in our heads?”
 

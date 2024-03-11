@@ -6,9 +6,10 @@ title: Écriture Féminine
 publication: Wikipedia
 link: https://en.wikipedia.org/wiki/Feminist_theory
 date: 2017-07-27
+permalink: 
 ---
 
-[[2017]] / [[commonplace]] / 
+[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
  
 "Feminist theory is the extension of feminism into theoretical or philosophical fields. It encompasses work in a variety of disciplines, including anthropology, sociology, economics, women's studies, literary criticism, art history, psychoanalysis and philosophy. Feminist theory aims to understand gender inequality and focuses on gender politics, power relations, and sexuality. While providing a critique of these social and political relations, much of feminist theory also focuses on the promotion of women's rights and interests. Themes explored in feminist theory include discrimination, stereotyping, objectification (especially sexual objectification), oppression, and patriarchy. In the field of literary criticism, Elaine Showalter describes the development of feminist theory as having three phases. The first she calls "feminist critique", in which the feminist reader examines the ideologies behind literary phenomena. The second Showalter calls "gynocriticism", in which the "woman is producer of textual meaning". The last phase she calls "gender theory", in which the "ideological inscription and the literary effects of the sex/gender system are explored"."
 

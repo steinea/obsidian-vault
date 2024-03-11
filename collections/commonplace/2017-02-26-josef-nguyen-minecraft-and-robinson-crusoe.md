@@ -6,9 +6,10 @@ title: Minecraft and Robinson Crusoe
 publication: John Hopkins University Press
 link: https://www.press.jhu.edu/news/blog/minecraft-and-robinson-crusoe
 date: 2017-02-26
+permalink: 
 ---
 
-[[2017]] / [[commonplace]] / 
+[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
  
 “Josef Nguyen took a look at similarities between the computer world-building game Minecraft and pieces of fiction like Robinson Crusoe, which rely heavily on the creation of a new world”
 

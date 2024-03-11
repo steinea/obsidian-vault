@@ -6,9 +6,10 @@ title: Postphenomenology References
 publication: Postphenomenology
 link: https://postphenomenology.org/references/
 date: 2017-09-13
+permalink: 
 ---
 
-[[2017]] / [[commonplace]] / 
+[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
  
 References
 

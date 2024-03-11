@@ -6,9 +6,10 @@ title: Satan and Temptation
 publication: Saint Mary's Press College Study Bible
 link: https://en.novalis.ca/products/college-study-bible
 date: 2017-04-21
+permalink: 
 ---
 
-[[2017]] / [[commonplace]] / 
+[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
  
 1 Chronicles 21:1
 

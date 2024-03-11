@@ -6,9 +6,10 @@ title: Rhizomes
 publication: Aeon
 link: https://aeon.co/ideas/stuck-on-one-idea-of-justice-or-beauty-rhizomes-can-help
 date: 2017-05-09
+permalink: 
 ---
 
-[[2017]] / [[commonplace]] / 
+[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
  
 “Nicholas Tampio
 

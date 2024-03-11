@@ -6,9 +6,10 @@ title: Mythic Vision and Cultural Criticism
 publication: Agent Swarm
 link: https://terenceblake.wordpress.com/2017/07/28/john-david-ebert-mythic-vision-and-cultural-criticism/
 date: 2017-07-28
+permalink: 
 ---
 
-[[2017]] / [[commonplace]] / 
+[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
  
 “John David Ebert is an important theoretical voice, specialising in what he modestly calls “cultural criticism”, but is really an imaginative discipline that he is creating as he goes, combining myth studies, Continental philosophy, and popular culture.”
 

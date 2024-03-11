@@ -6,9 +6,10 @@ title: The Anthropological Limits of Progress
 publication: Hong Kong Review of Books
 link: https://hkrbooks.com/2017/06/26/hkrb-essays-the-anthropological-limits-of-progress/
 date: 2017-06-26
+permalink: 
 ---
 
-[[2017]] / [[commonplace]] / 
+[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
  
 “What is wrong with the Universal Basic Income? What should we learn from the Unabomber today? Who are a politics of ‘progress’ serving now?”
 

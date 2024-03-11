@@ -6,9 +6,10 @@ title: Damaging Words
 publication: Los Angeles Review of Books
 link: https://lareviewofbooks.org/article/damaging-words-thirteen-reasons/
 date: 2017-05-24
+permalink: 
 ---
 
-[[2017]] / [[commonplace]] / 
+[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
  
 “Vicious forms of communication and the holding of grudges are at the heart of Jay Asher’s award-winning and best-selling 2007 young adult novel, Thirteen Reasons Why, recently made into a television series and released on Netflix.”
 

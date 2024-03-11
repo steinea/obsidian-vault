@@ -6,9 +6,10 @@ title: Where are Words?
 publication: New York Review of Books
 link: http://www.nybooks.com/daily/2017/12/27/consciousness-where-are-words/
 date: 2017-12-27
+permalink: 
 ---
 
-[[2017]] / [[commonplace]] / 
+[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
  
 "Words, words, words. With the advent of the stream of consciousness in twentieth-century literature, it has come to seem that the self is very much a thing made of words, a verbal construction forever narrating itself and reconstituting itself in language. In line with the dominant, internalist view of consciousness, it is assumed that this all takes place in the brain—specifically, two parts known as Wernicke’s area and Broca’s area in the left hemisphere. "
 

@@ -6,9 +6,10 @@ title: The Consciousness Grid
 publication: New York Review of Books
 link: https://www.nybooks.com/online/2017/10/09/consciousness-an-object-lesson/
 date: 2017-10-09
+permalink: 
 ---
 
-[[2017]] / [[commonplace]] / 
+[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
  
 The nature of the subject with respect to itself and the “objective world”
 

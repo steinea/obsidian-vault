@@ -6,9 +6,10 @@ title: Quantum Deconstruction
 publication: Agent Swarm
 link: https://terenceblake.wordpress.com/2017/07/27/reading-disparities-11-quantum-deconstruction-and-formal-causality/
 date: 2017-07-27
+permalink: 
 ---
 
-[[2017]] / [[commonplace]] / 
+[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
  
 Reading Disparities (11)
 

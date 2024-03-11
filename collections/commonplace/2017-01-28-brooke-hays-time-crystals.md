@@ -6,9 +6,10 @@ title: Time Crystals
 publication: UPI
 link: https://www.upi.com/Science_News/2017/01/26/Presenting-time-crystals-physics-newest-material/6431485453881/
 date: 2017-01-28
+permalink: 
 ---
 
-[[2017]] / [[commonplace]] / 
+[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
  
 Time crystals are atomic structures or signatures repeated in time. Photo by UC-Berkeley 
 

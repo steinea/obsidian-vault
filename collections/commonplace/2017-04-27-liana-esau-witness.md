@@ -6,9 +6,10 @@ title: Witness
 publication: Convivium
 link: https://www.convivium.ca/sacred-spaces/witness/
 date: 2017-04-27
+permalink: 
 ---
 
-[[2017]] / [[commonplace]] / 
+[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
  
 I
 

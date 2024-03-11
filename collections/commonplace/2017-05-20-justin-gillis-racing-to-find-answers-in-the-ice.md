@@ -6,9 +6,10 @@ title: Racing to Find Answers in the Ice
 publication: The New York Times
 link: https://www.nytimes.com/interactive/2017/05/18/climate/antarctica-ice-melt-climate-change-science.html
 date: 2017-05-20
+permalink: 
 ---
 
-[[2017]] / [[commonplace]] / 
+[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
  
 “The scale of Antarctica is startling. Miles of ice stretch to the horizon, growing thicker as you move toward the South Pole.”
 

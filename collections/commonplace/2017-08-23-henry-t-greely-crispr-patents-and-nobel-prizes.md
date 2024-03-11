@@ -6,9 +6,10 @@ title: CRISPR, Patents, and Nobel Prizes
 publication: Los Angeles Review of Books
 link: https://lareviewofbooks.org/article/crispr-patents-and-nobel-prizes/
 date: 2017-08-23
+permalink: 
 ---
 
-[[2017]] / [[commonplace]] / 
+[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
  
 “Humans’ use of the bacterial defense mechanism called “clustered regularly interspaced short palindromic repeats” (CRISPR), with or without “CRISPR associated protein 9” (Cas 9) — along with the technologies that eventually will modify or displace it ­— is of vast importance.”
 

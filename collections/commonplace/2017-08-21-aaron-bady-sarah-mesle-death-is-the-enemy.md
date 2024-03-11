@@ -6,9 +6,10 @@ title: Death is the Enemy
 publication: Los Angeles Review of Books
 link: https://lareviewofbooks.org/article/game-thrones-death-enemy/
 date: 2017-08-21
+permalink: 
 ---
 
-[[2017]] / [[commonplace]] / 
+[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
  
 “This week on Dear Television:
 

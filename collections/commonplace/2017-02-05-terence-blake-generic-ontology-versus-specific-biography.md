@@ -6,9 +6,10 @@ title: Generic Ontology versus Specific Biography
 publication: Agent Swarm
 link: https://terenceblake.wordpress.com/2017/02/05/generic-ontology-vs-specific-biography-badiou-as-symptom-and-cure/
 date: 2017-02-05
+permalink: 
 ---
 
-[[2017]] / [[commonplace]] / 
+[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
  
 “coming up repeatedly against the same epistemological obstacle and dialogical impasse.
 

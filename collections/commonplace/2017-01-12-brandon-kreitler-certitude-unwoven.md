@@ -6,9 +6,10 @@ title: Certitude Unwoven
 publication: Los Angeles Review of Books
 link: https://lareviewofbooks.org/article/certitude-unwoven-first-books-from-sarah-v-schweig-and-justin-boening/
 date: 2017-01-12
+permalink: 
 ---
 
-[[2017]] / [[commonplace]] / 
+[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
  
 “RECALL WHEN, in Waiting for Godot, Pozzo cracks his whip and commands the man-donkey Lucky to “think.” The abused creature unleashes a torrent of theological collage, his only lines in the play.”
 

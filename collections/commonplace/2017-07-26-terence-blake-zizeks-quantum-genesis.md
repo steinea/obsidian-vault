@@ -6,9 +6,10 @@ title: Zizek's Quantum Genesis
 publication: Agent Swarm
 link: https://terenceblake.wordpress.com/2017/07/26/reading-disparities-10-zizeks-quantum-genesis/
 date: 2017-07-26
+permalink: 
 ---
 
-[[2017]] / [[commonplace]] / 
+[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
  
 Reading Disparities (10)
 

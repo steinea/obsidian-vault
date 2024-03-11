@@ -6,9 +6,10 @@ title: The Technocratic Antarctic
 publication: Platypus
 link: http://blog.castac.org/2017/02/technocratic-antarctic/
 date: 2017-02-16
+permalink: 
 ---
 
-[[2017]] / [[commonplace]] / 
+[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
  
 Science, Dwelling, and Governance
 

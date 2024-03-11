@@ -6,9 +6,10 @@ title: Amniotechnics
 publication: The New Inquiry
 link: http://thenewinquiry.com/essays/amniotechnics/
 date: 2017-01-25
+permalink: 
 ---
 
-[[2017]] / [[commonplace]] / 
+[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
  
 “A politics of holding water is central to struggles around kinmaking, including reproductive justice, migrant solidarity, and indigenous sovereignty”
 

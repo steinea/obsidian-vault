@@ -6,9 +6,10 @@ title: Whitey On Mars
 publication: Aeon
 link: https://aeon.co/essays/is-a-mission-to-mars-morally-defensible-given-todays-real-needs
 date: 2017-02-01
+permalink: 
 ---
 
-[[2017]] / [[commonplace]] / 
+[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
  
 “There are good reasons to worry about the future of humanity. Do we have a future, and if so, how much and what kind?”
 

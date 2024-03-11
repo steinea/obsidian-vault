@@ -6,9 +6,10 @@ title: The Mystery of the Druze
 publication: Aeon
 link: https://aeon.co/ideas/solving-the-mystery-of-the-druze-a-2000-year-old-odyssey
 date: 2017-02-07
+permalink: 
 ---
 
-[[2017]] / [[commonplace]] / 
+[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
  
 Eran Elhaik is a lecturer at the University of Sheffield in the UK. He is interested in population genetics, molecular evolution, paleo-genomics and biogeography. He is also the topics editor for Frontiers in GENETICS.
 

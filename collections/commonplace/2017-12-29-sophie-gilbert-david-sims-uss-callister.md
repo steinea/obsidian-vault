@@ -6,9 +6,10 @@ title: USS Callister
 publication: The Atlantic
 link: https://www.theatlantic.com/entertainment/archive/2017/12/black-mirrors-uss-callister-is-much-more-than-a-star-trek-parody/549191/
 date: 2017-12-29
+permalink: 
 ---
 
-[[2017]] / [[commonplace]] / 
+[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
  
 "In “Nosedive,” escaping the online universe was the goal; in “USS Callister,” it’s the opposite. "
 

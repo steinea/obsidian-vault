@@ -6,8 +6,9 @@ title: No Identity
 publication: Exiting the Vampire Castle
 link: http://www.thenorthstar.info/?p=11299
 date: 2017-04-28
+permalink: 
 ---
 
-[[2017]] / [[commonplace]] / 
+[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
  
 “there are no identities, only desires, interests and identifications.”

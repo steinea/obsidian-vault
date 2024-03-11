@@ -6,9 +6,10 @@ title: Writing versus Worldbuilding
 publication: Uncle Zip's Window
 link: https://web.archive.org/web/20080410181840/http://uzwi.wordpress.com/2007/01/27/very-afraid/
 date: 2017-04-27
+permalink: 
 ---
 
-[[2017]] / [[commonplace]] / 
+[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
  
 “Every moment of a science fiction story must represent the triumph of writing over worldbuilding.
 

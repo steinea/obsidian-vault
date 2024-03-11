@@ -6,9 +6,10 @@ title: Anthropos Tomorrow
 publication: Platypus
 link: http://blog.castac.org/2017/02/anthropos-tomorrow-transhumanism-and-anthropology/
 date: 2017-02-22
+permalink: 
 ---
 
-[[2017]] / [[commonplace]] / 
+[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
  
 “Anthropologists, long relatively comfortable bearing the mantle of studying humanity, today find themselves working in increasingly posthuman theoretical spaces.”
 

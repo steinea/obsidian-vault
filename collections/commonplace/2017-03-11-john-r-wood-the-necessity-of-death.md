@@ -6,9 +6,10 @@ title: The Necessity of Death
 publication: The Canadian Scientific and Christian Affiliation
 link: https://www.youtube.com/watch?v=JBGFIVGvekY
 date: 2017-03-11
+permalink: 
 ---
 
-[[2017]] / [[commonplace]] / 
+[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
  
 Physical death, biotic death, more than theology
 

@@ -6,9 +6,10 @@ title: On Love as Generic Name
 publication: Agent Swarm
 link: https://terenceblake.wordpress.com/2017/02/20/on-love-as-generic-name-badiou-de-sufficientised/
 date: 2017-02-20
+permalink: 
 ---
 
-[[2017]] / [[commonplace]] / 
+[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
  
 “There is no absolute name for a generic multiplicity, any particular name quickly becomes associated with a predicative multiplicity of which the degree of apparition is greater than the minimum.”
 

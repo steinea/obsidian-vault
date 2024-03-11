@@ -6,9 +6,10 @@ title: Dreaming Outside Our Heads
 publication: New York Review of Books
 link: http://www.nybooks.com/daily/2017/04/20/consciousness-dreaming-outside-our-heads/
 date: 2017-04-20
+permalink: 
 ---
 
-[[2017]] / [[commonplace]] / 
+[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
  
 “Sooner or later any theory of consciousness must address this question: How can it be that during sleep, but very occasionally in waking moments too, we have experiences that have nothing to do with the world immediately around our bodies?”
 

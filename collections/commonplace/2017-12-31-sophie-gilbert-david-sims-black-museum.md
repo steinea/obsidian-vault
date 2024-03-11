@@ -6,9 +6,10 @@ title: Black Museum
 publication: The Atlantic
 link: https://www.theatlantic.com/entertainment/archive/2017/12/black-mirror-black-museum-is-a-throwback-to-episodes-past/549389/
 date: 2017-12-31
+permalink: 
 ---
 
-[[2017]] / [[commonplace]] / 
+[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
  
 "While I didn’t love “Metalhead,” David, which felt like a 40-minute black-and-white episode of Black Mirror does The Hunger Games, I did think there was something almost unbearably haunting about the final twist. "
 

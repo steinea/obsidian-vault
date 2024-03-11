@@ -6,9 +6,10 @@ title: Darkness
 publication: Poetry Foundation
 link: https://www.poetryfoundation.org/poems/43825/darkness-56d222aeeee1b
 date: 2017-06-20
+permalink: 
 ---
 
-[[2017]] / [[commonplace]] / 
+[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
  
 I had a dream, which was not all a dream. 
 <br>The bright sun was extinguish'd, and the stars 

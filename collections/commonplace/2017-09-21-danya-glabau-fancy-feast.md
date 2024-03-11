@@ -6,9 +6,10 @@ title: Fancy Feast
 publication: Real Life
 link: http://reallifemag.com/fancy-feast/
 date: 2017-09-21
+permalink: 
 ---
 
-[[2017]] / [[commonplace]] / 
+[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
  
 “The implication: What we eat should be more than just food. It ought to be supplemented by fairy dust that promises to rev up our cognitive, bodily, sexual, and even spiritual prowess.”
 

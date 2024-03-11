@@ -6,9 +6,10 @@ title: Man, a Prosthetic God
 publication: Jacket Magazine
 link: http://jacketmagazine.com/33/humpo-poems.shtml
 date: 2017-06-20
+permalink: 
 ---
 
-[[2017]] / [[commonplace]] / 
+[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
  
 *“weh unser gutter kaspar ist tot.” — Hans Arp*
 

@@ -6,9 +6,10 @@ title: Star Trek Discovery
 publication: Los Angeles Review of Books
 link: https://lareviewofbooks.org/article/star-trek-discovery/
 date: 2017-09-25
+permalink: 
 ---
 
-[[2017]] / [[commonplace]] / 
+[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
  
 “Future Perfect
 

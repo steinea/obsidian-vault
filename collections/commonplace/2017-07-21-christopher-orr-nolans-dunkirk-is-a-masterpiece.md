@@ -6,9 +6,10 @@ title: <em>Dunkirk</em> Is a Masterpiece
 publication: The Atlantic
 link: https://www.theatlantic.com/entertainment/archive/2017/07/dunkirk-is-a-stunningly-spare-survival-film/534252/
 date: 2017-07-21
+permalink: 
 ---
 
-[[2017]] / [[commonplace]] / 
+[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
  
 “It is a $150 million epic, yet also as lean and spare as a haiku, three brief, almost wordless strands of narrative woven together in a mere 106 minutes of running time.”
 

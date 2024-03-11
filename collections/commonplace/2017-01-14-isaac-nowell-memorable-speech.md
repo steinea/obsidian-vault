@@ -6,9 +6,10 @@ title: Memorable Speech
 publication: Los Angeles Review of Books
 link: https://lareviewofbooks.org/article/memorable-speech-on-j-d-mcclatchys-sweet-theft-a-poets-commonplace-book/
 date: 2017-01-14
+permalink: 
 ---
 
-[[2017]] / [[commonplace]] / 
+[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
  
 “PERHAPS UNSURPRISINGLY, it is not easy to review a commonplace book, or even to define it.”
 

@@ -6,9 +6,10 @@ title: Nothingness
 publication: Stanford Encyclopedia of Philosophy
 link: https://plato.stanford.edu/entries/nothingness/
 date: 2017-09-26
+permalink: 
 ---
 
-[[2017]] / [[commonplace]] / 
+[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
  
 “First published Thu Aug 28, 2003; substantive revision Thu Aug 31, 2017”
 

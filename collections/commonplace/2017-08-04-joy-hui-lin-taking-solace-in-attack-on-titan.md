@@ -6,9 +6,10 @@ title: Taking Solace in Attack on Titan
 publication: Los Angeles Review of Books
 link: https://lareviewofbooks.org/article/taking-solace-in-attack-on-titan/
 date: 2017-08-04
+permalink: 
 ---
 
-[[2017]] / [[commonplace]] / 
+[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
  
 “Normal efforts toward self-care fall so short and feel so ludicrous when it feels as though the world is hurting everywhere.”
 

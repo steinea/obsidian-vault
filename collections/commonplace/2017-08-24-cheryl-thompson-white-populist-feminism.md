@@ -6,9 +6,10 @@ title: White Populist Feminism
 publication: Rabble
 link: http://rabble.ca/blogs/bloggers/2017-02-21t000000/white-populist-feminism-makes-intersectionality-nearly-impossible
 date: 2017-08-24
+permalink: 
 ---
 
-[[2017]] / [[commonplace]] / 
+[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
  
 “Over the past few years, populist politics have been on the rise across the western world.”
 

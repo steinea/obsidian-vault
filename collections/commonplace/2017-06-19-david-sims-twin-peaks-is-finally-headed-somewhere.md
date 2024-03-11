@@ -6,9 +6,10 @@ title: An 18-Hour Movie
 publication: The Atlantic
 link: https://www.theatlantic.com/entertainment/archive/2017/06/twin-peaks-is-finally-headed-somewhere/530835/
 date: 2017-06-19
+permalink: 
 ---
 
-[[2017]] / [[commonplace]] / 
+[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
  
 “Seven episodes into the return of Twin Peaks, even a devoted viewer might be forgiven for not knowing exactly what David Lynch’s 18-hour Showtime revival of his most beloved property is about.”
 

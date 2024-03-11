@@ -6,9 +6,10 @@ title: Lyric Address
 publication: Los Angeles Review of Books
 link: https://lareviewofbooks.org/article/lyric-address-impossible-desire/
 date: 2017-01-30
+permalink: 
 ---
 
-[[2017]] / [[commonplace]] / 
+[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
  
 “EMMANUEL LEVINAS ONCE ARGUED that intimacy takes us from the impossible to the infinite, and back again.”
 

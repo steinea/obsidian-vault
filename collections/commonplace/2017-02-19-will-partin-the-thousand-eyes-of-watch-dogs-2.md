@@ -6,9 +6,10 @@ title: The Thousand Eyes of Watch Dogs 2
 publication: Los Angeles Review of Books
 link: https://lareviewofbooks.org/article/the-thousand-eyes-of-watch-dogs-2/
 date: 2017-02-19
+permalink: 
 ---
 
-[[2017]] / [[commonplace]] / 
+[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
  
 “Its end user license agreement plainly states that “UBISOFT may collect and store data about You in relation to Your use of the Product,” and that “certain data is recorded, archived, analysed and used to create user statistics.””
 

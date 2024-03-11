@@ -6,9 +6,10 @@ title: Dragons Are the Nuclear Option
 publication: The Atlantic
 link: https://www.theatlantic.com/entertainment/archive/2017/08/game-of-thrones-dragons-and-the-nuclear-option/536067/
 date: 2017-08-07
+permalink: 
 ---
 
-[[2017]] / [[commonplace]] / 
+[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
  
 “It’s no secret that dragons have a deeper meaning on Game of Thrones. George R.R. Martin has specifically referred to them as “the nuclear deterrent.””
 

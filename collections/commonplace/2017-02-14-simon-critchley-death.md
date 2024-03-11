@@ -6,9 +6,10 @@ title: Death
 publication: The Guardian
 link: http://www.theguardian.com/commentisfree/belief/2009/jul/13/heidegger-being-time
 date: 2017-02-14
+permalink: 
 ---
 
-[[2017]] / [[commonplace]] / 
+[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
  
 Being and Time pt. 6
 

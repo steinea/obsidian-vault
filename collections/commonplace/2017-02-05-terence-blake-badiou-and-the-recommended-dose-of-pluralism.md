@@ -6,9 +6,10 @@ title: Badiou and the Recommended Dose of Pluralism
 publication: Agent Swarm
 link: https://terenceblake.wordpress.com/2017/02/05/badiou-and-the-recommended-dose-of-pluralism/
 date: 2017-02-05
+permalink: 
 ---
 
-[[2017]] / [[commonplace]] / 
+[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
  
 “My thesis is that Badiou is caught up in a process of becoming Deleuzian as he develops ever further his pluralist ontology of immanence.”
 

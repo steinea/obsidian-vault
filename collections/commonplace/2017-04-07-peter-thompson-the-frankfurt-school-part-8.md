@@ -6,9 +6,10 @@ title: The Frankfurt School, Part 8
 publication: The Guardian
 link: http://www.theguardian.com/commentisfree/2013/may/13/frankfurt-school-where-from-here
 date: 2017-04-07
+permalink: 
 ---
 
-[[2017]] / [[commonplace]] / 
+[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
  
 “The final question for this series is whether any of the issues brought up by the Frankfurt school still have any currency or importance.”
 

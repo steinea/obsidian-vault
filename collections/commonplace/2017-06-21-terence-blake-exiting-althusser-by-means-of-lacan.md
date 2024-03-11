@@ -6,9 +6,10 @@ title: Exiting Althusser by Means of Lacan
 publication: Agent Swarm
 link: https://terenceblake.wordpress.com/2013/04/25/on-exiting-althusser-by-means-of-lacan-against-the-demi-post-structuralists/
 date: 2017-06-21
+permalink: 
 ---
 
-[[2017]] / [[commonplace]] / 
+[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
  
 “However, if we take ideology in some wider sense than merely ideas, such as the unawareness of the material (political, economic and technological) origins and/or conditions of our ideas, then it becomes a more plausible notion, but it can no longer be the Other of science, and we have left the space of structuralist epistemology.”
 

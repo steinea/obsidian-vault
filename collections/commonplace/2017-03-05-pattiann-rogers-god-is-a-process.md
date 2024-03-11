@@ -6,9 +6,10 @@ title: God Is A Process
 publication: Song of the World Becoming
 link: https://books.google.ca/books/about/Song_of_the_World_Becoming.html?id=LDxbAAAAMAAJ
 date: 2017-03-05
+permalink: 
 ---
 
-[[2017]] / [[commonplace]] / 
+[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
  
 “God is a process, a raveled nexus
 forever tangling into and around the changing

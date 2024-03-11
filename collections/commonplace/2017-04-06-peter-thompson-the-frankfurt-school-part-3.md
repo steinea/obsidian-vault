@@ -6,9 +6,10 @@ title: The Frankfurt School, Part 3
 publication: The Guardian
 link: http://www.theguardian.com/commentisfree/2013/apr/08/frankfurt-school-dialectic-of-enlightenment
 date: 2017-04-06
+permalink: 
 ---
 
-[[2017]] / [[commonplace]] / 
+[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
  
 “The Frankfurt school came together and developed its theories in a world left shattered by the first world war.”
 

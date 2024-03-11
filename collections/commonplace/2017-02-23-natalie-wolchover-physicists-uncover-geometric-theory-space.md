@@ -6,9 +6,10 @@ title: Physicists Uncover Geometric Theory Space
 publication: Quanta Magazine
 link: https://www.quantamagazine.org/20170223-bootstrap-geometry-theory-space/
 date: 2017-02-23
+permalink: 
 ---
 
-[[2017]] / [[commonplace]] / 
+[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
  
 "In the 1960s, the charismatic physicist Geoffrey Chew espoused a radical vision of the universe, and with it, a new way of doing physics. "
 

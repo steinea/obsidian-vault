@@ -6,9 +6,10 @@ title:  Dragons Are an Air Force
 publication: Motherboard
 link: https://motherboard.vice.com/en_us/article/43xkeb/game-of-thrones-dragons-arent-nukes-theyre-an-air-force
 date: 2017-08-08
+permalink: 
 ---
 
-[[2017]] / [[commonplace]] / 
+[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
  
 “After years of waiting, Game of Thrones fans finally got to watch Daenerys Targaryen's dragons go to war last night and it was beautiful.”
 

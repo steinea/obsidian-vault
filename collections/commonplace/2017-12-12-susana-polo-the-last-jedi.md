@@ -6,9 +6,10 @@ title: <em>The Last Jedi</em>
 publication: Polygon
 link: https://www.polygon.com/2017/12/12/16749732/star-wars-review-the-last-jedi-rian-johnson-luke-rey
 date: 2017-12-12
+permalink: 
 ---
 
-[[2017]] / [[commonplace]] / 
+[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
  
 “The chief complaint against Star Wars: The Force Awakens was that it reveled too much in its own past, repeating the themes and dynamics of the Star Wars franchise too closely. Taking it as an expertly constructed remix, I enjoyed it through and through, but even I will admit that it’s still just a remix.”
 

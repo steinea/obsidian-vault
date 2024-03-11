@@ -6,9 +6,10 @@ title: Fiction and Figure
 publication: For What Tomorrow...
 link: https://www.sup.org/books/title/?id=4919
 date: 2017-03-16
+permalink: 
 ---
 
-[[2017]] / [[commonplace]] / 
+[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
  
 Picking out a few morsels, bits of sentence from the final session (26 March 2003) of Jacques Derrida’s The Beast and the Sovereign, I hope to illuminate the strangeness of ‘the fiction of the world’. At issue is the figure of fiction both in a conventional literary sense and in accordance with what he describes, in For What Tomorrow... (2001), as ‘the debt of all theoretical (but also all juridical, ethical and political) positing, to a performative power structured by fiction, by a figural invention’.
 

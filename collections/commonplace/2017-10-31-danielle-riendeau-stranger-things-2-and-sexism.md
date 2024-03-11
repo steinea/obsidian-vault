@@ -6,9 +6,10 @@ title: Stranger Things 2 and Sexism
 publication: Waypoint
 link: https://waypoint.vice.com/en_us/article/ne373g/stranger-things-season-2-sexism
 date: 2017-10-31
+permalink: 
 ---
 
-[[2017]] / [[commonplace]] / 
+[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
  
 “I just started episode six, so I'm not through, but so far, Season 2 of Stranger Things is knocking it out of the 80s-inspired park in almost every aspect. It's stronger than the first by a long shot, with much tighter pacing—it feels like a horror thriller in itself, with the confidence to be its own thing, less the loose mishmash of Goonies/Gremlins/Aliens/General 80s Spielberg tropes that defined season one.”
 

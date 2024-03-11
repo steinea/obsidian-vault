@@ -6,9 +6,10 @@ title: Lacan's Heuristic
 publication: Agent Swarm
 link: https://terenceblake.wordpress.com/2017/03/23/lacan-heuristic-every-successful-analysis-is-a-falsification/
 date: 2017-03-24
+permalink: 
 ---
 
-[[2017]] / [[commonplace]] / 
+[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
  
 “I was into Lacan from 1975 to 1979 and then became disgusted with the dogmatic exclusive use of his thought”
 

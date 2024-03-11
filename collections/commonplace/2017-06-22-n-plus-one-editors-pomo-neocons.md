@@ -6,9 +6,10 @@ title: PoMo NeoCons
 publication: n+1
 link: https://nplusonemag.com/issue-1/the-intellectual-situation/pomo-neocons/
 date: 2017-06-22
+permalink: 
 ---
 
-[[2017]] / [[commonplace]] / 
+[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
  
 “Whether from complacency or ignorance, too many of us with left-wing prejudices believed that “advanced methods” were enough to change the world. The Standard proves that learning to think strategically about symbolic forms doesn’t necessitate any particular substantive politics.”
 

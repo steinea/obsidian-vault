@@ -6,9 +6,10 @@ title: Apart Together
 publication: New York Review of Books
 link: http://www.nybooks.com/daily/2016/12/10/distance-apart-together/
 date: 2017-04-11
+permalink: 
 ---
 
-[[2017]] / [[commonplace]] / 
+[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
  
 “Now, all calls are local calls—the entire world is nearby.”
 

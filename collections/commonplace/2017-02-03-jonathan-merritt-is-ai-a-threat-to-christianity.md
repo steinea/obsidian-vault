@@ -6,9 +6,10 @@ title: Is AI a Threat to Christianity?
 publication: The Atlantic
 link: https://www.theatlantic.com/technology/archive/2017/02/artificial-intelligence-christianity/515463/
 date: 2017-02-03
+permalink: 
 ---
 
-[[2017]] / [[commonplace]] / 
+[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
  
 In his relatively short tenure, Pope Francis has been hard at work welcoming spiritual seekers into the Catholic Church. He’s refused to judge LGBT people, sought to integrate divorced couples, and extended priests’ ability to forgive abortion. But Francis’s wide arms have arguably never stretched further than a mass in 2014 when he suggested the church would baptize Martians.
 

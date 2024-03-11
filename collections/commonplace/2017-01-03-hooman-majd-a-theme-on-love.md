@@ -6,9 +6,10 @@ title: A Theme on Love
 publication: Los Angeles Review of Books
 link: https://lareviewofbooks.org/article/a-theme-on-love-enigma-variations/
 date: 2017-01-03
+permalink: 
 ---
 
-[[2017]] / [[commonplace]] / 
+[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
  
 “WHAT ENGLISH COMPOSER Edward Elgar’s orchestral Enigma Variations, composed in the last couple of years of the 19th century, was meant to represent — in each of its 14 variations of a single theme — was a musical picture of a friend or acquaintance of the composer; the addition of the word “enigma,” which Elgar himself added to his original simple “variations,” has never been properly explained, at least not to the complete satisfaction of classical music aficionados who may happen upon André Aciman’s new novel of the same name on a shelf, or table if he’s fortunate, in the few remaining bookstores in the country, and be forgiven for picking it up immediately in belief that it is perhaps the definitive document on the meaning of the musical piece.”
 

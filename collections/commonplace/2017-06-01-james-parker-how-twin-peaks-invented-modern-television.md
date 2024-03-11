@@ -6,9 +6,10 @@ title: <em>Twin Peaks</em> Invented Modern TV
 publication: The Atlantic
 link: https://www.theatlantic.com/magazine/archive/2017/06/how-twin-peaks-invented-modern-television/524493/
 date: 2017-06-01
+permalink: 
 ---
 
-[[2017]] / [[commonplace]] / 
+[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
  
 “The sensational entrance into mass consciousness of David Lynch and Mark Frost’s Twin Peaks, 27 years ago, was an event that defies replication.”
 

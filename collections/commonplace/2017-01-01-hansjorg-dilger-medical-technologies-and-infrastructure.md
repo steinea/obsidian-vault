@@ -6,9 +6,10 @@ title: Medical Technologies and Infrastructure
 publication: Allegra Laboratory
 link: http://allegralaboratory.net/medical-technologies-and-infrastructure-exploring-immobility-and-disconnectivity-in-global-health-medtech/
 date: 2017-01-01
+permalink: 
 ---
 
-[[2017]] / [[commonplace]] / 
+[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
  
 “There are numerous approaches to defining “Global Health” (Brown, Cueto, and Fee 2006; Farmer et al. 2013; Fassin 2012; Janes and Corbett 2009), a phenomenon that Arthur Kleinman (2010: 1518) considered to be “more a bunch of problems than a discipline.””
 

@@ -6,9 +6,10 @@ title: Angels and Administration
 publication: The Paris Review
 link: https://www.theparisreview.org/blog/2017/02/02/an-interview-with-alexander-kluge/
 date: 2017-02-02
+permalink: 
 ---
 
-[[2017]] / [[commonplace]] / 
+[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
  
 “Our Winter issue features fiction by Alexander Kluge: “In Medieval Angelology, There Are Nine Orders of Snow,” twenty-two stories on some lines from Ben Lerner’s The Lichtenberg Figures. Kluge made a rare trip to New York a few months ago, appearing in conversation with Lerner at the Goethe Institute and at Princeton. Afterward, they talked over sushi. The interview below is excerpted from their conversation. They continue to send poems and prose back and forth to each other.”
 

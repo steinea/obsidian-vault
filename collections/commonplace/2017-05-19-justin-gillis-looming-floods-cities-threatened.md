@@ -6,9 +6,10 @@ title: Looming Floods, Cities Threatened
 publication: The New York Times
 link: https://www.nytimes.com/interactive/2017/05/18/climate/antarctica-ice-melt-climate-change-flood.html
 date: 2017-05-19
+permalink: 
 ---
 
-[[2017]] / [[commonplace]] / 
+[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
  
 “More than 60 percent of the freshwater on Earth is locked in Antarctica’s ice sheets.”
 

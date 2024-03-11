@@ -6,9 +6,10 @@ title: The True Hard Work of Love and Relationships
 publication: On Being
 link: http://www.onbeing.org/programs/alain-de-botton-the-true-hard-work-of-love-and-relationships/
 date: 2017-02-09
+permalink: 
 ---
 
-[[2017]] / [[commonplace]] / 
+[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
  
 ““Compatibility is an achievement of love. It cannot be its precondition.””
 

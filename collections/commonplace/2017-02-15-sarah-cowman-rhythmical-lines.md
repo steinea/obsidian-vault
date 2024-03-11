@@ -6,9 +6,10 @@ title: Rhythmical Lines
 publication: The Paris Review
 link: https://www.theparisreview.org/blog/2017/02/15/rhythmical-lines/
 date: 2017-02-15
+permalink: 
 ---
 
-[[2017]] / [[commonplace]] / 
+[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
  
 “When he was eighty-five, Waclaw Szpakowski wrote a treatise for a lifetime project that no one had known about. Titled “Rhythmical Lines,” it describes a series of labyrinthine geometrical abstractions, each one produced from a single continuous line.”
 

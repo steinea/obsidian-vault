@@ -6,9 +6,10 @@ title: Dark Souls, but with Talking
 publication: YouTube
 link: https://www.youtube.com/watch?v=eRbZVx6SuOE&t=1s
 date: 2017-07-14
+permalink: 
 ---
 
-[[2017]] / [[commonplace]] / 
+[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
  
 This kind of makes me wonder...in NG+, since we already know everything that's going to happen, what if the Chosen Undead decided to stop being a mute idiot and use this knowledge to talk some sense into everyone?
 

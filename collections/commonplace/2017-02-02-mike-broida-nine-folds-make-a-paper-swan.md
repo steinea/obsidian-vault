@@ -6,9 +6,10 @@ title: Nine Folds Make a Paper Swan
 publication: Los Angeles Review of Books
 link: https://lareviewofbooks.org/article/how-to-become-one-ruth-gilligans-nine-folds-make-a-paper-swan/
 date: 2017-02-02
+permalink: 
 ---
 
-[[2017]] / [[commonplace]] / 
+[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
  
 “Through three story strands that stretch over the course of a hundred years, the many ways of being both Irish and Jewish become inextricably linked in Nine Folds Make a Paper Swan, Ruth Gilligan’s fourth novel.”
 

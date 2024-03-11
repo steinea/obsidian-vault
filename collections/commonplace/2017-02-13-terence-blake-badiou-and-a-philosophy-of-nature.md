@@ -6,9 +6,10 @@ title: Badiou and a Philosophy of Nature
 publication: Agent Swarm
 link: https://terenceblake.wordpress.com/2017/02/09/badiou-and-a-philosophy-of-nature-overcoming-doxic-residues/
 date: 2017-02-13
+permalink: 
 ---
 
-[[2017]] / [[commonplace]] / 
+[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
  
 “Badiousians often put the dogmatic cart before the investigative horse. For example they talk smugly of noone ever having proposed an acceptable fifth “candidate” for the status of truth procedure as if they formed some transcendental tribunal applying a pre-existing body of statutory law.”
 

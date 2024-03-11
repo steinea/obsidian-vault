@@ -6,9 +6,10 @@ title: A Wolf in Wolf's Clothing
 publication: The Atlantic
 link: https://www.theatlantic.com/entertainment/archive/2017/07/game-of-thrones-hit-the-deck/534621/
 date: 2017-07-23
+permalink: 
 ---
 
-[[2017]] / [[commonplace]] / 
+[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
  
 “Thrones reiterated its core conflict between righteousness and realpolitik. But it also turned its attention back to a fascinating uniter of those two approaches: Varys.”
 

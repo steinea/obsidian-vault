@@ -6,9 +6,10 @@ title: Subverting the Military Shooter
 publication: Waypoint
 link: https://waypoint.vice.com/en_us/article/newajb/how-vanquish-subverts-the-military-shooter
 date: 2017-06-24
+permalink: 
 ---
 
-[[2017]] / [[commonplace]] / 
+[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
  
 “Though military shooters certainly existed before the mid-2000's, the genre found a new life in the Xbox 360 and Playstation 3 era.”
 

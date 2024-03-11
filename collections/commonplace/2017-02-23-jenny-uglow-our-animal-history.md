@@ -6,9 +6,10 @@ title: Our Animal History
 publication: New York Review of Books
 link: http://www.nybooks.com/daily/2017/02/23/our-animal-history-making-nature/
 date: 2017-02-23
+permalink: 
 ---
 
-[[2017]] / [[commonplace]] / 
+[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
  
 “displaying “nature” is a complex, many-faceted, ever-changing imaginative act.”
 

@@ -6,9 +6,10 @@ title: The Short Story in the Age of Tumblr
 publication: Los Angeles Review of Books
 link: https://lareviewofbooks.org/article/short-story-age-tumblr-nick-francis-potters-new-animals/
 date: 2017-01-12
+permalink: 
 ---
 
-[[2017]] / [[commonplace]] / 
+[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
  
 “NICK FRANCIS POTTER’S New Animals is a collection of short stories and comics.”
 

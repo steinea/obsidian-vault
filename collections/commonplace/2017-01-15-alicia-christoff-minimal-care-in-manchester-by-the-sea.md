@@ -6,9 +6,10 @@ title: Minimal Care
 publication: Los Angeles Review of Books
 link: https://lareviewofbooks.org/article/minimal-care-in-kenneth-lonergans-manchester-by-the-sea/
 date: 2017-01-15
+permalink: 
 ---
 
-[[2017]] / [[commonplace]] / 
+[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
  
 “Loss seems always to have already happened, a feeling inspired in part by the dual chronology through which the story unfolds, but also because, the film suggests, this is the condition of being a man.”
 

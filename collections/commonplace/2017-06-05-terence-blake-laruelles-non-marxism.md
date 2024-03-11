@@ -6,9 +6,10 @@ title: Laruelle's Non-Marxism
 publication: Agent Swarm
 link: https://terenceblake.wordpress.com/2017/06/05/laruelles-non-marxism-between-ethicism-and-religionism/
 date: 2017-06-05
+permalink: 
 ---
 
-[[2017]] / [[commonplace]] / 
+[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
  
 “INTRODUCTION TO NON-MARXISM is a very interesting work of transition, published in French in 2000, and well worth reading in the contemporary context of thought trying to break free from the inherited limitations that prevent it from engaging realistically with the world.”
 

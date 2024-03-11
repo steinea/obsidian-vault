@@ -6,9 +6,10 @@ title: Physics Theory of Life
 publication: Quanta Magazine
 link: https://www.quantamagazine.org/first-support-for-a-physics-theory-of-life-20170726/
 date: 2017-07-26
+permalink: 
 ---
 
-[[2017]] / [[commonplace]] / 
+[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
  
 “Take chemistry, add energy, get life. The first tests of Jeremy England’s provocative origin-of-life hypothesis are in, and they appear to show how order can arise from nothing.”
 

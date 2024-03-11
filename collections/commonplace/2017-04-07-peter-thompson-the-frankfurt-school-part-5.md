@@ -6,9 +6,10 @@ title: The Frankfurt School, Part 5
 publication: The Guardian
 link: http://www.theguardian.com/commentisfree/belief/2013/apr/22/frankfurt-school-walter-benjamin-fascism-future
 date: 2017-04-07
+permalink: 
 ---
 
-[[2017]] / [[commonplace]] / 
+[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
  
 “For Benjamin, religion was a vessel that contained within its authoritarian history and structures the spark of liberation”
 

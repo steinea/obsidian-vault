@@ -6,9 +6,10 @@ title: Dinner Theater
 publication: Real Life
 link: http://reallifemag.com/dinner-theater/
 date: 2017-09-14
+permalink: 
 ---
 
-[[2017]] / [[commonplace]] / 
+[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
  
 “It’s dinner-time as the perfect family would do it, with ingredients promised to be “fresher than the supermarket,” with a range and sophistication to which your ex-wife could only vainly aspire.”
 

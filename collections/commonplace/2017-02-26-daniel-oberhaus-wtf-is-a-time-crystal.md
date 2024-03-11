@@ -6,9 +6,10 @@ title: WTF Is a Time Crystal?
 publication: Motherboard
 link: https://motherboard.vice.com/en_us/article/ok-wtf-is-a-time-crystal
 date: 2017-02-26
+permalink: 
 ---
 
-[[2017]] / [[commonplace]] / 
+[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
  
 “Last month, a team of physicists from UC Berkeley said they'd created a blueprint for a new phase of matter called a time crystal.”
 

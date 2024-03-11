@@ -6,9 +6,10 @@ title: The Last Jedi
 publication: The Atlantic
 link: https://www.theatlantic.com/entertainment/archive/2017/12/the-last-jedi-may-be-the-best-star-wars-movie-since-the-empire-strikes-back/548363/
 date: 2017-12-17
+permalink: 
 ---
 
-[[2017]] / [[commonplace]] / 
+[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
  
 “This was always going to be a tricky balance—long-awaited fan fulfillment versus something genuinely fresh”
 

@@ -6,9 +6,10 @@ title: The Pizza Thought Experiment
 publication: New York Review of Books
 link: http://www.nybooks.com/daily/2017/11/26/the-pizza-thought-experiment/
 date: 2017-11-26
+permalink: 
 ---
 
-[[2017]] / [[commonplace]] / 
+[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
  
 "Descartes declared thinking the ultimate reality, the only way to be sure of one’s existence. He located that thinking in the mind and believed it was immaterial, made of spirit, communicating with the physical body through the pineal gland at the top of the spine. "
 

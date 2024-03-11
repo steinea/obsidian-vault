@@ -6,9 +6,10 @@ title: Language Games Can Set Us Free
 publication: Aeon
 link: https://aeon.co/ideas/how-playing-wittgensteinian-language-games-can-set-us-free
 date: 2017-01-24
+permalink: 
 ---
 
-[[2017]] / [[commonplace]] / 
+[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
  
 “We live out our lives amid a world of language, in which we use words to do things.”
 

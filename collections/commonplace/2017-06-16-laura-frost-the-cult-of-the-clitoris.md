@@ -6,9 +6,10 @@ title: The Cult of the Clitoris
 publication: Los Angeles Review of Books
 link: https://lareviewofbooks.org/article/the-cult-of-the-clitoris/
 date: 2017-06-16
+permalink: 
 ---
 
-[[2017]] / [[commonplace]] / 
+[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
  
 “Laurie Mintz’s Becoming Cliterate: Why Orgasm Equality Matters — And How to Get It is a manifesto for today’s orgasmic insurrection.”
 

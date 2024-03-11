@@ -6,9 +6,10 @@ title: Faith in the Earth
 publication: Wikipedia
 link: https://en.wikipedia.org/wiki/Faith_in_the_Earth
 date: 2017-11-23 
+permalink: 
 ---
 
-[[2017]] / [[commonplace]] / 
+[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
  
 This article has multiple issues. Please help improve it or discuss these issues on the talk page.
 

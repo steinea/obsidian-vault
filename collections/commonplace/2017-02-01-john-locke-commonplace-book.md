@@ -6,9 +6,10 @@ title: Commonplace Book
 publication: Wikipedia
 link: https://en.m.wikipedia.org/wiki/Commonplace_book
 date: 2017-02-01
+permalink: 
 ---
 
-[[2017]] / [[commonplace]] / 
+[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
  
 "Commonplace books (or commonplaces) are a way to compile knowledge, usually by writing information into books. Such books are essentially scrapbooks filled with items of every kind: recipes, quotes, letters, poems, tables of weights and measures, proverbs, prayers, legal formulas. 'Commonplace' is a translation of the Latin term locus communis (from Greek tópos koinós) which means 'a theme or argument of general application,' such as a statement of proverbial wisdom."
 

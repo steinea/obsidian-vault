@@ -6,9 +6,10 @@ title: Chomsky, Wolfe, and Me
 publication: Aeon
 link: https://aeon.co/essays/why-language-is-not-everything-that-noam-chomsky-said-it-is
 date: 2017-01-10
+permalink: 
 ---
 
-[[2017]] / [[commonplace]] / 
+[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
  
 “Few scientific disagreements lead to public controversy. But there are times when the subject or the participants in a debate so capture the public imagination that otherwise dry, technical matters of discord among researchers erupt into the media, eliciting a wide array of opinions from experts and non-experts.”
 

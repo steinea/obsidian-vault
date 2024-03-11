@@ -6,9 +6,10 @@ title: War
 publication: War
 link: http://www.sebastianjunger.com/war-by-sebastian-junger
 date: 2017-06-20
+permalink: 
 ---
 
-[[2017]] / [[commonplace]] / 
+[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
  
 "War is the only place where young men are able to love each other unreservedly without it being mistaken for something else."
 

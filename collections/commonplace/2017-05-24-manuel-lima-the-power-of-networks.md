@@ -6,9 +6,10 @@ title: The Power of Networks
 publication: RSA Animate
 link: https://youtu.be/nJmGrNdJ5Gw
 date: 2017-05-24
+permalink: 
 ---
 
-[[2017]] / [[commonplace]] / 
+[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
  
 Trees
 

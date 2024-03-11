@@ -6,9 +6,10 @@ title: What Keeps Everything from Happening at Once?
 publication: Los Angeles Review of Books
 link: https://lareviewofbooks.org/article/what-keeps-everything-from-happening-at-once-the-physics-of-time/
 date: 2017-01-17
+permalink: 
 ---
 
-[[2017]] / [[commonplace]] / 
+[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS  
  
 “HERE’S A FAVORITE JOKE among physicists: “Time flies like an arrow, but fruit flies like a banana.” Some attribute it to Groucho Marx (a layman). Some attribute it to the high regard that physicists have for their careers and aptitudes as opposed to those of biologists.”
 

@@ -6,9 +6,10 @@ title: Cloudbank
 publication: Fractal Ontology
 link: https://fractalontology.wordpress.com/2017/08/17/cloudbank/
 date: 2017-08-17
+permalink: 
 ---
 
-[[2017]] / [[commonplace]] / 
+[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
  
 “Critique of pure laughter.”
 

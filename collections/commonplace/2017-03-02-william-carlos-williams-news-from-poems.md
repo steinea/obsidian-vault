@@ -6,9 +6,10 @@ title: News From Poems
 publication: Asphodel, That Greeny Flower
 link: https://en.wikipedia.org/wiki/Asphodel,_That_Greeny_Flower
 date: 2017-03-02
+permalink: 
 ---
 
-[[2017]] / [[commonplace]] / 
+[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
  
 It is difficult
 <br>to get the news from poems

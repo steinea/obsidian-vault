@@ -6,9 +6,10 @@ title: Tactical Virality
 publication: Real Life
 link: http://reallifemag.com/tactical-virality/
 date: 2017-02-14
+permalink: 
 ---
 
-[[2017]] / [[commonplace]] / 
+[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
  
 “These systemic distortions, Hall argued, could be countered in part by the agency audiences have in “decoding” broadcasts variously and interpreting the meaning in light of their own social contexts. Public responses to any given broadcast will not be homogenous.”
 

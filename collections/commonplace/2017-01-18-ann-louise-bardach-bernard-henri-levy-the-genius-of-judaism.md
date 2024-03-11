@@ -6,9 +6,10 @@ title: A Conversation with Bernard-Henri Lévy
 publication: Los Angeles Review of Books
 link: https://lareviewofbooks.org/article/conversation-bernard-henri-levy/
 date: 2017-01-18
+permalink: 
 ---
 
-[[2017]] / [[commonplace]] / 
+[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
  
 “BERNARD-HENRI LÉVY, or BHL as he’s known in France, is that rare bird, a public intellectual who is also a crusader.”
 

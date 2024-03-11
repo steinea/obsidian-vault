@@ -6,9 +6,10 @@ title: An Object Lesson
 publication: New York Review of Books
 link: http://www.nybooks.com/daily/2017/10/09/consciousness-an-object-lesson/
 date: 2017-10-09
+permalink: 
 ---
 
-[[2017]] / [[commonplace]] / 
+[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
  
 “What is “an object” in the end? And what is “the world” that these objects make up?”
 

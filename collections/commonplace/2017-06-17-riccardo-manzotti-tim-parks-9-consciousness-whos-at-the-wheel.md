@@ -6,9 +6,10 @@ title: Who’s at the Wheel?
 publication: New York Review of Books
 link: http://www.nybooks.com/daily/2017/06/17/consciousness-whos-at-the-wheel/
 date: 2017-06-17
+permalink: 
 ---
 
-[[2017]] / [[commonplace]] / 
+[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
  
 “For any materialist vision of consciousness, the crucial stumbling block is the question of free will.”
 

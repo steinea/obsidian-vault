@@ -6,9 +6,10 @@ title: Exiting the Vampire Castle
 publication: The North Star
 link: http://www.thenorthstar.info/?p=11299
 date: 2017-04-28
+permalink: 
 ---
 
-[[2017]] / [[commonplace]] / 
+[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
  
 “‘Left-wing’ Twitter can often be a miserable, dispiriting zone.”
 

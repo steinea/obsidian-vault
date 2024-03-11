@@ -6,9 +6,10 @@ title: No Mastery Without Mystery
 publication: Game Studies
 link: http://gamestudies.org/1501/articles/vella
 date: 2017-08-19
+permalink: 
 ---
 
-[[2017]] / [[commonplace]] / 
+[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
  
 “No Mastery Without Mystery: Dark Souls and the Ludic Sublime”
 

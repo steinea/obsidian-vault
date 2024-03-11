@@ -6,9 +6,10 @@ title: Eclectic Readings
 publication: The Paris Review
 link: https://www.theparisreview.org/interviews/4331/jorge-luis-borges-the-art-of-fiction-no-39-jorge-luis-borges
 date: 2017-05-15
+permalink: 
 ---
 
-[[2017]] / [[commonplace]] / 
+[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
  
 * *Pelican Guide to English Literature*
 * Modern Library *Selected Writings* of Francis Bacon

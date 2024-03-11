@@ -6,9 +6,10 @@ title: Chester Bennington
 publication: The Atlantic
 link: https://www.theatlantic.com/entertainment/archive/2017/07/chester-bennington-rip-41-victimhood/534393/
 date: 2017-07-20
+permalink: 
 ---
 
-[[2017]] / [[commonplace]] / 
+[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
  
 “Linkin Park became one of the most popular and most divisive bands of the new millennium because of their genre agnosticism and pop polish, but to listen to that debut single is to remember that they were also differentiated by a core of raw, convincing pain. It almost entirely came from Bennington.”
 

@@ -6,9 +6,10 @@ title: A Tale of Two Botanies
 publication: Wired
 link: https://www.wired.com/2000/04/botanies/
 date: 2017-11-25
+permalink: 
 ---
 
-[[2017]] / [[commonplace]] / 
+[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
  
 “Plants, shaped into incredible diversity by 3.8 billion years of evolution, make possible all life and are resilient against almost any threat - except human destructiveness.”
 

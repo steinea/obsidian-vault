@@ -6,9 +6,10 @@ title: The Ice Cream Problem
 publication: New York Review of Books
 link: http://www.nybooks.com/daily/2017/01/26/consciousness-the-ice-cream-problem/
 date: 2017-01-26
+permalink: 
 ---
 
-[[2017]] / [[commonplace]] / 
+[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
  
 “all these impressive results have not brought us any closer to accounting for consciousness or even establishing where exactly it “happens.”
 

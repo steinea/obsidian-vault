@@ -6,9 +6,10 @@ title: Game of Thrones and White Supremacy
 publication: The Root
 link: http://www.theroot.com/game-of-thrones-showed-us-how-america-treats-white-supr-1797817865
 date: 2017-08-14
+permalink: 
 ---
 
-[[2017]] / [[commonplace]] / 
+[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
  
 “We have previously discussed how the “army of the dead” (the White Walkers) is a metaphor for the white nationalist movement that seeks to slowly purge this country of everything other than Caucasian Christians.”
 

@@ -6,9 +6,10 @@ title: No Limits
 publication: Platypus
 link: http://blog.castac.org/2017/08/no-limits/
 date: 2017-08-17
+permalink: 
 ---
 
-[[2017]] / [[commonplace]] / 
+[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
  
 Fougères, Dorian. 2011. Aquarian Capitalism and Transition in Indonesia. VDM Verlag.
 

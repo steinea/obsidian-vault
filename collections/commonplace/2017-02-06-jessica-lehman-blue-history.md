@@ -6,9 +6,10 @@ title: Blue History
 publication: The New Inquiry
 link: http://thenewinquiry.com/essays/blue-history/
 date: 2017-02-06
+permalink: 
 ---
 
-[[2017]] / [[commonplace]] / 
+[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
  
 “The ocean archive catalogues the ways we have been laid to waste and have wasted”
 

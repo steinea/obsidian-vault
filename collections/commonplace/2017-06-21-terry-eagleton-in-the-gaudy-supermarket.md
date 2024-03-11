@@ -6,9 +6,10 @@ title: In the Gaudy Supermarket
 publication: London Review of Books
 link: https://www.lrb.co.uk/the-paper/v21/n10/terry-eagleton/in-the-gaudy-supermarket
 date: 2017-06-21
+permalink: 
 ---
 
-[[2017]] / [[commonplace]] / 
+[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
  
 "If she rightly distinguishes between ethnic minority and colonised nation, she fails to drive home the point that a good deal of post-colonialism has been a kind of ‘exported’ version of the US’s own grievous ethnic problems, and thus yet another instance of God’s Own Country, one of the most insular on earth, defining the rest of the world in terms of itself. For this exportation to get under way, certain imports known as Third World intellectuals are necessary to act as its agents; yet though Spivak has reason to know this better than most, she never pauses long enough in this book to unpack its implications. To do so would require some systematic critique; but systematic critique is for her more part of the problem than the solution, as it is for all those privileged enough not to stand in need of rigorous knowledge. These individuals used to be known as the gentry, and are nowadays known as post-structuralists. If she can be splendidly scathing about ‘white boys talking post-coloniality’, or the alliance between cultural studies, liberal multiculturalism and transnational capitalism, these wholesome morsels surface only to vanish again into the thick stew of her text."
 

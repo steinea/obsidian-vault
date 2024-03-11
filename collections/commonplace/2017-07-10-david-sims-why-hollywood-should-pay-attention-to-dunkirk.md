@@ -6,9 +6,10 @@ title: <em>Dunkirk</em>
 publication: The Atlantic
 link: https://www.theatlantic.com/entertainment/archive/2017/07/is-dunkirk-the-beginning-of-a-new-hollywood-gimmick/533094/
 date: 2017-07-10
+permalink: 
 ---
 
-[[2017]] / [[commonplace]] / 
+[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
  
 “this summer brings another potential savior from cinema’s yesteryear—the wide release of the director Christopher Nolan’s film Dunkirk on 70-millimeter film.”
 

@@ -6,9 +6,10 @@ title: Badiou’s Love Procedure
 publication: Agent Swarm
 link: https://terenceblake.wordpress.com/2017/02/08/badious-love-procedure-avoiding-de-genericity/
 date: 2017-02-13
+permalink: 
 ---
 
-[[2017]] / [[commonplace]] / 
+[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
  
 “I have been arguing on this blog that Badiou’s speculative system inevitably contains an empirical dimension that is not very often foregrounded.”
 

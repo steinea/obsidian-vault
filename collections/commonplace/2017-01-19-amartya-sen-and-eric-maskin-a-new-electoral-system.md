@@ -6,9 +6,10 @@ title: The Rules of the Game
 publication: New York Review of Books
 link: http://www.nybooks.com/articles/2017/01/19/rules-of-the-game-new-electoral-system/
 date: 2017-01-19
+permalink: 
 ---
 
-[[2017]] / [[commonplace]] / 
+[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
  
 “Americans have been using essentially the same rules to elect presidents since the beginning of the Republic.”
 

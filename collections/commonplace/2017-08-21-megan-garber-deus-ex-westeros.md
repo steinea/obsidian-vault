@@ -6,9 +6,10 @@ title: Deus Ex Westeros
 publication: The Atlantic
 link: https://www.theatlantic.com/entertainment/archive/2017/08/deus-ex-westeros/537480/
 date: 2017-08-21
+permalink: 
 ---
 
-[[2017]] / [[commonplace]] / 
+[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
  
 “Game of Thrones is in many ways a show about faith: in gods, in others, in oneself.”
 

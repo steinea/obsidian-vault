@@ -6,9 +6,10 @@ title: <em>The Last Jedi</em>
 publication: The Atlantic
 link: https://www.theatlantic.com/entertainment/archive/2017/12/the-last-jedi-twists-spoilers-star-wars-episode-viii/548402/
 date: 2017-12-17
+permalink: 
 ---
 
-[[2017]] / [[commonplace]] / 
+[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
  
 ““This is not going to go the way you think!” growls Luke Skywalker in a line that was, wisely, selected as the money quote for The Last Jedi’s trailers.”
 

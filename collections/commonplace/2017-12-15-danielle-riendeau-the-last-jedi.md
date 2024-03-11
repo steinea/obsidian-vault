@@ -6,9 +6,10 @@ title: The Last Jedi
 publication: Waypoint
 link: https://waypoint.vice.com/en_us/article/434nzb/star-wars-last-jedi-fan-again
 date: 2017-12-15
+permalink: 
 ---
 
-[[2017]] / [[commonplace]] / 
+[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
  
 “There are some issues here as well. It’s cheesy, but in the way all Star Wars movies are cheesy, and charming enough to pull it off. Formulaic in the same ways. And some of the humor works better than the rest.”
 

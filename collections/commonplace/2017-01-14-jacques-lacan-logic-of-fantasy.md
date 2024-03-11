@@ -6,9 +6,10 @@ title: Logic of Fantasy
 publication: Lacan
 link: http://www.lacan.com/seminars3.htm
 date: 2017-01-14
+permalink: 
 ---
- 
-[[2017]] / [[commonplace]] / 
+
+[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
  
 1966-1967	
 Le séminaire, Livre XIV: La logique du fantasme.

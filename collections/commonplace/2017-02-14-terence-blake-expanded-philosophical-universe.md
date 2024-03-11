@@ -6,9 +6,10 @@ title: Expanded Philosophical Universe
 publication: Agent Swarm
 link: https://terenceblake.wordpress.com/2017/02/12/expanded-philosophical-universe-laruelle-and-philo-fan-fiction/
 date: 2017-02-14
+permalink: 
 ---
 
-[[2017]] / [[commonplace]] / 
+[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
  
 “It is by now generally admitted that François Laruelle has never really read Badiou, and in fact he has never seriously pretended to. His polemical book ANTI-BADIOU, devoted to a quantum deconstruction of Badiou’s philosophy, is both a philo-fiction and a philo-hoax.”
 

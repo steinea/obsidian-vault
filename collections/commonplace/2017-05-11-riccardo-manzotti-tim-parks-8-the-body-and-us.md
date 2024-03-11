@@ -6,9 +6,10 @@ title: The Body and Us
 publication: New York Review of Books
 link: http://www.nybooks.com/daily/2017/05/11/consciousness-the-body-and-us/
 date: 2017-05-11
+permalink: 
 ---
 
-[[2017]] / [[commonplace]] / 
+[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
  
 “What is the function of the body in consciousness? Am I my body, or my brain, or a part of my brain? Could I ever exist separately from my body, my consciousness downloaded in a computer, for example, or received into heaven?”
 

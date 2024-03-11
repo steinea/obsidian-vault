@@ -6,9 +6,10 @@ title: Zizek's Deleuze-Lacan Pact
 publication: Agent Swarm
 link: https://terenceblake.wordpress.com/2017/10/31/zizeks-deleuzelacan-pact-an-ongoing-project/
 date: 2017-10-31
+permalink: 
 ---
 
-[[2017]] / [[commonplace]] / 
+[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
  
 “In my comments on Zizek’s INCONTINENCE OF THE VOID I have given him the best and most charitable reading I can, given his refusal both of deconstructionist negativity and of “new” positivity. The same applies to my comments on his previous book DISPARITIES.”
 

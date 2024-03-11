@@ -6,9 +6,10 @@ title: The Fifth Element
 publication: The Atlantic
 link: https://www.theatlantic.com/entertainment/archive/2017/07/how-the-fifth-element-subverted-sci-fi-movies/534108/
 date: 2017-07-19
+permalink: 
 ---
 
-[[2017]] / [[commonplace]] / 
+[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
  
 “The most radical element of Luc Besson’s 1997 space opera The Fifth Element is not the absurdly opulent future-costumes designed by Jean Paul Gaultier. It isn’t the bizarre Southern twang of the Hitler haircut-sporting villain Zorg (Gary Oldman), nor is it Chris Tucker’s performance as an intergalactic sex symbol who hosts a radio show. It’s that Bruce Willis cries at the opera.”
 

@@ -6,9 +6,10 @@ title: The Hardening of Consciousness
 publication: New York Review of Books
 link: http://www.nybooks.com/daily/2017/09/11/the-hardening-of-consciousness/
 date: 2017-09-11
+permalink: 
 ---
 
-[[2017]] / [[commonplace]] / 
+[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
  
 “How much of our current worldview, our social organization, our collective psychology, or simply our attitude to life, depends on how we understand consciousness?”
 

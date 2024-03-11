@@ -6,9 +6,10 @@ title: Crocodile
 publication: The Atlantic
 link: https://www.theatlantic.com/entertainment/archive/2017/12/black-mirror-crocodile-is-a-nihilistic-nordic-noir/549380/
 date: 2017-12-30
+permalink: 
 ---
 
-[[2017]] / [[commonplace]] / 
+[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
  
 "Sophie, I agree on “Arkangel,” which I initially admired for its indie-movie approach, though it couldn’t follow through on the advantages of that form. "
 

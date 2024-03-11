@@ -6,9 +6,10 @@ title: Review of Janicaud's Heidegger in France
 publication: Notre Dame Philosophical Review
 link: https://ndpr.nd.edu/news/heidegger-in-france/
 date: 2017-01-07
+permalink: 
 ---
 
-[[2017]] / [[commonplace]] / 
+[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
  
 “This book is an unusual intellectual history of a period and tradition still in flux, still unfolding and unfinished. It is sweeping in scope (covering over seventy years of Heidegger's widespread influence in French intellectual life) and equally wide ranging in its style: one finds theoretical discussions and academic debates discussed with insight and precision, and yet this book is full of anecdotes, as well as personal recollections (in the form of seven "Epilogues" appearing at various points). It tells the story of how Heidegger's thought entered, and often defined, some of the liveliest debates of French intellectual life in the 20th century.”
 

@@ -6,9 +6,10 @@ title: On Secularity
 publication: e-flux
 link: http://www.e-flux.com/announcements/144146/wheredoiendandyoubegin-on-secularity/
 date: 2017-08-24
+permalink: 
 ---
 
-[[2017]] / [[commonplace]] / 
+[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
  
 “WheredoIendandyoubegin – On Secularity, seeks to stimulate public discourse on a subject of contemporary social and political significance: that of the secular. What role should secularity have in society today?”
 

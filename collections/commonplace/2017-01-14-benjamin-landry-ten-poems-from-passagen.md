@@ -6,9 +6,10 @@ title: Ten Poems from Passagen
 publication: Conjunctions
 link: http://www.conjunctions.com/webconj.htm
 date: 2017-01-14
+permalink: 
 ---
 
-[[2017]] / [[commonplace]] / 
+[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
  
 “[… A] cradle rocking back and forth between modernity and antiquity […]”
 <br>—The Arcades Project

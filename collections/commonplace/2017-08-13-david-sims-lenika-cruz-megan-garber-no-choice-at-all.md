@@ -6,9 +6,10 @@ title: No Choice at All
 publication: The Atlantic
 link: https://www.theatlantic.com/entertainment/archive/2017/08/game-of-thrones-season-7-episode-5-eastwatch-roundtable/536634/
 date: 2017-08-13
+permalink: 
 ---
 
-[[2017]] / [[commonplace]] / 
+[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
  
 'Game of Thrones': No Choice at All
 

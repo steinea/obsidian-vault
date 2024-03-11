@@ -6,9 +6,10 @@ title: Heidegger’s Care
 publication: Stanford Encyclopedia of Philosophy
 link: https://plato.stanford.edu/entries/heidegger/
 date: 2017-06-20
+permalink: 
 ---
 
-[[2017]] / [[commonplace]] / 
+[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
  
 "2.2.7 Care
 

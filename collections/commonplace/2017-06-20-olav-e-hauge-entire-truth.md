@@ -6,9 +6,10 @@ title: Entire Truth
 publication: Narrative
 link: https://www.narrativemagazine.com/issues/winter-2011/ipoems/dont-come-me-entire-truth-olav-h-hauge
 date: 2017-06-20
+permalink: 
 ---
 
-[[2017]] / [[commonplace]] / 
+[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
  
 Don't come to me with the entire truth. 
 <br>Don't bring me the ocean if I feel thirsty,

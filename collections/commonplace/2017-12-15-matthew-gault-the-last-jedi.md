@@ -6,9 +6,10 @@ title: <em>The Last Jedi</em>
 publication: Motherboard
 link: https://motherboard.vice.com/en_us/article/9kdd97/star-wars-the-last-jedi-review-makes-prequels-good
 date: 2017-12-15
+permalink: 
 ---
 
-[[2017]] / [[commonplace]] / 
+[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
  
 “It’s confession time. I don’t hate the Star Wars prequels. Wait. Stop. Don’t close the browser. come closer. I have reasons.”
 

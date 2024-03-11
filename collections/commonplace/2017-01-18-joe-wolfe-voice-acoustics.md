@@ -6,9 +6,10 @@ title: Voice Acoustics
 publication: University of New South Wales
 link: http://newt.phys.unsw.edu.au/jw/voice.html
 date: 2017-01-18
+permalink: 
 ---
 
-[[2017]] / [[commonplace]] / 
+[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
  
 An Introduction to the Science of Speech and Singing
 

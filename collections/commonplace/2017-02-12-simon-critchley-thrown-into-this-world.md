@@ -6,9 +6,10 @@ title: Thrown Into This World
 publication: The Guardian
 link: http://www.theguardian.com/commentisfree/belief/2009/jun/29/religion-philosophy
 date: 2017-02-12
+permalink: 
 ---
 
-[[2017]] / [[commonplace]] / 
+[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
  
 Being and Time pt. 4
 

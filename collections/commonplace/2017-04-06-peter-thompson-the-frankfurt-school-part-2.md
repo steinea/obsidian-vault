@@ -6,9 +6,10 @@ title: The Frankfurt School, Part 2
 publication: The Guardian
 link: http://www.theguardian.com/commentisfree/2013/apr/01/negative-dialectics-frankfurt-school-adorno
 date: 2017-04-06
+permalink: 
 ---
 
-[[2017]] / [[commonplace]] / 
+[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
  
 “'Adorno criticised Hegel, above, for presenting a positive and affirmative dialectic in which 'everything that is real is rational'.'”
 

@@ -6,9 +6,10 @@ title: Living for the City
 publication: Los Angeles Review of Books
 link: https://lareviewofbooks.org/article/living-city-jane-jacobss-vital-little-plans/
 date: 2017-02-14
+permalink: 
 ---
 
-[[2017]] / [[commonplace]] / 
+[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
  
 “I READ MOST of Vital Little Plans: The Short Works of Jane Jacobs while riding the bus in Los Angeles. It was a fitting backdrop for Jacobs’s observations on the “physical-economic-ethical processes” that comprise a city.”
 

@@ -6,9 +6,10 @@ title: #AltWoke Manifesto
 publication: Triple Ampersand
 link: http://tripleampersand.org/alt-woke-manifesto/
 date: 2017-06-13
+permalink: 
 ---
 
-[[2017]] / [[commonplace]] / 
+[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
  
 “Introduction:”
 

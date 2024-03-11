@@ -6,9 +6,10 @@ title: Subtracting Self-Images
 publication: Agent Swarm
 link: https://terenceblake.wordpress.com/2017/02/05/18861/
 date: 2017-02-13
+permalink: 
 ---
 
-[[2017]] / [[commonplace]] / 
+[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
  
 “I am freeing the system from its transcendental fixations.”
 

@@ -6,9 +6,10 @@ title: Quine on Language, Logic, and Science
 publication: Partially Examined Life
 link: https://partiallyexaminedlife.com/2012/10/17/topic-for-66-quine-on-language-logic-and-science/
 date: 2017-01-25
+permalink: 
 ---
 
-[[2017]] / [[commonplace]] / 
+[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
  
 Willard Van Orman Quine (1908–2000) was a prototypical American analytic philosopher. Following Frege, Russell, and Wittgenstein, he was concerned with how logic provides a foundation for mathematics, which in turn grounds physics and the other sciences.
 

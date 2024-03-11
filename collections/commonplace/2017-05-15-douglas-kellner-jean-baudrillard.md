@@ -6,9 +6,10 @@ title: Jean Baudrillard
 publication: Stanford Encyclopedia of Philosophy
 link: https://plato.stanford.edu/entries/baudrillard/
 date: 2017-05-15
+permalink: 
 ---
 
-[[2017]] / [[commonplace]] / 
+[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
  
 “Baudrillard was initially a Germanist who published essays on literature in Les temps modernes in 1962-1963 and translated works of Peter Weiss and Bertolt Brecht into French, as well as a book on messianic revolutionary movements by Wilhelm Mühlmann. During this period, he met and studied the works of Henri Lefebvre, whose critiques of everyday life impressed him, and Roland Barthes, whose semiological analyses of contemporary society had lasting influence on his work.”
 

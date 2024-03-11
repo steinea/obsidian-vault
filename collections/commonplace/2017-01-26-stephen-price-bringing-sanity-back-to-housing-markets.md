@@ -6,9 +6,10 @@ title: Bringing Sanity Back to Housing Markets
 publication: Maclean's
 link: http://www.macleans.ca/economy/economicanalysis/a-roadmap-for-bringing-sanity-back-to-housing-markets/
 date: 2017-01-26
+permalink: 
 ---
 
-[[2017]] / [[commonplace]] / 
+[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
  
 “One of the common responses to the first article was that “Boomers worked hard to get where they are. Millennials should too.””
 

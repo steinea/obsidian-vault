@@ -6,9 +6,10 @@ title: Stormborn
 publication: Los Angeles Review of Books
 link: https://lareviewofbooks.org/article/game-thrones-stormborn/
 date: 2017-07-24
+permalink: 
 ---
 
-[[2017]] / [[commonplace]] / 
+[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
  
 “My Name is Dickon, and That Name Means Something
 

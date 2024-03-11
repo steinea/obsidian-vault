@@ -6,9 +6,10 @@ title: <em>Blade Runner 2049</em> and <em>Arrival</em>
 publication: Agent Swarm
 link: https://terenceblake.wordpress.com/2017/10/11/blade-runner-2049-and-arrival-a-pedagogical-cinema/
 date: 2017-10-11
+permalink: 
 ---
 
-[[2017]] / [[commonplace]] / 
+[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
  
 “Denis Villeneuve’s ARRIVAL is a brilliant film, thoughtful and moving, visually powerful and emotionally rewarding. I cannot recommend this film too highly.”
 

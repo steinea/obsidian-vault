@@ -6,9 +6,10 @@ title: The Mind in the Whirlwind
 publication: New York Review of Books
 link: http://www.nybooks.com/daily/2017/03/16/consciousness-mind-in-the-whirlwind/
 date: 2017-03-16
+permalink: 
 ---
 
-[[2017]] / [[commonplace]] / 
+[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
  
 “In our last conversation about consciousness, Riccardo Manzotti and I arrived at a crux. Having found both brain- and action-based explanations of conscious experience unconvincing, Riccardo set out a radical alternative: our experience of the world (light, color, sound, smell, touch) is not a “movie in the head” provided by our neurons, nor the interaction between our bodies and our environment, but nothing other than the object itself.”
 

@@ -6,9 +6,10 @@ title: A Nocturnal upon St. Lucy's Day
 publication: Poetry Foundation
 link: https://www.poetryfoundation.org/poems/44122/a-nocturnal-upon-st-lucys-day
 date: 2017-06-21
+permalink: 
 ---
 
-[[2017]] / [[commonplace]] / 
+[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
  
 'Tis the year's midnight, and it is the day's,  
 <br>Lucy's, who scarce seven hours herself unmasks; 

@@ -6,9 +6,10 @@ title: <em>Blade Runner 2049</em>
 publication: Polygon
 link: https://www.polygon.com/2017/10/5/16426054/blade-runner-2049-review
 date: 2017-10-11
+permalink: 
 ---
 
-[[2017]] / [[commonplace]] / 
+[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
  
 “The first thing you notice about Blade Runner 2049 is the sound.”
 

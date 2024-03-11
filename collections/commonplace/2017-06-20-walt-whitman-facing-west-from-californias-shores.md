@@ -6,9 +6,10 @@ title: Facing West from California’s Shores
 publication: Leaves of Grass
 link: https://whitmanarchive.org/published/LG/1891/poems/43
 date: 2017-06-20
+permalink: 
 ---
 
-[[2017]] / [[commonplace]] / 
+[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
  
 FACING west, from California’s shores, 
 <br>Inquiring, tireless, seeking what is yet unfound, 

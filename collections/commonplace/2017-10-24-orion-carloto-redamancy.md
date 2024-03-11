@@ -6,9 +6,10 @@ title: Redamancy
 publication: Flux
 link: https://books.google.ca/books/about/Flux.html?id=KoQ5DwAAQBAJ
 date: 2017-10-24
+permalink: 
 ---
 
-[[2017]] / [[commonplace]] / 
+[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
  
 “If my tongue were a paintbrush
 <br>I’d drag it across her frame

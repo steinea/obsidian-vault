@@ -6,9 +6,10 @@ title: The Enduring Mystery of the Voynich Manuscript
 publication: Los Angeles Review of Books
 link: https://lareviewofbooks.org/article/a-certain-riddle-of-the-sphinx-the-enduring-mystery-of-the-voynich-manuscript/
 date: 2017-02-03
+permalink: 
 ---
 
-[[2017]] / [[commonplace]] / 
+[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
  
 “THE JULY 1921 ISSUE of Harper’s featured an article provocatively titled “The Most Mysterious Manuscript in the World,” written by one John Matthews Manly, a professor of English at the University of Chicago.”
 

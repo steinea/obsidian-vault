@@ -6,9 +6,10 @@ title: Dragonstone
 publication: Los Angeles Review of Books
 link: https://lareviewofbooks.org/article/game-thrones-dragonstone/
 date: 2017-07-17
+permalink: 
 ---
 
-[[2017]] / [[commonplace]] / 
+[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
  
 “In his conversation with Sam, Archmaester Marwyn makes an interesting point. People have a propensity to capitalize the current troubles and give them a false sense of finality: this crisis is The Crisis! This ending is The End! He has a sense of perspective on those who lack it, and since he believes that nothing really ever ends—telling Sam that “The wall stood through it all, and every winter that ever came, has ended”—he thinks Sam should focus on finishing his coursework and qualifying exams first, so that when the time comes to do real scholarship, he’ll be ready. Without scholarship, real scholarship, humankind would be little better than dogs, thinking only of their last meal and their next meal. If you take the long view, after all, soup and poop are the same thing.”
 

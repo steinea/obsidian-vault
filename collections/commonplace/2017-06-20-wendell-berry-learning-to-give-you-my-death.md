@@ -6,9 +6,10 @@ title: Learning to Give You My Death
 publication: A Country of Marriage
 link: https://www.penguinrandomhouse.ca/books/675170/a-country-of-marriage-by-wendell-berry/9781619022072
 date: 2017-06-20
+permalink: 
 ---
 
-[[2017]] / [[commonplace]] / 
+[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
  
 What I am learning to give you is my death
 <br>to set you free of me, and me from myself

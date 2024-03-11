@@ -6,7 +6,10 @@ title: Coming of Age in Modern Dystopia
 publication: The New Inquiry
 link: http://thenewinquiry.com/essays/coming-of-age-in-modern-dystopia/
 date: 2017-01-31
+permalink: 
 ---
+
+[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
 
 “The bildungsroman as living historical document.”
 

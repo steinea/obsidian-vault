@@ -6,9 +6,10 @@ title: The Publication Emergency
 publication: Daily Nous
 link: http://dailynous.com/2017/07/31/publication-emergency-guest-post-j-david-velleman/
 date: 2017-07-31
+permalink: 
 ---
 
-[[2017]] / [[commonplace]] / 
+[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
  
 “Graduate students now believe that they must publish in order to get a job, and most of them are right.”
 

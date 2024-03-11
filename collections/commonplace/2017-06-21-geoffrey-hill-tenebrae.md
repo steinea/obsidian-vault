@@ -6,9 +6,10 @@ title: Tenebrae
 publication: Poetry Foundation
 link: https://www.poetryfoundation.org/poems/48463/tenebrae
 date: 2017-06-21
+permalink: 
 ---
 
-[[2017]] / [[commonplace]] / 
+[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
  
 
 *He was so tired that he was scarcely able to hear a note of the songs: he felt imprisoned in a cold region where his brain was numb and his spirit was isolated.*

@@ -6,9 +6,10 @@ title: The Frankfurt School, Part 4
 publication: The Guardian
 link: http://www.theguardian.com/commentisfree/2013/apr/15/frankfurt-school-herbert-marcuse
 date: 2017-04-07
+permalink: 
 ---
 
-[[2017]] / [[commonplace]] / 
+[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
  
 “When the student generation took off in the 1960s across Europe, in Germany at least it was Herbert Marcuse who had the greatest influence.”
 

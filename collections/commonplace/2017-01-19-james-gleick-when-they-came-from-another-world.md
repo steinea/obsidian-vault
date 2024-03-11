@@ -6,9 +6,10 @@ title: When They Came from Another World
 publication: New York Review of Books
 link: http://www.nybooks.com/articles/2017/01/19/when-they-came-from-another-world/
 date: 2017-01-19
+permalink: 
 ---
 
-[[2017]] / [[commonplace]] / 
+[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
  
 “What if the future is as real as the past? Physicists have been suggesting as much since Einstein.”
 

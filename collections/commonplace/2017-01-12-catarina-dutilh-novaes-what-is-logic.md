@@ -6,9 +6,10 @@ title: What Is Logic?
 publication: Aeon
 link: https://aeon.co/essays/the-rise-and-fall-and-rise-of-logic
 date: 2017-01-12
+permalink: 
 ---
 
-[[2017]] / [[commonplace]] / 
+[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
  
 “The history of logic should be of interest to anyone with aspirations to thinking that is correct, or at least reasonable.”
 

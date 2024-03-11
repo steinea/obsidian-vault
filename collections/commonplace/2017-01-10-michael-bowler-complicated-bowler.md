@@ -6,9 +6,10 @@ title: Complicated Presence
 publication: Notre Dame Philosophical Reviews
 link: https://ndpr.nd.edu/news/complicated-presence-heidegger-and-the-postmetaphysical-unity-of-being/
 date: 2017-01-10
+permalink: 
 ---
 
-[[2017]] / [[commonplace]] / 
+[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
  
 “Jussi Backman has produced an insightful, nuanced, well-written, cogently argued, and thoroughly researched interpretive account of Heidegger's philosophical pursuit of the question of Being.”
 

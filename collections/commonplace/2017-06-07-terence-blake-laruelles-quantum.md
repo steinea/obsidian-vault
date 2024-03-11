@@ -6,9 +6,10 @@ title: Laruelle's Quantum
 publication: Agent Swarm
 link: https://terenceblake.wordpress.com/2017/06/07/laruelles-quantum-nostalgic-obscurity-and-the-manipulation-of-stereotypes/
 date: 2017-06-07
+permalink: 
 ---
 
-[[2017]] / [[commonplace]] / 
+[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
  
 “Laruelle’s project is to “quantize” Marxism.”
 

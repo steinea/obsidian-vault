@@ -6,9 +6,10 @@ title: All Writers Should Play D&D
 publication: Electric Literature
 link: https://electricliterature.com/why-all-writers-should-play-dungeons-dragons-23b6a1561075
 date: 2017-10-05
+permalink: 
 ---
 
-[[2017]] / [[commonplace]] / 
+[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
  
 “For decades, friends have collected in basements to fight zombies and goblins, find enchanted treasure, and save countless realms — armed only with paper and dice.”
 

@@ -6,9 +6,10 @@ title: Blade Runner 2049
 publication: Engadget
 link: https://www.engadget.com/2017/10/11/blade-runner-ai-review/
 date: 2017-10-11
+permalink: 
 ---
 
-[[2017]] / [[commonplace]] / 
+[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
  
 “Blade Runner 2049 is a miracle.”
 

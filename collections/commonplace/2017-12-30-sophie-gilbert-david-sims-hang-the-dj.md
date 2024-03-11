@@ -6,9 +6,10 @@ title: Hang the DJ
 publication: The Atlantic
 link: https://www.theatlantic.com/entertainment/archive/2017/12/black-mirror-hang-the-dj/549371/
 date: 2017-12-30
+permalink: 
 ---
 
-[[2017]] / [[commonplace]] / 
+[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
  
 "I couldn’t agree more about “Crocodile,” David. I’m such a devoted Andrea Riseborough fan that I’d pay money to watch her read the phone book, so the episode felt like a colossal disappointment. "
 

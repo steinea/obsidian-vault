@@ -6,9 +6,10 @@ title: Black Marigolds
 publication: Sacred Texts
 link: https://www.sacred-texts.com/hin/bilhana/bil01.htm
 date: 2017-03-14
+permalink: 
 ---
 
-[[2017]] / [[commonplace]] / 
+[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
  
 *11th century*
 

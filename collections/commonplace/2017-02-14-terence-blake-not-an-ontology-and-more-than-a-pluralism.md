@@ -6,9 +6,10 @@ title: Not an Ontology and More Than a Pluralism
 publication: Agent Swarm
 link: https://terenceblake.wordpress.com/2017/02/12/ontological-pluralism-not-an-ontology-and-more-than-a-pluralism/
 date: 2017-02-14
+permalink: 
 ---
 
-[[2017]] / [[commonplace]] / 
+[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
  
 “Zizek’s critique of object-oriented ontology is part of a more general project, which invites comparison with Laruelle’s expanded non-philosophical project. It involves critiquing and replacing our standard forms of ontology with something related but different that both Zizek and Laruelle call “non-standard” ontology.”
 

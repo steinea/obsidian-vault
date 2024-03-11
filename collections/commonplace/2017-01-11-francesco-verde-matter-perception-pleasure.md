@@ -6,9 +6,10 @@ title: Matter, Perception, Pleasure
 publication: Notre Dame Philosophical Reviews
 link: https://ndpr.nd.edu/news/plotinus-and-epicurus-matter-perception-pleasure/
 date: 2017-01-11
+permalink: 
 ---
 
-[[2017]] / [[commonplace]] / 
+[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
  
 “This volume -- which includes revised versions of papers presented at three Italian symposia in 2012 and 2013 -- is a genuine novelty in the panorama of ancient philosophy studies.”
 

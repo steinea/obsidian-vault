@@ -6,9 +6,10 @@ title: More and Malthus
 publication: Aeon
 link: https://aeon.co/essays/how-more-and-malthus-light-the-way-towards-humanitys-future
 date: 2017-01-26
+permalink: 
 ---
 
-[[2017]] / [[commonplace]] / 
+[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
  
 “since the 1980s, we’ve been obsessed by utopia’s absence, using a hopeful-sounding word to mark our sense of loss.”
 

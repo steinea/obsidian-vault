@@ -6,9 +6,10 @@ title: Confessions of a Trump Voter
 publication: Los Angeles Review of Books
 link: https://lareviewofbooks.org/article/confessions-of-a-trump-voter/
 date: 2017-03-01
+permalink: 
 ---
 
-[[2017]] / [[commonplace]] / 
+[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
  
 “All the leaders in my county are registered Democrats. But almost all of us voted for the Republican Donald Trump because we don’t have much more to fear.”
 

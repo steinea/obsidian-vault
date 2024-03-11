@@ -6,9 +6,10 @@ title: Taking Prometheus Seriously
 publication: The Atlantic
 link: https://www.theatlantic.com/entertainment/archive/2017/05/why-prometheus-deserves-to-be-taken-seriously/527151/
 date: 2017-05-18
+permalink: 
 ---
 
-[[2017]] / [[commonplace]] / 
+[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
  
 “The idea of extra-terrestrial beings picking off humans one by one is essential to the Alien franchise, for which Prometheus served as a prequel. But in the original Alien (1979), directed by Scott, the victims were blue-collar space truckers caught off-guard by a mysterious creature.”
 

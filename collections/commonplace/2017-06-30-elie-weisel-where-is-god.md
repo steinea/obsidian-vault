@@ -6,9 +6,10 @@ title: Where Is God?
 publication: Wikipedia
 link: https://en.wikipedia.org/wiki/Night_(book)
 date: 2017-06-30
+permalink: 
 ---
 
-[[2017]] / [[commonplace]] / 
+[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
  
 “Where is God now?”
 <br>And I heard a voice within me answer him:

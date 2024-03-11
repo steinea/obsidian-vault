@@ -6,9 +6,10 @@ title: Carried Off to the World’s End
 publication: Los Angeles Review of Books
 link: https://lareviewofbooks.org/article/carried-off-worlds-end-study-alice-oswald-five-parts/
 date: 2017-01-03
+permalink: 
 ---
 
-[[2017]] / [[commonplace]] / 
+[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
  
 ““Tithonus once, the tale was, rose-armed Dawn / love-smitten, carried off to the world’s end // handsome and young then,” reads a translation of Sappho’s 58th fragment. Tithonus, as Sappho tells us, was Eos’ lover; Eos, the Titan of dawn, garnered him immortality, but forgot to finagle agelessness. And so, “yet in time gray age / o’ertook him, husband of immortal wife.””
 

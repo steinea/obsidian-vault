@@ -6,9 +6,10 @@ title: The Frankfurt School, Part 1
 publication: The Guardian
 link: http://www.theguardian.com/commentisfree/2013/mar/25/anders-breivik-frankfurt-school
 date: 2017-04-06
+permalink: 
 ---
 
-[[2017]] / [[commonplace]] / 
+[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
  
 “Many will have heard of the most prominent names from that tradition: Theodor Adorno, Herbert Marcuse and Max Horkheimer, but its reach goes much further, taking in many of the 20th century's most important continental philosophers and socio-political developments.”
 

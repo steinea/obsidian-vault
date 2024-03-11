@@ -6,9 +6,10 @@ title: The Dungeon of the Mind
 publication: Waypoint
 link: https://waypoint.vice.com/en_us/article/pad59k/interactive-fictions-favorite-setting-is-the-dungeon-of-the-mind
 date: 2017-07-26
+permalink: 
 ---
 
-[[2017]] / [[commonplace]] / 
+[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
  
 “At Play in the Carceral State is a week-long series investigating play in, around, and about prisons and prison culture. Learn more here.”
 

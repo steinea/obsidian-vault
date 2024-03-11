@@ -6,9 +6,10 @@ title: A One-of-a-Kind Space Odyssey
 publication: The Atlantic
 link: https://www.theatlantic.com/entertainment/archive/2017/07/valerian-and-the-city-of-a-thousand-planets-review/534249/
 date: 2017-07-20
+permalink: 
 ---
 
-[[2017]] / [[commonplace]] / 
+[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
  
 “Valerian and the City of a Thousand Planets is a film that refuses to let a single action sequence play out simply.”
 

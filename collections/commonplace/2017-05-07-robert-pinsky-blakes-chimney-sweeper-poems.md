@@ -6,9 +6,10 @@ title: Blake's Chimney Sweeper Poems
 publication: Slate
 link: http://www.slate.com/articles/arts/poem/2010/09/a_perfect_discomfit.html
 date: 2017-05-07
+permalink: 
 ---
 
-[[2017]] / [[commonplace]] / 
+[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
  
 “As in much of William Blake's writing, what I may think I know, he manages to make me wonder if I really do know.”
 

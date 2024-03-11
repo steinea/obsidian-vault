@@ -6,9 +6,10 @@ title: Science Fiction and Jane Austen
 publication: Starboard Wine
 link: https://muse.jhu.edu/book/15869
 date: 2017-03-30
+permalink: 
 ---
 
-[[2017]] / [[commonplace]] / 
+[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
  
 “Science Fiction and ‘Literature’-or, The Conscience of the King,” in Starboard Wine (1984).
 

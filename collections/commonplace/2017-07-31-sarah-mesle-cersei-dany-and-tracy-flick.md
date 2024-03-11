@@ -6,9 +6,10 @@ title: Cersei, Dany, and Tracy Flick
 publication: Los Angeles Review of Books
 link: https://lareviewofbooks.org/article/game-thrones-queens-justice/
 date: 2017-07-31
+permalink: 
 ---
 
-[[2017]] / [[commonplace]] / 
+[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
  
 “Tracy Flick wins, which means (in the movie’s logic) that she really loses.”
 

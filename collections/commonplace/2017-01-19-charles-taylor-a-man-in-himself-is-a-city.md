@@ -6,9 +6,10 @@ title: A Man in Himself is a City
 publication: Los Angeles Review of Books
 link: https://lareviewofbooks.org/article/man-city-jim-jarmuschs-paterson/
 date: 2017-01-19
+permalink: 
 ---
 
-[[2017]] / [[commonplace]] / 
+[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
  
 “WAS JIM JARMUSCH WAITING for middle age or was middle age waiting for him?”
 

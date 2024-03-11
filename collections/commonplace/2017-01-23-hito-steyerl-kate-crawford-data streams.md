@@ -6,9 +6,10 @@ title: Data Streams
 publication: The New Inquiry
 link: http://thenewinquiry.com/features/data-streams/
 date: 2017-01-23
+permalink: 
 ---
 
-[[2017]] / [[commonplace]] / 
+[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
  
 “We are being seen with ever greater resolution, even while the systems around us increasingly disappear into the background.”
 

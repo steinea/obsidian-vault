@@ -6,9 +6,10 @@ title: Feel-Good Fractals
 publication: Aeon
 link: https://aeon.co/ideas/feel-good-fractals-from-ocean-waves-to-jackson-pollocks-art
 date: 2017-01-26
+permalink: 
 ---
 
-[[2017]] / [[commonplace]] / 
+[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
  
 “‘The more I looked at fractal patterns, the more I was reminded of Pollock’s poured paintings,’ he recounted in an essay. ‘And when I looked at his paintings, I noticed that the paint splatters seemed to spread across his canvases like the flow of electricity through our devices.’”
 

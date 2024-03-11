@@ -6,9 +6,10 @@ title: Miles of Ice Collapsing Into the Sea
 publication: The New York Times
 link: https://www.nytimes.com/interactive/2017/05/18/climate/antarctica-ice-melt-climate-change.html
 date: 2017-05-18
+permalink: 
 ---
 
-[[2017]] / [[commonplace]] / 
+[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
  
 “We went to Antarctica to understand how changes to its vast ice sheet might affect the world.”
 

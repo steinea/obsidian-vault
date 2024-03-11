@@ -6,9 +6,10 @@ title: From King’s Field to Bloodborne
 publication: VG247
 link: http://www.vg247.com/2014/07/02/from-kings-field-to-bloodborne-the-lineage-of-dark-souls/
 date: 2017-01-29
+permalink: 
 ---
 
-[[2017]] / [[commonplace]] / 
+[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
  
 Dark Souls 2 DLC and Bloodborne are on the lips of many gamers right now, but before looking to the future of From Software’s Souls series, Dave Cook pays his respects to where it all began.
 
