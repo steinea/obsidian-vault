@@ -257,11 +257,3 @@ tbody>tr>:last-child {
   }
 }
 
-:is(li, .HyperMD-list-line) > .internal-embed[alt*='^'] {
-  display: inline-block;
-  vertical-align: middle;
-}
-
-.internal-embed[alt*='^'] :is(p, ul, li) {
-  margin: 0;
-}
