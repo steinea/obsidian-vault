@@ -6,11 +6,13 @@ title: Damaging Words
 publication: Los Angeles Review of Books
 link: https://lareviewofbooks.org/article/damaging-words-thirteen-reasons/
 date: 2017-05-24
-permalink: 
+permalink: 2017/05/24/jonathan-alexander-damaging-words
 ---
 
-[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
- 
+[[2017]] • [[commonplace]] • [[Jonathan Alexander]] • [[Los Angeles Review of Books]] 
+
+https://lareviewofbooks.org/article/damaging-words-thirteen-reasons/
+
 “Vicious forms of communication and the holding of grudges are at the heart of Jay Asher’s award-winning and best-selling 2007 young adult novel, Thirteen Reasons Why, recently made into a television series and released on Netflix.”
 
 “Both novel and series focus on Clay, a high school student, who has received a box of tapes — old-school cassette tapes — that narrate the 13 reasons why Hannah Baker committed suicide.”

@@ -3,14 +3,16 @@ layout: entry
 category: commonplace
 author: Iris Carver
 title: Cybergothic Hyperstition
-publication: Ccru
+publication: CCRU
 link: http://www.ccru.net/syzygy/cybergoth.htm
 date: 2017-05-15
-permalink: 
+permalink: 2017/05/15/iris-carver-cybergothic-hyperstition
 ---
 
-[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
- 
+[[2017]] • [[commonplace]] • [[Iris Carver]] • [[CCRU]] 
+
+http://www.ccru.net/syzygy/cybergoth.htm
+
 “Think of Cyberspace as a black mirror. It is where time flips over: collide with it and you travel backwards. AS telecommerce accelerates us into the net, it seems that things of ever deeper antiquity awaken, and begin their return.
 
 So say the Cybergoths.

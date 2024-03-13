@@ -6,11 +6,13 @@ title: Let No-One Ignorant of STS Enter Here
 publication: Agent Swarm
 link: https://terenceblake.wordpress.com/2017/05/04/let-noone-ignorant-of-sts-enter-1-latourology-and-the-dark-latour/
 date: 2017-05-04
-permalink: 
+permalink: 2017/05/05/terence-blake-let-no-one-ignorant-of-sts-enter-here
 ---
 
-[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
- 
+[[2017]] • [[commonplace]] • [[Terence Blake]] • [[Agent Swarm]] 
+
+https://terenceblake.wordpress.com/2017/05/04/let-noone-ignorant-of-sts-enter-1-latourology-and-the-dark-latour/
+
 (1): Latourology and the “Dark” Latour
 
 “Bruno Latour’s anti-platonism can be seen in a recent interview, where he declares:

@@ -6,11 +6,13 @@ title: The Power of Networks
 publication: RSA Animate
 link: https://youtu.be/nJmGrNdJ5Gw
 date: 2017-05-24
-permalink: 
+permalink: 2017/05/24/manuel-lima-the-power-of-networks
 ---
 
-[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
- 
+[[2017]] • [[commonplace]] • [[Manuel Lima]] • [[RSA Animate]] 
+
+https://youtu.be/nJmGrNdJ5Gw
+
 Trees
 
 Important religious symbols: ancient Babylon, Judaism, Christianity

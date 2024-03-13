@@ -6,11 +6,13 @@ title: Looming Floods, Cities Threatened
 publication: The New York Times
 link: https://www.nytimes.com/interactive/2017/05/18/climate/antarctica-ice-melt-climate-change-flood.html
 date: 2017-05-19
-permalink: 
+permalink: 2017/05/19/justin-gillis-looming-floods-cities-threatened
 ---
 
-[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
- 
+[[2017]] • [[commonplace]] • [[Justin Gillis]] • [[The New York Times]] 
+
+https://www.nytimes.com/interactive/2017/05/18/climate/antarctica-ice-melt-climate-change-flood.html
+
 “More than 60 percent of the freshwater on Earth is locked in Antarctica’s ice sheets.”
 
 “And because much of West Antarctica’s ice sits below sea level, it is especially vulnerable to ocean heat.”

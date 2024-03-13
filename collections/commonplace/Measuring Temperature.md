@@ -6,11 +6,13 @@ title: Measuring Temperature
 publication: Bias in Mental Testing
 link: https://en.wikipedia.org/wiki/Bias_in_Mental_Testing
 date: 2017-05-15
-permalink: 
+permalink: 2017/05/15/arthur-jensen-measuring-temperature
 ---
 
-[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
- 
+[[2017]] • [[commonplace]] • [[Arthur Jensen]] • [[Bias in Mental Testing]] 
+
+https://en.wikipedia.org/wiki/Bias_in_Mental_Testing
+
 Cf. Hasok Chang for the subject of temperature
 
 “The properties measured by our instruments usually begin as subjective judgments. Temperature is a good example. People were aware of variations in temperature long before there were any objective measurements of temperature. Judgements of temperature are imperfectly correlated among different persons, or even the same person at different times, depending on the humidity, the person’s activity level and age, surrounding air currents, and so on. The idea that anything as subtle and complex as all the manifestations of changes in temperature could be measured and quantified on a single numerical scale was scoffed at as impossible, even by the leading philosophers of the sixteenth century.

@@ -6,11 +6,13 @@ title: Miles of Ice Collapsing Into the Sea
 publication: The New York Times
 link: https://www.nytimes.com/interactive/2017/05/18/climate/antarctica-ice-melt-climate-change.html
 date: 2017-05-18
-permalink: 
+permalink: 2017/05/18/justin-gillis-miles-of-ice-collapsing-into-the-sea
 ---
 
-[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
- 
+[[2017]] • [[commonplace]] • [[Justin Gillis]] • [[The New York Times]] 
+
+https://www.nytimes.com/interactive/2017/05/18/climate/antarctica-ice-melt-climate-change.html
+
 “We went to Antarctica to understand how changes to its vast ice sheet might affect the world.”
 
 “Ice sheets flow downhill, seemingly in slow motion. Mountains funnel the ice into glaciers. And ice flowing from the land into the sea can form a floating ice shelf.”

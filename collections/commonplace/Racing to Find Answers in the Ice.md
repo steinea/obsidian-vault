@@ -6,11 +6,13 @@ title: Racing to Find Answers in the Ice
 publication: The New York Times
 link: https://www.nytimes.com/interactive/2017/05/18/climate/antarctica-ice-melt-climate-change-science.html
 date: 2017-05-20
-permalink: 
+permalink: 2017/05/20/justin-gillis-racing-to-find-answers-in-the-ice
 ---
 
-[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
- 
+[[2017]] • [[commonplace]] • [[Justin Gillis]] • [[The New York Times]] 
+
+https://www.nytimes.com/interactive/2017/05/18/climate/antarctica-ice-melt-climate-change-science.html
+
 “The scale of Antarctica is startling. Miles of ice stretch to the horizon, growing thicker as you move toward the South Pole.”
 
 “Scientists at McMurdo Station are working to understand the continent’s history and to predict its future. The scale of the task is enormous.”

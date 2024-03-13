@@ -2,14 +2,14 @@
 layout: entry
 category: commonplace
 author: Michael Paul DeJonge
-title: Bonhoeffer’s Act and Being
+title: Bonhoeffer's Act and Being
 publication: Emory University
 link: https://etd.library.emory.edu/view/record/pid/emory:1dsr8
 date: 2017-05-15
-permalink: 
+permalink: 2017/05/15/michael-paul-dejonge-bonhoeffers-act-and-being
 ---
 
-[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
+[[2017]] • [[commonplace]] • [[Michael Paul DeJonge]] • [[Emory University]] 
  
 “This dissertation interprets the German theologian Dietrich Bonhoeffer's (1906-1945) post-doctoral dissertation, Act and Being. I argue that it operates in the intellectual space cleared by Karl Barth, who places at the center of theological discussion the problem of transcendence, which says that the constructive, productive, and projective functions of human epistemological faculties make knowledge of a transcendent God impossible. In light of this problem, which reduces God and revelation to objects at human disposal, Barth argues that theology's conceptual basis must be a concept of contingent revelation. Barth articulates this contingency by treating revelation as the free 'act' of the God who is transcendent subject rather than object.
 
