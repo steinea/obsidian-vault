@@ -6,11 +6,13 @@ title: Latour and Critique
 publication: Agent Swarm
 link: https://terenceblake.wordpress.com/2017/03/23/latour-against-critique-surely-you-are-joking/
 date: 2017-03-23
-permalink: 
+permalink: 2017/03/23/terence-blake-latour-and-critique
 ---
 
-[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
- 
+[[2017]] • [[commonplace]] • [[Terence Blake]] • [[Agent Swarm]] 
+
+https://terenceblake.wordpress.com/2017/03/23/latour-against-critique-surely-you-are-joking/
+
 “Latour’s well-known opposition to critique is a pretence”
 
 “his de-concepted surface is “diplomatic””

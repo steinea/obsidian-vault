@@ -6,10 +6,10 @@ title: Water Fiend
 publication: Unknown
 link:
 date: 2017-03-03
-permalink: 
+permalink: 2017/03/03/john-steinbeck-water-fiend
 ---
 
-[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
+[[2017]] • [[commonplace]] • [[John Steinbeck]] 
  
 “I am a water fiend... Water is everything to me.”
 

@@ -2,14 +2,14 @@
 layout: entry
 category: commonplace
 author: Gary Snyder
-title: Haiku
+title: An Exercise in Mind-Focus
 publication: Poetry Foundation
 link: https://www.poetryfoundation.org/features/articles/detail/68845
 date: 2017-03-02
-permalink: 
+permalink: 2017/03/02/gary-snyder-an-exercise-in-mind-focus
 ---
 
-[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
+[[2017]] • [[commonplace]] • [[Gary Snyder]] • [[Poetry Foundation]] 
  
 “[Haiku] is not a literary career; it’s an exercise in mind-focus that everyone shares.”
 

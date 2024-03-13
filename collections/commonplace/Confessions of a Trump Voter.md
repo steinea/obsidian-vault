@@ -6,11 +6,13 @@ title: Confessions of a Trump Voter
 publication: Los Angeles Review of Books
 link: https://lareviewofbooks.org/article/confessions-of-a-trump-voter/
 date: 2017-03-01
-permalink: 
+permalink: 2017/03/01/phillip-hagerman-confessions-of-a-trump-voter
 ---
 
-[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
- 
+[[2017]] • [[commonplace]] • [[Phillip Hagerman]] • [[Los Angeles Review of Books]] 
+
+https://lareviewofbooks.org/article/confessions-of-a-trump-voter/
+
 “All the leaders in my county are registered Democrats. But almost all of us voted for the Republican Donald Trump because we don’t have much more to fear.”
 
 “The Democratic Party has long prided itself for fighting for needs of the working men and women over the interests of the wealthy, but the message has gone flat. While so many progressives have been drunk with identity politics and trying to make every little educated interest group feel stroked and coddled, hardworking people struggling to put food on the table have lost faith in that old Democratic brand.”

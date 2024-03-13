@@ -6,11 +6,13 @@ title: Lacan's Heuristic
 publication: Agent Swarm
 link: https://terenceblake.wordpress.com/2017/03/23/lacan-heuristic-every-successful-analysis-is-a-falsification/
 date: 2017-03-24
-permalink: 
+permalink: 2017/03/24/terence-blake-lacans-heuristic
 ---
 
-[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
- 
+[[2017]] • [[commonplace]] • [[Terence Blake]] • [[Agent Swarm]] 
+
+https://terenceblake.wordpress.com/2017/03/23/lacan-heuristic-every-successful-analysis-is-a-falsification/
+
 “I was into Lacan from 1975 to 1979 and then became disgusted with the dogmatic exclusive use of his thought”
 
 “We all have to live in some province or other, or even in several. But the province where we live should not be declared to be the world.”

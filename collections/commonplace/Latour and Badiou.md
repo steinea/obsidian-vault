@@ -6,11 +6,13 @@ title: Latour and Badiou
 publication: Agent Swarm
 link: https://terenceblake.wordpress.com/2017/03/23/latourbadiou-a-wild-comparison/
 date: 2017-03-23
-permalink: 
+permalink: 2017/03/23/terence-blake-latour-and-badiou
 ---
 
-[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
- 
+[[2017]] • [[commonplace]] • [[Terence Blake]] • [[Agent Swarm]] 
+
+https://terenceblake.wordpress.com/2017/03/23/latourbadiou-a-wild-comparison/
+
 “The problem with Bruno Latour’s style is largely due to his anxiety of influence and his consequent covering his tracks by changing the terminology and hiding the concepts by means of a seemingly de-concepted “infra-language””
 
 “Latour has recently produced a very innovative ontology, expounded in his treatise AN INQUIRY INTO MODES OF EXISTENCE”

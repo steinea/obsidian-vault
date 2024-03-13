@@ -6,11 +6,13 @@ title: The Mind in the Whirlwind
 publication: New York Review of Books
 link: http://www.nybooks.com/daily/2017/03/16/consciousness-mind-in-the-whirlwind/
 date: 2017-03-16
-permalink: 
+permalink: 2017/03/16/riccardo-manzotti-tim-parks-the-mind-in-the-whirlwind
 ---
 
-[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
- 
+[[2017]] • [[commonplace]] • [[Riccardo Manzotti]] • [[Tim Parks]] • [[New York Review of Books]] 
+
+http://www.nybooks.com/daily/2017/03/16/consciousness-mind-in-the-whirlwind/
+
 “In our last conversation about consciousness, Riccardo Manzotti and I arrived at a crux. Having found both brain- and action-based explanations of conscious experience unconvincing, Riccardo set out a radical alternative: our experience of the world (light, color, sound, smell, touch) is not a “movie in the head” provided by our neurons, nor the interaction between our bodies and our environment, but nothing other than the object itself.”
 
 “When I see an apple in front of me, I am the apple.”

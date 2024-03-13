@@ -6,11 +6,13 @@ title: The Clickbait Presidency
 publication: The Atlantic
 link: https://www.theatlantic.com/politics/archive/2017/03/the-clickbait-presidency/518751/
 date: 2017-03-06
-permalink: 
+permalink: 2017/03/06/derek-thompson-the-clickbait-presidency
 ---
 
-[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
- 
+[[2017]] • [[commonplace]] • [[Derek Thompson]] • [[The Atlantic]] 
+
+https://www.theatlantic.com/politics/archive/2017/03/the-clickbait-presidency/518751/
+
 “Even before he was a Republican presidential candidate, Trump’s modern political career kicked off with unfounded, and repeatedly disproved, rumors about Barack Obama's birth certificate.”
 
 “It continued when he became president-elect, as Trump fixated on the size of his inauguration crowd, arguing against all evidence that it was larger than the record crowd that showed up in 2008 to see President Obama sworn in.”

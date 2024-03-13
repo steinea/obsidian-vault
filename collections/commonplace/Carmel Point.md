@@ -6,11 +6,13 @@ title: Carmel Point
 publication: Poets
 link: https://poets.org/poem/carmel-point
 date: 2017-03-02
-permalink: 
+permalink: 2017/03/02/robinson-jeffers-carmel-point
 ---
 
-[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
- 
+[[2017]] • [[commonplace]] • [[Robinson Jeffers]] • [[Poets]] 
+
+https://poets.org/poem/carmel-point
+
 The extraordinary patience of things! 
 <br>This beautiful place defaced with a crop of suburban houses—
 <br>How beautiful when we first beheld it,

@@ -6,11 +6,13 @@ title: Science Fiction and Jane Austen
 publication: Starboard Wine
 link: https://muse.jhu.edu/book/15869
 date: 2017-03-30
-permalink: 
+permalink: 2017/03/30/samuel-r-delany-science-fiction-and-jane-austen
 ---
 
-[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
- 
+[[2017]] • [[commonplace]] • [[Samuel R. Delany]] • [[Starboard Wine]] 
+
+https://muse.jhu.edu/book/15869
+
 “Science Fiction and ‘Literature’-or, The Conscience of the King,” in Starboard Wine (1984).
 
 

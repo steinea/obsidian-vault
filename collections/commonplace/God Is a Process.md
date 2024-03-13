@@ -6,11 +6,13 @@ title: God Is A Process
 publication: Song of the World Becoming
 link: https://books.google.ca/books/about/Song_of_the_World_Becoming.html?id=LDxbAAAAMAAJ
 date: 2017-03-05
-permalink: 
+permalink: 2017/03/05/pattiann-rogers-god-is-a-process
 ---
 
-[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
- 
+[[2017]] • [[commonplace]] • [[Pattiann Rogers]] • [[Song of the World Becoming]] 
+
+https://books.google.ca/books/about/Song_of_the_World_Becoming.html?id=LDxbAAAAMAAJ
+
 “God is a process, a raveled nexus
 forever tangling into and around the changing
 form of his own moment——pulse and skein,

@@ -6,11 +6,13 @@ title: A Theory of Key Points
 publication: Platypus
 link: http://blog.castac.org/2017/03/key-points/
 date: 2017-03-01
-permalink: 
+permalink: 2017/03/01/shreeharsh-kelkar-a-theory-of-key-points
 ---
 
-[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
- 
+[[2017]] • [[commonplace]] • [[Shreeharsh Kelkar]] • [[Platypus]] 
+
+http://blog.castac.org/2017/03/key-points/
+
 “How can we account for the radical uncertainty of change when we think about the future, but its seeming inevitability when it comes to the past?”
 
 “I suggest that the experience of watching (and playing) sports might be of help here.”

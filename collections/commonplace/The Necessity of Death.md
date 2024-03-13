@@ -6,11 +6,13 @@ title: The Necessity of Death
 publication: The Canadian Scientific and Christian Affiliation
 link: https://www.youtube.com/watch?v=JBGFIVGvekY
 date: 2017-03-11
-permalink: 
+permalink: 2017/03/11/john-r-wood-the-necessity-of-death
 ---
 
-[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
- 
+[[2017]] • [[commonplace]] • [[John R. Wood]] • [[The Canadian Scientific and Christian Affiliation]] 
+
+https://www.youtube.com/watch?v=JBGFIVGvekY
+
 Physical death, biotic death, more than theology
 
 But touch on interface between

@@ -1,16 +1,18 @@
 ---
 layout: entry
 category: commonplace
-author: Levi R. Bryant
+author: Levi Bryant
 title: Deleuze on Thinking
 publication: Larval Subjects
 link: https://larvalsubjects.wordpress.com/2017/03/20/deleuze-what-is-called-thinking/
 date: 2017-03-20
-permalink: 
+permalink: 2017/03/20/levi-r-bryant-deleuze-on-thinkin
 ---
 
-[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
- 
+[[2017]] • [[commonplace]] • [[Levi Bryant]] • [[Larval Subjects]] 
+
+https://larvalsubjects.wordpress.com/2017/03/20/deleuze-what-is-called-thinking/
+
 “A delicate problem animates chapter 3 of Difference and Repetition. Deleuze wants to defend a pure concept of difference, an account of difference in itself, yet our experience is representational through and through.”
 
 “Everywhere we are creatures of habit that recognize beings and therefore do not encounter difference.”

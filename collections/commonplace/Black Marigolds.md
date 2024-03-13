@@ -6,11 +6,13 @@ title: Black Marigolds
 publication: Sacred Texts
 link: https://www.sacred-texts.com/hin/bilhana/bil01.htm
 date: 2017-03-14
-permalink: 
+permalink: 2017/03/14/kavi-bilhana-black-marigolds
 ---
 
-[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
- 
+[[2017]] • [[commonplace]] • [[Kavi Bilhana]] • [[Sacred Texts]] 
+
+https://www.sacred-texts.com/hin/bilhana/bil01.htm
+
 *11th century*
 
 *A free interpretation of the Chauraspanchasika*
