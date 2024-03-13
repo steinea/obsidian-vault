@@ -6,10 +6,12 @@ title: The Hardening of Consciousness
 publication: New York Review of Books
 link: http://www.nybooks.com/daily/2017/09/11/the-hardening-of-consciousness/
 date: 2017-09-11
-permalink: 
+permalink: 2017/09/11/riccardo-manzotti-tim-parks-the-hardening-of-consciousness
 ---
 
-[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
+[[2017]] • [[commonplace]] • [[Riccardo Manzotti]] • [[Tim Parks]] • [[New York Review of Books]]
+
+http://www.nybooks.com/daily/2017/09/11/the-hardening-of-consciousness/
  
 “How much of our current worldview, our social organization, our collective psychology, or simply our attitude to life, depends on how we understand consciousness?”
 

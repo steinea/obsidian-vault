@@ -6,10 +6,10 @@ title: Nothingness
 publication: Stanford Encyclopedia of Philosophy
 link: https://plato.stanford.edu/entries/nothingness/
 date: 2017-09-26
-permalink: 
+permalink: 2017/09/26/roy-sorenson-nothingness
 ---
 
-[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
+[[2017]] • [[commonplace]] • [[Roy Sorenson]] • [[Stanford Encyclopedia of Philosophy]] 
  
 “First published Thu Aug 28, 2003; substantive revision Thu Aug 31, 2017”
 

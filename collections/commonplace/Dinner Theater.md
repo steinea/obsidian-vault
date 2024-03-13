@@ -6,11 +6,13 @@ title: Dinner Theater
 publication: Real Life
 link: http://reallifemag.com/dinner-theater/
 date: 2017-09-14
-permalink: 
+permalink: 2017/09/14/linda-besner-dinner-theater
 ---
 
-[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
- 
+[[2017]] • [[commonplace]] • [[Linda Besner]] • [[Real Life]] 
+
+http://reallifemag.com/dinner-theater/
+
 “It’s dinner-time as the perfect family would do it, with ingredients promised to be “fresher than the supermarket,” with a range and sophistication to which your ex-wife could only vainly aspire.”
 
 “The box opens out as a kind of introduction to the basics of idealized family life: this is what dinner is; this is what home is.”

@@ -2,14 +2,14 @@
 layout: entry
 category: commonplace
 author: Matt Miller
-title: <em>Blade Runner 2049</em>
+title: On Blade Runner 2049, 1
 publication: Esquire
 link: http://www.esquire.com/entertainment/movies/a12502218/blade-runner-2049-review-spoiler-free/
 date: 2017-09-29
-permalink: 
+permalink: 2017/09/29/matt-miller-blade-runner-2049
 ---
 
-[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
+[[2017]] • [[commonplace]] • [[Matt Miller]] • [[Esquire]] 
  
 “Between its premiere in 1982 and the final cut in 2007, eight different versions of Ridley Scott’s Blade Runner have been released—which perfectly illustrates the embattled existence of what is otherwise one of the greatest sci-fi films ever.”
 

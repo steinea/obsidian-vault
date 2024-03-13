@@ -6,11 +6,13 @@ title: Fancy Feast
 publication: Real Life
 link: http://reallifemag.com/fancy-feast/
 date: 2017-09-21
-permalink: 
+permalink: 2017/09/21/danya-glabau-fancy-feast
 ---
 
-[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
- 
+[[2017]] • [[commonplace]] • [[Danya Glabau]] • [[Real Life]] 
+
+http://reallifemag.com/fancy-feast/
+
 “The implication: What we eat should be more than just food. It ought to be supplemented by fairy dust that promises to rev up our cognitive, bodily, sexual, and even spiritual prowess.”
 
 “This is the new health, same as the old. Beautiful, slim, wealthy white women — long the keepers of purity, health, and hygiene in the American imagination — are again advising the rest of us how to care for our bodies through state-of-the-art technologies.”

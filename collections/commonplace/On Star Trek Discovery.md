@@ -2,14 +2,14 @@
 layout: entry
 category: commonplace
 author: Aaron Bady and Sarah Mesle
-title: Star Trek Discovery
+title: On Star Trek Discovery
 publication: Los Angeles Review of Books
 link: https://lareviewofbooks.org/article/star-trek-discovery/
 date: 2017-09-25
-permalink: 
+permalink: 2017/09/25/aaron-bady-sarah-mesle-on-star-trek-discovery
 ---
 
-[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
+[[2017]] • [[commonplace]] • [[Aaron Bady]] • [[Sarah Mesle]] • [[Los Angeles Review of Books]] 
  
 “Future Perfect
 

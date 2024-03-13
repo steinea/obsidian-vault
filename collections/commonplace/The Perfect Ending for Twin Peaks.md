@@ -6,11 +6,13 @@ title: The Perfect Ending for Twin Peaks
 publication: The Atlantic
 link: https://www.theatlantic.com/entertainment/archive/2017/09/david-lynch-found-the-perfect-ending-for-twin-peaks/538818/
 date: 2017-09-05
-permalink: 
+permalink: 2017/09/05/david-sims-the-perfect-ending-for-twin-peaks
 ---
 
-[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
- 
+[[2017]] • [[commonplace]] • [[David Sims]] • [[The Atlantic]] 
+
+https://www.theatlantic.com/entertainment/archive/2017/09/david-lynch-found-the-perfect-ending-for-twin-peaks/538818/
+
 “Never let it be said that David Lynch leaves his audiences unsatisfied. Presented with the challenge of finding a suitable conclusion to his dazzling, incomparable 18-hour odyssey Twin Peaks: The Return, the director gave viewers the best of both worlds.”
 
 “The first hour of Sunday’s two-episode finale was as clean an ending as fans could have expected from a series that so often defied the most basic concepts of television plotting.”

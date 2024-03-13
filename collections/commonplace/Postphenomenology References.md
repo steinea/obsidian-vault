@@ -6,10 +6,12 @@ title: Postphenomenology References
 publication: Postphenomenology
 link: https://postphenomenology.org/references/
 date: 2017-09-13
-permalink: 
+permalink: 2017/09/13/stacey-irwin-robert-rosenberger-postphenomenology-references
 ---
 
-[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
+[[2017]] • [[commonplace]] • [[Stacey Irwin]] • [[Robert Rosenberger]] • [[Postphenomenology]]
+
+https://postphenomenology.org/references/
  
 References
 
