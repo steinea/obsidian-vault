@@ -6,11 +6,13 @@ title: Apart Together
 publication: New York Review of Books
 link: http://www.nybooks.com/daily/2016/12/10/distance-apart-together/
 date: 2017-04-11
-permalink: 
+permalink: 2017/04/11/christopher-benfey-apart-together
 ---
 
-[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
- 
+[[2017]] • [[commonplace]] • [[Christopher Benfey]] • [[Apart Together]] 
+
+http://www.nybooks.com/daily/2016/12/10/distance-apart-together/
+
 “Now, all calls are local calls—the entire world is nearby.”
 
 “Every relationship is a long-distance relationship.”

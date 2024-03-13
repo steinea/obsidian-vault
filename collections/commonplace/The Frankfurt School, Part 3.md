@@ -6,11 +6,13 @@ title: The Frankfurt School, Part 3
 publication: The Guardian
 link: http://www.theguardian.com/commentisfree/2013/apr/08/frankfurt-school-dialectic-of-enlightenment
 date: 2017-04-06
-permalink: 
+permalink: 2017/04/06/peter-thompson-the-frankfurt-school-part-3
 ---
 
-[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
- 
+[[2017]] • [[commonplace]] • [[Peter Thompson]] • [[The Guardian]] 
+
+http://www.theguardian.com/commentisfree/2013/apr/08/frankfurt-school-dialectic-of-enlightenment
+
 “The Frankfurt school came together and developed its theories in a world left shattered by the first world war.”
 
 “As liberal democracy failed and Weimar spiralled down into Nazism, this school of almost entirely Jewish-Marxist intellectuals were forced to flee a country which had turned against them for reasons of both race and politics.”

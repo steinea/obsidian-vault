@@ -6,11 +6,13 @@ title: Six Original Mac Games You Should Play
 publication: Motherboard
 link: https://motherboard.vice.com/en_us/article/return-to-dark-castle-6-original-mac-games-you-should-play-in-your-browser
 date: 2017-04-20
-permalink: 
+permalink: 2017/04/20/zack-kotzer-six-original-mac-games-you-should-play
 ---
 
-[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
- 
+[[2017]] • [[commonplace]] • [[Zack Kotzer]] • [[Motherboard]] 
+
+https://motherboard.vice.com/en_us/article/return-to-dark-castle-6-original-mac-games-you-should-play-in-your-browser
+
 “As is the tradition of Apple computers, there just aren't as many games here as there are in the Archive's DOS collection.”
 
 “But some of these games are the most important and influential in history, and now you have an opportunity to play them without booting up an unused computer that looks like the leg of a brutalist park bench.”

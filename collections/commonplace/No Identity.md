@@ -6,9 +6,11 @@ title: No Identity
 publication: Exiting the Vampire Castle
 link: http://www.thenorthstar.info/?p=11299
 date: 2017-04-28
-permalink: 
+permalink: 2017/04/28/mark-fisher-no-identity
 ---
 
-[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
- 
+[[2017]] • [[commonplace]] • [[Mark Fisher]] • [[The North Star]] 
+
+http://www.thenorthstar.info/?p=11299
+
 “there are no identities, only desires, interests and identifications.”

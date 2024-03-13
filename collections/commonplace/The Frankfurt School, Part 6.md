@@ -6,11 +6,13 @@ title: The Frankfurt School, Part 6
 publication: The Guardian
 link: http://www.theguardian.com/commentisfree/belief/2013/apr/29/frankfurt-school-ernst-bloch-principle-of-hope
 date: 2017-04-07
-permalink: 
+permalink: 2017/04/07/peter-thompson-the-frankfurt-school-part-6
 ---
 
-[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
- 
+[[2017]] • [[commonplace]] • [[Peter Thompson]] • [[The Guardian]] 
+
+http://www.theguardian.com/commentisfree/belief/2013/apr/29/frankfurt-school-ernst-bloch-principle-of-hope
+
 ““We must believe in the Principle of Hope. A Marxist does not have the right to be a pessimist””
 
 “We cannot count Ernst Bloch as being among the central figures of the Frankfurt School.”

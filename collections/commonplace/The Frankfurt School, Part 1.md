@@ -6,11 +6,13 @@ title: The Frankfurt School, Part 1
 publication: The Guardian
 link: http://www.theguardian.com/commentisfree/2013/mar/25/anders-breivik-frankfurt-school
 date: 2017-04-06
-permalink: 
+permalink: 2017/04/06/peter-thompson-the-frankfurt-school-part-1
 ---
 
-[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
- 
+[[2017]] • [[commonplace]] • [[Peter Thompson]] • [[The Guardian]] 
+
+http://www.theguardian.com/commentisfree/2013/mar/25/anders-breivik-frankfurt-school
+
 “Many will have heard of the most prominent names from that tradition: Theodor Adorno, Herbert Marcuse and Max Horkheimer, but its reach goes much further, taking in many of the 20th century's most important continental philosophers and socio-political developments.”
 
 “The Frankfurt school was officially called the Institute for Social Research and was attached to the University of Frankfurt but functioned as an independent group of Marxist intellectuals who sought, under the leadership of Felix Weil, to expand Marxist thought beyond what had become a somewhat dogmatic and reductionist tradition increasingly dominated by both Stalinism and social democracy.”

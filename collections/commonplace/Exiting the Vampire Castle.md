@@ -6,11 +6,13 @@ title: Exiting the Vampire Castle
 publication: The North Star
 link: http://www.thenorthstar.info/?p=11299
 date: 2017-04-28
-permalink: 
+permalink: 2017/04/28/mark-fisher-exiting-the-vampire-castle
 ---
 
-[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
- 
+[[2017]] • [[commonplace]] • [[Mark Fisher]] • [[The North Star]] 
+
+http://www.thenorthstar.info/?p=11299
+
 “‘Left-wing’ Twitter can often be a miserable, dispiriting zone.”
 
 “Brand makes people feel good about themselves; whereas the moralising left specialises in making people feed bad, and is not happy until their heads are bent in guilt and self-loathing.”

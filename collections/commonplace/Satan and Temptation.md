@@ -6,11 +6,13 @@ title: Satan and Temptation
 publication: Saint Mary's Press College Study Bible
 link: https://en.novalis.ca/products/college-study-bible
 date: 2017-04-21
-permalink: 
+permalink: 2017/04/21/virginia-halbur-satan-and-temptation
 ---
 
-[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
- 
+[[2017]] • [[commonplace]] • [[Virginia Halbur]] • [[Saint Mary's Press College Study Bible]] 
+
+https://en.novalis.ca/products/college-study-bible
+
 1 Chronicles 21:1
 
 “Satan stood up against Israel, and incited David to count the people of Israel.“

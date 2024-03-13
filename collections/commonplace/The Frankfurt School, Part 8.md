@@ -6,11 +6,13 @@ title: The Frankfurt School, Part 8
 publication: The Guardian
 link: http://www.theguardian.com/commentisfree/2013/may/13/frankfurt-school-where-from-here
 date: 2017-04-07
-permalink: 
+permalink: 2017/04/07/peter-thompson-the-frankfurt-school-part-8
 ---
 
-[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
- 
+[[2017]] • [[commonplace]] • [[Peter Thompson]] • [[The Guardian]] 
+
+http://www.theguardian.com/commentisfree/2013/may/13/frankfurt-school-where-from-here
+
 “The final question for this series is whether any of the issues brought up by the Frankfurt school still have any currency or importance.”
 
 “But perhaps even more seriously, the planet itself can no longer afford the constant expansion required by capital. We have the technological and financial means to solve pretty well all of the basic problems of humanity. What we don’t have is the political will. But that is only missing because even our hopes for the future have become privatised and commodified. Our dreams have been bought up and sold back to us as glittery tat and royal weddings. It has often been said that it is easier now to imagine the end of the world than it is to imagine a better one.”

@@ -6,11 +6,13 @@ title: The Frankfurt School, Part 4
 publication: The Guardian
 link: http://www.theguardian.com/commentisfree/2013/apr/15/frankfurt-school-herbert-marcuse
 date: 2017-04-07
-permalink: 
+permalink: 2017/04/07/peter-thompson-the-frankfurt-school-part-4
 ---
 
-[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
- 
+[[2017]] • [[commonplace]] • [[Peter Thompson]] • [[The Guardian]] 
+
+http://www.theguardian.com/commentisfree/2013/apr/15/frankfurt-school-herbert-marcuse
+
 “When the student generation took off in the 1960s across Europe, in Germany at least it was Herbert Marcuse who had the greatest influence.”
 
 “This is because whereas Adorno, with his highly pessimistic philosophical statements about historical development, could talk about a negative progression of humanity from the “slingshot to the megaton bomb”, Marcuse continued to maintain a more optimistic view of what could be achieved.”

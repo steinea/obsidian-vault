@@ -6,11 +6,13 @@ title: Witness
 publication: Convivium
 link: https://www.convivium.ca/sacred-spaces/witness/
 date: 2017-04-27
-permalink: 
+permalink: 2017/04/27/liana-esau-witness
 ---
 
-[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
- 
+[[2017]] • [[commonplace]] • [[Liana Esau]] • [[Conviviu,]] 
+
+https://www.convivium.ca/sacred-spaces/witness/
+
 I
 
 This morning my eyes are deeplocked

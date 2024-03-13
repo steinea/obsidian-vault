@@ -6,11 +6,13 @@ title: The Frankfurt School, Part 7
 publication: The Guardian
 link: http://www.theguardian.com/commentisfree/2013/may/06/frankfurt-school-part-7-whats-left
 date: 2017-04-07
-permalink: 
+permalink: 2017/04/07/peter-thompson-the-frankfurt-school-part-7
 ---
 
-[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
- 
+[[2017]] • [[commonplace]] • [[Peter Thompson]] • [[The Guardian]] 
+
+http://www.theguardian.com/commentisfree/2013/may/06/frankfurt-school-part-7-whats-left
+
 “Although I have concentrated very clearly on the big names of classical Frankfurt school history and their relationship to fascism, capitalism and the conditions created by the Weimar Republic, the Frankfurt school still exists today.”
 
 “Its influence, largely through Jürgen Habermas and Axel Honneth, remains considerable.”

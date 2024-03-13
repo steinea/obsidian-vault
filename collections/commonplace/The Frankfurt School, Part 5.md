@@ -6,11 +6,13 @@ title: The Frankfurt School, Part 5
 publication: The Guardian
 link: http://www.theguardian.com/commentisfree/belief/2013/apr/22/frankfurt-school-walter-benjamin-fascism-future
 date: 2017-04-07
-permalink: 
+permalink: 2017/04/07/peter-thompson-the-frankfurt-school-part-5
 ---
 
-[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
- 
+[[2017]] • [[commonplace]] • [[Peter Thompson]] • [[The Guardian]] 
+
+http://www.theguardian.com/commentisfree/belief/2013/apr/22/frankfurt-school-walter-benjamin-fascism-future
+
 “For Benjamin, religion was a vessel that contained within its authoritarian history and structures the spark of liberation”
 
 “Quoting Hegel, Walter Benjamin reminds us that before all philosophy comes the struggle for material existence: "Secure at first food and clothing, and the kingdom of God will come to you of itself – Hegel, 1807", or as Brecht – Benjamin's greatest and closest friend – put it "first bread, then morality".”

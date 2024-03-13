@@ -6,11 +6,13 @@ title: The Frankfurt School, Part 2
 publication: The Guardian
 link: http://www.theguardian.com/commentisfree/2013/apr/01/negative-dialectics-frankfurt-school-adorno
 date: 2017-04-06
-permalink: 
+permalink: 2017/04/06/peter-thompson-the-frankfurt-school-part-2
 ---
 
-[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
- 
+[[2017]] • [[commonplace]] • [[Peter Thompson]] • [[The Guardian]] 
+
+http://www.theguardian.com/commentisfree/2013/apr/01/negative-dialectics-frankfurt-school-adorno
+
 “'Adorno criticised Hegel, above, for presenting a positive and affirmative dialectic in which 'everything that is real is rational'.'”
 
 “Already in the comments about the first instalment of this series, a problem of traditions has emerged.”
