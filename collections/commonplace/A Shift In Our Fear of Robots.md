@@ -6,9 +6,12 @@ title: A Shift In Our Fear of Robots
 publication: Motherboard
 link: https://motherboard.vice.com/en_us/article/bjpk43/westworlds-female-hosts-signal-a-shift-in-our-fear-of-robots
 date: 2018-04-24
+permalink: 2018/04/24/becky-ferreira-a-shift-in-our-fear-of-robots
 ---
 
-[[2018]] / [[commonplace]] / 
+[[2018]] • [[commonplace]] • [[Becky Ferreira]] • [[Motherboard]]
+
+https://motherboard.vice.com/en_us/article/bjpk43/westworlds-female-hosts-signal-a-shift-in-our-fear-of-robots
  
 "The second season premiere of Westworld, HBO’s moody series about a theme park of “host” robots who rise up against their human “guest” overlords, opened on Sunday night with a scene in which a man confesses his fear of a woman’s growing intelligence."
 

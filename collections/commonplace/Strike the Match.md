@@ -6,9 +6,12 @@ title: Strike the Match
 publication: The Atlantic
 link: https://www.theatlantic.com/entertainment/archive/2018/06/westworld-season-2-episode-7-les-ecorches-roundtale/561809/
 date: 2018-06-03
+permalink: 2018/06/03/david-sims-spencer-kornhaber-sophie-gilbert
 ---
 
-[[2018]] / [[commonplace]] / 
+[[2018]] • [[commonplace]] • [[David Sims]] • [[Spencer Kornhaber]] • [[Sophie Gilbert]] [[The Atlantic]]
+
+https://www.theatlantic.com/entertainment/archive/2018/06/westworld-season-2-episode-7-les-ecorches-roundtale/561809/
  
 "Sophie Gilbert: "
 

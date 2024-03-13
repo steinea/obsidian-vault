@@ -6,9 +6,12 @@ title: Why Are There Beings At All
 publication: Wikiquote
 link: https://en.wikiquote.org/wiki/Martin_Heidegger
 date: 2018-07-15
+permalink: 2018/07/15/martin-heidegger-why-are-there-beings-at-all
 ---
 
-[[2018]] / [[commonplace]] / 
+[[2018]] • [[commonplace]] • [[Martin Heidegger]] • [[Wikiquote]]
+
+https://en.wikiquote.org/wiki/Martin_Heidegger
  
 "Warum ist überhaupt Seiendes und nicht vielmehr Nichts? Das ist die Frage."
 

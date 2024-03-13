@@ -2,13 +2,16 @@
 layout: entry
 category: commonplace
 author: Jarek Ervin
-title: Westworld’s Choice
+title: Westworld's Choice
 publication: Jacobin
 link: http://jacobinmag.com/2018/05/westworld-season-two-science-fiction-androids/
 date: 2018-05-13
+permalink: 2018/05/13/jarek-ervin-westworlds-choice
 ---
 
-[[2018]] / [[commonplace]] / 
+[[2018]] • [[commonplace]] • [[Jarek Ervin]] • [[Jacobin]]
+
+http://jacobinmag.com/2018/05/westworld-season-two-science-fiction-androids/
  
 "The second season of Jonathan Nolan and Lisa Joy’s critically acclaimed Westworld promises to be strikingly different from its precursor. All of the elegance and stunning beauty of the first season has been discarded. The tone is now severe, almost brutish."
 

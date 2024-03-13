@@ -6,9 +6,12 @@ title: The Pittsburgh School
 publication: Reddit
 link: https://www.reddit.com/r/askphilosophy/comments/6ocw7q/the_pittsburgh_school/
 date: 2018-06-25
+permalink: 2018/06/25/simism66-the-pittsburgh-school
 ---
 
-[[2018]] / [[commonplace]] / 
+[[2018]] • [[commonplace]] • [[simism66]] • [[Reddit]]
+
+https://www.reddit.com/r/askphilosophy/comments/6ocw7q/the_pittsburgh_school/
  
 "The "Pittsburgh School," of course, has its basis in Sellars, who was at Pittsburgh for the latter part of his career. McDowell and Brandom both take up a particular reading of Sellars, putting a particularly strong emphasis on what Sellars calls "the space of reasons," and putting less of an emphasis on Sellars' aim to unify our conception of ourselves as situated in the space of reasons with the "scientific image" of ourselves. Neither Brandom nor McDowell take up the scienctistic strain in Sellars' thinking, making both of them, to use a phrase coined by Rorty, "Left Sellarsians." Right Sellarsians, like Paul Churchland and Ruth Millikan, emphasize the scientistic aspect more.
 

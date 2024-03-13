@@ -2,13 +2,16 @@
 layout: entry
 category: commonplace
 author: Rig Veda
-title: Creation
+title: Whence Comes This Creation
 publication: Sacred Texts
 link: http://www.sacred-texts.com/hin/rigveda/rv10129.htm
 date: 2018-01-23
+permalink: 2018/01/23/rig-veda-whence-comes-this-creation
 ---
 
-[[2018]] / [[commonplace]] / 
+[[2018]] • [[commonplace]] • [[Rig Veda]] • [[Sacred Texts]]
+
+http://www.sacred-texts.com/hin/rigveda/rv10129.htm
  
 HYMN CXXIX. Creation.
 

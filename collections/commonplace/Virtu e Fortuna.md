@@ -6,9 +6,12 @@ title: Virtu e Fortuna
 publication: The Atlantic
 link: https://www.theatlantic.com/entertainment/archive/2018/05/westworld-season-2-episode-3-virtu-e-fortuna-roundtable/558926/
 date: 2018-05-06
+permalink: 2018/05/06/david-sims-spencer-kornhaber-sophie-gilbert-virtu-e-fortuna
 ---
 
-[[2018]] / [[commonplace]] / 
+[[2018]] • [[commonplace]] • [[David Sims]] • [[Spencer Kornhaber]] • [[Sophie Gilbert]] [[The Atlantic]]
+
+https://www.theatlantic.com/entertainment/archive/2018/05/westworld-season-2-episode-3-virtu-e-fortuna-roundtable/558926/
  
 "Spencer Kornhaber: "
 

@@ -6,9 +6,12 @@ title: The Westworld Rickroll
 publication: Los Angeles Review of Books
 link: https://lareviewofbooks.org/article/the-westworld-rickroll/
 date: 2018-08-25
+permalink: 2018/08/25/aaron-bady-the-westworld-rickroll
 ---
 
-[[2018]] / [[commonplace]] / 
+[[2018]] • [[commonplace]] • [[Aaron Bady]] • [[Los Angeles Review of Books]]
+
+https://lareviewofbooks.org/article/the-westworld-rickroll/
  
 "This week on Dear Television: Aaron Bady grapples with the concept that a television program might actually be improving. "
 

@@ -6,9 +6,12 @@ title: Journey Into Night
 publication: The Atlantic
 link: https://www.theatlantic.com/entertainment/archive/2018/04/westworld-season-2-episode-1-premiere-journey-into-night-roundtable/558542/
 date: 2018-04-22
+permalink: 2018/04/22/david-sims-spencer-kornhaber-sophie-gilbert-journey-into-night
 ---
 
-[[2018]] / [[commonplace]] / 
+[[2018]] • [[commonplace]] • [[David Sims]] • [[Spencer Kornhaber]] • [[Sophie Gilbert]] [[The Atlantic]]
+
+https://www.theatlantic.com/entertainment/archive/2018/04/westworld-season-2-episode-1-premiere-journey-into-night-roundtable/558542/
  
 "David Sims:"
 

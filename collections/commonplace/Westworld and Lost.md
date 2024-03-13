@@ -6,9 +6,12 @@ title: Westworld and Lost
 publication: The Atlantic
 link: https://www.theatlantic.com/entertainment/archive/2018/05/no-that-episode-of-westworld-was-not-an-homage-to-lost/560279/
 date: 2018-05-19
+permalink: 2018/05/19/christopher-orr-westworld-and-lost
 ---
 
-[[2018]] / [[commonplace]] / 
+[[2018]] • [[commonplace]] • [[Christopher Orr]] • [[The Atlantic]]
+
+https://www.theatlantic.com/entertainment/archive/2018/05/no-that-episode-of-westworld-was-not-an-homage-to-lost/560279/
  
 "There are precisely two times that a TV show has completely blown my mind. One was, of course, when Ned Stark lost his head in the first season of Game of Thrones in 2011. "
 

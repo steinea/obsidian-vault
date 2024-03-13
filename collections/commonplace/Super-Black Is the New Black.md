@@ -6,9 +6,12 @@ title: Super-Black Is the New Black
 publication: The Atlantic
 link: https://www.theatlantic.com/science/archive/2018/01/super-black-is-the-new-black/549869/
 date: 2018-01-09
+permalink: 2018/01/09/ed-yong-super-black-is-the-new-black
 ---
 
-[[2018]] / [[commonplace]] / 
+[[2018]] • [[commonplace]] • [[Ed Yong]] • [[The Atlantic]]
+
+https://www.theatlantic.com/science/archive/2018/01/super-black-is-the-new-black/549869/
  
 “Blackbirds, it turns out, aren’t actually all that black. Their feathers absorb most of the visible light that hits them, but still reflect between 3 and 5 percent of it. For really black plumage, you need to travel to Papua New Guinea and track down the birds of paradise.”
 

@@ -6,9 +6,12 @@ title: Consciousness and the World
 publication: New York Review of Books
 link: http://www.nybooks.com/daily/2018/01/29/consciousness-and-the-world/
 date: 2018-01-29
+permalink: 2018/01/29/riccardo-manzotti-tim-parks-consciousness-and-the-world
 ---
 
-[[2018]] / [[commonplace]] / 
+[[2018]] • [[commonplace]] • [[Riccardo Manzotti]] • [[Tim Parks]] • [[New York Review of Books]]
+
+http://www.nybooks.com/daily/2018/01/29/consciousness-and-the-world/
  
 "We are all used to thinking of ourselves as a single entity that enjoys a certain continuity from birth to death, if not beyond. We confidently say, “Ten years ago, I did this; next week, I will do that.” But what exactly is this entity? "
 

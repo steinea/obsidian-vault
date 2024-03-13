@@ -6,9 +6,12 @@ title: From Risk to Diplomacy
 publication: Polygon
 link: https://www.polygon.com/2018/12/14/18135133/best-tabletop-games-2018-board-card-games
 date: 2018-12-14
+permalink: 2018/12/14/charlie-hall-from-risk-to-diplomacy
 ---
 
-[[2018]] / [[commonplace]] / 
+[[2018]] • [[commonplace]] • [[Charlie Hall]] • [[Polygon]]
+
+https://www.polygon.com/2018/12/14/18135133/best-tabletop-games-2018-board-card-games
  
 “Diana Jones Award-winning designer Eric Lang continues to release new games at a blistering pace since formally joining the team at CMON. His best effort this year is called Rising Sun, and it’s an absolute monster.
 

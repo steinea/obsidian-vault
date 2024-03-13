@@ -2,13 +2,16 @@
 layout: entry
 category: commonplace
 author: Aaron Bady
-title: Infinity War
+title: On Infinity War, 1
 publication: Los Angeles Review of Books
 link: https://lareviewofbooks.org/article/post-shawarma-avengers-infinity-war/
 date: 2018-05-02
+permalink: 2018/05/02/aaron-bady-on-infinity-war-1
 ---
 
-[[2018]] / [[commonplace]] / 
+[[2018]] • [[commonplace]] • [[Aaron Bady]] • [[Los Angeles Review of Books]]
+
+https://lareviewofbooks.org/article/post-shawarma-avengers-infinity-war/
  
 "The MCU cycle began when Iron Man and The Incredible Hulk were created in 2008, in the last year of Bush’s presidency. "
 

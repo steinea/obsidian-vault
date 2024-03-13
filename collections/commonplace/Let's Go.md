@@ -2,13 +2,16 @@
 layout: entry
 category: commonplace
 author: Yuri Gagarin
-title: Let’s Go
+title: Let's Go
 publication: Wikipedia
 link: https://en.wikipedia.org/wiki/Yuri_Gagarin
 date: 2018-07-15
+permalink: 2018/07/15/yuri-gagarin-lets-go
 ---
 
-[[2018]] / [[commonplace]] / 
+[[2018]] • [[commonplace]] • [[Yuri Gagarin]] • [[Wikipedia]]
+
+https://en.wikipedia.org/wiki/Yuri_Gagarin
  
 “On 12 April 1961, the Vostok 3KA-3 (Vostok 1) spacecraft with Gagarin aboard was launched from Baikonur Cosmodrome. Gagarin thus became both the first human to travel into space, and the first to orbit the Earth. His call sign was Kedr (Russian: Кедр, Siberian pine or Cedar).
 	

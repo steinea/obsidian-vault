@@ -6,7 +6,7 @@ title: Metalhead
 publication: The Atlantic
 link: https://www.theatlantic.com/entertainment/archive/2017/12/black-mirrors-metalhead-is-a-short-stylish-survival-thriller/549392/
 date: 2017-12-31
-permalink: 2017/12/31/sophie-gilbert-david-sims-
+permalink: 2017/12/31/sophie-gilbert-david-sims-metalhead
 ---
 
 [[2017]] • [[commonplace]] • [[Sophie Gilbert]] • [[David Sims]] • [[The Atlantic]]

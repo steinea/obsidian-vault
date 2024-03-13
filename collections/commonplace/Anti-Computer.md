@@ -6,9 +6,12 @@ title: Anti-Computer
 publication: Culture and Communication
 link: http://cultureandcommunication.org/galloway/anti-computer
 date: 2018-03-19
+permalink: 2018/03/19/alexander-r-galloway-anti-computer
 ---
 
-[[2018]] / [[commonplace]] / 
+[[2018]] • [[commonplace]] • [[Alexander Galloway]] • [[Culture and Communication]]
+
+http://cultureandcommunication.org/galloway/anti-computer
  
 "Ergodic machines are machines that run on heat and energy. Such machines are essentially mechanical in nature. They deal with basic physical mechanics like levers and pulleys, and questions of mass, weight, and counter-balance. Ergodic machines adhere to the laws of motion and inertia, the conservation of energy, and the laws of thermodynamics governing heat, pressure, and energy."
 

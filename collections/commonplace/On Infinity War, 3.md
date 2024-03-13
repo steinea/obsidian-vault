@@ -2,13 +2,16 @@
 layout: entry
 category: commonplace
 author: Christopher Orr
-title: Infinity War
+title: On Infinity War, 3
 publication: The Atlantic
 link: https://www.theatlantic.com/entertainment/archive/2018/04/avengers-infinity-war-marvel-review/558983/
 date: 2018-05-19
+permalink: 2018/05/19/christopher-orr-on-infinity-war-3
 ---
 
-[[2018]] / [[commonplace]] / 
+[[2018]] • [[commonplace]] • [[Christopher Orr]] • [[The Atlantic]]
+
+https://www.theatlantic.com/entertainment/archive/2018/04/avengers-infinity-war-marvel-review/558983/
  
 "Never has the “Marvel Cinematic Universe” seemed like more of a universe, in ways both good and bad."
 
