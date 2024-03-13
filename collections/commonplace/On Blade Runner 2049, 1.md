@@ -6,7 +6,7 @@ title: On Blade Runner 2049, 1
 publication: Esquire
 link: http://www.esquire.com/entertainment/movies/a12502218/blade-runner-2049-review-spoiler-free/
 date: 2017-09-29
-permalink: 2017/09/29/matt-miller-blade-runner-2049
+permalink: 2017/09/29/matt-miller-on-blade-runner-2049-1
 ---
 
 [[2017]] • [[commonplace]] • [[Matt Miller]] • [[Esquire]] 

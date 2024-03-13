@@ -6,11 +6,13 @@ title: Universe in a Bubble
 publication: Aeon
 link: https://aeon.co/essays/did-our-cosmos-emerge-from-a-sea-of-inflating-bubbles
 date: 2017-10-05
-permalink: 
+permalink: 2017/10/05/j-richard-gott-universe-in-a-bubble
 ---
 
-[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
- 
+[[2017]] • [[commonplace]] • [[J. Richard Gott]] • [[Aeon]] 
+
+https://aeon.co/essays/did-our-cosmos-emerge-from-a-sea-of-inflating-bubbles
+
 “Beginning in the mid-1990s, now as a member of Harvard’s faculty, Kirshner started a group using supernovae to measure the expansion rate of the Universe – a particularly telling indication of how the cosmos is changing over time.”
 
 “Astronomers presumed that the expansion had been slowing down ever since the Big Bang, running down due to the gravitational pull between galaxies. The big question was: how quickly was this cosmic deceleration happening?”

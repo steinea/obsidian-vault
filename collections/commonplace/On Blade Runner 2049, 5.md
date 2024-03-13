@@ -2,15 +2,17 @@
 layout: entry
 category: commonplace
 author: Julia Alexander
-title: <em>Blade Runner 2049</em>
+title: On Blade Runner 2049, 5
 publication: Polygon
 link: https://www.polygon.com/2017/10/5/16426054/blade-runner-2049-review
 date: 2017-10-11
-permalink: 
+permalink: 2017/10/11/julia-alexander-on-blade-runner-2049-5
 ---
 
-[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
- 
+[[2017]] • [[commonplace]] • [[Julia Alexander]] • [[Polygon]] 
+
+https://www.polygon.com/2017/10/5/16426054/blade-runner-2049-review
+
 “The first thing you notice about Blade Runner 2049 is the sound.”
 
 “It washes over you, like the gentle turning of the tide, rolling up to your body, blanketing you. It’s all-encompassing.”

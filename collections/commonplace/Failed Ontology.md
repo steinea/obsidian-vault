@@ -6,11 +6,13 @@ title: Failed Ontology
 publication: Agent Swarm
 link: https://terenceblake.wordpress.com/2017/10/01/zizeks-incontinence-of-the-void-1-the-only-good-ontology-is-a-failed-ontology/
 date: 2017-10-01
-permalink: 
+permalink: 2017/10/01/terence-blake-failed-ontology
 ---
 
-[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
- 
+[[2017]] • [[commonplace]] • [[Terence Blake]] • [[Agent Swarm]] 
+
+https://terenceblake.wordpress.com/2017/10/01/zizeks-incontinence-of-the-void-1-the-only-good-ontology-is-a-failed-ontology/
+
 “Slavoj Zizek’s new book INCONTINENCE OF THE VOID embodies the latest stage in his ongoing “non-standard” metaphysical research programme.”
 
 “It is non-standard in that its “ontology” of the “barred One” is at the same time an exploration of “the impossibility of ontology.””

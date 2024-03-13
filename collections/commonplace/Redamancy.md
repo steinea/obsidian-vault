@@ -6,11 +6,13 @@ title: Redamancy
 publication: Flux
 link: https://books.google.ca/books/about/Flux.html?id=KoQ5DwAAQBAJ
 date: 2017-10-24
-permalink: 
+permalink: 2017/10/24/orion-carloto-redamancy
 ---
 
-[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
- 
+[[2017]] • [[commonplace]] • [[Orion Carloto]] • [[Flux]] 
+
+https://books.google.ca/books/about/Flux.html?id=KoQ5DwAAQBAJ
+
 “If my tongue were a paintbrush
 <br>I’d drag it across her frame
 <br>starting from her neck,

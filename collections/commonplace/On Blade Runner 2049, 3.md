@@ -2,15 +2,17 @@
 layout: entry
 category: commonplace
 author: Christopher Orr
-title: Blade Runner 2049
+title: On Blade Runner 2049, 3
 publication: The Atlantic
 link: https://www.theatlantic.com/entertainment/archive/2017/10/blade-runner-2049-is-a-worthy-heir-to-the-classic-original/542205/
 date: 2017-10-11
-permalink: 
+permalink: 2017/10/11/christopher-orr-on-blade-runner-2049-3
 ---
 
-[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
- 
+[[2017]] • [[commonplace]] • [[Christopher Orr]] • [[The Atlantic]] 
+
+https://www.theatlantic.com/entertainment/archive/2017/10/blade-runner-2049-is-a-worthy-heir-to-the-classic-original/542205/
+
 “Blade Runner 2049 is the sequel to Ridley Scott’s 1982 sci-fi game-changer Blade Runner, and it stars Ryan Gosling and Harrison Ford.”
 
 “The first Blade Runner took place in a rain-soaked, dystopian 2019, which makes for a slightly uneasy viewing experience in rain-soaked, dystopian 2017.”

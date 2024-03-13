@@ -2,15 +2,17 @@
 layout: entry
 category: commonplace
 author: Devindra Hardawar
-title: Blade Runner 2049
+title: On Blade Runner 2049, 4
 publication: Engadget
 link: https://www.engadget.com/2017/10/11/blade-runner-ai-review/
 date: 2017-10-11
-permalink: 
+permalink: 2017/10/11/devindra-hardawar-on-blade-runner-2049-4
 ---
 
-[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
- 
+[[2017]] • [[commonplace]] • [[Devindra Hardawar]] • [[Engadget]] 
+
+https://www.engadget.com/2017/10/11/blade-runner-ai-review/
+
 “Blade Runner 2049 is a miracle.”
 
 “It's a sequel that nobody really wanted -- certainly not fans of the seminal 1982 original by Ridley Scott.”

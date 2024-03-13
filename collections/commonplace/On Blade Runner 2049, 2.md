@@ -2,15 +2,17 @@
 layout: entry
 category: commonplace
 author: Matthew Gault
-title: <em>Blade Runner 2049</em>
+title: On Blade Runner 2049, 2
 publication: Motherboard
 link: https://motherboard.vice.com/en_us/article/43amnb/blade-runner-2049-review-ryan-gosling-harrison-ford-ridley-scott-replicant
 date: 2017-10-06
-permalink: 
+permalink: 2017/10/06/matthew-gault-on-blade-runner-2049-2
 ---
 
-[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
- 
+[[2017]] • [[commonplace]] • [[Matthew Gault]] • [[Motherboard]] 
+
+https://motherboard.vice.com/en_us/article/43amnb/blade-runner-2049-review-ryan-gosling-harrison-ford-ridley-scott-replicant
+
 “What is love? Do memories define us? What does it mean to be human? These questions are core to both Blade Runner and Blade Runner 2049, but the sequel does a better job of answering them.”
 
 “In the original 1982 film, Deckard chases manufactured workers known as replicants through a dystopian future Los Angeles. He kills them one by one and—in the end—their leader proves his humanity by saving the life of the man sent to kill him.”

@@ -10,8 +10,8 @@
 | [[constellation/games/Battlefield 2042.md\|Battlefield 2042]]                             | Steam    | 10    | 8/34     | 23% | 2022-09-27 |
 | [[constellation/games/Flipflop Solitaire.md\|Flipflop Solitaire]]                         | Google   | \-    | 53/102   | 52% | 2022-09-24 |
 | [[constellation/games/F1 22.md\|F1 22]]                                                   | Steam    | 1     | 1/50     | 2%  | 2022-07-08 |
-| [[constellation/games/Splitgate.md\|Splitgate]]                                           | Steam    | 44    | 25/30    | 83% | 2022-05-12 |
 | [[constellation/games/EA SPORTS FIFA 22.md\|EA SPORTS FIFA 22]]                           | PS4      | 12    | 3/38     | 8%  | 2022-05-12 |
+| [[constellation/games/Splitgate.md\|Splitgate]]                                           | Steam    | 44    | 25/30    | 83% | 2022-05-12 |
 | [[constellation/games/Forza Horizon 5.md\|Forza Horizon 5]]                               | Xbox     | 76    | 52/137   | 38% | 2022-05-03 |
 | [[constellation/games/Pako Caravan.md\|Pako Caravan]]                                     | Google   | \-    | 1/18     | 5%  | 2021-12-07 |
 | [[constellation/games/Star Wars Squadrons.md\|Star Wars Squadrons]]                       | Steam    | 1     | 1/48     | 2%  | 2021-10-05 |

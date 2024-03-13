@@ -6,11 +6,13 @@ title: Stranger Things 2 and Sexism
 publication: Waypoint
 link: https://waypoint.vice.com/en_us/article/ne373g/stranger-things-season-2-sexism
 date: 2017-10-31
-permalink: 
+permalink: 2017/10/31/danielle-riendeau-stranger-things-2-and-sexism
 ---
 
-[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
- 
+[[2017]] • [[commonplace]] • [[Danielle Riendeau]] • [[Waypoint]] 
+
+https://waypoint.vice.com/en_us/article/ne373g/stranger-things-season-2-sexism
+
 “I just started episode six, so I'm not through, but so far, Season 2 of Stranger Things is knocking it out of the 80s-inspired park in almost every aspect. It's stronger than the first by a long shot, with much tighter pacing—it feels like a horror thriller in itself, with the confidence to be its own thing, less the loose mishmash of Goonies/Gremlins/Aliens/General 80s Spielberg tropes that defined season one.”
 
 “The characters are more sharply drawn, and given a little more room to breathe outside of their 80s movie caricatures. And the action is far more intense thus far.”

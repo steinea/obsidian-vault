@@ -2,14 +2,16 @@
 layout: entry
 category: commonplace
 author: Terence Blake
-title: <em>Blade Runner 2049</em> and <em>Arrival</em>
+title: Blade Runner 2049 and Arrival
 publication: Agent Swarm
 link: https://terenceblake.wordpress.com/2017/10/11/blade-runner-2049-and-arrival-a-pedagogical-cinema/
 date: 2017-10-11
-permalink: 
+permalink: 2017/10/11/terence-blake-blade-runner-2049-and-arrival
 ---
 
-[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
+[[2017]] • [[commonplace]] • [[Terence Blake]] • [[Agent Swarm]]
+
+https://terenceblake.wordpress.com/2017/10/11/blade-runner-2049-and-arrival-a-pedagogical-cinema/
  
 “Denis Villeneuve’s ARRIVAL is a brilliant film, thoughtful and moving, visually powerful and emotionally rewarding. I cannot recommend this film too highly.”
 

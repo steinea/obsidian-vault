@@ -30,8 +30,8 @@
 | [[constellation/games/Sekiro (Steam).md\|Sekiro (Steam)]]                                 | 26    | 34/34    | ★   | 2022-05-28 |
 | [[constellation/games/The Walking Dead 4.md\|The Walking Dead 4]]                         | 13    | 49/49    | ★   | 2022-05-20 |
 | [[constellation/games/The Walking Dead 3.md\|The Walking Dead 3]]                         | 7     | 31/31    | ★   | 2022-05-13 |
-| [[constellation/games/Splitgate.md\|Splitgate]]                                           | 44    | 25/30    | 83% | 2022-05-12 |
 | [[constellation/games/EA SPORTS FIFA 22.md\|EA SPORTS FIFA 22]]                           | 12    | 3/38     | 8%  | 2022-05-12 |
+| [[constellation/games/Splitgate.md\|Splitgate]]                                           | 44    | 25/30    | 83% | 2022-05-12 |
 | [[constellation/games/Forza Horizon 5.md\|Forza Horizon 5]]                               | 76    | 52/137   | 38% | 2022-05-03 |
 | [[constellation/games/Night in the Woods.md\|Night in the Woods]]                         | 18    | 31/31    | ★   | 2022-04-30 |
 | [[constellation/games/Norco.md\|Norco]]                                                   | 7     | 35/35    | ★   | 2022-04-15 |
@@ -95,8 +95,8 @@
 | [[constellation/games/Dark Souls III.md\|Dark Souls III]]                                 | 134   | 43/43    | ★   | 2018-05-12 |
 | [[constellation/games/Dark Souls II.md\|Dark Souls II]]                                   | 85    | 38/38    | ★   | 2018-01-14 |
 | [[constellation/games/Her Story.md\|Her Story]]                                           | 3     | 13/13    | ★   | 2017-09-06 |
-| [[constellation/games/Journey.md\|Journey]]                                               | 10    | 14/14    | ★   | 2017-08-15 |
 | [[constellation/games/Call of Duty Black Ops III.md\|Call of Duty Black Ops III]]         | 19    | 5/99     | 5%  | 2017-08-15 |
+| [[constellation/games/Journey.md\|Journey]]                                               | 10    | 14/14    | ★   | 2017-08-15 |
 | [[constellation/games/Bloodborne.md\|Bloodborne]]                                         | 87    | 40/40    | ★   | 2017-05-22 |
 | [[constellation/games/Little Big Planet 3.md\|Little Big Planet 3]]                       | 12    | 12/38    | 31% | 2017-02-04 |
 | [[constellation/games/Siralim.md\|Siralim]]                                               | 0.4   | 3/322    | 1%  | 2017-01-14 |

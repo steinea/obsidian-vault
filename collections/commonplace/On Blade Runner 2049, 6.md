@@ -6,11 +6,13 @@ title: Blade Runner 2049
 publication: The Atlantic
 link: https://www.theatlantic.com/entertainment/archive/2017/10/the-real-and-unreal-in-blade-runner-2049/542574/
 date: 2017-10-12
-permalink: 
+permalink: 2017/10/12/david-sims-on-blade-runner-2049-6
 ---
 
-[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
- 
+[[2017]] • [[commonplace]] • [[David Sims]] • [[The Atlantic]] 
+
+https://www.theatlantic.com/entertainment/archive/2017/10/the-real-and-unreal-in-blade-runner-2049/542574/
+
 “The hero of Blade Runner, Ridley Scott’s 1982 dystopian masterpiece, isn’t Rick Deckard (Harrison Ford), the cop who finds and kills “replicants” (bioengineered androids) for the LAPD in a grim, rain-drenched futurescape.”
 
 “It’s his primary target, Roy Batty (Rutger Hauer), an escaped combat unit seeking a cure to the four-year lifespan built into his system.”

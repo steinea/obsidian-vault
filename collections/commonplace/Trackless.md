@@ -6,11 +6,13 @@ title: Trackless
 publication: Waypoint
 link: https://waypoint.vice.com/en_us/article/7x4884/trackless-goes-on-a-strange-pilgrimage-through-an-unsettling-world
 date: 2017-10-26
-permalink: 
+permalink: 2017/10/26/cameron-kunzelman-trackless
 ---
 
-[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
- 
+[[2017]] • [[commonplace]] • [[Cameron Kunzelman]] • [[Waypoint]] 
+
+https://waypoint.vice.com/en_us/article/7x4884/trackless-goes-on-a-strange-pilgrimage-through-an-unsettling-world
+
 “Trackless begins on a train. This might be the future. It might be a simulation. It might be some other world; a giant black orb hangs dead in the sky in the place of the sun.”
 
 “You learn you are a "seeker" among fellow pilgrims on your the way to see something called the Object. Other travelers tell you that they're nervous or excited.”

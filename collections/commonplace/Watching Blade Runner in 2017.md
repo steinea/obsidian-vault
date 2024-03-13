@@ -2,15 +2,17 @@
 layout: entry
 category: commonplace
 author: Sarah Gailey
-title: Watching <em>Blade Runner</em> in 2017
+title: Watching Blade Runner in 2017
 publication: Tor
 link: https://www.tor.com/2017/10/03/this-future-looks-familiar-watching-blade-runner-in-2017/
 date: 2017-10-15
-permalink: 
+permalink: 2017/10/15/sarah-gailey-watching-blade-runner-in-2017
 ---
 
-[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
- 
+[[2017]] • [[commonplace]] • [[Sarah Gailey]] • [[Tor.com]] 
+
+https://www.tor.com/2017/10/03/this-future-looks-familiar-watching-blade-runner-in-2017/
+
 “I watched Blade Runner for the first time this week. Since I have apparently been living in a cave for the past few decades, I thought that Blade Runner was kind of like Tron but with more Harrison Ford, and less neon, and maybe a few more tricky questions about What Is The Nature Of Man.”
 
 “That is the movie I was expecting.

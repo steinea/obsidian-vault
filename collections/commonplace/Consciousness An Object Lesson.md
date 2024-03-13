@@ -2,15 +2,17 @@
 layout: entry
 category: commonplace
 author: Riccardo Manzotti and Tim Parks
-title: An Object Lesson
+title: Consciousness An Object Lesson
 publication: New York Review of Books
 link: http://www.nybooks.com/daily/2017/10/09/consciousness-an-object-lesson/
 date: 2017-10-09
-permalink: 
+permalink: 2017/10/09/riccardo-manzotti-tim-parks-an-object-lesson
 ---
 
-[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
- 
+[[2017]] • [[commonplace]] • [[Riccardo Manzotti]] • [[Tim Parks]] • [[New York Review of Books]]
+
+http://www.nybooks.com/daily/2017/10/09/consciousness-an-object-lesson/
+
 “What is “an object” in the end? And what is “the world” that these objects make up?”
 
 “When we talk about consciousness, we rarely discuss ordinary physics, which we assume science has long since understood: objects are composed of atoms; they exist entirely separate from ourselves, and can be measured and manipulated in all kind of ways. It’s also clear, however, that this idea of the physical world works only if we suppose that consciousness—our experience of that world—is distinct and apart from it; objects exist first outside us, then in a secondary, shadowy way as representations inside our brains. This is the so-called internalist view. Yet, in these discussions, Riccardo Manzotti has frequently insisted that there are no representations in our brains. Rather, he has suggested that experience and object are one. But in that case, what do we mean by an object?

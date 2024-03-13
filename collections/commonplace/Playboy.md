@@ -6,11 +6,13 @@ title: Playboy
 publication: n+1
 link: https://nplusonemag.com/online-only/book-review/playboy-hugh-hefner-story/
 date: 2017-10-04
-permalink: 
+permalink: 2017/10/04/molly-young-playboy
 ---
 
-[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
- 
+[[2017]] • [[commonplace]] • [[Molly Young]] • [[n+1]] 
+
+https://nplusonemag.com/online-only/book-review/playboy-hugh-hefner-story/
+
 “Their premise is simple: by identifying with the absent man, a viewer can enter the scene.”
 
 “As Hefner put it in a letter to Russ Meyer (director of Faster, Pussycat! Kill Kill!), the ideal centerfold is one in which “a situation is suggested, the presence of someone not in the picture.””
