@@ -6,9 +6,12 @@ title: The Cathedrals of Cascadia
 publication: Literary Review of Canada
 link: https://reviewcanada.ca/magazine/2023/03/the-cathedrals-of-cascadia/
 date: 2023-06-11
+permalink:
 ---
 
-[[2023]] / [[commonplace]] / 
+[[2023]] • [[commonplace]] • AUTHOR • PUBLICATION
+
+LINK
  
 "To visit Stanley Park, the Mohawk poet Pauline Johnson wrote over a century ago in *Legends of Vancouver*, was to enter an “atmosphere of holiness.”"
 

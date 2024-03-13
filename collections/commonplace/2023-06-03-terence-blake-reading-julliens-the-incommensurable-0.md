@@ -6,9 +6,12 @@ title: Reading Jullien’s <em>The Incommensurable</em>
 publication: Agent Swarm
 link: https://terenceblake.wordpress.com/2023/01/29/reading-francois-julliens-the-incommensurable-0-from-extro-comparatism-to-decoincidence/
 date: 2023-06-03
+permalink:
 ---
 
-[[2023]] / [[commonplace]] / 
+[[2023]] • [[commonplace]] • AUTHOR • PUBLICATION
+
+LINK
  
 "I have been reading François Jullien’s work, off and on, for a little over 33 years – since the publication in French of his **PROCESS OR CREATION An introduction to the thought of Chinese literary scholars**, published in 1989 and still untranslated. His books are quite popular in France and he has published at least 47, many of which are available in cheap paperbacks"
 

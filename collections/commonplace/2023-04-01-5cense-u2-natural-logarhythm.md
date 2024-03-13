@@ -6,9 +6,12 @@ title: U2’s Natural Logarhythm
 publication: 5cense
 link: https://5cense.com/Edge_Delay.htm
 date: 2023-04-01
+permalink:
 ---
 
-[[2023]] / [[commonplace]] / 
+[[2023]] • [[commonplace]] • AUTHOR • PUBLICATION
+
+LINK
  
 "Recently I tried searching around on the internet to see if anyone else had discovered what I had discovered back then, and while I found some interesting articles (in particular [this one](http://www.amnesta.net/edge_delay/) by Tim Darling), nobody seems to have happened on the discovery that I made. Darling does a thorough and at times technical analysis of the equipment and delay settings that The Edge uses to get his sound, his conclusion being that his delay is set at roughly 3/16 tempo, or for example on "Where The Streets Have No Name," his pedal was set at 340-350 ms. But this 345 ms setting is not relevant unless we talk about beats per minute"
 

@@ -6,9 +6,12 @@ title: Narrative Baked Into Corridors
 publication: Rock Paper Shotgun
 link: https://www.rockpapershotgun.com/the-narrative-had-to-be-baked-into-the-corridors-marc-laidlaw-on-writing-half-life
 date: 2023-06-12
+permalink:
 ---
 
-[[2023]] / [[commonplace]] / 
+[[2023]] • [[commonplace]] • AUTHOR • PUBLICATION
+
+LINK
  
 "“I was deranged,” says [Half-Life](https://www.rockpapershotgun.com/games/half-life) writer Marc Laidlaw of his decision to publish the plot of Episode 3 as fanfiction. “I was living on an island, totally cut off from my friends and creative community of the last couple decades, I was completely out of touch and had nobody to talk me out of it. It just seemed like a fun thing to do… until I did it.”"
 

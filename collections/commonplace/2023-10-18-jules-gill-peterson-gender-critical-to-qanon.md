@@ -6,9 +6,12 @@ title: From Gender Critical to QAnon
 publication: The New Inquiry
 link: https://thenewinquiry.com/from-gender-critical-to-qanon-anti-trans-politics-and-the-laundering-of-conspiracy/
 date: 2023-10-18
+permalink:
 ---
 
-[[2023]] / [[commonplace]] / 
+[[2023]] • [[commonplace]] • AUTHOR • PUBLICATION
+
+LINK
 
 "The appeal to free speech in anti-trans punditry is hardly novel, but I have become interested in the intensely-avowed *emotional* attachment to liberalism in this genre of complaint"
 

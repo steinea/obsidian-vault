@@ -6,9 +6,12 @@ title: World as Diagram
 publication: e-flux
 link: https://www.e-flux.com/criticism/549435/schema-world-as-diagram
 date: 2023-12-27
+permalink:
 ---
 
-[[2023]] / [[commonplace]] / 
+[[2023]] • [[commonplace]] • AUTHOR • PUBLICATION
+
+LINK
 
 "The show takes its title from Thomas Hirschhorn’s *Schema: Art and Public Space* (2016–22), an exuberant multimedia collage-manifesto"
 

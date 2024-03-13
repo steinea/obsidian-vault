@@ -6,9 +6,12 @@ title: Only Style Survives
 publication: The Paris Review
 link: https://www.theparisreview.org/blog/2023/01/06/only-style-survives-lisa-robertson-on-chateaubriand/
 date: 2023-03-11
+permalink:
 ---
 
-[[2023]] / [[commonplace]] / 
+[[2023]] • [[commonplace]] • AUTHOR • PUBLICATION
+
+LINK
  
 "My spiritual fidelity is to the school of lapsed fashions"
 

@@ -6,9 +6,12 @@ title: Polemics Among Soviet Physicists
 publication: Cosmic Bulletin
 link: https://cosmos.art/cosmic-bulletin/2022/polemics-among-soviet-physicists-in-the-age-of-the-avant-garde-the-scientific-revolution-and-the-radical-politics-of-the-1920s
 date: 2023-09-30
+permalink:
 ---
 
-[[2023]] / [[commonplace]] / 
+[[2023]] • [[commonplace]] • AUTHOR • PUBLICATION
+
+LINK
 
 "The philosophical debates of the 1920s and early ‘30s around the theory of relativity and quantum mechanics in Soviet Russia exhibit a certain entanglement of both scientific and political registers"
 

@@ -6,9 +6,12 @@ title: The Body of Thought
 publication: Los Angeles Review of Books
 link: https://lareviewofbooks.org/article/the-body-of-thought-on-markus-gabriels-the-meaning-of-thought/
 date: 2023-01-07
+permalink:
 ---
 
-[[2023]] / [[commonplace]] / 
+[[2023]] • [[commonplace]] • AUTHOR • PUBLICATION
+
+LINK
  
 "What is important here is that thought transpires in and through our bodies. Where there is no body, there is no thought"
 

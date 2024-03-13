@@ -6,9 +6,12 @@ title: Against Memoir
 publication: Sydney Review of Books
 link: https://sydneyreviewofbooks.com/review/gunaydin-root-branch/
 date: 2023-01-23
+permalink:
 ---
 
-[[2023]] / [[commonplace]] / 
+[[2023]] • [[commonplace]] • AUTHOR • PUBLICATION
+
+LINK
  
 "Time and time again, it strikes me that the worst thing that can ever happen to an author is for people to read their book. That’s when they start to think about it, write about it, ask about it, talk about it, and eventually give it back to the author, chewed up, wet and slobbery like a tennis ball out of a dog’s mouth"
 

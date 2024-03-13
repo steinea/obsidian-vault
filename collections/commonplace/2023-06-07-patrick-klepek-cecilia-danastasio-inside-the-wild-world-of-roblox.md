@@ -6,9 +6,12 @@ title: Inside the Wild World of Roblox
 publication: Crossplay
 link: https://open.substack.com/pub/patrickklepek/p/what-its-like-reporting-from-inside?r=90krt&utm_medium=ios&utm_campaign=post
 date: 2023-06-07
+permalink:
 ---
 
-[[2023]] / [[commonplace]] / 
+[[2023]] • [[commonplace]] • AUTHOR • PUBLICATION
+
+LINK
  
 "Cecilia D'Anastasio: *Roblox* is the purest example of the fact that online games can function as social media"
 

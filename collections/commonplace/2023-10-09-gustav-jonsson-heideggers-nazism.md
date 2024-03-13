@@ -6,9 +6,12 @@ title: Heidegger’s Nazism
 publication: Jacobin
 link: https://jacobin.com/2023/03/martin-heidegger-nazism-payen-wolin-book-review/
 date: 2023-10-09
+permalink:
 ---
 
-[[2023]] / [[commonplace]] / 
+[[2023]] • [[commonplace]] • AUTHOR • PUBLICATION
+
+LINK
 
 "Review of [*Martin Heidegger’s Changing Destinies: Catholicism, Revolution, Nazism*](https://yalebooks.yale.edu/book/9780300228328/martin-heideggers-changing-destinies/) by Guillaume Payen (Yale University Press, 2023) and [*Heidegger in Ruins: Between Philosophy and Ideology*](https://yalebooks.yale.edu/book/9780300233186/heidegger-in-ruins/) by Richard Wolin (Yale University Press, 2023)"
 

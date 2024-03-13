@@ -6,9 +6,12 @@ title: Sabotage
 publication: Territories
 link: https://territories.substack.com/p/sabotage?utm_source=substack&utm_medium=email
 date: 2023-02-02
+permalink:
 ---
 
-[[2023]] / [[commonplace]] / 
+[[2023]] • [[commonplace]] • AUTHOR • PUBLICATION
+
+LINK
  
 "Beyond the mega-basin, the horizon"
 

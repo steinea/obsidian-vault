@@ -6,9 +6,12 @@ title: Unity in Diversity
 publication: Los Angeles Review of Books
 link: https://lareviewofbooks.org/article/unity-in-diversity-on-overcoming-the-erasure-of-kurdistan-and-jina-amini/
 date: 2023-01-01
+permalink:
 ---
 
-[[2023]] / [[commonplace]] / 
+[[2023]] • [[commonplace]] • AUTHOR • PUBLICATION
+
+LINK
  
 "Never during the regime’s rule have any large protests been carried out simultaneously across all ethnic and religious groups in the country"
 

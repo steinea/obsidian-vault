@@ -6,9 +6,12 @@ title: Exporting the Revolution
 publication: The New Inquiry
 link: https://thenewinquiry.com/exporting-the-revolution/
 date: 2023-06-11
+permalink:
 ---
 
-[[2023]] / [[commonplace]] / 
+[[2023]] • [[commonplace]] • AUTHOR • PUBLICATION
+
+LINK
  
 "Youth is provisional"
 

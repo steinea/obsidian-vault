@@ -6,9 +6,12 @@ title: Sport is Game Design
 publication: Mastodon
 link: https://mastodon.social/@adrianhon/109794781211623714
 date: 2023-02-02
+permalink:
 ---
 
-[[2023]] / [[commonplace]] / 
+[[2023]] • [[commonplace]] • AUTHOR • PUBLICATION
+
+LINK
  
 "Sport is game design. The only reason we don't think about it that way is because new sports are so rarely invented.
 

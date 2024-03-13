@@ -6,9 +6,12 @@ title: Standard Model Survives
 publication: Quanta Magazine
 link: https://www.quantamagazine.org/standard-model-of-cosmology-survives-jwsts-surprising-finds-20230120/
 date: 2023-03-20
+permalink:
 ---
 
-[[2023]] / [[commonplace]] / 
+[[2023]] • [[commonplace]] • AUTHOR • PUBLICATION
+
+LINK
  
 "The cracks in cosmology were supposed to take a while to appear. But when the James Webb Space Telescope (JWST) opened its lens last spring, extremely distant yet very bright galaxies immediately shone into the telescope’s field of view"
 

@@ -6,9 +6,12 @@ title: Cottagecore Emo Emily Brontë
 publication: Slate
 link: https://slate.com/culture/2023/02/emily-bronte-movie-true-story-wuthering-heights.html?via=rss
 date: 2023-06-11
+permalink:
 ---
 
-[[2023]] / [[commonplace]] / 
+[[2023]] • [[commonplace]] • AUTHOR • PUBLICATION
+
+LINK
  
 "A big problem with this premise is that *Wuthering Heights* depicts exactly the sort of love affair that a person who’d never been in a romantic relationship is likely to invent, all wildness and extremity and drama"
 

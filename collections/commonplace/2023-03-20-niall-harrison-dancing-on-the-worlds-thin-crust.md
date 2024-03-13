@@ -6,9 +6,12 @@ title: Dancing on the World’s Thin Crust
 publication: Los Angeles Review of Books
 link: https://dev.lareviewofbooks.org/article/dancing-on-the-worlds-thin-crust-on-the-mit-presss-radium-age-series/
 date: 2023-03-20
+permalink:
 ---
 
-[[2023]] / [[commonplace]] / 
+[[2023]] • [[commonplace]] • AUTHOR • PUBLICATION
+
+LINK
  
 "WHEN THE MIT PRESS publishes science fiction, it does it to make a point"
 

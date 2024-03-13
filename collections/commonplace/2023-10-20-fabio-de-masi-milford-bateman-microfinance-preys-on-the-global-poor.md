@@ -6,9 +6,12 @@ title: Microfinance Preys on the Global Poor
 publication: Jacobin
 link: https://jacobin.com/2023/06/fintech-microfinance-poverty-debt-global-south-world-bank/
 date: 2023-10-20
+permalink:
 ---
 
-[[2023]] / [[commonplace]] / 
+[[2023]] • [[commonplace]] • AUTHOR • PUBLICATION
+
+LINK
 
 "Beginning with the idea of microloans in the 1980s and then expanding to cover other sorts of financial services, “microfinance” was sold by global elites as a way to transform the economies of the Global South by allowing poorer communities easy access to banking and credit"
 

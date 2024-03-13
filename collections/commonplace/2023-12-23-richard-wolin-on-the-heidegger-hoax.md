@@ -6,9 +6,12 @@ title: On the Heidegger Hoax
 publication: Los Angeles Review of Books
 link: https://lareviewofbooks.org/article/the-heidegger-hoax/
 date: 2023-12-23
+permalink:
 ---
 
-[[2023]] / [[commonplace]] / 
+[[2023]] • [[commonplace]] • AUTHOR • PUBLICATION
+
+LINK
 
 "tributes to Heidegger’s prodigious achievements are question-begging in one crucial respect: they neglect to consider what we are actually reading when we read Heidegger"
 

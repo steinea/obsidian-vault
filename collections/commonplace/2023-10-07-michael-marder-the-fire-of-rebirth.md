@@ -6,9 +6,12 @@ title: The Fire of Rebirth
 publication: Cosmic Bulletin
 link: https://cosmos.art/cosmic-bulletin/2022/the-fire-of-rebirth-in-the-writings-of-aleksandr-svyatogor
 date: 2023-10-07
+permalink:
 ---
 
-[[2023]] / [[commonplace]] / 
+[[2023]] • [[commonplace]] • AUTHOR • PUBLICATION
+
+LINK
 
 "In his 1917 booklet *Petuh Revolyucii* [*The Rooster of the Revolution*], Svyatogor advances the poetic and intellectual movement of volcanism, calling for the planetary-scale practice of “the highest culture,” bent on “creating a new landscape and a new sky [*sozdat’ novyi rel’ef zemli i novoe nebo*].”"
 

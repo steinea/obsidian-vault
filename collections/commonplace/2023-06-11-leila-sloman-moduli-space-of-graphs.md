@@ -6,9 +6,12 @@ title: Moduli Space of Graphs
 publication: Quanta Magazine
 link: https://www.quantamagazine.org/quantum-field-theory-pries-open-mathematical-puzzle-20230216/
 date: 2023-06-11
+permalink:
 ---
 
-[[2023]] / [[commonplace]] / 
+[[2023]] • [[commonplace]] • AUTHOR • PUBLICATION
+
+LINK
  
 "Last month, [Karen Vogtmann](https://warwick.ac.uk/fac/sci/maths/people/staff/karen_vogtmann/) and [Michael Borinsky](https://michaelborinsky.com/) [posted a proof](https://arxiv.org/abs/2301.01121) that there is a truckload of mathematical structure within a hitherto inaccessible mathematical world called the moduli space of graphs, which Vogtmann and a collaborator [first described](https://link.springer.com/article/10.1007/BF01388734) in the mid-1980s"
 

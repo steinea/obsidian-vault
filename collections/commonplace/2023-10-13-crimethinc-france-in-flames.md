@@ -6,9 +6,12 @@ title: France in Flames
 publication: CrimethInc
 link: https://crimethinc.com/2023/03/30/france-in-flames-macron-attempts-to-crush-the-movement-against-the-pension-reform-with-lethal-violence-1
 date: 2023-10-13
+permalink:
 ---
 
-[[2023]] / [[commonplace]] / 
+[[2023]] • [[commonplace]] • AUTHOR • PUBLICATION
+
+LINK
 
 "a powerful movement has erupted in response to an attempt to raise the retirement age"
 

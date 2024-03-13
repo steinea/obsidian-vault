@@ -6,9 +6,12 @@ title: "Nowhereness: Baikonur"
 publication: Cosmic Bulletin
 link: https://cosmos.art/cosmic-bulletin/2022/nowhereness-baikonur
 date: 2023-10-01
+permalink:
 ---
 
-[[2023]] / [[commonplace]] / 
+[[2023]] • [[commonplace]] • AUTHOR • PUBLICATION
+
+LINK
 
 "On the sixtieth anniversary of the first human space flight, in April 2021, an anniversary launch of a Soyuz MS-18 manned spacecraft, borne into space by a Soyuz-2.1a booster rocket, was carried out at the Baikonur Cosmodrome’s Site 31. The craft was dubbed the *Yuri Gagarin* in honor of the occasion"
 

@@ -6,9 +6,12 @@ title: Not the Backlog
 publication: Thinkings Space
 link: https://thinkings.space/not-the-backlog
 date: 2023-03-11
+permalink:
 ---
 
-[[2023]] / [[commonplace]] / 
+[[2023]] • [[commonplace]] • AUTHOR • PUBLICATION
+
+LINK
  
 "Few concepts destroy the minds of fair-minded people like the concept of the backlog"
 

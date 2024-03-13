@@ -6,9 +6,12 @@ title: Foundational Anxieties
 publication: Los Angeles Review of Books
 link: https://lareviewofbooks.org/article/foundational-anxieties-modern-mathematics-and-the-political-imagination/
 date: 2023-12-09
+permalink:
 ---
 
-[[2023]] / [[commonplace]] / 
+[[2023]] • [[commonplace]] • AUTHOR • PUBLICATION
+
+LINK
 
 "This essay is adapted from Massimo Mazzotti’s 2023 book *Reactionary Mathematics: A Genealogy of Purity*"
 

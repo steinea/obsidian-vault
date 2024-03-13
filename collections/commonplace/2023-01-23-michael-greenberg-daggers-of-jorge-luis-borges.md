@@ -6,9 +6,12 @@ title: The Daggers of Jorge Luis Borges
 publication: New York Review of Books
 link: https://www.nybooks.com/articles/2014/01/09/daggers-jorge-luis-borges/
 date: 2023-01-23
+permalink:
 ---
 
-[[2023]] / [[commonplace]] / 
+[[2023]] • [[commonplace]] • AUTHOR • PUBLICATION
+
+LINK
  
 "Throughout his life, Jorge Luis Borges was engaged in a dialogue with violence"
 

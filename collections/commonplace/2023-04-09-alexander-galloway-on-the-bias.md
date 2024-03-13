@@ -6,9 +6,12 @@ title: On the Bias
 publication: ASAP Journal
 link: https://asapjournal.com/graphic-formalism-on-the-bias-alexander-r-galloway/
 date: 2023-04-09
+permalink:
 ---
 
-[[2023]] / [[commonplace]] / 
+[[2023]] • [[commonplace]] • AUTHOR • PUBLICATION
+
+LINK
  
 "What does it mean to think and act “on the bias”?"
 

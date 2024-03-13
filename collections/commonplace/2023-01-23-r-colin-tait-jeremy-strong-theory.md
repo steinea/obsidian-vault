@@ -6,9 +6,12 @@ title: Jeremy Strong Theory
 publication: Los Angeles Review of Books
 link: https://lareviewofbooks.org/article/jeremy-strong-theory-on-acting-and-talking-about-acting/
 date: 2023-01-23
+permalink:
 ---
 
-[[2023]] / [[commonplace]] / 
+[[2023]] • [[commonplace]] • AUTHOR • PUBLICATION
+
+LINK
  
 "Nobody knows anything about screen acting. And certainly, no one (save for a few experts) knows anything about method acting — though lots of people feel free to use the term as a derogatory insult. When any actor goes to a laughable extreme in preparation for a role, they’re going “method.”"
 

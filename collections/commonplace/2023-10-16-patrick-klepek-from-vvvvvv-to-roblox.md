@@ -6,9 +6,12 @@ title: From VVVVVV to Roblox
 publication: Waypoint
 link: https://www.vice.com/en/article/z3xn95/how-the-designer-of-vvvvvv-and-dicey-dungeons-fell-in-love-with-roblox
 date: 2023-10-16
+permalink:
 ---
 
-[[2023]] / [[commonplace]] / 
+[[2023]] • [[commonplace]] • AUTHOR • PUBLICATION
+
+LINK
 
 "The first time you boot up *Roblox* is perplexing. There's not much guidance, beyond being told what's popular with other people who are playing *Roblox*. You're kinda on your own"
 

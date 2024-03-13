@@ -6,9 +6,12 @@ title: Web Fingerprinting
 publication: Bitestring
 link: https://www.bitestring.com/posts/2023-03-19-web-fingerprinting-is-worse-than-I-thought.html
 date: 2023-10-09
+permalink:
 ---
 
-[[2023]] / [[commonplace]] / 
+[[2023]] • [[commonplace]] • AUTHOR • PUBLICATION
+
+LINK
 
 "you might set your web browser to automatically clear cookies or use add-ons to do that.
 

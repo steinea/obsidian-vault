@@ -6,7 +6,12 @@ title: Science Fiction as Mode of Action
 publication: Los Angeles Review of Books
 link: https://lareviewofbooks.org/article/science-fiction-as-mode-of-action-on-mit-presss-uneven-futures/
 date: 2023-10-16
+permalink:
 ---
+
+[[2023]] • [[commonplace]] • AUTHOR • PUBLICATION
+
+LINK
 
 "*UNEVEN FUTURES: Strategies for Community Survival from Speculative Fiction* (2022), a large-scale communal project of a book, is a fascinating snapshot of what the science fiction community has become in the 2020s"
 

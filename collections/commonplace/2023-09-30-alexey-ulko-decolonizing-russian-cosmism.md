@@ -6,9 +6,12 @@ title: Decolonizing Russian Cosmism
 publication: Cosmic Bulletin
 link: https://cosmos.art/cosmic-bulletin/2022/decolonizing-russian-cosmism
 date: 2023-09-30
+permalink:
 ---
 
-[[2023]] / [[commonplace]] / 
+[[2023]] • [[commonplace]] • AUTHOR • PUBLICATION
+
+LINK
 
 "As a term, ‘Russian cosmism’ exemplifies one of the key paradoxes of the Russian culture: it ‘wants’ to denote something globally significant and at the same time to retain its national and colonial character"
 

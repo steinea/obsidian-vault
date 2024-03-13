@@ -6,9 +6,12 @@ title: Life Lessons in Games
 publication: Quanta Magazine
 link: https://www.quantamagazine.org/the-computer-scientist-who-finds-life-lessons-in-board-games-20230125/
 date: 2023-06-03
+permalink:
 ---
 
-[[2023]] / [[commonplace]] / 
+[[2023]] • [[commonplace]] • AUTHOR • PUBLICATION
+
+LINK
  
 "Though theoretical, the work had practical applications — and often, he found, practical applications led to new theoretical insights"
 

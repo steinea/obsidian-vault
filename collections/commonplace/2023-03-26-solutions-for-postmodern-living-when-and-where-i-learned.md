@@ -6,9 +6,12 @@ title: When and Where I Learned
 publication: Twitter
 link: https://mobile.twitter.com/postmodernlivin/status/1640071222263451648
 date: 2023-03-26
+permalink:
 ---
 
-[[2023]] / [[commonplace]] / 
+[[2023]] • [[commonplace]] • AUTHOR • PUBLICATION
+
+LINK
  
 "While it would be marvelous if something I wrote inspired & transformed others, I always settle for having that which I have written, be it poem or prose, being a maker or marker the emergence or development of an idea that has transformed me."
 

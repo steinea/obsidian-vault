@@ -6,9 +6,12 @@ title: Waste Eater
 publication: No Escape
 link: https://noescapevg.com/year-of-games-3-waste-eater/
 date: 2023-03-11
+permalink:
 ---
 
-[[2023]] / [[commonplace]] / 
+[[2023]] • [[commonplace]] • AUTHOR • PUBLICATION
+
+LINK
  
 "In “[Who Has To Do It?](https://butchanarchy.medium.com/who-has-to-do-it-a-reflection-on-the-compulsion-to-coerce-83046549dad5)” anarchist writer [Lee Shevek](https://twitter.com/butchanarchy) asks her audience an important question: what if, in the most ideal anarchist society you can think of – all modes of domination and oppression eliminated – a task arises that absolutely nobody wants to do voluntarily? Would we force someone to do the task anyway? Or would we find a way to remodel society around the conditions that make the task necessary?"
 

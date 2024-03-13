@@ -6,9 +6,12 @@ title: Seamus Deane’s Challenge to Empire
 publication: Jacobin
 link: https://jacobin.com/2023/04/seamus-deane-writer-irish-nationalism-imperialism-cultural-criticism
 date: 2023-04-09
+permalink:
 ---
 
-[[2023]] / [[commonplace]] / 
+[[2023]] • [[commonplace]] • AUTHOR • PUBLICATION
+
+LINK
  
 "Writing can be a form of action. Few writers in recent decades have embodied this maxim better than the Irish critic Seamus Deane, who died two years ago in May 2021"
 

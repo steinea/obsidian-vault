@@ -6,9 +6,12 @@ title: Capitalism Makes Everyone Bend
 publication: Jacobin
 link: https://jacobin.com/2023/02/soren-mau-mute-compulsion-marx-capital-economic-power-domination
 date: 2023-06-12
+permalink:
 ---
 
-[[2023]] / [[commonplace]] / 
+[[2023]] • [[commonplace]] • AUTHOR • PUBLICATION
+
+LINK
  
 "Even amid the current outpouring of scholarship on Marx, leftist philosopher Søren Mau’s [*Mute Compulsion: A Marxist Theory of the Economic Power of Capital*](https://www.versobooks.com/books/4107-mute-compulsion) stands as a significant contribution"
 

@@ -6,9 +6,12 @@ title: The English Peasants’ Revolt
 publication: Jacobin
 link: https://jacobin.com/2023/04/english-rising-1381-peasants-townspeople-london-class/
 date: 2023-10-16
+permalink:
 ---
 
-[[2023]] / [[commonplace]] / 
+[[2023]] • [[commonplace]] • AUTHOR • PUBLICATION
+
+LINK
 
 "The English Rising of 1381 saw peasants and townspeople rebel against the poll tax imposed to pay for the king’s wars in France"
 

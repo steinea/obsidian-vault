@@ -6,9 +6,12 @@ title: Progression Fantasy
 publication: Bluesky
 link: https://bsky.app/profile/merrittk.com/post/3kgz6quptus2n
 date: 2023-12-20
+permalink:
 ---
 
-[[2023]] / [[commonplace]] / 
+[[2023]] • [[commonplace]] • AUTHOR • PUBLICATION
+
+LINK
 
 merrit k: "Video games have cooked your brains"
 

@@ -6,9 +6,12 @@ title: Bleeding Green and Yellow
 publication: Clarissa Fragoso Pinheiro
 link: https://lareviewofbooks.org/article/bleeding-green-and-yellow-on-football-in-brazil/
 date: 2023-09-30
+permalink:
 ---
 
-[[2023]] / [[commonplace]] / 
+[[2023]] • [[commonplace]] • AUTHOR • PUBLICATION
+
+LINK
 
 "IN BRAZIL, it starts before you’re born. At the baby shower, your fanatical aunt gifts your mother football-themed onesies and bibs, as if being near the right colors, watching your mother wipe your vomit with them, could influence your development, making you choose the right side of the stadium in some future game"
 

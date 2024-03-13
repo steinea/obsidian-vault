@@ -6,9 +6,12 @@ title: The Logic of Number
 publication: Notre Dame Philosophical Reviews
 link: https://ndpr.nd.edu/reviews/the-logic-of-number/
 date: 2023-10-09
+permalink:
 ---
 
-[[2023]] / [[commonplace]] / 
+[[2023]] • [[commonplace]] • AUTHOR • PUBLICATION
+
+LINK
 
 "The present book proposes three abstraction principles, one for natural numbers, one for the rational numbers, and one for the real numbers"
 

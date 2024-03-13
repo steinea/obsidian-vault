@@ -6,9 +6,12 @@ title: The Rebirth of Cyan Worlds
 publication: Inverse
 link: https://www.inverse.com/gaming/myst-cyan-worlds-oral-history
 date: 2023-10-09
+permalink:
 ---
 
-[[2023]] / [[commonplace]] / 
+[[2023]] • [[commonplace]] • AUTHOR • PUBLICATION
+
+LINK
 
 "In the mid-’90s, more than 6 million cardboard boxes and jewel cases of *[Myst](https://www.inverse.com/gaming/best-puzzle-games-on-game-pass-2021-myst)* flew off shelves faster than retailers could restock them, and a tiny indie studio called Cyan, Inc. (now Cyan Worlds) became the first garage band to go multiplatinum in the punk-rock days of CD-ROM"
 

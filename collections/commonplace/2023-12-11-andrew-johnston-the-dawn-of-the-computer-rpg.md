@@ -6,9 +6,12 @@ title: The Dawn of the Computer RPG
 publication: Superjump Magazine
 link: https://www.superjumpmagazine.com/plato-computer-rpg/
 date: 2023-12-11
+permalink:
 ---
 
-[[2023]] / [[commonplace]] / 
+[[2023]] • [[commonplace]] • AUTHOR • PUBLICATION
+
+LINK
 
 "Starting around 1970, fans of wargames started experimenting with a new type of game in which players controlled individuals instead of directing armies. The most significant of these was the "Blackmoor campaign," a late medieval wargame run by Dave Wesley and Dave Arneson"
 

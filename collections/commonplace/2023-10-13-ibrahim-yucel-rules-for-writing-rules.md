@@ -6,7 +6,12 @@ title: Rules for Writing Rules
 publication: Analog Game Studies
 link: https://analoggamestudies.org/2014/10/the-rules-for-writing-rules-how-instructional-design-impacts-good-game-design/
 date: 2023-10-13
+permalink:
 ---
+
+[[2023]] • [[commonplace]] • AUTHOR • PUBLICATION
+
+LINK
 
 "Rules are the building blocks of all games, providing all the structure and boundaries to which players consent.[1](https://analoggamestudies.org/2014/10/the-rules-for-writing-rules-how-instructional-design-impacts-good-game-design/#note-1) Yet they can quickly become the most frustrating aspects of a game"
 

@@ -6,9 +6,12 @@ title: Stability in Chaos
 publication: Quanta Magazine
 link: https://www.quantamagazine.org/flow-proof-helps-mathematicians-find-stability-in-chaos-20230615/
 date: 2023-12-23
+permalink:
 ---
 
-[[2023]] / [[commonplace]] / 
+[[2023]] • [[commonplace]] • AUTHOR • PUBLICATION
+
+LINK
 
 "Although initially interested in pursuing a career in philosophy, she realized it wasn’t the right fit. For philosophers, “a productive discussion means testing your position against someone else’s,” she said. “Math is the opposite. You talk to someone, and you’re both on the same team from the get-go. If someone’s like, ‘That doesn’t work that way,’ you’re like, ‘Oh, tell me more.’ I found that mode of discourse much better.”"
 

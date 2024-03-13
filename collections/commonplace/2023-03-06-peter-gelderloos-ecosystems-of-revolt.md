@@ -6,9 +6,12 @@ title: Ecosystems of Revolt
 publication: Ill Will
 link: https://illwill.com/ecosystems-of-revolt
 date: 2023-03-06
+permalink:
 ---
 
-[[2023]] / [[commonplace]] / 
+[[2023]] • [[commonplace]] • AUTHOR • PUBLICATION
+
+LINK
  
 "*Part of our series* [*Worlds Apart*](https://illwill.com/series/worlds-apart)*, exploring cosmology, ecology, science fiction, and the many ends of capitalist society.*"
 

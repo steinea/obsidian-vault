@@ -6,9 +6,12 @@ title: Jaquaying for Fun and Profit
 publication: The Alexandrian
 link: https://thealexandrian.net/wordpress/13132/roleplaying-games/jaquaying-the-dungeon-part-5-jaquaying-for-fun-and-profit
 date: 2023-03-12
+permalink:
 ---
 
-[[2023]] / [[commonplace]] / 
+[[2023]] • [[commonplace]] • AUTHOR • PUBLICATION
+
+LINK
  
 "The particular revisions I’ve made simply struck me as either the most interesting or the most appropriate or both."
 

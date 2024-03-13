@@ -6,9 +6,12 @@ title: Jaquaying on the Small Scale
 publication: The Alexandrian
 link: https://thealexandrian.net/wordpress/34950/roleplaying-games/thought-of-the-day-jaquaying-on-the-small-scale
 date: 2023-03-12
+permalink:
 ---
 
-[[2023]] / [[commonplace]] / 
+[[2023]] • [[commonplace]] • AUTHOR • PUBLICATION
+
+LINK
  
 "Jaquaying isn’t a cure-all. But, in my experience, it does scale to almost any size and it’s almost always useful to at least *consider* jaquaying as a potential tool even if you ultimately decide against it"
 

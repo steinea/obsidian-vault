@@ -6,9 +6,12 @@ title: Good Bones
 publication: Poetry Foundation
 link: https://www.poetryfoundation.org/poems/89897/good-bones
 date: 2023-01-01
+permalink:
 ---
 
-[[2023]] / [[commonplace]] / 
+[[2023]] • [[commonplace]] • AUTHOR • PUBLICATION
+
+LINK
  
 Life is short, though I keep this from my children.
 <br>Life is short, and I’ve shortened mine

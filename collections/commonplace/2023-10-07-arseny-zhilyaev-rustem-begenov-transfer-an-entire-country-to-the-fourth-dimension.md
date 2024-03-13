@@ -6,9 +6,12 @@ title: Theory of the Fourth Dimension
 publication: Cosmic Bulletin
 link: https://cosmos.art/cosmic-bulletin/2022/how-do-you-transfer-an-entire-country-to-the-fourth-dimension-this-is-a-task
 date: 2023-10-07
+permalink:
 ---
 
-[[2023]] / [[commonplace]] / 
+[[2023]] • [[commonplace]] • AUTHOR • PUBLICATION
+
+LINK
 
 "the fact that Kalmykov received and continues to receive publicity—including via our New Genius project—is a mistake which can only be explained by the Theory of the Fourth Dimension"
 

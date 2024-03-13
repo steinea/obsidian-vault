@@ -6,9 +6,12 @@ title: The Archipelago Conversations
 publication: European Review of Books
 link: https://europeanreviewofbooks.com/hans-ulrich-obrist-interviews-edouard-glissant/en
 date: 2023-06-11
+permalink:
 ---
 
-[[2023]] / [[commonplace]] / 
+[[2023]] • [[commonplace]] • AUTHOR • PUBLICATION
+
+LINK
  
 "*Encountering the French Carribean philosopher and poet Édouard Glissant would forever mark the trajectory of the Swiss art historian and curator Hans Ulrich Obrist, who heads the Serpentine Galleries in London. Until Glissant’s death in 2011, Obrist interviewed him nine times. These interviews became part of Obrist’s colossal* Interview Project*, a living archive of around 4000 conversations and counting, and they were on display last year at Luma Arles in the south of France*"
 

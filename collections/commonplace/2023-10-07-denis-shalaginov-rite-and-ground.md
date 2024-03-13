@@ -6,9 +6,12 @@ title: Rite and Ground
 publication: Cosmic Bulletin
 link: https://cosmos.art/cosmic-bulletin/2022/rite-and-ground
 date: 2023-10-07
+permalink:
 ---
 
-[[2023]] / [[commonplace]] / 
+[[2023]] • [[commonplace]] • AUTHOR • PUBLICATION
+
+LINK
 
 "A discussion of Interinterсosmism brings forth two interrelated questions:"
 

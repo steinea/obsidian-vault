@@ -6,9 +6,12 @@ title: Alarm Bells
 publication: Literary Review of Canada
 link: https://reviewcanada.ca/magazine/2023/09/alarm-bells/
 date: 2023-10-07
+permalink:
 ---
 
-[[2023]] / [[commonplace]] / 
+[[2023]] • [[commonplace]] • AUTHOR • PUBLICATION
+
+LINK
 
 "The Fort McMurray disaster wasn't just the scene of the biggest urban fire in North America or the largest fire evacuation in North American history. It was also the perfect symbol of the catastrophe that humanity has created through the consumption of fossil fuels. Fort Mac is, after all, an instant city created by our appetite for oil. And not just any oil: the synthetic crude produced by refining tarry bitumen is the most carbon-intensive oil in the world, requiring the burning of mind-boggling amounts of natural gas to liberate it from deep below ground and then to separate usable hydrocarbons from sandy gunk."
 

@@ -6,9 +6,12 @@ title: Arkane's Hourglass Philosophy
 publication: Eurogamer
 link: https://www.eurogamer.net/the-hourglass-philosophy-behind-dishonored-and-deathloops-genre-leading-level-design
 date: 2023-06-11
+permalink:
 ---
 
-[[2023]] / [[commonplace]] / 
+[[2023]] • [[commonplace]] • AUTHOR • PUBLICATION
+
+LINK
  
 "it begins with, she says, something the studio has nicknamed "the white rabbit"."
 

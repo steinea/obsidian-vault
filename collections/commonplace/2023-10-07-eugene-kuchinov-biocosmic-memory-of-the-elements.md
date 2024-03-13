@@ -6,9 +6,12 @@ title: Biocosmic Memory of the Elements
 publication: Cosmic Bulletin
 link: https://cosmos.art/cosmic-bulletin/2022/in-biocosmic-memory-of-the-elements
 date: 2023-10-07
+permalink:
 ---
 
-[[2023]] / [[commonplace]] / 
+[[2023]] • [[commonplace]] • AUTHOR • PUBLICATION
+
+LINK
 
 "“Cosmism”—too often accepted as a framework within which, under the rubric of a “common task,” differences are effaced, neutralized, or, at best, reconciled—comprises at least two diametrically opposed lines: lines that circumscribe no common figure and mark out no common ground"
 

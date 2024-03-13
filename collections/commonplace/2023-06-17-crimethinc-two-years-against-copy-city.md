@@ -6,9 +6,12 @@ title: Two Years against Cop City
 publication: CrimethInc
 link: https://crimethinc.com/2023/02/28/balance-sheet-two-years-against-cop-city-evaluating-strategies-refining-tactics
 date: 2023-06-17
+permalink:
 ---
 
-[[2023]] / [[commonplace]] / 
+[[2023]] • [[commonplace]] • AUTHOR • PUBLICATION
+
+LINK
  
 "Starting in April 2021, a bold movement set out to defend Weelaunee Forest in Atlanta, Georgia, where local politicians and corporate profiteers want to build a police training compound known as Cop City"
 

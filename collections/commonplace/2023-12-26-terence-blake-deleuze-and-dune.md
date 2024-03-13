@@ -6,9 +6,12 @@ title: Deleuze and Dune
 publication: Agent Swarm
 link: https://terenceblake.wordpress.com/2023/07/08/deleuze-and-dune-in-praise-of-divergence/
 date: 2023-12-26
+permalink:
 ---
 
-[[2023]] / [[commonplace]] / 
+[[2023]] • [[commonplace]] • AUTHOR • PUBLICATION
+
+LINK
 
 "« Always diverge, never converge » (Bob Bogle FRANK HERBERT: THE WORKS)"
 

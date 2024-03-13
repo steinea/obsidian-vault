@@ -6,9 +6,12 @@ title: The Jaquays Techniques
 publication: The Alexandrian
 link: https://thealexandrian.net/wordpress/13103/roleplaying-games/jaquaying-the-dungeon-part-2-the-jaquays-techniques
 date: 2023-03-12
+permalink:
 ---
 
-[[2023]] / [[commonplace]] / 
+[[2023]] • [[commonplace]] • AUTHOR • PUBLICATION
+
+LINK
  
 "**MULTIPLE ENTRANCES**: Multiple entrances give the PCs an immediate strategic choice as they approach the dungeon complex"
 

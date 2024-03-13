@@ -6,9 +6,12 @@ title: A Template for Modern Oppression
 publication: Jacobin
 link: https://jacobin.com/2023/01/albigensian-crusade-marxist-history-feudal-power-catholic-church-capitalism-oppression/
 date: 2023-03-05
+permalink:
 ---
 
-[[2023]] / [[commonplace]] / 
+[[2023]] • [[commonplace]] • AUTHOR • PUBLICATION
+
+LINK
  
 "The French monarchy waged an infamous war of extermination against Christian heretics during the 13th century. The Albigensian crusade was a landmark in the development of an oppressive European social order with crucial legacies for the world today"
 

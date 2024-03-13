@@ -6,9 +6,12 @@ title: In Praise of Treason
 publication: The Brooklyn Rail
 link: https://brooklynrail.org/2023/03/field-notes/In-Praise-of-Treason
 date: 2023-09-30
+permalink:
 ---
 
-[[2023]] / [[commonplace]] / 
+[[2023]] • [[commonplace]] • AUTHOR • PUBLICATION
+
+LINK
 
 "Noel Ignatiev grew up in Philadelphia in the 1940s. He wrote in his memoir, *Acceptable Men*, that “from the time I was a youngster I knew I wanted to dedicate my life to revolution.”"
 

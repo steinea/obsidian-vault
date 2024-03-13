@@ -6,9 +6,12 @@ title: A Gargantuan Pulp Sphinx
 publication: Los Angeles Review of Books
 link: https://lareviewofbooks.org/article/article-a-gargantuan-pulp-sphinx-on-miquel-de-palols-the-garden-of-seven-twilights/
 date: 2023-10-16
+permalink:
 ---
 
-[[2023]] / [[commonplace]] / 
+[[2023]] • [[commonplace]] • AUTHOR • PUBLICATION
+
+LINK
 
 "THE RECENT publication of *The* *Garden of Seven Twilights* marks a real literary event: English-speaking audiences finally have the chance to experience one of contemporary Catalan literature’s most distinctive writers, Miquel de Palol"
 

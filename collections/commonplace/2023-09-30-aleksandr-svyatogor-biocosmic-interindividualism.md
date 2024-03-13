@@ -6,9 +6,12 @@ title: Biocosmic Interindividualism
 publication: Cosmic Bulletin
 link: https://cosmos.art/cosmic-bulletin/2022/biocosmic-interindividualism
 date: 2023-09-30
+permalink:
 ---
 
-[[2023]] / [[commonplace]] / 
+[[2023]] • [[commonplace]] • AUTHOR • PUBLICATION
+
+LINK
 
 "***Aleksandr Svyatogor*** *(Aleksandr Fedorovich Agiyenko, 1889–1937) was a poet and an anarchist who was directly involved in the revolutionary events of 1917*"
 

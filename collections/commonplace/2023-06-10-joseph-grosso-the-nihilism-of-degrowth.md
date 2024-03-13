@@ -6,9 +6,12 @@ title: The Nihilism of Degrowth
 publication: Sublation Magazine
 link: https://www.sublationmag.com/post/growing-small-the-nihilism-of-degrowth
 date: 2023-06-10
+permalink:
 ---
 
-[[2023]] / [[commonplace]] / 
+[[2023]] • [[commonplace]] • AUTHOR • PUBLICATION
+
+LINK
  
 "Longing for the days of pre-industrialization was always the realm of aristocracies, popes, and feudal lords, who saw their power slipping away with the rise of the bourgeoisie"
 

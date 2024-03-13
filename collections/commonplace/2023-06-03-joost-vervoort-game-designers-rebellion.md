@@ -6,9 +6,12 @@ title: Game Designers Rebellion
 publication: Anticiplay
 link: https://anticiplay.medium.com/game-designers-rebellion-learning-from-the-resonant-realities-of-climate-activism-e0ddae241285
 date: 2023-06-03
+permalink:
 ---
 
-[[2023]] / [[commonplace]] / 
+[[2023]] • [[commonplace]] • AUTHOR • PUBLICATION
+
+LINK
  
 "I was there for two reasons. The first was simply to support the blockade, for all the same reasons that everyone else was there. But the second one has to do with game design and with imaginative possibilities. For the last year, the [Anticiplay project team](https://anticiplay.medium.com/) has been keenly interested in building bridges between games and activism"
 

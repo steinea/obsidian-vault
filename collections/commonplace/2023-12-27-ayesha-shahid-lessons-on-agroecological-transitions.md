@@ -6,9 +6,12 @@ title: Lessons on Agroecological Transitions
 publication: Platypus
 link: https://blog.castac.org/2023/07/ways-of-knowing-lessons-on-agroecological-transitions-from-a-pothwari-farm/
 date: 2023-12-27
+permalink:
 ---
 
-[[2023]] / [[commonplace]] / 
+[[2023]] • [[commonplace]] • AUTHOR • PUBLICATION
+
+LINK
 
 "I was motivated to understand what it would take to help us transition towards practices closer to agroecology"
 

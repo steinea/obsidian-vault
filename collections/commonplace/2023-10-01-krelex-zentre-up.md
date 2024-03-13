@@ -6,9 +6,12 @@ title: Up!
 publication: Cosmic Bulletin
 link: https://cosmos.art/cosmic-bulletin/2022/up
 date: 2023-10-01
+permalink:
 ---
 
-[[2023]] / [[commonplace]] / 
+[[2023]] • [[commonplace]] • AUTHOR • PUBLICATION
+
+LINK
 
 "This short play is an attempt to respond to the Cosmic Bulletin’s open call and to answer the questions posed in it"
 

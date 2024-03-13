@@ -6,9 +6,12 @@ title: If These Streets Could Talk
 publication: Literary Review of Canada
 link: https://reviewcanada.ca/magazine/2023/09/if-these-streets-could-talk/
 date: 2023-10-07
+permalink:
 ---
 
-[[2023]] / [[commonplace]] / 
+[[2023]] • [[commonplace]] • AUTHOR • PUBLICATION
+
+LINK
 
 "ONE WARM SATURDAY NIGHT IN O September 1907, Vancouver witnessed a riot. A crowd that had gathered for the founding meeting of the Asiatic Exclusion League headed to Chinatown, where hooligans systematically smashed the windows of businesses. The growing mob proceeded to Powell Street, the centre of the city's Japanese community, where forewarned residents beat them off. The rioters returned on Sunday and were again repelled. On Monday, the Chinese bought revolvers from gun shops and launched a general labour strike. Embarrassed federal authorities soon ordered the compensation of property owners but subsequently made the whiteness of Pacific Canada central to public policy by escalating restrictions on Asian immigration. Not until the turn of the twentyfirst century did the proportion of Chinese British Columbians come back up to its level at the turn of the twentieth."
 

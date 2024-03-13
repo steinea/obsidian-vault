@@ -6,9 +6,12 @@ title: The Time of Trees
 publication: Territories
 link: https://territories.substack.com/p/the-time-of-trees
 date: 2023-02-02
+permalink:
 ---
 
-[[2023]] / [[commonplace]] / 
+[[2023]] • [[commonplace]] • AUTHOR • PUBLICATION
+
+LINK
  
 "Since 2019 we have been propagating and distributing thousands of nut trees for free around the southern edges of the Salish Sea"
 

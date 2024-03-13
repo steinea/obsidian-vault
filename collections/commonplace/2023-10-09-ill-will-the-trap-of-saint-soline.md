@@ -6,9 +6,12 @@ title: The Trap of Sainte-Soline
 publication: Ill Will
 link: https://illwill.com/sainte-soline
 date: 2023-10-09
+permalink:
 ---
 
-[[2023]] / [[commonplace]] / 
+[[2023]] • [[commonplace]] • AUTHOR • PUBLICATION
+
+LINK
 
 "On March 25th, 2023, [30,000](https://twitter.com/illwilleditions/status/1639663350333296640) people descended on Sainte-Soline, France to participate in a mass sabotage action against an industrial reservoir (“mega basin”) funneling rainwater into corporate mega basins"
 

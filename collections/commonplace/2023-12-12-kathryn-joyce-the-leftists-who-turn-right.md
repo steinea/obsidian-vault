@@ -6,9 +6,12 @@ title: The Leftists Who Turn Right
 publication: In These Times
 link: https://inthesetimes.com/article/former-left-right-fascism-capitalism-horseshoe-theory
 date: 2023-12-12
+permalink:
 ---
 
-[[2023]] / [[commonplace]] / 
+[[2023]] • [[commonplace]] • AUTHOR • PUBLICATION
+
+LINK
 
 "Except ​“horseshoe theory,” which imagines a political spectrum bending to meet at its extremes, doesn’t describe this drift. It goes in one direction."
 

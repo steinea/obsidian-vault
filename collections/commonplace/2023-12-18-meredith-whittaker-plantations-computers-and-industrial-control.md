@@ -6,9 +6,12 @@ title: Plantations, Computers, Control
 publication: Logic(s) Magazine
 link: https://logicmag.io/supa-dupa-skies/origin-stories-plantations-computers-and-industrial-control/
 date: 2023-12-18
+permalink:
 ---
 
-[[2023]] / [[commonplace]] / 
+[[2023]] • [[commonplace]] • AUTHOR • PUBLICATION
+
+LINK
 
 "The blueprint for modern digital computing was codesigned by Charles Babbage, a vocal champion for the concerns of the emerging industrial capitalist class who condemned organized workers and viewed democracy and capitalism as incompatible"
 

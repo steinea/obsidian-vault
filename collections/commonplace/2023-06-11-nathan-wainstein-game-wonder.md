@@ -6,9 +6,12 @@ title: Game Wonder
 publication: Los Angeles Review of Books
 link: https://dev.lareviewofbooks.org/article/game-wonder-on-fromsoftwares-bloodborne-and-h-p-lovecrafts-the-haunter-of-the-dark/
 date: 2023-06-11
+permalink:
 ---
 
-[[2023]] / [[commonplace]] / 
+[[2023]] • [[commonplace]] • AUTHOR • PUBLICATION
+
+LINK
  
 "“The jewel in the crown of what videogames offer,” Poole writes in *Trigger Happy: Videogames and the Entertainment Revolution* (2000), “is the aesthetic emotion of wonder,” and he suggests that this emotion stems largely from the gaming medium’s ability to represent space, and more specifically, architecture"
 

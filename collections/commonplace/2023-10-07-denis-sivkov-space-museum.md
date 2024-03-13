@@ -6,9 +6,12 @@ title: Space Museum
 publication: Cosmic Bulletin
 link: https://cosmos.art/cosmic-bulletin/2022/pyotr-druzhinin-s-space-museum
 date: 2023-10-07
+permalink:
 ---
 
-[[2023]] / [[commonplace]] / 
+[[2023]] • [[commonplace]] • AUTHOR • PUBLICATION
+
+LINK
 
 "When I first came across Fedorov’s book *The Question of Brotherhood*, it struck me first and foremost as a techno-utopia"
 

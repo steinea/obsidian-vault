@@ -6,10 +6,12 @@ title: The Cop-Free Zone
 publication: CrimethInc
 link: https://crimethinc.com/2020/07/02/the-cop-free-zone-reflections-from-experiments-in-autonomy-around-the-us
 date: 2023-10-13
+permalink:
 ---
 
-[[2023]] / [[commonplace]] / 
+[[2023]] • [[commonplace]] • AUTHOR • PUBLICATION
 
+LINK
 "The cop-free zone is not the particular block or traffic circle or park. It is the shared commitment to defending a space and eliminating the dynamics of policing and white supremacy"
 
 "even the most temporary autonomous zone can enable people to rethink their assumptions about policing"

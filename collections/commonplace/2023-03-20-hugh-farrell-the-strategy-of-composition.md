@@ -6,9 +6,12 @@ title: The Strategy of Composition
 publication: Ill Will
 link: https://illwill.com/composition
 date: 2023-03-20
+permalink:
 ---
 
-[[2023]] / [[commonplace]] / 
+[[2023]] • [[commonplace]] • AUTHOR • PUBLICATION
+
+LINK
  
 "From [Standing Rock](https://illwill.com/print/dispatches-from-standing-rock) to [Lützerath](https://twitter.com/illwilleditions/status/1613185740149592064), the struggle to defend the Earth continuously crosses over into the construction of the commune"
 

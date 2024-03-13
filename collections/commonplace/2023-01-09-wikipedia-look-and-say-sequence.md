@@ -6,9 +6,12 @@ title: Look-and-Say Sequence
 publication: Wikipedia
 link: https://en.m.wikipedia.org/wiki/Look-and-say_sequence
 date: 2023-01-09
+permalink:
 ---
 
-[[2023]] / [[commonplace]] / 
+[[2023]] • [[commonplace]] • AUTHOR • PUBLICATION
+
+LINK
  
 "In [mathematics](https://en.wikipedia.org/wiki/Mathematics), the **look-and-say sequence** is the [sequence of integers](https://en.wikipedia.org/wiki/Integer_sequence) beginning as follows:
 

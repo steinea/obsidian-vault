@@ -6,9 +6,12 @@ title: Latour’s Metamorphosis
 publication: New Left Review
 link: https://newleftreview.org/sidecar/posts/latours-metamorphosis?pc=1492
 date: 2023-03-20
+permalink:
 ---
 
-[[2023]] / [[commonplace]] / 
+[[2023]] • [[commonplace]] • AUTHOR • PUBLICATION
+
+LINK
  
 "In the aughts, Latour had been a ubiquitous reference point for Anglophone social and cultural theory, standing alongside Judith Butler and Michel Foucault on the list of most cited academics in fields ranging from geography to art history"
 

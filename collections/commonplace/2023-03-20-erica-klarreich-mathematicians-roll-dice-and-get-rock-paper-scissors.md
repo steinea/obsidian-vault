@@ -6,9 +6,12 @@ title: Mathematicians Roll Dice
 publication: Quanta Magazine
 link: https://www.quantamagazine.org/mathematicians-roll-dice-and-get-rock-paper-scissors-20230119/
 date: 2023-03-20
+permalink:
 ---
 
-[[2023]] / [[commonplace]] / 
+[[2023]] • [[commonplace]] • AUTHOR • PUBLICATION
+
+LINK
  
 "As Bill Gates tells the story, Warren Buffett once challenged him to a game of dice"
 

@@ -6,9 +6,12 @@ title: Living Communism
 publication: Anarchist Studies
 link: https://anarchiststudies.org/living-communism-spencer-beswick/
 date: 2023-02-02
+permalink:
 ---
 
-[[2023]] / [[commonplace]] / 
+[[2023]] • [[commonplace]] • AUTHOR • PUBLICATION
+
+LINK
  
 "May Day, 1987: thousands of black-clad Autonomen (“those who are autonomous”) riot in West Berlin. After a decade spent honing their street-fighting tactics, they stage an offensive against state repression by blocking streets, occupying buildings, and fighting a low-intensity urban war against the police. The Autonomen expand their liberated zone throughout much of the neighborhood of Kreuzberg that is their base. After a night of rebellious jubilation, they return to their squatted houses and social centers to nurse their wounds, curse the police, and celebrate a temporary victory. Although the German media depict the Autonomen as little more than violent mobs whose only motivation is destruction, the radicals have simultaneously constructed an extensive network of squatted alternative infrastructure across West Berlin and throughout West Germany"
 

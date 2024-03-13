@@ -6,9 +6,12 @@ title: Satellite Signals for the Atlanta Forest
 publication: Ill Will
 link: https://illwill.com/satellite-signals
 date: 2023-10-09
+permalink:
 ---
 
-[[2023]] / [[commonplace]] / 
+[[2023]] • [[commonplace]] • AUTHOR • PUBLICATION
+
+LINK
 
 "“A land [*terre*] has no limits. That is the reason it is worth defending against every form of alienation.” —Édouard Glissant"
 

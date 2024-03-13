@@ -6,9 +6,12 @@ title: Dril Is Everyone
 publication: The Ringer
 link: https://www.theringer.com/tech/2023/4/12/23673003/dril-twitter-interview-profile-identity
 date: 2023-10-13
+permalink:
 ---
 
-[[2023]] / [[commonplace]] / 
+[[2023]] • [[commonplace]] • AUTHOR • PUBLICATION
+
+LINK
 
 "Dril is a real person, or so I had been told"
 

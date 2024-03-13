@@ -6,9 +6,12 @@ title: The Impossible Reversal
 publication: Analog Game Studies
 link: https://analoggamestudies.org/2017/07/the-impossible-reversal-george-brechts-playfulness-in-deck-a-fluxgame/
 date: 2023-06-03
+permalink:
 ---
 
-[[2023]] / [[commonplace]] / 
+[[2023]] • [[commonplace]] • AUTHOR • PUBLICATION
+
+LINK
  
 "George Brecht’s *Deck: A Fluxgame* (1964) is a singular object, one that hovers between toy, game, and puzzle. It consists of playing cards printed with black-and-white images, collaged from encyclopedia drawings, diagrams, and photos"
 

@@ -6,9 +6,12 @@ title: Breadpunk Manifesto
 publication: breadpunk.club
 link: https://breadpunk.club/docs/manifesto/
 date: 2023-01-23
+permalink:
 ---
 
-[[2023]] / [[commonplace]] / 
+[[2023]] • [[commonplace]] • AUTHOR • PUBLICATION
+
+LINK
  
 "The alphabet, they say, was invented only once. Bread is invented every time, anew. It's life itself. And life is not for sale"
 

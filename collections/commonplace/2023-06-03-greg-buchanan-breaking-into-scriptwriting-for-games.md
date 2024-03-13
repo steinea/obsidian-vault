@@ -6,9 +6,12 @@ title: Breaking Into Scriptwriting for Games
 publication: Greg Buchanan
 link: https://www.gregbuchanan.co.uk/breaking-in/games
 date: 2023-06-03
+permalink:
 ---
 
-[[2023]] / [[commonplace]] / 
+[[2023]] • [[commonplace]] • AUTHOR • PUBLICATION
+
+LINK
  
 "BREAKING INTO SCRIPTWRITING FOR GAMES"
 

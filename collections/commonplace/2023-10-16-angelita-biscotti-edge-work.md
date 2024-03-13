@@ -6,9 +6,12 @@ title: Edge-Work
 publication: Sydney Review of Books
 link: https://sydneyreviewofbooks.com/review/li-argosy-theory-colours/
 date: 2023-10-16
+permalink:
 ---
 
-[[2023]] / [[commonplace]] / 
+[[2023]] • [[commonplace]] • AUTHOR • PUBLICATION
+
+LINK
 
 "The copyright permission notes might be the most interesting section of Bella Li’s *Argosy* (2018) and *Theory of Colours* (2021)"
 

@@ -6,9 +6,12 @@ title: Academia Has Ruined Literary Criticism
 publication: The New Yorker
 link: https://www.newyorker.com/magazine/2023/01/23/has-academia-ruined-literary-criticism-professing-criticism-john-guillory
 date: 2023-06-03
+permalink:
 ---
 
-[[2023]] / [[commonplace]] / 
+[[2023]] • [[commonplace]] • AUTHOR • PUBLICATION
+
+LINK
  
 "John Guillory’s new book, “Professing Criticism” (Chicago), an erudite and occasionally biting series of essays on “the organization of literary study.”"
 

@@ -6,9 +6,12 @@ title: To Salvage Utopian Love
 publication: Los Angeles Review of Books
 link: https://dev.lareviewofbooks.org/article/a-revolutionary-hate-to-salvage-utopian-love-on-china-mievilles-a-spectre-haunting/
 date: 2023-06-12
+permalink:
 ---
 
-[[2023]] / [[commonplace]] / 
+[[2023]] • [[commonplace]] • AUTHOR • PUBLICATION
+
+LINK
  
 "Miéville’s recasting of the opening words of the *Manifesto* for his title is particularly telling in that “a spectre, haunting” offers a continual, omnipresent, global apparition. If we normally think of ghosts as rooted to a particular time and place, then this specter is as rootless and shifting as capital itself"
 

@@ -6,9 +6,12 @@ title: All Architectures I Am
 publication: Los Angeles Review of Books
 link: https://lareviewofbooks.org/article/all-architectures-i-am-the-unintended-legacy-of-charles-olsons-projective-verse/
 date: 2023-01-01
+permalink:
 ---
 
-[[2023]] / [[commonplace]] / 
+[[2023]] • [[commonplace]] • AUTHOR • PUBLICATION
+
+LINK
  
 "What does one mean by 20th-century American poetry? Where does one start? Robert Frost’s rugged philosophizing or Wallace Stevens’s imaginative dreamscapes? And what binds Claude McKay’s socialist realist sonnets to the L=A=N=G=U=A=G=E poets’ scientistic abstractions? Can we really expect to sort through so many different voices from so many different backgrounds?"
 

@@ -6,9 +6,12 @@ title: Playthings Are Profound
 publication: The Millions
 link: https://themillions.com/2023/07/for-kate-zambreno-playthings-are-profound.html
 date: 2023-12-27
+permalink:
 ---
 
-[[2023]] / [[commonplace]] / 
+[[2023]] • [[commonplace]] • AUTHOR • PUBLICATION
+
+LINK
 
 "In her memoir *[The Light Room](http://www.amazon.com/exec/obidos/ASIN/059342106X/ref=nosim/themillpw-20)*, **Kate Zambreno** argues that the domestic drudgeries and caregiving that for centuries seemed to get in the way of sustained thinking, reading, research, and writing were, all along, their own formidable forms of art"
 

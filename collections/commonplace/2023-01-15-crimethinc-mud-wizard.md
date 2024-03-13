@@ -6,9 +6,12 @@ title: Mud Wizard
 publication: Mastodon
 link: https://todon.eu/@CrimethInc/109696870165138298
 date: 2023-01-15
+permalink:
 ---
 
-[[2023]] / [[commonplace]] / 
+[[2023]] • [[commonplace]] • AUTHOR • PUBLICATION
+
+LINK
  
 "By now, many of you have seen the footage of the monk (or mud wizard) facing off with hapless riot police during the defense of #Lutzerath this past weekend."
 

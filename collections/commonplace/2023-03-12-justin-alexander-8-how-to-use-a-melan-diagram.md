@@ -6,9 +6,12 @@ title: How to Use a Melan Diagram
 publication: The Alexandrian
 link: https://thealexandrian.net/wordpress/45711/roleplaying-games/jaquaying-the-dungeon-addendum-how-to-use-a-melan-diagram
 date: 2023-03-12
+permalink:
 ---
 
-[[2023]] / [[commonplace]] / 
+[[2023]] • [[commonplace]] • AUTHOR • PUBLICATION
+
+LINK
  
 "I briefly used what I dubbed Melan diagrams — a technique created in 2006 by Melan for [a thread on ENWorld](https://web.archive.org/web/20150926064945/http:/www.enworld.org/forum/showthread.php?168563-Dungeon-layout-map-flow-and-old-school-game-design) where he discussed “map flow and old school game design.”"
 

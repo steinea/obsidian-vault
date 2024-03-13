@@ -6,9 +6,12 @@ title: The Lore of the Rings
 publication: New York Review of Books
 link: https://www.nybooks.com/online/2023/01/24/the-lore-of-the-rings/
 date: 2023-04-03
+permalink:
 ---
 
-[[2023]] / [[commonplace]] / 
+[[2023]] • [[commonplace]] • AUTHOR • PUBLICATION
+
+LINK
  
 "One September day in 1914, a young J.R.R. Tolkien, in his final undergraduate year at Oxford, came across an Old English advent poem called “Christ A.” Part of it reads, “Éalá Éarendel engla beorhtast/ofer middangeard monnum sended,” which he later rendered: “Hail Éarendel, brightest of angels/above the middle-earth sent unto men!”"
 

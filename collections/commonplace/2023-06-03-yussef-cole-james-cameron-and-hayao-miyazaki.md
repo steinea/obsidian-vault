@@ -6,9 +6,12 @@ title: Beautiful Cursed Dreams
 publication: Polygon
 link: https://www.polygon.com/23574291/james-cameron-avatar-war-nature-hayao-miyazaki
 date: 2023-06-03
+permalink:
 ---
 
-[[2023]] / [[commonplace]] / 
+[[2023]] • [[commonplace]] • AUTHOR • PUBLICATION
+
+LINK
  
 "A paradoxical fixation on nature and war binds two living legends"
 

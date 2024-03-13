@@ -6,9 +6,12 @@ title: Trick of the Light
 publication: Los Angeles Review of Books
 link: https://lareviewofbooks.org/article/trick-of-the-light-on-martin-mcdonaghs-the-banshees-of-inisherin/
 date: 2023-10-09
+permalink:
 ---
 
-[[2023]] / [[commonplace]] / 
+[[2023]] • [[commonplace]] • AUTHOR • PUBLICATION
+
+LINK
 
 "A rainbow slides over a harbor as Pádraic Súilleabháin, presumably our hero, walks into frame. He is good-looking and clean. Do we think he is a nice man? We do: he looks like Colin Farrell. He raises his million-dollar eyebrows. He waves to someone. He’s wearing dark woolens with just a splash of pink"
 

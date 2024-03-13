@@ -6,9 +6,12 @@ title: Athletic Feats of Narrative
 publication: Unwinnable
 link: https://unwinnable.com/2023/01/31/athletic-feats-of-narrative/
 date: 2023-06-03
+permalink:
 ---
 
-[[2023]] / [[commonplace]] / 
+[[2023]] • [[commonplace]] • AUTHOR • PUBLICATION
+
+LINK
  
 "Sports aren’t art, by which I mean they’re not intentionally constructed by a person or a group of people in order to convey an idea. They *are* a story, however, in the sense of history more than narrative: meaning is constructed in layers, first through experience and then through reflection, trying to make sense of the things we’ve seen. It’s that first element – experiencing a story as it happens, one where an ending hasn’t been decided – that gives sports their fun and their nerve. Witnessing something extraordinary is always a thrill, and sport is where we go for that, democratically, to sit in stands or in bars or on couches across the world and watch together"
 

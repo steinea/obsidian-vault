@@ -6,9 +6,12 @@ title: Schematics
 publication: The Marginalian
 link: https://www.themarginalian.org/2012/01/27/schematics-julian-hibbard/
 date: 2023-12-11
+permalink:
 ---
 
-[[2023]] / [[commonplace]] / 
+[[2023]] • [[commonplace]] • AUTHOR • PUBLICATION
+
+LINK
 
 "a truly unique, in the most uncontrived sense of the word, project exploring love, memory, and time through 43 schematic diagrams drawn from old books and paired with poetic text that gleans new meaning from the geometric forms"
 

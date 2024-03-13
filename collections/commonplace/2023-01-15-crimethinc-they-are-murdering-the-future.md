@@ -6,9 +6,12 @@ title: They Are Murdering the Future
 publication: Mastodon
 link: https://todon.eu/@CrimethInc/109695572786319665
 date: 2023-01-15
+permalink:
 ---
 
-[[2023]] / [[commonplace]] / 
+[[2023]] • [[commonplace]] • AUTHOR • PUBLICATION
+
+LINK
  
 "As climate change approaches the point of no return, remember—after September 11, 2001, the FBI declared that environmental activists were enemy #1.
 

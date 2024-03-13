@@ -6,9 +6,12 @@ title: Barrowmaze
 publication: Ten Foot Pole
 link: https://tenfootpole.org/ironspike/?p=977
 date: 2023-06-04
+permalink:
 ---
 
-[[2023]] / [[commonplace]] / 
+[[2023]] • [[commonplace]] • AUTHOR • PUBLICATION
+
+LINK
  
 "Barrowmaze is the real deal. It delivers. Its not weird. It’s not gonzo. It doesn’t deliver that idiosyncratic OD&D feel. It does feel real; it’s pretty internally consistent. And it’s a GREAT environment to explore with your buddies on a friday night. Err … lots of friday nights … this dungeon is HUGE. This is worth having, and I don’t say that about many products"
 

@@ -6,9 +6,12 @@ title: Fiber Ages
 publication: Mastodon
 link: https://wandering.shop/@sigridellis/109919702777797801
 date: 2023-02-24
+permalink:
 ---
 
-[[2023]] / [[commonplace]] / 
+[[2023]] • [[commonplace]] • AUTHOR • PUBLICATION
+
+LINK
  
 "I am reading [*The Golden Thread: How Fabric Changed History*](https://books.google.ca/books/about/The_Golden_Thread_How_Fabric_Changed_His.html?id=VweLDwAAQBAJ), by Kassia St. Clair. I'm on page 21. I am already incensed at the perception of history I was taught for 35 years of my life.
 

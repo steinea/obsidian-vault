@@ -6,9 +6,12 @@ title: Ukrainian Cyborg Feminism
 publication: Cosmic Bulletin
 link: https://cosmos.art/cosmic-bulletin/2022/the-mixture-of-nationalist-and-feminist-discourses-in-the-ukrainian-ssr-or-the-question-of-cyborg-nationalism
 date: 2023-09-30
+permalink:
 ---
 
-[[2023]] / [[commonplace]] / 
+[[2023]] • [[commonplace]] • AUTHOR • PUBLICATION
+
+LINK
 
 "According to Michael Freeden’s morphological analysis of ideologies, the peculiarity of nationalism is that its narrow semantic and political agenda (as compared with ideologies involving a broader agenda, such as liberalism, conservatism, and socialism) renders it incapable of maintaining itself as a long-term project independently of other ideologies"
 

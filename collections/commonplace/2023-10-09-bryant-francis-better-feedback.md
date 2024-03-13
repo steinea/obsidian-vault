@@ -6,9 +6,12 @@ title: Better Feedback
 publication: Game Developer
 link: https://www.gamedeveloper.com/gdc2023/how-to-give-better-feedback-in-game-writing-and-beyond-
 date: 2023-10-09
+permalink:
 ---
 
-[[2023]] / [[commonplace]] / 
+[[2023]] • [[commonplace]] • AUTHOR • PUBLICATION
+
+LINK
 
 "Moberly and Correia jumped into their explainer with a crash course in why "bad feedback" can be harmful to a team"
 

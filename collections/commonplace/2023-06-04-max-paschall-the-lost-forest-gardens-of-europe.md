@@ -6,9 +6,12 @@ title: The Lost Forest Gardens of Europe
 publication: Resilience
 link: https://www.resilience.org/stories/2020-10-08/the-lost-forest-gardens-of-europe/
 date: 2023-06-04
+permalink:
 ---
 
-[[2023]] / [[commonplace]] / 
+[[2023]] • [[commonplace]] • AUTHOR • PUBLICATION
+
+LINK
  
 "In the hills above the Po river in northern Italy, there are a handful of farms that look almost the same today as they would have three thousand years ago"
 

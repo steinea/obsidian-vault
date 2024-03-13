@@ -6,9 +6,12 @@ title: Pasta Inflation
 publication: Jacobin
 link: https://jacobin.com/2023/06/providence-macaroni-riots-inflation-profiteering-moral-economy-protest/
 date: 2023-12-11
+permalink:
 ---
 
-[[2023]] / [[commonplace]] / 
+[[2023]] • [[commonplace]] • AUTHOR • PUBLICATION
+
+LINK
 
 "Can ordinary people fight price gouging?"
 

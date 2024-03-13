@@ -6,9 +6,12 @@ title: Toward a Poststructural Social Ecology
 publication: Anarchist Library
 link: https://theanarchistlibrary.org/library/reimagining-toward-a-poststructural-social-ecology?v=1673502214
 date: 2023-06-03
+permalink:
 ---
 
-[[2023]] / [[commonplace]] / 
+[[2023]] • [[commonplace]] • AUTHOR • PUBLICATION
+
+LINK
  
 "Developed by Murray Bookchin, Social Ecology emphasizes the importance of understanding how social and ecological issues arise from domination and how they are perpetuated through the hierarchical, centralized organization of society"
 

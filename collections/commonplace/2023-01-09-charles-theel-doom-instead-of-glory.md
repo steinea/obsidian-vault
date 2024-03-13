@@ -6,9 +6,12 @@ title: Doom Instead of Glory
 publication: Polygon
 link: https://www.polygon.com/reviews/23416587/trophy-dark-review-rpg
 date: 2023-01-09
+permalink:
 ---
 
-[[2023]] / [[commonplace]] / 
+[[2023]] • [[commonplace]] • AUTHOR • PUBLICATION
+
+LINK
  
 "*Trophy Dark* impeccably spins tales that structurally and tonally align with films like [*Annihilation*](http://polygon.com/2018/2/21/17036936/annihilation-movie-review-2018-natalie-portman-alex-garland), *Apocalypse Now*, and *A Field in England*"
 

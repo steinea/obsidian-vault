@@ -6,9 +6,12 @@ title: The Philosophy of Jaquaying
 publication: The Alexandrian
 link: https://thealexandrian.net/wordpress/13113/roleplaying-games/jaquaying-the-dungeon-part-3-the-philosophy-of-jaquaying
 date: 2023-03-12
+permalink:
 ---
 
-[[2023]] / [[commonplace]] / 
+[[2023]] • [[commonplace]] • AUTHOR • PUBLICATION
+
+LINK
  
 "There is a temptation to think of the complexity arising from the Jaquays Techniques as being inherently chaotic – a “funhouse dungeon” that doesn’t make any logical sense. But while that certainly can be true, the reality is that these techniques actually result in more realistic designs."
 

@@ -6,9 +6,12 @@ title: Eugene Debs on John Brown
 publication: Jacobin
 link: https://jacobin.com/2022/01/socialist-party-america-slavery-abolitionism-race-debs-unpublished
 date: 2023-10-16
+permalink:
 ---
 
-[[2023]] / [[commonplace]] / 
+[[2023]] • [[commonplace]] • AUTHOR • PUBLICATION
+
+LINK
 
 "Eugene Debs revered John Brown as “[history’s greatest hero](https://jacobinmag.com/2020/10/eugene-debs-john-brown),” a man who saw an unspeakable horror and tried to dash it from the world"
 

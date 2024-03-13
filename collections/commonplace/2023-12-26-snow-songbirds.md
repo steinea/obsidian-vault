@@ -6,9 +6,12 @@ title: Songbirds
 publication: Substack
 link: https://open.substack.com/pub/batts/p/why-do-i-keep-writing-the-same-game?r=90krt&utm_medium=ios&utm_campaign=post
 date: 2023-12-26
+permalink:
 ---
 
-[[2023]] / [[commonplace]] / 
+[[2023]] • [[commonplace]] • AUTHOR • PUBLICATION
+
+LINK
 
 "It started with Songbirds. It was a hack of Into the Odd and was sort of well-received by folks in osr-ish circles"
 

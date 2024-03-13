@@ -6,9 +6,12 @@ title: Influencer Parents
 publication: Teen Vogue
 link: https://www.teenvogue.com/story/influencer-parents-children-social-media-impact?utm_source=substack&utm_medium=email
 date: 2023-10-09
+permalink:
 ---
 
-[[2023]] / [[commonplace]] / 
+[[2023]] • [[commonplace]] • AUTHOR • PUBLICATION
+
+LINK
 
 "the intimate details of their lives, from videos of them as crying children to footage of a parent disciplining them – are shared and sometimes monetized without their explicit consent"
 

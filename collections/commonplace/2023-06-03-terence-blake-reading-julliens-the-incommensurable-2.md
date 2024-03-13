@@ -6,9 +6,12 @@ title: Conceptual Figuration, Noetic Duplicity
 publication: Agent Swarm
 link: https://terenceblake.wordpress.com/2023/01/29/reading-francois-julliens-the-incommensurable-2-introduction-conceptual-figuration-noetic-duplicity/
 date: 2023-06-03
+permalink:
 ---
 
-[[2023]] / [[commonplace]] / 
+[[2023]] • [[commonplace]] • AUTHOR • PUBLICATION
+
+LINK
  
 "This initial figuration of the incommensurable as fissure, crack, dissociation is both dolorist and noetic, binding our consciousness to an original/originary suffering"
 

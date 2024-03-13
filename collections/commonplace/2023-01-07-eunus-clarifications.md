@@ -6,9 +6,12 @@ title: Clarifications
 publication: Ill Will
 link: https://illwill.com/clarifications
 date: 2023-01-07
+permalink:
 ---
 
-[[2023]] / [[commonplace]] / 
+[[2023]] • [[commonplace]] • AUTHOR • PUBLICATION
+
+LINK
  
 "Through relentless and dynamic actions undertaken in decentralized and uncoordinated ways, thousands of people across the city and even the country have brought the forest destruction project to a stalemate"
 

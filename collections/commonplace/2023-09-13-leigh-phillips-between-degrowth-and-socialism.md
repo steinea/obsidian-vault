@@ -6,9 +6,12 @@ title: Between Degrowth and Socialism
 publication: Twitter
 link: https://twitter.com/Leigh_Phillips/status/1702048046748680349
 date: 2023-09-13
+permalink:
 ---
 
-[[2023]] / [[commonplace]] / 
+[[2023]] • [[commonplace]] • AUTHOR • PUBLICATION
+
+LINK
 
 *I'm thinking a lot about something like 'social democratic internationalism' these days, and this thread encapsulates a lot of the key positions that have led me there.*
 

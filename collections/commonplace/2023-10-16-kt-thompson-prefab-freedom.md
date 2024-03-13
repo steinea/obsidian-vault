@@ -6,9 +6,12 @@ title: Prefab Freedom
 publication: The New Inquiry
 link: https://thenewinquiry.com/prefab-freedom/
 date: 2023-10-16
+permalink:
 ---
 
-[[2023]] / [[commonplace]] / 
+[[2023]] • [[commonplace]] • AUTHOR • PUBLICATION
+
+LINK
 
 "Five vehicles idled in a huddle. The pitch of their 1000cc engines thwarted my attempts to eavesdrop. But the flexible poles jutting from their cargo holds—called *whips* in ATV (All-Terrain Vehicle) accessory language—raised the semaphores of May 2020: Confederate, US, Thin Blue Line, and Trump 2020 flags"
 

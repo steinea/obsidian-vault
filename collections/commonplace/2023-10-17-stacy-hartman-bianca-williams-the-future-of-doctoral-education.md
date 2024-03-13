@@ -6,9 +6,12 @@ title: The Future of Doctoral Education
 publication: Los Angeles Review of Books
 link: https://lareviewofbooks.org/article/the-future-of-doctoral-education-four-provocations-for-a-more-just-and-sustainable-academy/
 date: 2023-05-29
+permalink:
 ---
 
-[[2023]] / [[commonplace]] / 
+[[2023]] • [[commonplace]] • AUTHOR • PUBLICATION
+
+LINK
 
 "doctoral education in the humanities is particularly calcified. It is devoted to reproduction, not transformation, and it is a system predicated on exploitative labor practices that are just as egregious as anything found in the private sector"
 

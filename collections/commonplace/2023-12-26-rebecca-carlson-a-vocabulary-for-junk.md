@@ -6,9 +6,12 @@ title: A Vocabulary for Junk
 publication: Platypus
 link: https://blog.castac.org/2023/07/a-vocabulary-for-junk-in-four-movements/
 date: 2023-12-26
+permalink:
 ---
 
-[[2023]] / [[commonplace]] / 
+[[2023]] • [[commonplace]] • AUTHOR • PUBLICATION
+
+LINK
 
 "Deponie.
 

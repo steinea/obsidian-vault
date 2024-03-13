@@ -6,9 +6,12 @@ title: Jaquaying the Keep on the Shadowfell
 publication: The Alexandrian
 link: https://thealexandrian.net/wordpress/13123/roleplaying-games/jaquaying-the-dungeon-part-4-jaquaying-the-keep-on-the-shadowfell
 date: 2023-03-12
+permalink:
 ---
 
-[[2023]] / [[commonplace]] / 
+[[2023]] • [[commonplace]] • AUTHOR • PUBLICATION
+
+LINK
  
 "What I’m going to do is take a few simple jaquaying techniques and use them to tweak the Keep of the Shadowfell in order to make it a more dynamic and interesting dungeon"
 

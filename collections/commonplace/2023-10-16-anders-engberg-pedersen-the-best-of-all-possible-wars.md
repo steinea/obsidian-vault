@@ -6,9 +6,12 @@ title: The Best of All Possible Wars
 publication: Los Angeles Review of Books
 link: https://lareviewofbooks.org/article/the-best-of-all-possible-wars-warfare-worldmaking-and-the-creative-imagination/
 date: 2023-10-16
+permalink:
 ---
 
-[[2023]] / [[commonplace]] / 
+[[2023]] • [[commonplace]] • AUTHOR • PUBLICATION
+
+LINK
 
 "IN 2009, General James Norman Mattis issued a memorandum that installed the “creative imagination” at the center of US military thinking"
 

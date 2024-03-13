@@ -6,9 +6,12 @@ title: As a User, I Don’t Want To
 publication: UX Design
 link: https://uxdesign.cc/as-a-user-i-dont-want-to-973990a30158
 date: 2023-10-09
+permalink:
 ---
 
-[[2023]] / [[commonplace]] / 
+[[2023]] • [[commonplace]] • AUTHOR • PUBLICATION
+
+LINK
 
 "Task-oriented user stories lead to bad product decisions because they mix up value with cost. But they are easy to turn into inverted user stories — a tool for thinking bigger"
 

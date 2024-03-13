@@ -6,9 +6,12 @@ title: How Workers Won the Weekend
 publication: Tribune Magazine
 link: https://tribunemag.co.uk/2023/03/how-workers-won-the-weekend
 date: 2023-06-17
+permalink:
 ---
 
-[[2023]] / [[commonplace]] / 
+[[2023]] • [[commonplace]] • AUTHOR • PUBLICATION
+
+LINK
  
 "Before the standardisation of the five-day week, [Mondays](https://tribunemag.co.uk/2020/06/workers-playtime) were the week’s highlight for many British workers. Beginning in the seventeenth century, a tradition of absenteeism on a Monday among artisan workers came to be known as ‘Saint Monday’. These workers worked long hours between Tuesday to Saturday and believed a single rest day to observe the Sabbath on a Sunday was simply insufficient"
 

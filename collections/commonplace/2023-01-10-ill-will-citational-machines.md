@@ -6,8 +6,11 @@ title: Citational Machines
 publication: Twitter
 link: https://mobile.twitter.com/illwilleditions/status/1612861710171525121
 date: 2023-01-10
+permalink:
 ---
 
-[[2023]] / [[commonplace]] / 
+[[2023]] • [[commonplace]] • AUTHOR • PUBLICATION
+
+LINK
  
 "Uprisings today are citational machines between which gestures, personae, strategies and impulses circulate freely, their origins often being forgotten along the way."

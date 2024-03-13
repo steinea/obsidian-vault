@@ -6,9 +6,12 @@ title: Poverty Abolition
 publication: Los Angeles Review of Books
 link: https://lareviewofbooks.org/article/how-to-be-a-poverty-abolitionist-on-matthew-desmonds-poverty-by-america/
 date: 2023-10-09
+permalink:
 ---
 
-[[2023]] / [[commonplace]] / 
+[[2023]] • [[commonplace]] • AUTHOR • PUBLICATION
+
+LINK
 
 "Desmond writes, “poverty is the feeling that your government is against you, not for you; that your country was designed to serve other people and that you are fated to be managed and processed.”"
 

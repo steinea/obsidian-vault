@@ -6,9 +6,12 @@ title: The Ironic Radical
 publication: Los Angeles Review of Books
 link: https://lareviewofbooks.org/article/the-ironic-radical-on-hayden-whites-the-ethics-of-narrative/
 date: 2023-12-11
+permalink:
 ---
 
-[[2023]] / [[commonplace]] / 
+[[2023]] • [[commonplace]] • AUTHOR • PUBLICATION
+
+LINK
 
 "Like his late-in-life Stanford colleague Richard Rorty, White was an ironic anti-foundationalist—a thinker eager to undermine the ways that we moderns have found new gods to worship or essences to piously respect"
 

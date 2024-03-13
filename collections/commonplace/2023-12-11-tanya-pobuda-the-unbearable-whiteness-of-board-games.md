@@ -6,9 +6,12 @@ title: The Whiteness of Board Games
 publication: Medium
 link: https://medium.com/@tanyapobuda/the-unbearable-whiteness-of-board-games-1eb8d1f2688f
 date: 2023-12-11
+permalink:
 ---
 
-[[2023]] / [[commonplace]] / 
+[[2023]] • [[commonplace]] • AUTHOR • PUBLICATION
+
+LINK
 
 "My PhD research study of the top 400 *BoardGameGeek* games found that that 92.6% of the labour of game design was that of white-identified, male-identified creators"
 

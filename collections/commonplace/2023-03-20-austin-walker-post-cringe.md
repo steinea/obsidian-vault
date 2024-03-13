@@ -6,9 +6,12 @@ title: Post-Cringe
 publication: Clockwork Worlds
 link: https://www.clockworkworlds.com/post-cringe/
 date: 2023-03-20
+permalink:
 ---
 
-[[2023]] / [[commonplace]] / 
+[[2023]] • [[commonplace]] • AUTHOR • PUBLICATION
+
+LINK
  
 "I want to do more than call it cringe and move on. I want to explain why I sink into my seat a little when I watch these clips"
 

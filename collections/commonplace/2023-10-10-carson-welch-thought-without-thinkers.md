@@ -6,9 +6,12 @@ title: Thought without thinkers
 publication: Radical Philosophy
 link: https://www.radicalphilosophy.com/reviews/individual-reviews/thought-without-thinkers
 date: 2023-10-10
+permalink:
 ---
 
-[[2023]] / [[commonplace]] / 
+[[2023]] • [[commonplace]] • AUTHOR • PUBLICATION
+
+LINK
 
 "A bold question motivates Timothy Bewes’ *Free Indirect*: Is a non-subjective thought possible?"
 

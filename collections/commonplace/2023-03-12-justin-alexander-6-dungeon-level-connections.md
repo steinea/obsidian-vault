@@ -6,9 +6,12 @@ title: Dungeon Level Connections
 publication: The Alexandrian
 link: https://thealexandrian.net/wordpress/13141/roleplaying-games/jaquaying-the-dungeon-addendum-dungeon-level-connections
 date: 2023-03-12
+permalink:
 ---
 
-[[2023]] / [[commonplace]] / 
+[[2023]] • [[commonplace]] • AUTHOR • PUBLICATION
+
+LINK
  
 "Many of the [Jaquays Techniques](https://thealexandrian.net/wordpress/13103/roleplaying-games/jaquaying-the-dungeon-part-2-the-jaquays-techniques) deal with elaborating, enumerating, or complicating the transitions between levels. So let’s take a moment to consider the many different ways in which levels can be connected to each other."
 

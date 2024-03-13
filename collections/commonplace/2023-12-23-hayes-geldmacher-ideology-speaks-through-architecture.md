@@ -6,9 +6,12 @@ title: Ideology Speaks Through Architecture
 publication: Unwinnable
 link: https://unwinnable.com/2023/06/14/ideology-speaks-through-architecture-exploring-inside-and-gorogoa/
 date: 2023-12-23
+permalink:
 ---
 
-[[2023]] / [[commonplace]] / 
+[[2023]] • [[commonplace]] • AUTHOR • PUBLICATION
+
+LINK
 
 "Space is perhaps represented most truthfully, and with the fewest barriers to expression, in videogames"
 

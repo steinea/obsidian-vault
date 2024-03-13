@@ -6,9 +6,12 @@ title: The General Crisis of Whiteness
 publication: Los Angeles Review of Books
 link: https://lareviewofbooks.org/article/the-general-crisis-of-whiteness-a-conversation-with-nicholas-mirzoeff/
 date: 2023-10-18
+permalink:
 ---
 
-[[2023]] / [[commonplace]] / 
+[[2023]] • [[commonplace]] • AUTHOR • PUBLICATION
+
+LINK
 
 "*Mirzoeff’s new book,* White Sight: Visual Politics and Practices of Whiteness*, published in February by* *the* *MIT Press, explores how systems of white supremacy see, and thus order, the world in the unbroken history of colonialism, up to the present day*"
 

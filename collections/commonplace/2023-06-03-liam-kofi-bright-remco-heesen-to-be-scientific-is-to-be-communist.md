@@ -6,9 +6,12 @@ title: To be Scientific is to be Communist
 publication: Social Epistemology
 link: https://www.tandfonline.com/doi/full/10.1080/02691728.2022.2156308
 date: 2023-06-03
+permalink:
 ---
 
-[[2023]] / [[commonplace]] / 
+[[2023]] • [[commonplace]] • AUTHOR • PUBLICATION
+
+LINK
  
 "We consider a deflationary view in which science refers to whatever is regarded as epistemically successful, but find that this does not leave room for the important notion of scientific error and fails to capture distinctive social elements of science"
 

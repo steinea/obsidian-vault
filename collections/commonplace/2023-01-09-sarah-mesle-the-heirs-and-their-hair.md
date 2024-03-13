@@ -6,9 +6,12 @@ title: The Heirs and Their Hair
 publication: Los Angeles Review of Books
 link: https://dev.lareviewofbooks.org/article/the-heirs-and-their-hair-on-house-of-the-dragon/
 date: 2023-01-09
+permalink:
 ---
 
-[[2023]] / [[commonplace]] / 
+[[2023]] • [[commonplace]] • AUTHOR • PUBLICATION
+
+LINK
  
 "None of my friends are watching.
 

@@ -6,9 +6,12 @@ title: One Book, Many Readings
 publication: Samizdat
 link: https://samizdat.co/cyoa/
 date: 2023-06-03
+permalink:
 ---
 
-[[2023]] / [[commonplace]] / 
+[[2023]] • [[commonplace]] • AUTHOR • PUBLICATION
+
+LINK
  
 "Like many children of the 80s, I spent a significant proportion of my rainy afternoons in worlds conjured up by the [Choose Your Own Adventure](http://www.chooseco.com) book series"
 

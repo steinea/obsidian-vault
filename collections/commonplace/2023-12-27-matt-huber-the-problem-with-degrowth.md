@@ -6,9 +6,12 @@ title: The Problem With Degrowth
 publication: Jacobin
 link: https://jacobin.com/2023/07/degrowth-climate-change-economic-planning-production-austerity
 date: 2023-12-27
+permalink:
 ---
 
-[[2023]] / [[commonplace]] / 
+[[2023]] • [[commonplace]] • AUTHOR • PUBLICATION
+
+LINK
 
 "Degrowth is even making inroads on the socialist left. Two years ago the Rosa Luxemburg Stiftung in New York City [published](https://rosalux.nyc/degrowth-and-revolutionary-organizing/) an article, “Degrowth and Revolutionary Organizing.” A major book, *[The Future Is Degrowth](https://www.versobooks.com/products/2620-the-future-is-degrowth)*, was [favorably reviewed](https://socialistforum.dsausa.org/issues/fall-2022/what-is-to-be-grown/) in Democratic Socialists of America’s journal *Socialist Forum*. In Japan, the ecological Marxist Kohei Saito has sold [five hundred thousand copies of a book](https://www.theguardian.com/world/2022/sep/09/a-new-way-of-life-the-marxist-post-capitalist-green-manifesto-captivating-japan) laying out a case for degrowth communism (the volume, titled *Slow Down*: *The Degrowth Manifesto*, will be released in an [English translation](https://www.penguinrandomhouse.com/books/734853/slow-down-by-kohei-saito/) early next year)."
 

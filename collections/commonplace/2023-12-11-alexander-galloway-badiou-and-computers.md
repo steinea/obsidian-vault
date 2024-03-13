@@ -6,7 +6,12 @@ title: Badiou and Computers
 publication: Culture and Communication.org
 link: http://cultureandcommunication.org/galloway/badiou-and-computers
 date: 2023-12-11
+permalink:
 ---
+
+[[2023]] • [[commonplace]] • AUTHOR • PUBLICATION
+
+LINK
 
 "Is Badiou a digital philosopher? I want to say *yes*, at least to some degree"
 

@@ -6,9 +6,12 @@ title: Millennial Cringe
 publication: Vox
 link: https://www.vox.com/the-highlight/23466389/millennials-cringe-epic-bacon
 date: 2023-01-23
+permalink:
 ---
 
-[[2023]] / [[commonplace]] / 
+[[2023]] • [[commonplace]] • AUTHOR • PUBLICATION
+
+LINK
  
 "in her book *Because Internet: Understanding the New Rules of Language*, the internet linguist Gretchen McCulloch has what I think is a far better way of categorizing internet users: She divides people according to when they truly “got online.”"
 

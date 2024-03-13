@@ -6,9 +6,12 @@ title: Celtic Warfare
 publication: A Collection of Unmitigated Pedentry
 link: https://acoup.blog/2023/05/12/collections-who-were-the-celts-and-how-did-they-some-of-them-fight/
 date: 2023-12-16
+permalink:
 ---
 
-[[2023]] / [[commonplace]] / 
+[[2023]] • [[commonplace]] • AUTHOR • PUBLICATION
+
+LINK
 
 "Canestrelli clearly has read a lot,[3](https://acoup.blog/2023/05/12/collections-who-were-the-celts-and-how-did-they-some-of-them-fight/#easy-footnote-bottom-3-18721) most of the details are right and most of the errors are small (but some are big, including the central conceit that there is a thing called ‘Celtic warfare’ that we can discuss)"
 

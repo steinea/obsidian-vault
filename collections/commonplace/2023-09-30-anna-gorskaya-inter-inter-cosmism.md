@@ -6,9 +6,12 @@ title: Inter-Inter-Cosmism
 publication: Cosmic Bulletin
 link: https://cosmos.art/cosmic-bulletin/2022/editorial
 date: 2023-09-30
+permalink:
 ---
 
-[[2023]] / [[commonplace]] / 
+[[2023]] • [[commonplace]] • AUTHOR • PUBLICATION
+
+LINK
 
 "The full-scale invasion of Ukraine unleashed by the Putin regime in 2022 forced everyone connected with the Russian intellectual and artistic context to question the possibility of continuing their own occupations without reflecting on its foundations"
 

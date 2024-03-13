@@ -6,9 +6,12 @@ title: A Diary Is a Place for Dreaming
 publication: Los Angeles Review of Books
 link: https://dev.lareviewofbooks.org/article/a-diary-is-a-place-for-dreaming-a-conversation-with-amina-cain/
 date: 2023-01-01
+permalink:
 ---
 
-[[2023]] / [[commonplace]] / 
+[[2023]] • [[commonplace]] • AUTHOR • PUBLICATION
+
+LINK
  
 "Amina Cain’s newest book, which describes itself as a “diary of fiction,”"
 

@@ -6,9 +6,12 @@ title: On the Occasion of Flight
 publication: Electric Marronage
 link: https://www.electricmarronage.com/electricblog/2023/2/17/for-fahima-on-the-occasion-of-flight-words-from-the-overground
 date: 2023-06-11
+permalink:
 ---
 
-[[2023]] / [[commonplace]] / 
+[[2023]] • [[commonplace]] • AUTHOR • PUBLICATION
+
+LINK
  
 "There are many moments of before and after in life, and we often do not know when they will occur"
 

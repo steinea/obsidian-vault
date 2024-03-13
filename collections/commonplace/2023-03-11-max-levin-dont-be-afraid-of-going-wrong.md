@@ -6,9 +6,12 @@ title: Don’t Be Afraid of Going Wrong
 publication: Los Angeles Review of Books
 link: https://dev.lareviewofbooks.org/article/dont-be-afraid-of-going-wrong-conversations-with-c-l-r-james/
 date: 2023-03-11
+permalink:
 ---
 
-[[2023]] / [[commonplace]] / 
+[[2023]] • [[commonplace]] • AUTHOR • PUBLICATION
+
+LINK
  
 "*THE FOLLOWING CONVERSATION consists of two excerpts from interviews I conducted with C. L. R. James in Washington, DC, during 1976–77. The first section, videotaped on November 12–13, 1977, focuses on his experiences living in the United Kingdom; the second, audiotaped on October 15, 1976, focuses on his 1936 novel* Minty Alley*,* *the first novel by a Black West Indian to be published in England. The transcriptions have been edited for length and clarity.*"
 

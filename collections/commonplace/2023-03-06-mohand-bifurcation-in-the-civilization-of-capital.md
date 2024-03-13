@@ -6,9 +6,12 @@ title: Bifurcation in the Civilization of Capital
 publication: Ill Will
 link: https://illwill.com/bifurcation
 date: 2023-03-06
+permalink:
 ---
 
-[[2023]] / [[commonplace]] / 
+[[2023]] • [[commonplace]] • AUTHOR • PUBLICATION
+
+LINK
  
 "What happens when capital no longer seeks to dominate nature, but identifies itself with it?"
 
