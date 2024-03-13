@@ -6,6 +6,6 @@ permalink: 2024/03/05/game-340-week-8
 
 # GAME 340, Advanced Game Design, Week 8
 
-[[2024]] / [[teaching]]
+[[2024]] / [[Teaching]]
 
 #### Game Jam, TBD

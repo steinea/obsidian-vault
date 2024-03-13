@@ -6,7 +6,7 @@ permalink:
 
 # Resident Remakes
 
-[[playlists]]
+[[Playlists]]
 
 * [[Resident Evil Origins Collection]]
 * [[Resident Evil 2]]

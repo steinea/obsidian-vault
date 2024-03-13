@@ -6,7 +6,7 @@ permalink: 2024/01/09/game-340-week-1
 
 # GAME 340, Advanced Game Design, Week 1
 
-[[2024]] / [[teaching]]
+[[2024]] / [[Teaching]]
 
 #### *How To Do Things With Videogames,* Introduction: Media Microecology
 

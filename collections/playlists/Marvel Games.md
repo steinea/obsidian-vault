@@ -6,7 +6,7 @@ permalink: 2024/02/26/marvel-games
 
 # Marvel Games
 
-[[playlists]]
+[[Playlists]]
 
 * [[Marvel’s Spider Man]]
 * [[Marvel’s Spider-Man Miles Morales]]

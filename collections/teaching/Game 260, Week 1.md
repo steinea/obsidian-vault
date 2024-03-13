@@ -6,7 +6,7 @@ permalink: 2023/09/12/game-260-week-1
 
 # GAME 260, Project Management, Week 1
 
-[[2023]] / [[teaching]]
+[[2023]] / [[Teaching]]
 
 #### Blood, Sweat, and Pixels: Introduction
 

@@ -6,7 +6,7 @@ permalink: 2024/01/16/game-340-week-2
 
 # GAME 340, Advanced Game Design, Week 2
 
-[[2024]] / [[teaching]]
+[[2024]] / [[Teaching]]
 
 #### *A Thousand Plateaus,* pp. 351-374
 

@@ -6,7 +6,7 @@ permalink: 2024/03/12/game-340-week-9
 
 # GAME 340, Advanced Game Design, Week 9
 
-[[2024]] / [[teaching]]
+[[2024]] / [[Teaching]]
 
 #### *How To Do Things With Videogames,* Chapter 11: Texture
 

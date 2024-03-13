@@ -6,7 +6,7 @@ permalink: 2023/10/03/game-260-week-4
 
 # GAME 260, Project Management, Week 4
 
-[[2023]] / [[teaching]]
+[[2023]] / [[Teaching]]
 
 #### Blood, Sweat, and Pixels, ch. 3: Stardew Valley
 

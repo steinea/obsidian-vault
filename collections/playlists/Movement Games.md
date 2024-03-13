@@ -1,3 +1,3 @@
 # Movement Games
 
-[[playlists]]
+[[Playlists]]

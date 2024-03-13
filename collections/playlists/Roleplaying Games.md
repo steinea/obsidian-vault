@@ -6,7 +6,7 @@ permalink: 2022/09/12/roleplaying-games
 
 # Roleplaying Games
 
-[[playlists]]
+[[Playlists]]
 
 1. Blizzard, [[Diablo]], 1997-01-03
 2. BioWare, [[Baldur's Gate]], 1998-12-21

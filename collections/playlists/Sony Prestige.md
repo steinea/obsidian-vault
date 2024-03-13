@@ -6,7 +6,7 @@ permalink:
 
 # Sony Prestige
 
-[[playlists]]
+[[Playlists]]
 
 * [[Death Stranding]], 2019-11-08
 * [[Death Stranding 2 On the Beach]], 2025

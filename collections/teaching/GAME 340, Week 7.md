@@ -6,7 +6,7 @@ permalink: 2024/02/27/game-340-week-7
 
 # GAME 340, Advanced Game Design, Week 7
 
-[[2024]] / [[teaching]]
+[[2024]] / [[Teaching]]
 
 #### *How To Do Things With Videogames,* Chapter 6: Transit
 

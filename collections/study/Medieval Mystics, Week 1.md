@@ -6,7 +6,7 @@ permalink: 2016/09/12/medieval-mystics-week-1
 
 # Medieval Mystics, Week 1
 
-[[2016]] / [[study]]
+[[2016]] / [[Study]]
 
 Walter Stace: mystical experience involves “an apprehension of an ultimate non-sensuous unity in all things … [that] entirely transcends our sensory-intellectual consciousness” (_The Teaching of the Mystics_, pp. 14-15).
 

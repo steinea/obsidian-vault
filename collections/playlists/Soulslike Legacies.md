@@ -6,7 +6,7 @@ permalink: 2024/01/11/soulslike-legacies
 
 # Soulslike Legacies
 
-[[playlists]]
+[[Playlists]]
 
 1. [[Titan Souls]], 2015-04-14
 2. [[Momodora Reverie Under the Moonlight]], 2016-03-04

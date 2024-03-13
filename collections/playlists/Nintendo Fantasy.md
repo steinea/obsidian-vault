@@ -6,7 +6,7 @@ permalink: 2024/02/26/nintendo-fantasy
 
 # Nintendo Fantasy
 
-[[playlists]]
+[[Playlists]]
 
 * [[Xenoblade Chronicles Definitive Edition]], 2010-06-10
 * [[Xenoblade Chronicles X]], 2015-04-29

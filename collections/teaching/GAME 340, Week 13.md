@@ -5,7 +5,7 @@ permalink: 2024/04/09/game-340-week-13
 ---
 # GAME 340, Advanced Game Design, Week 13
 
-[[2024]] / [[teaching]]
+[[2024]] / [[Teaching]]
 
 #### *How To Do Things With Videogames,* Conclusion: The End of Gamers
 

@@ -6,7 +6,7 @@ permalink: 2024/02/21/fantasy-action
 
 # Fantasy Action
 
-[[playlists]]
+[[Playlists]]
 
 #### Timeline
 

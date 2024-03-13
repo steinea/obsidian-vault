@@ -6,7 +6,7 @@ permalink: 2023/09/26/game-260-week-3
 
 # GAME 260, Project Management, Week 3
 
-[[2023]] / [[teaching]]
+[[2023]] / [[Teaching]]
 
 #### Blood, Sweat, and Pixels, ch. 2: Uncharted 4
 

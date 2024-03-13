@@ -6,7 +6,7 @@ permalink: 2024/01/23/game-340-week-3
 
 # GAME 340, Advanced Game Design, Week 3
 
-[[2024]] / [[teaching]]
+[[2024]] / [[Teaching]]
 
 #### Game Jam, “Secrets”
 
