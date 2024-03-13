@@ -4,41 +4,8 @@ const openPublishPanel = app.commands.commands["publish:view-changes"].callback;
 
 // Add as many filenames and queries as you'd like!
 const fileAndQuery = new Map([
-  [
-	"dataview-about",
-	'LIST FROM "dataview/about" SORT file.name ASC',
-  ],
-  [
-	"dataview-activity",
-	'LIST FROM "dataview/activity" AND -"dataview/activity/playingcompleted" AND -"dataview/activity/playingmost" AND -"dataview/activity/playingnext" AND -"dataview/activity/playingnow" AND -"dataview/activity/playingshortest" AND -"dataview/activity/playingstopped" AND -"dataview/activity/playingwishlist" AND -"dataview/activity/watchingfilm" AND -"dataview/activity/watchingtelevision" SORT file.name ASC',
-  ],
-  [
-	"dataview-collections",
-	'LIST FROM "dataview/collections" SORT file.name ASC',
-  ],
-  [
-	"dataview-constellation",
-	'LIST FROM "dataview/constellation" SORT file.name ASC',
-  ],
 
-// About dataview maps
 
-  [
-	"Biography",
-	'TABLE WITHOUT ID file.link AS "Biography", date AS Date FROM "about/biography" SORT date DESC',
-  ],
-  [
-	"Now",
-	'TABLE WITHOUT ID file.link AS "Biography", date AS Date FROM "about/now" SORT date DESC',
-  ],
-  [
-	"Personality",
-	'TABLE WITHOUT ID file.link AS "Personality", date AS Date FROM "about/personality" SORT date DESC',
-  ],
-  [
-	"Updates",
-	'TABLE WITHOUT ID file.link AS "Updates", date AS Date FROM "about/updates" SORT date DESC',
-  ],
 // Activity dataview maps
 
   [
@@ -114,79 +81,7 @@ const fileAndQuery = new Map([
 	'TABLE WITHOUT ID file.link AS Title, series AS Series, seasonEpisode AS Episode, watchedDate AS Date FROM "constellation/episodes" WHERE watched = "Yes" SORT watchedDate DESC, seasonEpisode DESC',
   ],
 
-// Blog dataview maps
 
-  [
-	"latest",
-	'TABLE WITHOUT ID file.link AS "Latest", date AS Date FROM "blog" WHERE category ="blog" SORT date DESC',
-  ],
-  [
-	"juvenilia3",
-	'TABLE WITHOUT ID file.link AS "Juvenilia, 3", date AS Date FROM "blog" WHERE category ="juvenilia-3" SORT date DESC',
-  ],
-  [
-	"fieldnotes2",
-	'TABLE WITHOUT ID file.link AS "Field Notes, 2", date AS Date FROM "blog" WHERE category ="field-notes-2" SORT date DESC',
-  ],
-  [
-	"ludology",
-	'TABLE WITHOUT ID file.link AS "Ludology", date AS Date FROM "blog" WHERE category ="ludology" SORT date DESC',
-  ],
-  [
-	"excurses3",
-	'TABLE WITHOUT ID file.link AS "Excurses, 3", date AS Date FROM "blog" WHERE category ="excurses-3" SORT date DESC',
-  ],
-  [
-	"dialogues",
-	'TABLE WITHOUT ID file.link AS "Dialogues", date AS Date FROM "blog" WHERE category ="dialogues" SORT date DESC',
-  ],
-  [
-	"excurses2",
-	'TABLE WITHOUT ID file.link AS "Excurses, 2", date AS Date FROM "blog" WHERE category ="excurses-2" SORT date DESC',
-  ],
-  [
-	"juvenilia2",
-	'TABLE WITHOUT ID file.link AS "Juvenilia, 2", date AS Date FROM "blog" WHERE category ="juvenilia-2" SORT date DESC',
-  ],
-  [
-	"excurses",
-	'TABLE WITHOUT ID file.link AS "Excurses", date AS Date FROM "blog" WHERE category ="excurses" SORT date DESC',
-  ],
-  [
-	"juvenilia",
-	'TABLE WITHOUT ID file.link AS "Juvenilia", date AS Date FROM "blog" WHERE category ="juvenilia" SORT date DESC',
-  ],
-  [
-	"fieldnotes",
-	'TABLE WITHOUT ID file.link AS "Field Notes", date AS Date FROM "blog" WHERE category ="field-notes" SORT date DESC',
-  ],
-
-// Collections dataview maps
-
-  [
-	"annotations",
-	'TABLE WITHOUT ID file.link AS "Title", date AS Date FROM "collections/annotations" SORT date DESC',
-  ],
-  [
-	"bibliographies",
-	'TABLE WITHOUT ID file.link AS "Bibliographies", date AS Date FROM "collections/bibliographies" SORT date DESC',
-  ],
-  [
-	"commonplace",
-	'TABLE WITHOUT ID file.link AS "Commonplace", date AS Date FROM "collections/commonplace" SORT date DESC',
-  ],
-  [
-	"playlists",
-	'TABLE WITHOUT ID file.link AS "Playlists", date AS Date FROM "collections/playlists" SORT date DESC',
-  ],
-  [
-	"study",
-	'TABLE WITHOUT ID file.link AS "Study", date AS Date FROM "collections/study" SORT date DESC',
-  ],
-  [
-	"teaching",
-	'TABLE WITHOUT ID file.link AS "Teaching", date AS Date FROM "collections/teaching" SORT date DESC',
-  ],
 
 // Constellation dataview maps
 

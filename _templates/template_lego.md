@@ -8,7 +8,7 @@ status:
 url: 
 ---
 
-[[lego]]
+[[Lego]]
 
 # 
 

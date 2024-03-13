@@ -1,4 +1,7 @@
-%% #Ignore update via "Update Publish Files" template %% 
+---
+permalink: blog/fieldnotes2
+---
+
 
 | Field Notes, 2                                                           | Date       |
 | ------------------------------------------------------------------------ | ---------- |

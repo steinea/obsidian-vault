@@ -1,4 +1,7 @@
-%% #Ignore update via "Update Publish Files" template %% 
+---
+permalink: blog/excurses3
+---
+
 
 | Excurses, 3                                                        | Date       |
 | ------------------------------------------------------------------ | ---------- |

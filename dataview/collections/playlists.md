@@ -1,6 +1,9 @@
-%% #Ignore update via "Update Publish Files" template %% 
+---
+permalink: collections/playlists
+---
 
-| Playlists                                                                   | Date       |
+
+| File                                                                        | Date       |
 | --------------------------------------------------------------------------- | ---------- |
 | [[collections/playlists/Castlevania Continuity.md\|Castlevania Continuity]] | 2024-02-26 |
 | [[collections/playlists/Nintendo Fantasy.md\|Nintendo Fantasy]]             | 2024-02-26 |

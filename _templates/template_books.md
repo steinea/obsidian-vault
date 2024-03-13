@@ -7,7 +7,7 @@ date:
 permalink: ''
 ---
 
-[[books]] • AUTHOR • CONCEPT
+[[Books]] • AUTHOR • CONCEPT
 
 ### Citation
 

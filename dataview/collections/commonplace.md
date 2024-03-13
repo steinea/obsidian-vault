@@ -1,6 +1,9 @@
-%% #Ignore update via "Update Publish Files" template %% 
+---
+permalink: collections/commonplace
+---
 
-| Commonplace                                                                                                                                                                   | Date       |
+
+| File                                                                                                                                                                          | Date       |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
 | [[collections/commonplace/Emboldening Idea Landlords.md\|Emboldening Idea Landlords]]                                                                                         | 2024-03-09 |
 | [[collections/commonplace/Understanding Is Not Required.md\|Understanding Is Not Required]]                                                                                   | 2024-02-01 |

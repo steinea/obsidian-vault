@@ -1,4 +1,7 @@
-%% #Ignore update via "Update Publish Files" template %% 
+---
+permalink: blog/juvenilia
+---
+
 
 | Juvenilia                                                                                | Date       |
 | ---------------------------------------------------------------------------------------- | ---------- |

@@ -11,6 +11,6 @@ watchedDate:
 
 # 
 
-YEAR • [[episodes]] • SERIES • CHANNEL
+YEAR • [[Episodes]] • SERIES • CHANNEL
 
 <LINK>

@@ -16,6 +16,6 @@ date:
 permalink: 
 ---
 
-YEAR • [[games]] • DEVELOPER • PUBLISHER • PLATFORM
+YEAR • [[Games]] • DEVELOPER • PUBLISHER • PLATFORM
 
 From LINK:

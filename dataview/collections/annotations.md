@@ -1,6 +1,9 @@
-%% #Ignore update via "Update Publish Files" template %% 
+---
+permalink: collections/annotations
+---
 
-| Title                                                                                                                     | Date       |
+
+| File                                                                                                                      | Date       |
 | ------------------------------------------------------------------------------------------------------------------------- | ---------- |
 | [[collections/annotations/A Strange Period of Human Folly and Shame.md\|A Strange Period of Human Folly and Shame]]       | 2024-01-01 |
 | [[collections/annotations/No Salvation Without Destruction.md\|No Salvation Without Destruction]]                         | 2023-12-31 |

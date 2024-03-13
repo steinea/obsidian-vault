@@ -1,6 +1,9 @@
-%% #Ignore update via "Update Publish Files" template %% 
+---
+permalink: collections/teaching
+---
 
-| Teaching                                                         | Date       |
+
+| File                                                             | Date       |
 | ---------------------------------------------------------------- | ---------- |
 | [[collections/teaching/GAME 340, Week 13.md\|GAME 340, Week 13]] | 2024-04-09 |
 | [[collections/teaching/GAME 340, Week 12.md\|GAME 340, Week 12]] | 2024-04-02 |
