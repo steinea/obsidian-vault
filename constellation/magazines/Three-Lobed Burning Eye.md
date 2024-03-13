@@ -1,6 +1,6 @@
 # Three-Lobed Burning Eye
 
-[[magazines]]
+[[Magazines]]
 
 <https://www.3lobedmag.com/>
 

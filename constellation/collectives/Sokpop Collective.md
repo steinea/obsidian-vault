@@ -1,6 +1,6 @@
 # Sokpop Collective
 
-[[collectives]]
+[[Collectives]]
 
 <https://sokpop.itch.io/>
 

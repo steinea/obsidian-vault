@@ -1,3 +1,3 @@
 # Triple Canopy
 
-[[publications]]
+[[Publications]]

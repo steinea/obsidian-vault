@@ -1,5 +1,5 @@
 # Viridi
 
-[[games]]
+[[Games]]
 
 <http://icewatergames.com/viridi>

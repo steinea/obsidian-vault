@@ -10,7 +10,7 @@ tags:
 
 # A Short History of the World
 
-[[books]]
+[[Books]]
 
 Roberts, John Morris. *A Short History of the World.* Oxford University Press, 1997. [9780195115048](https://books.google.ca/books/about/A_Short_History_of_the_World.html?id=CMhMAgAAQBAJ).
 

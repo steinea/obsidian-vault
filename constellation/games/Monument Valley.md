@@ -12,4 +12,4 @@ permalink: 2018/10/21/monument-valley
 
 # Monument Valley
 
-[[games]]
+[[Games]]

@@ -12,7 +12,7 @@ tags:
 
 # Deleuze and the History of Mathematics
 
-[[books]] / [[Mathematics]]
+[[Books]] / [[Mathematics]]
 
 Duffy, Simon. *Deleuze and the History of Mathematics: In Defense of the 'New'*. Bloomsbury, 2013. [9781441129505](https://www.bloomsbury.com/us/deleuze-and-the-history-of-mathematics-9781441129505/).
 

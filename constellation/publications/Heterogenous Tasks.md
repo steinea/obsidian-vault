@@ -1,3 +1,3 @@
 # Heterogenous Tasks
 
-[[publications]]
+[[Publications]]

@@ -1,5 +1,5 @@
 # World History Encyclopedia
 
-[[publications]]
+[[Publications]]
 
 <https://www.worldhistory.org/>

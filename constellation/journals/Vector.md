@@ -1,6 +1,6 @@
 # Vector
 
-[[journals]]
+[[Journals]]
 
 <https://bsfa.co.uk/Vector>
 

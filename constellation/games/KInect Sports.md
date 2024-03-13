@@ -18,4 +18,4 @@ permalink:
 
 # Kinect Sports
 
-[[games]]
+[[Games]]

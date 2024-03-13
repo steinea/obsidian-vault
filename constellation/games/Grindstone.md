@@ -12,7 +12,7 @@ permalink: 2023/08/23/grindstone
 
 # Grindstone
 
-[[games]]
+[[Games]]
 
 <https://www.capybaragames.com/games/grindstone/>
 

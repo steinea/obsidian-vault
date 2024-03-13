@@ -18,7 +18,7 @@ permalink:
 
 # Final Fantasy XIII-2
 
-[[games]] / [[Square Enix]] / [[PS3]] / [[2011]]
+[[Games]] / [[Square Enix]] / [[PS3]] / [[2011]]
 
 Director: [[Motomu Toriyama]]
 Producer: [[Yoshinori Kitase]]

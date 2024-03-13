@@ -1,6 +1,6 @@
 # New Institutional Economics
 
-[[concepts]]
+[[Concepts]]
 
 <https://en.m.wikipedia.org/wiki/New_institutional_economics>
 

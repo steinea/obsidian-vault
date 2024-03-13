@@ -1,6 +1,6 @@
 # Nebula Conference
 
-[[conferences]]
+[[Conferences]]
 
 <https://nebulas.sfwa.org/nebula-conference/>
 

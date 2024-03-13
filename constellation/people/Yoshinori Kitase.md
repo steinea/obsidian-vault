@@ -1,3 +1,3 @@
 # Yoshinori Kitase
 
-[[people]]
+[[People]]

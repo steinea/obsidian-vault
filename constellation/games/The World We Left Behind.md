@@ -1,6 +1,6 @@
 # The World We Left Behind
 
-[[games]]
+[[Games]]
 
 <https://gizmodo.com/balletcollective-ttrpg-dance-performance-sam-leigh-1850990612>
 

@@ -1,6 +1,6 @@
 # British Columbia Review
 
-[[literaryreviews]]
+[[Literary Reviews]]
 
 <https://thebcreview.ca/>
 

@@ -1,6 +1,6 @@
 # Fafnir
 
-[[magazines]]
+[[Magazines]]
 
 <http://journal.finfar.org/>
 

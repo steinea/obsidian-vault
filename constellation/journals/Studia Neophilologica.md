@@ -1,3 +1,3 @@
 # Studia Neophilologica
 
-[[journals]]
+[[Journals]]

@@ -1,6 +1,6 @@
 # MIT Playful Thinking
 
-[[bookseries]]
+[[Book Series]]
 
 <https://mitpress.mit.edu/books/series/playful-thinking>
 

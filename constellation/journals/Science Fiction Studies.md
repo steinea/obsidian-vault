@@ -1,6 +1,6 @@
 # Science Fiction Studies
 
-[[journals]]
+[[Journals]]
 
 <https://www.depauw.edu/sfs/index.htm>
 

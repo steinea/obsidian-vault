@@ -1,6 +1,6 @@
 # MIT Press Game Histories
 
-[[bookseries]]
+[[Book Series]]
 
 <https://mitpress.mit.edu/series/game-histories/>
 

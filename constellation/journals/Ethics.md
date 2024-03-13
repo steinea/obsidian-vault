@@ -1,3 +1,3 @@
 # Ethics
 
-[[journals]]
+[[Journals]]

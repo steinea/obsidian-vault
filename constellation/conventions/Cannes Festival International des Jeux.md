@@ -1,6 +1,6 @@
 # Cannes Festival International des Jeux
 
-[[conventions]]
+[[Conventions]]
 
 <https://www.festivaldesjeux-cannes.com/en/>
 

@@ -1,6 +1,6 @@
 # World Fantasy Convention
 
-[[conventions]]
+[[Conventions]]
 
 <http://www.worldfantasy.org/>
 

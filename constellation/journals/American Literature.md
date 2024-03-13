@@ -1,3 +1,3 @@
 # American Literature
 
-[[journals]]
+[[Journals]]

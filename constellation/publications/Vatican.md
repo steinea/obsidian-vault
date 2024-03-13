@@ -1,3 +1,3 @@
 # Vatican
 
-[[publications]]
+[[Publications]]

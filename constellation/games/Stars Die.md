@@ -13,7 +13,7 @@ permalink:
 
 # Stars Die
 
-[[games]]
+[[Games]]
 
 <https://store.steampowered.com/app/1457740/Stars_Die/>
 

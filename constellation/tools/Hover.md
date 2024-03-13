@@ -1,6 +1,6 @@
 # Hover
 
-[[tools]]
+[[Tools]]
 
 <https://www.hover.com/>
 

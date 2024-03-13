@@ -1,6 +1,6 @@
 # Mastodon and Netlify
 
-[[tools]]
+[[Tools]]
 
 <https://msfjarvis.dev/posts/mastodon-on-your-own-domain-without-hosting-a-server-netlify-edition/>
 

@@ -1,6 +1,6 @@
 # Solar Server
 
-[[tools]]
+[[Tools]]
 
 <http://solarserver.games/>
 

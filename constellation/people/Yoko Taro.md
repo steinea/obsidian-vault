@@ -1,3 +1,3 @@
 # Yoko Taro
 
-[[people]]
+[[People]]

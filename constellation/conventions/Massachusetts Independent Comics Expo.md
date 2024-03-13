@@ -1,6 +1,6 @@
 # Massachusetts Independent Comics Expo
 
-[[conventions]]
+[[Conventions]]
 
 <https://www.micexpo.org/>
 

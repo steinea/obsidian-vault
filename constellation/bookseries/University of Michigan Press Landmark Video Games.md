@@ -1,6 +1,6 @@
 # University of Michigan Press Landmark Video Games
 
-[[bookseries]]
+[[Book Series]]
 
 <https://www.press.umich.edu/browse/series/UM166>
 

@@ -1,6 +1,6 @@
 # Zona Warpa
 
-[[conventions]]
+[[Conventions]]
 
 <https://www.zonawarpa.it/>
 

@@ -11,4 +11,4 @@ progress: now
 permalink:
 ---
 
-[[games]]
+[[Games]]

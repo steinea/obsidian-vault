@@ -12,4 +12,4 @@ permalink: 2022/05/03/forza-horizon-5
 
 # Forza Horizon 5
 
-[[games]]
+[[Games]]

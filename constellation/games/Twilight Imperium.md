@@ -1,6 +1,6 @@
 # Twilight Imperium
 
-[[games]]
+[[Games]]
 
 <https://boardgamegeek.com/boardgame/233078/twilight-imperium-fourth-edition>
 

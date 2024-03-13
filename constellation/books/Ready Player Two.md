@@ -14,7 +14,7 @@ tags:
 
 ### Women Gamers and Designed Identity
 
-[[books]]
+[[Books]]
 
 Chess, Shira. *Ready Player Two: Women Gamers and Designed Identity.* University of Minnesota Press, 2017. [9781517900694](https://www.upress.umn.edu/book-division/books/ready-player-two).
 

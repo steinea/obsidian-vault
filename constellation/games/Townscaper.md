@@ -12,4 +12,4 @@ permalink: 2022/01/16/townscaper
 
 # Townscaper
 
-[[games]]
+[[Games]]

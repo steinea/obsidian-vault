@@ -1,6 +1,6 @@
 # Checkpoint Archive
 
-[[magazines]]
+[[Magazines]]
 
 <https://checkpoint.ansible.uk/>
 

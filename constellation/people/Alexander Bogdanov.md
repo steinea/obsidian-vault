@@ -1,3 +1,3 @@
 # Alexander Bogdanov
 
-[[people]]
+[[People]]

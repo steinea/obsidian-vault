@@ -1,6 +1,6 @@
 # People Make Games
 
-[[channels]]
+[[Channels]]
 
 <https://www.patreon.com/PeopleMakeGames>
 

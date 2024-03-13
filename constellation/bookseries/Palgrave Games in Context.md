@@ -1,6 +1,6 @@
 # Palgrave Games in Context
 
-[[bookseries]]
+[[Book Series]]
 
 <https://link.springer.com/series/16027>
 

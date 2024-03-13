@@ -1,3 +1,3 @@
 # Merveilles
 
-[[publications]]
+[[Publications]]

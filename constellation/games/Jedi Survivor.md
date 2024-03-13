@@ -12,4 +12,4 @@ permalink: 2023/07/09/jedi-survivor
 
 # Jedi Survivor
 
-[[games]]
+[[Games]]

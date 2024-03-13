@@ -1,6 +1,6 @@
 # Unwinnable
 
-[[magazines]]
+[[Magazines]]
 
 <https://unwinnable.com/submissions/>
 

@@ -1,3 +1,3 @@
 # Open Library
 
-[[publications]]
+[[Publications]]

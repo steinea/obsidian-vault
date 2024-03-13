@@ -18,4 +18,4 @@ permalink:
 
 # Geometry Wars Evolved
 
-[[games]]
+[[Games]]

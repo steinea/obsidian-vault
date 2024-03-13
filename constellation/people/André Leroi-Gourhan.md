@@ -1,6 +1,6 @@
 # André Leroi-Gourhan
 
-[[people]]
+[[People]]
 
 From [Wikipedia](https://en.wikipedia.org/wiki/Andr%C3%A9_Leroi-Gourhan):
 

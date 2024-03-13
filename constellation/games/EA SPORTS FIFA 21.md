@@ -16,7 +16,7 @@ date: 2021-09-11
 permalink: 2021/09/11/ea-sports-fifa-21
 ---
 
-[[2020]] • [[games]] • [[Electronic Arts]] • [[PS4]]
+[[2020]] • [[Games]] • [[Electronic Arts]] • [[PS4]]
 
 From [Wikipedia](https://en.wikipedia.org/wiki/FIFA_21):
 

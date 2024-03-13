@@ -1,6 +1,6 @@
 # Eye to the Telescope
 
-[[magazines]]
+[[Magazines]]
 
 <https://eyetothetelescope.com/>
 

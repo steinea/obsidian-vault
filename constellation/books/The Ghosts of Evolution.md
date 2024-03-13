@@ -1,6 +1,6 @@
 # The Ghosts of Evolution
 
-[[books]]
+[[Books]]
 
 <https://www.hachettebookgroup.com/titles/connie-barlow/the-ghosts-of-evolution/9780465005529>
 

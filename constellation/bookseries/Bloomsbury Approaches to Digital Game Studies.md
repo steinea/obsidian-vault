@@ -1,6 +1,6 @@
 # Bloomsbury Approaches to Digital Game Studies
 
-[[bookseries]]
+[[Book Series]]
 
 <https://www.bloomsbury.com/us/series/approaches-to-digital-game-studies/>
 

@@ -1,6 +1,6 @@
 # When Words Collide
 
-[[conventions]]
+[[Conventions]]
 
 <https://www.whenwordscollide.org/>
 

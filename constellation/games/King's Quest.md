@@ -1,3 +1,3 @@
 # King’s Quest
 
-[[games]]
+[[Games]]

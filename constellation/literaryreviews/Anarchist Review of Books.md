@@ -1,6 +1,6 @@
 # Anarchist Review of Books
 
-[[literaryreviews]]
+[[Literary Reviews]]
 
 <https://www.anarchistreviewofbooks.org/>
 

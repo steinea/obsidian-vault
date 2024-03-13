@@ -13,7 +13,7 @@ permalink:
 
 # Genesis Noir
 
-[[games]]
+[[Games]]
 
 <https://genesisnoirgame.com/>
 

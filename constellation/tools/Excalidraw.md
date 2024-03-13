@@ -1,3 +1,3 @@
 # Excalidraw
 
-[[tools]] / [[Obsidian]]
+[[Tools]] / [[Obsidian]]

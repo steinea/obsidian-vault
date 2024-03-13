@@ -1,6 +1,6 @@
 # International Digital Media and Arts Association
 
-[[associations]]
+[[Associations]]
 
 <http://idmaa.org/membership/>
 

@@ -6,7 +6,7 @@ date: 1974
 permalink: '9780520271456'
 ---
 
-[[books]] • [[Michel de Certeau]] • [[Philosophy]]
+[[Books]] • [[Michel de Certeau]] • [[Philosophy]]
 
 ### Citation
 

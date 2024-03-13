@@ -1,6 +1,6 @@
 # Canadian Game Studies Association
 
-[[associations]]
+[[Associations]]
 
 <https://gamestudies.ca/>
 

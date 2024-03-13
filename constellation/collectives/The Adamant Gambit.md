@@ -1,6 +1,6 @@
 # The Adamant Gambit
 
-[[collectives]]
+[[Collectives]]
 
 <https://the-adamant-gambit.itch.io/>
 

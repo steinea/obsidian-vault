@@ -2,7 +2,7 @@
 
 ### Net Zero Guidelines
 
-[[standards]]
+[[Standards]]
 
 <https://www.iso.org/netzero>
 

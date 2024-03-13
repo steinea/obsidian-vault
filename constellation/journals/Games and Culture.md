@@ -1,6 +1,6 @@
 # Games and Culture
 
-[[journals]]
+[[Journals]]
 
 <https://journals.sagepub.com/home/gac>
 

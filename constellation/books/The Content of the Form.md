@@ -7,7 +7,7 @@ date: 1987
 permalink: '9780801841156'
 ---
 
-[[books]] • [[Hayden White]] • [[Historiography]] • [[Semiotics]]
+[[Books]] • [[Hayden White]] • [[Historiography]] • [[Semiotics]]
 
 ### Citation
 

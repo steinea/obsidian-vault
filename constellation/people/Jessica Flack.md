@@ -1,6 +1,6 @@
 # Jessica Flack
 
-[[people]]
+[[People]]
 
 <https://c4.santafe.edu/>
 

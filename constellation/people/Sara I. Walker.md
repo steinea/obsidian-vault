@@ -1,6 +1,6 @@
 # Sara I. Walker
 
-[[people]]
+[[People]]
 
 <https://search.asu.edu/profile/1731899>
 

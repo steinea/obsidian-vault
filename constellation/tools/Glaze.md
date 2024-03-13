@@ -1,6 +1,6 @@
 # Glaze
 
-[[tools]]
+[[Tools]]
 
 <https://glaze.cs.uchicago.edu/>
 

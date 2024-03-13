@@ -1,6 +1,6 @@
 # Into Thin Air
 
-[[books]]
+[[Books]]
 
 <https://en.wikipedia.org/wiki/Into_Thin_Air>
 

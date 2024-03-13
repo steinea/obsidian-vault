@@ -18,4 +18,4 @@ permalink:
 
 # Modern Warfare 3
 
-[[games]]
+[[Games]]

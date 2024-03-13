@@ -1,6 +1,6 @@
 # Small Press Expo
 
-[[conventions]]
+[[Conventions]]
 
 <http://www.smallpressexpo.com/>
 

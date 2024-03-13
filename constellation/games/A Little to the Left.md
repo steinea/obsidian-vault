@@ -12,7 +12,7 @@ permalink:
 
 # A Little to the Left
 
-[[games]]
+[[Games]]
 
 <https://www.maxinferno.com/>
 

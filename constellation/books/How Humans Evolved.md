@@ -12,7 +12,7 @@ tags:
 
 # How Humans Evolved
 
-[[books]]
+[[Books]]
 
 Boyd, Robert and Silk, Joan B. *How Humans Evolved.* 9th Edition. W. W. Norton & Company, 2020. [9780393533156](https://wwnorton.com/books/9780393533156/).
 

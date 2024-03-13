@@ -16,7 +16,7 @@ date: 2014-08-14
 permalink: 2014/08/14/bioshock
 ---
 
-[[2007]] • [[games]] • [[Irrational Games]] • [[2K]] • [[PS3]]
+[[2007]] • [[Games]] • [[Irrational Games]] • [[2K]] • [[PS3]]
 
 From [Wikipedia](https://en.wikipedia.org/wiki/BioShock):
 

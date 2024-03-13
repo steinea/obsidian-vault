@@ -1,6 +1,6 @@
 # Return to Perinthos
 
-[[jams]]
+[[Jams]]
 
 <https://newsletter.rvgames.company/p/the-adventure-gaming-periodical-issue-687>
 

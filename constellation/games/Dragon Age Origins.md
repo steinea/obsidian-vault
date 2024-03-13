@@ -18,4 +18,4 @@ permalink:
 
 # Dragon Age: Origins
 
-[[games]]
+[[Games]]

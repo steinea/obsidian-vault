@@ -1,6 +1,6 @@
 # Jain Family Institute
 
-[[institutes]]
+[[Institutes]]
 
 <https://jainfamilyinstitute.org/>
 

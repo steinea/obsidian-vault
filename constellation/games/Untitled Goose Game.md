@@ -12,4 +12,4 @@ permalink: 2020/10/01/untitled-goose-game
 
 # Untitled Goose Game
 
-[[games]]
+[[Games]]

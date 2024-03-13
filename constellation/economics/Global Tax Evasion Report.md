@@ -1,6 +1,6 @@
 # Global Tax Evasion Report
 
-[[economics]]
+[[Economics]]
 
 <https://www.taxobservatory.eu/publication/global-tax-evasion-report-2024/>
 

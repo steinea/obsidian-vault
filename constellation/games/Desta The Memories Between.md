@@ -13,7 +13,7 @@ permalink:
 
 # Desta: The Memories Between
 
-[[games]]
+[[Games]]
 
 <https://www.destagame.com/>
 

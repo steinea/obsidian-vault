@@ -1,6 +1,6 @@
 # Game Design & Development Education
 
-[[journals]]
+[[Journals]]
 
 <https://www.rit.edu/gccis/gameeducationjournal/>
 

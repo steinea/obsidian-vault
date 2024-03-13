@@ -10,7 +10,7 @@ tags: fantastic associations
 
 # Gunn Center for the Study of Science Fiction
 
-[[associations]]
+[[Associations]]
 
 <https://sfcenter.ku.edu/>
 

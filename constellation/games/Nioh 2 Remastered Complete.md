@@ -18,7 +18,7 @@ permalink:
 
 # Nioh 2 Remastered Complete
 
-[[games]] / [[Team Ninja]] / [[Sony Interactive Entertainment]] / [[PS5]] / [[2020]]
+[[Games]] / [[Team Ninja]] / [[Sony Interactive Entertainment]] / [[PS5]] / [[2020]]
 
 From [Wikipedia](https://en.wikipedia.org/wiki/Nioh_2):
 

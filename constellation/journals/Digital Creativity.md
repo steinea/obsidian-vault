@@ -1,6 +1,6 @@
 # Digital Creativity
 
-[[journals]]
+[[Journals]]
 
 <https://www.tandfonline.com/journals/ndcr20>
 

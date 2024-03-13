@@ -1,6 +1,6 @@
 # Khōréō
 
-[[magazines]]
+[[Magazines]]
 
 <https://www.khoreomag.com/>
 

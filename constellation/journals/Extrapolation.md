@@ -1,6 +1,6 @@
 # Extrapolation
 
-[[journals]]
+[[Journals]]
 
 <https://www.liverpooluniversitypress.co.uk/journals/id/71>
 

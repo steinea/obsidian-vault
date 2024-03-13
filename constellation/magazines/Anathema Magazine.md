@@ -10,7 +10,7 @@ tags: fantastic magazines
 
 # Anathema Magazine
 
-[[magazines]]
+[[Magazines]]
 
 <https://www.anathemamag.com/>
 

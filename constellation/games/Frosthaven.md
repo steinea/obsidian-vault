@@ -1,6 +1,6 @@
 # Frosthaven
 
-[[games]]
+[[Games]]
 
 <https://www.kickstarter.com/projects/frosthaven/frosthaven>
 

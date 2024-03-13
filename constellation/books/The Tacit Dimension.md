@@ -6,7 +6,7 @@ date: 1966
 permalink: '9780226672984'
 ---
 
-[[books]] • [[Michael Polanyi]] • [[Philosophy]]
+[[Books]] • [[Michael Polanyi]] • [[Philosophy]]
 
 ### Citation
 

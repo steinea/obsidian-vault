@@ -8,7 +8,7 @@ status: unbuilt
 url: https://www.lego.com/en-ca/product/nasa-mars-rover-perseverance-42158
 ---
 
-[[lego]]
+[[Lego]]
 
 # NASA Mars Rover Perseverance
 

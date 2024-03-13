@@ -14,7 +14,7 @@ tags:
 
 ### Rebooting Boyhood at the Video Game Arcade
 
-[[books]]
+[[Books]]
 
 Kocurek, Carly A.. *Coin-Operated Americans: Rebooting Boyhood at the Video Game Arcade.* University of Minnesota Press, 2015. [9780816691838](https://www.upress.umn.edu/book-division/books/coin-operated-americans).
 

@@ -12,4 +12,4 @@ permalink: 2015/07/31/sportsfriends
 
 # Sportsfriends
 
-[[games]]
+[[Games]]

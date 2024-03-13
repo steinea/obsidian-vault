@@ -1,6 +1,6 @@
 # Project Management Association of Canada
 
-[[associations]]
+[[Associations]]
 
 <https://pmac-agpc.ca/>
 

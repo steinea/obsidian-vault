@@ -1,6 +1,6 @@
 # Mithila Review
 
-[[magazines]]
+[[Magazines]]
 
 <https://mithilareview.com/submission-guidelines/>
 

@@ -1,6 +1,6 @@
 # Cosmos and History
 
-[[journals]]
+[[Journals]]
 
 <https://cosmosandhistory.org/index.php/journal>
 

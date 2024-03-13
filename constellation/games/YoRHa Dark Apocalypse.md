@@ -18,7 +18,7 @@ permalink:
 
 # YoRHa: Dark Apocalypse
 
-[[games]]
+[[Games]]
 
 From [Wikipedia](https://en.wikipedia.org/wiki/Final_Fantasy_XIV:_Shadowbringers#Design):
 

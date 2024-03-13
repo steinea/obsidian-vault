@@ -1,6 +1,6 @@
 # British Science Fiction Association
 
-[[associations]]
+[[Associations]]
 
 <https://bsfa.co.uk/join-the-bsfa>
 

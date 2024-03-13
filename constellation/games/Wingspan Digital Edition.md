@@ -13,7 +13,7 @@ permalink:
 
 # Wingspan: Digital Edition
 
-[[games]]
+[[Games]]
 
 <https://www.monstercouch.com/wingspan/>
 

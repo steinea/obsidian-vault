@@ -1,6 +1,6 @@
 # Certified Professional for Requirements Engineering
 
-[[certifications]] / [[International Requirements Engineering Board]]
+[[Certifications]] / [[International Requirements Engineering Board]]
 
 <https://www.ireb.org/en/cpre/basics/>
 

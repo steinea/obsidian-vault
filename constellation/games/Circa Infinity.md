@@ -13,7 +13,7 @@ permalink:
 
 # Circa Infinity
 
-[[games]]
+[[Games]]
 
 <http://circainfinitygame.com/>
 

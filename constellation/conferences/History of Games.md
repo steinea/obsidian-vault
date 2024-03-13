@@ -1,6 +1,6 @@
 # History of Games
 
-[[conferences]]
+[[Conferences]]
 
 <https://www.history-of-games.com/>
 

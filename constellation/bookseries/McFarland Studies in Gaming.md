@@ -1,6 +1,6 @@
 # McFarland Studies in Gaming
 
-[[bookseries]]
+[[Book Series]]
 
 <https://studiesingaming.com/publications/>
 

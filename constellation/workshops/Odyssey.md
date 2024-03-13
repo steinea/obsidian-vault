@@ -1,6 +1,6 @@
 # Odyssey
 
-[[workshops]]
+[[Workshops]]
 
 <https://www.odysseyworkshop.org/>
 

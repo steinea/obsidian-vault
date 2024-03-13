@@ -1,3 +1,3 @@
 # Literary Theory
 
-[[books]]
+[[Books]]

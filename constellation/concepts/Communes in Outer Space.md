@@ -1,6 +1,6 @@
 # Communes in Outer Space
 
-[[concepts]]
+[[Concepts]]
 
 <https://www.sciencedirect.com/science/article/abs/pii/S0265964623000590>
 

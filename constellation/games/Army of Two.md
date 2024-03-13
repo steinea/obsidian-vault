@@ -18,4 +18,4 @@ permalink:
 
 # Army of Two
 
-[[games]]
+[[Games]]

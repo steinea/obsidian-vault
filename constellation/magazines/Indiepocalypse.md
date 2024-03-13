@@ -1,6 +1,6 @@
 # Indiepocalypse
 
-[[magazines]]
+[[Magazines]]
 
 <https://pizzapranks.itch.io/>
 

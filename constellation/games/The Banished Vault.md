@@ -13,7 +13,7 @@ permalink:
 
 # The Banished Vault
 
-[[games]]
+[[Games]]
 
 <https://www.bithellgames.com/the-banished-vault>
 

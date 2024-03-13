@@ -1,6 +1,6 @@
 # American Society for Quality
 
-[[associations]]
+[[Associations]]
 
 <https://asq.org/>
 

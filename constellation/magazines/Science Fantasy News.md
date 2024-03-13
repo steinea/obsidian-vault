@@ -1,6 +1,6 @@
 # Science Fantasy News
 
-[[magazines]]
+[[Magazines]]
 
 <http://gostak.org.uk/sfn/>
 

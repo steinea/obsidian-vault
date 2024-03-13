@@ -6,7 +6,7 @@ date: 1957
 permalink: '9780809071944'
 ---
 
-[[books]] • [[Semiotics]] • [[Roland Barthes]]
+[[Books]] • [[Semiotics]] • [[Roland Barthes]]
 
 ### Citation
 

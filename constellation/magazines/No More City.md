@@ -1,6 +1,6 @@
 # No More City
 
-[[magazines]]
+[[Magazines]]
 
 <https://nomore.city/>
 

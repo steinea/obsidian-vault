@@ -1,3 +1,3 @@
 # Booth
 
-[[publications]]
+[[Publications]]

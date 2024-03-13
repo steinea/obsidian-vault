@@ -1,6 +1,6 @@
 # Netlify
 
-[[tools]]
+[[Tools]]
 
 <https://www.netlify.com/>
 

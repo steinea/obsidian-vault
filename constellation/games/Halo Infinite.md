@@ -12,7 +12,7 @@ permalink: 2023/10/06/halo-infinite
 
 # Halo Infinite
 
-[[games]]
+[[Games]]
 
 <https://www.xbox.com/en-CA/games/halo-infinite>
 

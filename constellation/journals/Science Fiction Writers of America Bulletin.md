@@ -1,6 +1,6 @@
 # Science Fiction Writers of America Bulletin
 
-[[journals]]
+[[Journals]]
 
 <https://membership.sfwa.org/page-1462864>
 

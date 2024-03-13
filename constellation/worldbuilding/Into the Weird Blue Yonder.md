@@ -1,6 +1,6 @@
 # Into the Weird Blue Yonder
 
-[[worldbuilding]]
+[[Worldbuilding]]
 
 <https://www.patreon.com/WeirdBlueYonder>
 

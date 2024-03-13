@@ -18,4 +18,4 @@ permalink:
 
 # Fable II
 
-[[games]]
+[[Games]]

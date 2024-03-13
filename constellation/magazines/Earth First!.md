@@ -1,6 +1,6 @@
 # Earth First!
 
-[[magazines]]
+[[Magazines]]
 
 <https://earthfirstjournal.news/>
 

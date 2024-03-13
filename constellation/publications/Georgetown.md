@@ -1,3 +1,3 @@
 # Georgetown
 
-[[publications]]
+[[Publications]]

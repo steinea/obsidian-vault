@@ -1,6 +1,6 @@
 # ICA Game Studies Division
 
-[[associations]]
+[[Associations]]
 
 <https://icagames.org/>
 

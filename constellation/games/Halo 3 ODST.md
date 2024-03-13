@@ -18,4 +18,4 @@ permalink:
 
 # Halo 3: ODST Campaign Edition
 
-[[games]]
+[[Games]]

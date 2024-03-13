@@ -18,7 +18,7 @@ permalink:
 
 # Bloodstained Curse of the Moon 2
 
-[[games]] / [[Inti Creates]] / [[PS4]] / [[2020]]
+[[Games]] / [[Inti Creates]] / [[PS4]] / [[2020]]
 
 Producer: [[Koji Igarashi]]
 

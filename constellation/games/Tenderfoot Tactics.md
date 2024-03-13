@@ -1,5 +1,5 @@
 # Tenderfoot Tactics
 
-[[games]]
+[[Games]]
 
  <https://tenderfoottactics.com/>

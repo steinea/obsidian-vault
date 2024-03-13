@@ -1,6 +1,6 @@
 # Sydney Review of Books
 
-[[literaryreviews]]
+[[Literary Reviews]]
 
 <https://sydneyreviewofbooks.com/>
 

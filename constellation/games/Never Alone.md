@@ -12,4 +12,4 @@ permalink: 2015/07/29/never-alone
 
 # Never Alone
 
-[[games]]
+[[Games]]

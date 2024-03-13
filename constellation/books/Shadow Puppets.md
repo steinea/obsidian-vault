@@ -1,4 +1,4 @@
 # Shadow Puppets
 
-[[books]]
+[[Books]]
 

@@ -1,6 +1,6 @@
 # Web of Science
 
-[[tools]]
+[[Tools]]
 
 <https://access.clarivate.com/login?app=wos>
 

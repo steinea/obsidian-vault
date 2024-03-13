@@ -1,6 +1,6 @@
 # Mythaxis
 
-[[magazines]]
+[[Magazines]]
 
 <https://mythaxis.co.uk/>
 

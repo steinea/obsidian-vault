@@ -1,6 +1,6 @@
 # American Philosophical Association
 
-[[associations]]
+[[Associations]]
 
 <https://www.apaonline.org/page/mission>
 

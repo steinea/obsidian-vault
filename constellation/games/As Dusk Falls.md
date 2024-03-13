@@ -13,7 +13,7 @@ permalink:
 
 # As Dusk Falls
 
-[[games]]
+[[Games]]
 
 <https://www.asduskfalls.com/>
 

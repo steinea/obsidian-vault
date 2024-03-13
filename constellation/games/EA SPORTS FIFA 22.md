@@ -16,7 +16,7 @@ date: 2022-05-12
 permalink: 2022/05/12/ea-sports-fifa-22
 ---
 
-[[2021]] • [[games]] • [[Electronic Arts]] • [[PS4]]
+[[2021]] • [[Games]] • [[Electronic Arts]] • [[PS4]]
 
 From [Wikipedia](https://en.wikipedia.org/wiki/FIFA_22):
 

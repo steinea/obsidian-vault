@@ -14,7 +14,7 @@ tags:
 
 ### UK Gaming Magazines, 1981-1995
 
-[[books]]
+[[Books]]
 
 Kirkpatrick, Graeme. *The Formation of Gaming Culture: UK Gaming Magazines, 1981-1995.* Palgrave Macmillan, 2015. [9781137305091](https://link.springer.com/book/10.1057/9781137305107).
 

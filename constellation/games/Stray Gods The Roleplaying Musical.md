@@ -13,7 +13,7 @@ permalink:
 
 # Stray Gods: The Roleplaying Musical
 
-[[games]]
+[[Games]]
 
 <https://www.summerfallstudios.com/stray-gods>
 

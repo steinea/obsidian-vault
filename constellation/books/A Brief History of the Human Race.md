@@ -10,7 +10,7 @@ tags:
 
 # A Brief History of the Human Race
 
-[[books]]
+[[Books]]
 
 Cook, Michael. *A Brief History of the Human Race.* W. W. Norton & Company, 2003. [9780393326451](https://nes.princeton.edu/publications/brief-history-human-race).
 

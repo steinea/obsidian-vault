@@ -1,6 +1,6 @@
 # International Conference on Interactive Digital Storytelling
 
-[[conferences]]
+[[Conferences]]
 
 <https://icids2022.ardin.online/>
 

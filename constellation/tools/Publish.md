@@ -1,6 +1,6 @@
 # Publish
 
-[[tools]]
+[[Tools]]
 
 <https://obsidian.md/publish>
 

@@ -12,4 +12,4 @@ permalink: 2024/01/12/altos-adventure
 
 # Alto’s Adventure
 
-[[games]]
+[[Games]]

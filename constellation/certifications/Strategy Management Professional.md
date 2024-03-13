@@ -1,6 +1,6 @@
 # Strategy Management Professional (SMP)
 
-[[certifications]] / [[International Association for Strategy Professionals]]
+[[Certifications]] / [[International Association for Strategy Professionals]]
 
 <https://www.strategyassociation.org/page/StrategyManagementProfessional>
 

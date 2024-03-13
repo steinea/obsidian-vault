@@ -1,6 +1,6 @@
 # Journal of The International Digital Media and Arts Association
 
-[[journals]]
+[[Journals]]
 
 <http://idmaa.org/journal/>
 

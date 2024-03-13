@@ -6,7 +6,7 @@ date: 2007
 permalink: '9780807068977'
 ---
 
-[[books]] • [[Mary Oliver]] • [[Poetry]]
+[[Books]] • [[Mary Oliver]] • [[Poetry]]
 
 ### Citation
 

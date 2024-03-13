@@ -14,7 +14,7 @@ tags:
 
 ### A New History of Humanity
 
-[[books]]
+[[Books]]
 
 Graeber, David and Wengrow, David. *The Dawn of Everything: A New History of Humanity.* PUBLISHER, YEAR. [9780374157357](https://us.macmillan.com/books/9780374157357/thedawnofeverything).
 

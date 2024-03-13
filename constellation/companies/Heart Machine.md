@@ -1,3 +1,3 @@
 # Heart Machine
 
-[[companies]]
+[[Companies]]

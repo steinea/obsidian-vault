@@ -18,7 +18,7 @@ permalink:
 
 # Lightning Returns: Final Fantasy XIII
 
-[[games]] / [[Square Enix]] / [[PS3]] / [[2013]]
+[[Games]] / [[Square Enix]] / [[PS3]] / [[2013]]
 
 Director: [[Motomu Toriyama]]
 Producer: [[Yoshinori Kitase]]

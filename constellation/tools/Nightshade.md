@@ -1,6 +1,6 @@
 # Nightshade
 
-[[tools]]
+[[Tools]]
 
 <https://nightshade.cs.uchicago.edu/>
 

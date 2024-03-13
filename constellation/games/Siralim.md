@@ -18,4 +18,4 @@ permalink:
 
 # Siralim
 
-[[games]]
+[[Games]]

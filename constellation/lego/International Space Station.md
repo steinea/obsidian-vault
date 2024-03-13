@@ -8,7 +8,7 @@ status: wishlist
 url: https://www.lego.com/en-ca/product/international-space-station-21321
 ---
 
-[[lego]]
+[[Lego]]
 
 # International Space Station
 

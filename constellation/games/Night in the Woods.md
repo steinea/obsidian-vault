@@ -12,4 +12,4 @@ permalink: 2022/04/30/night-in-the-woods
 
 # Night in the Woods
 
-[[games]]
+[[Games]]

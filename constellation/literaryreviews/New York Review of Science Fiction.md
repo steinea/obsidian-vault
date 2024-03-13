@@ -1,6 +1,6 @@
 # New York Review of Science Fiction
 
-[[literaryreviews]]
+[[Literary Reviews]]
 
 <https://www.nyrsf.com/>
 

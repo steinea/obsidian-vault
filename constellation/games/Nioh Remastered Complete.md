@@ -18,7 +18,7 @@ permalink:
 
 # Nioh Remastered Complete
 
-[[games]] / [[Team Ninja]] / [[Sony Interactive Entertainment]] / [[PS5]] / [[2017]]
+[[Games]] / [[Team Ninja]] / [[Sony Interactive Entertainment]] / [[PS5]] / [[2017]]
 
 From [Wikipedia](https://en.wikipedia.org/wiki/Nioh):
 

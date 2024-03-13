@@ -1,5 +1,5 @@
 # EA SPORTS FC 25
 
-[[games]]
+[[Games]]
 
 <https://www.ea.com/games/ea-sports-fc>

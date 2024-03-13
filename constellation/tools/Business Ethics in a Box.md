@@ -1,6 +1,6 @@
 # Business Ethics in a Box
 
-[[tools]]
+[[Tools]]
 
 <https://www.businessethicsinabox.com/>
 

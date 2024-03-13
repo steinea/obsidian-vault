@@ -18,7 +18,7 @@ permalink:
 
 # Final Fantasy VII Remake Intergrade
 
-[[games]]  / [[Square Enix]] / [[PS5]] / [[2020]]
+[[Games]]  / [[Square Enix]] / [[PS5]] / [[2020]]
 
 Director: [[Tetsuya Nomura]]
 Co-director: [[Motomu Toriyama]]

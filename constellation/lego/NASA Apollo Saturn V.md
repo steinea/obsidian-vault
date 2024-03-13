@@ -8,7 +8,7 @@ status: wishlist
 url: https://www.lego.com/en-ca/product/lego-nasa-apollo-saturn-v-92176
 ---
 
-[[lego]]
+[[Lego]]
 
 # NASA Apollo Saturn V
 

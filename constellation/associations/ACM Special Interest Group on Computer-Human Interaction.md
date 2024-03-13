@@ -1,6 +1,6 @@
 # ACM Special Interest Group on Computer-Human Interaction
 
-[[associations]]
+[[Associations]]
 
 <https://sigchi.org/>
 

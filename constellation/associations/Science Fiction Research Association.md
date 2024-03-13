@@ -10,7 +10,7 @@ tags: fantastic associations
 
 # Science Fiction Research Association
 
-[[associations]]
+[[Associations]]
 
 <https://sfra.org/>
 

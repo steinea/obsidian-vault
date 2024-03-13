@@ -1,6 +1,6 @@
 # ROMchip
 
-[[journals]]
+[[Journals]]
 
 <https://romchip.org/index.php/romchip-journal>
 

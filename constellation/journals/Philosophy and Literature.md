@@ -1,3 +1,3 @@
 # Philosophy and Literature
 
-[[journals]]
+[[Journals]]

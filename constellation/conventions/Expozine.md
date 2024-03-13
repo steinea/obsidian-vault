@@ -1,6 +1,6 @@
 # Expozine
 
-[[conventions]]
+[[Conventions]]
 
 <http://expozine.ca/en/>
 

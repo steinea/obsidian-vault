@@ -1,6 +1,6 @@
 # Wormwood
 
-[[journals]]
+[[Journals]]
 
 <http://www.tartaruspress.com/wormwood.html>
 

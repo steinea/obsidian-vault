@@ -1,6 +1,6 @@
 # Ryota Suzuki
 
-[[people]]
+[[People]]
 
 <https://www.mobygames.com/person/385620/ryota-suzuki/>
 

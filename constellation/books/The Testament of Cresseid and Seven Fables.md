@@ -6,7 +6,7 @@ date: 2009
 permalink: '9780571249664'
 ---
 
-[[books]] • [[Robert Henryson]] • [[Poetry]]
+[[Books]] • [[Robert Henryson]] • [[Poetry]]
 
 ### Citation
 

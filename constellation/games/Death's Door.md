@@ -13,7 +13,7 @@ permalink:
 
 # Death’s Door
 
-[[games]]
+[[Games]]
 
 <https://playdeathsdoor.com/>
 

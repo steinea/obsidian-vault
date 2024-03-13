@@ -1,6 +1,6 @@
 # The Perfect Storm
 
-[[books]]
+[[Books]]
 
 <http://www.sebastianjunger.com/the-perfect-storm>
 

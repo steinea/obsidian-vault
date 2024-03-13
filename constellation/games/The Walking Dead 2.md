@@ -12,4 +12,4 @@ permalink: 2015/03/02/the-walking-dead-season-2
 
 # The Walking Dead: Season 2
 
-[[games]]
+[[Games]]

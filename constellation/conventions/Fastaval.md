@@ -1,6 +1,6 @@
 # Fastaval
 
-[[conventions]]
+[[Conventions]]
 
 <https://www.fastaval.dk/en/>
 

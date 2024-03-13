@@ -1,3 +1,3 @@
 # Moby-Dick
 
-[[books]]
+[[Books]]

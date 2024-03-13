@@ -1,3 +1,3 @@
 # Embark Studios
 
-[[companies]]
+[[Companies]]

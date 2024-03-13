@@ -13,7 +13,7 @@ permalink:
 
 # Grime
 
-[[games]]
+[[Games]]
 
 <https://www.grimegame.com/>
 

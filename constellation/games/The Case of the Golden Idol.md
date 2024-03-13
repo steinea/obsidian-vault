@@ -13,7 +13,7 @@ permalink:
 
 # The Case of the Golden Idol
 
-[[games]]
+[[Games]]
 
 <https://www.thegoldenidol.com/>
 

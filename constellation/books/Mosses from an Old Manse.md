@@ -11,7 +11,7 @@ tags:
 
 # Mosses from an Old Manse
 
-[[books]] / [[Literature]]
+[[Books]] / [[Literature]]
 
 Hawthorne, Nathaniel. *Mosses from an Old Manse*. 1846. [[Ohio State University Press]]. [9780814202036](https://ohiostatepress.org/books/BookPages/HawthorneCentenary.htm).
 

@@ -1,6 +1,6 @@
 # Los Angeles Review of Books
 
-[[publications]] / <https://lareviewofbooks.org/>
+[[Publications]] / <https://lareviewofbooks.org/>
 
 > The _Los Angeles Review of Books_ is a nonprofit organization dedicated to promoting and disseminating rigorous, incisive, and engaging writing on every aspect of literature, culture, and the arts.
 >

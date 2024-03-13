@@ -1,3 +1,3 @@
 # Project Management Institute
 
-[[associations]]
+[[Associations]]

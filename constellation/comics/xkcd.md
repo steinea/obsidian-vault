@@ -1,3 +1,3 @@
 # xkcd
 
-[[comics]]
+[[Comics]]

@@ -18,7 +18,7 @@ permalink:
 
 # Drakengard 3
 
-[[games]] / [[Access Games]] / [[Square Enix]] / [[PS3]] / [[2013]]
+[[Games]] / [[Access Games]] / [[Square Enix]] / [[PS3]] / [[2013]]
 
 Director: [[Yoko Taro]]
 

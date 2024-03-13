@@ -1,3 +1,3 @@
 # Advanced Tables
 
-[[tools]] / [[Obsidian]]
+[[Tools]] / [[Obsidian]]

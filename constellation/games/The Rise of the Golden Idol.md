@@ -13,4 +13,4 @@ permalink:
 
 # The Rise of the Golden Idol
 
-[[games]]
+[[Games]]

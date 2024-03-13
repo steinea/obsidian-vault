@@ -13,4 +13,4 @@ permalink:
 
 # Control: Ultimate Edition
 
-[[games]]
+[[Games]]

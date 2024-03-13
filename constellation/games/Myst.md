@@ -1,3 +1,3 @@
 # Myst
 
-[[games]]
+[[Games]]

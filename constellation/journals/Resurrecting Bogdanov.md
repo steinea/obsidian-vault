@@ -1,6 +1,6 @@
 # Resurrecting Bogdanov
 
-[[journals]]
+[[Journals]]
 
 <https://onlinelibrary.wiley.com/toc/10991743a/2023/40/2>
 

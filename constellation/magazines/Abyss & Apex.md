@@ -1,6 +1,6 @@
 # Abyss & Apex
 
-[[magazines]]
+[[Magazines]]
 
 <https://www.abyssapexzine.com/>
 

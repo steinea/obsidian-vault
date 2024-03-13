@@ -1,6 +1,6 @@
 # UN Division for Sustainable Development Goals
 
-[[climate]]
+[[Climate]]
 
 <https://sdgs.un.org/>
 

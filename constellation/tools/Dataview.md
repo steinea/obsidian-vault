@@ -1,6 +1,6 @@
 # Dataview
 
-[[tools]] / [[Obsidian]]
+[[Tools]] / [[Obsidian]]
 
 * [[dataview-activity]]
 * [[dataview-collections]]

@@ -1,6 +1,6 @@
 # IEEE Transactions on Games
 
-[[journals]]
+[[Journals]]
 
 <https://transactions.games/>
 

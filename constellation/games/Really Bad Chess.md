@@ -18,4 +18,4 @@ permalink:
 
 # Really Bad Chess
 
-[[games]]
+[[Games]]

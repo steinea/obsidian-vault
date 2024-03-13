@@ -1,6 +1,6 @@
 # British Science Fiction Association Review
 
-[[journals]]
+[[Journals]]
 
 <https://bsfa.co.uk/the-bsfa-review>
 

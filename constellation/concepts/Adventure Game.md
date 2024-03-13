@@ -1,6 +1,6 @@
 # Adventure Game
 
-[[concepts]]
+[[Concepts]]
 
 [Wikipedia](https://en.m.wikipedia.org/wiki/Adventure_game):
 

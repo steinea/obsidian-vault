@@ -10,7 +10,7 @@ tags: feed
 
 # Moonrise Fund
 
-[[funds]]
+[[Funds]]
 
 <https://heyglitch.com/moonrise>
 

@@ -1,6 +1,6 @@
 # London Science Fiction Research Community
 
-[[associations]]
+[[Associations]]
 
 <http://www.lsfrc.co.uk/>
 

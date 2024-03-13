@@ -1,5 +1,5 @@
 # Internet Medieval Sourcebook
 
-[[publications]]
+[[Publications]]
 
 <https://sourcebooks.fordham.edu/sbook.asp>

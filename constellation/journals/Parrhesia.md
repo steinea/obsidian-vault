@@ -1,6 +1,6 @@
 # Parrhesia
 
-[[journals]]
+[[Journals]]
 
 <https://parrhesiajournal.org/>
 

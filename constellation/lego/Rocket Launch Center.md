@@ -8,7 +8,7 @@ status: wishlist
 url: https://www.lego.com/en-ca/product/rocket-launch-centre-60351
 ---
 
-[[lego]]
+[[Lego]]
 
 # Rocket Launch Center
 

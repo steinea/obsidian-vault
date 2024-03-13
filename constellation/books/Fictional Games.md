@@ -7,7 +7,7 @@ date: 2022
 permalink: '9781350277090'
 ---
 
-[[books]] • [[Stefano Gualeni]] • [[Riccardo Fassone]] • [[Game Studies]]
+[[Books]] • [[Stefano Gualeni]] • [[Riccardo Fassone]] • [[Game Studies]]
 
 ### Citation
 

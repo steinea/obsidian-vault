@@ -16,7 +16,7 @@ date: 2019-08-19
 permalink: 
 ---
 
-[[2017]] • [[games]] • [[Powerhoof]] • [[PS4]]
+[[2017]] • [[Games]] • [[Powerhoof]] • [[PS4]]
 
 From [Wikipedia](https://en.wikipedia.org/wiki/Crawl_(video_game)):
 

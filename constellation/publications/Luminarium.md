@@ -1,5 +1,5 @@
 # Luminarium
 
-[[publications]]
+[[Publications]]
 
 <http://www.luminarium.org/>

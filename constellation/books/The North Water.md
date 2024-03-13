@@ -1,6 +1,6 @@
 # The North Water
 
-[[books]]
+[[Books]]
 
 <https://us.macmillan.com/books/9781250118141/thenorthwater>
 

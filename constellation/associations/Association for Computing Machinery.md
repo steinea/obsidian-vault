@@ -1,6 +1,6 @@
 # Association for Computing Machinery
 
-[[associations]]
+[[Associations]]
 
 <https://www.acm.org/membership/join>
 

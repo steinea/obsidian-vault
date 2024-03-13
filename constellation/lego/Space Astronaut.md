@@ -8,7 +8,7 @@ status: wishlist
 url: https://www.lego.com/en-ca/product/space-astronaut-31152
 ---
 
-[[lego]]
+[[Lego]]
 
 # Space Astronaut
 

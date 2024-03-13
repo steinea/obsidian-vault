@@ -1,3 +1,3 @@
 # The Millions
 
-[[publications]]
+[[Publications]]

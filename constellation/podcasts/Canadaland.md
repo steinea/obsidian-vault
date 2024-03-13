@@ -1,3 +1,3 @@
 # Canadaland
 
-[[podcasts]]
+[[Podcasts]]

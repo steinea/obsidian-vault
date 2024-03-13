@@ -12,7 +12,7 @@ permalink: 2023/08/18/ea-sports-fifa-23
 
 # EA SPORTS FIFA 23
 
-[[games]]
+[[Games]]
 
 EA SPORTS™ FIFA 23 brings The World’s Game to the pitch, with next-gen HyperMotion2 Technology, women’s club football, two FIFA World Cup™ tournaments, cross-play, and more.
 

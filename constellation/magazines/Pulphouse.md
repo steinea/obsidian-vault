@@ -10,7 +10,7 @@ tags: fantastic magazines
 
 # Pulphouse
 
-[[magazines]]
+[[Magazines]]
 
 <https://pulphousemagazine.com/>
 

@@ -1,6 +1,6 @@
 # MoCCA Arts Festival
 
-[[conventions]]
+[[Conventions]]
 
 <https://www.moccafest.org/>
 

@@ -6,7 +6,7 @@ date: 1994
 permalink: '9780415336390'
 ---
 
-[[books]] • [[Homi K. Bhabha]] • [[Theory]]
+[[Books]] • [[Homi K. Bhabha]] • [[Theory]]
 
 ### Citation
 

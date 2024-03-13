@@ -1,6 +1,6 @@
 # Clarion West
 
-[[workshops]]
+[[Workshops]]
 
 <https://www.clarionwest.org/>
 

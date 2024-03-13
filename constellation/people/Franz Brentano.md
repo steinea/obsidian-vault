@@ -1,6 +1,6 @@
 # Franz Brentano
 
-[[people]]
+[[People]]
 
 From [Wikipedia](https://en.m.wikipedia.org/wiki/Franz_Brentano):
 

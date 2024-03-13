@@ -18,4 +18,4 @@ permalink: 2024/02/29/altos-odyssey
 
 # Alto’s Odyssey
 
-[[games]]
+[[Games]]

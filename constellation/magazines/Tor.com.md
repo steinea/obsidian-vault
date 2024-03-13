@@ -1,6 +1,6 @@
 # Tor.com
 
-[[magazines]]
+[[Magazines]]
 
 <https://www.tor.com/submissions-guidelines/>
 

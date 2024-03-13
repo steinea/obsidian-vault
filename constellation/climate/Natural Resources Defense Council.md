@@ -1,6 +1,6 @@
 # Natural Resources Defense Council
 
-[[climate]]
+[[Climate]]
 
 <https://www.nrdc.org/about>
 

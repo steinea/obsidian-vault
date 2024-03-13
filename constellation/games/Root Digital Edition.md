@@ -13,7 +13,7 @@ permalink:
 
 # Root: Digital Edition
 
-[[games]]
+[[Games]]
 
 <https://www.direwolfdigital.com/root/>
 

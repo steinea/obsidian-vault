@@ -1,6 +1,6 @@
 # Journal of Science Fiction and Philosophy
 
-[[journals]]
+[[Journals]]
 
 <https://jsfphil.org/>
 

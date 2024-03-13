@@ -12,4 +12,4 @@ permalink: 2019-10-21-ico
 
 # Ico
 
-[[games]]
+[[Games]]

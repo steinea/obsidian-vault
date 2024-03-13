@@ -1,6 +1,6 @@
 # Royal Society of Literature
 
-[[associations]]
+[[Associations]]
 
 <https://rsliterature.org/>
 

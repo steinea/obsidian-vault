@@ -1,3 +1,3 @@
 # Poetry Foundation
 
-[[publications]]
+[[Publications]]

@@ -13,7 +13,7 @@ permalink:
 
 # Scythe: Digital Edition
 
-[[games]]
+[[Games]]
 
 <https://www.theknightsofunity.com/project/scythe>
 

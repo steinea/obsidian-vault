@@ -7,7 +7,7 @@ rating: ★★★★★
 liked: ♥
 ---
 
-[[2023]] • [[film]] • [[Takashi Yamazaki]] • [[Toho Studios]]
+[[2023]] • [[Film]] • [[Takashi Yamazaki]] • [[Toho Studios]]
 
 <https://www.imdb.com/title/tt23289160/>
 

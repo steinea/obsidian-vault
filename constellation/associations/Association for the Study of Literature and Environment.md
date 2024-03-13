@@ -1,6 +1,6 @@
 # Association for the Study of Literature and Environment
 
-[[associations]]
+[[Associations]]
 
 <https://www.asle.org/>
 

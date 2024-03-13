@@ -16,7 +16,7 @@ date: 2019-12-31
 permalink: 2019/12/31/jackbox-1
 ---
 
-[[2014]] • [[games]] • [[Jackbox Games]] • [[Telltale Publishing]] • [[PS4]]
+[[2014]] • [[Games]] • [[Jackbox Games]] • [[Telltale Publishing]] • [[PS4]]
 
 From [Wikipedia](https://en.wikipedia.org/wiki/The_Jackbox_Party_Pack#The_Jackbox_Party_Pack_(2014)):
 

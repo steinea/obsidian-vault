@@ -12,4 +12,4 @@ permalink: 2021/11/04/golf-club-wasteland
 
 # Golf Club: Wasteland
 
-[[games]]
+[[Games]]

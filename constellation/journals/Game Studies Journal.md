@@ -1,6 +1,6 @@
 # Game Studies
 
-[[journals]]
+[[Journals]]
 
 <http://www.gamestudies.org>
 

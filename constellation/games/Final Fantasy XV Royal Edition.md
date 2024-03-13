@@ -18,7 +18,7 @@ permalink:
 
 # Final Fantasy XV Royal Edition
 
-[[games]] / [[Luminous Productions]] / [[Square Enix]] / [[PS4]] / [[2016]]
+[[Games]] / [[Luminous Productions]] / [[Square Enix]] / [[PS4]] / [[2016]]
 
 Director: [[Hajime Tabata]]
 Producer: [[Shinji Hashimoto]]

@@ -1,3 +1,3 @@
 # Richard Lemarchand
 
-[[people]]
+[[People]]

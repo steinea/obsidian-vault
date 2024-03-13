@@ -1,6 +1,6 @@
 # Worldcon
 
-[[conventions]]
+[[Conventions]]
 
 <https://www.worldcon.org/>
 

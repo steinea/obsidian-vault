@@ -1,6 +1,6 @@
 # Canadian Game Studies Association Annual Conference
 
-[[conferences]]
+[[Conferences]]
 
 <https://gamestudies.ca/conference-conference/>
 

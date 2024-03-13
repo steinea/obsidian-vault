@@ -1,6 +1,6 @@
 # Scopus
 
-[[tools]]
+[[Tools]]
 
 <https://www.scopus.com/home.uri?zone=header&origin=AuthorNamesList>
 

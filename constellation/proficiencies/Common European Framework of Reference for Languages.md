@@ -1,6 +1,6 @@
 # Common European Framework of Reference for Languages
 
-[[proficiencies]]
+[[Proficiencies]]
 
 <https://www.coe.int/en/web/common-european-framework-reference-languages/level-descriptions>
 

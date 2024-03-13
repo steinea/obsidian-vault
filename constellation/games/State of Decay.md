@@ -18,4 +18,4 @@ permalink:
 
 # State of Decay
 
-[[games]]
+[[Games]]

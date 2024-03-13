@@ -12,4 +12,4 @@ permalink:
 
 # Dragon Age: Inquisition
 
-[[games]]
+[[Games]]

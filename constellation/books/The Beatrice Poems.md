@@ -1,3 +1,3 @@
 # The Beatrice Poems
 
-[[books]]
+[[Books]]

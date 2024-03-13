@@ -1,6 +1,6 @@
 # Briscola
 
-[[games]]
+[[Games]]
 
 Learned about from Episode 129 of *[[Eggplant]]*, “Reinforcing Worldbuilding through Gameplay with Spoils,” December 23, 2023. <https://eggplant.show/129-reinforcing-worldbuilding-through-gameplay-with-spoils>.
 

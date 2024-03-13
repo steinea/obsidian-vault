@@ -1,6 +1,6 @@
 # Crime Writers' Association
 
-[[associations]]
+[[Associations]]
 
 <https://thecwa.co.uk/about-the-cwa/>
 

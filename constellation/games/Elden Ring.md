@@ -12,4 +12,4 @@ permalink: 2022/03/22/elden-ring
 
 # Elden Ring
 
-[[games]]
+[[Games]]

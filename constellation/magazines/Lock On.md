@@ -1,6 +1,6 @@
 # Lock On
 
-[[magazines]]
+[[Magazines]]
 
 <https://www.lostincult.co.uk> 
 

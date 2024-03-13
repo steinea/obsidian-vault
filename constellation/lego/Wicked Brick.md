@@ -1,6 +1,6 @@
 # Wicked Brick
 
-[[lego]]
+[[Lego]]
 
 <https://www.wickedbrick.com/en-ca>
 

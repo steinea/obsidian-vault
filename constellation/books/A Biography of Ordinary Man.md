@@ -7,7 +7,7 @@ date: 1985
 permalink: '9781509509997'
 ---
 
-[[books]] • [[François Laruelle]] • [[Philosophy]]
+[[Books]] • [[François Laruelle]] • [[Philosophy]]
 
 ### Citation
 

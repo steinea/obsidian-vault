@@ -1,6 +1,6 @@
 # Vienna Circle Collection
 
-[[bookseries]]
+[[Book Series]]
 
 <https://www.springer.com/series/6671/books>
 

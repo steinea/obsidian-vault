@@ -1,3 +1,3 @@
 # Colossal Cave Adventure
 
-[[games]]
+[[Games]]

@@ -1,6 +1,6 @@
 # Strong Museum of Play
 
-[[associations]]
+[[Associations]]
 
 <https://www.museumofplay.org/>
 

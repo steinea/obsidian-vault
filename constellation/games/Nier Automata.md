@@ -18,7 +18,7 @@ permalink:
 
 # Nier: Automata
 
-[[games]] / [[PlatinumGames]] / [[Square Enix]] / [[PS4]] / [[2017]]
+[[Games]] / [[PlatinumGames]] / [[Square Enix]] / [[PS4]] / [[2017]]
 
 Director: [[Yoko Taro]]
 Main Character Design: [[Akihiko Yoshida]]

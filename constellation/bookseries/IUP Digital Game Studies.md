@@ -1,6 +1,6 @@
 # IUP Digital Game Studies
 
-[[bookseries]]
+[[Book Series]]
 
 <https://gunkelweb.com/digitalgames/titles.html>
 

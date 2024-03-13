@@ -12,4 +12,4 @@ permalink: 2020/09/29/donut-county
 
 # Donut County
 
-[[games]]
+[[Games]]

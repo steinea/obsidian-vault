@@ -1,6 +1,6 @@
 # Acta Ludologica
 
-[[journals]]
+[[Journals]]
 
 <https://actaludologica.com/>
 

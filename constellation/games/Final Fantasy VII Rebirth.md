@@ -18,7 +18,7 @@ permalink:
 
 # Final Fantasy VII Rebirth
 
-[[games]] / [[Square Enix]] / [[PS5]] / [[2024]]
+[[Games]] / [[Square Enix]] / [[PS5]] / [[2024]]
 
 Co-director: [[Motomu Toriyama]]
 Creative Director: [[Tetsuya Nomura]]

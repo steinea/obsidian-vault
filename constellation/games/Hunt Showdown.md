@@ -12,4 +12,4 @@ permalink: 2021/08/22/hunt-showdown
 
 # Hunt: Showdown
 
-[[games]]
+[[Games]]

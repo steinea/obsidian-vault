@@ -1,6 +1,6 @@
 # Femspec
 
-[[journals]]
+[[Journals]]
 
 <https://www.femspec.org/>
 

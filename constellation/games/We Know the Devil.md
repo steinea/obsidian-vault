@@ -12,4 +12,4 @@ permalink: 2022/04/06/we-know-the-devil
 
 # We Know the Devil
 
-[[games]]
+[[Games]]

@@ -18,4 +18,4 @@ permalink:
 
 # Portal: Still Alive
 
-[[games]]
+[[Games]]

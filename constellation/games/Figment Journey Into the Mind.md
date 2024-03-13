@@ -13,7 +13,7 @@ permalink:
 
 # Figment: Journey Into the Mind
 
-[[games]]
+[[Games]]
 
 <https://bedtime.io/figment/>
 

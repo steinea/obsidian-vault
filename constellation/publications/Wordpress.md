@@ -1,3 +1,3 @@
 # Wordpress
 
-[[publications]]
+[[Publications]]

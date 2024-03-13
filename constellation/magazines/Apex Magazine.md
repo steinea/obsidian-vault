@@ -1,6 +1,6 @@
 # Apex Magazine
 
-[[magazines]]
+[[Magazines]]
 
 <https://apex-magazine.com/>
 

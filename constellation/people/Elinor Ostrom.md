@@ -1,6 +1,6 @@
 # Elinor Ostrom
 
-[[people]]
+[[People]]
 
 <https://en.m.wikipedia.org/wiki/Elinor_Ostrom>
 

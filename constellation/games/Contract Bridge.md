@@ -1,6 +1,6 @@
 # Contract Bridge
 
-[[games]]
+[[Games]]
 
 [Wikipedia](https://en.wikipedia.org/wiki/Contract_bridge):
 

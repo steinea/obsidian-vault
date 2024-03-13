@@ -1,6 +1,6 @@
 # Fibreculture Journal
 
-[[journals]]
+[[Journals]]
 
 <https://fibreculturejournal.org/>
 

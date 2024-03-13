@@ -6,7 +6,7 @@ date: 2016
 permalink: '9780571327331'
 ---
 
-[[books]] • [[Seamus Heaney]] • [[Poetry]]
+[[Books]] • [[Seamus Heaney]] • [[Poetry]]
 
 ### Citation
 

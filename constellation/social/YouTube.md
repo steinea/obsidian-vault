@@ -1,3 +1,3 @@
 # YouTube
 
-[[social]]
+[[Social]]

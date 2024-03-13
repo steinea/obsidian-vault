@@ -1,6 +1,6 @@
 # Bastards Jam
 
-[[jams]]
+[[Jams]]
 
 <https://itch.io/jam/bastards-jam>
 

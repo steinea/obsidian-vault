@@ -1,6 +1,6 @@
 # Fusion Fragment
 
-[[magazines]]
+[[Magazines]]
 
 <http://www.fusionfragment.com/submissions/>
 

@@ -1,6 +1,6 @@
 # Space Fantasy
 
-[[magazines]]
+[[Magazines]]
 
 <https://spacefantasymag.com/>
 

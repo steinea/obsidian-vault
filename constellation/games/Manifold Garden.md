@@ -13,7 +13,7 @@ permalink:
 
 # Manifold Garden
 
-[[games]]
+[[Games]]
 
 <https://manifold.garden/>
 

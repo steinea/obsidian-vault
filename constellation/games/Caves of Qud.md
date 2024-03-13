@@ -13,7 +13,7 @@ permalink:
 
 # Caves of Qud
 
-[[games]]
+[[Games]]
 
 <https://www.cavesofqud.com/>
 

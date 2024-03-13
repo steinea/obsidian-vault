@@ -1,3 +1,3 @@
 # Anglo-Saxon England
 
-[[journals]]
+[[Journals]]

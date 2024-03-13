@@ -12,4 +12,4 @@ permalink: 2021/05/20/jedi-fallen-order
 
 # Jedi: Fallen Order
 
-[[games]]
+[[Games]]

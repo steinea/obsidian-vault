@@ -18,7 +18,7 @@ permalink:
 
 # Forspoken
 
-[[games]] / [[Luminous Productions]] / [[Square Enix]] / [[PS5]] / [[2023]]
+[[Games]] / [[Luminous Productions]] / [[Square Enix]] / [[PS5]] / [[2023]]
 
 Luminous Productions Founder: [[Hajime Tabata]]
 

@@ -12,4 +12,4 @@ permalink: 2022/05/20/the-walking-dead-the-final-season
 
 # The Walking Dead: The Final Season
 
-[[games]]
+[[Games]]

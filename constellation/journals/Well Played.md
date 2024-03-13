@@ -1,6 +1,6 @@
 # Well Played
 
-[[journals]]
+[[Journals]]
 
 <https://press.etc.cmu.edu/index.php/publication-tag/well-played/>
 

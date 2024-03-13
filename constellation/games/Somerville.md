@@ -13,7 +13,7 @@ permalink:
 
 # Somerville
 
-[[games]]
+[[Games]]
 
 <https://jumpship.co.uk/>
 

@@ -10,7 +10,7 @@ tags: fantastic journals
 
 # Foundation Journal
 
-[[journals]]
+[[Journals]]
 
 <https://www.sf-foundation.org/about-the-sff-journal>
 

@@ -1,3 +1,3 @@
 # Simon Fraser University
 
-[[schools]]
+[[Schools]]

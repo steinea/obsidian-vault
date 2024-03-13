@@ -14,7 +14,7 @@ tags:
 
 ### Feminist Confrontations in Digital Culture
 
-[[books]]
+[[Books]]
 
 Phillips, Amanda. *Gamer Trouble: Feminist Confrontations in Digital Culture.* NYU Press, 2020. [9781479834921](https://nyupress.org/9781479834921/gamer-trouble/).
 

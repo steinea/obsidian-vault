@@ -12,4 +12,4 @@ permalink: 2022/04/08/heaven-will-be-mine
 
 # Heaven Will Be Mine
 
-[[games]]
+[[Games]]

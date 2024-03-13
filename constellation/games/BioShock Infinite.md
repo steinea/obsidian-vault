@@ -16,7 +16,7 @@ date: 2014-08-22
 permalink: 2014/08/22/bioshock-infinite
 ---
 
-[[2013]] • [[games]] • [[Irrational Games]] • [[2K]] • [[PS3]]
+[[2013]] • [[Games]] • [[Irrational Games]] • [[2K]] • [[PS3]]
 
 From [Wikipedia](https://en.wikipedia.org/wiki/BioShock_Infinite):
 

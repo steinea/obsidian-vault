@@ -12,4 +12,4 @@ permalink: 2022/09/27/battlefield-2042
 
 # Battlefield 2042
 
-[[games]]
+[[Games]]

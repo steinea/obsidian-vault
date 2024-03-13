@@ -1,3 +1,3 @@
 # Tolkien Gateway
 
-[[publications]]
+[[Publications]]

@@ -1,6 +1,6 @@
 # Brickset
 
-[[lego]]
+[[Lego]]
 
 <https://brickset.com/>
 

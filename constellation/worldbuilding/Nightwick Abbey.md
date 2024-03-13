@@ -1,6 +1,6 @@
 # Nightwick Abbey
 
-[[worldbuilding]]
+[[Worldbuilding]]
 
 <https://www.patreon.com/InPlacesDeep/posts>
 

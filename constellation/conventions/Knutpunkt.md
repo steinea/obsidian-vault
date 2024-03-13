@@ -1,6 +1,6 @@
 # Knutpunkt
 
-[[conventions]]
+[[Conventions]]
 
 <https://en.wikipedia.org/wiki/Knutepunkt>
 

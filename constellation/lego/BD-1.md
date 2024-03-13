@@ -8,7 +8,7 @@ status: unbuilt
 url: https://www.lego.com/en-ca/product/bd-1-75335
 ---
 
-[[lego]]
+[[Lego]]
 
 # BD-1
 

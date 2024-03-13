@@ -1,3 +1,3 @@
 # Game Studies Study Buddies
 
-[[podcasts]]
+[[Podcasts]]

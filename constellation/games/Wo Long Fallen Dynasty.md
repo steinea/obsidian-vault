@@ -18,7 +18,7 @@ permalink:
 
 # Wo Long Fallen Dynasty
 
-[[games]] / [[Team Ninja]] / [[Koei Tecmo]] / [[PS5]] / [[2023]]
+[[Games]] / [[Team Ninja]] / [[Koei Tecmo]] / [[PS5]] / [[2023]]
 
 From [Wikipedia](https://en.wikipedia.org/wiki/Wo_Long:_Fallen_Dynasty):
 

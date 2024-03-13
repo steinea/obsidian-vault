@@ -1,3 +1,3 @@
 # Narrative Design
 
-[[proficiencies]]
+[[Proficiencies]]

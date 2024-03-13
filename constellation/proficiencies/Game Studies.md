@@ -1,3 +1,3 @@
 # Game Studies
 
-[[proficiencies]]
+[[Proficiencies]]

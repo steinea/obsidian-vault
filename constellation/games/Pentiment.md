@@ -12,7 +12,7 @@ permalink: 2023/09/05/pentiment
 
 # Pentiment
 
-[[games]]
+[[Games]]
 
 <https://pentiment.obsidian.net/>
 

@@ -12,4 +12,4 @@ permalink: 2021/03/11/the-flower-collectors
 
 # The Flower Collectors
 
-[[games]]
+[[Games]]

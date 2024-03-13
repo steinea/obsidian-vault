@@ -18,4 +18,4 @@ permalink:
 
 # Fallout 3
 
-[[games]]
+[[Games]]

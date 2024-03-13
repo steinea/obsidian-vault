@@ -1,3 +1,3 @@
 # Agent Swarm
 
-[[publications]]
+[[Publications]]

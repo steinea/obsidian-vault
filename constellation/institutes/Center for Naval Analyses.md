@@ -1,6 +1,6 @@
 # Center for Naval Analyses
 
-[[institutes]]
+[[Institutes]]
 
 <https://www.cna.org/centers-and-divisions/cna/ow/gaming-and-integration>
 

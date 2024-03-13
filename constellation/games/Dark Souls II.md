@@ -12,4 +12,4 @@ permalink: 2018/01/14/dark-souls-ii-scholar-of-the-first-sin
 
 # Dark Souls II
 
-[[games]]
+[[Games]]

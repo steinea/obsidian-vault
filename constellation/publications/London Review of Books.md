@@ -1,6 +1,6 @@
 # London Review of Books
 
-[[publications]]
+[[Publications]]
 
 <https://www.lrb.co.uk/>
 

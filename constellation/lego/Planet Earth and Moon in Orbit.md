@@ -8,7 +8,7 @@ status: wishlist
 url: https://www.lego.com/en-ca/product/planet-earth-and-moon-in-orbit-42179
 ---
 
-[[lego]]
+[[Lego]]
 
 # Planet Earth and Moon in Orbit
 

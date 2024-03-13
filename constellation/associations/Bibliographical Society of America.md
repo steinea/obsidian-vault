@@ -1,6 +1,6 @@
 # Bibliographical Society of America
 
-[[associations]]
+[[Associations]]
 
 <https://bibsocamer.org/about-us/the-society/>
 

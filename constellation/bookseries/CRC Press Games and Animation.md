@@ -1,6 +1,6 @@
 # CRC Press Games and Animation
 
-[[bookseries]]
+[[Book Series]]
 
 <https://www.crcpress.com/games-animation>
 

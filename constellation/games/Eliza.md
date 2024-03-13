@@ -12,4 +12,4 @@ permalink: 2021/06/06/eliza
 
 # Eliza
 
-[[games]]
+[[Games]]

@@ -1,6 +1,6 @@
 # Wireframe
 
-[[magazines]]
+[[Magazines]]
 
 <https://wireframe.raspberrypi.com/articles/write-for-wireframe-magazine>
 

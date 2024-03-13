@@ -12,5 +12,5 @@ permalink: 2014/06/03/transistor
 
 # Transistor
 
-[[games]]
+[[Games]]
 

@@ -1,6 +1,6 @@
 # AdventureX
 
-[[conferences]]
+[[Conferences]]
 
 <https://adventurexpo.org/>
 

@@ -18,4 +18,4 @@ permalink:
 
 # Kinect Adventures
 
-[[games]]
+[[Games]]

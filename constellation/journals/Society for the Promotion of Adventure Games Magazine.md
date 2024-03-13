@@ -1,6 +1,6 @@
 # Society for the Promotion of Adventure Games Magazine
 
-[[journals]]
+[[Journals]]
 
 <http://www.spagmag.org/>
 

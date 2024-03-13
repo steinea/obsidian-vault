@@ -1,6 +1,6 @@
 # BookLab
 
-[[institutes]]
+[[Institutes]]
 
 <https://english.umd.edu/research-innovation/booklab>
 

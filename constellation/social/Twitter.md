@@ -1,3 +1,3 @@
 # Twitter
 
-[[social]]
+[[Social]]

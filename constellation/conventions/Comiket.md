@@ -1,6 +1,6 @@
 # Comiket
 
-[[conventions]]
+[[Conventions]]
 
 <https://www.comiket.co.jp/index_e.html>
 

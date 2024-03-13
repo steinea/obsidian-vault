@@ -13,7 +13,7 @@ permalink:
 
 # Planet of Lana
 
-[[games]]
+[[Games]]
 
 <https://planetoflana.com/>
 

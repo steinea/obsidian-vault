@@ -1,6 +1,6 @@
 # Paris Games Week
 
-[[conventions]]
+[[Conventions]]
 
 <https://www.parisgamesweek.com/>
 

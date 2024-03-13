@@ -1,3 +1,3 @@
 # Fabula Nova Crystallis
 
-[[games]]
+[[Games]]

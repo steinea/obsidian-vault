@@ -1,3 +1,3 @@
 # Game Development
 
-[[proficiencies]]
+[[Proficiencies]]

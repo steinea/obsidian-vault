@@ -1,6 +1,6 @@
 # Journal of Virtual Worlds Research
 
-[[journals]]
+[[Journals]]
 
 <https://journals.tdl.org/jvwr/index.php/jvwr>
 

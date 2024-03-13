@@ -1,6 +1,6 @@
 # Journal of Cinema and Media Studies
 
-[[journals]]
+[[Journals]]
 
 <https://www.cmstudies.org/page/jcms>
 

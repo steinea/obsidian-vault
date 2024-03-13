@@ -1,3 +1,3 @@
 # Inti Creates
 
-[[companies]]
+[[Companies]]

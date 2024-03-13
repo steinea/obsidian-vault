@@ -1,6 +1,6 @@
 # Indie Fund
 
-[[funds]]
+[[Funds]]
 
 <https://indie-fund.com/>
 

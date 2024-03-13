@@ -1,3 +1,3 @@
 # Literature
 
-[[concepts]]
+[[Concepts]]

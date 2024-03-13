@@ -1,6 +1,6 @@
 # Glasgow International Fantasy Conversations
 
-[[conferences]]
+[[Conferences]]
 
 <https://www.gla.ac.uk/schools/critical/research/researchcentresandnetworks/fantasyatglasgow/gifcon/>
 

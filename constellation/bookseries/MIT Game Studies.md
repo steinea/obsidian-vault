@@ -1,6 +1,6 @@
 # MIT Game Studies
 
-[[bookseries]]
+[[Book Series]]
 
 <https://web.archive.org/web/20220715110634/https://mitpress.mit.edu/topics/game-studies>
 

@@ -1,6 +1,6 @@
 # Electronic Visualisation and the Arts
 
-[[conferences]]
+[[Conferences]]
 
 <http://www.eva-london.org/>
 

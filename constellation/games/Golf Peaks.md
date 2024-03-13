@@ -12,4 +12,4 @@ permalink: 2023/07/16/golf-peaks
 
 # Golf Peaks
 
-[[games]]
+[[Games]]

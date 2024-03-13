@@ -16,7 +16,7 @@ date: 2014-08-31
 permalink: 2014/08/31/skyrim-ps3
 ---
 
-[[2011]] • [[games]] • [[Bethesda Game Studios]] • [[Bethesda Softworks]] • [[PS3]]
+[[2011]] • [[Games]] • [[Bethesda Game Studios]] • [[Bethesda Softworks]] • [[PS3]]
 
 From [Wikipedia](https://en.wikipedia.org/wiki/The_Elder_Scrolls_V:_Skyrim):
 

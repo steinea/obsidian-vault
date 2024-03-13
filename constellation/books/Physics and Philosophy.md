@@ -7,7 +7,7 @@ date: 1958
 permalink: '9780141182155'
 ---
 
-[[books]] • [[Werner Heisenberg]] • [[Philosophy]] • [[Physics]]
+[[Books]] • [[Werner Heisenberg]] • [[Philosophy]] • [[Physics]]
 
 ### Citation
 

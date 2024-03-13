@@ -1,3 +1,3 @@
 # Fumito Ueda
 
-[[people]]
+[[People]]

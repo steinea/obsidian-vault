@@ -12,4 +12,4 @@ permalink: 2021/08/11/ashen
 
 # Ashen
 
-[[games]]
+[[Games]]

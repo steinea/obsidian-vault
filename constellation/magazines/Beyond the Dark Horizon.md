@@ -1,6 +1,6 @@
 # Beyond the Dark Horizon
 
-[[magazines]]
+[[Magazines]]
 
 <https://beyondthedarkhorizon.org/>
 

@@ -1,6 +1,6 @@
 # Augur Magazine
 
-[[magazines]]
+[[Magazines]]
 
 <http://www.augurmag.com/>
 

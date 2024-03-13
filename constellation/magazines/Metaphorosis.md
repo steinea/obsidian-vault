@@ -1,6 +1,6 @@
 # Metaphorosis
 
-[[magazines]]
+[[Magazines]]
 
 <https://magazine.metaphorosis.com/>
 

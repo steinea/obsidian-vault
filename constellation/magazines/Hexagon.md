@@ -1,6 +1,6 @@
 # Hexagon
 
-[[magazines]]
+[[Magazines]]
 
 <https://hexagonmagazine.ca/>
 

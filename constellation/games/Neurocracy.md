@@ -1,6 +1,6 @@
 # Neurocracy
 
-[[games]]
+[[Games]]
 
 <https://omnipedia.app/wiki/2049/10/01/Main_Page>
 

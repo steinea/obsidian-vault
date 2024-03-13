@@ -1,3 +1,3 @@
 # PS5
 
-[[tools]]
+[[Tools]]

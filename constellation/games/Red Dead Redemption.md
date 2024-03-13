@@ -18,4 +18,4 @@ permalink:
 
 # Red Dead Redemption
 
-[[games]]
+[[Games]]

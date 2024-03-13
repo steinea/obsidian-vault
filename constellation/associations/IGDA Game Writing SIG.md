@@ -1,6 +1,6 @@
 # IGDA Game Writing SIG
 
-[[associations]]
+[[Associations]]
 
 <https://gamewriting.org/>
 

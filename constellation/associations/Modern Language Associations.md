@@ -1,6 +1,6 @@
 # Modern Language Association
 
-[[associations]]
+[[Associations]]
 
 <https://www.mla.org/>
 

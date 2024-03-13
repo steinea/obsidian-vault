@@ -13,7 +13,7 @@ permalink:
 
 # Dordogne
 
-[[games]]
+[[Games]]
 
 <https://www.focus-entmt.com/en/games/dordogne>
 

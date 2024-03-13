@@ -1,6 +1,6 @@
 # Chartered Manager (CMgr)
 
-[[certifications]] / [[Chartered Managers Canada]]
+[[Certifications]] / [[Chartered Managers Canada]]
 
 <https://cim.ca/designations/cmgr-chartered-manager>
 

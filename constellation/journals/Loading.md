@@ -1,6 +1,6 @@
 # Loading
 
-[[journals]]
+[[Journals]]
 
 <https://journals.sfu.ca/loading/index.php/loading>
 

@@ -18,4 +18,4 @@ permalink:
 
 # I Am Alive
 
-[[games]]
+[[Games]]

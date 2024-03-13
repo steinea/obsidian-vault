@@ -1,6 +1,6 @@
 # Crime Writers of Canada
 
-[[associations]]
+[[Associations]]
 
 <https://crimewriterscanada.com/>
 

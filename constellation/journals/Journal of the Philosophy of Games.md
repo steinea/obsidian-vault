@@ -1,6 +1,6 @@
 # Journal of the Philosophy of Games
 
-[[journals]]
+[[Journals]]
 
 <https://journals.uio.no/index.php/JPG/index>
 

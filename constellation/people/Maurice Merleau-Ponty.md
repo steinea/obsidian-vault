@@ -1,3 +1,3 @@
 # Maurice Merleau-Ponty
 
-[[people]]
+[[People]]

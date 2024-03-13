@@ -1,6 +1,6 @@
 # Test-Driven Development
 
-[[concepts]]
+[[Concepts]]
 
 <https://en.wikipedia.org/wiki/Test-driven_development>
 

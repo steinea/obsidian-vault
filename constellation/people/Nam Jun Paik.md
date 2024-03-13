@@ -1,3 +1,3 @@
 # Nam Jun Paik
 
-[[people]]
+[[People]]

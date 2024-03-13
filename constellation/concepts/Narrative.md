@@ -1,3 +1,3 @@
 # Narrative
 
-[[concepts]]
+[[Concepts]]

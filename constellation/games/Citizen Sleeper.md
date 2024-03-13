@@ -13,7 +13,7 @@ permalink:
 
 # Citizen Sleeper
 
-[[games]]
+[[Games]]
 
 <https://citizensleeper.com/>
 

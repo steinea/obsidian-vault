@@ -1,6 +1,6 @@
 # Fan Studies Network North America
 
-[[associations]]
+[[Associations]]
 
 <https://fsn-northamerica.org/about/>
 

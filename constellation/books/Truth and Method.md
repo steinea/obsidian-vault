@@ -6,7 +6,7 @@ date: 1960
 permalink: '9781780936246'
 ---
 
-[[books]] • [[Philosophy]] • [[Hans-Georg Gadamer]]
+[[Books]] • [[Philosophy]] • [[Hans-Georg Gadamer]]
 
 ### Citation
 

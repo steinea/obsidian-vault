@@ -1,6 +1,6 @@
 # Games: Research and Practice
 
-[[journals]]
+[[Journals]]
 
 <https://dl.acm.org/journal/games/about>
 

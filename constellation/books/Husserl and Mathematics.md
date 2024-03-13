@@ -12,7 +12,7 @@ tags:
 
 # Husserl and Mathematics
 
-[[books]] / [[Mathematics]] / [[Phenomenology]]
+[[Books]] / [[Mathematics]] / [[Phenomenology]]
 
 Hartimo, Mirja. *Husserl and Mathematics*. Cambridge University Press, 2021. [9780199560998](https://www.cambridge.org/core/books/husserl-and-mathematics/72514EC5DEFD19A901DB1D2CF13371F0).
 

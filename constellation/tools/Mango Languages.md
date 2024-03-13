@@ -1,6 +1,6 @@
 # Mango Languages
 
-[[tools]]
+[[Tools]]
 
 <https://mangolanguages.com/>
 

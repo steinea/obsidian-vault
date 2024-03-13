@@ -10,7 +10,7 @@ tags: games conferences
 
 # Generation Analog
 
-[[conferences]]
+[[Conferences]]
 
 <https://analoggamestudies.org/2022-generation-analog-cfp/>
 

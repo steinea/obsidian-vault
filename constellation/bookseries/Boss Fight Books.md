@@ -1,6 +1,6 @@
 # Boss Fight Books
 
-[[bookseries]]
+[[Book Series]]
 
 <https://bossfightbooks.com/>
 

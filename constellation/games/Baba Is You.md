@@ -12,4 +12,4 @@ permalink: 2020/09/25/baba-is-you
 
 # Baba Is You
 
-[[games]]
+[[Games]]

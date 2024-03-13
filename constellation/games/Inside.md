@@ -11,4 +11,4 @@ permalink: 2022/09/15/inside
 ---
 # Inside
 
-[[games]]
+[[Games]]

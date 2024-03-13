@@ -1,6 +1,6 @@
 # Quake Brutalist Jam II
 
-[[jams]]
+[[Jams]]
 
 <https://www.slipseer.com/index.php?resources/quake-brutalist-jam-2.278/>
 

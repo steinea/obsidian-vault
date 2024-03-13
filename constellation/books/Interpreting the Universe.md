@@ -7,7 +7,7 @@ date: 1933
 permalink: '9781573923532'
 ---
 
-[[books]] • [[John Macmurray]] • [[Philosophy]]
+[[Books]] • [[John Macmurray]] • [[Philosophy]]
 
 ### Citation
 

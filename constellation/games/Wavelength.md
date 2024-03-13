@@ -12,4 +12,4 @@ permalink:
 
 # Wavelength
 
-[[games]]
+[[Games]]

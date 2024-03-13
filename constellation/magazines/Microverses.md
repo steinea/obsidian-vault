@@ -1,6 +1,6 @@
 # Microverses
 
-[[magazines]]
+[[Magazines]]
 
 <https://microverses.net/>
 

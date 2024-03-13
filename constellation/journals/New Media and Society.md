@@ -1,6 +1,6 @@
 # New Media and Society
 
-[[journals]]
+[[Journals]]
 
 <https://journals.sagepub.com/home/nms>
 

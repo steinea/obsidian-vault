@@ -1,6 +1,6 @@
 # Whist
 
-[[games]]
+[[Games]]
 
 [Wikipedia](https://en.wikipedia.org/wiki/Whist):
 

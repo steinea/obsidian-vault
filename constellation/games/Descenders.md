@@ -12,4 +12,4 @@ permalink: 2022/01/04/descenders
 
 # Descenders
 
-[[games]]
+[[Games]]

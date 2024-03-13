@@ -1,6 +1,6 @@
 # Clarkesworld
 
-[[magazines]]
+[[Magazines]]
 
 <https://clarkesworldmagazine.com/>
 

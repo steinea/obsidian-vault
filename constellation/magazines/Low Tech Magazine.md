@@ -10,7 +10,7 @@ tags: feed
 
 # Low Tech Magazine
 
-[[magazines]]
+[[Magazines]]
 
 <https://solar.lowtechmagazine.com/about/the-solar-website>
 

@@ -1,6 +1,6 @@
 # Ansible
 
-[[magazines]]
+[[Magazines]]
 
 <https://news.ansible.uk/>
 

@@ -1,3 +1,3 @@
 # Isamu Kamikokuryo
 
-[[people]]
+[[People]]

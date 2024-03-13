@@ -1,3 +1,3 @@
 # SFI Collective Computation Group
 
-[[institutes]]
+[[Institutes]]

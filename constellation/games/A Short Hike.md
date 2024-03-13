@@ -12,4 +12,4 @@ permalink: 2022/01/05/a-short-hike
 
 # A Short Hike
 
-[[games]]
+[[Games]]

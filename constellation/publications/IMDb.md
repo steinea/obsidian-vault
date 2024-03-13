@@ -1,3 +1,3 @@
 # IMDb
 
-[[publications]]
+[[Publications]]

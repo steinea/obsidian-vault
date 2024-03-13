@@ -1,6 +1,6 @@
 # Radon Journal
 
-[[magazines]]
+[[Magazines]]
 
 <www.radonjournal.com>
 

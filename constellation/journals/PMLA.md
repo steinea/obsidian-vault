@@ -1,3 +1,3 @@
 # PMLA
 
-[[journals]]
+[[Journals]]

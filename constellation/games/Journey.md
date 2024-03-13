@@ -12,4 +12,4 @@ permalink: 2017/08/15/journey
 
 # Journey
 
-[[games]]
+[[Games]]

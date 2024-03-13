@@ -1,3 +1,3 @@
 # Shift Up
 
-[[companies]]
+[[Companies]]

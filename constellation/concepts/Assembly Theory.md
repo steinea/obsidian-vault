@@ -1,6 +1,6 @@
 # Assembly Theory
 
-[[concepts]]
+[[Concepts]]
 
 <https://www.nature.com/articles/s41586-023-06600-9>
 

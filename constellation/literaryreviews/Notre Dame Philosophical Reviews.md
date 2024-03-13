@@ -1,6 +1,6 @@
 # Notre Dame Philosophical Reviews
 
-[[literaryreviews]]
+[[Literary Reviews]]
 
 <https://ndpr.nd.edu/>
 

@@ -11,7 +11,7 @@ tags:
 
 # Towards a Real Philosophy of Mathematics
 
-[[books]] / [[Mathematics]]
+[[Books]] / [[Mathematics]]
 
 Corfield, David. *Towards a Real Philosophy of Mathematics*. Cambridge University Press, 2009. [9780511487576](https://www.cambridge.org/core/books/towards-a-philosophy-of-real-mathematics/AA661F9049D69E6CDA3CD97DCCAD565F). 
 

@@ -1,3 +1,3 @@
 # CBC
 
-[[publications]]
+[[Publications]]

@@ -1,3 +1,3 @@
 # Smart Typography
 
-[[tools]] / [[Obsidian]]
+[[Tools]] / [[Obsidian]]

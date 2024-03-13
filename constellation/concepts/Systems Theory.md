@@ -1,6 +1,6 @@
 # Systems Theory
 
-[[concepts]]
+[[Concepts]]
 
 From [Wikipedia](https://en.m.wikipedia.org/wiki/Systems_theory):
 

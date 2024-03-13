@@ -1,6 +1,6 @@
 # Gamma Space
 
-[[collectives]]
+[[Collectives]]
 
 <https://www.gammaspace.ca/>
 

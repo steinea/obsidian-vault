@@ -12,7 +12,7 @@ permalink:
 
 # A Highland Song
 
-[[games]]
+[[Games]]
 
 <https://www.inklestudios.com/a-highland-song/>
 

@@ -1,6 +1,6 @@
 # Ancient North Eurasian
 
-[[concepts]]
+[[Concepts]]
 
 From [Wikipedia](https://en.m.wikipedia.org/wiki/Ancient_North_Eurasian):
 

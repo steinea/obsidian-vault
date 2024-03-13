@@ -1,6 +1,6 @@
 # Mobile Jekyll Posting
 
-[[tools]]
+[[Tools]]
 
 <https://www.thecave.com/2017/04/21/how-i-post-to-my-jekyll-site-using-my-iphone/>
 

@@ -1,6 +1,6 @@
 # Canadian Science Fiction and Fantasy Association
 
-[[associations]]
+[[Associations]]
 
 <https://www.csffa.ca/>
 

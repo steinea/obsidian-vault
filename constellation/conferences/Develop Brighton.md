@@ -1,6 +1,6 @@
 # Develop:Brighton
 
-[[conferences]]
+[[Conferences]]
 
 <https://www.developconference.com/>
 

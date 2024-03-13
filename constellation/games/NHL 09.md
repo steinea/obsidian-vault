@@ -18,4 +18,4 @@ permalink:
 
 # NHL 09
 
-[[games]]
+[[Games]]

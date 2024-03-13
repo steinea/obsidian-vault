@@ -1,6 +1,6 @@
 # Reboot Develop Red
 
-[[conferences]]
+[[Conferences]]
 
 <https://rebootdevelopred.com/>
 

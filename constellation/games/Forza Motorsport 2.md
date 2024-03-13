@@ -18,4 +18,4 @@ permalink:
 
 # Forza Motorsport 2
 
-[[games]]
+[[Games]]

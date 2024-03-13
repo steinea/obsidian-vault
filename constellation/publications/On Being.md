@@ -1,3 +1,3 @@
 # On Being
 
-[[publications]]
+[[Publications]]

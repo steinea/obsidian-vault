@@ -12,4 +12,4 @@ permalink: 2022/09/23/moncage
 
 # Moncage
 
-[[games]]
+[[Games]]

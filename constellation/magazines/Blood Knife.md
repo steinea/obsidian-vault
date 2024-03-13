@@ -1,6 +1,6 @@
 # Blood Knife
 
-[[magazines]]
+[[Magazines]]
 
 <https://bloodknife.com/write-for-blood-knife/>
 

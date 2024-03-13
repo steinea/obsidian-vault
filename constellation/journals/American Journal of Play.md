@@ -1,6 +1,6 @@
 # American Journal of Play
 
-[[journals]]
+[[Journals]]
 
 <https://www.museumofplay.org/journalofplay/>
 

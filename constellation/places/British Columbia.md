@@ -1,3 +1,3 @@
 # British Columbia
 
-[[places]]
+[[Places]]

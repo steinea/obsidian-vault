@@ -1,6 +1,6 @@
 # Unicode Adopt
 
-[[tools]]
+[[Tools]]
 
 <https://aac.unicode.org/>
 

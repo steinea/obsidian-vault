@@ -13,7 +13,7 @@ permalink:
 
 # Six Ages: Ride Like the Wind
 
-[[games]]
+[[Games]]
 
 <https://sixages.com/ride-like-the-wind/>
 

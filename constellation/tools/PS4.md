@@ -1,3 +1,3 @@
 # PS4
 
-[[tools]]
+[[Tools]]

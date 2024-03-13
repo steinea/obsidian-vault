@@ -1,6 +1,6 @@
 # Futurian War Digest
 
-[[magazines]]
+[[Magazines]]
 
 <https://efanzines.com/FWD/FWD.htm>
 

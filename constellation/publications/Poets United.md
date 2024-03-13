@@ -1,3 +1,3 @@
 # Poets United
 
-[[publications]]
+[[Publications]]

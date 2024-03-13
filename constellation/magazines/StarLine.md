@@ -1,6 +1,6 @@
 # StarLine
 
-[[magazines]]
+[[Magazines]]
 
 <http://www.sfpoetry.com/starline.html>
 

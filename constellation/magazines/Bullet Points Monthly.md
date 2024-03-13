@@ -1,6 +1,6 @@
 # Bullet Points Monthly
 
-[[magazines]]
+[[Magazines]]
 
 <https://bulletpointsmonthly.com/about>
 

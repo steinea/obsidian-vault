@@ -1,6 +1,6 @@
 # Duke University Press Power Play
 
-[[bookseries]]
+[[Book Series]]
 
 <https://www.umass.edu/english/news/treaandrea-russworm-named-series-editor-power-play-games-politics-culture>
 

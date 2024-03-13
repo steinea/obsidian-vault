@@ -1,6 +1,6 @@
 # International Requirements Engineering Board
 
-[[associations]]
+[[Associations]]
 
 > IREB, the International Requirements Engineering Board, a non-profit organization, is the provider of the CPRE (Certified Professional for Requirements Engineering) certification scheme. The board consists of leading RE representatives, who come from science, research, industry and consulting.
 > 

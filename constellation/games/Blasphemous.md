@@ -13,7 +13,7 @@ permalink:
 
 # Blasphemous
 
-[[games]]
+[[Games]]
 
 <https://thegamekitchen.com/blasphemous/>
 

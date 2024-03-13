@@ -1,6 +1,6 @@
 # Game Developers Conference
 
-[[conferences]]
+[[Conferences]]
 
 <https://gdconf.com/>
 

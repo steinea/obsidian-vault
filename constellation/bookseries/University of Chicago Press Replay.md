@@ -1,6 +1,6 @@
 # University of Chicago Press Replay
 
-[[bookseries]]
+[[Book Series]]
 
 <https://press.uchicago.edu/ucp/books/series/REPLAY.html>
 

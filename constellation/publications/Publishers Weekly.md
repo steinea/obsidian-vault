@@ -1,3 +1,3 @@
 # Publishers Weekly
 
-[[publications]]
+[[Publications]]

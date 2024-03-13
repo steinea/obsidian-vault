@@ -1,3 +1,3 @@
 # Clockwork Worlds
 
-[[publications]]
+[[Publications]]

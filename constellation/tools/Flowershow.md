@@ -1,6 +1,6 @@
 # Flowershow
 
-[[tools]] / [[Obsidian]]
+[[Tools]] / [[Obsidian]]
 
 <https://flowershow.app/>
 

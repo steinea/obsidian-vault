@@ -1,6 +1,6 @@
 # Studies in the Fantastic
 
-[[journals]]
+[[Journals]]
 
 <https://muse.jhu.edu/journal/692>
 

@@ -18,4 +18,4 @@ permalink:
 
 # The Finals
 
-[[games]] / [[Embark Studios]] / [[Steam]] / [[2023]]
+[[Games]] / [[Embark Studios]] / [[Steam]] / [[2023]]

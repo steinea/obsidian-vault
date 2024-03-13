@@ -13,4 +13,4 @@ permalink:
 
 # Uncharted 3: Drake’s Deception Remastered
 
-[[games]]
+[[Games]]

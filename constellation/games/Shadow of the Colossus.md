@@ -12,4 +12,4 @@ permalink: 2020/01/19/shadow-of-the-colossus
 
 # Shadow of the Colossus
 
-[[games]]
+[[Games]]

@@ -1,6 +1,6 @@
 # Yamaha Tenori-On
 
-[[tools]]
+[[Tools]]
 
 [Wikipedia](https://en.wikipedia.org/wiki/Yamaha_Tenori-on):
 

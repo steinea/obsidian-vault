@@ -1,6 +1,6 @@
 # Kairos
 
-[[journals]]
+[[Journals]]
 
 <https://kairos.technorhetoric.net/>
 

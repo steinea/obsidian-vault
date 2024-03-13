@@ -1,6 +1,6 @@
 # Deleuze and Kierkegaard
 
-[[books]]
+[[Books]]
 
 <https://ndpr.nd.edu/reviews/deleuze-kierkegaard-and-the-ethics-of-selfhood/>
 

@@ -1,6 +1,6 @@
 # Science Fiction Film and Television
 
-[[journals]]
+[[Journals]]
 
 <https://www.liverpooluniversitypress.co.uk/journals/id/54>
 

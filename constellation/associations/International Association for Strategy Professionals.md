@@ -1,6 +1,6 @@
 # International Association for Strategy Professionals
 
-[[associations]]
+[[Associations]]
 
 <https://www.strategyassociation.org/>
 

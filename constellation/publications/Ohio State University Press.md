@@ -1,6 +1,6 @@
 # Ohio State University Press
 
-[[publications]]
+[[Publications]]
 
 Publishes *The Centenary Edition of the Works of Nathaniel Hawthorne*
 

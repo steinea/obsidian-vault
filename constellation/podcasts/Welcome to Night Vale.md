@@ -1,3 +1,3 @@
 # Welcome to Night Vale
 
-[[podcasts]]
+[[Podcasts]]

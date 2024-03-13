@@ -16,7 +16,7 @@ date:
 permalink: 
 ---
 
-[[2021]] • [[games]] • [[Herobeat Studios]] • [[HandyGames]] • [[PS5]]
+[[2021]] • [[Games]] • [[Herobeat Studios]] • [[HandyGames]] • [[PS5]]
 
 From [Wikipedia](https://en.wikipedia.org/wiki/Endling:_Extinction_is_Forever): 
 

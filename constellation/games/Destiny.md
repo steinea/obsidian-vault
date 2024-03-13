@@ -16,7 +16,7 @@ date: 2016-08-23
 permalink: 2016/08/23/destiny
 ---
 
-[[2014]] • [[games]] • [[Bungie]] • [[Activision]]
+[[2014]] • [[Games]] • [[Bungie]] • [[Activision]]
 
 From [Wikipedia](https://en.wikipedia.org/wiki/Destiny_(video_game)):
 

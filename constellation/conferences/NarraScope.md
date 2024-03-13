@@ -1,6 +1,6 @@
 # NarraScope
 
-[[conferences]]
+[[Conferences]]
 
 <https://narrascope.org/>
 

@@ -1,6 +1,6 @@
 # The Wager
 
-[[books]]
+[[Books]]
 
 <https://www.davidgrann.com/books/#the-wager>
 

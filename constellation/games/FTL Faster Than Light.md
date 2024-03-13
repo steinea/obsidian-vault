@@ -13,7 +13,7 @@ permalink:
 
 # FTL: Faster Than Light
 
-[[games]]
+[[Games]]
 
 <https://subsetgames.com/ftl.html>
 

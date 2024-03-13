@@ -1,6 +1,6 @@
 # Pacific Ancient and Modern Language Association
 
-[[associations]]
+[[Associations]]
 
 <https://www.pamla.org/about/>
 

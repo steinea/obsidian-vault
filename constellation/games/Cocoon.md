@@ -13,7 +13,7 @@ permalink:
 
 # Cocoon
 
-[[games]]
+[[Games]]
 
 <https://www.cocoongame.com/>
 

@@ -1,6 +1,6 @@
 # Everything
 
-[[tools]]
+[[Tools]]
 
 <https://www.voidtools.com/>
 

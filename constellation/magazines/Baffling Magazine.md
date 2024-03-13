@@ -1,6 +1,6 @@
 # Baffling Magazine
 
-[[magazines]]
+[[Magazines]]
 
 <https://www.bafflingmag.com/>
 

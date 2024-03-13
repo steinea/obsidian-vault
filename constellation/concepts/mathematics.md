@@ -1,4 +1,4 @@
 # Mathematics
 
-[[concepts]]
+[[Concepts]]
 

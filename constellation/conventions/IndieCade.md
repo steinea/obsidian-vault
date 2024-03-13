@@ -1,6 +1,6 @@
 # IndieCade
 
-[[conventions]]
+[[Conventions]]
 
 <https://www.indiecade.com/>
 

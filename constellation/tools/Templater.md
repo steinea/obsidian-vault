@@ -1,3 +1,3 @@
 # Templater
 
-[[tools]] / [[Obsidian]]
+[[Tools]] / [[Obsidian]]

@@ -1,3 +1,3 @@
 # Newsweek
 
-[[publications]]
+[[Publications]]

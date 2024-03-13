@@ -1,6 +1,6 @@
 # Pacific Coast Philology
 
-[[journals]]
+[[Journals]]
 
 <https://www.psupress.org/journals/jnls_PacificCoastPhilology.html>
 

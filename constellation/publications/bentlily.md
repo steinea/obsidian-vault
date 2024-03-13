@@ -1,3 +1,3 @@
 # bentlily
 
-[[publications]]
+[[Publications]]

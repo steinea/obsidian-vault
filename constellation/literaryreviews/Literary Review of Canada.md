@@ -1,6 +1,6 @@
 # Literary Review of Canada
 
-[[literaryreviews]]
+[[Literary Reviews]]
 
 <https://reviewcanada.ca/>
 

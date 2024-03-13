@@ -7,7 +7,7 @@ date: 1986
 permalink: '9780826436634'
 ---
 
-[[books]] • [[François Laruelle]] • [[Philosophy]]
+[[Books]] • [[François Laruelle]] • [[Philosophy]]
 
 ### Citation
 

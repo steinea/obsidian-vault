@@ -16,7 +16,7 @@ date: 2014-03-04
 permalink: 2014/03/04/dead-nation-apocalypse-edition
 ---
 
-[[2014]] • [[games]] • [[Housemarque]] • [[Sony Interactive Entertainment]] • [[PS4]]
+[[2014]] • [[Games]] • [[Housemarque]] • [[Sony Interactive Entertainment]] • [[PS4]]
 
 From [Wikipedia](https://en.wikipedia.org/wiki/Dead_Nation):
 

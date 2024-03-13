@@ -13,7 +13,7 @@ permalink:
 
 # South of the Circle
 
-[[games]]
+[[Games]]
 
 <https://southofthecircle.com/>
 

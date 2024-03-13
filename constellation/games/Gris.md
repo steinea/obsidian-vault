@@ -12,4 +12,4 @@ permalink: 2021/06/01/gris
 
 # Gris
 
-[[games]]
+[[Games]]

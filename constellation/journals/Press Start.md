@@ -1,6 +1,6 @@
 # Press Start
 
-[[journals]]
+[[Journals]]
 
 <https://press-start.gla.ac.uk/index.php/press-start>
 

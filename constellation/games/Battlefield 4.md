@@ -16,7 +16,7 @@ date: 2014-08-17
 permalink: 2014/08/17/battlefield-4
 ---
 
-[[2013]] • [[games]] • [[DICE]] • [[Electronic Arts]] • [[PS4]]
+[[2013]] • [[Games]] • [[DICE]] • [[Electronic Arts]] • [[PS4]]
 
 From [Wikipedia](https://en.wikipedia.org/wiki/Battlefield_4):
 

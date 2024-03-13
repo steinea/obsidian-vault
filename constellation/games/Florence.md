@@ -12,4 +12,4 @@ permalink: 2022/01/21/florence
 
 # Florence
 
-[[games]]
+[[Games]]

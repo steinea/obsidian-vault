@@ -1,3 +1,3 @@
 # The Walrus
 
-[[publications]]
+[[Publications]]

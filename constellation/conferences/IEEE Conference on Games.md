@@ -10,7 +10,7 @@ tags: games conferences
 
 # IEEE Conference on Games 
 
-[[conferences]]
+[[Conferences]]
 
 <https://2023.ieee-cog.org/>
 

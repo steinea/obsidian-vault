@@ -1,6 +1,6 @@
 # Analog Game Studies
 
-[[journals]]
+[[Journals]]
 
 <https://analoggamestudies.org/>
 

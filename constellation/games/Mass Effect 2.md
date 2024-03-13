@@ -18,4 +18,4 @@ permalink:
 
 # Mass Effect 2
 
-[[games]]
+[[Games]]

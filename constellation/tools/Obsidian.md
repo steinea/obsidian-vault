@@ -1,6 +1,6 @@
 # Obsidian
 
-[[tools]]
+[[Tools]]
 
 <https://obsidian.md/>
 

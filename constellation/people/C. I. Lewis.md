@@ -1,3 +1,3 @@
 # C. I. Lewis
 
-[[people]]
+[[People]]

@@ -18,4 +18,4 @@ permalink:
 
 # Pure
 
-[[games]]
+[[Games]]

@@ -13,7 +13,7 @@ permalink:
 
 # Harmony The Fall of Reverie
 
-[[games]]
+[[Games]]
 
 <https://dont-nod.com/en/games/harmony/>
 

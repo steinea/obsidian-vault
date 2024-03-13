@@ -1,6 +1,6 @@
 # Booklet Maker
 
-[[tools]]
+[[Tools]]
 
 <https://www.xerox.com/en-us/digital-printing/feeders-print-finishing/plockmatic-powersquare-160>
 

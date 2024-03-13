@@ -1,6 +1,6 @@
 # Speculative Fiction Canada
 
-[[associations]]
+[[Associations]]
 
 <https://www.sfcanada.org/>
 

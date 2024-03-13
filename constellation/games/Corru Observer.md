@@ -1,6 +1,6 @@
 # Corru Observer
 
-[[games]]
+[[Games]]
 
 <https://corru.observer/>
 

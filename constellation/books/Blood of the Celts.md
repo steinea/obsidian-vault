@@ -7,7 +7,7 @@ date: 2015
 permalink: '9780500295878'
 ---
 
-[[books]] • [[Jean Manco]] • [[Celts]] • [[Anthropology]] 
+[[Books]] • [[Jean Manco]] • [[Celts]] • [[Anthropology]] 
 
 ### Citation
 

@@ -1,6 +1,6 @@
 # Intergovernmental Panel on Climate Change
 
-[[climate]]
+[[Climate]]
 
 <https://www.ipcc.ch/reports/>
 

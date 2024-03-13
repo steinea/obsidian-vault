@@ -1,6 +1,6 @@
 # Hvid Død
 
-[[games]]
+[[Games]]
 
 <https://nordiclarp.org/wiki/Hvid_d%C3%B8d>
 

@@ -13,7 +13,7 @@ permalink:
 
 # Maquette
 
-[[games]]
+[[Games]]
 
 <https://maquettegame.com/>
 

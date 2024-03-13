@@ -1,3 +1,3 @@
 # Video Games
 
-[[concepts]]
+[[Concepts]]

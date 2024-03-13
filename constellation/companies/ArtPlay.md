@@ -1,3 +1,3 @@
 # ArtPlay
 
-[[companies]]
+[[Companies]]

@@ -1,6 +1,6 @@
 # MIT Platform Studies
 
-[[bookseries]]
+[[Book Series]]
 
 <https://mitpress.mit.edu/books/series/platform-studies>
 

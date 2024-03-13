@@ -1,6 +1,6 @@
 # Lucca Comics & Games
 
-[[conventions]]
+[[Conventions]]
 
 <https://www.luccacomicsandgames.com/it/>
 

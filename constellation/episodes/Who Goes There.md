@@ -8,4 +8,4 @@ watched: Yes
 watchedDate: 2024-02-28
 ---
 
-[[2014]] • [[episodes]] • [[True Detective]] • [[HBO]]
+[[2014]] • [[Episodes]] • [[True Detective]] • [[HBO]]

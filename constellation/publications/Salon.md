@@ -1,3 +1,3 @@
 # Salon
 
-[[publications]]
+[[Publications]]

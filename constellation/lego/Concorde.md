@@ -8,7 +8,7 @@ status: wishlist
 url: https://www.lego.com/en-ca/product/concorde-10318
 ---
 
-[[lego]]
+[[Lego]]
 
 # Concorde
 

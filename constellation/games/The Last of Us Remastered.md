@@ -12,4 +12,4 @@ permalink: 2019/10/06/the-last-of-us-remastered
 
 # The Last of Us Remastered
 
-[[games]]
+[[Games]]

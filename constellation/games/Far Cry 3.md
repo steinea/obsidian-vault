@@ -16,7 +16,7 @@ date: 2014-08-12
 permalink: 2014/08/12/far-cry-3
 ---
 
-[[2013]] • [[games]] • [[Ubisoft]] • [[PS3]]
+[[2013]] • [[Games]] • [[Ubisoft]] • [[PS3]]
 
 From [Wikipedia](https://en.wikipedia.org/wiki/Far_Cry_3):
 

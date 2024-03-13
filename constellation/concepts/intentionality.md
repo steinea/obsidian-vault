@@ -1,3 +1,3 @@
 # Intentionality
 
-[[concepts]]
+[[Concepts]]

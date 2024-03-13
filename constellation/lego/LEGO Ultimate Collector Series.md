@@ -1,6 +1,6 @@
 # LEGO Ultimate Collector Series
 
-[[lego]]
+[[Lego]]
 
 <https://www.lego.com/en-ca/categories/ultimate-collector-series>
 

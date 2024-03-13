@@ -18,7 +18,7 @@ permalink:
 
 # Crisis Core: Final Fantasy VII Reunion
 
-[[games]] / [[Square Enix]] / [[PS5]] / [[2022]]
+[[Games]] / [[Square Enix]] / [[PS5]] / [[2022]]
 
 Director: [[Hajime Tabata]]
 Director: [[Tetsuya Nomura]]

@@ -1,3 +1,3 @@
 # Encyclopedia of the Philosophical Sciences
 
-[[books]]
+[[Books]]

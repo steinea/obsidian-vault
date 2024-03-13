@@ -1,6 +1,6 @@
 # Finance and Development
 
-[[journals]]
+[[Journals]]
 
 <https://www.imf.org/en/Publications/fandd>
 

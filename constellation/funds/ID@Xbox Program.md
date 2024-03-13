@@ -1,6 +1,6 @@
 # ID@Xbox Program
 
-[[funds]]
+[[Funds]]
 
 <https://developer.microsoft.com/en-US/games/publish/>
 

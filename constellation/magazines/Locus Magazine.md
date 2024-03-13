@@ -1,6 +1,6 @@
 # Locus Magazine
 
-[[magazines]]
+[[Magazines]]
 
 <http://locusmag.com/>
 

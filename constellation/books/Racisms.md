@@ -1,3 +1,3 @@
 # Racisms
 
-[[books]]
+[[Books]]

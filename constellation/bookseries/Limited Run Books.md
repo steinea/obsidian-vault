@@ -1,6 +1,6 @@
 # Limited Run Books
 
-[[bookseries]]
+[[Book Series]]
 
 <https://limitedrungames.com/collections/books>
 

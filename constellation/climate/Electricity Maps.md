@@ -1,6 +1,6 @@
 # Electricity Maps
 
-[[climate]]
+[[Climate]]
 
 <https://app.electricitymaps.com/map>
 

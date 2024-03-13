@@ -13,4 +13,4 @@ permalink:
 
 # Wild Hearts
 
-[[games]]
+[[Games]]

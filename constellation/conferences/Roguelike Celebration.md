@@ -1,6 +1,6 @@
 # Roguelike Celebration
 
-[[conferences]]
+[[Conferences]]
 
 <https://www.roguelike.club/>
 

@@ -1,3 +1,3 @@
 # Arizona Quarterly
 
-[[journals]]
+[[Journals]]

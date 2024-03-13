@@ -12,4 +12,4 @@ permalink: 2020/08/24/superbrothers-sword-and-sworcery-ep
 
 # Superbrothers: Sword & Sworcery EP
 
-[[games]]
+[[Games]]

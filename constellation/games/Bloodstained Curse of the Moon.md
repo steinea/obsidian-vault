@@ -18,7 +18,7 @@ permalink:
 
 # Bloodstained Curse of the Moon
 
-[[games]] / [[Inti Creates]] / [[PS4]] / [[2018]]
+[[Games]] / [[Inti Creates]] / [[PS4]] / [[2018]]
 
 Producer: [[Koji Igarashi]]
 

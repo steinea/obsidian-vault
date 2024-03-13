@@ -1,6 +1,6 @@
 # The Lost City of Z
 
-[[books]]
+[[Books]]
 
 <https://www.davidgrann.com/books/#the-lost-city-of-z>
 

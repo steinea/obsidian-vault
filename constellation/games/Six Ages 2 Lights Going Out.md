@@ -13,7 +13,7 @@ permalink:
 
 # Six Ages 2: Lights Going Out
 
-[[games]]
+[[Games]]
 
 <https://sixages.com/>
 

@@ -18,4 +18,4 @@ permalink:
 
 # 
 Bastion
-[[games]]
+[[Games]]

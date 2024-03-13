@@ -1,6 +1,6 @@
 # Orion’s Belt
 
-[[magazines]]
+[[Magazines]]
 
 <https://www.orions-belt.net/>
 

@@ -8,7 +8,7 @@ status: unbuilt
 url: https://www.lego.com/en-ca/product/dune-atreides-royal-ornithopter-10327
 ---
 
-[[lego]]
+[[Lego]]
 
 # Dune Atreides Royal Ornithopter
 

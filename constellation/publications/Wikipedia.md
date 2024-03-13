@@ -1,3 +1,3 @@
 # Wikipedia
 
-[[publications]]
+[[Publications]]

@@ -1,6 +1,6 @@
 # Birdhouse Jam
 
-[[jams]]
+[[Jams]]
 
 <https://itch.io/jam/birdhouse-jam-songbirds-3e-game-jame>
 

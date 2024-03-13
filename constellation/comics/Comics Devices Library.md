@@ -1,6 +1,6 @@
 # Comics Devices Library
 
-[[comics]]
+[[Comics]]
 
 <https://comicsdevices.com/>
 

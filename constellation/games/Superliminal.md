@@ -13,7 +13,7 @@ permalink:
 
 # Superliminal
 
-[[games]]
+[[Games]]
 
 <http://www.pillowcastlegames.com/>
 

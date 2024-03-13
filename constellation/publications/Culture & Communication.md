@@ -1,3 +1,3 @@
 # Culture & Communication
 
-[[publications]]
+[[Publications]]

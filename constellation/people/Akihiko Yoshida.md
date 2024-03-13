@@ -1,3 +1,3 @@
 # Akihiko Yoshida
 
-[[people]]
+[[People]]

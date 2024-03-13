@@ -1,6 +1,6 @@
 # Naoki Yoshida
 
-[[people]]
+[[People]]
 
 <https://www.mobygames.com/person/471547/naoki-yoshida/>
 

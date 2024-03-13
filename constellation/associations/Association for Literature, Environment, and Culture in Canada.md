@@ -1,6 +1,6 @@
 # Association for Literature, Environment, and Culture in Canada
 
-[[associations]]
+[[Associations]]
 
 <https://alecc.ca/en/>
 

@@ -1,6 +1,6 @@
 # Academic Audio Transcription
 
-[[tools]]
+[[Tools]]
 
 <https://academicaudiotranscription.com/>
 

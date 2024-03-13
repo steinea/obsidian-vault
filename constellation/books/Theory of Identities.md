@@ -7,7 +7,7 @@ date: 1992
 permalink: '9780231541459'
 ---
 
-[[books]] • [[François Laruelle]] • [[Philosophy]]
+[[Books]] • [[François Laruelle]] • [[Philosophy]]
 
 ### Citation
 

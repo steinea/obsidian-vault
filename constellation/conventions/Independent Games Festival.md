@@ -1,6 +1,6 @@
 # Independent Games Festival
 
-[[conventions]]
+[[Conventions]]
 
 <https://igf.com/>
 

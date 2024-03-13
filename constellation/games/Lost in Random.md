@@ -16,7 +16,7 @@ date:
 permalink: 
 ---
 
-[[2021]] • [[games]] • [[Zoink]] • [[Electronic Arts]] • [[PS5]]
+[[2021]] • [[Games]] • [[Zoink]] • [[Electronic Arts]] • [[PS5]]
 
 From [Wikipedia](https://en.wikipedia.org/wiki/Lost_in_Random):
 

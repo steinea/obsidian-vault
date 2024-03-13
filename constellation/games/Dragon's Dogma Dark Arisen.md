@@ -18,7 +18,7 @@ permalink:
 
 # Dragon's Dogma: Dark Arisen
 
-[[games]] / [[Capcom]] / [[PS4]] / [[2013]]
+[[Games]] / [[Capcom]] / [[PS4]] / [[2013]]
 
 Game Design Lead: [[Ryota Suzuki]]
 

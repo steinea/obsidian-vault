@@ -18,7 +18,7 @@ permalink:
 
 # Uncharted 2: Among Thieves Remastered
 
-[[games]] / [[Naughty Dog]] / [[Sony Interactive Entertainment]] / [[PS4]] / [[2009]]
+[[Games]] / [[Naughty Dog]] / [[Sony Interactive Entertainment]] / [[PS4]] / [[2009]]
 
 Game Director: [[Bruce Straley]]
 Creative Director: [[Amy Hennig]]

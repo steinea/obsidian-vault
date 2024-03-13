@@ -1,6 +1,6 @@
 # Mystery Writers of America
 
-[[associations]]
+[[Associations]]
 
 <https://mysterywriters.org/about-mwa/>
 

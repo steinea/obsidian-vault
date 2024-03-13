@@ -1,6 +1,6 @@
 # Berggruen Institute
 
-[[institutes]]
+[[Institutes]]
 
 <https://berggruen.org/>
 

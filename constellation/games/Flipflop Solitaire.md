@@ -18,4 +18,4 @@ permalink:
 
 # Flipflop Solitaire
 
-[[games]]
+[[Games]]

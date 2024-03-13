@@ -1,6 +1,6 @@
 # Bloomsbury Influential Video Game Designers
 
-[[bookseries]]
+[[Book Series]]
 
 <https://www.bloomsbury.com/uk/series/influential-video-game-designers/>
 

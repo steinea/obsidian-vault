@@ -12,4 +12,4 @@ permalink: 2014/07/17/dark-souls
 
 # Dark Souls
 
-[[games]]
+[[Games]]

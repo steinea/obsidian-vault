@@ -1,6 +1,6 @@
 # Vagabonds
 
-[[publications]]
+[[Publications]]
 
 <https://vagabonds.xyz/>
 

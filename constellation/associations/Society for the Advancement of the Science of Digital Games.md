@@ -1,6 +1,6 @@
 # Society for the Advancement of the Science of Digital Games
 
-[[associations]]
+[[Associations]]
 
 <http://sasdg.net/index.html>
 

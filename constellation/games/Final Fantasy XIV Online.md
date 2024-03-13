@@ -18,7 +18,7 @@ permalink:
 
 # Final Fantasy XIV: Online
 
-[[games]] / [[Square Enix]] / [[PS4]] / [[2013]]
+[[Games]] / [[Square Enix]] / [[PS4]] / [[2013]]
 
 Director: [[Naoki Yoshida]]
 Art Director: [[Akihiko Yoshida]]

@@ -18,4 +18,4 @@ permalink:
 
 # Dance Central
 
-[[games]]
+[[Games]]

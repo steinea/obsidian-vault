@@ -1,6 +1,6 @@
 # Picrew
 
-[[tools]]
+[[Tools]]
 
 <https://picrew.me/>
 

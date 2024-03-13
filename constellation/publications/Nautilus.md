@@ -1,3 +1,3 @@
 # Nautilus
 
-[[publications]]
+[[Publications]]

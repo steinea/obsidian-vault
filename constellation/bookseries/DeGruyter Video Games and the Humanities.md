@@ -1,6 +1,6 @@
 # DeGruyter Video Games and the Humanities
 
-[[bookseries]]
+[[Book Series]]
 
 <https://www.degruyter.com/serial/vgh-b/html?lang=en#overview>
 

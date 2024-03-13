@@ -13,4 +13,4 @@ permalink:
 
 # The Last of Us Part I
 
-[[games]]
+[[Games]]

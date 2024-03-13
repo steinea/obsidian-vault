@@ -12,4 +12,4 @@ permalink:
 
 # Sable
 
-[[games]]
+[[Games]]

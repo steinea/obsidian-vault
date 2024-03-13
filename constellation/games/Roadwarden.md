@@ -13,7 +13,7 @@ permalink:
 
 # Roadwarden
 
-[[games]]
+[[Games]]
 
 <https://moralanxietystudio.com/>
 

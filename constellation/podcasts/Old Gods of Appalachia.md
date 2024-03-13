@@ -1,6 +1,6 @@
 # Old Gods of Appalachia
 
-[[podcasts]]
+[[Podcasts]]
 
 <https://www.oldgodsofappalachia.com/>
 

@@ -1,6 +1,6 @@
 # Chi Play
 
-[[conferences]]
+[[Conferences]]
 
 <https://chiplay.acm.org/>
 

@@ -1,3 +1,3 @@
 # Entropy Mag
 
-[[publications]]
+[[Publications]]

@@ -12,4 +12,4 @@ permalink: 2023/04/02/dark-souls-ii-scholar-of-the-first-sin
 
 # Dark Souls II
 
-[[games]]
+[[Games]]

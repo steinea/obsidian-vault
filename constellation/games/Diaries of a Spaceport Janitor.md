@@ -12,4 +12,4 @@ permalink: 2020/09/30/diaries-of-a-spaceport-janitor
 
 # Diaries of a Spaceport Janitor
 
-[[games]]
+[[Games]]

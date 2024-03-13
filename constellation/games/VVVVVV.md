@@ -18,4 +18,4 @@ permalink:
 
 # VVVVVV
 
-[[games]]
+[[Games]]

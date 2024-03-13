@@ -12,4 +12,4 @@ permalink: 2022/04/15/norco
 
 # Norco
 
-[[games]]
+[[Games]]

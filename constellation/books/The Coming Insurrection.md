@@ -1,3 +1,3 @@
 # The Coming Insurrection
 
-[[books]]
+[[Books]]

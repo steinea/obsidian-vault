@@ -1,6 +1,6 @@
 # Creeker Zine
 
-[[magazines]]
+[[Magazines]]
 
 <https://creekerzine.wordpress.com/>
 

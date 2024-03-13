@@ -1,6 +1,6 @@
 # Magazine of Fantasy & Science Fiction
 
-[[magazines]]
+[[Magazines]]
 
 <https://sfsite.com/fsf/>
 

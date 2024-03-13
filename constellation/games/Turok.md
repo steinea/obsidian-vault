@@ -18,4 +18,4 @@ permalink:
 
 # Turok
 
-[[games]]
+[[Games]]

@@ -13,7 +13,7 @@ permalink:
 
 # Minoria
 
-[[games]]
+[[Games]]
 
 <https://minoria.dangenentertainment.com/>
 

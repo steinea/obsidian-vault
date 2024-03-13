@@ -1,6 +1,6 @@
 # Certified Project Director (CPD / IPMA-A)
 
-[[certifications]] / [[Project Management Association of Canada]]
+[[Certifications]] / [[Project Management Association of Canada]]
 
 <https://pmac-agpc.ca/Level-A>
 

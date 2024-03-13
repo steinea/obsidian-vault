@@ -13,7 +13,7 @@ permalink:
 
 # Jusant
 
-[[games]]
+[[Games]]
 
 <https://dont-nod.com/en/games/jusant/>
 

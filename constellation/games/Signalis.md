@@ -13,7 +13,7 @@ permalink:
 
 # Signalis
 
-[[games]]
+[[Games]]
 
 <https://rose-engine.org/signalis/>
 

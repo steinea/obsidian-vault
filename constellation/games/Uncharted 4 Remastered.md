@@ -13,4 +13,4 @@ permalink:
 
 # Uncharted 4: A Thief's End Remastered
 
-[[games]]
+[[Games]]

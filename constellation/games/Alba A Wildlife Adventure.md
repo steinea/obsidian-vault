@@ -12,7 +12,7 @@ permalink:
 
 # Alba: A Wildlife Adventure
 
-[[games]]
+[[Games]]
 
 <https://www.albawildlife.com/>
 

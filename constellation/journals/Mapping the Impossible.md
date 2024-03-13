@@ -1,6 +1,6 @@
 # Mapping the Impossible
 
-[[journals]]
+[[Journals]]
 
 <https://fantasy-research.gla.ac.uk/>
 

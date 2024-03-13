@@ -18,7 +18,7 @@ permalink:
 
 # Castlevania Anniversary Collection
 
-[[games]] / [[Konami]] / [[PS4]] / [[2019]]
+[[Games]] / [[Konami]] / [[PS4]] / [[2019]]
 
 From [Wikipedia](https://en.wikipedia.org/wiki/List_of_Castlevania_media#Compilations_and_collections):
 

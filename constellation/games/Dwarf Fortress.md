@@ -13,7 +13,7 @@ permalink:
 
 # Dwarf Fortress
 
-[[games]]
+[[Games]]
 
 <https://www.bay12games.com/dwarves/>
 

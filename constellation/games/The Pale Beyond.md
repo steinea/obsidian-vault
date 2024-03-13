@@ -13,7 +13,7 @@ permalink:
 
 # The Pale Beyond
 
-[[games]]
+[[Games]]
 
 <https://www.fellowtraveller.games/the-pale-beyond>
 

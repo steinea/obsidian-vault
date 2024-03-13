@@ -1,3 +1,3 @@
 # Clannad
 
-[[games]]
+[[Games]]

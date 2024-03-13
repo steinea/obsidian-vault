@@ -1,3 +1,3 @@
 # Google Books
 
-[[publications]]
+[[Publications]]

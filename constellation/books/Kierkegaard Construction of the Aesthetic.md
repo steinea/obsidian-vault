@@ -11,7 +11,7 @@ tags:
 
 # Kierkegaard: Construction of the Aesthetic
 
-[[books]] / [[Søren Kierkegaard]]
+[[Books]] / [[Søren Kierkegaard]]
 
 Adorno, Theodor W. *Kierkegaard: Construction of the Aesthetic.* University of Minnesota Press, 1989. [9780816611874](https://www.upress.umn.edu/book-division/books/kierkegaard).
 

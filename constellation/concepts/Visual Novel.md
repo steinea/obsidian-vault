@@ -1,6 +1,6 @@
 # Visual Novel
 
-[[concepts]]
+[[Concepts]]
 
 [Wikipedia](https://en.m.wikipedia.org/wiki/Visual_novel): 
 

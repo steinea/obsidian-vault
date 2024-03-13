@@ -13,7 +13,7 @@ permalink:
 
 # Oxenfree II Lost Signals
 
-[[games]]
+[[Games]]
 
 <https://nightschoolstudio.com/oxenfree-ii/>
 

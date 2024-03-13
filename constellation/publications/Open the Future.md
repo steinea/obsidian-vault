@@ -1,3 +1,3 @@
 # Open the Future
 
-[[publications]]
+[[Publications]]

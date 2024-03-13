@@ -18,4 +18,4 @@ permalink:
 
 # The Jackbox Party Pack 6
 
-[[games]]
+[[Games]]

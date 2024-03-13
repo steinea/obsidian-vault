@@ -1,6 +1,6 @@
 # Board Game Studies Journal
 
-[[journals]]
+[[Journals]]
 
 <https://sciendo.com/journal/BGS>
 

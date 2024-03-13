@@ -1,6 +1,6 @@
 # Autoptic Festival
 
-[[conventions]]
+[[Conventions]]
 
 <https://autoptic.org/>
 

@@ -1,3 +1,3 @@
 # Amy Hennig
 
-[[people]]
+[[People]]

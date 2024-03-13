@@ -16,7 +16,7 @@ date: 2019-11-05
 permalink: 2019/11/05/the-elder-scrolls-online
 ---
 
-[[2014]] • [[games]] • [[ZeniMax Online Studios]] • [[Bethesda Softworks]] • [[PS4]]
+[[2014]] • [[Games]] • [[ZeniMax Online Studios]] • [[Bethesda Softworks]] • [[PS4]]
 
 From [Wikipedia](https://en.wikipedia.org/wiki/The_Elder_Scrolls_Online):
 

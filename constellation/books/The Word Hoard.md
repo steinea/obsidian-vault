@@ -1,6 +1,6 @@
 # 
 
-[[books]]
+[[Books]]
 
 <https://en.m.wikipedia.org/wiki/The_Word_Hoard>
 

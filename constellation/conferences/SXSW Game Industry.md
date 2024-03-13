@@ -1,6 +1,6 @@
 # SXSW Game Industry
 
-[[conferences]]
+[[Conferences]]
 
 <https://www.sxsw.com/conference/game-industry/>
 

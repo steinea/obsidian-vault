@@ -11,7 +11,7 @@ tags:
 
 # Mathematics and Its Applications
 
-[[books]] / [[Mathematics]]
+[[Books]] / [[Mathematics]]
 
 Da Silva, Jairo José. *Mathematics and Its Applications: A Transcendental-Idealist Perspective*. Springer, 2017. [9783319630731](https://link.springer.com/book/10.1007/978-3-319-63073-1).
 

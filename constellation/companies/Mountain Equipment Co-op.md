@@ -1,3 +1,3 @@
 # Mountain Equipment Co-op
 
-[[companies]]
+[[Companies]]

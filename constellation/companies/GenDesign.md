@@ -1,3 +1,3 @@
 # GenDesign
 
-[[companies]]
+[[Companies]]

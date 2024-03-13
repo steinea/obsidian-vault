@@ -1,6 +1,6 @@
 # International Symposium on Electronic Art
 
-[[conferences]]
+[[Conferences]]
 
 <http://www.isea-web.org/>
 

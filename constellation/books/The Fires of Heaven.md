@@ -6,7 +6,7 @@ date: 1993
 permalink: '9780765334640'
 ---
 
-[[books]] • [[Robert Jordan]] • [[Fantasy]]
+[[Books]] • [[Robert Jordan]] • [[Fantasy]]
 
 ### Citation
 

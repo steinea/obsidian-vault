@@ -1,3 +1,3 @@
 # Jackson Pollock
 
-[[people]]
+[[People]]

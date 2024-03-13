@@ -1,3 +1,3 @@
 # Hajime Tabata
 
-[[people]]
+[[People]]

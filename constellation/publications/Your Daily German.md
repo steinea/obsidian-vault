@@ -1,3 +1,3 @@
 # Your Daily German
 
-[[publications]]
+[[Publications]]

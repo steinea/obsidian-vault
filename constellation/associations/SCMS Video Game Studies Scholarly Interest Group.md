@@ -1,6 +1,6 @@
 # SCMS Video Game Studies Scholarly Interest Group
 
-[[associations]]
+[[Associations]]
 
 <https://www.cmstudies.org/page/groups_videogames>
 

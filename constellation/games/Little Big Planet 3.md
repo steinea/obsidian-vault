@@ -16,7 +16,7 @@ date: 2017-02-04
 permalink: 2017/02/04/little-big-planet-3
 ---
 
-[[2017]] • [[games]] • [[Sumo Digital]] • [[Sony Interactive Entertainment]]
+[[2017]] • [[Games]] • [[Sumo Digital]] • [[Sony Interactive Entertainment]]
 
 From [Wikipedia](https://en.wikipedia.org/wiki/LittleBigPlanet_3):
 

@@ -1,6 +1,6 @@
 # Tetsuya Nomura
 
-[[people]]
+[[People]]
 
 <https://www.mobygames.com/person/33342/tetsuya-nomura/>
 

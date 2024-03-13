@@ -12,4 +12,4 @@ permalink: 2022/05/13/the-walking-dead-a-new-frontier
 
 # The Walking Dead: A New Frontier
 
-[[games]]
+[[Games]]

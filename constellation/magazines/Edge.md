@@ -1,6 +1,6 @@
 # Edge
 
-[[magazines]]
+[[Magazines]]
 
 <https://www.gamesradar.com/edge/>
 

@@ -1,6 +1,6 @@
 # Routledge Advances in Game Studies
 
-[[bookseries]]
+[[Book Series]]
 
 <https://www.routledge.com/Routledge-Advances-in-Game-Studies/book-series/RAIGS>
 

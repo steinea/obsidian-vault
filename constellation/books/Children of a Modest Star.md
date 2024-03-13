@@ -13,7 +13,7 @@ tags:
 
 # Children of a Modest Star
 
-[[books]] / [[Politics]] / [[Planet]]
+[[Books]] / [[Politics]] / [[Planet]]
 
 Blake, Jonathan S. and Nils Gilman. *Children of a Modest Star: Planetary Thinking for an Age of Crises*. Stanford University Press, 2024. [9781503637856](https://www.sup.org/books/title/?id=37259).
 

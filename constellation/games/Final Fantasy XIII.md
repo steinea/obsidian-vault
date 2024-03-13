@@ -18,7 +18,7 @@ permalink:
 
 # Final Fantasy XIII
 
-[[games]] / [[Square Enix]] / [[PS3]] / [[2009]]
+[[Games]] / [[Square Enix]] / [[PS3]] / [[2009]]
 
 Director: [[Motomu Toriyama]]
 Producer: [[Yoshinori Kitase]]

@@ -1,6 +1,6 @@
 # International Journal of Roleplaying
 
-[[journals]]
+[[Journals]]
 
 <https://ijrp.subcultures.nl/>
 

@@ -1,3 +1,3 @@
 # PS3
 
-[[tools]]
+[[Tools]]

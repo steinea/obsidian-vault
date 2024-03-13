@@ -1,6 +1,6 @@
 # Fumihiko Yasuda
 
-[[people]]
+[[People]]
 
 <https://www.mobygames.com/person/427858/fumihiko-yasuda/>
 

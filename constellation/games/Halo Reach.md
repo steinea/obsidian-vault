@@ -18,4 +18,4 @@ permalink:
 
 # Halo: Reach
 
-[[games]]
+[[Games]]

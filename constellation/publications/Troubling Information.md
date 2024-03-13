@@ -1,3 +1,3 @@
 # Troubling Information
 
-[[publications]]
+[[Publications]]

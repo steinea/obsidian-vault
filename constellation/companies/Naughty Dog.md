@@ -1,3 +1,3 @@
 # Naughty Dog
 
-[[companies]]
+[[Companies]]

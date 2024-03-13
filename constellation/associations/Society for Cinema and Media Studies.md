@@ -1,6 +1,6 @@
 # Society for Cinema and Media Studies
 
-[[associations]]
+[[Associations]]
 
 <https://www.cmstudies.org/page/membership>
 

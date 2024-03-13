@@ -10,7 +10,7 @@ tags: fantastic magazines
 
 # Focus
 
-[[magazines]]
+[[Magazines]]
 
 <https://bsfa.co.uk/focus>
 

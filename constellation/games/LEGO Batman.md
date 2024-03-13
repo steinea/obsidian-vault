@@ -18,4 +18,4 @@ permalink:
 
 # LEGO Batman
 
-[[games]]
+[[Games]]

@@ -13,7 +13,7 @@ permalink:
 
 # King of Dragon Pass
 
-[[games]]
+[[Games]]
 
 <https://a-sharp.com/kodp/>
 

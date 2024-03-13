@@ -1,6 +1,6 @@
 # Domino Club
 
-[[collectives]]
+[[Collectives]]
 
 <https://dominoclub.itch.io/>
 

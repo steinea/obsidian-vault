@@ -18,4 +18,4 @@ permalink:
 
 # Pako Caravan
 
-[[games]]
+[[Games]]

@@ -10,7 +10,7 @@ tags: fantastic conferences
 
 # International Conference on the Fantastic in the Arts
 
-[[conferences]]
+[[Conferences]]
 
 <https://iaftfita.wildapricot.org/ICFA>
 

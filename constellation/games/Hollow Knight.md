@@ -12,4 +12,4 @@ permalink: 2020/06/23/hollow-knight
 
 # Hollow Knight
 
-[[games]]
+[[Games]]

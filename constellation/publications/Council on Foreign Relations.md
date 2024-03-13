@@ -1,3 +1,3 @@
 # Council on Foreign Relations
 
-[[publications]]
+[[Publications]]

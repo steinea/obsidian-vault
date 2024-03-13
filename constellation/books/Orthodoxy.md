@@ -1,3 +1,3 @@
 # Orthodoxy
 
-[[books]]
+[[Books]]

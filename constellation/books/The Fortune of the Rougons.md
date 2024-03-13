@@ -10,7 +10,7 @@ tags:
   - french
 ---
 
-[[books]] / [[Literature]] / [[Émile Zola]]
+[[Books]] / [[Literature]] / [[Émile Zola]]
 
 ### Citation
 

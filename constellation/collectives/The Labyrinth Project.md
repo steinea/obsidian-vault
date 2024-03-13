@@ -1,6 +1,6 @@
 # The Labyrinth Project
 
-[[collectives]]
+[[Collectives]]
 
 <https://labyrinth.garden/about/>
 

@@ -12,4 +12,4 @@ permalink: 2021/06/05/adios
 
 # Adios
 
-[[games]]
+[[Games]]

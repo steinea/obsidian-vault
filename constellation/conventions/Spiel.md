@@ -1,6 +1,6 @@
 # Spiel
 
-[[conventions]]
+[[Conventions]]
 
 <https://www.spiel-messe.com/en/>
 

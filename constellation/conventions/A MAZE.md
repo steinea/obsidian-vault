@@ -1,6 +1,6 @@
 # A MAZE
 
-[[conventions]]
+[[Conventions]]
 
 <https://2023.amaze-berlin.de/>
 

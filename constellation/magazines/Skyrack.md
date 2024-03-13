@@ -1,6 +1,6 @@
 # Skyrack
 
-[[magazines]]
+[[Magazines]]
 
 <http://gostak.co.uk/skyrack/>
 

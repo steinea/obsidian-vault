@@ -1,3 +1,3 @@
 # Capcom
 
-[[companies]]
+[[Companies]]

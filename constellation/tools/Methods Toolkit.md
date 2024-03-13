@@ -1,6 +1,6 @@
 # Methods Toolkit
 
-[[tools]]
+[[Tools]]
 
 <https://docs.google.com/document/d/12isq0JEWzi3_ULcFVrLeNH8AiQddk8kKUtlX11U8_oA/edit>
 

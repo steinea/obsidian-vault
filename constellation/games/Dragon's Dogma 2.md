@@ -18,7 +18,7 @@ permalink:
 
 # Dragon's Dogma 2
 
-[[games]] / [[Capcom]] / [[PS5]] / [[2024]]
+[[Games]] / [[Capcom]] / [[PS5]] / [[2024]]
 
 From [Wikipedia](https://en.wikipedia.org/wiki/Dragon%27s_Dogma_2):
 

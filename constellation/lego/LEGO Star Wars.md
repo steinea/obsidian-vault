@@ -1,6 +1,6 @@
 # LEGO Star Wars
 
-[[lego]]
+[[Lego]]
 
 <https://www.lego.com/en-ca/themes/star-wars>
 

@@ -1,3 +1,3 @@
 # Powers of Horror
 
-[[books]]
+[[Books]]

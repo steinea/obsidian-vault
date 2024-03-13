@@ -12,4 +12,4 @@ permalink: 2021/06/18/unbeatable-white-label
 
 # Unbeatable: White Label
 
-[[games]]
+[[Games]]

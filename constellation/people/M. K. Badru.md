@@ -1,6 +1,6 @@
 # M. K. Badru
 
-[[people]]
+[[People]]
 
 <https://comradery.co/badru>
 

@@ -12,4 +12,4 @@ permalink:
 
 # The Last of Us Part II
 
-[[games]]
+[[Games]]

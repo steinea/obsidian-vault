@@ -18,7 +18,7 @@ permalink:
 
 # The Last Guardian
 
-[[games]] / [[GenDesign]] / [[Sony Interactive Entertainment]] / [[PS4]] / [[2016]]
+[[Games]] / [[GenDesign]] / [[Sony Interactive Entertainment]] / [[PS4]] / [[2016]]
 
 Director: [[Fumito Ueda]]
 

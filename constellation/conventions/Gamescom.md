@@ -1,6 +1,6 @@
 # Gamescom
 
-[[conventions]]
+[[Conventions]]
 
 <https://www.gamescom.global/en>
 

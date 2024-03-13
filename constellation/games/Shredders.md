@@ -12,4 +12,4 @@ permalink: 2022/03/27/shredders
 
 # Shredders
 
-[[games]]
+[[Games]]

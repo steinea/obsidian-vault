@@ -12,4 +12,4 @@ permalink: 2020/12/26/pyre
 
 # Pyre
 
-[[games]]
+[[Games]]

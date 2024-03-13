@@ -7,7 +7,7 @@ date: 1927
 permalink: '9780029345702'
 ---
 
-[[books]] • [[Alfred North Whitehead]] • [[Philosophy]]
+[[Books]] • [[Alfred North Whitehead]] • [[Philosophy]]
 
 ### Citation
 

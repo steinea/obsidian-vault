@@ -1,6 +1,6 @@
 # Constellary Tales
 
-[[magazines]]
+[[Magazines]]
 
 <http://constellary.com/>
 

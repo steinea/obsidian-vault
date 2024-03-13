@@ -16,7 +16,7 @@ date: 2015-03-16
 permalink: 2015/03/16/alien-isolation
 ---
 
-[[2014]] • [[games]] • [[Creative Assembly]] • [[Sega]] • [[PS4]]
+[[2014]] • [[Games]] • [[Creative Assembly]] • [[Sega]] • [[PS4]]
 
 From [Wikipedia](https://en.wikipedia.org/wiki/Alien:_Isolation):
 

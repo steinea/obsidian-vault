@@ -12,7 +12,7 @@ permalink: 2023/09/08/art-of-rally
 
 # Art of Rally
 
-[[games]]
+[[Games]]
 
 <https://www.artofrally.com/>
 

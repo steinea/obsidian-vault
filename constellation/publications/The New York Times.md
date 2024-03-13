@@ -1,3 +1,3 @@
 # The New York Times
 
-[[publications]]
+[[Publications]]

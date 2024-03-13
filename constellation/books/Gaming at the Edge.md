@@ -14,7 +14,7 @@ tags:
 
 ### Sexuality and Gender at the Margins of Gamer Culture
 
-[[books]]
+[[Books]]
 
 Shaw, Adrienne. *Gaming at the Edge: Sexuality and Gender at the Margins of Gamer Culture.* University of Minnesota Press, 2014. [9780816693160](https://www.upress.umn.edu/book-division/books/gaming-at-the-edge).
 

@@ -1,6 +1,6 @@
 # Conference of the Parties
 
-[[climate]]
+[[Climate]]
 
 <https://unfccc.int/process/bodies/supreme-bodies/conference-of-the-parties-cop>
 

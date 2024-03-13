@@ -1,6 +1,6 @@
 # Climate Fiction Conference
 
-[[conferences]]
+[[Conferences]]
 
 <https://www.clificon.com/>
 

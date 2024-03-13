@@ -1,6 +1,6 @@
 # Emotional Mecha Jam
 
-[[jams]]
+[[Jams]]
 
 <https://itch.io/jam/sad-mecha-game-jam>
 

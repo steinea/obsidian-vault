@@ -1,6 +1,6 @@
 # Journal of the Philosophy of Sport
 
-[[journals]]
+[[Journals]]
 
 <https://www.tandfonline.com/journals/rjps20>
 

@@ -12,4 +12,4 @@ permalink: 2024/02/25/vampire-survivors
 
 # Vampire Survivors
 
-[[games]]
+[[Games]]

@@ -1,3 +1,3 @@
 # HTMLGIANT
 
-[[publications]]
+[[Publications]]

@@ -1,6 +1,6 @@
 # Better Kids Games
 
-[[games]]
+[[Games]]
 
 <https://patrickklepek.substack.com/p/this-designer-was-tired-of-kids-game>
 

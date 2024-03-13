@@ -1,6 +1,6 @@
 # Hops Ahead
 
-[[conferences]]
+[[Conferences]]
 
 <https://tropetank.com/hops_ahead/>
 

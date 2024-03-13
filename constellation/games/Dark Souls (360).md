@@ -18,4 +18,4 @@ permalink:
 
 # Dark Souls
 
-[[games]]
+[[Games]]

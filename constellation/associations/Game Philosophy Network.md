@@ -1,6 +1,6 @@
 # Game Philosophy Network
 
-[[associations]]
+[[Associations]]
 
 <https://gamephilosophy.org/>
 

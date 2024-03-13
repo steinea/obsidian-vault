@@ -8,7 +8,7 @@ status: wishlist
 url: https://www.lego.com/en-ca/product/nasa-space-shuttle-discovery-10283
 ---
 
-[[lego]]
+[[Lego]]
 
 # NASA Space Shuttle Discovery
 

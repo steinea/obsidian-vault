@@ -18,4 +18,4 @@ permalink:
 
 # Modern Warfare 2
 
-[[games]]
+[[Games]]

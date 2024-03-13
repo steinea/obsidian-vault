@@ -1,3 +1,3 @@
 # Søren Kierkegaard
 
-[[people]]
+[[People]]

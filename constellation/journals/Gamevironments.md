@@ -1,6 +1,6 @@
 # Gamevironments
 
-[[journals]]
+[[Journals]]
 
 <https://www.gamevironments.uni-bremen.de/current-papers-and-archive/>
 

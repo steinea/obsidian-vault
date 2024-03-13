@@ -12,4 +12,4 @@ permalink: 2015/02/25/the-walking-dead
 
 # The Walking Dead
 
-[[games]]
+[[Games]]

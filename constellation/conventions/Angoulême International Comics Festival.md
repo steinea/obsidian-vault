@@ -1,6 +1,6 @@
 # Angoulême International Comics Festival
 
-[[conventions]]
+[[Conventions]]
 
 <https://www.bdangouleme.com/>
 

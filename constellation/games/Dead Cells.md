@@ -18,7 +18,7 @@ permalink:
 
 # Dead Cells
 
-[[games]] / [[Motion Twin]] / [[PS5]] / [[2018]]
+[[Games]] / [[Motion Twin]] / [[PS5]] / [[2018]]
 
 From [Wikipedia](https://en.wikipedia.org/wiki/Dead_Cells):
 

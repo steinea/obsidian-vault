@@ -1,6 +1,6 @@
 # Eggplant
 
-[[podcasts]]
+[[Podcasts]]
 
 <https://eggplant.show/>
 

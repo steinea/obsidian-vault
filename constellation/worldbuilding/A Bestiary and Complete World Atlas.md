@@ -1,6 +1,6 @@
 # A Bestiary and Complete World Atlas
 
-[[worldbuilding]]
+[[Worldbuilding]]
 
 <https://comradery.co/amandalee>
 

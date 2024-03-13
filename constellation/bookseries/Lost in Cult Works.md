@@ -1,6 +1,6 @@
 # Lost in Cult Works
 
-[[bookseries]]
+[[Book Series]]
 
 <https://www.lostincult.co.uk/works>
 

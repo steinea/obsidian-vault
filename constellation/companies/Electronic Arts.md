@@ -1,3 +1,3 @@
 # Electronic Arts
 
-[[companies]]
+[[Companies]]

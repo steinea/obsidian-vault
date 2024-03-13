@@ -18,4 +18,4 @@ permalink:
 
 # Dragon Age II
 
-[[games]]
+[[Games]]

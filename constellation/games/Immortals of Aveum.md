@@ -13,4 +13,4 @@ permalink:
 
 # Immortals of Aveum
 
-[[games]]
+[[Games]]

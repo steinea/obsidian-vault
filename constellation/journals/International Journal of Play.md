@@ -1,6 +1,6 @@
 # International Journal of Play
 
-[[journals]]
+[[Journals]]
 
 <https://www.tandfonline.com/journals/rijp20>
 

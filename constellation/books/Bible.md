@@ -14,7 +14,7 @@ tags:
 
 ###
 
-[[books]] / [[]] / [[]]
+[[Books]] / [[]] / [[]]
 
 AUTHOR. *TITLE.* PUBLISHER, YEAR. [ISBN](URL).
 

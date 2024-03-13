@@ -1,6 +1,6 @@
 # International Conference on Computational Creativity
 
-[[conferences]]
+[[Conferences]]
 
 <https://computationalcreativity.net/iccc22/>
 

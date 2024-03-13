@@ -1,6 +1,6 @@
 # Certified Manager of Quality / Organizational Excellence (CMQ/OE)
 
-[[certifications]] / [[American Society for Quality]]
+[[Certifications]] / [[American Society for Quality]]
 
 <https://www.asq.org/cert/manager-of-quality>
 

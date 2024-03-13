@@ -1,6 +1,6 @@
 # European Review of Books
 
-[[literaryreviews]]
+[[Literary Reviews]]
 
 <https://europeanreviewofbooks.com/>
 

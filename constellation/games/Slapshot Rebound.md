@@ -18,4 +18,4 @@ permalink:
 
 # Slapshot Rebound
 
-[[games]]
+[[Games]]

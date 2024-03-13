@@ -16,7 +16,7 @@ date: 2017-08-15
 permalink: 2017/08/15/call-of-duty-black-ops-iii
 ---
 
-[[2015]] • [[games]] • [[Treyarch]] • [[Activision]] • [[PS4]]
+[[2015]] • [[Games]] • [[Treyarch]] • [[Activision]] • [[PS4]]
 
 From [Wikipedia](https://en.wikipedia.org/wiki/Call_of_Duty:_Black_Ops_III):
 

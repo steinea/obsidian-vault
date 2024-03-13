@@ -1,6 +1,6 @@
 # Hong Kong Review of Books
 
-[[literaryreviews]]
+[[Literary Reviews]]
 
 <https://hkrbooks.com/>
 

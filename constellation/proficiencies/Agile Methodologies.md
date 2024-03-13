@@ -1,3 +1,3 @@
 # Agile Methodologies
 
-[[proficiencies]]
+[[Proficiencies]]

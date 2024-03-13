@@ -1,6 +1,6 @@
 # Kanban University
 
-[[associations]]
+[[Associations]]
 
 <https://kanban.university/>
 

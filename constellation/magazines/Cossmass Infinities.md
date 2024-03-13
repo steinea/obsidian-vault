@@ -1,6 +1,6 @@
 # Cossmass Infinities
 
-[[magazines]]
+[[Magazines]]
 
 <https://www.cossmass.com/>
 

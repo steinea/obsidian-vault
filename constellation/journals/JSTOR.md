@@ -1,3 +1,3 @@
 # JSTOR
 
-[[journals]]
+[[Journals]]

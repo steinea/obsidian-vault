@@ -1,3 +1,3 @@
 # Aeon
 
-[[publications]]
+[[Publications]]

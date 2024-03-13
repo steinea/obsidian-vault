@@ -1,3 +1,3 @@
 # Interactive Storytelling
 
-[[proficiencies]]
+[[Proficiencies]]

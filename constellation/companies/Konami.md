@@ -1,3 +1,3 @@
 # Konami
 
-[[companies]]
+[[Companies]]

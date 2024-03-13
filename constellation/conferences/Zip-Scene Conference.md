@@ -1,6 +1,6 @@
 # Zip-Scene Conference
 
-[[conferences]]
+[[Conferences]]
 
 <https://zip-scene.mome.hu/>
 

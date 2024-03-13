@@ -1,3 +1,3 @@
 # Morrowind
 
-[[games]]
+[[Games]]

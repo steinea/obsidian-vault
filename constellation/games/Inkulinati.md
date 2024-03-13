@@ -18,4 +18,4 @@ permalink:
 
 # Inkulinati
 
-[[games]]
+[[Games]]

@@ -1,6 +1,6 @@
 # Canzine
 
-[[conventions]]
+[[Conventions]]
 
 <https://canzine.myshopify.com/pages/about>
 

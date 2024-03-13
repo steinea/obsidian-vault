@@ -12,4 +12,4 @@ permalink: 2021/10/13/hyper-light-drifter
 
 # Hyper Light Drifter
 
-[[games]]
+[[Games]]

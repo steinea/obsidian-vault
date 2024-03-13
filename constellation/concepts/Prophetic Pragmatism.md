@@ -1,6 +1,6 @@
 # Prophetic Pragmatism
 
-[[concepts]]
+[[Concepts]]
 
 <https://link.springer.com/chapter/10.1007/978-1-349-20415-1_7>
 

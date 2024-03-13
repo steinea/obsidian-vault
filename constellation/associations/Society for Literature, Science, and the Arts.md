@@ -1,6 +1,6 @@
 # Society for Literature, Science, and the Arts
 
-[[associations]]
+[[Associations]]
 
 <https://litsciarts.org/>
 

@@ -18,4 +18,4 @@ permalink:
 
 # Vox Machinae
 
-[[games]]
+[[Games]]

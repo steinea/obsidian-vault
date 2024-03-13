@@ -11,7 +11,7 @@ tags:
 
 # Kierkegaardian Studies
 
-[[books]] / [[Søren Kierkegaard]]
+[[Books]] / [[Søren Kierkegaard]]
 
 Wahl, Jean. *Kierkegaardian Studies.* 1938. <https://en.m.wikipedia.org/wiki/Kierkegaardian_Studies>.
 

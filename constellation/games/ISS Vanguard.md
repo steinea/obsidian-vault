@@ -1,6 +1,6 @@
 # ISS Vanguard
 
-[[games]]
+[[Games]]
 
 <https://gamefound.com/en/projects/awaken-realms/iss-vanguard>
 

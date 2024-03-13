@@ -1,6 +1,6 @@
 # PC Performance Strategy
 
-[[tools]]
+[[Tools]]
 
 <https://www.eurogamer.net/digitalfoundry-2023-13-ways-to-improve-pc-games-in-2023>
 

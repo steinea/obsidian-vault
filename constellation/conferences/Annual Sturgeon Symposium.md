@@ -1,6 +1,6 @@
 # Annual Sturgeon Symposium
 
-[[conferences]]
+[[Conferences]]
 
 <https://sfcenter.ku.edu/sturgeon-symposium>
 

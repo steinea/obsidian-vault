@@ -1,5 +1,5 @@
 # Eidolon
 
-[[games]]
+[[Games]]
 
 <http://icewatergames.com/eidolon>

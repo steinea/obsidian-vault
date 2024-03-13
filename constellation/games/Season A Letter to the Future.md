@@ -13,7 +13,7 @@ permalink:
 
 # Season: A Letter to the Future
 
-[[games]]
+[[Games]]
 
 <https://www.play-season.com/>
 

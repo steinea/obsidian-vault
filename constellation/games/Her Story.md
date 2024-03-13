@@ -12,4 +12,4 @@ permalink: 2017/09/06/her-story
 
 # Her Story
 
-[[games]]
+[[Games]]

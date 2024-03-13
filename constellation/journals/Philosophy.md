@@ -1,3 +1,3 @@
 # Philosophy
 
-[[journals]]
+[[Journals]]

@@ -16,7 +16,7 @@ date: 2021-07-02
 permalink: 2021/07/02/ea-sports-ufc-4
 ---
 
-[[2020]] • [[games]] • [[Electronic Arts]] • [[PS4]]
+[[2020]] • [[Games]] • [[Electronic Arts]] • [[PS4]]
 
 From [Wikipedia](https://en.wikipedia.org/wiki/EA_Sports_UFC_4):
 

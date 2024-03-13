@@ -1,6 +1,6 @@
 # Obisidian Digital Garden
 
-[[tools]] / [[Obsidian]]
+[[Tools]] / [[Obsidian]]
 
 <https://github.com/oleeskild/obsidian-digital-garden>
 

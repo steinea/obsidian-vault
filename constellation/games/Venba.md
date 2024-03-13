@@ -12,4 +12,4 @@ permalink: 2023/08/14/venba
 
 # Venba
 
-[[games]]
+[[Games]]

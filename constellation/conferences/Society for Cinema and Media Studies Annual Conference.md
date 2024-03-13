@@ -1,6 +1,6 @@
 # Society for Cinema and Media Studies Annual Conference
 
-[[conferences]]
+[[Conferences]]
 
 <https://www.cmstudies.org/page/conference>
 

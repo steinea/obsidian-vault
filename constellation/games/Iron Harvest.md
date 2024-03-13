@@ -13,7 +13,7 @@ permalink:
 
 # Iron Harvest
 
-[[games]]
+[[Games]]
 
 <https://kingart-games.com/games/7-iron-harvest/>
 

@@ -1,6 +1,6 @@
 # Bitmap Books
 
-[[bookseries]]
+[[Book Series]]
 
 <https://www.bitmapbooks.com/en-ca/collections/all-books>
 

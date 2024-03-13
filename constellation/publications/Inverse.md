@@ -1,3 +1,3 @@
 # Inverse
 
-[[publications]]
+[[Publications]]

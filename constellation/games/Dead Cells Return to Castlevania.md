@@ -18,7 +18,7 @@ permalink:
 
 # Dead Cells Return to Castlevania
 
-[[games]] / [[Motion Twin]] / [[PS5]] / [[2023]]
+[[Games]] / [[Motion Twin]] / [[PS5]] / [[2023]]
 
 From [Wikipedia](https://en.wikipedia.org/wiki/Dead_Cells#Release_and_expansions):
 

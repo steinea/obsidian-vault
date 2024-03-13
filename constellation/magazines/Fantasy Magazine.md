@@ -1,6 +1,6 @@
 # Fantasy Magazine
 
-[[magazines]]
+[[Magazines]]
 
 <https://www.fantasy-magazine.com/>
 

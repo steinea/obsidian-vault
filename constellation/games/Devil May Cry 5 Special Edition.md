@@ -18,7 +18,7 @@ permalink:
 
 # Devil May Cry 5 Special Edition
 
-[[games]] / [[Capcom]] / [[PS5]] / [[2019]]
+[[Games]] / [[Capcom]] / [[PS5]] / [[2019]]
 
 From [Wikipedia](https://en.wikipedia.org/wiki/Devil_May_Cry_5):
 

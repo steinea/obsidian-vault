@@ -1,3 +1,3 @@
 # Phenomenology
 
-[[concepts]]
+[[Concepts]]

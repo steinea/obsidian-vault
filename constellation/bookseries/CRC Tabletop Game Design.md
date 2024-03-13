@@ -1,6 +1,6 @@
 # CRC Tabletop Game Design
 
-[[bookseries]]
+[[Book Series]]
 
 <https://www.routledge.com/CRC-Press-Guides-to-Tabletop-Game-Design/book-series/CRCGUITABGAM>
 

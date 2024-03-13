@@ -18,7 +18,7 @@ permalink:
 
 # Stranger of Paradise: Final Fantasy Origin
 
-[[games]] / [[Team Ninja]] / [[Square Enix]] / [[PS5]] / [[2022]]
+[[Games]] / [[Team Ninja]] / [[Square Enix]] / [[PS5]] / [[2022]]
 
 From [Wikipedia](https://en.wikipedia.org/wiki/Stranger_of_Paradise:_Final_Fantasy_Origin):
 

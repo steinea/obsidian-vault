@@ -1,6 +1,6 @@
 # New Left Review
 
-[[publications]]
+[[Publications]]
 
 <https://newleftreview.org/>
 

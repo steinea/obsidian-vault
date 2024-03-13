@@ -17,7 +17,7 @@ permalink:
 
 # Nier Replicant ver.1.22474487139…
 
-[[games]] / [[Cavia]] / [[Square Enix]] / [[PS4]] / [[2010]]
+[[Games]] / [[Cavia]] / [[Square Enix]] / [[PS4]] / [[2010]]
 
 Director: [[Yoko Taro]]
 

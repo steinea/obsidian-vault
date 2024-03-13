@@ -1,3 +1,3 @@
 # Verso
 
-[[publications]]
+[[Publications]]

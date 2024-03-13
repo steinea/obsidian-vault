@@ -16,7 +16,7 @@ date:
 permalink: 
 ---
 
-[[2020]] • [[games]] • [[Japan Studio]] • [[Sony Interactive Entertainment]] • [[PS5]]
+[[2020]] • [[Games]] • [[Japan Studio]] • [[Sony Interactive Entertainment]] • [[PS5]]
 
 From [Wikipedia](https://en.wikipedia.org/wiki/Astro%27s_Playroom):
 

@@ -1,6 +1,6 @@
 # Strelka Institute
 
-[[institutes]]
+[[Institutes]]
 
 <https://en.wikipedia.org/wiki/Strelka_Institute>
 

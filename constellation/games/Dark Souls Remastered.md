@@ -12,4 +12,4 @@ permalink: 2020/03/29/dark-souls-remastered
 
 # Dark Souls: Remastered
 
-[[games]]
+[[Games]]

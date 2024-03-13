@@ -1,3 +1,3 @@
 # Poststructuralism
 
-[[concepts]]
+[[Concepts]]

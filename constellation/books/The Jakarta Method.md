@@ -1,6 +1,6 @@
 # The Jakarta Method
 
-[[books]]
+[[Books]]
 
 <https://en.m.wikipedia.org/wiki/The_Jakarta_Method>
 

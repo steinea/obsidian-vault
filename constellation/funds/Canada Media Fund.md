@@ -1,6 +1,6 @@
 # Canada Media Fund
 
-[[funds]]
+[[Funds]]
 
 <https://cmf-fmc.ca/our-programs/>
 

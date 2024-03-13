@@ -18,4 +18,4 @@ permalink:
 
 # Fruit Ninja Kinect
 
-[[games]]
+[[Games]]

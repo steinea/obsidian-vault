@@ -1,3 +1,3 @@
 # Prairie Schooner
 
-[[journals]]
+[[Journals]]

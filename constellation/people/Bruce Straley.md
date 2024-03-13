@@ -1,3 +1,3 @@
 # Bruce Straley
 
-[[people]]
+[[People]]

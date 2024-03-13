@@ -1,6 +1,6 @@
 # North American Society for the Study of Romanticism
 
-[[associations]]
+[[Associations]]
 
 <https://www.nassr.ca/>
 

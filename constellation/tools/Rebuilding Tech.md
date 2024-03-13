@@ -1,6 +1,6 @@
 # Rebuilding Tech
 
-[[tools]]
+[[Tools]]
 
 <https://communitytechnology.github.io/>
 

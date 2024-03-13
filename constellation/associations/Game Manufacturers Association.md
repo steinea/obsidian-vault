@@ -1,6 +1,6 @@
 # Game Manufacturers Association
 
-[[associations]]
+[[Associations]]
 
 <https://www.gama.org/>
 

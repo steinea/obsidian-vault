@@ -1,6 +1,6 @@
 # 6e Game Jam
 
-[[jams]]
+[[Jams]]
 
 <https://itch.io/jam/6e>
 

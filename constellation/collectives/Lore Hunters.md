@@ -1,6 +1,6 @@
 # Lore Hunters
 
-[[collectives]]
+[[Collectives]]
 
 <https://lorehunters.carrd.co/#hazel>
 

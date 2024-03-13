@@ -1,3 +1,3 @@
 # Granta
 
-[[publications]]
+[[Publications]]

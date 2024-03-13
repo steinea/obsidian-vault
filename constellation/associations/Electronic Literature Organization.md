@@ -1,6 +1,6 @@
 # Electronic Literature Organization
 
-[[associations]]
+[[Associations]]
 
 <https://eliterature.org/membership/>
 

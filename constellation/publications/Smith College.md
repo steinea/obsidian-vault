@@ -1,3 +1,3 @@
 # Smith College
 
-[[publications]]
+[[Publications]]

@@ -1,6 +1,6 @@
 # Simulation and Gaming
 
-[[journals]]
+[[Journals]]
 
 <https://journals.sagepub.com/home/sag>
 

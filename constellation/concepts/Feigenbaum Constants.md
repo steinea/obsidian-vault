@@ -1,6 +1,6 @@
 # Feigenbaum Constants
 
-[[concepts]]
+[[Concepts]]
 
 <https://en.m.wikipedia.org/wiki/Feigenbaum_constants>
 

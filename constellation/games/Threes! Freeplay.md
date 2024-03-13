@@ -18,4 +18,4 @@ permalink:
 
 # Threes! Freeplay
 
-[[games]]
+[[Games]]

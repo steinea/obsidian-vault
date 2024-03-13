@@ -1,6 +1,6 @@
 # Open Physics
 
-[[journals]]
+[[Journals]]
 
 <https://www.degruyter.com/journal/key/phys/html?lang=en>
 

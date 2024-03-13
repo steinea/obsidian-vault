@@ -12,4 +12,4 @@ permalink: 2019/08/19/sekiro-shadows-die-twice
 
 # Sekiro: Shadows Die Twice
 
-[[games]]
+[[Games]]

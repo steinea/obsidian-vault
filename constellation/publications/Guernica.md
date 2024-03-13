@@ -1,3 +1,3 @@
 # Guernica
 
-[[publications]]
+[[Publications]]

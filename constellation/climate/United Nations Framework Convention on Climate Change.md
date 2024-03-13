@@ -1,6 +1,6 @@
 # United Nations Framework Convention on Climate Change
 
-[[climate]]
+[[Climate]]
 
 <https://unfccc.int/>
 

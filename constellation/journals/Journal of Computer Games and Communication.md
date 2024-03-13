@@ -1,6 +1,6 @@
 # Journal of Computer Games and Communication
 
-[[journals]]
+[[Journals]]
 
 <https://www.macroworldpub.com/makale_liste.php?dergi_id=55&volume=1&issue=1>
 

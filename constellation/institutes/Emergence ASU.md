@@ -1,6 +1,6 @@
 # Emergence ASU
 
-[[institutes]]
+[[Institutes]]
 
 <http://emergence.asu.edu/>
 

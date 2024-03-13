@@ -18,7 +18,7 @@ permalink:
 
 # Final Fantasy XVI
 
-[[games]] / [[Square Enix]] / [[PS5]] / [[2023]]
+[[Games]] / [[Square Enix]] / [[PS5]] / [[2023]]
 
 Producer: [[Naoki Yoshida]]
 

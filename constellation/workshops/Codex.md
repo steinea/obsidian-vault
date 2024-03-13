@@ -1,6 +1,6 @@
 # Codex
 
-[[workshops]]
+[[Workshops]]
 
 <https://www.codexwriters.com/>
 

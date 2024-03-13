@@ -1,6 +1,6 @@
 # Noclip
 
-[[channels]]
+[[Channels]]
 
 <https://www.patreon.com/noclip>
 

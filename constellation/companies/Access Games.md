@@ -1,3 +1,3 @@
 # Access Games
 
-[[companies]]
+[[Companies]]

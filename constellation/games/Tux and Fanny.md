@@ -13,7 +13,7 @@ permalink:
 
 # Tux and Fanny
 
-[[games]]
+[[Games]]
 
 <https://abirney.com/Tux-and-Fanny-Video-Game>
 

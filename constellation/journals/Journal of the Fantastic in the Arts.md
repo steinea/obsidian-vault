@@ -1,6 +1,6 @@
 # Journal of the Fantastic in the Arts
 
-[[journals]]
+[[Journals]]
 
 <https://www.fantastic-arts.org/jfa/>
 

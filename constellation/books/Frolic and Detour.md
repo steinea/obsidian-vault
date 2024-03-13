@@ -6,7 +6,7 @@ date: 2022
 permalink: '9780571354504'
 ---
 
-[[books]] • [[Paul Muldoon]] • [[Poetry]]
+[[Books]] • [[Paul Muldoon]] • [[Poetry]]
 
 ### Citation
 

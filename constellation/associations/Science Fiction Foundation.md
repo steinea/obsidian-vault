@@ -1,6 +1,6 @@
 # Science Fiction Foundation
 
-[[associations]]
+[[Associations]]
 
 <https://www.sf-foundation.org/new-membership-page>
 

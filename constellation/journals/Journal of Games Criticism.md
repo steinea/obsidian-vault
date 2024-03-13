@@ -1,6 +1,6 @@
 # Journal of Games Criticism
 
-[[journals]]
+[[Journals]]
 
 <http://gamescriticism.org/>
 

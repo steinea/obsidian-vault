@@ -12,4 +12,4 @@ permalink: 2021/11/28/unpacking
 
 # Unpacking
 
-[[games]]
+[[Games]]

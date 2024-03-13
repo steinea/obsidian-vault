@@ -12,4 +12,4 @@ permalink: 2024/02/25/starfield
 
 # Starfield
 
-[[games]]
+[[Games]]

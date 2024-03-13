@@ -1,6 +1,6 @@
 # Vancouver Comic Arts Festival
 
-[[conventions]]
+[[Conventions]]
 
 <https://www.vancaf.org/>
 

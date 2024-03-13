@@ -6,7 +6,7 @@ date: 1951
 permalink: '9780553293357'
 ---
 
-[[books]] • [[Isaac Asimov]] • [[Science Fiction]]
+[[Books]] • [[Isaac Asimov]] • [[Science Fiction]]
 
 ### Citation
 

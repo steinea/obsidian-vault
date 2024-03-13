@@ -12,7 +12,7 @@ permalink: 2023/08/19/immortality
 
 # Immortality
 
-[[games]]
+[[Games]]
 
 <https://halfmermaid.co/stories>
 

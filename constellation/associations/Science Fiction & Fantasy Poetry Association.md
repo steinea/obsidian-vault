@@ -1,6 +1,6 @@
 # Science Fiction & Fantasy Poetry Association
 
-[[associations]]
+[[Associations]]
 
 <http://www.sfpoetry.com/>
 

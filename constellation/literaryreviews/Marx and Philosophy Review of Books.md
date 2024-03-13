@@ -1,6 +1,6 @@
 # Marx and Philosophy Review of Books
 
-[[literaryreviews]]
+[[Literary Reviews]]
 
 <https://marxandphilosophy.org.uk/reviewofbooks/>
 

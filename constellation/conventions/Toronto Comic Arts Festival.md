@@ -1,6 +1,6 @@
 # Toronto Comic Arts Festival
 
-[[conventions]]
+[[Conventions]]
 
 <https://www.torontocomics.com/>
 

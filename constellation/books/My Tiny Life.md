@@ -14,7 +14,7 @@ tags:
 
 ### Crime and Passion in a Virtual World
 
-[[books]]
+[[Books]]
 
 Dibbell, Julian. *My Tiny Life: Crime and Passion in a Virtual World.* Holt Paperbacks, 1999. [9780805036268](https://books.google.ca/books/about/My_Tiny_Life.html?id=SK3VRr7bFVkC).
 

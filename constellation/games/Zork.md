@@ -1,3 +1,3 @@
 # Zork
 
-[[games]]
+[[Games]]

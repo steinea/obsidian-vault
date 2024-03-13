@@ -13,4 +13,4 @@ permalink:
 
 # Uncharted: The Lost Legacy Remastered
 
-[[games]]
+[[Games]]

@@ -18,4 +18,4 @@ permalink:
 
 # Star Wars: Squadrons
 
-[[games]]
+[[Games]]

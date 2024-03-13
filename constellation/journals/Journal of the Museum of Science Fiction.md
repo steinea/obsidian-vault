@@ -1,6 +1,6 @@
 # Journal of the Museum of Science Fiction
 
-[[journals]]
+[[Journals]]
 
 <https://publish.lib.umd.edu/?journal=scifi>
 

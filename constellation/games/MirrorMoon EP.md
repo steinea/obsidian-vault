@@ -13,7 +13,7 @@ permalink:
 
 # MirrorMoon EP
 
-[[games]]
+[[Games]]
 
 <https://www.mirrormoongame.com/>
 

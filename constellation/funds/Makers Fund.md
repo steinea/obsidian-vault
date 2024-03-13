@@ -1,6 +1,6 @@
 # Makers Fund
 
-[[funds]]
+[[Funds]]
 
 <https://www.makersfund.com/>
 

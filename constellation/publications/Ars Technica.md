@@ -1,3 +1,3 @@
 # Ars Technica
 
-[[publications]]
+[[Publications]]

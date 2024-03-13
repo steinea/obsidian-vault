@@ -1,3 +1,3 @@
 # Thomas Jefferson Law Review
 
-[[journals]]
+[[Journals]]

@@ -1,6 +1,6 @@
 # World Science Fiction Society
 
-[[associations]]
+[[Associations]]
 
 <https://www.wsfs.org/membership/>
 

@@ -13,7 +13,7 @@ permalink:
 
 # Momodora Reverie Under the Moonlight
 
-[[games]]
+[[Games]]
 
 <https://momodorarutm.dangenentertainment.com/>
 

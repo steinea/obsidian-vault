@@ -1,6 +1,6 @@
 # Dark Matter Magazine
 
-[[magazines]]
+[[Magazines]]
 
 <https://darkmattermagazine.com/submission-guidelines/>
 

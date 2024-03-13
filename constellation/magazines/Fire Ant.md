@@ -1,6 +1,6 @@
 # Fire Ant
 
-[[magazines]]
+[[Magazines]]
 
 <https://bloomingtonabc.noblogs.org/fire-ant/>
 

@@ -1,3 +1,3 @@
 # Medium
 
-[[publications]]
+[[Publications]]

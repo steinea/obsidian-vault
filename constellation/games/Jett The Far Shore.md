@@ -18,6 +18,6 @@ permalink:
 
 # Jett: The Far Shore
 
-[[games]] / [[Superbrothers]] / [[Pine Scented Software]] / [[PS5]] / [[2021]]
+[[Games]] / [[Superbrothers]] / [[Pine Scented Software]] / [[PS5]] / [[2021]]
 
 > Jett: The Far Shore is an action-adventure exploration video game developed and published by Superbrothers and Pine Scented Software. The game was released in October 2021 for Windows, PlayStation 4 and PlayStation 5.

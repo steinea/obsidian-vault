@@ -12,7 +12,7 @@ permalink: 2023/08/19/disc-room
 
 # Disc Room
 
-[[games]]
+[[Games]]
 
 <https://discroom.com/>
 

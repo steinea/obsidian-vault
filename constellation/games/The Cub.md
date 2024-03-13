@@ -16,7 +16,7 @@ date:
 permalink: 
 ---
 
-[[2024]] • [[games]] • [[Demagog Studio]] • [[Untold Tales]] • [[PS5]]
+[[2024]] • [[Games]] • [[Demagog Studio]] • [[Untold Tales]] • [[PS5]]
 
 From [Official Site](https://untoldtales.games/games/the-cub/):
 

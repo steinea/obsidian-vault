@@ -1,6 +1,6 @@
 # Strange Horizons
 
-[[magazines]]
+[[Magazines]]
 
 <http://strangehorizons.com/>
 

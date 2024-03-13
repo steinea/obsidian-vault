@@ -1,6 +1,6 @@
 # Science Fiction Research Association Conference
 
-[[conferences]]
+[[Conferences]]
 
 <https://sfra.org/conferences/>
 

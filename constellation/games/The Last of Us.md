@@ -16,7 +16,7 @@ date: 2014-07-24
 permalink: 2014/07/24/the-last-of-us
 ---
 
-[[2013]] • [[games]] • [[Naughty Dog]] • [[Sony Interactive Entertainment]] • [[PS3]]
+[[2013]] • [[Games]] • [[Naughty Dog]] • [[Sony Interactive Entertainment]] • [[PS3]]
 
 From [Wikipedia](https://en.wikipedia.org/wiki/The_Last_of_Us):
 

@@ -1,3 +1,3 @@
 # Motion Twin
 
-[[companies]]
+[[Companies]]

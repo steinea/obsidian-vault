@@ -1,6 +1,6 @@
 # Gen Con
 
-[[conventions]]
+[[Conventions]]
 
 <https://www.gencon.com/>
 

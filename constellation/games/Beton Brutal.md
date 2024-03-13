@@ -13,7 +13,7 @@ permalink:
 
 # Beton Brutal
 
-[[games]]
+[[Games]]
 
 <https://store.steampowered.com/app/2330500/BETON_BRUTAL/>
 

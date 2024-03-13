@@ -18,7 +18,7 @@ permalink:
 
 # Rise of the Ronin
 
-[[games]] / [[Team Ninja]] / [[Sony Interactive Entertainment]] / [[PS5]] / [[2024]]
+[[Games]] / [[Team Ninja]] / [[Sony Interactive Entertainment]] / [[PS5]] / [[2024]]
 
 From [Wikipedia](https://en.wikipedia.org/wiki/Rise_of_the_R%C5%8Dnin):
 

@@ -8,7 +8,7 @@ status: wishlist
 url: https://www.lego.com/en-ca/product/bb-8-75187
 ---
 
-[[lego]]
+[[Lego]]
 
 # BB-8
 

@@ -1,3 +1,3 @@
 # The A. V. Club
 
-[[publications]]
+[[Publications]]

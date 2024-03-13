@@ -12,4 +12,4 @@ permalink: 2022/02/21/the-ramp
 
 # The Ramp
 
-[[games]]
+[[Games]]

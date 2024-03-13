@@ -1,6 +1,6 @@
 # Annulet Poetics Journal
 
-[[literaryreviews]]
+[[Literary Reviews]]
 
 <https://annuletpoeticsjournal.com/>
 

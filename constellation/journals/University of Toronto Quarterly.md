@@ -1,3 +1,3 @@
 # University of Toronto Quarterly
 
-[[journals]]
+[[Journals]]

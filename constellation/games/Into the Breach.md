@@ -13,7 +13,7 @@ permalink:
 
 # Into the Breach
 
-[[games]]
+[[Games]]
 
 <https://subsetgames.com/itb.html>
 

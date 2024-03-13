@@ -1,6 +1,6 @@
 # Eludamos
 
-[[journals]]
+[[Journals]]
 
 <https://eludamos.org/index.php/eludamos>
 

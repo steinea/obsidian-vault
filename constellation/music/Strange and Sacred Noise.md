@@ -1,3 +1,3 @@
 # Strange and Sacred Noise
 
-[[music]]
+[[Music]]

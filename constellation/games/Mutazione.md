@@ -12,4 +12,4 @@ permalink: 2021/01/14/mutazione
 
 # Mutazione
 
-[[games]]
+[[Games]]

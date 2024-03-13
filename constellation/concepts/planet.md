@@ -1,3 +1,3 @@
 # Planet
 
-[[concepts]]
+[[Concepts]]

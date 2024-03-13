@@ -1,6 +1,6 @@
 # Kanban Management Professional (KMP)
 
-[[certifications]] / [[Kanban University]]
+[[Certifications]] / [[Kanban University]]
 
 <https://kanban.university/kanban-development-path/>
 

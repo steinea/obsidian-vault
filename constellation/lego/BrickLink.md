@@ -1,6 +1,6 @@
 # BrickLink
 
-[[lego]]
+[[Lego]]
 
 <https://www.bricklink.com/v2/main.page>
 

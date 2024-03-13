@@ -18,4 +18,4 @@ permalink:
 
 # Halo 4
 
-[[games]]
+[[Games]]

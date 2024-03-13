@@ -13,7 +13,7 @@ permalink:
 
 # Assemble with Care
 
-[[games]]
+[[Games]]
 
 <https://www.assemblegame.com/>
 

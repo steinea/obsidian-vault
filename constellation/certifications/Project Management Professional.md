@@ -1,6 +1,6 @@
 # Project Management Professional (PMP)
 
-[[certifications]] / [[Project Management Institute]]
+[[Certifications]] / [[Project Management Institute]]
 
 <https://www.pmi.org/certifications/project-management-pmp>
 

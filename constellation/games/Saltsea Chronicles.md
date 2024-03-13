@@ -13,7 +13,7 @@ permalink:
 
 # Saltsea Chronicles
 
-[[games]]
+[[Games]]
 
 <https://www.saltseachronicles.com/>
 

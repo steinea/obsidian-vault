@@ -1,6 +1,6 @@
 # Élie Faure
 
-[[people]]
+[[People]]
 
 > Jacques Élie Faure (4 April 1873 in Sainte-Foy-la-Grande, France – 29 October 1937 in Paris) was a French medical doctor, art historian and essayist.
 >

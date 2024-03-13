@@ -1,3 +1,3 @@
 # The Marginalian
 
-[[publications]]
+[[Publications]]

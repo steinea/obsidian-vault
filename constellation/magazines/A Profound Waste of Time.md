@@ -1,6 +1,6 @@
 # A Profound Waste of Time
 
-[[magazines]]
+[[Magazines]]
 
 <https://apwot.com/>
 

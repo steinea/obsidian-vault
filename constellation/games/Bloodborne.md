@@ -12,4 +12,4 @@ permalink: 2017/05/22/bloodborne
 
 # Bloodborne
 
-[[games]]
+[[Games]]

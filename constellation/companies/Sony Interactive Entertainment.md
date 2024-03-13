@@ -1,3 +1,3 @@
 # Sony Interactive Entertainment
 
-[[companies]]
+[[Companies]]

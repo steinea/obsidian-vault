@@ -13,7 +13,7 @@ tags:
 
 # Queer Game Studies
 
-[[books]]
+[[Books]]
 
 Ruberg, Bonnie and Shaw, Adrienne. *Queer Game Studies.* University of Minnesota Press, 2017. [9781517900373](https://www.upress.umn.edu/Plone/book-division/books/queer-game-studies).
 

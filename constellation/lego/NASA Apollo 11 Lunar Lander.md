@@ -8,7 +8,7 @@ status: wishlist
 url: https://www.lego.com/en-ca/product/nasa-apollo-11-lunar-lander-10266
 ---
 
-[[lego]]
+[[Lego]]
 
 # NASA Apollo 11 Lunar Lander
 

@@ -13,7 +13,7 @@ permalink:
 
 # Tunic
 
-[[games]]
+[[Games]]
 
 <https://tunicgame.com/>
 

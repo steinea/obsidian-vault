@@ -18,4 +18,4 @@ permalink:
 
 # This War of Mine
 
-[[games]]
+[[Games]]

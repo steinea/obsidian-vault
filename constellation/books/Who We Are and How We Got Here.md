@@ -12,7 +12,7 @@ tags:
 
 ### Ancient DNA and the New Science of the Human Past
 
-[[books]]
+[[Books]]
 
 Reich, David. *Who We Are and How We Got Here: Ancient DNA and the New Science of the Human Past.* Vintage, 2018. [9781101873465](https://www.penguinrandomhouse.com/books/247850/who-we-are-and-how-we-got-here-by-david-reich/).
 

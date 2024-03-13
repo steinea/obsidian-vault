@@ -12,4 +12,4 @@ permalink: 2022/01/03/the-stanley-parable
 
 # The Stanley Parable
 
-[[games]]
+[[Games]]

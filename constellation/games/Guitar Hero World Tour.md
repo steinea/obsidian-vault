@@ -18,4 +18,4 @@ permalink:
 
 # Guitar Hero World Tour
 
-[[games]]
+[[Games]]

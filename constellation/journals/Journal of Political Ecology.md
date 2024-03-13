@@ -1,6 +1,6 @@
 # Journal of Political Ecology
 
-[[journals]]
+[[Journals]]
 
 <https://journals.librarypublishing.arizona.edu/jpe/>
 

@@ -1,6 +1,6 @@
 # Solar Protocol
 
-[[tools]]
+[[Tools]]
 
 <http://solarprotocol.net/>
 

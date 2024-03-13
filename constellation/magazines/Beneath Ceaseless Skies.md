@@ -1,6 +1,6 @@
 # Beneath Ceaseless Skies
 
-[[magazines]]
+[[Magazines]]
 
 <https://www.beneath-ceaseless-skies.com/>
 

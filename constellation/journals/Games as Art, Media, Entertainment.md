@@ -1,6 +1,6 @@
 # Games as Art, Media, Entertainment
 
-[[journals]]
+[[Journals]]
 
 <https://www.gamejournal.it/>
 

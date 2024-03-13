@@ -1,6 +1,6 @@
 # Games and Virtual Worlds
 
-[[journals]]
+[[Journals]]
 
 <https://www.intellectbooks.com/journal-of-gaming-virtual-worlds>
 

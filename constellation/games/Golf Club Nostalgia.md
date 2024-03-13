@@ -16,7 +16,7 @@ date: 2024-03-04
 permalink: 2024/03/04/gold-club-nostalgia
 ---
 
-[[2021]] • [[games]] • [[Demagog Studio]] • [[Untold Tales]] • [[PS4]]
+[[2021]] • [[Games]] • [[Demagog Studio]] • [[Untold Tales]] • [[PS4]]
 
 From [Wikipedia](https://en.wikipedia.org/wiki/Golf_Club:_Wasteland):
 

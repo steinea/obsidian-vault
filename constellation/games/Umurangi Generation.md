@@ -12,4 +12,4 @@ permalink: 2021/03/04/umurangi-generation
 
 # Umurangi Generation
 
-[[games]]
+[[Games]]

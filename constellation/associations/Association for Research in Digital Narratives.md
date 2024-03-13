@@ -1,6 +1,6 @@
 # Association for Research in Digital Narratives
 
-[[associations]]
+[[Associations]]
 
 <https://ardin.online/membership-account/membership-levels/>
 

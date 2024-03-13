@@ -1,3 +1,3 @@
 # Wilfrid Sellars
 
-[[people]]
+[[People]]

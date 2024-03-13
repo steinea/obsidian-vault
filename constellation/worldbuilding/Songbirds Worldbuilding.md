@@ -1,6 +1,6 @@
 # Songbirds Worldbuilding
 
-[[worldbuilding]]
+[[Worldbuilding]]
 
 <https://www.pinterest.ca/deathmcgunz/worldbuilding-ideas/>
 

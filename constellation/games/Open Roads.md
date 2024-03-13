@@ -13,7 +13,7 @@ permalink:
 
 # Open Roads
 
-[[games]]
+[[Games]]
 
 <https://annapurnainteractive.com/en/games/open-roads>
 

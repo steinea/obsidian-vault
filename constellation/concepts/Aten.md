@@ -1,6 +1,6 @@
 # Aten
 
-[[concepts]]
+[[Concepts]]
 
 From [Wikipedia](https://en.m.wikipedia.org/wiki/Aten):
 

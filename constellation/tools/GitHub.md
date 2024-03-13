@@ -1,6 +1,6 @@
 # GitHub
 
-[[tools]]
+[[Tools]]
 
 <https://github.com/>
 

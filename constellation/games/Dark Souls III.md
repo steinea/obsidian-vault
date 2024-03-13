@@ -12,4 +12,4 @@ permalink: 2018/05/12/dark-souls-iii
 
 # Dark Souls III
 
-[[games]]
+[[Games]]

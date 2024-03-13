@@ -1,6 +1,6 @@
 # In Common
 
-[[bookseries]]
+[[Book Series]]
 
 <https://www.bloomsbury.com/ca/series/in-common/>
 

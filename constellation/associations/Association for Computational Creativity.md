@@ -1,6 +1,6 @@
 # Association for Computational Creativity
 
-[[associations]]
+[[Associations]]
 
 <http://computationalcreativity.net/home/>
 

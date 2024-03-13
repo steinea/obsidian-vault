@@ -12,4 +12,4 @@ permalink: 2016/12/08/uncharted-drakes-fortune-remastered
 
 # Uncharted: Drake’s Fortune Remastered
 
-[[games]]
+[[Games]]

@@ -1,3 +1,3 @@
 # Criticism
 
-[[journals]]
+[[Journals]]

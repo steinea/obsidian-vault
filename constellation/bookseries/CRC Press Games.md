@@ -1,6 +1,6 @@
 # CRC Press Games
 
-[[bookseries]]
+[[Book Series]]
 
 <https://www.routledge.com/search?sb=CGD1&publishedFilter=alltitles&pd=published&pg=1&pp=12&so=pub&view=grid>
 

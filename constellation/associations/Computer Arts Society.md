@@ -1,6 +1,6 @@
 # Computer Arts Society
 
-[[associations]]
+[[Associations]]
 
 <https://computer-arts-society.com/>
 

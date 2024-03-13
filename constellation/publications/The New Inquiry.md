@@ -1,3 +1,3 @@
 # The New Inquiry
 
-[[publications]]
+[[Publications]]

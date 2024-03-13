@@ -1,6 +1,6 @@
 # Entertainment Computing
 
-[[journals]]
+[[Journals]]
 
 <https://www.journals.elsevier.com/entertainment-computing>
 

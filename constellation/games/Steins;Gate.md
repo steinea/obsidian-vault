@@ -1,3 +1,3 @@
 # Steins;Gate
 
-[[games]]
+[[Games]]

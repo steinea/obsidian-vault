@@ -1,6 +1,6 @@
 # Jena Romanticism
 
-[[concepts]]
+[[Concepts]]
 
 From [Wikipedia](https://en.m.wikipedia.org/wiki/Jena_Romanticism):
 

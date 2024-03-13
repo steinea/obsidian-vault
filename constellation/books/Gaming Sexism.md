@@ -14,7 +14,7 @@ tags:
 
 ### Gender and Identity in the Era of Casual Video Games
 
-[[books]]
+[[Books]]
 
 Cote, Amanda C.. *Gaming Sexism: Gender and Identity in the Era of Casual Video Games.* NYU Press, 2020. [9781479802203](https://nyupress.org/9781479802203/gaming-sexism/).
 

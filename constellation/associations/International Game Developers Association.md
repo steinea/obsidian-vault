@@ -1,6 +1,6 @@
 # International Game Developers Association
 
-[[associations]]
+[[Associations]]
 
 <https://igda.org/>
 

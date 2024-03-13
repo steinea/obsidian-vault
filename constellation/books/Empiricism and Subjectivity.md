@@ -7,7 +7,7 @@ date: 1953
 permalink: '9780231068130'
 ---
 
-[[books]] • [[Gilles Deleuze]] • [[Philosophy]]
+[[Books]] • [[Gilles Deleuze]] • [[Philosophy]]
 
 ### Citation
 

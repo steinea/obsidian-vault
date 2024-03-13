@@ -1,6 +1,6 @@
 # Ropecon
 
-[[conventions]]
+[[Conventions]]
 
 <https://ropecon.fi/en/front/>
 

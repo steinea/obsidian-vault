@@ -6,7 +6,7 @@ date:  1985
 permalink: '9781804290484'
 ---
 
-[[books]] • [[Erik Olin Wright]] • [[Marxism]]
+[[Books]] • [[Erik Olin Wright]] • [[Marxism]]
 
 ### Citation
 

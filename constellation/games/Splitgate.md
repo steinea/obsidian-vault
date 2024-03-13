@@ -12,4 +12,4 @@ permalink: 2022/05/12/splitgate
 
 # Splitgate
 
-[[games]]
+[[Games]]

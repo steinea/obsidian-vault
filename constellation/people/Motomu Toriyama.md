@@ -1,6 +1,6 @@
 # Motomu Toriyama
 
-[[people]]
+[[People]]
 
 <https://www.mobygames.com/person/55660/motomu-toriyama/>
 

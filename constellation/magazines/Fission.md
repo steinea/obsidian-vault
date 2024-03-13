@@ -10,7 +10,7 @@ tags: fantastic magazines
 
 # Fission
 
-[[magazines]]
+[[Magazines]]
 
 <https://bsfa.co.uk/fission>
 

@@ -1,6 +1,6 @@
 # Fire Weather
 
-[[books]]
+[[Books]]
 
 <https://www.penguinrandomhouse.ca/books/739360/fire-weather-by-john-vaillant/9780735273160>
 

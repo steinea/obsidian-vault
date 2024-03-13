@@ -1,3 +1,3 @@
 # TED
 
-[[publications]]
+[[Publications]]

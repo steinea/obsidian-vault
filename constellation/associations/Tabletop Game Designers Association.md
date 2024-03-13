@@ -1,6 +1,6 @@
 # Tabletop Game Designers Association
 
-[[associations]]
+[[Associations]]
 
 <https://www.ttgda.org/>
 

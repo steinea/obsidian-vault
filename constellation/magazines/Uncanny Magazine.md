@@ -1,6 +1,6 @@
 # Uncanny Magazine
 
-[[magazines]]
+[[Magazines]]
 
 <https://www.uncannymagazine.com/>
 

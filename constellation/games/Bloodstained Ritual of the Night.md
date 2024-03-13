@@ -18,7 +18,7 @@ permalink:
 
 # Bloodstained Ritual of the Night
 
-[[games]] / [[ArtPlay]] / [[505 Games]] / [[PS4]] / [[2019]]
+[[Games]] / [[ArtPlay]] / [[505 Games]] / [[PS4]] / [[2019]]
 
 Producer: [[Koji Igarashi]]
 

@@ -1,6 +1,6 @@
 # The Silt Verses
 
-[[podcasts]]
+[[Podcasts]]
 
 <https://www.thesiltverses.com/>
 

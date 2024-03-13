@@ -6,7 +6,7 @@ date: 1953
 permalink: '9780553293364'
 ---
 
-[[books]] • [[Isaac Asimov]] • [[Science Fiction]]
+[[Books]] • [[Isaac Asimov]] • [[Science Fiction]]
 
 ### Citation
 

@@ -12,4 +12,4 @@ permalink: 2019/04/01/demons-souls
 
 # Demon’s Souls
 
-[[games]]
+[[Games]]

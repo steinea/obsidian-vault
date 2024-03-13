@@ -1,6 +1,6 @@
 # Museum of Science Fiction
 
-[[associations]]
+[[Associations]]
 
 <https://www.museumofsciencefiction.org/>
 

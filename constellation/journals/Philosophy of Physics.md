@@ -1,6 +1,6 @@
 # Philosophy of Physics
 
-[[journals]]
+[[Journals]]
 
 <https://philosophyofphysics.org/journal/>
 

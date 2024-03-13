@@ -1,3 +1,3 @@
 # Course in General Linguistics
 
-[[books]]
+[[Books]]

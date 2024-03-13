@@ -1,6 +1,6 @@
 # On Spec
 
-[[magazines]]
+[[Magazines]]
 
 <https://onspecmag.ca/>
 

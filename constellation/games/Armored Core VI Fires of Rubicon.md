@@ -13,4 +13,4 @@ permalink:
 
 # Armored Core VI: Fires of Rubicon
 
-[[games]]
+[[Games]]

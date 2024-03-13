@@ -1,5 +1,5 @@
 # Internet Modern History Sourcebook
 
-[[publications]]
+[[Publications]]
 
 <https://sourcebooks.fordham.edu/mod/modsbook.asp>

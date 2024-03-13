@@ -1,6 +1,6 @@
 # International Digital Media and Arts Conference
 
-[[conferences]]
+[[Conferences]]
 
 <http://idmaa.org/conferences/>
 

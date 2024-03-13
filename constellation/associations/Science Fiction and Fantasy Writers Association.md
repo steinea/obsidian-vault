@@ -1,6 +1,6 @@
 # Science Fiction and Fantasy Writers Association
 
-[[associations]]
+[[Associations]]
 
 <https://www.sfwa.org/about/join-us/sfwa-membership-requirements/>
 

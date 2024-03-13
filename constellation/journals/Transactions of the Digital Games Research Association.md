@@ -1,6 +1,6 @@
 # Transactions of the Digital Games Research Association
 
-[[journals]]
+[[Journals]]
 
 <http://todigra.org/index.php/todigra>
 

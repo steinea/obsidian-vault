@@ -18,4 +18,4 @@ permalink:
 
 # Assassin's Creed II
 
-[[games]]
+[[Games]]

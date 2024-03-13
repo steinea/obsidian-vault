@@ -1,6 +1,6 @@
 # International Association for the Fantastic in the Arts
 
-[[associations]]
+[[Associations]]
 
 <https://iaftfita.wildapricot.org/>
 

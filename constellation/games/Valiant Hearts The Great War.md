@@ -12,4 +12,4 @@ permalink: 2015/03/27/valiant-hearts-the-great-war
 
 # Valiant Hearts: The Great War
 
-[[games]]
+[[Games]]

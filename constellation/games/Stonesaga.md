@@ -1,6 +1,6 @@
 # Stonesaga
 
-[[games]]
+[[Games]]
 
 <https://gamefound.com/en/projects/oomm-games/stonesaga>
 

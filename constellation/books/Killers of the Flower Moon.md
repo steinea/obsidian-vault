@@ -1,6 +1,6 @@
 # Killers of the Flower Moon
 
-[[books]]
+[[Books]]
 
 <https://www.davidgrann.com/books/#killers-of-the-flower-moon>
 

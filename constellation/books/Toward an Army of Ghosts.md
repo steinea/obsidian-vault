@@ -7,7 +7,7 @@ date: 2017
 permalink:
 ---
 
-[[books]] • [[Tom Nomad]] • [[Anarchism]]
+[[Books]] • [[Tom Nomad]] • [[Anarchism]]
 
 ### Citation
 

@@ -8,7 +8,7 @@ status: wishlist
 url: https://www.lego.com/en-ca/product/tantive-iv-75244
 ---
 
-[[lego]]
+[[Lego]]
 
 # Tantive IV
 

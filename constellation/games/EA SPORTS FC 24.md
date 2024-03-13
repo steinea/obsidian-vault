@@ -18,7 +18,7 @@ permalink: 2024/02/26/ea-sports-fc-24
 
 # EA SPORTS FC 24
 
-[[games]]
+[[Games]]
 
 EA SPORTS FC™ 24 welcomes you to The World’s Game—the most true-to-football experience ever with HyperMotionV, PlayStyles optimised by Opta, and a revolutionised Frostbite™ Engine reinventing how 19,000+ authentic players move, play and look in every match.
 

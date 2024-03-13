@@ -1,6 +1,6 @@
 # The White Darkness
 
-[[books]]
+[[Books]]
 
 <https://www.davidgrann.com/books/#the-white-darkness>
 

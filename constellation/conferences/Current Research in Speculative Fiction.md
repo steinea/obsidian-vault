@@ -1,6 +1,6 @@
 # Current Research in Speculative Fiction
 
-[[conferences]]
+[[Conferences]]
 
 <https://crsfhome.home.blog/>
 

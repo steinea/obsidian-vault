@@ -18,7 +18,7 @@ permalink:
 
 # Stellar Blade
 
-[[games]] / [[Shift Up]] / [[Sony Interactive Entertainment]] / [[PS5]] / [[2024]]
+[[Games]] / [[Shift Up]] / [[Sony Interactive Entertainment]] / [[PS5]] / [[2024]]
 
 From [Wikipedia](https://en.wikipedia.org/wiki/Stellar_Blade):
 

@@ -1,6 +1,6 @@
 # Foundations of Digital Games
 
-[[conferences]]
+[[Conferences]]
 
 <http://fdg2022.org/>
 

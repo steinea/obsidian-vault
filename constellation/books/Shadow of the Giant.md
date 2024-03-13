@@ -1,3 +1,3 @@
 # Shadow of the Giant
 
-[[books]]
+[[Books]]

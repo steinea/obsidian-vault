@@ -6,7 +6,7 @@ date: 2009
 permalink: '9781554687787'
 ---
 
-[[books]] • [[Hilary Mantel]] • [[Historical Fiction]]
+[[Books]] • [[Hilary Mantel]] • [[Historical Fiction]]
 
 ### Citation
 

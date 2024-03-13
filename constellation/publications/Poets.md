@@ -1,3 +1,3 @@
 # Poets
 
-[[publications]]
+[[Publications]]

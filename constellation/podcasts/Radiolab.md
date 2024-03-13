@@ -1,3 +1,3 @@
 # Radiolab
 
-[[podcasts]]
+[[Podcasts]]

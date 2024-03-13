@@ -13,7 +13,7 @@ permalink:
 
 # Monument Valley Panoramic Edition
 
-[[games]]
+[[Games]]
 
 <https://www.monumentvalleygame.com/mvpc>
 

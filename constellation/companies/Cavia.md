@@ -1,3 +1,3 @@
 # Cavia
 
-[[companies]]
+[[Companies]]

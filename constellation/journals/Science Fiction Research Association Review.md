@@ -1,6 +1,6 @@
 # Science Fiction Research Association Review
 
-[[journals]]
+[[Journals]]
 
 <https://sfra.org/publications/>
 

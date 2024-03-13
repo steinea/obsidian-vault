@@ -15,7 +15,7 @@ tags:
 
 ### Digital Challenges to Oppression and Social Injustice
 
-[[books]]
+[[Books]]
 
 Grey, Kishonna L. and Leonard, David J. *Woke Gaming: Digital Challenges to Oppression and Social Injustice.* University of Washington Press, 2018. [9780295744179](https://uwapress.uw.edu/book/9780295744179/woke-gaming/).
 

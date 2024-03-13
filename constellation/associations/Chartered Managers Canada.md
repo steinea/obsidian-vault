@@ -1,6 +1,6 @@
 # Chartered Managers Canada
 
-[[associations]]
+[[Associations]]
 
 <https://cim.ca/organization/about-cim-chartered-managers-canada>
 
