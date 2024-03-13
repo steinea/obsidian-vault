@@ -9,7 +9,7 @@ date: 2022-11-27
 permalink: 2022/11/27/terence-blake-galloway-on-latour
 ---
 
-[[2022]] • [[commonplace]] • [[Terence Blake]] • [[Agent Swarm]]
+[[2022]] • [[Commonplace]] • [[Terence Blake]] • [[Agent Swarm]]
 
 https://terenceblake.wordpress.com/2018/11/09/postscript-to-the-pluralism-wars-galloway-on-latour/
 

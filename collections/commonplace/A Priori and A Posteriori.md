@@ -9,7 +9,7 @@ date: 2016-02-05
 permalink: 2016/02/05/jason-baehr-a-priori-and-a-posteriori
 ---
 
-[[2016]] • [[commonplace]] • [[Jason Baehr]] • [[Internet Encyclopedia of Philosophy]]
+[[2016]] • [[Commonplace]] • [[Jason Baehr]] • [[Internet Encyclopedia of Philosophy]]
 
 http://www.iep.utm.edu/apriori/
 

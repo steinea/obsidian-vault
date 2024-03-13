@@ -9,7 +9,7 @@ date: 2015-11-09
 permalink: 2015/11/09/brian-massumi-undigesting-deleuze
 ---
 
-[[2015]] • [[commonplace]] • [[Brian Massumi]] • [[Los Angeles Review of Books]]
+[[2015]] • [[Commonplace]] • [[Brian Massumi]] • [[Los Angeles Review of Books]]
 
 https://lareviewofbooks.org/article/undigesting-deleuze/
 

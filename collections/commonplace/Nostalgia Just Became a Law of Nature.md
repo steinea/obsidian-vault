@@ -9,7 +9,7 @@ date: 2015-02-19
 permalink: 2015/02/19/simon-dedeo-nostalgia-just-became-a-law-of-nature
 ---
 
-[[2015]] • [[commonplace]] • [[Simon DeDeo]] • [[Nautilus]]
+[[2015]] • [[Commonplace]] • [[Simon DeDeo]] • [[Nautilus]]
 
 https://nautil.us/issue/21/information/nostalgia-just-became-a-law-of-nature
 

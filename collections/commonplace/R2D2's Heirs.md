@@ -9,7 +9,7 @@ date: 2016-08-18
 permalink: 2016/08/18/spencer-kornhaber-r2d2s-heirs
 ---
 
-[[2016]] • [[commonplace]] • [[Spencer Kornhaber]] • [[The Atlantic]]
+[[2016]] • [[Commonplace]] • [[Spencer Kornhaber]] • [[The Atlantic]]
 
 http://www.theatlantic.com/entertainment/archive/2016/08/star-wars-a-new-droid/496052/
 

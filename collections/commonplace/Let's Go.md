@@ -9,7 +9,7 @@ date: 2018-07-15
 permalink: 2018/07/15/yuri-gagarin-lets-go
 ---
 
-[[2018]] • [[commonplace]] • [[Yuri Gagarin]] • [[Wikipedia]]
+[[2018]] • [[Commonplace]] • [[Yuri Gagarin]] • [[Wikipedia]]
 
 https://en.wikipedia.org/wiki/Yuri_Gagarin
  

@@ -9,7 +9,7 @@ date: 2016-08-17
 permalink: 2016/08/17/robert-l-kehoe-iii-the-ideology-of-the-olympics
 ---
 
-[[2016]] • [[commonplace]] • [[Robert L. Kehoe III]] • [[Boston Review]]
+[[2016]] • [[Commonplace]] • [[Robert L. Kehoe III]] • [[Boston Review]]
 
 http://bostonreview.net/world/robert-kehoe-ideology-olympics
 

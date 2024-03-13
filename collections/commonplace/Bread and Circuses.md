@@ -9,7 +9,7 @@ date: 2014-05-23
 permalink: 2014/05/23/juvenal-bread-and-circuses
 ---
 
-[[2014]] • [[commonplace]] • [[Juvenal]] • [[Wikipedia]]
+[[2014]] • [[Commonplace]] • [[Juvenal]] • [[Wikipedia]]
 
 https://en.wikipedia.org/wiki/Bread_and_circuses
 

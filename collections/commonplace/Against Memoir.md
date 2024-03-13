@@ -9,7 +9,7 @@ date: 2023-01-23
 permalink: 2023/01/23/lur-alghurabi-against-memoir
 ---
 
-[[2023]] • [[commonplace]] • [[Lur Alghurabi]] • [[Sydney Review of Books]]
+[[2023]] • [[Commonplace]] • [[Lur Alghurabi]] • [[Sydney Review of Books]]
 
 https://sydneyreviewofbooks.com/review/gunaydin-root-branch/
  

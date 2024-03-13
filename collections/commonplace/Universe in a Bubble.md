@@ -9,7 +9,7 @@ date: 2017-10-05
 permalink: 2017/10/05/j-richard-gott-universe-in-a-bubble
 ---
 
-[[2017]] • [[commonplace]] • [[J. Richard Gott]] • [[Aeon]] 
+[[2017]] • [[Commonplace]] • [[J. Richard Gott]] • [[Aeon]] 
 
 https://aeon.co/essays/did-our-cosmos-emerge-from-a-sea-of-inflating-bubbles
 

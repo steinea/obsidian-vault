@@ -9,7 +9,7 @@ date: 2017-08-06
 permalink: 2017/08/06/lenika-cruz-megan-garber-spencer-kornhaber-queen-of-the-ashes
 ---
 
-[[2017]] • [[commonplace]] • [[Lenika Cruz]] • [[Megan Garber]] • [[Spencer Kornhaber]] • [[The Atlantic]] 
+[[2017]] • [[Commonplace]] • [[Lenika Cruz]] • [[Megan Garber]] • [[Spencer Kornhaber]] • [[The Atlantic]] 
 
 https://www.theatlantic.com/entertainment/archive/2017/08/game-of-thrones-season-7-episode-4-spoils-of-war-roundtable/536013/
 

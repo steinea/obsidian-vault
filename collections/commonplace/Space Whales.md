@@ -9,7 +9,7 @@ date: 2022-12-17
 permalink: 2022/12/17/petrana-radulovic-space-whales
 ---
 
-[[2022]] • [[commonplace]] • [[Petra Radulovic]] • [[Polygon]]
+[[2022]] • [[Commonplace]] • [[Petra Radulovic]] • [[Polygon]]
 
 https://www.polygon.com/23511178/avatar-the-way-of-water-tulkun-space-whale-tattoos
 

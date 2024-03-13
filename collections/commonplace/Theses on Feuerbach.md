@@ -9,7 +9,7 @@ date: 2016-01-18
 permalink: 2016/01/18/karl-marx-theses-on-feuerbach
 ---
 
-[[2016]] • [[commonplace]] • [[Karl Marx]] • [[Marxists]]
+[[2016]] • [[Commonplace]] • [[Karl Marx]] • [[Marxists]]
 
 https://www.marxists.org/archive/marx/works/1845/theses/theses.htm
 

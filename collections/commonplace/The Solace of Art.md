@@ -9,7 +9,7 @@ date: 2015-04-24
 permalink: 2015/04/24/erskine-design-the-solace-of-art
 ---
 
-[[2015]] • [[commonplace]] • [[Erskine Design]] • [[Frieze]]
+[[2015]] • [[Commonplace]] • [[Erskine Design]] • [[Frieze]]
 
 https://www.frieze.com/issue/article/the-solace-of-art/
 

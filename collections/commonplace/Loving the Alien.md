@@ -9,7 +9,7 @@ date: 2016-01-27
 permalink: 2016/01/27/michael-w-clune-loving-the-alien
 ---
 
-[[2016]] • [[commonplace]] • [[Michael W. Clune]] • [[Los Angeles Review of Books]]
+[[2016]] • [[Commonplace]] • [[Michael W. Clune]] • [[Los Angeles Review of Books]]
 
 https://lareviewofbooks.org/review/loving-the-alien-thomas-ligotti-and-the-psychology-of-cosmic-horror/
 

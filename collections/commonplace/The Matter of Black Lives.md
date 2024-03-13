@@ -9,7 +9,7 @@ date: 2015-02-04
 permalink: 2015/02/04/kelefa-sanneh-the-matter-of-black-lives
 ---
 
-[[2015]] • [[commonplace]] • [[Kelefa Sanneh]] • [[The New Yorker]]
+[[2015]] • [[Commonplace]] • [[Kelefa Sanneh]] • [[The New Yorker]]
 
 https://www.newyorker.com/magazine/2015/02/09/dont-like
 

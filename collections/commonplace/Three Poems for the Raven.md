@@ -9,7 +9,7 @@ date: 2014-11-18
 permalink: 2014/11/18/amanda-jernigan-three-poems-for-the-raven
 ---
 
-[[2014]] • [[commonplace]] • [[Amanda Jernigan]] • [[The Walrus]]
+[[2014]] • [[Commonplace]] • [[Amanda Jernigan]] • [[The Walrus]]
 
 https://thewalrus.ca/three-poems-for-the-raven/
 

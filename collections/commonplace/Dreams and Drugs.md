@@ -9,7 +9,7 @@ date: 2015-06-30
 permalink: 2015/06/30/sadie-stein-dreams-and-drugs
 ---
 
-[[2015]] • [[commonplace]] • [[Sadie Stein]] • [[The Paris Review]]
+[[2015]] • [[Commonplace]] • [[Sadie Stein]] • [[The Paris Review]]
 
 https://www.theparisreview.org/blog/2015/06/30/anxiety/
 

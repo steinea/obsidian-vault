@@ -9,7 +9,7 @@ date: 2016-01-06
 permalink: 2016/01/06/ursula-huws-logged-in
 ---
 
-[[2016]] • [[commonplace]] • [[Ursula Huws]] • [[Jacobin]]
+[[2016]] • [[Commonplace]] • [[Ursula Huws]] • [[Jacobin]]
 
 https://www.jacobinmag.com/2016/01/huws-sharing-economy-crowdsource-precarity-uber-workers/
 

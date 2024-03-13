@@ -9,7 +9,7 @@ date: 2016-09-01
 permalink: 2016/09/01/geert-lovink-on-the-social-media-ideology
 ---
 
-[[2016]] • [[commonplace]] • [[Geert Lovink]] • [[e-flux]]
+[[2016]] • [[Commonplace]] • [[Geert Lovink]] • [[e-flux]]
 
 http://www.e-flux.com/journal/on-the-social-media-ideology/
 

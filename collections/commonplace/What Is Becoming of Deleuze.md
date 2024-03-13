@@ -9,7 +9,7 @@ date: 2015-11-08
 permalink: 2015/11/08/adrian-parr-what-is-becoming-of-deleuze
 ---
 
-[[2015]] • [[commonplace]] • [[Adrian Parr]] • [[Los Angeles Review of Books]]
+[[2015]] • [[Commonplace]] • [[Adrian Parr]] • [[Los Angeles Review of Books]]
 
 https://lareviewofbooks.org/article/what-is-becoming-of-deleuze/
 

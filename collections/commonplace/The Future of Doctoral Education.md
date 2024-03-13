@@ -9,7 +9,7 @@ date: 2023-05-29
 permalink: 2023/05/29/stacy-m-hartman-bianca-c-williams-the-future-of-doctoral-education
 ---
 
-[[2023]] • [[commonplace]] • [[Stacy M. Hartman]] • [[Bianca C. Williams]] • [[Los Angeles Review of Books]]
+[[2023]] • [[Commonplace]] • [[Stacy M. Hartman]] • [[Bianca C. Williams]] • [[Los Angeles Review of Books]]
 
 https://lareviewofbooks.org/article/the-future-of-doctoral-education-four-provocations-for-a-more-just-and-sustainable-academy/
 

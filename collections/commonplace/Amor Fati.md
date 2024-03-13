@@ -9,7 +9,7 @@ date: 2018-07-15
 permalink: 2018/07/15/friedrich-nietzsche-amor-fati
 ---
 
-[[2018]] • [[commonplace]] • [[Friedrich Nietzsche]] • [[The Gay Science]]
+[[2018]] • [[Commonplace]] • [[Friedrich Nietzsche]] • [[The Gay Science]]
 
 https://en.wikipedia.org/wiki/The_Gay_Science
  

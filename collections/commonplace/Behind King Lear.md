@@ -9,7 +9,7 @@ date: 2015-11-06
 permalink: 2015/11/06/fintan-otoole-behind-king-lear
 ---
 
-[[2015]] • [[commonplace]] • [[Fintan O'Toole]] • [[New York Review of Books]]
+[[2015]] • [[Commonplace]] • [[Fintan O'Toole]] • [[New York Review of Books]]
 
 https://www.nybooks.com/articles/2015/11/19/behind-king-lear-history-revealed/
 

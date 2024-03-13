@@ -9,7 +9,7 @@ date: 2015-11-09
 permalink: 2015/11/09/patricia-pisters-deleuzes-metallurgic-machines
 ---
 
-[[2015]] • [[commonplace]] • [[Patricia Pisters]] • [[Los Angeles Review of Books]]
+[[2015]] • [[Commonplace]] • [[Patricia Pisters]] • [[Los Angeles Review of Books]]
 
 https://lareviewofbooks.org/article/deleuzes-metallurgic-machines/
 

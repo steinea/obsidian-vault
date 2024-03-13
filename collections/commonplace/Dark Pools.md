@@ -9,7 +9,7 @@ date: 2016-03-31
 permalink: 2016/03/31/miranda-trimmier-dark-pools
 ---
 
-[[2016]] • [[commonplace]] • [[Miranda Trimmier]] • [[The New Inquiry]]
+[[2016]] • [[Commonplace]] • [[Miranda Trimmier]] • [[The New Inquiry]]
 
 http://thenewinquiry.com/essays/dark-pools/
 

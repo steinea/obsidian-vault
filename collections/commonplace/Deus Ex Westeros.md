@@ -9,7 +9,7 @@ date: 2017-08-21
 permalink: 2017/08/21/megan-garber-deus-ex-westeros
 ---
 
-[[2017]] • [[commonplace]] • [[Megan Garber]] • [[The Atlantic]] 
+[[2017]] • [[Commonplace]] • [[Megan Garber]] • [[The Atlantic]] 
 
 https://www.theatlantic.com/entertainment/archive/2017/08/deus-ex-westeros/537480/
 

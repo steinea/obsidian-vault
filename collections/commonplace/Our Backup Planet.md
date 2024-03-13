@@ -9,7 +9,7 @@ date: 2015-06-10
 permalink: 2015/06/10/elizabeth-kolbert-our-backup-planet
 ---
 
-[[2015]] • [[commonplace]] • [[Elizabeth Kolbert]] • [[The New Yorker]] 
+[[2015]] • [[Commonplace]] • [[Elizabeth Kolbert]] • [[The New Yorker]] 
 
 https://www.newyorker.com/magazine/2015/06/01/project-exodus-critic-at-large-kolbert
 

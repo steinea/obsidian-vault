@@ -9,7 +9,7 @@ date: 2015-02-25
 permalink: 2015/02/25/susan-lerner-jonathan-franzen-moral-complexity-is-a-luxury
 ---
 
-[[2015]] • [[commonplace]] • [[Susan Lerner]] • [[Jonathan Franzen]] • [[Booth]]
+[[2015]] • [[Commonplace]] • [[Susan Lerner]] • [[Jonathan Franzen]] • [[Booth]]
 
 https://booth.butler.edu/2015/02/13/a-conversation-with-jonathan-franzen/
 

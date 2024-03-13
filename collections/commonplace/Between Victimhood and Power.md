@@ -9,7 +9,7 @@ date: 2015-06-30
 permalink: 2015/06/30/annie-manion-between-victimhood-and-power
 ---
 
-[[2015]] • [[commonplace]] • [[Annie Manion]] • [[Los Angeles Review of Books]] 
+[[2015]] • [[Commonplace]] • [[Annie Manion]] • [[Los Angeles Review of Books]] 
 
 https://lareviewofbooks.org/article/between-victimhood-and-power-watching-the-female-detectives-of-televisions-crime-dramas/
 

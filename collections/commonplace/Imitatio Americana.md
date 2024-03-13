@@ -9,7 +9,7 @@ date: 2016-03-22
 permalink: 2016/03/22/d-berton-emerson-imitatio-americana
 ---
 
-[[2016]] • [[commonplace]] • [[D. Berton Emerson]] • [[Los Angeles Review of Books]]
+[[2016]] • [[Commonplace]] • [[D. Berton Emerson]] • [[Los Angeles Review of Books]]
 
 https://lareviewofbooks.org/review/imitatio-americana/
 

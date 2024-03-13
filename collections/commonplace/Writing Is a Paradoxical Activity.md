@@ -9,7 +9,7 @@ date: 2015-03-17
 permalink:
 ---
 
-[[2015]] • [[commonplace]] • [[Fred Wah]]
+[[2015]] • [[Commonplace]] • [[Fred Wah]]
 
 Writing is a paradoxical activity, both very alone and very public.
 

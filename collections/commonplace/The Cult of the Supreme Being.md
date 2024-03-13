@@ -9,7 +9,7 @@ date: 2016-01-14
 permalink: 2016/01/14/harrison-fluss-the-cult-of-the-supreme-being
 ---
 
-[[2016]] • [[commonplace]] • [[Harrison Fluss]] • [[Jacobin]]
+[[2016]] • [[Commonplace]] • [[Harrison Fluss]] • [[Jacobin]]
 
 https://www.jacobinmag.com/2016/01/robespierre-rousseau-religion-separation-church-state-kim-davis/
 

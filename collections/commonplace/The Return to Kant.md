@@ -9,7 +9,7 @@ date: 2015-09-22
 permalink: 2015/09/22/mike-wayne-the-return-to-kant
 ---
 
-[[2015]] • [[commonplace]] • [[Mike Wayne]] • [[Los Angeles Review of Books]]
+[[2015]] • [[Commonplace]] • [[Mike Wayne]] • [[Los Angeles Review of Books]]
 
 https://lareviewofbooks.org/article/the-return-to-kant/
 

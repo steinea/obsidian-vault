@@ -9,7 +9,7 @@ date: 2015-07-24
 permalink: 2015/07/24/timothy-snyder-edge-of-europe-end-of-europe
 ---
 
-[[2015]] • [[commonplace]] • [[Timothy Snyder]] • [[New York Review of Books]] 
+[[2015]] • [[Commonplace]] • [[Timothy Snyder]] • [[New York Review of Books]] 
 
 https://www.nybooks.com/online/2015/07/21/ukraine-kharkiv-edge-of-europe/
 

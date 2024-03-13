@@ -9,7 +9,7 @@ date: 2017-05-18
 permalink: 2017/05/18/justin-gillis-miles-of-ice-collapsing-into-the-sea
 ---
 
-[[2017]] • [[commonplace]] • [[Justin Gillis]] • [[The New York Times]] 
+[[2017]] • [[Commonplace]] • [[Justin Gillis]] • [[The New York Times]] 
 
 https://www.nytimes.com/interactive/2017/05/18/climate/antarctica-ice-melt-climate-change.html
 

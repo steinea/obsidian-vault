@@ -9,7 +9,7 @@ date: 2015-07-24
 permalink: 2015/07/24/stephanie-luce-time-is-political
 ---
 
-[[2015]] • [[commonplace]] • [[Stephanie Luce]] • [[Jacobin]]
+[[2015]] • [[Commonplace]] • [[Stephanie Luce]] • [[Jacobin]]
 
 https://jacobin.com/2015/07/luce-eight-hour-day-obama-overtime/
 

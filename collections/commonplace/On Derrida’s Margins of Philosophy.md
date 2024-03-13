@@ -9,7 +9,7 @@ date: 2015-04-27
 permalink: 2015/04/27/jeff-bricker-on-derridas-margins-of-philosophy
 ---
 
-[[2015]] • [[commonplace]] • [[Jeff Bricker]] • [[Amazon Review]] 
+[[2015]] • [[Commonplace]] • [[Jeff Bricker]] • [[Amazon Review]] 
 
 https://www.amazon.ca/review/R3PFLSBZICQ5KF/ref=cm_cr_dp_title?ie=UTF8&ASIN=0226143260&channel=detail-glance&nodeID=916520&store=books
 

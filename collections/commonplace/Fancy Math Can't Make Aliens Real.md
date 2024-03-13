@@ -9,7 +9,7 @@ date: 2016-06-23
 permalink: 2016/06/23/ross-andersen-fancy-math-cant-make-aliens-real
 ---
 
-[[2016]] • [[commonplace]] • [[Ross Andersen]] • [[The Atlantic]]
+[[2016]] • [[Commonplace]] • [[Ross Andersen]] • [[The Atlantic]]
 
 http://www.theatlantic.com/science/archive/2016/06/fancy-math-cant-make-aliens-real/487589/
 

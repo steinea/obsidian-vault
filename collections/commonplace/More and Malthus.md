@@ -9,7 +9,7 @@ date: 2017-01-26
 permalink: 2017/01/26/joyce-e-chaplin-more-and-malthus
 ---
 
-[[2017]] • [[commonplace]] • [[Joyce E. Chaplin]] • [[Aeon]] 
+[[2017]] • [[Commonplace]] • [[Joyce E. Chaplin]] • [[Aeon]] 
 
 https://aeon.co/essays/how-more-and-malthus-light-the-way-towards-humanitys-future
 

@@ -9,7 +9,7 @@ date: 2017-10-01
 permalink: 2017/10/01/terence-blake-failed-ontology
 ---
 
-[[2017]] • [[commonplace]] • [[Terence Blake]] • [[Agent Swarm]] 
+[[2017]] • [[Commonplace]] • [[Terence Blake]] • [[Agent Swarm]] 
 
 https://terenceblake.wordpress.com/2017/10/01/zizeks-incontinence-of-the-void-1-the-only-good-ontology-is-a-failed-ontology/
 

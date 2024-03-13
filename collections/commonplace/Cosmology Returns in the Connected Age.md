@@ -9,7 +9,7 @@ date: 2016-09-04
 permalink: 2016/09/04/florian-fuchs-cosmology-returns-in-the-connected-age
 ---
 
-[[2016]] • [[commonplace]] • [[Florian Fuchs]] • [[Los Angeles Review of Books]]
+[[2016]] • [[Commonplace]] • [[Florian Fuchs]] • [[Los Angeles Review of Books]]
 
 https://lareviewofbooks.org/article/cosmology-returns-connected-age-werner-herzogs-lo-behold/
 

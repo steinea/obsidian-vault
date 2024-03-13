@@ -9,7 +9,7 @@ date: 2017-08-04
 permalink: 2017/08/04/joy-hui-lin-taking-solace-in-attack-on-titan
 ---
 
-[[2017]] • [[commonplace]] • [[Joy Hui Lin]] • [[Los Angeles Review of Books]] 
+[[2017]] • [[Commonplace]] • [[Joy Hui Lin]] • [[Los Angeles Review of Books]] 
 
 https://lareviewofbooks.org/article/taking-solace-in-attack-on-titan/
 

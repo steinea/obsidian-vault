@@ -9,7 +9,7 @@ date: 2015-11-10
 permalink: 2015/11/10/grayson-clary-why-sci-fi-has-so-many-catholics
 ---
 
-[[2015]] • [[commonplace]] • [[Grayson Clary]] • [[The Atlantic]]
+[[2015]] • [[Commonplace]] • [[Grayson Clary]] • [[The Atlantic]]
 
 https://www.theatlantic.com/technology/archive/2015/11/why-are-there-so-many-catholics-in-science-fiction/414990/
 

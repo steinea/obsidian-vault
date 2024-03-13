@@ -9,7 +9,7 @@ date: 2017-04-10
 permalink: 2017/04/10/evan-fales-kierkegaards-abraham
 ---
 
-[[2017]] • [[commonplace]] • [[Evan Fales]] • [[Satanic Verses]] 
+[[2017]] • [[Commonplace]] • [[Evan Fales]] • [[Satanic Verses]] 
 
 https://academic.oup.com/book/34310/chapter-abstract/291114430
 

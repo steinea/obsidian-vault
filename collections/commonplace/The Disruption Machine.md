@@ -9,7 +9,7 @@ date: 2014-06-23
 permalink: 2014/06/23/jill-lepore-the-disruption-machine
 ---
 
-[[2014]] • [[commonplace]] • [[Jill Lepore]] • [[The New Yorker]]
+[[2014]] • [[Commonplace]] • [[Jill Lepore]] • [[The New Yorker]]
 
 http://www.newyorker.com/magazine/2014/06/23/the-disruption-machine
 

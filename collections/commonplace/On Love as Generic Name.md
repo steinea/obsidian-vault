@@ -9,7 +9,7 @@ date: 2017-02-20
 permalink: 2017/02/20/terence-blake-on-love-as-generic-name
 ---
 
-[[2017]] • [[commonplace]] • [[Terence Blake]] • [[Agent Swarm]] 
+[[2017]] • [[Commonplace]] • [[Terence Blake]] • [[Agent Swarm]] 
 
 https://terenceblake.wordpress.com/2017/02/20/on-love-as-generic-name-badiou-de-sufficientised/
 

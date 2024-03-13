@@ -9,7 +9,7 @@ date: 2018-09-25
 permalink: 2018/09/25/john-c-plott-atman-and-anatman
 ---
 
-[[2018]] • [[commonplace]] • [[John C. Plott]] • [[Global History of Philosophy]]
+[[2018]] • [[Commonplace]] • [[John C. Plott]] • [[Global History of Philosophy]]
 
 https://books.google.ca/books/about/Global_History_of_Philosophy_The_axial_a.html?id=Cc2GAAAAIAAJ
  

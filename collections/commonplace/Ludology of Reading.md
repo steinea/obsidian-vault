@@ -9,7 +9,7 @@ date: 2017-04-27
 permalink: 2017/04/27/m-john-harrison-ludology-of-reading
 ---
 
-[[2017]] • [[commonplace]] • [[M. John Harrison]] • [[Uncle Zip's Window]]
+[[2017]] • [[Commonplace]] • [[M. John Harrison]] • [[Uncle Zip's Window]]
 
 https://web.archive.org/web/20080410181840/http://uzwi.wordpress.com/2007/01/27/very-afraid/
 

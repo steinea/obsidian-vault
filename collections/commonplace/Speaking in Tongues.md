@@ -9,7 +9,7 @@ date: 2016-06-28
 permalink: 2016/06/28/sarah-nicole-prickett-speaking-in-tongues
 ---
 
-[[2016]] • [[commonplace]] • [[Sarah Nicole Prickett]] • [[The New Inquiry]]
+[[2016]] • [[Commonplace]] • [[Sarah Nicole Prickett]] • [[The New Inquiry]]
 
 http://thenewinquiry.com/essays/speaking-in-tongues/
 

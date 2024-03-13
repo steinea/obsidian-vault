@@ -9,7 +9,7 @@ date: 2016-03-10
 permalink: 2016/03/10/sharon-r-kaufman-why-we-need-the-dead
 ---
 
-[[2016]] • [[commonplace]] • [[Sharon R. Kaufman]] • [[Los Angeles Review of Books]]
+[[2016]] • [[Commonplace]] • [[Sharon R. Kaufman]] • [[Los Angeles Review of Books]]
 
 https://lareviewofbooks.org/review/why-we-need-the-dead/
 

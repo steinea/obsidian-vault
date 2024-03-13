@@ -9,7 +9,7 @@ date: 2017-11-25
 permalink: 2017/11/25/wired-editorial-a-tale-of-two-botanies
 ---
 
-[[2017]] • [[commonplace]] • [[Wired Editors]] • [[Wired]] 
+[[2017]] • [[Commonplace]] • [[Wired Editors]] • [[Wired]] 
 
 https://www.wired.com/2000/04/botanies/
 

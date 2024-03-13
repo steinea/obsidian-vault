@@ -9,7 +9,7 @@ date: 2014-09-04
 permalink: 2014/09/04/seneca-on-the-shortness-of-life
 ---
 
-[[2014]] • [[commonplace]] • [[Seneca]] • [[Wikipedia]]
+[[2014]] • [[Commonplace]] • [[Seneca]] • [[Wikipedia]]
 
 https://en.wikipedia.org/wiki/De_Brevitate_Vitae_(Seneca)
 

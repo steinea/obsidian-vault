@@ -9,7 +9,7 @@ date: 2016-06-23
 permalink: 2016/06/23/sarah-mesle-aaron-bady-battle-of-the-bastards
 ---
 
-[[2016]] • [[commonplace]] • [[Sarah Mesle]] • [[Aaron Bady]] • [[Los Angeles Review of Books]]
+[[2016]] • [[Commonplace]] • [[Sarah Mesle]] • [[Aaron Bady]] • [[Los Angeles Review of Books]]
 
 https://lareviewofbooks.org/article/game-thrones-season-6-battles-bastards/
 

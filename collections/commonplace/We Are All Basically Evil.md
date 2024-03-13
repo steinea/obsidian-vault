@@ -9,7 +9,7 @@ date: 2016-12-10
 permalink: 2016/12/10/slavoj-zizek-we-are-all-basically-evil
 ---
 
-[[2016]] • [[commonplace]] • [[Slavoj Zizek]] • [[The Guardian]]
+[[2016]] • [[Commonplace]] • [[Slavoj Zizek]] • [[The Guardian]]
 
 http://www.theguardian.com/lifeandstyle/2016/dec/10/slavoj-zizek-we-are-all-basically-evil-egotistical-disgusting
 

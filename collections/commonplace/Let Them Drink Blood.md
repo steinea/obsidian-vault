@@ -9,7 +9,7 @@ date: 2016-12-27
 permalink: 2016/12/27/a-m-gittlitz-let-them-drink-blood
 ---
 
-[[2016]] • [[commonplace]] • [[A. M. Gittlitz]] • [[The New Inquiry]]
+[[2016]] • [[Commonplace]] • [[A. M. Gittlitz]] • [[The New Inquiry]]
 
 http://thenewinquiry.com/essays/let-them-drink-blood/
 

@@ -9,7 +9,7 @@ date: 2015-08-21
 permalink: 2015/08/21/costica-bradatan-robert-zaretsky-the-idea-of-europe
 ---
 
-[[2015]] • [[commonplace]] • [[Costica Bradatan]] • [[Robert Zaretsky]] • [[Los Angeles Review of Books]]
+[[2015]] • [[Commonplace]] • [[Costica Bradatan]] • [[Robert Zaretsky]] • [[Los Angeles Review of Books]]
 
 https://lareviewofbooks.org/article/the-idea-of-europe/
 

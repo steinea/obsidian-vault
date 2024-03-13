@@ -9,7 +9,7 @@ date: 2016-10-26
 permalink: 2016/10/26/terence-blake-temporality-modality-and-identity
 ---
 
-[[2016]] • [[commonplace]] • [[Terence Blake]] • [[Xeno Swarm]]
+[[2016]] • [[Commonplace]] • [[Terence Blake]] • [[Xeno Swarm]]
 
 https://xenoswarm.wordpress.com/2016/08/15/the-last-days-of-new-paris-2-temporality-modality-and-identity/
 

@@ -9,7 +9,7 @@ date: 2015-02-19
 permalink: 2015/02/19/mary-norris-confessions-of-a-comma-queen
 ---
 
-[[2015]] • [[commonplace]] • [[Mary Norris]] • [[The New Yorker]]
+[[2015]] • [[Commonplace]] • [[Mary Norris]] • [[The New Yorker]]
 
 https://www.newyorker.com/magazine/2015/02/23/holy-writ
 

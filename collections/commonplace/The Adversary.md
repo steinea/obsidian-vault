@@ -9,7 +9,7 @@ date: 2014-05-23
 permalink: 2014/05/23/robin-wright-the-adversary
 ---
 
-[[2014]] • [[commonplace]] • [[Robin Wright]] • [[The New Yorker]]
+[[2014]] • [[Commonplace]] • [[Robin Wright]] • [[The New Yorker]]
 
 http://www.newyorker.com/magazine/2014/05/26/the-adversary-2
 

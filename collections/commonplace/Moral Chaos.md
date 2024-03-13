@@ -9,7 +9,7 @@ date: 2014-09-05
 permalink: 2014/09/05/geoffrey-hawthorn-moral-chaos
 ---
 
-[[2014]] • [[commonplace]] • [[Geoffrey Hawthorn]] • [[Times Literary Supplement]]
+[[2014]] • [[Commonplace]] • [[Geoffrey Hawthorn]] • [[Times Literary Supplement]]
 
 https://www.the-tls.co.uk
 

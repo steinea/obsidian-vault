@@ -9,7 +9,7 @@ date: 2015-12-25
 permalink: 2015/12/25/olia-lialina-not-art-and-tech
 ---
 
-[[2015]] • [[commonplace]] • [[Olia Lialina]] • [[Contemporary Home Computing]]
+[[2015]] • [[Commonplace]] • [[Olia Lialina]] • [[Contemporary Home Computing]]
 
 http://contemporary-home-computing.org/art-and-tech/not/
 

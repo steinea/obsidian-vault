@@ -9,7 +9,7 @@ date: 2016-10-10
 permalink: 2016/10/10/andre-gallois-identity-over-time
 ---
 
-[[2016]] • [[commonplace]] • [[Andre Gallois]] •[[Stanford Encyclopedia of Philosophy]]
+[[2016]] • [[Commonplace]] • [[Andre Gallois]] •[[Stanford Encyclopedia of Philosophy]]
 
 http://plato.stanford.edu/entries/identity-time/
 

@@ -9,7 +9,7 @@ date: 2016-02-16
 permalink: 2016/02/16/david-cole-the-constitution-in-politics
 ---
 
-[[2016]] • [[commonplace]] • [[David Cole]] • [[New York Review of Books]]
+[[2016]] • [[Commonplace]] • [[David Cole]] • [[New York Review of Books]]
 
 http://www.nybooks.com/daily/2016/02/15/justice-antonin-scalia-constitution-in-politics/
 

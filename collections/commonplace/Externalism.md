@@ -9,7 +9,7 @@ date: 2017-06-01
 permalink: 2017/06/01/andy-clark-externalism
 ---
 
-[[2017]] • [[commonplace]] • [[Andy Clark]] • [[Externalism]] 
+[[2017]] • [[Commonplace]] • [[Andy Clark]] • [[Externalism]] 
 
 https://en.wikipedia.org/wiki/Externalism
 

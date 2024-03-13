@@ -9,7 +9,7 @@ date: 2015-10-10
 permalink: 2015/10/10/sarah-howe-on-relativity
 ---
 
-[[2015]] • [[commonplace]] • [[On Relativity]] • [[Sarah Howe]]
+[[2015]] • [[Commonplace]] • [[On Relativity]] • [[Sarah Howe]]
 
 https://www.theparisreview.org/blog/2015/10/08/on-relativity/
 

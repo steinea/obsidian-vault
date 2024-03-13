@@ -9,7 +9,7 @@ date: 2023-10-01
 permalink: 2023/10/01/kulshat-medeuova-nowhereness-baikonur
 ---
 
-[[2023]] • [[commonplace]] • [[Kulshat Medeuova]] • [[Cosmic Bulletin]]
+[[2023]] • [[Commonplace]] • [[Kulshat Medeuova]] • [[Cosmic Bulletin]]
 
 https://cosmos.art/cosmic-bulletin/2022/nowhereness-baikonur
 

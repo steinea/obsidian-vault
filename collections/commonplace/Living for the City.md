@@ -9,7 +9,7 @@ date: 2017-02-14
 permalink: 2017/02/14/lyra-kilston-living-for-the-city
 ---
 
-[[2017]] • [[commonplace]] • [[Lyra Kilston]] • [[Living for the City]] 
+[[2017]] • [[Commonplace]] • [[Lyra Kilston]] • [[Living for the City]] 
 
 https://lareviewofbooks.org/article/living-city-jane-jacobss-vital-little-plans/
 

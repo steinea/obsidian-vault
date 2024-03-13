@@ -9,7 +9,7 @@ date: 2015-03-03
 permalink: 2015/03/03/radiolab-la-mancha-screwjob
 ---
 
-[[2015]] • [[commonplace]] • [[Radiolab]]
+[[2015]] • [[Commonplace]] • [[Radiolab]]
 
 https://radiolab.org/episodes/la-mancha-screwjob
 

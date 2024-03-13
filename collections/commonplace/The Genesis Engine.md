@@ -9,7 +9,7 @@ date: 2015-10-21
 permalink: 2015/10/21/amy-maxmen-the-genesis-engine
 ---
 
-[[2015]] • [[commonplace]] • [[Amy Maxmen]] • [[Wired]]
+[[2015]] • [[Commonplace]] • [[Amy Maxmen]] • [[Wired]]
 
 https://www.wired.com/2015/07/crispr-dna-editing-2/
 

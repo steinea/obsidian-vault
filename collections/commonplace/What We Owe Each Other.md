@@ -9,7 +9,7 @@ date: 2016-09-07
 permalink: 2016/09/07/martin-oneill-what-we-owe-each-other
 ---
 
-[[2016]] • [[commonplace]] • [[Martin O’Neill]] • [[Boston Review]]
+[[2016]] • [[Commonplace]] • [[Martin O’Neill]] • [[Boston Review]]
 
 http://bostonreview.net/books-ideas/martin-oneill-tm-scanlon-inequality
 

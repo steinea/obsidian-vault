@@ -9,7 +9,7 @@ date: 2016-10-06
 permalink: 2016/10/06/bruce-schneier-we-need-to-save-the-internet-from-the-internet-of-things
 ---
 
-[[2016]] • [[commonplace]] • [[Bruce Schneier]] • [[Motherboard]]
+[[2016]] • [[Commonplace]] • [[Bruce Schneier]] • [[Motherboard]]
 
 http://motherboard.vice.com/read/we-need-to-save-the-internet-from-the-internet-of-things
 

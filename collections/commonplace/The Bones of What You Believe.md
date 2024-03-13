@@ -9,7 +9,7 @@ date: 2016-07-13
 permalink: 2016/07/13/adam-fleming-petty-the-bones-of-what-you-believe
 ---
 
-[[2016]] • [[commonplace]] • [[Adam Fleming Petty]] • [[Los Angeles Review of Books]]
+[[2016]] • [[Commonplace]] • [[Adam Fleming Petty]] • [[Los Angeles Review of Books]]
 
 https://lareviewofbooks.org/review/the-bones-of-what-you-believe/
 

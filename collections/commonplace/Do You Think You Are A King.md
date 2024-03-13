@@ -9,7 +9,7 @@ date: 2015-03-21
 permalink: 2015/03/21/jeremiah-do-you-think-you-are-a-king
 ---
 
-[[2015]] • [[commonplace]] • [[Jeremiah]] • [[Bible]]
+[[2015]] • [[Commonplace]] • [[Jeremiah]] • [[Bible]]
 
 https://en.wikipedia.org/wiki/Jeremiah_22
 

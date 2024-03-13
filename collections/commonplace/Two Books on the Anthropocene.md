@@ -9,7 +9,7 @@ date: 2015-12-01
 permalink: 2015/12/01/rebecca-tuhus-dubrow-two-books-on-the-anthropocene
 ---
 
-[[2015]] • [[commonplace]] • [[Rebecca Tuhus-Dubrow]] • [[Los Angeles Review of Books]]
+[[2015]] • [[Commonplace]] • [[Rebecca Tuhus-Dubrow]] • [[Los Angeles Review of Books]]
 
 https://lareviewofbooks.org/article/impurity-two-books-on-the-anthropocene/
 

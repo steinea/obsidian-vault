@@ -9,7 +9,7 @@ date: 2014-09-18
 permalink: 2014/09/18/simon-critchley-nihilism-and-pop-culture
 ---
 
-[[2014]] • [[commonplace]] • [[Simon Critchley]] • [[Radiolab]]
+[[2014]] • [[Commonplace]] • [[Simon Critchley]] • [[Radiolab]]
 
 https://radiolab.org/episodes/dust-planet
 

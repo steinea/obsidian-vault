@@ -9,7 +9,7 @@ date: 2016-11-26
 permalink: 2016/11/26/rebecca-solnit-how-to-be-a-writer
 ---
 
-[[2016]] • [[commonplace]] • [[Rebecca Solnit]] • [[Literary Hub]]
+[[2016]] • [[Commonplace]] • [[Rebecca Solnit]] • [[Literary Hub]]
 
 https://lithub.com/how-to-be-a-writer-10-tips-from-rebecca-solnit/
 

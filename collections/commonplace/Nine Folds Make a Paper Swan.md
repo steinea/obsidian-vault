@@ -9,7 +9,7 @@ date: 2017-02-02
 permalink: 2017/02/02/mike-broida-nine-folds-make-a-paper-swan
 ---
 
-[[2017]] • [[commonplace]] • [[Mike Broida]] • [[Los Angeles Review of Books]] 
+[[2017]] • [[Commonplace]] • [[Mike Broida]] • [[Los Angeles Review of Books]] 
 
 https://lareviewofbooks.org/article/how-to-become-one-ruth-gilligans-nine-folds-make-a-paper-swan/
 

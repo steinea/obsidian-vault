@@ -9,7 +9,7 @@ date: 2016-05-24
 permalink: 2016/05/24/ken-wharton-huw-price-to-understand-your-past-look-to-your-future
 ---
 
-[[2016]] • [[commonplace]] • [[Ken Wharton]] • [[Huw Price]] • [[Nautilus]]
+[[2016]] • [[Commonplace]] • [[Ken Wharton]] • [[Huw Price]] • [[Nautilus]]
 
 http://nautil.us/issue/36/aging/to-understand-your-past-look-to-your-future
 

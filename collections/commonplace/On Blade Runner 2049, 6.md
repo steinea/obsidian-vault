@@ -9,7 +9,7 @@ date: 2017-10-12
 permalink: 2017/10/12/david-sims-on-blade-runner-2049-6
 ---
 
-[[2017]] • [[commonplace]] • [[David Sims]] • [[The Atlantic]] 
+[[2017]] • [[Commonplace]] • [[David Sims]] • [[The Atlantic]] 
 
 https://www.theatlantic.com/entertainment/archive/2017/10/the-real-and-unreal-in-blade-runner-2049/542574/
 

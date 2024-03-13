@@ -9,7 +9,7 @@ date: 2016-11-18
 permalink: 2016/11/18/edward-simon-the-science-fiction-that-came-before-science
 ---
 
-[[2016]] • [[commonplace]] •  [[Edward Simon]] • [[The Atlantic]]
+[[2016]] • [[Commonplace]] •  [[Edward Simon]] • [[The Atlantic]]
 
 http://www.theatlantic.com/science/archive/2016/11/the-science-fiction-that-came-before-science/508067/
 

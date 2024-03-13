@@ -9,7 +9,7 @@ date: 2014-09-13
 permalink: 2014/09/13/laura-mulvey-visual-pleasure-and-narrative-cinema
 ---
 
-[[2014]] • [[commonplace]] • [[Laura Mulvey]] • [[Critical Theory]]
+[[2014]] • [[Commonplace]] • [[Laura Mulvey]] • [[Critical Theory]]
 
 https://global.oup.com/ushe/product/critical-theory-9780199797776
 

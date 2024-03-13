@@ -9,7 +9,7 @@ date: 2022-10-12
 permalink: 2022/10/12/isaac-asimov-foundation-universe
 ---
 
-[[2022]] • [[commonplace]] • [[Isaac Asimov]] • [[Wikipedia]]
+[[2022]] • [[Commonplace]] • [[Isaac Asimov]] • [[Wikipedia]]
 
 https://en.wikipedia.org/wiki/Foundation_universe#Merging_the_Robot,_the_Empire_and_the_Foundation_series
 

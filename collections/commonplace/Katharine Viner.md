@@ -9,7 +9,7 @@ date: 2016-07-12
 permalink: 2016/07/12/katharine-viner-how-technology-disrupted-the-truth
 ---
 
-[[2016]] • [[commonplace]] • [[Katherine Viner]] • [[The Guardian]]
+[[2016]] • [[Commonplace]] • [[Katherine Viner]] • [[The Guardian]]
 
 http://www.theguardian.com/media/2016/jul/12/how-technology-disrupted-the-truth
 

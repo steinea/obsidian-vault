@@ -9,7 +9,7 @@ date: 2015-10-29
 permalink: 2015/10/28/friedrich-holderlin-patmos
 ---
 
-[[2015]] • [[commonplace]] • [[Friedrich Nietzsche]] • [[Harper's Magazine]]
+[[2015]] • [[Commonplace]] • [[Friedrich Nietzsche]] • [[Harper's Magazine]]
 
 https://harpers.org/2007/07/patmos/
 

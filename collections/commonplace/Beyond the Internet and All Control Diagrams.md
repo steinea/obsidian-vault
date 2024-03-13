@@ -9,7 +9,7 @@ date: 2017-01-24
 permalink: 2017/01/24/simone-brown-zach-blas-beyond-the-internet-and-all-control-diagrams
 ---
 
-[[2017]] • [[commonplace]] • [[Simone Brown]] • [[Zach Blas]] • [[The New Inquiry]]
+[[2017]] • [[Commonplace]] • [[Simone Brown]] • [[Zach Blas]] • [[The New Inquiry]]
 
 http://thenewinquiry.com/features/beyond-the-internet-and-all-control-diagrams/
 

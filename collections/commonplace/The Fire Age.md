@@ -9,7 +9,7 @@ date: 2015-05-08
 permalink: 2015/05/08/stephen-pyne-the-fire-age
 ---
 
-[[2015]] • [[commonplace]] • [[Stephen Pyne]] • [[Aeon]] 
+[[2015]] • [[Commonplace]] • [[Stephen Pyne]] • [[Aeon]] 
 
 https://aeon.co/magazine/science/how-our-pact-with-fire-made-us-what-we-are
 

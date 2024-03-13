@@ -9,7 +9,7 @@ date: 2016-07-20
 permalink: 2016/07/20/kate-manne-the-logic-of-misogyny
 ---
 
-[[2016]] • [[commonplace]] • [[Kate Manne]] • [[Boston Review]]
+[[2016]] • [[Commonplace]] • [[Kate Manne]] • [[Boston Review]]
 
 http://bostonreview.net/forum/kate-manne-logic-misogyny
 

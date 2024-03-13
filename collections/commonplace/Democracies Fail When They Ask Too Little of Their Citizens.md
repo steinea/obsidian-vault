@@ -9,7 +9,7 @@ date: 2015-11-20
 permalink: 2015/11/20/stephen-cave-democracies-fail-when-they-ask-too-little-of-their-citizens
 ---
 
-[[2015]] • [[commonplace]] • [[Stephen Cave]] • [[Aeon]]
+[[2015]] • [[Commonplace]] • [[Stephen Cave]] • [[Aeon]]
 
 https://aeon.co/opinions/democracies-fail-when-they-ask-too-little-of-their-citizens
 

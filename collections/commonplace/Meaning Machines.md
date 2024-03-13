@@ -9,7 +9,7 @@ date: 2015-05-11
 permalink: 2015/05/11/calvin-tomkins-meaning-machines
 ---
 
-[[2015]] • [[commonplace]] • [[Calvin Tomkins]] • [[The New Yorker]] 
+[[2015]] • [[Commonplace]] • [[Calvin Tomkins]] • [[The New Yorker]] 
 
 https://www.newyorker.com/magazine/2015/05/11/meaning-machines
 

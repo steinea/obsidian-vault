@@ -9,7 +9,7 @@ date: 2014-10-16
 permalink: 2014/10/16/walter-sutton-melville-and-the-great-god-budd
 ---
 
-[[2014]] • [[commonplace]] • [[Walter Sutton]] • [[Prairie Schooner]] • [[Billy Budd, Sailor]]
+[[2014]] • [[Commonplace]] • [[Walter Sutton]] • [[Prairie Schooner]] • [[Billy Budd, Sailor]]
 
 https://www.jstor.org/stable/40625631
 

@@ -9,7 +9,7 @@ date: 2016-12-21
 permalink: 2016/12/21/emma-green-turning-theology-into-art
 ---
 
-[[2016]] • [[commonplace]] • [[Emma Green]] • [[The Atlantic]]
+[[2016]] • [[Commonplace]] • [[Emma Green]] • [[The Atlantic]]
 
 https://www.theatlantic.com/entertainment/archive/2016/12/martin-scorsese-silence-theology-art-jesuits/510827/
 

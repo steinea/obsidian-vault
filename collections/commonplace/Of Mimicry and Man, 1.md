@@ -9,7 +9,7 @@ date: 2014-11-08
 permalink: 2014/11/08/homi-k-bhabha-of-mimicry-and-man-1
 ---
 
-[[2014]] • [[commonplace]] • [[Homi K. Bhabha]] • [[Critical Theory]]
+[[2014]] • [[Commonplace]] • [[Homi K. Bhabha]] • [[Critical Theory]]
 
 https://global.oup.com/ushe/product/critical-theory-9780199797776
 

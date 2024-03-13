@@ -9,7 +9,7 @@ date: 2014-09-24
 permalink: 2014/09/24/philip-loosemore-revolution-counterrevolution-and-natural-law
 ---
 
-[[2014]] • [[commonplace]] • [[Philip Loosemore]] • [[Criticism]] • [[Billy Budd, Sailor]]
+[[2014]] • [[Commonplace]] • [[Philip Loosemore]] • [[Criticism]] • [[Billy Budd, Sailor]]
 
 https://www.jstor.org/stable/23131557
 

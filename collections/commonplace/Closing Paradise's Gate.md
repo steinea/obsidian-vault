@@ -9,7 +9,7 @@ date: 2023-03-06
 permalink: 2023/03/06/nicholas-smaligo-closing-paradises-gate
 ---
 
-[[2023]] • [[commonplace]] • [[Nicholas Smaligo]] • [[Ill Will]]
+[[2023]] • [[Commonplace]] • [[Nicholas Smaligo]] • [[Ill Will]]
 
 https://illwill.com/closing-paradises-gate
  

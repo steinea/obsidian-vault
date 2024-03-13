@@ -9,7 +9,7 @@ date: 2015-06-12
 permalink: 2015/06/12/arthur-conan-doyle-the-ring-of-thoth
 ---
 
-[[2015]] • [[commonplace]] • [[Arthur Conan Doyle]] • [[Gaslight]] 
+[[2015]] • [[Commonplace]] • [[Arthur Conan Doyle]] • [[Gaslight]] 
 
 http://gaslight-lit.s3-website.ca-central-1.amazonaws.com/gaslight/rngthoth.htm
 

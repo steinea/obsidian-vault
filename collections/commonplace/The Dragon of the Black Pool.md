@@ -9,7 +9,7 @@ date: 2015-01-26
 permalink: 2015/01/26/po-chu-i-the-dragon-of-the-black-pool
 ---
 
-[[2015]] • [[commonplace]] • [[Po Chu I]] • [[Chinese Classics in English]]
+[[2015]] • [[Commonplace]] • [[Po Chu I]] • [[Chinese Classics in English]]
 
 https://web.archive.org/web/20170703112448/http://bs.dayabook.com/poetry/po-chu-i-selected-poems/the-dragon-of-the-black-pool
 

@@ -9,7 +9,7 @@ date: 2016-01-12
 permalink: 2016/01/12/david-wolpe-a-historical-nullity-you-need-to-read-about
 ---
 
-[[2016]] • [[commonplace]] • [[David Wolpe]] • [[Los Angeles Review of Books]]
+[[2016]] • [[Commonplace]] • [[David Wolpe]] • [[Los Angeles Review of Books]]
 
 https://lareviewofbooks.org/review/a-historical-nullity-you-need-to-read-about/
 

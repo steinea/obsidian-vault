@@ -9,7 +9,7 @@ date: 2017-07-02
 permalink: 2017/07/02/gabriel-honore-marcel-problem-vs-mystery
 ---
 
-[[2017]] • [[commonplace]] • [[Gabriel-Honore Marcel]] • [[Stanford Encyclopedia of Philosophy]]
+[[2017]] • [[Commonplace]] • [[Gabriel-Honore Marcel]] • [[Stanford Encyclopedia of Philosophy]]
 
 https://plato.stanford.edu/entries/marcel/
  

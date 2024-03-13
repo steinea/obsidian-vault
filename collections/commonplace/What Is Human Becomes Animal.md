@@ -9,7 +9,7 @@ date: 2016-05-01
 permalink: 2016/05/01/karl-marx-what-is-human-becomes-animal
 ---
 
-[[2016]] • [[commonplace]] • [[Karl Marx]] • [[Lapham’s Quarterly]]
+[[2016]] • [[Commonplace]] • [[Karl Marx]] • [[Lapham’s Quarterly]]
 
 https://www.laphamsquarterly.org/lines-work/what-human-becomes-animal
 

@@ -9,7 +9,7 @@ date: 2014-01-07
 permalink: 2014/01/07/anonymous-figures-for-an-apocalypse
 ---
 
-[[2014]] • [[commonplace]] • [[Anonymous]] • [[HTMLGIANT]]
+[[2014]] • [[Commonplace]] • [[Anonymous]] • [[HTMLGIANT]]
 
 http://htmlgiant.com/reviews/figures-for-an-apocalypse/
 

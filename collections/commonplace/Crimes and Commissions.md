@@ -9,7 +9,7 @@ date: 2014-12-01
 permalink: 2014/12/01/jelani-cobb-crimes-and-commissions
 ---
 
-[[2014]] • [[commonplace]] • [[Jelani Cobb]] • [[The New Yorker]]
+[[2014]] • [[Commonplace]] • [[Jelani Cobb]] • [[The New Yorker]]
 
 https://www.newyorker.com/magazine/2014/12/08/crimes-commissions
 

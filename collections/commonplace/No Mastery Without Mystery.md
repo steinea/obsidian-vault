@@ -9,7 +9,7 @@ date: 2017-08-19
 permalink: 2017/08/19/daniel-vella-no-mastery-without-mystery
 ---
 
-[[2017]] • [[commonplace]] • [[Daniel Vella]] • [[Game Studies]] 
+[[2017]] • [[Commonplace]] • [[Daniel Vella]] • [[Game Studies]] 
 
 http://gamestudies.org/1501/articles/vella
 

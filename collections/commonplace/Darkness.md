@@ -9,7 +9,7 @@ date: 2017-06-20
 permalink: 2017/06/20/lord-byron-darkness
 ---
 
-[[2017]] • [[commonplace]] • [[Lord Byron]] • [[Poetry Foundation]] 
+[[2017]] • [[Commonplace]] • [[Lord Byron]] • [[Poetry Foundation]] 
 
 https://www.poetryfoundation.org/poems/43825/darkness-56d222aeeee1b
 

@@ -9,7 +9,7 @@ date: 2016-07-23
 permalink: 2016/07/23/christopher-benfey-wittgensteins-handles
 ---
 
-[[2016]] • [[commonplace]] • [[Christopher Benfey]] • [[New York Review of Books]]
+[[2016]] • [[Commonplace]] • [[Christopher Benfey]] • [[New York Review of Books]]
 
 http://www.nybooks.com/daily/2016/05/24/wittgensteins-handles/
 

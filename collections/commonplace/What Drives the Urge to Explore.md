@@ -9,7 +9,7 @@ date: 2015-08-19
 permalink: 2015/08/19/veronique-greenwood-what-drives-the-urge-to-explore
 ---
 
-[[2015]] • [[commonplace]] • [[Veronique Greenwood]] • [[Aeon]]
+[[2015]] • [[Commonplace]] • [[Veronique Greenwood]] • [[Aeon]]
 
 https://aeon.co/magazine/culture/what-drives-the-urge-to-explore
 

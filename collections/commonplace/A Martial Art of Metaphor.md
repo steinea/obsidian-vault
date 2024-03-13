@@ -9,7 +9,7 @@ date: 2015-12-03
 permalink: 2015/12/03/gilles-chatelet-a-martial-art-of-metaphor
 ---
 
-[[2015]] • [[commonplace]] • [[Gilles Châtelet]] • [[Urbanomic]]
+[[2015]] • [[Commonplace]] • [[Gilles Châtelet]] • [[Urbanomic]]
 
 https://www.urbanomic.com/document/gilles-chatelet-mental-ecology/
 

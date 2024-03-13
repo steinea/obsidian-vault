@@ -9,7 +9,7 @@ date: 2016-02-21
 permalink: 2016/02/21/zadie-smith-windows-on-the-will
 ---
 
-[[2016]] • [[commonplace]] • [[Zadie Smith]] • [[New York Review of Books]]
+[[2016]] • [[Commonplace]] • [[Zadie Smith]] • [[New York Review of Books]]
 
 http://www.nybooks.com/articles/2016/03/10/windows-on-the-will/
 

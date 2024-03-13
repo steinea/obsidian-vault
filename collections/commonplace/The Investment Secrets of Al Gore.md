@@ -9,7 +9,7 @@ date: 2015-10-23
 permalink: 2015/10/23/james-fallows-the-investment-secrets-of-al-gore
 ---
 
-[[2015]] • [[commonplace]] • [[James Fallows]] • [[The Atlantic]]
+[[2015]] • [[Commonplace]] • [[James Fallows]] • [[The Atlantic]]
 
 https://www.theatlantic.com/magazine/archive/2015/11/the-planet-saving-capitalism-subverting-surprisingly-lucrative-investment-secrets-of-al-gore/407857/
 

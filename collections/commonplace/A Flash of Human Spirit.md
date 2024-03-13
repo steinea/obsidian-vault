@@ -9,7 +9,7 @@ date: 2014-03-10
 permalink: 2014/03/10/wade-davis-a-flash-of-human-spirit
 ---
 
-[[2014]] • [[commonplace]] • [[Wade Davis]] • [[TED]]
+[[2014]] • [[Commonplace]] • [[Wade Davis]] • [[TED]]
 
 https://www.ted.com/talks/wade_davis_dreams_from_endangered_cultures/transcript
 

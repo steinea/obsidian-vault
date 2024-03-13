@@ -9,7 +9,7 @@ date: 2023-10-09
 permalink: 2023/10/09/adam-morgan-the-rebirth-of-cyan-worlds
 ---
 
-[[2023]] • [[commonplace]] • [[Adam Morgan]] • [[Inverse]]
+[[2023]] • [[Commonplace]] • [[Adam Morgan]] • [[Inverse]]
 
 https://www.inverse.com/gaming/myst-cyan-worlds-oral-history
 

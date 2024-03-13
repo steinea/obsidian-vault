@@ -9,7 +9,7 @@ date: 2016-12-01
 permalink: 2016/12/01/ian-phillips-experiencing-time
 ---
 
-[[2016]] • [[commonplace]] • [[Ian Phillips]] • [[Notre Dame Philosophical Reviews]]
+[[2016]] • [[Commonplace]] • [[Ian Phillips]] • [[Notre Dame Philosophical Reviews]]
 
 https://ndpr.nd.edu/news/experiencing-time/
 

@@ -9,7 +9,7 @@ date: 2023-10-09
 permalink: 2023/10/09/anonymous-the-trap-of-sainte-soline
 ---
 
-[[2023]] • [[commonplace]] • [[Anonymous]] • [[Ill Will]]
+[[2023]] • [[Commonplace]] • [[Anonymous]] • [[Ill Will]]
 
 https://illwill.com/sainte-soline
 

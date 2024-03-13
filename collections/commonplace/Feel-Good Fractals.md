@@ -9,7 +9,7 @@ date: 2017-01-26
 permalink: 2017/01/26/florence-williams-feel-good-fractals
 ---
 
-[[2017]] • [[commonplace]] • [[Florence Williams]] • [[Aeon]] 
+[[2017]] • [[Commonplace]] • [[Florence Williams]] • [[Aeon]] 
 
 https://aeon.co/ideas/feel-good-fractals-from-ocean-waves-to-jackson-pollocks-art
 

@@ -9,7 +9,7 @@ date: 2023-12-11
 permalink: 2023/12/11/brian-callaci-pasta-inflation
 ---
 
-[[2023]] • [[commonplace]] • [[Brian Callaci]] • [[Jacobin]]
+[[2023]] • [[Commonplace]] • [[Brian Callaci]] • [[Jacobin]]
 
 https://jacobin.com/2023/06/providence-macaroni-riots-inflation-profiteering-moral-economy-protest/
 

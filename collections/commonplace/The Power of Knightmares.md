@@ -9,7 +9,7 @@ date: 2015-09-25
 permalink: 2015/09/25/george-ballas-the-power-of-knightmares
 ---
 
-[[2015]] • [[commonplace]] • [[George Ballas]] • [[Los Angeles Review of Books]]
+[[2015]] • [[Commonplace]] • [[George Ballas]] • [[Los Angeles Review of Books]]
 
 https://lareviewofbooks.org/article/the-power-of-knightmares/
 

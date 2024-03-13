@@ -9,7 +9,7 @@ date: 2015-05-24
 permalink: 2015/05/24/marcel-proust-an-infinity-of-successive-loves
 ---
 
-[[2015]] • [[commonplace]] • [[Marcel Proust]] • [[Swann’s Way]] 
+[[2015]] • [[Commonplace]] • [[Marcel Proust]] • [[Swann’s Way]] 
 
 https://en.wikipedia.org/wiki/In_Search_of_Lost_Time
 

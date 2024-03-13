@@ -9,7 +9,7 @@ date: 2023-01-01
 permalink: 2023/01/01/maggie-smith-good-bones
 ---
 
-[[2023]] • [[commonplace]] • [[Maggie Smith]] • [[Poetry Foundation]]
+[[2023]] • [[Commonplace]] • [[Maggie Smith]] • [[Poetry Foundation]]
 
 https://www.poetryfoundation.org/poems/89897/good-bones
  

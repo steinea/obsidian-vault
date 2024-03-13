@@ -9,7 +9,7 @@ date: 2015-11-16
 permalink: 2015/11/16/david-a-graham-what-is-france-doing-in-syria
 ---
 
-[[2015]] • [[commonplace]] • [[David A. Graham]] • [[The Atlantic]]
+[[2015]] • [[Commonplace]] • [[David A. Graham]] • [[The Atlantic]]
 
 https://www.theatlantic.com/international/archive/2015/11/france-syria-iraq-isis/416013/
 

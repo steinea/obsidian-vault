@@ -9,7 +9,7 @@ date: 2015-02-10
 permalink: 2015/02/10/gustave-flaubert-critics-and-informers
 ---
 
-[[2015]] • [[commonplace]] • [[Gustave Flaubert]] • [[The Letters of Gustave Flaubert, 1857-1880]]
+[[2015]] • [[Commonplace]] • [[Gustave Flaubert]] • [[The Letters of Gustave Flaubert, 1857-1880]]
 
 https://www.hup.harvard.edu/catalog.php?isbn=9780674526402
 

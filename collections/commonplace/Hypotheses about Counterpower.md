@@ -9,7 +9,7 @@ date: 2023-10-16
 permalink: 2023/10/16/colectivo-situaciones-hypotheses-about-counterpower
 ---
 
-[[2023]] • [[commonplace]] • [[Colectivo Situaciones]] • [[Ill Will]]
+[[2023]] • [[Commonplace]] • [[Colectivo Situaciones]] • [[Ill Will]]
 
 https://illwill.com/twelve-hypotheses
 

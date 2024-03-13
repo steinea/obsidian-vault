@@ -9,7 +9,7 @@ date: 2017-08-21
 permalink: 2017/08/21/karl-barth-universal-reconciliation
 ---
 
-[[2017]] • [[commonplace]] • [[Karl Barth]] • [[Wikipedia]]
+[[2017]] • [[Commonplace]] • [[Karl Barth]] • [[Wikipedia]]
 
 https://en.wikipedia.org/wiki/Universal_reconciliation#Responses_to_universalism
  

@@ -9,7 +9,7 @@ date: 2016-10-25
 permalink: 2016/10/25/terence-blake-the-failure-of-substantialization
 ---
 
-[[2016]] • [[commonplace]] • [[Terence Blake]] • [[Agent Swarm]]
+[[2016]] • [[Commonplace]] • [[Terence Blake]] • [[Agent Swarm]]
 
 https://terenceblake.wordpress.com/2016/10/25/reading-disparities-6-the-failure-of-substantialization/
 

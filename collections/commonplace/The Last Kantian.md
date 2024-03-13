@@ -9,7 +9,7 @@ date: 2016-12-03
 permalink: 2016/12/03/s-c-hickman-the-last-kantian
 ---
 
-[[2016]] • [[commonplace]] • [[S. C. Hickman]] • [[Social Ecologies]]
+[[2016]] • [[Commonplace]] • [[S. C. Hickman]] • [[Social Ecologies]]
 
 https://socialecologies.wordpress.com/2016/12/03/ernst-cassirer-the-last-kantian/
 

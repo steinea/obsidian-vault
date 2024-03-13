@@ -9,7 +9,7 @@ date: 2016-03-03
 permalink: 2016/03/03/ed-yong-how-viruses-infiltrated-our-dna-and-supercharged-our-immune-system
 ---
 
-[[2016]] • [[commonplace]] • [[Ed Yong]] • [[The Atlantic]]
+[[2016]] • [[Commonplace]] • [[Ed Yong]] • [[The Atlantic]]
 
 http://www.theatlantic.com/science/archive/2016/03/how-we-repurposed-viruses-to-defend-ourselves-from-viruses/471702/
 

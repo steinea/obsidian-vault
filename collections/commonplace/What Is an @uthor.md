@@ -9,7 +9,7 @@ date: 2015-02-07
 permalink: 2015/02/07/matthew-kirschenbaum-what-is-an-@uthor
 ---
 
-[[2015]] • [[commonplace]] • [[Matthew Kirschenbaum]] • [[Los Angeles Review of Books]]
+[[2015]] • [[Commonplace]] • [[Matthew Kirschenbaum]] • [[Los Angeles Review of Books]]
 
 https://lareviewofbooks.org/article/uthor/
 

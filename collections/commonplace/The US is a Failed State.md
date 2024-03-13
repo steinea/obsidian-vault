@@ -9,7 +9,7 @@ date: 2016-01-16
 permalink: 2016/01/16/gary-gerstle-the-us-is-a-failed-state
 ---
 
-[[2016]] • [[commonplace]] • [[Gary Gerstle]] • [[Aeon]]
+[[2016]] • [[Commonplace]] • [[Gary Gerstle]] • [[Aeon]]
 
 https://aeon.co/opinions/the-us-is-a-failed-state-thanks-to-its-system-of-government
 

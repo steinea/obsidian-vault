@@ -9,7 +9,7 @@ date: 2015-01-04
 permalink: 2015/01/04/orson-scott-card-responsibility-and-consequence
 ---
 
-[[2015]] • [[commonplace]] • [[Orson Scott Card]] • [[Ender in Exile]]
+[[2015]] • [[Commonplace]] • [[Orson Scott Card]] • [[Ender in Exile]]
 
 https://en.wikipedia.org/wiki/Ender_in_Exile
 

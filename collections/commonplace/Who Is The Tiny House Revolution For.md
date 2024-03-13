@@ -9,7 +9,7 @@ date: 2016-07-14
 permalink: 2016/07/14/doree-shafrir-who-is-the-tiny-house-revolution-for
 ---
 
-[[2016]] • [[commonplace]] • [[Doree Shafrir]] • [[Buzzfeed]]
+[[2016]] • [[Commonplace]] • [[Doree Shafrir]] • [[Buzzfeed]]
 
 https://www.buzzfeed.com/doree/who-is-the-tiny-house-revolution-for
 

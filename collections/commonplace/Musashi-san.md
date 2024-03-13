@@ -9,7 +9,7 @@ date: 2015-06-18
 permalink: 2015/06/18/jack-vian-musashi-san
 ---
 
-[[2015]] • [[commonplace]] • [[Jack Vian]] • [[Rattle]] 
+[[2015]] • [[Commonplace]] • [[Jack Vian]] • [[Rattle]] 
 
 https://www.rattle.com/product/i47/
 

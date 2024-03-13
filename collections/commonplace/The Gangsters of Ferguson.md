@@ -9,7 +9,7 @@ date: 2015-03-05
 permalink: 2015/03/05/ta-nehisi-coates-the-gangsters-of-ferguson
 ---
 
-[[2015]] • [[commonplace]] • [[Ta-Nehisi Coates]] • [[The Atlantic]]
+[[2015]] • [[Commonplace]] • [[Ta-Nehisi Coates]] • [[The Atlantic]]
 
 https://www.theatlantic.com/politics/archive/2015/03/The-Gangsters-Of-Ferguson/386893/
 

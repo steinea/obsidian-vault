@@ -9,7 +9,7 @@ date: 2023-02-02
 permalink: 2023/02/02/adrian-hon-sport-is-game-design
 ---
 
-[[2023]] • [[commonplace]] • [[Adrian Hon]] • [[Mastodon]]
+[[2023]] • [[Commonplace]] • [[Adrian Hon]] • [[Mastodon]]
 
 https://mastodon.social/@adrianhon/109794781211623714
  

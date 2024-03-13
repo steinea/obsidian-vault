@@ -9,7 +9,7 @@ date: 2015-02-21
 permalink: 2015/02/21/jon-lee-anderson-libya-new-strongman
 ---
 
-[[2015]] • [[commonplace]] • [[Jon Lee Anderson]] • [[The New Yorker]]
+[[2015]] • [[Commonplace]] • [[Jon Lee Anderson]] • [[The New Yorker]]
 
 https://www.newyorker.com/magazine/2015/02/23/unravelling
 

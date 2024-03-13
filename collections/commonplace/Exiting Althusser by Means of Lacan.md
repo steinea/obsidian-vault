@@ -9,7 +9,7 @@ date: 2017-06-21
 permalink: 2017/06/21/terence-blake-exiting-althusser-by-means-of-lacan
 ---
 
-[[2017]] • [[commonplace]] • [[Terence Blake]] • [[Agent Swarm]] 
+[[2017]] • [[Commonplace]] • [[Terence Blake]] • [[Agent Swarm]] 
 
 https://terenceblake.wordpress.com/2013/04/25/on-exiting-althusser-by-means-of-lacan-against-the-demi-post-structuralists/
 

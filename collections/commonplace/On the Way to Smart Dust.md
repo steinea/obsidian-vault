@@ -9,7 +9,7 @@ date: 2016-11-10
 permalink: 2016/11/10/alasdair-allan-on-the-way-to-smart-dust
 ---
 
-[[2016]] • [[commonplace]] • [[Alasdair Allan]] • [[Motherboard]]
+[[2016]] • [[Commonplace]] • [[Alasdair Allan]] • [[Motherboard]]
 
 http://motherboard.vice.com/read/the-internet-of-things-is-just-a-pit-stop-on-the-way-to-smart-dust
 

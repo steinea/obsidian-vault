@@ -9,7 +9,7 @@ date: 2015-08-28
 permalink: 2015/08/28/mathew-snow-against-charity
 ---
 
-[[2015]] • [[commonplace]] • [[Mathew Snow]] • [[Jacobin]]
+[[2015]] • [[Commonplace]] • [[Mathew Snow]] • [[Jacobin]]
 
 https://jacobin.com/2015/08/peter-singer-charity-effective-altruism/
 

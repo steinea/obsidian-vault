@@ -9,7 +9,7 @@ date: 2014-09-28
 permalink: 2014/09/28/lilian-alweiss-on-moral-dilemmas
 ---
 
-[[2014]] • [[commonplace]] • [[Lilian Alweiss]] • [[Philosophy]] / [[Billy Budd, Sailor]]
+[[2014]] • [[Commonplace]] • [[Lilian Alweiss]] • [[Philosophy]] / [[Billy Budd, Sailor]]
 
 https://www.jstor.org/stable/3752044
 

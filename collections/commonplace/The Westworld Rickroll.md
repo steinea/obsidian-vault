@@ -9,7 +9,7 @@ date: 2018-08-25
 permalink: 2018/08/25/aaron-bady-the-westworld-rickroll
 ---
 
-[[2018]] • [[commonplace]] • [[Aaron Bady]] • [[Los Angeles Review of Books]]
+[[2018]] • [[Commonplace]] • [[Aaron Bady]] • [[Los Angeles Review of Books]]
 
 https://lareviewofbooks.org/article/the-westworld-rickroll/
  

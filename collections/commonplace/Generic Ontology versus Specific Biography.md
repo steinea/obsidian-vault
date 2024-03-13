@@ -9,7 +9,7 @@ date: 2017-02-05
 permalink: 2017/02/05/terence-blake-generic-ontology-versus-specific-biography
 ---
 
-[[2017]] • [[commonplace]] • [[Terence Blake]] • [[Agent Swarm]] 
+[[2017]] • [[Commonplace]] • [[Terence Blake]] • [[Agent Swarm]] 
 
 https://terenceblake.wordpress.com/2017/02/05/generic-ontology-vs-specific-biography-badiou-as-symptom-and-cure/
 

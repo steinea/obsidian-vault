@@ -9,7 +9,7 @@ date: 2016-12-03
 permalink: 2016/12/03/paul-kincaid-this-is-science-fiction
 ---
 
-[[2016]] • [[commonplace]] • [[Paul Kincaid]] • [[Los Angeles Review of Books]]
+[[2016]] • [[Commonplace]] • [[Paul Kincaid]] • [[Los Angeles Review of Books]]
 
 https://lareviewofbooks.org/article/this-is-science-fiction/
 

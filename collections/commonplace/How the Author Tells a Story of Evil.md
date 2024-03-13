@@ -9,7 +9,7 @@ date: 2016-12-16
 permalink: 2016/12/16/matteo-pericoli-how-the-author-tells-a-story-of-evil
 ---
 
-[[2016]] • [[commonplace]] • [[Matteo Pericoli]] • [[The Paris Review]]
+[[2016]] • [[Commonplace]] • [[Matteo Pericoli]] • [[The Paris Review]]
 
 https://www.theparisreview.org/blog/2016/12/16/carrere-the-adversary/
 

@@ -9,7 +9,7 @@ date: 2015-08-10
 permalink: 2015/08/10/jesse-a-myerson-the-right-to-a-dignified-life
 ---
 
-[[2015]] • [[commonplace]] • [[Jesse A. Myerson]] • [[Jacobin]]
+[[2015]] • [[Commonplace]] • [[Jesse A. Myerson]] • [[Jacobin]]
 
 https://jacobin.com/2015/08/universal-basic-income-socialist-libertarian/
 

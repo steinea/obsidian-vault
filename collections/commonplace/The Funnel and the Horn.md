@@ -9,7 +9,7 @@ date: 2022-12-18
 permalink: 2022/12/18/j-d-connor-the-funnel-and-the-horn
 ---
 
-[[2022]] • [[commonplace]] • [[J. D. Connor]] • [[Los Angeles Review of Books]]
+[[2022]] • [[Commonplace]] • [[J. D. Connor]] • [[Los Angeles Review of Books]]
 
 https://dev.lareviewofbooks.org/article/the-funnel-and-the-horn-on-reinventing-james-camerons-avatar/
 

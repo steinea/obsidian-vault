@@ -9,7 +9,7 @@ date: 2016-08-17
 permalink: 2016/08/17/matthew-buckley-what-lies-deep
 ---
 
-[[2016]] • [[commonplace]] • [[Matthew Buckley]] •[[Boston Review]]
+[[2016]] • [[Commonplace]] • [[Matthew Buckley]] •[[Boston Review]]
 
 http://bostonreview.net/books-ideas/matthew-buckley-search-new-physics-cern-part-7
 

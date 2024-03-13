@@ -9,7 +9,7 @@ date: 2015-03-04
 permalink: 2015/03/04/miriam-toews-some-people-can-leave-and-some-cant
 ---
 
-[[2015]] • [[commonplace]] • [[Miriam Toews]] • [[A Complicated Kindness]]
+[[2015]] • [[Commonplace]] • [[Miriam Toews]] • [[A Complicated Kindness]]
 
 https://www.penguinrandomhouse.ca/books/179091/a-complicated-kindness-by-miriam-toews/9780735273955
 

@@ -9,7 +9,7 @@ date: 2016-04-25
 permalink: 2016/04/25/james-manos-jr-the-sea
 ---
 
-[[2016]] • [[commonplace]] • [[James Manos Jr.]] • [[The Sea]]
+[[2016]] • [[Commonplace]] • [[James Manos Jr.]] • [[The Sea]]
 
 https://www.imdb.com/title/tt1444427/
 

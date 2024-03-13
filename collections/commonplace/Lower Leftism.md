@@ -9,7 +9,7 @@ date: 2023-01-09
 permalink: 2023/01/09/margaret-killjoy-lower-leftism
 ---
 
-[[2023]] • [[commonplace]] • [[Margaret Killjoy]] • [[Birds Before the Storm]]
+[[2023]] • [[Commonplace]] • [[Margaret Killjoy]] • [[Birds Before the Storm]]
 
 https://birdsbeforethestorm.net/2016/10/lower-leftism-expanding-upon-the-political-map/
  

@@ -9,7 +9,7 @@ date: 2017-05-24
 permalink: 2017/05/24/manuel-lima-the-power-of-networks
 ---
 
-[[2017]] • [[commonplace]] • [[Manuel Lima]] • [[RSA Animate]] 
+[[2017]] • [[Commonplace]] • [[Manuel Lima]] • [[RSA Animate]] 
 
 https://youtu.be/nJmGrNdJ5Gw
 

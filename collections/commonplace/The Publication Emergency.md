@@ -9,7 +9,7 @@ date: 2017-07-31
 permalink: 2017/07/31/j-david-velleman-the-publication-emergency
 ---
 
-[[2017]] • [[commonplace]] • [[J. David Velleman]] • [[Daily Nous]] 
+[[2017]] • [[Commonplace]] • [[J. David Velleman]] • [[Daily Nous]] 
 
 http://dailynous.com/2017/07/31/publication-emergency-guest-post-j-david-velleman/
 

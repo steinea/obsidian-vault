@@ -9,7 +9,7 @@ date: 2023-09-13
 permalink: 2023/09/13/leigh-phillips-between-degrowth-and-socialism
 ---
 
-[[2023]] • [[commonplace]] • [[Leigh Phillips]] • [[Twitter]]
+[[2023]] • [[Commonplace]] • [[Leigh Phillips]] • [[Twitter]]
 
 https://twitter.com/Leigh_Phillips/status/1702048046748680349
 

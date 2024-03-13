@@ -9,7 +9,7 @@ date: 2016-09-29
 permalink: 2016/09/29/spencer-kornhaber-a-very-gentle-discussion-of-tolerance
 ---
 
-[[2016]] • [[commonplace]] • [[Spencer Kornhaber]] • [[The Atlantic]]
+[[2016]] • [[Commonplace]] • [[Spencer Kornhaber]] • [[The Atlantic]]
 
 http://www.theatlantic.com/entertainment/archive/2016/09/modern-family-a-stereotypical-day-transgender-child-actor-jackson-millarker/502196/
 

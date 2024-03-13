@@ -9,7 +9,7 @@ date: 2022-12-26
 permalink: 2022/12/26/jeanette-winterson-art-objects
 ---
 
-[[2022]] • [[commonplace]] • [[Jeanette Winterson]] • [[Twitter]]
+[[2022]] • [[Commonplace]] • [[Jeanette Winterson]] • [[Twitter]]
 
 https://mobile.twitter.com/alissamarie/status/1607490103945101312
 

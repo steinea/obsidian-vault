@@ -9,7 +9,7 @@ date: 2015-10-20
 permalink: 2015/10/20/william-butler-yeats-the-lake-isle-of-innisfree
 ---
 
-[[2015]] • [[commonplace]] • [[William Butler Yeats]] • [[Poetry Foundation]]
+[[2015]] • [[Commonplace]] • [[William Butler Yeats]] • [[Poetry Foundation]]
 
 https://www.poetryfoundation.org/poems/43281/the-lake-isle-of-innisfree
 

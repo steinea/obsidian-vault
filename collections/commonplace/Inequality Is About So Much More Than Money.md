@@ -9,7 +9,7 @@ date: 2016-04-03
 permalink: 2016/04/03/derek-thompson-inequality-is-about-so-much-more-than-money
 ---
 
-[[2016]] • [[commonplace]] • [[Derek Thompson]] • [[The Atlantic]]
+[[2016]] • [[Commonplace]] • [[Derek Thompson]] • [[The Atlantic]]
 
 http://www.theatlantic.com/business/archive/2016/04/total-inequality/476238/
 

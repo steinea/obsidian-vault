@@ -9,7 +9,7 @@ date: 2015-11-02
 permalink: 2015/11/02/lenika-cruz-uncaged
 ---
 
-[[2015]] • [[commonplace]] • [[Lenika Cruz]] • [[The Atlantic]]
+[[2015]] • [[Commonplace]] • [[Lenika Cruz]] • [[The Atlantic]]
 
 https://www.theatlantic.com/entertainment/archive/2015/11/walking-dead-heres-not-here-roundtable/412984/
 

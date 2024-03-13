@@ -9,7 +9,7 @@ date: 2016-12-13
 permalink: 2016/12/13/babette-babich-chris-bateman
 ---
 
-[[2016]] • [[commonplace]] • [[Babette Babich]] • [[Chris Bateman]] • [[Only a Game]]
+[[2016]] • [[Commonplace]] • [[Babette Babich]] • [[Chris Bateman]] • [[Only a Game]]
 
 http://onlyagame.typepad.com/only_a_game/2016/12/babich-and-bateman-3.html
 

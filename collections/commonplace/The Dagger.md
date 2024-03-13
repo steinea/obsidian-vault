@@ -9,7 +9,7 @@ date: 2015-12-01
 permalink: 2015/12/01/jorge-luis-borges-the-dagger
 ---
 
-[[2015]] • [[commonplace]] • [[Jorge Luis Borges]]
+[[2015]] • [[Commonplace]] • [[Jorge Luis Borges]]
 
 A dagger rests in a drawer.
 

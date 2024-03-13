@@ -9,7 +9,7 @@ date: 2016-05-28
 permalink: 2016/05/28/nadine-ajaka-the-ethics-of-hodor
 ---
 
-[[2016]] • [[commonplace]] • [[Nadine Ajaka]] • [[The Atlantic]]
+[[2016]] • [[Commonplace]] • [[Nadine Ajaka]] • [[The Atlantic]]
 
 http://www.theatlantic.com/entertainment/archive/2016/05/the-ethics-of-hodor/484643/
 

@@ -9,7 +9,7 @@ date: 2022-11-08
 permalink: 2022/11/08/avery-alder-utopian-science-fiction
 ---
 
-[[2022]] • [[commonplace]] • [[Avery Alder]] • [[Twitter]]
+[[2022]] • [[Commonplace]] • [[Avery Alder]] • [[Twitter]]
 
 https://mobile.twitter.com/lackingceremony/status/1590034835384717313
 

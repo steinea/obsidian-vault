@@ -9,7 +9,7 @@ date: 2022-11-24
 permalink: 2022/11/24/diego-luna-revolutions-are-not-made-by-leaders
 ---
 
-[[2022]] • [[commonplace]] • [[Diego Luna]] • [[Vulture]]
+[[2022]] • [[Commonplace]] • [[Diego Luna]] • [[Vulture]]
 
 https://www.vulture.com/article/diego-luna-on-andor-interview-finale-narkina-prison-break.html
 

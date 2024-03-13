@@ -9,7 +9,7 @@ date: 2015-09-22
 permalink: 2015/09/22/elizabeth-newton-the-lossless-self
 ---
 
-[[2015]] • [[commonplace]] • [[Elizabeth Newton]] • [[The New Inquiry]]
+[[2015]] • [[Commonplace]] • [[Elizabeth Newton]] • [[The New Inquiry]]
 
 https://thenewinquiry.com/the-lossless-self/
 

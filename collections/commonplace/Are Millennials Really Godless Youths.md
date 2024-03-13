@@ -9,7 +9,7 @@ date: 2016-03-20
 permalink: 2016/03/20/emma-green-are-millenials-really-godless-youths
 ---
 
-[[2016]] • [[commonplace]] • [[Emma Green]] • [[The Atlantic]]
+[[2016]] • [[Commonplace]] • [[Emma Green]] • [[The Atlantic]]
 
 http://www.theatlantic.com/politics/archive/2016/03/how-will-young-people-choose-their-religion/474366/
 

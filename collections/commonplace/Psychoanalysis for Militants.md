@@ -9,7 +9,7 @@ date: 2023-06-10
 permalink: 2023/06/10/gabriel-tupinamba-psychoanalysis-for-militants
 ---
 
-[[2023]] • [[commonplace]] • [[Gabriel Tupinambá]] • [[Sublation Magazine]]
+[[2023]] • [[Commonplace]] • [[Gabriel Tupinambá]] • [[Sublation Magazine]]
 
 https://www.sublationmag.com/post/psychoanalysis-for-militants
  

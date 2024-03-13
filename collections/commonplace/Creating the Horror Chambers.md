@@ -9,7 +9,7 @@ date: 2015-07-29
 permalink: 2015/07/29/noam-chomsky-creating-the-horror-chambers
 ---
 
-[[2015]] • [[commonplace]] • [[Noam Chomsky]] • [[Jacobin]] 
+[[2015]] • [[Commonplace]] • [[Noam Chomsky]] • [[Jacobin]] 
 
 https://jacobin.com/2015/07/chomsky-interview-citizens-united-democracy-higher-education/
 

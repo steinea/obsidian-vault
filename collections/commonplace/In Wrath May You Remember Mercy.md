@@ -9,7 +9,7 @@ date: 2016-07-25
 permalink: 2016/07/25/habakkuk-in-wrath-may-you-remember-mercy
 ---
 
-[[2016]] • [[commonplace]] • [[Habakkuk]] • [[Bible]]
+[[2016]] • [[Commonplace]] • [[Habakkuk]] • [[Bible]]
 
 https://en.wikipedia.org/wiki/Habakkuk_3
 

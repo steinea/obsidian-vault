@@ -9,7 +9,7 @@ date: 2015-03-23
 permalink: 2015/03/23/andrew-motion-noonlight-a-meeting-of-minds-with-henry-david-thoreau
 ---
 
-[[2015]] • [[commonplace]] • [[Andrew Motion]] • [[Granta]]
+[[2015]] • [[Commonplace]] • [[Andrew Motion]] • [[Granta]]
 
 https://granta.com/products/granta-128-american-wild/
 

@@ -9,7 +9,7 @@ date: 2015-06-29
 permalink: 2015/06/29/noah-brewer-lacans-mirror
 ---
 
-[[2015]] • [[commonplace]] • [[Noah Brewer]] • [[Practical Aesthetics]] 
+[[2015]] • [[Commonplace]] • [[Noah Brewer]] • [[Practical Aesthetics]] 
 
 https://practicalaesthetics.wordpress.com/2010/10/21/lacans-mirror-letter/
 

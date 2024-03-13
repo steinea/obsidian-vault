@@ -9,7 +9,7 @@ date: 2016-12-12
 permalink: 2016/12/12/jordan-brower-what-weve-got-here
 ---
 
-[[2016]] • [[commonplace]] • [[Jordan Brower]] • [[Los Angeles Review of Books]]
+[[2016]] • [[Commonplace]] • [[Jordan Brower]] • [[Los Angeles Review of Books]]
 
 https://lareviewofbooks.org/article/weve-got-arrival/
 

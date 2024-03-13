@@ -9,7 +9,7 @@ date: 2016-03-03
 permalink: 2016/03/03/edward-lorenz-chaos-theory
 ---
 
-[[2016]] • [[commonplace]] • [[Edward Lorenz]] • [[Wikipedia]]
+[[2016]] • [[Commonplace]] • [[Edward Lorenz]] • [[Wikipedia]]
 
 https://en.wikipedia.org/wiki/Chaos_theory
 

@@ -9,7 +9,7 @@ date: 2023-10-09
 permalink: 2023/10/09/will-stafford-the-logic-of-number
 ---
 
-[[2023]] • [[commonplace]] • [[Will Stafford]] • [[Notre Dame Philosophical Reviews]]
+[[2023]] • [[Commonplace]] • [[Will Stafford]] • [[Notre Dame Philosophical Reviews]]
 
 https://ndpr.nd.edu/reviews/the-logic-of-number/
 

@@ -9,7 +9,7 @@ date: 2023-12-09
 permalink: 2023/12/09/massimo-mazzotti-foundational-anxieties
 ---
 
-[[2023]] • [[commonplace]] • [[Massimo Mazzotti]] • [[Los Angeles Review of Books]]
+[[2023]] • [[Commonplace]] • [[Massimo Mazzotti]] • [[Los Angeles Review of Books]]
 
 https://lareviewofbooks.org/article/foundational-anxieties-modern-mathematics-and-the-political-imagination/
 

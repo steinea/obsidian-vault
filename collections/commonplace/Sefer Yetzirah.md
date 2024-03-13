@@ -9,7 +9,7 @@ date: 2017-03-01
 permalink: 2017/03/01/jorge-luis-borges-sefer-yetzirah
 ---
 
-[[2017]] • [[commonplace]] • [[Jorge Luis Borges]] • [[Wikipedia]] 
+[[2017]] • [[Commonplace]] • [[Jorge Luis Borges]] • [[Wikipedia]] 
 
 https://en.m.wikipedia.org/wiki/Sefer_Yetzirah
 

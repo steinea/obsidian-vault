@@ -9,7 +9,7 @@ date: 2015-12-02
 permalink: 2015/12/02/john-metta-i-racist
 ---
 
-[[2015]] • [[commonplace]] • [[John Metta]] • [[Medium]]
+[[2015]] • [[Commonplace]] • [[John Metta]] • [[Medium]]
 
 https://web.archive.org/web/20150909185200/https://www.thsppl.com/i-racist-538512462265
 

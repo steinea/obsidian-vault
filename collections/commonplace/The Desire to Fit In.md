@@ -9,7 +9,7 @@ date: 2016-10-02
 permalink: 2016/10/02/christopher-freiman-the-desire-to-fit-in
 ---
 
-[[2016]] • [[commonplace]] • [[Christopher Freiman]] • [[Aeon]]
+[[2016]] • [[Commonplace]] • [[Christopher Freiman]] • [[Aeon]]
 
 https://aeon.co/ideas/the-desire-to-fit-in-is-the-root-of-almost-all-wrongdoing
 

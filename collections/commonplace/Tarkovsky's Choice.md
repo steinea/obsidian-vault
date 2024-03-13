@@ -9,7 +9,7 @@ date: 2016-12-27
 permalink: 2016/12/27/tom-lasica-tarkovskys-choice
 ---
 
-[[2016]] • [[commonplace]] • [[Tom Lasica]] • [[Nostalghia]]
+[[2016]] • [[Commonplace]] • [[Tom Lasica]] • [[Nostalghia]]
 
 http://www.nostalghia.com/TheTopics/Tarkovsky-TopTen.html
 

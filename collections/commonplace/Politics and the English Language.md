@@ -9,7 +9,7 @@ date: 2015-06-17
 permalink: 2015/06/17/george-orwell-politics-and-the-english-language
 ---
 
-[[2015]] • [[commonplace]] • [[George Orwell]] • [[Politics and the English Language]] 
+[[2015]] • [[Commonplace]] • [[George Orwell]] • [[Politics and the English Language]] 
 
 https://www.orwell.ru/library/essays/politics/english/e_polit/
 

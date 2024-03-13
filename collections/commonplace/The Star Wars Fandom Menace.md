@@ -9,7 +9,7 @@ date: 2016-07-14
 permalink: 2016/07/14/lili-loofbourow-the-star-wars-fandom-menace
 ---
 
-[[2016]] • [[commonplace]] • [[Lili Loofbourow]] • [[Salon]]
+[[2016]] • [[Commonplace]] • [[Lili Loofbourow]] • [[Salon]]
 
 http://www.salon.com/2015/12/22/the_star_wars_fandom_menace_the_glaring_emotional_blind_spots_that_power_the_force_awakens/
 

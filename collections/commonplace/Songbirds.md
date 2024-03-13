@@ -9,7 +9,7 @@ date: 2023-12-26
 permalink: 2023/12/26/snow-songbirds
 ---
 
-[[2023]] • [[commonplace]] • [[Snow]] • [[Substack]]
+[[2023]] • [[Commonplace]] • [[Snow]] • [[Substack]]
 
 https://open.substack.com/pub/batts/p/why-do-i-keep-writing-the-same-game
 

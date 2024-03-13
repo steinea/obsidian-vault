@@ -9,7 +9,7 @@ date: 2017-02-13
 permalink: 2017/02/13/denise-levertov-those-who-want-out
 ---
 
-[[2017]] • [[commonplace]] • [[Denise Levertov]] • [[A Door in the Hive]] 
+[[2017]] • [[Commonplace]] • [[Denise Levertov]] • [[A Door in the Hive]] 
 
 https://books.google.ca/books/about/A_Door_in_the_Hive.html?id=Z7ja367ovMoC
 

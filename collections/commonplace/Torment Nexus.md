@@ -9,7 +9,7 @@ date: 2021-11-08
 permalink: 2021/11/08/alex-blechman-torment-nexus
 ---
 
-[[2021]] • [[commonplace]] • [[Alex Blechman]] • [[Twitter]]
+[[2021]] • [[Commonplace]] • [[Alex Blechman]] • [[Twitter]]
 
 https://mobile.twitter.com/alexblechman/status/1457842724128833538
 

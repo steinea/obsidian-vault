@@ -9,7 +9,7 @@ date: 2015-08-25
 permalink: 2015/08/25/jia-tolentino-notes-on-twenty-first-century-mystic-carly-rae-jepsen
 ---
 
-[[2015]] • [[commonplace]] • [[Jia Tolentino]] • [[The Awl]]
+[[2015]] • [[Commonplace]] • [[Jia Tolentino]] • [[The Awl]]
 
 https://www.theawl.com/2015/08/notes-on-21st-century-mystic-carly-rae-jepsen/
 

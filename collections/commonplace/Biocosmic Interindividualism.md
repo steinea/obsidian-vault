@@ -9,7 +9,7 @@ date: 2023-09-30
 permalink: 2023/09/30/aleksandr-svyatogor-biocosmic-interindividualism
 ---
 
-[[2023]] • [[commonplace]] • [[Aleksandr Svyatogor]] • [[Cosmic Bulletin]]
+[[2023]] • [[Commonplace]] • [[Aleksandr Svyatogor]] • [[Cosmic Bulletin]]
 
 https://cosmos.art/cosmic-bulletin/2022/biocosmic-interindividualism
 

@@ -9,7 +9,7 @@ date: 2017-01-23
 permalink: 2017/01/23/carlo-rovelli-this-granular-life
 ---
 
-[[2017]] • [[commonplace]] • [[Carlo Rovelli]] • [[Aeon]] 
+[[2017]] • [[Commonplace]] • [[Carlo Rovelli]] • [[Aeon]] 
 
 https://aeon.co/essays/is-atomic-theory-the-most-important-idea-in-human-history
 

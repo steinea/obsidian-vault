@@ -9,7 +9,7 @@ date: 2014-08-27
 permalink: 2014/08/27/randall-munroe-one-planet-graves
 ---
 
-[[2014]] • [[commonplace]] • [[Randall Munroe]] • [[xkcd]]
+[[2014]] • [[Commonplace]] • [[Randall Munroe]] • [[xkcd]]
 
 https://xkcd.com/893/
 

@@ -9,7 +9,7 @@ date: 2016-03-10
 permalink: 2016/03/10/wallace-stevens-sunday-morning
 ---
 
-[[2016]] • [[commonplace]] • [[Wallace Stevens]] • [[Poetry Foundation]]
+[[2016]] • [[Commonplace]] • [[Wallace Stevens]] • [[Poetry Foundation]]
 
 https://www.poetryfoundation.org/poetrymagazine/poems/13261/sunday-morning
 

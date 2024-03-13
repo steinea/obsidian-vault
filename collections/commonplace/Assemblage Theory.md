@@ -9,7 +9,7 @@ date: 2017-06-01
 permalink: 2017/06/01/gilles-deleuze-felix-guattari-assemblage-theory
 ---
 
-[[2017]] • [[commonplace]] • [[Gilles Deleuze]] • [[Félix Guattari]] • [[Wikipedia]] 
+[[2017]] • [[Commonplace]] • [[Gilles Deleuze]] • [[Félix Guattari]] • [[Wikipedia]] 
 
 https://en.wikipedia.org/wiki/Assemblage_theory
 

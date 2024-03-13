@@ -9,7 +9,7 @@ date: 2014-05-23
 permalink: 2014/05/23/john-steinbeck-sad-soul
 ---
 
-[[2014]] • [[commonplace]] • [[John Steinbeck]] • [[Travels with Charley in Search of America]]
+[[2014]] • [[Commonplace]] • [[John Steinbeck]] • [[Travels with Charley in Search of America]]
 
 https://gutenberg.ca/ebooks/steinbeckj-travelswithcharley/steinbeckj-travelswithcharley-00-h.html
 

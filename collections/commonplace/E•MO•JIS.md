@@ -9,7 +9,7 @@ date: 2016-07-05
 permalink: 2016/07/05/lauren-michele-jackson-e-mo-jis
 ---
 
-[[2016]] • [[commonplace]] • [[Lauren Michele Jackson]] • [[Real Life]]
+[[2016]] • [[Commonplace]] • [[Lauren Michele Jackson]] • [[Real Life]]
 
 http://reallifemag.com/e-mo-jis/
 

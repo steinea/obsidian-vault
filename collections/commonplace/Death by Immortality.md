@@ -9,7 +9,7 @@ date: 2016-07-14
 permalink: 2016/07/14/keguro-macharia-death-by-immortality
 ---
 
-[[2016]] • [[commonplace]] • [[Keguro Macharia]] • [[The New Inquiry]]
+[[2016]] • [[Commonplace]] • [[Keguro Macharia]] • [[The New Inquiry]]
 
 http://thenewinquiry.com/essays/death-by-immortality/
 

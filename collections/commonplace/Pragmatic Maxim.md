@@ -9,7 +9,7 @@ date: 2016-01-27
 permalink: 2016/01/27/charles-sanders-peirce-pragmatic-maxim
 ---
 
-[[2016]] • [[commonplace]] • [[Charles Sanders Peirce]] • [[Wikipedia]]
+[[2016]] • [[Commonplace]] • [[Charles Sanders Peirce]] • [[Wikipedia]]
 
 https://en.wikipedia.org/wiki/Pragmatic_maxim
 

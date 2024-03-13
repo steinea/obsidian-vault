@@ -9,7 +9,7 @@ date: 2016-08-10
 permalink: 2016/08/10/david-cole-the-drone-presidency
 ---
 
-[[2016]] • [[commonplace]] • [[David Cole]] • [[New York Review of Books]]
+[[2016]] • [[Commonplace]] • [[David Cole]] • [[New York Review of Books]]
 
 http://www.nybooks.com/articles/2016/08/18/the-drone-presidency/
 

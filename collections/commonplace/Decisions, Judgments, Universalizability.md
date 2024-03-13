@@ -9,7 +9,7 @@ date: 2014-10-24
 permalink: 2014/10/24/john-atwell-decisions-judgments-universalizability
 ---
 
-[[2014]] • [[commonplace]] • [[John Atwell]] • [[Ethics]] • [[Billy Budd, Sailor]]
+[[2014]] • [[Commonplace]] • [[John Atwell]] • [[Ethics]] • [[Billy Budd, Sailor]]
 
 https://www.journals.uchicago.edu/doi/abs/10.1086/291623
 

@@ -9,7 +9,7 @@ date: 2014-11-10
 permalink: 2014/11/10/dave-eggers-the-alaska-of-giants-and-gods
 ---
 
-[[2014]] • [[commonplace]] • [[Dave Eggers]] • [[The New Yorker]]
+[[2014]] • [[Commonplace]] • [[Dave Eggers]] • [[The New Yorker]]
 
 https://www.newyorker.com/magazine/2014/11/17/alaska-giants-gods
 

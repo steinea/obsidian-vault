@@ -9,7 +9,7 @@ date: 2015-10-02
 permalink: 2015/10/02/roger-trigg-why-science-needs-metaphysics
 ---
 
-[[2015]] • [[commonplace]] • [[Roger Trigg]] • [[Nautilus]]
+[[2015]] • [[Commonplace]] • [[Roger Trigg]] • [[Nautilus]]
 
 https://nautil.us/issue/29/scaling/why-science-needs-metaphysics
 

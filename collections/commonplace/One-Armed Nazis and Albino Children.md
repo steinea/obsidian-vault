@@ -9,7 +9,7 @@ date: 2015-01-14
 permalink: 2015/01/14/dominic-green-one-armed-nazis-and-albino-children
 ---
 
-[[2015]] • [[commonplace]] • [[Dominic Green]] • [[The New Republic]]
+[[2015]] • [[Commonplace]] • [[Dominic Green]] • [[The New Republic]]
 
 https://newrepublic.com/article/120769/problem-anthony-doerrs-all-light-we-cannot-see
 

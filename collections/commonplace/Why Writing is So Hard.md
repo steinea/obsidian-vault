@@ -9,7 +9,7 @@ date: 2015-03-16
 permalink: 2015/03/16/matt-sumell-why-writing-is-so-hard
 ---
 
-[[2015]] • [[commonplace]] • [[Matt Sumell]] • [[Publishers Weekly]]
+[[2015]] • [[Commonplace]] • [[Matt Sumell]] • [[Publishers Weekly]]
 
 https://www.publishersweekly.com/pw/by-topic/industry-news/tip-sheet/article/65849-why-writing-is-so-hard.html
 

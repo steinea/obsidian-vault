@@ -9,7 +9,7 @@ date: 2014-08-29
 permalink: 2014/08/29/elie-wiesel-neutrality
 ---
 
-[[2014]] • [[commonplace]] • [[Elie Wiesel]] • [[Nobel Prize]]
+[[2014]] • [[Commonplace]] • [[Elie Wiesel]] • [[Nobel Prize]]
 
 https://www.nobelprize.org/prizes/peace/1986/wiesel/acceptance-speech/
 

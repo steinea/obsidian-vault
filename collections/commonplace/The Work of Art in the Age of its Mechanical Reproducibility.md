@@ -9,7 +9,7 @@ date: 2014-10-28
 permalink: 2014/10/28/walter-benjamin-the-work-of-art-in-the-age-of-its-mechanical-reproducibility
 ---
 
-[[2014]] • [[commonplace]] • [[Walter Benjamin]] • [[Critical Theory]]
+[[2014]] • [[Commonplace]] • [[Walter Benjamin]] • [[Critical Theory]]
 
 https://global.oup.com/ushe/product/critical-theory-9780199797776
 

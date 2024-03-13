@@ -9,7 +9,7 @@ date: 2016-02-10
 permalink: 2016/02/10/philip-ball-stop-calling-the-babylonians-scientists
 ---
 
-[[2016]] • [[commonplace]] • [[Philip Ball]] • [[The Atlantic]]
+[[2016]] • [[Commonplace]] • [[Philip Ball]] • [[The Atlantic]]
 
 http://www.theatlantic.com/science/archive/2016/02/babylonians-scientists/462150/
 

@@ -9,7 +9,7 @@ date: 2016-11-02
 permalink: 2016/11/02/anil-k-seth-the-real-problem
 ---
 
-[[2016]] • [[commonplace]] • [[Anil K. Seth]] • [[Aeon]]
+[[2016]] • [[Commonplace]] • [[Anil K. Seth]] • [[Aeon]]
 
 https://aeon.co/essays/the-hard-problem-of-consciousness-is-a-distraction-from-the-real-one
 

@@ -9,7 +9,7 @@ date: 2016-02-10
 permalink: 2016/02/10/john-hawks-human-evolution-is-a-muddy-delta
 ---
 
-[[2016]] • [[commonplace]] • [[John Hawks]] • [[Aeon]]
+[[2016]] • [[Commonplace]] • [[John Hawks]] • [[Aeon]]
 
 https://aeon.co/opinions/human-evolution-is-more-a-muddy-delta-than-a-branching-tree
 

@@ -9,7 +9,7 @@ date: 2015-03-24
 permalink: 2015/03/24/jeremiah-the-new-covenant
 ---
 
-[[2015]] • [[commonplace]] • [[Jeremiah]] • [[Bible]]
+[[2015]] • [[Commonplace]] • [[Jeremiah]] • [[Bible]]
 
 https://en.wikipedia.org/wiki/Jeremiah_31
 

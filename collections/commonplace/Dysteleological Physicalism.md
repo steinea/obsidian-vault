@@ -9,7 +9,7 @@ date: 2015-09-23
 permalink: 2015/09/23/sean-carroll-dysteleological-physicalism
 ---
 
-[[2015]] • [[commonplace]] • [[Sean Carroll]] • [[Preposterous Universe]]
+[[2015]] • [[Commonplace]] • [[Sean Carroll]] • [[Preposterous Universe]]
 
 http://www.preposterousuniverse.com/blog/2011/01/17/dysteleological-physicalism/
 

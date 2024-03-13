@@ -9,7 +9,7 @@ date: 2015-12-02
 permalink: 2015/12/02/ester-bloom-when-womens-literary-tastes-are-deemed-less-worthy
 ---
 
-[[2015]] • [[commonplace]] • [[Ester Bloom]] • [[The Atlantic]]
+[[2015]] • [[Commonplace]] • [[Ester Bloom]] • [[The Atlantic]]
 
 https://www.theatlantic.com/business/archive/2015/12/when-womens-literary-tastes-are-deemed-less-worthy/418050/
 

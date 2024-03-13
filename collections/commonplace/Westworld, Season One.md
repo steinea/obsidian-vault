@@ -9,7 +9,7 @@ date: 2016-10-07
 permalink: 2016/10/07/aaron-bady-westworld-season-one
 ---
 
-[[2016]] • [[commonplace]] • [[Aaron Bady]] • [[Los Angeles Review of Books]]
+[[2016]] • [[Commonplace]] • [[Aaron Bady]] • [[Los Angeles Review of Books]]
 
 https://lareviewofbooks.org/article/westworld-season-1/
 

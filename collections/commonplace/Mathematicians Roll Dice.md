@@ -9,7 +9,7 @@ date: 2023-03-20
 permalink: 2023/03/20/erica-klarreich-mathematicians-roll-dice
 ---
 
-[[2023]] • [[commonplace]] • [[Erica Klarreich]] • [[Quanta Magazine]]
+[[2023]] • [[Commonplace]] • [[Erica Klarreich]] • [[Quanta Magazine]]
 
 https://www.quantamagazine.org/mathematicians-roll-dice-and-get-rock-paper-scissors-20230119/
  

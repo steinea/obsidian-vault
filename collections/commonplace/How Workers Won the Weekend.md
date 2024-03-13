@@ -9,7 +9,7 @@ date: 2023-06-17
 permalink: 2023/06/17/taj-ali-how-workers-won-the-weekend
 ---
 
-[[2023]] • [[commonplace]] • [[Taj Ali]] • [[Tribune Magazine]]
+[[2023]] • [[Commonplace]] • [[Taj Ali]] • [[Tribune Magazine]]
 
 https://tribunemag.co.uk/2023/03/how-workers-won-the-weekend
  

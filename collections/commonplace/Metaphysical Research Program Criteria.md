@@ -9,7 +9,7 @@ date: 2016-11-06
 permalink: 2016/11/06/terence-blake-metaphysical-research-program-criteria
 ---
 
-[[2016]] • [[commonplace]] • [[Terence Blake]] • [[Agent Swarm]]
+[[2016]] • [[Commonplace]] • [[Terence Blake]] • [[Agent Swarm]]
 
 https://terenceblake.wordpress.com/2016/02/02/feyerabends-ontology-pluralist-diachronic-apophatic-empirical-and-democratic/
 

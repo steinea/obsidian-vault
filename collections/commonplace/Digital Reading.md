@@ -9,7 +9,7 @@ date: 2015-10-02
 permalink: 2015/10/02/craig-mod-digital-reading
 ---
 
-[[2015]] • [[commonplace]] • [[Craig Mod]] • [[Aeon]]
+[[2015]] • [[Commonplace]] • [[Craig Mod]] • [[Aeon]]
 
 https://aeon.co/magazine/technology/why-have-digital-books-stopped-evolving
 

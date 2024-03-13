@@ -9,7 +9,7 @@ date: 2022-12-16
 permalink: 2022/12/16/emily-short-storytelling-in-video-games
 ---
 
-[[2022]] • [[commonplace]] • [[Emily Short]] • [[Emily Short's Interactive Storytelling]]
+[[2022]] • [[Commonplace]] • [[Emily Short]] • [[Emily Short's Interactive Storytelling]]
 
 https://emshort.blog/2019/06/04/storytelling-in-video-games-the-art-of-the-digital-narrative-amy-m-green/
 

@@ -9,7 +9,7 @@ date: 2023-12-27
 permalink: 2023/12/27/jenny-wu-playthings-are-profound
 ---
 
-[[2023]] • [[commonplace]] • [[Jenny Wu]] • [[The Millions]]
+[[2023]] • [[Commonplace]] • [[Jenny Wu]] • [[The Millions]]
 
 https://themillions.com/2023/07/for-kate-zambreno-playthings-are-profound.html
 

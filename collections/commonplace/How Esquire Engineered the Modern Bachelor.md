@@ -9,7 +9,7 @@ date: 2015-07-14
 permalink: 2015/07/14/manisha-aggarwal-schifellite-how-esquire-engineered-the-modern-bachelor
 ---
 
-[[2015]] • [[commonplace]] • [[Manisha Aggarwal-Schifellite]] • [[The Awl]] 
+[[2015]] • [[Commonplace]] • [[Manisha Aggarwal-Schifellite]] • [[The Awl]] 
 
 https://www.theawl.com/2015/07/how-esquire-engineered-the-modern-bachelor/
 

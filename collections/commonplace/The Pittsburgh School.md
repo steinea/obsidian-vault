@@ -9,7 +9,7 @@ date: 2018-06-25
 permalink: 2018/06/25/simism66-the-pittsburgh-school
 ---
 
-[[2018]] • [[commonplace]] • [[simism66]] • [[Reddit]]
+[[2018]] • [[Commonplace]] • [[simism66]] • [[Reddit]]
 
 https://www.reddit.com/r/askphilosophy/comments/6ocw7q/the_pittsburgh_school/
  

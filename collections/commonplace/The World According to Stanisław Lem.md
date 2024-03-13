@@ -9,7 +9,7 @@ date: 2016-12-10
 permalink: 2016/12/10/ezra-glinter-the-world-according-to-stanislaw-lem
 ---
 
-[[2016]] • [[commonplace]] • [[Ezra Glinter]] • [[Los Angeles Review of Books]]
+[[2016]] • [[Commonplace]] • [[Ezra Glinter]] • [[Los Angeles Review of Books]]
 
 https://lareviewofbooks.org/article/world-according-stanislaw-lem/
 

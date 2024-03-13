@@ -9,7 +9,7 @@ date: 2015-07-07
 permalink: 2015/07/07/robert-alter-the-mute-dove
 ---
 
-[[2015]] • [[commonplace]] • [[Robert Alter]] • [[The Book of Psalms]] 
+[[2015]] • [[Commonplace]] • [[Robert Alter]] • [[The Book of Psalms]] 
 
 https://books.google.ca/books/about/The_Book_of_Psalms.html?id=wD1nhHvmTpMC&redir_esc=y
 

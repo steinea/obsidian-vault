@@ -9,7 +9,7 @@ date: 2014-12-29
 permalink: 2014/12/29/orson-scott-card-defender
 ---
 
-[[2014]] • [[commonplace]] • [[Orson Scott Card]] • [[Shadows in Flight]]
+[[2014]] • [[Commonplace]] • [[Orson Scott Card]] • [[Shadows in Flight]]
 
 https://en.wikipedia.org/wiki/Shadows_in_Flight
 

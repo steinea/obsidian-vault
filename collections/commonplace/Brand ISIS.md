@@ -9,7 +9,7 @@ date: 2015-02-16
 permalink: 2015/02/16/naheed-mustafa-brand-isis
 ---
 
-[[2015]] • [[commonplace]] • [[Naheed Mustafa]] • [[The Walrus]]
+[[2015]] • [[Commonplace]] • [[Naheed Mustafa]] • [[The Walrus]]
 
 https://thewalrus.ca/brand-isis/
 

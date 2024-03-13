@@ -9,7 +9,7 @@ date: 2015-09-16
 permalink: 2015/09/16/ralph-waldo-emerson-the-books-ive-read
 ---
 
-[[2015]] • [[commonplace]] • [[Ralph Waldo Emerson]] • [[Harvard Graduates Magazine]]
+[[2015]] • [[Commonplace]] • [[Ralph Waldo Emerson]] • [[Harvard Graduates Magazine]]
 
 https://quoteinvestigator.com/2016/06/20/books/
 

@@ -9,7 +9,7 @@ date: 2016-03-08
 permalink: 2016/03/08/ian-denning-the-deep-wound
 ---
 
-[[2016]] • [[commonplace]] • [[Ian Denning]] • [[Los Angeles Review of Books]]
+[[2016]] • [[Commonplace]] • [[Ian Denning]] • [[Los Angeles Review of Books]]
 
 https://lareviewofbooks.org/review/the-deep-wound/
 

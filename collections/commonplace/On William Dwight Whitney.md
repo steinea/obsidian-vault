@@ -9,7 +9,7 @@ date: 2016-01-01
 permalink: 2016/01/01/julia-s-falk-on-william-dwight-whitney
 ---
 
-[[2016]] • [[commonplace]] • [[Julia S. Falk]] • [[American National Biography]]
+[[2016]] • [[Commonplace]] • [[Julia S. Falk]] • [[American National Biography]]
 
 https://www.anb.org/view/10.1093/anb/9780198606697.001.0001/anb-9780198606697-e-1400696#anb-9780198606697-e-1400696
 

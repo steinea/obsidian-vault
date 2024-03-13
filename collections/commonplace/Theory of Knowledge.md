@@ -9,7 +9,7 @@ date: 2016-02-26
 permalink: 2016/02/26/bertrand-russell-theory-of-knowledge
 ---
 
-[[2016]] • [[commonplace]] • [[Bertrand Russell]] • [[Marxists]]
+[[2016]] • [[Commonplace]] • [[Bertrand Russell]] • [[Marxists]]
 
 https://www.marxists.org/reference/subject/philosophy/works/en/russell1.htm
 

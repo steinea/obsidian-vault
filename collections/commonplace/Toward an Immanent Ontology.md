@@ -9,7 +9,7 @@ date: 2015-09-11
 permalink: 2015/09/11/s-c-hickman-toward-an-immanent-ontology
 ---
 
-[[2015]] • [[commonplace]] • [[S. C. Hickman]] • [[Social Ecologies]]
+[[2015]] • [[Commonplace]] • [[S. C. Hickman]] • [[Social Ecologies]]
 
 https://socialecologies.wordpress.com/2012/10/09/nick-srnicek-toward-an-immanent-ontology/
 

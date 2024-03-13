@@ -9,7 +9,7 @@ date: 2015-06-16
 permalink: 2015/06/16/homi-k-bhabha-of-mimicry-and-man-2
 ---
 
-[[2015]] • [[commonplace]] • [[Homi K. Bhabha]] • [[Stanford]] 
+[[2015]] • [[Commonplace]] • [[Homi K. Bhabha]] • [[Stanford]] 
 
 https://web.archive.org/web/20001020052019/https://prelectur.stanford.edu/lecturers/bhabha/mimicry.html
 

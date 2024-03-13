@@ -9,7 +9,7 @@ date: 2015-12-15
 permalink: 2015/12/15/victoria-cox-morning-pages
 ---
 
-[[2015]] • [[commonplace]] • [[Victoria Cox]] • [[Elephant Journal]]
+[[2015]] • [[Commonplace]] • [[Victoria Cox]] • [[Elephant Journal]]
 
 https://www.elephantjournal.com/2015/12/why-morning-pages-could-be-your-most-powerful-morning-ritual/
 

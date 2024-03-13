@@ -9,7 +9,7 @@ date: 2017-03-30
 permalink: 2017/03/30/samuel-r-delany-science-fiction-and-jane-austen
 ---
 
-[[2017]] • [[commonplace]] • [[Samuel R. Delany]] • [[Starboard Wine]] 
+[[2017]] • [[Commonplace]] • [[Samuel R. Delany]] • [[Starboard Wine]] 
 
 https://muse.jhu.edu/book/15869
 

@@ -9,7 +9,7 @@ date: 2016-06-17
 permalink: 2016/06/17/susan-howe-the-art-of-poetry-no-97
 ---
 
-[[2016]] • [[commonplace]] • [[Susan Howe]] • [[The Paris Review]]
+[[2016]] • [[Commonplace]] • [[Susan Howe]] • [[The Paris Review]]
 
 https://www.theparisreview.org/interviews/6189/the-art-of-poetry-no-97-susan-howe
 

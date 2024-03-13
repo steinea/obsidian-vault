@@ -9,7 +9,7 @@ date: 2023-12-12
 permalink: 2023/12/12/kathryn-joyce-the-leftists-who-turn-right
 ---
 
-[[2023]] • [[commonplace]] • [[Kathryn Joyce]] • [[In These Times]]
+[[2023]] • [[Commonplace]] • [[Kathryn Joyce]] • [[In These Times]]
 
 https://inthesetimes.com/article/former-left-right-fascism-capitalism-horseshoe-theory
 

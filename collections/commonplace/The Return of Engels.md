@@ -9,7 +9,7 @@ date: 2016-11-28
 permalink: 2016/11/28/john-bellamy-foster-the-return-of-engels
 ---
 
-[[2016]] • [[commonplace]] • [[John Bellamy Foster]] • [[Jacobin]]
+[[2016]] • [[Commonplace]] • [[John Bellamy Foster]] • [[Jacobin]]
 
 https://www.jacobinmag.com/2016/11/engels-marx-ecology-climate-crisis-materialism/
 

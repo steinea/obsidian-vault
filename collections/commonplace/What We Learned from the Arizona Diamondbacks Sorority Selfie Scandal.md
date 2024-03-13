@@ -9,7 +9,7 @@ date: 2015-10-05
 permalink: 2015/10/05/amanda-hess-what-we-learned-from-the-arizona-diamondbacks-sorority-selfie-scandal
 ---
 
-[[2015]] • [[commonplace]] • [[Amanda Hess]] • [[Slate]]
+[[2015]] • [[Commonplace]] • [[Amanda Hess]] • [[Slate]]
 
 https://slate.com/human-interest/2015/10/arizona-state-sorority-girls-take-selfies-at-a-diamondbacks-game.html
 

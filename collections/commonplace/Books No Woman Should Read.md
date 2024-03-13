@@ -9,7 +9,7 @@ date: 2015-12-20
 permalink: 2015/12/20/rebecca-solnit-books-no-woman-should-read
 ---
 
-[[2015]] • [[commonplace]] • [[Rebecca Solnit]] • [[Literary Hub]]
+[[2015]] • [[Commonplace]] • [[Rebecca Solnit]] • [[Literary Hub]]
 
 https://lithub.com/80-books-no-woman-should-read/
 

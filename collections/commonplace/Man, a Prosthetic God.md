@@ -9,7 +9,7 @@ date: 2017-06-20
 permalink: 2017/06/20/maxine-chernoff-man-a-prosthetic-god
 ---
 
-[[2017]] • [[commonplace]] • [[Maxine Chernoff]] • [[Jacket Magazine]] 
+[[2017]] • [[Commonplace]] • [[Maxine Chernoff]] • [[Jacket Magazine]] 
 
 http://jacketmagazine.com/33/humpo-poems.shtml
 

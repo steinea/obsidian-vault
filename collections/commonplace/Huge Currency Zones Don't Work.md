@@ -9,7 +9,7 @@ date: 2016-01-06
 permalink: 2016/01/06/mark-griffith-huge-currency-zones-dont-work
 ---
 
-[[2016]] • [[commonplace]] • [[Mark Griffith]] • [[Aeon]]
+[[2016]] • [[Commonplace]] • [[Mark Griffith]] • [[Aeon]]
 
 https://aeon.co/opinions/huge-currency-zones-don-t-work-we-need-one-per-city
 

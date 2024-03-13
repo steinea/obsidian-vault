@@ -9,7 +9,7 @@ date: 2015-11-30
 permalink: 2015/11/30/owen-flanagan-troubles-with-three-ism
 ---
 
-[[2015]] • [[commonplace]] • [[Owen Flanagan]] • [[Los Angeles Review of Books]]
+[[2015]] • [[Commonplace]] • [[Owen Flanagan]] • [[Los Angeles Review of Books]]
 
 https://lareviewofbooks.org/article/troubles-with-three-ism-body-mind-and-soul/
 

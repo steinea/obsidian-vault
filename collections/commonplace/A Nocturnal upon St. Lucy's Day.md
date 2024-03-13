@@ -9,7 +9,7 @@ date: 2017-06-21
 permalink: 2017/06/21/john-donne-a-nocturnal-upon-st-lucys-day
 ---
 
-[[2017]] • [[commonplace]] • [[John Donne]] • [[Poetry Foundation]] 
+[[2017]] • [[Commonplace]] • [[John Donne]] • [[Poetry Foundation]] 
 
 https://www.poetryfoundation.org/poems/44122/a-nocturnal-upon-st-lucys-day
 

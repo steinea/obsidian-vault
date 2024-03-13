@@ -9,7 +9,7 @@ date: 2013-08-02
 permalink: 2013/08/02/alex-hutchinson-quantum-leap
 ---
 
-[[2013]] • [[commonplace]] • [[Alex Hutchinson]] • [[The Walrus]]
+[[2013]] • [[Commonplace]] • [[Alex Hutchinson]] • [[The Walrus]]
 
 https://thewalrus.ca/quantum-leap/
 

@@ -9,7 +9,7 @@ date: 2023-10-13
 permalink: 2023/10/13/ibrahim-yucel-rules-for-writing-rules
 ---
 
-[[2023]] • [[commonplace]] • [[Ibrahim Yucel]] • [[Analog Game Studies]]
+[[2023]] • [[Commonplace]] • [[Ibrahim Yucel]] • [[Analog Game Studies]]
 
 https://analoggamestudies.org/2014/10/the-rules-for-writing-rules-how-instructional-design-impacts-good-game-design/
 

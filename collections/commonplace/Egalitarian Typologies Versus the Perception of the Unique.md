@@ -9,7 +9,7 @@ date: 2015-07-24
 permalink: 2015/07/24/james-hillman-egalitarian-typologies-versus-the-perception-of-the-unique
 ---
 
-[[2015]] • [[commonplace]] • [[James Hillman]] • [[Compiler Press]] 
+[[2015]] • [[Commonplace]] • [[James Hillman]] • [[Compiler Press]] 
 
 http://www.compilerpress.ca/Competitiveness/Anno/Anno%20Hillman%20Egal%201.htm
 

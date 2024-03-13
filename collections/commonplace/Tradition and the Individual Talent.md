@@ -9,7 +9,7 @@ date: 2014-09-22
 permalink: 2014/09/22/t-s-eliot-tradition-and-the-individual-talent
 ---
 
-[[2014]] • [[commonplace]] • [[T. S. Eliot]] • [[The Norton Anthology of Theory and Criticism]]
+[[2014]] • [[Commonplace]] • [[T. S. Eliot]] • [[The Norton Anthology of Theory and Criticism]]
 
 https://www.worldcat.org/title/norton-anthology-of-theory-and-criticism/oclc/45023141
 

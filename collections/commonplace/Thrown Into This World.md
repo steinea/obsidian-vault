@@ -9,7 +9,7 @@ date: 2017-02-12
 permalink: 2017/02/12/simon-critchley-thrown-into-this-world
 ---
 
-[[2017]] • [[commonplace]] • [[Simon Critchley]] • [[The Guardian]] 
+[[2017]] • [[Commonplace]] • [[Simon Critchley]] • [[The Guardian]] 
 
 http://www.theguardian.com/commentisfree/belief/2009/jun/29/religion-philosophy
 

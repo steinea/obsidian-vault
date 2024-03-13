@@ -9,7 +9,7 @@ date: 2017-02-22
 permalink: 2017/02/22/jon-bialecki-ian-lowrie-anthropos-tomorrow
 ---
 
-[[2017]] • [[commonplace]] • [[Jon Bialecki]] • [[Ian Lowrie]] • [[Platypus]] 
+[[2017]] • [[Commonplace]] • [[Jon Bialecki]] • [[Ian Lowrie]] • [[Platypus]] 
 
 http://blog.castac.org/2017/02/anthropos-tomorrow-transhumanism-and-anthropology/
 

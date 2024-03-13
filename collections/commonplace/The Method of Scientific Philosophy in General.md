@@ -9,7 +9,7 @@ date: 2016-05-07
 permalink: 2016/05/07/martin-heidegger-the-method-of-scientific-philosophy-in-general
 ---
 
-[[2016]] • [[commonplace]] • [[Martin Heidegger]] • [[Marxists]]
+[[2016]] • [[Commonplace]] • [[Martin Heidegger]] • [[Marxists]]
 
 https://www.marxists.org/reference/subject/philosophy/works/ge/heidegge.htm
 

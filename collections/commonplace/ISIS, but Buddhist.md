@@ -9,7 +9,7 @@ date: 2016-02-02
 permalink: 2016/02/02/nick-danforth-isis-but-buddhist
 ---
 
-[[2016]] • [[commonplace]] • [[Nick Danforth]] • [[The Atlantic]]
+[[2016]] • [[Commonplace]] • [[Nick Danforth]] • [[The Atlantic]]
 
 http://www.theatlantic.com/international/archive/2016/02/ungern-sternberg-buddhist-isis/459327/
 

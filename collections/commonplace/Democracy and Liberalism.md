@@ -9,7 +9,7 @@ date: 2016-02-05
 permalink: 2016/02/05/josiah-ober-democracy-and-liberalism
 ---
 
-[[2016]] • [[commonplace]] • [[Josiah Ober]] • [[Aeon]]
+[[2016]] • [[Commonplace]] • [[Josiah Ober]] • [[Aeon]]
 
 https://aeon.co/essays/the-marriage-of-democracy-and-liberalism-is-not-inevitable
 

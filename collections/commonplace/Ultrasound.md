@@ -9,7 +9,7 @@ date: 2014-06-08
 permalink: 2014/06/08/steven-marche-ultrasound
 ---
 
-[[2014]] • [[commonplace]] • [[Steven Marche]] • [[The Walrus]]
+[[2014]] • [[Commonplace]] • [[Steven Marche]] • [[The Walrus]]
 
 https://thewalrus.ca/ultrasound/
 

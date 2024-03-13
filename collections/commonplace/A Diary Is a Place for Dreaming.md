@@ -9,7 +9,7 @@ date: 2023-01-01
 permalink: 2023/01/01/natalie-dunn-amina-cain-a-diary-is-a-place-for-dreaming
 ---
 
-[[2023]] • [[commonplace]] • [[Natalie Dunn]] • [[Amina Cain]] • [[Los Angeles Review of Books]]
+[[2023]] • [[Commonplace]] • [[Natalie Dunn]] • [[Amina Cain]] • [[Los Angeles Review of Books]]
 
 https://dev.lareviewofbooks.org/article/a-diary-is-a-place-for-dreaming-a-conversation-with-amina-cain/
  

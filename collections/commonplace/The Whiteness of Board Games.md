@@ -9,7 +9,7 @@ date: 2023-12-11
 permalink: 2023/12/11/tanya-pobuda-the-whiteness-of-board-games
 ---
 
-[[2023]] • [[commonplace]] • [[Tanya Pobuda]] • [[Medium]]
+[[2023]] • [[Commonplace]] • [[Tanya Pobuda]] • [[Medium]]
 
 https://medium.com/@tanyapobuda/the-unbearable-whiteness-of-board-games-1eb8d1f2688f
 

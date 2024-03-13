@@ -9,7 +9,7 @@ date: 2017-06-07
 permalink: 2017/06/07/terence-blake-laruelles-quantum
 ---
 
-[[2017]] • [[commonplace]] • [[Terence Blake]] • [[Agent Swarm]] 
+[[2017]] • [[Commonplace]] • [[Terence Blake]] • [[Agent Swarm]] 
 
 https://terenceblake.wordpress.com/2017/06/07/laruelles-quantum-nostalgic-obscurity-and-the-manipulation-of-stereotypes/
 

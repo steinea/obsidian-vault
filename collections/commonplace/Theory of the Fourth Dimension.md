@@ -9,7 +9,7 @@ date: 2023-10-07
 permalink: 2023/10/07/arseny-zhilyaev-rustem-begenov-theory-of-the-fourth-dimension
 ---
 
-[[2023]] • [[commonplace]] • [[Arseny Zhilyaev]] • [[Rustem Begenov]] • [[Cosmic Bulletin]]
+[[2023]] • [[Commonplace]] • [[Arseny Zhilyaev]] • [[Rustem Begenov]] • [[Cosmic Bulletin]]
 
 https://cosmos.art/cosmic-bulletin/2022/how-do-you-transfer-an-entire-country-to-the-fourth-dimension-this-is-a-task
 

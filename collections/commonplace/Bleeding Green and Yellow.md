@@ -9,7 +9,7 @@ date: 2023-09-30
 permalink: 2023/09/30/
 ---
 
-[[2023]] • [[commonplace]] • [[Clarissa Fragoso Pinheiro]] • [[Los Angeles Review of Books]]
+[[2023]] • [[Commonplace]] • [[Clarissa Fragoso Pinheiro]] • [[Los Angeles Review of Books]]
 
 https://lareviewofbooks.org/article/bleeding-green-and-yellow-on-football-in-brazil/
 

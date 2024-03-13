@@ -9,7 +9,7 @@ date: 2023-08-15
 permalink: 2023/08/15/thomas-nail-internalization-of-movement
 ---
 
-[[2023]] • [[commonplace]] • [[Thomas Nail]] • [[Twitter]]
+[[2023]] • [[Commonplace]] • [[Thomas Nail]] • [[Twitter]]
 
 https://twitter.com/xThomas_Nail/status/1691538205613649920
 

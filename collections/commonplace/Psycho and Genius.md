@@ -9,7 +9,7 @@ date: 2023-05-08
 permalink: 2023/05/08/roger-ebert-psych-and-genius
 ---
 
-[[2023]] • [[commonplace]] • [[Roger Ebert]] 
+[[2023]] • [[Commonplace]] • [[Roger Ebert]] 
 
 https://www.rogerebert.com/reviews/psycho-1998
  

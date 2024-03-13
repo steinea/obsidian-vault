@@ -9,7 +9,7 @@ date: 2015-07-10
 permalink: 2015/07/10/m-f-k-fisher-two-towns-in-provence
 ---
 
-[[2015]] • [[commonplace]] • [[M. F. K. Fisher]] • [[Two Towns in Provence]] 
+[[2015]] • [[Commonplace]] • [[M. F. K. Fisher]] • [[Two Towns in Provence]] 
 
 https://www.penguinrandomhouse.com/books/49916/two-towns-in-provence-by-mfk-fisher/
 

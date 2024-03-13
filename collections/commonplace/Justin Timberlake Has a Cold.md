@@ -9,7 +9,7 @@ date: 2014-08-03
 permalink: 2014/08/03/david-samuels-justin-timberlake-has-a-cold
 ---
 
-[[2014]] • [[commonplace]] • [[David Samuels]] • [[n+1]]
+[[2014]] • [[Commonplace]] • [[David Samuels]] • [[n+1]]
 
 https://www.nplusonemag.com/issue-20/essays/justin-timberlake-has-a-cold/
 

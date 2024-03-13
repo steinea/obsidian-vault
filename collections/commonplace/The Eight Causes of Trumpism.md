@@ -9,7 +9,7 @@ date: 2016-01-08
 permalink: 2016/01/08/norm-ornstein-the-eight-causes-of-trumpism
 ---
 
-[[2016]] • [[commonplace]] • [[Norm Ornstein]] • [[The Atlantic]]
+[[2016]] • [[Commonplace]] • [[Norm Ornstein]] • [[The Atlantic]]
 
 http://www.theatlantic.com/politics/archive/2016/01/the-eight-causes-of-trumpism/422427/
 

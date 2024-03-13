@@ -9,7 +9,7 @@ date: 2015-05-09
 permalink: 2015/05/09/elizabeth-svoboda-the-family-that-couldnt-say-hippopotamus
 ---
 
-[[2015]] • [[commonplace]] • [[Elizabeth Svoboda]] • [[Nautilus]] 
+[[2015]] • [[Commonplace]] • [[Elizabeth Svoboda]] • [[Nautilus]] 
 
 https://nautil.us/issue/24/error/the-family-that-couldnt-say-hippopotamus-rp
 

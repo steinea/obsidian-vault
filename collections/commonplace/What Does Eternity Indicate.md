@@ -9,7 +9,7 @@ date: 2016-09-29
 permalink: 2016/09/29/walt-whitman-what-does-eternity-indicate
 ---
 
-[[2016]] • [[commonplace]] • [[Walt Whitman]] • [[Poets]]
+[[2016]] • [[Commonplace]] • [[Walt Whitman]] • [[Poets]]
 
 https://poets.org/poem/song-myself-44
 

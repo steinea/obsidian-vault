@@ -9,7 +9,7 @@ date: 2015-07-18
 permalink: 2015/07/18/hilary-mantel-the-poor-and-the-lawyers
 ---
 
-[[2015]] • [[commonplace]] • [[Hilary Mantel]] • [[A Place of Greater Safety]] 
+[[2015]] • [[Commonplace]] • [[Hilary Mantel]] • [[A Place of Greater Safety]] 
 
 https://en.wikipedia.org/wiki/A_Place_of_Greater_Safety
 

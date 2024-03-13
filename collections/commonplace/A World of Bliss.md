@@ -9,7 +9,7 @@ date: 2016-09-01
 permalink: 2016/09/01/robert-walser-a-world-of-bliss
 ---
 
-[[2016]] • [[commonplace]] • [[Robert Walser]] • [[New York Review of Books]]
+[[2016]] • [[Commonplace]] • [[Robert Walser]] • [[New York Review of Books]]
 
 http://www.nybooks.com/daily/2016/09/01/a-world-of-bliss-girlfriends-ghosts-and-other-stories/
 

@@ -9,7 +9,7 @@ date: 2016-09-17
 permalink: 2016/09/17/dock-angus-ramsay-currie-brief-notes-on-ideological-complicity
 ---
 
-[[2016]] • [[commonplace]] • [[Dock Angus Ramsay Currie]] • [[Triple Ampersand]]
+[[2016]] • [[Commonplace]] • [[Dock Angus Ramsay Currie]] • [[Triple Ampersand]]
 
 http://tripleampersand.org/brief-notes-ideological-complicity/
 

@@ -9,7 +9,7 @@ date: 2015-03-29
 permalink: 2015/03/29/charles-leadbeater-where-does-identity-go-once-memory-goes
 ---
 
-[[2015]] • [[commonplace]] • [[Charles Leadbeater]] • [[Aeon]]
+[[2015]] • [[Commonplace]] • [[Charles Leadbeater]] • [[Aeon]]
 
 https://web.archive.org/web/20150403162917/http://aeon.co/magazine/psychology/where-does-identity-go-once-memory-falters-in-dementia/
 

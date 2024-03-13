@@ -9,7 +9,7 @@ date: 2017-07-01
 permalink: 2017/07/01/larry-hardesty-nonlinear-system
 ---
 
-[[2017]] • [[commonplace]] • [[Larry Hardesty]] • [[Wikipedia]] 
+[[2017]] • [[Commonplace]] • [[Larry Hardesty]] • [[Wikipedia]] 
 
 https://en.wikipedia.org/wiki/Nonlinear_system
 

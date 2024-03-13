@@ -9,7 +9,7 @@ date: 2015-11-24
 permalink: 2015/11/24/peter-beinart-donald-trumps-politics-of-fear
 ---
 
-[[2015]] • [[commonplace]] • [[Peter Beinart]] • [[The Atlantic]]
+[[2015]] • [[Commonplace]] • [[Peter Beinart]] • [[The Atlantic]]
 
 https://www.theatlantic.com/politics/archive/2015/11/donald-trumps-formula-for-success-in-foreign-policy/417456/
 

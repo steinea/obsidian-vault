@@ -9,7 +9,7 @@ date: 2015-10-18
 permalink: 2015/10/18/geoffrey-mccormack-the-status-quo-election
 ---
 
-[[2015]] • [[commonplace]] • [[Geoffrey McCormack]] • [[Jacobin]]
+[[2015]] • [[Commonplace]] • [[Geoffrey McCormack]] • [[Jacobin]]
 
 https://jacobin.com/2015/10/mulcair-harper-trudeau-canadian-election-prime-minister/
 

@@ -9,7 +9,7 @@ date: 2023-09-30
 permalink: 2023/09/30/anna-gorskaya-inter-inter-cosmism
 ---
 
-[[2023]] • [[commonplace]] • [[Anna Gorskaya]] • [[Cosmic Bulletin]]
+[[2023]] • [[Commonplace]] • [[Anna Gorskaya]] • [[Cosmic Bulletin]]
 
 https://cosmos.art/cosmic-bulletin/2022/editorial
 

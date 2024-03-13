@@ -9,7 +9,7 @@ date: 2016-02-01
 permalink: 2016/02/01/amy-x-wang-untranslatable-emotion
 ---
 
-[[2016]] • [[commonplace]] • [[Amy X. Wang]] • [[Quartz]]
+[[2016]] • [[Commonplace]] • [[Amy X. Wang]] • [[Quartz]]
 
 http://qz.com/605935/there-are-hundreds-of-positive-emotions-that-have-no-direct-english-translation/
 

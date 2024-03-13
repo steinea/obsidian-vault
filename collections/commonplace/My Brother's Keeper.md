@@ -9,7 +9,7 @@ date: 2016-03-07
 permalink: 2016/03/07/cory-booker-my-brothers-keeper
 ---
 
-[[2016]] • [[commonplace]] • [[Cory Booker]] • [[The Atlantic]]
+[[2016]] • [[Commonplace]] • [[Cory Booker]] • [[The Atlantic]]
 
 http://www.theatlantic.com/politics/archive/2016/03/my-brothers-keeper/471171/
 

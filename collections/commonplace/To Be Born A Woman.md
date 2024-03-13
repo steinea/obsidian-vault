@@ -9,7 +9,7 @@ date: 2014-12-29
 permalink: 2014/12/29/john-berger-to-be-born-a-woman
 ---
 
-[[2014]] • [[commonplace]] • [[John Berger]] • [[Ways of Seeing]]
+[[2014]] • [[Commonplace]] • [[John Berger]] • [[Ways of Seeing]]
 
 https://en.wikipedia.org/wiki/Ways_of_Seeing
 

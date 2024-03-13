@@ -9,7 +9,7 @@ date: 2016-10-29
 permalink: 2016/10/29/terence-blake-zizeks-critique-of-ontological-reason
 ---
 
-[[2016]] • [[commonplace]] • [[Terence Blake]] • [[Agent Swarm]]
+[[2016]] • [[Commonplace]] • [[Terence Blake]] • [[Agent Swarm]]
 
 https://terenceblake.wordpress.com/2016/10/27/reading-disparities-8-zizeks-critique-of-ontological-reason/
 

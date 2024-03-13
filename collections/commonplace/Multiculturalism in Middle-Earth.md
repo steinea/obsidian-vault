@@ -9,7 +9,7 @@ date: 2022-12-15
 permalink: 2022/12/15/kathryn-lavezzo-multiculturalism-in-middle-earth
 ---
 
-[[2022]] • [[commonplace]] • [[Kathryn Lavezzo]] • [[Los Angeles Review of Books]]
+[[2022]] • [[Commonplace]] • [[Kathryn Lavezzo]] • [[Los Angeles Review of Books]]
 
 https://dev.lareviewofbooks.org/article/multiculturalism-in-middle-earth-on-amazons-the-lord-of-the-rings-the-rings-of-power/
 

@@ -9,7 +9,7 @@ date: 2016-07-14
 permalink: 2016/07/14/aaron-bady-sarah-mesle-the-winds-of-winter
 ---
 
-[[2016]] • [[commonplace]] • [[Aaron Bady]] • [[Sarah Mesle]] • [[Los Angeles Review of Books]]
+[[2016]] • [[Commonplace]] • [[Aaron Bady]] • [[Sarah Mesle]] • [[Los Angeles Review of Books]]
 
 https://lareviewofbooks.org/article/game-thrones-season-6-winds-winter/
 

@@ -9,7 +9,7 @@ date: 2016-10-31
 permalink: 2016/10/31/david-farrier-deep-times-uncanny-future
 ---
 
-[[2016]] • [[commonplace]] • [[David Farrier]] • [[Aeon]]
+[[2016]] • [[Commonplace]] • [[David Farrier]] • [[Aeon]]
 
 https://aeon.co/ideas/deep-time-s-uncanny-future-is-full-of-ghostly-human-traces
 

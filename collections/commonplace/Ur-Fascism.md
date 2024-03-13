@@ -9,7 +9,7 @@ date: 2016-09-02
 permalink: 2016/09/02/umberto-eco-ur-fascism
 ---
 
-[[2016]] • [[commonplace]] • [[Umberto Eco]] • [[New York Review of Books]]
+[[2016]] • [[Commonplace]] • [[Umberto Eco]] • [[New York Review of Books]]
 
 http://www.nybooks.com/articles/1995/06/22/ur-fascism/
 

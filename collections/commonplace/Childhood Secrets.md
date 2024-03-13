@@ -9,7 +9,7 @@ date: 2016-01-27
 permalink: 2016/01/27/tiffany-jenkins-childhood-secrets
 ---
 
-[[2016]] • [[commonplace]] • [[Tiffany Jenkins]] • [[Aeon]]
+[[2016]] • [[Commonplace]] • [[Tiffany Jenkins]] • [[Aeon]]
 
 https://aeon.co/essays/we-ve-forgotten-how-to-give-children-the-space-to-have-secrets
 

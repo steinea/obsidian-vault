@@ -9,7 +9,7 @@ date: 2014-09-10
 permalink: 2014/09/10/dante-letter-to-can-grande
 ---
 
-[[2014]] • [[commonplace]] • [[Dante]] • [[Georgetown]]
+[[2014]] • [[Commonplace]] • [[Dante]] • [[Georgetown]]
 
 https://faculty.georgetown.edu/jod/cangrande.english.html
 

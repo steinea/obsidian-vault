@@ -9,7 +9,7 @@ date: 2023-09-30
 permalink: 2023/09/30/alla-mitrofanova-polemics-among-soviet-physicists
 ---
 
-[[2023]] • [[commonplace]] • [[Alla Mitrofanova]] • [[Cosmic Bulletin]]
+[[2023]] • [[Commonplace]] • [[Alla Mitrofanova]] • [[Cosmic Bulletin]]
 
 https://cosmos.art/cosmic-bulletin/2022/polemics-among-soviet-physicists-in-the-age-of-the-avant-garde-the-scientific-revolution-and-the-radical-politics-of-the-1920s
 

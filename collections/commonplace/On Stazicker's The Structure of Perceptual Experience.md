@@ -9,7 +9,7 @@ date: 2016-07-24
 permalink: 2016/07/24/christopher-mole-on-stazickers-the-structure-of-perceptual-experience
 ---
 
-[[2016]] • [[commonplace]] • [[Christopher Mole]] • [[Notre Dame Philosophical Reviews]]
+[[2016]] • [[Commonplace]] • [[Christopher Mole]] • [[Notre Dame Philosophical Reviews]]
 
 https://ndpr.nd.edu/news/66488-the-structure-of-perceptual-experience/
 

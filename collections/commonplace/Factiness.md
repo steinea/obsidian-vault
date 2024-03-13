@@ -9,7 +9,7 @@ date: 2017-01-18
 permalink: 2017/01/18/nathan-jurgenson-factiness
 ---
 
-[[2017]] • [[commonplace]] • [[Nathan Jurgenson]] 
+[[2017]] • [[Commonplace]] • [[Nathan Jurgenson]] 
 
 http://nathanjurgenson.com/post/152938927255/factiness
 

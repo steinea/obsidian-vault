@@ -9,7 +9,7 @@ date: 2016-10-08
 permalink: 2016/10/08/ross-perlin-language-of-hope
 ---
 
-[[2016]] • [[commonplace]] • [[Ross Perlin]] • [[Los Angeles Review of Books]]
+[[2016]] • [[Commonplace]] • [[Ross Perlin]] • [[Los Angeles Review of Books]]
 
 https://lareviewofbooks.org/article/esperanto-language-of-hope-esther-schors-bridge-of-words/
 

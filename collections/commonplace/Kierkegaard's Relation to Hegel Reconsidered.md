@@ -9,7 +9,7 @@ date: 2016-08-25
 permalink: 2016/08/25/matthew-edgar-kierkegaards-relation-to-hegel-reconsidered
 ---
 
-[[2016]] • [[commonplace]] • [[Matthew Edgar]] • [[Notre Dame Philosophical Reviews]]
+[[2016]] • [[Commonplace]] • [[Matthew Edgar]] • [[Notre Dame Philosophical Reviews]]
 
 https://ndpr.nd.edu/reviews/kierkegaard-s-relation-to-hegel-reconsidered/
 

@@ -9,7 +9,7 @@ date: 2014-03-25
 permalink: 2014/03/25/john-macfarlane-sophistication-vs-intelligence
 ---
 
-[[2014]] • [[commonplace]] • [[John Macfarlane]] • [[The Walrus]]
+[[2014]] • [[Commonplace]] • [[John Macfarlane]] • [[The Walrus]]
 
 https://thewalrus.ca/editors-note-11-3/
 

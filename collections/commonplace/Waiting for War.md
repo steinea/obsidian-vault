@@ -9,7 +9,7 @@ date: 2014-05-07
 permalink: 2014/05/07/keith-gessen-waiting-for-war
 ---
 
-[[2014]] • [[commonplace]] • [[Keith Gissen]] • [[The New Yorker]]
+[[2014]] • [[Commonplace]] • [[Keith Gissen]] • [[The New Yorker]]
 
 http://www.newyorker.com/magazine/2014/05/12/waiting-for-war-2
 

@@ -9,7 +9,7 @@ date: 2016-07-19
 permalink: 2016/07/19/sean-carroll-space-emerging-from-quantum-mechanics
 ---
 
-[[2016]] • [[commonplace]] • [[Sean Carroll]] • [[Preposterous Universe]]
+[[2016]] • [[Commonplace]] • [[Sean Carroll]] • [[Preposterous Universe]]
 
 http://www.preposterousuniverse.com/blog/2016/07/18/space-emerging-from-quantum-mechanics/
 

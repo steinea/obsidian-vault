@@ -9,7 +9,7 @@ date: 2013-07-02
 permalink: 2013/07/02/robert-sheckley-pilgrimage-to-earth
 ---
 
-[[2013]] • [[commonplace]] • [[Robert Sheckley]] • [[Store of the Worlds]]
+[[2013]] • [[Commonplace]] • [[Robert Sheckley]] • [[Store of the Worlds]]
 
 https://www.nyrb.com/products/store-of-the-worlds?variant=1094931409
 

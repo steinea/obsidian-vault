@@ -9,7 +9,7 @@ date: 2014-08-31
 permalink: 2014/08/31/nic-pizzolatto-light-and-dark
 ---
 
-[[2014]] • [[commonplace]] • [[Nic Pizzolatto]] • [[True Detective]]
+[[2014]] • [[Commonplace]] • [[Nic Pizzolatto]] • [[True Detective]]
 
 https://www.imdb.com/title/tt2790254/
 

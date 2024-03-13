@@ -9,7 +9,7 @@ date: 2015-01-03
 permalink: 2015/01/03/orson-scott-card-sea-and-circus
 ---
 
-[[2015]] • [[commonplace]] • [[Orson Scott Card]] • [[Ender in Exile]]
+[[2015]] • [[Commonplace]] • [[Orson Scott Card]] • [[Ender in Exile]]
 
 https://en.wikipedia.org/wiki/Ender_in_Exile
 

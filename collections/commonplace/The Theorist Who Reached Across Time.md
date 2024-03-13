@@ -9,7 +9,7 @@ date: 2015-10-26
 permalink: 2015/10/26/corey-robin-the-theorist-who-reached-across-time
 ---
 
-[[2015]] • [[commonplace]] • [[Corey Robin]] • [[Jacobin]]
+[[2015]] • [[Commonplace]] • [[Corey Robin]] • [[Jacobin]]
 
 https://jacobin.com/2015/10/wolin-politics-and-vision-berkeley-machiavelli-democracy/
 

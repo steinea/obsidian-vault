@@ -9,7 +9,7 @@ date: 2015-02-19
 permalink: 2015/02/19/george-musser-the-quantum-mechanics-of-fate
 ---
 
-[[2015]] • [[commonplace]] • [[George Musser]] • [[Nautilus]]
+[[2015]] • [[Commonplace]] • [[George Musser]] • [[Nautilus]]
 
 https://nautil.us/issue/21/information/the-quantum-mechanics-of-fate-rp
 

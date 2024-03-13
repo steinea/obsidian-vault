@@ -9,7 +9,7 @@ date: 2023-10-09
 permalink: 2023/10/09/frank-falisi-trick-of-the-light
 ---
 
-[[2023]] • [[commonplace]] • [[Frank Falisi]] • [[Los Angeles Review of Books]]
+[[2023]] • [[Commonplace]] • [[Frank Falisi]] • [[Los Angeles Review of Books]]
 
 https://lareviewofbooks.org/article/trick-of-the-light-on-martin-mcdonaghs-the-banshees-of-inisherin/
 

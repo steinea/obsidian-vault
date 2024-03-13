@@ -9,7 +9,7 @@ date: 2016-05-02
 permalink: 2016/05/02/emma-green-how-male-theologians-ruined-parenting
 ---
 
-[[2016]] • [[commonplace]] • [[Emma Green]] • [[The Atlantic]]
+[[2016]] • [[Commonplace]] • [[Emma Green]] • [[The Atlantic]]
 
 http://www.theatlantic.com/politics/archive/2016/05/parenting-theology/480477/
 

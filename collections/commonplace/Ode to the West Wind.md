@@ -9,7 +9,7 @@ date: 2015-10-18
 permalink: 2015/10/18/percy-bysshe-shelley-ode-to-the-west-wind
 ---
 
-[[2015]] • [[commonplace]] • [[Percy Bysshe Shelley]] • [[Poetry Foundation]]
+[[2015]] • [[Commonplace]] • [[Percy Bysshe Shelley]] • [[Poetry Foundation]]
 
 https://www.poetryfoundation.org/poems/45134/ode-to-the-west-wind
 

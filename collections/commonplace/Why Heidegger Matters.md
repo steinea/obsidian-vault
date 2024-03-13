@@ -9,7 +9,7 @@ date: 2017-02-09
 permalink: 2017/02/09/simon-critchley-why-heidegger-matters
 ---
 
-[[2017]] • [[commonplace]] • [[Simon Critchley]] • [[The Guardian]] 
+[[2017]] • [[Commonplace]] • [[Simon Critchley]] • [[The Guardian]] 
 
 http://www.theguardian.com/commentisfree/belief/2009/jun/05/heidegger-philosophy
 

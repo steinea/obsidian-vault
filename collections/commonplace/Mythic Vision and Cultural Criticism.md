@@ -9,7 +9,7 @@ date: 2017-07-28
 permalink: 2017/07/28/terence-blake-mythic-vision-and-cultural-criticism
 ---
 
-[[2017]] • [[commonplace]] • [[Terence Blake]] • [[Agent Swarm]] 
+[[2017]] • [[Commonplace]] • [[Terence Blake]] • [[Agent Swarm]] 
 
 https://terenceblake.wordpress.com/2017/07/28/john-david-ebert-mythic-vision-and-cultural-criticism/
 

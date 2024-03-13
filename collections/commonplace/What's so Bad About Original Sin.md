@@ -9,7 +9,7 @@ date: 2016-05-07
 permalink: 2016/05/07/charles-halton-whats-so-bad-about-original-sin
 ---
 
-[[2016]] • [[commonplace]] • [[Charles Halton]] • [[Los Angeles Review of Books]]
+[[2016]] • [[Commonplace]] • [[Charles Halton]] • [[Los Angeles Review of Books]]
 
 https://lareviewofbooks.org/review/whats-so-bad-about-original-sin/
 

@@ -9,7 +9,7 @@ date: 2015-11-10
 permalink: 2015/11/10/rob-horning-the-problem-with-obfuscation
 ---
 
-[[2015]] • [[commonplace]] • [[Rob Horning]] • [[Los Angeles Review of Books]]
+[[2015]] • [[Commonplace]] • [[Rob Horning]] • [[Los Angeles Review of Books]]
 
 https://lareviewofbooks.org/article/hide-and-seek-the-problem-with-obfuscation/
 

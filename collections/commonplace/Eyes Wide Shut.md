@@ -9,7 +9,7 @@ date: 2015-04-17
 permalink: 2015/04/17/sarah-mesle-eyes-wide-shut
 ---
 
-[[2015]] • [[commonplace]] • [[Sarah Mesle]] • [[Los Angeles Review of Books]]
+[[2015]] • [[Commonplace]] • [[Sarah Mesle]] • [[Los Angeles Review of Books]]
 
 https://lareviewofbooks.org/article/game-thrones-season-5-wars-come/
 

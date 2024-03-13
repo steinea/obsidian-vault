@@ -9,7 +9,7 @@ date: 2015-09-28
 permalink: 2015/09/28/jerusha-joy-emerson-postcards-from-the-threshold
 ---
 
-[[2015]] • [[commonplace]] • [[Jerusha Joy Emerson]] • [[Los Angeles Review of Books]]
+[[2015]] • [[Commonplace]] • [[Jerusha Joy Emerson]] • [[Los Angeles Review of Books]]
 
 https://lareviewofbooks.org/article/postcards-from-the-threshold/
 

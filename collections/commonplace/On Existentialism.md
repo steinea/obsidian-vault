@@ -9,7 +9,7 @@ date: 2016-01-31
 permalink: 2016/01/31/gyorgy-lukacs-on-existentialism
 ---
 
-[[2016]] • [[commonplace]] • [[Gyorgy Lukács]] • [[Marxists]]
+[[2016]] • [[Commonplace]] • [[Gyorgy Lukács]] • [[Marxists]]
 
 https://www.marxists.org/archive/lukacs/works/1949/existentialism.htm
 

@@ -9,7 +9,7 @@ date: 2023-06-11
 permalink: 2023/06/11/michael-ledger-lomas-the-cathedrals-of-cascadia
 ---
 
-[[2023]] • [[commonplace]] • [[Michael Ledger-Lomas]] • [[Literary Review of Canada]]
+[[2023]] • [[Commonplace]] • [[Michael Ledger-Lomas]] • [[Literary Review of Canada]]
 
 https://reviewcanada.ca/magazine/2023/03/the-cathedrals-of-cascadia/
  

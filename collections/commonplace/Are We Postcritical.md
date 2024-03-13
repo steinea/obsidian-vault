@@ -9,7 +9,7 @@ date: 2016-01-02
 permalink: 2016/02/02/matthew-mullins-are-we-postcritical
 ---
 
-[[2016]] • [[commonplace]] • [[Matthew Mullins]] • [[Los Angeles Review of Books]]
+[[2016]] • [[Commonplace]] • [[Matthew Mullins]] • [[Los Angeles Review of Books]]
 
 https://lareviewofbooks.org/review/are-we-postcritical/
 

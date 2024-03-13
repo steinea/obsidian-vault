@@ -9,7 +9,7 @@ date: 2015-02-20
 permalink: 2015/02/20/hubert-aquin-this-disorganized-siege
 ---
 
-[[2015]] • [[commonplace]] • [[Hubert Aquin]] • [[Next Episode]]
+[[2015]] • [[Commonplace]] • [[Hubert Aquin]] • [[Next Episode]]
 
 https://en.wikipedia.org/wiki/Next_Episode
 

@@ -9,7 +9,7 @@ date: 2015-05-08
 permalink: 2015/05/08/stan-persky-self-with-or-without-selfies
 ---
 
-[[2015]] • [[commonplace]] • [[Stan Persky]] • [[Los Angeles Review of Books]]
+[[2015]] • [[Commonplace]] • [[Stan Persky]] • [[Los Angeles Review of Books]]
 
 https://lareviewofbooks.org/article/self-with-or-without-selfies/
 

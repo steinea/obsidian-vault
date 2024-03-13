@@ -9,7 +9,7 @@ date: 2016-12-05
 permalink: 2016/12/05/jacob-levy-beyond-bullshit
 ---
 
-[[2016]] • [[commonplace]] • [[Jacob Levy]] • [[Daily Nous]]
+[[2016]] • [[Commonplace]] • [[Jacob Levy]] • [[Daily Nous]]
 
 http://dailynous.com/2016/12/05/beyond-bullshit/
 

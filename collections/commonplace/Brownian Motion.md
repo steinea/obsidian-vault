@@ -9,7 +9,7 @@ date: 2016-11-01
 permalink: 2016/11/01/robert-brown-brownian-motion
 ---
 
-[[2016]] • [[commonplace]] • [[Robert Brown]] • [[Wikipedia]]
+[[2016]] • [[Commonplace]] • [[Robert Brown]] • [[Wikipedia]]
 
 https://en.wikipedia.org/wiki/Brownian_motion
 

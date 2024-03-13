@@ -9,7 +9,7 @@ date: 2015-01-31
 permalink: 2015/01/31/william-james-a-series-of-layers
 ---
 
-[[2015]] • [[commonplace]] • [[William James]] • [[The Varieties of Religious Experience]] 
+[[2015]] • [[Commonplace]] • [[William James]] • [[The Varieties of Religious Experience]] 
 
 https://global.oup.com/academic/product/the-varieties-of-religious-experience-9780199691647
 

@@ -9,7 +9,7 @@ date: 2017-02-26
 permalink: 2017/02/26/daniel-oberhaus-wtf-is-a-time-crystal
 ---
 
-[[2017]] • [[commonplace]] • [[Daniel Oberhaus]] • [[Motherboard]] 
+[[2017]] • [[Commonplace]] • [[Daniel Oberhaus]] • [[Motherboard]] 
 
 https://motherboard.vice.com/en_us/article/ok-wtf-is-a-time-crystal
 

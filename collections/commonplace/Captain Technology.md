@@ -9,7 +9,7 @@ date: 2022-12-17
 permalink: 2022/12/17/jordan-hoffman-captain-technology
 ---
 
-[[2022]] • [[commonplace]] • [[Jordan Hoffman]] • [[Polygon]]
+[[2022]] • [[Commonplace]] • [[Jordan Hoffman]] • [[Polygon]]
 
 https://www.polygon.com/reviews/23506051/avatar-2-way-water-review-james-cameron
 

@@ -9,7 +9,7 @@ date: 2018-06-03
 permalink: 2018/06/03/david-sims-spencer-kornhaber-sophie-gilbert
 ---
 
-[[2018]] • [[commonplace]] • [[David Sims]] • [[Spencer Kornhaber]] • [[Sophie Gilbert]] [[The Atlantic]]
+[[2018]] • [[Commonplace]] • [[David Sims]] • [[Spencer Kornhaber]] • [[Sophie Gilbert]] [[The Atlantic]]
 
 https://www.theatlantic.com/entertainment/archive/2018/06/westworld-season-2-episode-7-les-ecorches-roundtale/561809/
  

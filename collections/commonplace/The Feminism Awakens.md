@@ -9,7 +9,7 @@ date: 2015-12-19
 permalink: 2015/12/19/megan-garber-the-feminism-awakens
 ---
 
-[[2015]] • [[commonplace]] • [[Megan Garber]] • [[The Atlantic]]
+[[2015]] • [[Commonplace]] • [[Megan Garber]] • [[The Atlantic]]
 
 https://www.theatlantic.com/entertainment/archive/2015/12/star-wars-the-feminism-awakens/420843/
 

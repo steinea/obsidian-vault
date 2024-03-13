@@ -9,7 +9,7 @@ date: 2014-09-28
 permalink: 2014/09/28/franco-moretti-distant-reading
 ---
 
-[[2014]] • [[commonplace]] • [[Franco Moretti]] • [[New Left Review]]
+[[2014]] • [[Commonplace]] • [[Franco Moretti]] • [[New Left Review]]
 
 https://newleftreview.org/issues/ii1/articles/franco-moretti-conjectures-on-world-literature
 

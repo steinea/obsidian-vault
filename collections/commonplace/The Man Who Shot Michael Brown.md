@@ -9,7 +9,7 @@ date: 2015-08-19
 permalink: 2015/08/19/jake-halpern-the-man-who-shot-michael-brown
 ---
 
-[[2015]] • [[commonplace]] • [[Jake Halpern]] • [[The New Yorker]]
+[[2015]] • [[Commonplace]] • [[Jake Halpern]] • [[The New Yorker]]
 
 https://www.newyorker.com/magazine/2015/08/10/the-cop
 

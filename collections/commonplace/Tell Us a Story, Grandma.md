@@ -9,7 +9,7 @@ date: 2015-01-26
 permalink: 2015/01/26/natalie-wise-tell-us-a-story-grandma
 ---
 
-[[2015]] •[[commonplace]] • [[Natalie Wise]] • [[The New Yorker]]
+[[2015]] •[[Commonplace]] • [[Natalie Wise]] • [[The New Yorker]]
 
 https://www.newyorker.com/magazine/2015/02/02/tell-us-story-grandma
 

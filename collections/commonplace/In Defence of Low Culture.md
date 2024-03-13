@@ -9,7 +9,7 @@ date: 2015-03-14
 permalink: 2015/03/14/elaine-lui-in-defense-of-low-culture
 ---
 
-[[2015]] • [[commonplace]] • [[Elaine Lui]] • [[The Walrus]]
+[[2015]] • [[Commonplace]] • [[Elaine Lui]] • [[The Walrus]]
 
 https://thewalrus.ca/in-defence-of-low-culture/
 

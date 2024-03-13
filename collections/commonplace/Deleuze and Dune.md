@@ -9,7 +9,7 @@ date: 2023-12-26
 permalink: 2023/12/26/terence-blake-deleuze-and-dune
 ---
 
-[[2023]] • [[commonplace]] • [[Terence Blake]] • [[Agent Swarm]]
+[[2023]] • [[Commonplace]] • [[Terence Blake]] • [[Agent Swarm]]
 
 https://terenceblake.wordpress.com/2023/07/08/deleuze-and-dune-in-praise-of-divergence/
 

@@ -9,7 +9,7 @@ date: 2016-07-04
 permalink: 2016/07/04/tony-tulathimutte-clash-rules-everything-around-me
 ---
 
-[[2016]] • [[commonplace]] • [[Tony Tulathimutte]] • [[Real Life]]
+[[2016]] • [[Commonplace]] • [[Tony Tulathimutte]] • [[Real Life]]
 
 http://reallifemag.com/clash-rules-everything-around-me/
 

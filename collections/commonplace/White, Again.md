@@ -9,7 +9,7 @@ date: 2016-01-14
 permalink: 2016/01/14/christopher-orr-white-again
 ---
 
-[[2016]] • [[commonplace]] • [[Christopher Orr]] • [[The Atlantic]]
+[[2016]] • [[Commonplace]] • [[Christopher Orr]] • [[The Atlantic]]
 
 http://www.theatlantic.com/entertainment/archive/2016/01/2016-oscar-nominations-white-again/424143/
 

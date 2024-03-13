@@ -9,7 +9,7 @@ date: 2022-12-09
 permalink: 2022/12/09/jean-hyppolite-remolding-the-sensible-in-order-to-signify-it
 ---
 
-[[2022]] • [[commonplace]] • [[Jean Hyppolite]] • [[Logic and Existence]]
+[[2022]] • [[Commonplace]] • [[Jean Hyppolite]] • [[Logic and Existence]]
 
 https://sunypress.edu/Books/L/Logic-and-Existence2
 

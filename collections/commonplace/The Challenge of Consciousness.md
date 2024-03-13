@@ -9,7 +9,7 @@ date: 2016-11-21
 permalink: 2016/11/21/riccardo-manzotti-tim-parks-the-challenge-of-consciousness
 ---
 
-[[2016]] • [[commonplace]] • [[Riccardo Manzotti]] • [[Tim Parks]] • [[New York Review of Books]]
+[[2016]] • [[Commonplace]] • [[Riccardo Manzotti]] • [[Tim Parks]] • [[New York Review of Books]]
 
 http://www.nybooks.com/daily/2016/11/21/challenge-of-defining-consciousness/
 

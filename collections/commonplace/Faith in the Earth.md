@@ -9,7 +9,7 @@ date: 2017-11-23
 permalink: 2017/11/23/david-albert-rathbone-faith-in-the-earth
 ---
 
-[[2017]] • [[commonplace]] • [[David Albert Rathbone]] • [[Wikipedia]] 
+[[2017]] • [[Commonplace]] • [[David Albert Rathbone]] • [[Wikipedia]] 
 
 https://en.wikipedia.org/wiki/Faith_in_the_Earth
 

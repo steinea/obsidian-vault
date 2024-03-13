@@ -9,7 +9,7 @@ date: 2023-01-23
 permalink: 2023/01/23/michael-greenberg-the-daggers-of-jorge-luis-borges
 ---
 
-[[2023]] • [[commonplace]] • [[Michael Greenberg]] • [[New York Review of Books]]
+[[2023]] • [[Commonplace]] • [[Michael Greenberg]] • [[New York Review of Books]]
 
 https://www.nybooks.com/articles/2014/01/09/daggers-jorge-luis-borges/
  

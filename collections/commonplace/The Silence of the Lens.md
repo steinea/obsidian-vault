@@ -9,7 +9,7 @@ date: 2016-07-24
 permalink: 2016/07/24/david-claerbout-the-silence-of-the-lens
 ---
 
-[[2016]] • [[commonplace]] • [[David Claerbout]] •[[e-flux]]
+[[2016]] • [[Commonplace]] • [[David Claerbout]] •[[e-flux]]
 
 http://www.e-flux.com/journal/the-silence-of-the-lens/
 

@@ -9,7 +9,7 @@ date: 2023-06-03
 permalink: 2023/06/03/greg-buchanan-breaking-into-scriptwriting-for-games
 ---
 
-[[2023]] • [[commonplace]] • [[Greg Buchanan]]
+[[2023]] • [[Commonplace]] • [[Greg Buchanan]]
 
 https://www.gregbuchanan.co.uk/breaking-in/games
  

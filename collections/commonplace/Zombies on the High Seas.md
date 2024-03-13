@@ -9,7 +9,7 @@ date: 2016-04-11
 permalink: 2016/04/11/david-sims-zombies-on-the-high-seas
 ---
 
-[[2016]] • [[commonplace]] • [[David Sims]] • [[The Atlantic]]
+[[2016]] • [[Commonplace]] • [[David Sims]] • [[The Atlantic]]
 
 http://www.theatlantic.com/entertainment/archive/2016/04/fear-the-walking-dead-season-two-review/477672/
 

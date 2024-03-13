@@ -9,7 +9,7 @@ date: 2023-10-07
 permalink: 2023/10/07/anton-vidokle-pelin-tan-she-who-saw-the-deep
 ---
 
-[[2023]] • [[commonplace]] • [[Anton Vidokle]] • [[Pelin Tan]]
+[[2023]] • [[Commonplace]] • [[Anton Vidokle]] • [[Pelin Tan]]
 
 https://cosmos.art/cosmic-bulletin/2022/gilgamesh-she-who-saw-the-deep
 

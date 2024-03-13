@@ -9,7 +9,7 @@ date: 2017-09-14
 permalink: 2017/09/14/linda-besner-dinner-theater
 ---
 
-[[2017]] • [[commonplace]] • [[Linda Besner]] • [[Real Life]] 
+[[2017]] • [[Commonplace]] • [[Linda Besner]] • [[Real Life]] 
 
 http://reallifemag.com/dinner-theater/
 

@@ -9,7 +9,7 @@ date: 2023-03-12
 permalink: 2023/03/12/justin-alexander-jaquaying-the-dungeon-8
 ---
 
-[[2023]] • [[commonplace]] • [[Justin Alexander]] • [[The Alexandrian]]
+[[2023]] • [[Commonplace]] • [[Justin Alexander]] • [[The Alexandrian]]
 
 https://thealexandrian.net/wordpress/45711/roleplaying-games/jaquaying-the-dungeon-addendum-how-to-use-a-melan-diagram
 

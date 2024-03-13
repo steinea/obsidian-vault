@@ -9,7 +9,7 @@ date: 2022-07-27
 permalink: 2022/07/27/zens-bad-assumptions
 ---
 
-[[2022]] • [[commonplace]] • [[Zens]] • [[Merveilles]]
+[[2022]] • [[Commonplace]] • [[Zens]] • [[Merveilles]]
 
 https://merveilles.town/@zens/108722880810316196
 

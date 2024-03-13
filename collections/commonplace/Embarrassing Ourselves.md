@@ -9,7 +9,7 @@ date: 2016-07-18
 permalink: 2016/07/18/geoffrey-bennington-embarassing-ourselves
 ---
 
-[[2016]] • [[commonplace]] • [[Geoffrey Bennington]] • [[Los Angeles Review of Books]]
+[[2016]] • [[Commonplace]] • [[Geoffrey Bennington]] • [[Los Angeles Review of Books]]
 
 https://lareviewofbooks.org/review/embarrassing-ourselves/
 

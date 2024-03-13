@@ -9,7 +9,7 @@ date: 2016-04-08
 permalink: 2016/04/08/joseph-weissman-malabou-and-plasticity
 ---
 
-[[2016]] • [[commonplace]] • [[Joseph Weissman]] • [[Fractal Ontology]]
+[[2016]] • [[Commonplace]] • [[Joseph Weissman]] • [[Fractal Ontology]]
 
 https://fractalontology.wordpress.com/2016/04/08/malabou/
 

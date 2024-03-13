@@ -9,7 +9,7 @@ date: 2016-06-23
 permalink: 2016/06/23/ed-yong-climate-change-unleashed-humans
 ---
 
-[[2016]] • [[commonplace]] • [[Ed Yong]] • [[The Atlantic]]
+[[2016]] • [[Commonplace]] • [[Ed Yong]] • [[The Atlantic]]
 
 https://www.theatlantic.com/science/archive/2016/06/how-climate-change-unleashed-humans-upon-south-americas-megabeasts/487502/
 

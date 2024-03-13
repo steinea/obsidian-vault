@@ -9,7 +9,7 @@ date: 2015-02-10
 permalink: 2015/02/10/shakespeare-tomorrow-and-tomorrow-and-tomorrow
 ---
 
-[[2015]] • [[commonplace]] • [[Shakespeare]] • [[Macbeth]]
+[[2015]] • [[Commonplace]] • [[Shakespeare]] • [[Macbeth]]
 
 http://shakespeare.mit.edu/macbeth/full.html
 

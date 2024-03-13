@@ -9,7 +9,7 @@ date: 2016-02-05
 permalink: 2016/02/05/lauren-cassani-davis-emotion-and-morality
 ---
 
-[[2016]] • [[commonplace]] • [[Lauren Cassani Davis]] • [[The Atlantic]]
+[[2016]] • [[Commonplace]] • [[Lauren Cassani Davis]] • [[The Atlantic]]
 
 http://www.theatlantic.com/science/archive/2016/02/how-do-emotions-sway-moral-thinking/460014/
 

@@ -9,7 +9,7 @@ date: 2015-10-18
 permalink: 2015/10/18/gerard-di-trolio-ending-harperism
 ---
 
-[[2015]] • [[commonplace]] • [[Gerard Di Trolio]] • [[Jacobin]]
+[[2015]] • [[Commonplace]] • [[Gerard Di Trolio]] • [[Jacobin]]
 
 https://jacobin.com/2015/10/canada-general-election-ndp-harper-trudeau-mulcair/
 

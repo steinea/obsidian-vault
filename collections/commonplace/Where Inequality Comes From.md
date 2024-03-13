@@ -9,7 +9,7 @@ date: 2015-12-24
 permalink: 2015/12/24/raphael-magarik-where-inequality-comes-from
 ---
 
-[[2015]] • [[commonplace]] • [[Raphael Magarik]] • [[Los Angeles Review of Books]]
+[[2015]] • [[Commonplace]] • [[Raphael Magarik]] • [[Los Angeles Review of Books]]
 
 https://lareviewofbooks.org/article/where-does-inequality-come-from/
 

@@ -9,7 +9,7 @@ date: 2015-07-21
 permalink: 2015/07/21/ralph-waldo-emerson-the-law-of-undulation
 ---
 
-[[2015]] • [[commonplace]] • [[Ralph Waldo Emerson]] • [[Emerson Central]] 
+[[2015]] • [[Commonplace]] • [[Ralph Waldo Emerson]] • [[Emerson Central]] 
 
 https://emersoncentral.com/texts/essays-first-series/intellect/
 

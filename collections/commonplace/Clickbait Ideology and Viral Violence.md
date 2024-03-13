@@ -9,7 +9,7 @@ date: 2015-11-17
 permalink: 2015/11/17/judah-grunstein-clickbait-ideology-and-viral-violence
 ---
 
-[[2015]] • [[commonplace]] • [[Judah Grunstein]] • [[Los Angeles Review of Books]]
+[[2015]] • [[Commonplace]] • [[Judah Grunstein]] • [[Los Angeles Review of Books]]
 
 https://lareviewofbooks.org/article/clickbait-ideology-goes-viral/
 

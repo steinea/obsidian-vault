@@ -9,7 +9,7 @@ date: 2015-05-23
 permalink: 2015/05/23/adam-begley-don-delillo-the-art-of-fiction-no-135
 ---
 
-[[2015]] • [[commonplace]] • [[Adam Begley]] • [[Don DeLillo]] • [[The Paris Review]] 
+[[2015]] • [[Commonplace]] • [[Adam Begley]] • [[Don DeLillo]] • [[The Paris Review]] 
 
 https://www.theparisreview.org/interviews/1887/the-art-of-fiction-no-135-don-delillo
 

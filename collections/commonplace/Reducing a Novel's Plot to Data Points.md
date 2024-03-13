@@ -9,7 +9,7 @@ date: 2015-02-05
 permalink: 2015/02/05/dan-piepenbring-reducing-a-novels-plot-to-data-points
 ---
 
-[[2015]] • [[commonplace]] • [[Dan Piepenbring]] • [[The Paris Review]]
+[[2015]] • [[Commonplace]] • [[Dan Piepenbring]] • [[The Paris Review]]
 
 https://www.theparisreview.org/blog/2015/02/04/man-in-hole/
 

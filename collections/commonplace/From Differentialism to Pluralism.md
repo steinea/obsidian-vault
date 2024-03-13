@@ -9,7 +9,7 @@ date: 2017-09-24
 permalink: 2017/09/24/terence-blake-from-differentialism-to-pluralism
 ---
 
-[[2017]] • [[commonplace]] • [[Terence Blake]] • [[Agent Swarm]] 
+[[2017]] • [[Commonplace]] • [[Terence Blake]] • [[Agent Swarm]] 
 
 https://terenceblake.wordpress.com/2017/09/24/from-differentialism-to-pluralism/
 

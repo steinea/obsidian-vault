@@ -9,7 +9,7 @@ date: 2015-08-10
 permalink: 2015/08/10/jason-hickel-the-problem-with-saving-the-world
 ---
 
-[[2015]] • [[commonplace]] • [[Jason Hickel]] • [[Jacobin]]
+[[2015]] • [[Commonplace]] • [[Jason Hickel]] • [[Jacobin]]
 
 https://jacobin.com/2015/08/global-poverty-climate-change-sdgs/
 

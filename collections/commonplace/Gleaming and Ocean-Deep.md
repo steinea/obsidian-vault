@@ -9,7 +9,7 @@ date: 2022-12-17
 permalink: 2022/12/17/tomris-laffly-gleaming-and-ocean-deep
 ---
 
-[[2022]] • [[commonplace]] • [[Tomris Laffly]] • [[The A. V. Club]]
+[[2022]] • [[Commonplace]] • [[Tomris Laffly]] • [[The A. V. Club]]
 
 https://www.avclub.com/avatar-the-way-of-water-film-review-james-cameron-1849882442
 

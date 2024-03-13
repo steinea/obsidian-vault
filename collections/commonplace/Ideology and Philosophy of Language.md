@@ -9,7 +9,7 @@ date: 2016-07-05
 permalink: 2016/07/05/valentin-voloshinov-ideology-and-philosophy-of-language
 ---
 
-[[2016]] • [[commonplace]] • [[Valentin Voloshinov]] • [[Marxists]]
+[[2016]] • [[Commonplace]] • [[Valentin Voloshinov]] • [[Marxists]]
 
 https://www.marxists.org/archive/voloshinov/1929/marxism-language.htm
 

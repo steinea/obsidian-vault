@@ -9,7 +9,7 @@ date: 2014-11-04
 permalink: 2014/11/04/wulfstan-concerning-kingship-and-the-throne
 ---
 
-[[2014]] • [[commonplace]] • [[Wulfstan]] • [[Anglo-Saxon Prose]]
+[[2014]] • [[Commonplace]] • [[Wulfstan]] • [[Anglo-Saxon Prose]]
 
 https://books.google.ca/books/about/Anglo_Saxon_Prose.html?id=LIyhQgAACAAJ
 

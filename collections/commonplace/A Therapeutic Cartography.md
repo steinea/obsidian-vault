@@ -9,7 +9,7 @@ date: 2015-07-22
 permalink: 2015/07/22/james-k-a-smith-a-therapeutic-cartography
 ---
 
-[[2015]] • [[commonplace]] • [[James K. A. Smith]] • [[Los Angeles Review of Books]] 
+[[2015]] • [[Commonplace]] • [[James K. A. Smith]] • [[Los Angeles Review of Books]] 
 
 https://lareviewofbooks.org/article/a-therapeutic-cartography/
 

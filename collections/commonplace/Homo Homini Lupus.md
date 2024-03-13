@@ -9,7 +9,7 @@ date: 2016-01-12
 permalink: 2016/01/12/plautus-homo-homini-lupus
 ---
 
-[[2016]] • [[commonplace]] • [[Plautus]] • [[Wikipedia]]
+[[2016]] • [[Commonplace]] • [[Plautus]] • [[Wikipedia]]
 
 https://en.wikipedia.org/wiki/Homo_homini_lupus
 

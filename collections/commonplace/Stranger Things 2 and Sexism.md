@@ -9,7 +9,7 @@ date: 2017-10-31
 permalink: 2017/10/31/danielle-riendeau-stranger-things-2-and-sexism
 ---
 
-[[2017]] • [[commonplace]] • [[Danielle Riendeau]] • [[Waypoint]] 
+[[2017]] • [[Commonplace]] • [[Danielle Riendeau]] • [[Waypoint]] 
 
 https://waypoint.vice.com/en_us/article/ne373g/stranger-things-season-2-sexism
 

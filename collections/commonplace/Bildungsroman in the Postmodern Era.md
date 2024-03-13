@@ -9,7 +9,7 @@ date: 2016-03-22
 permalink: 2016/03/22/dehn-gilmore-bildungsroman-in-the-postmodern-era
 ---
 
-[[2016]] • [[commonplace]] • [[Dehn Gilmore]] • [[Los Angeles Review of Books]]
+[[2016]] • [[Commonplace]] • [[Dehn Gilmore]] • [[Los Angeles Review of Books]]
 
 https://lareviewofbooks.org/review/bildungsroman-in-the-postmodern-era/
 

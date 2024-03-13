@@ -9,7 +9,7 @@ date: 2016-03-15
 permalink: 2016/03/15/christopher-d-cook-bernies-rage-against-the-machine
 ---
 
-[[2016]] • [[commonplace]] • [[Christopher D. Cook]] • [[The Atlantic]]
+[[2016]] • [[Commonplace]] • [[Christopher D. Cook]] • [[The Atlantic]]
 
 http://www.theatlantic.com/politics/archive/2016/03/bernies-rage-against-the-machine/473763/
 

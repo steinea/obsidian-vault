@@ -9,7 +9,7 @@ date: 2015-10-27
 permalink: 2015/10/27/nathaniel-hawthorne-the-ambitious-guest
 ---
 
-[[2015]] • [[commonplace]] • [[Nathaniel Hawthorne]] • [[The Ambitious Guest]]
+[[2015]] • [[Commonplace]] • [[Nathaniel Hawthorne]] • [[The Ambitious Guest]]
 
 https://en.wikisource.org/wiki/The_Ambitious_Guest
 

@@ -9,7 +9,7 @@ date: 2016-07-25
 permalink: 2016/07/25/richard-feynman-diagrams
 ---
 
-[[2016]] • [[commonplace]] • [[Richard Feynman]] • [[Wikipedia]]
+[[2016]] • [[Commonplace]] • [[Richard Feynman]] • [[Wikipedia]]
 
 https://simple.wikipedia.org/w/index.php?title=Feynman_diagram&oldid=5389250
 

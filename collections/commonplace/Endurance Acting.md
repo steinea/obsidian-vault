@@ -9,7 +9,7 @@ date: 2015-12-02
 permalink: 2015/12/02/david-sims-endurance-acting
 ---
 
-[[2015]] • [[commonplace]] • [[David Sims]] • [[The Atlantic]]
+[[2015]] • [[Commonplace]] • [[David Sims]] • [[The Atlantic]]
 
 https://www.theatlantic.com/entertainment/archive/2015/12/leonardo-dicaprio-the-revenant-oscars-endurance-acting/418218/
 

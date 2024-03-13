@@ -9,7 +9,7 @@ date: 2022-12-15
 permalink: 2022/12/15/james-gleick-space-age-magus
 ---
 
-[[2022]] • [[commonplace]] • [[James Gleick]] • [[New York Review of Books]]
+[[2022]] • [[Commonplace]] • [[James Gleick]] • [[New York Review of Books]]
 
 https://www.nybooks.com/articles/2022/11/03/space-age-magus-buckminster-fuller/
 

@@ -9,7 +9,7 @@ date: 2016-04-25
 permalink: 2016/04/25/elizabeth-bowen-resonance
 ---
 
-[[2016]] • [[commonplace]] • [[Elizabeth Bowen]] • [[The Death of the Heart]]
+[[2016]] • [[Commonplace]] • [[Elizabeth Bowen]] • [[The Death of the Heart]]
 
 https://en.wikipedia.org/wiki/The_Death_of_the_Heart
 

@@ -9,7 +9,7 @@ date: 2023-01-23
 permalink: 2023/01/23/rebecca-jennings-millenial-cringe
 ---
 
-[[2023]] • [[commonplace]] • [[Rebecca Jennings]] • [[Vox]]
+[[2023]] • [[Commonplace]] • [[Rebecca Jennings]] • [[Vox]]
 
 https://www.vox.com/the-highlight/23466389/millennials-cringe-epic-bacon
  

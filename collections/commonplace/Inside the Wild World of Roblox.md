@@ -9,7 +9,7 @@ date: 2023-06-07
 permalink: 2023/06/07/patrick-klepek-cecilia-danastasio-inside-the-wide-world-of-roblox
 ---
 
-[[2023]] • [[commonplace]] • [[Patrick Klepek]] • [[Cecilia D'Anastasio]] • [[Crossplay]]
+[[2023]] • [[Commonplace]] • [[Patrick Klepek]] • [[Cecilia D'Anastasio]] • [[Crossplay]]
 
 https://open.substack.com/pub/patrickklepek/p/what-its-like-reporting-from-inside
  

@@ -9,7 +9,7 @@ date: 2015-07-23
 permalink: 2015/07/23/hilary-mantel-to-be-with-robespierre
 ---
 
-[[2015]] • [[commonplace]] • [[Hilary Mantel]] • [[A Place of Greater Safety]] 
+[[2015]] • [[Commonplace]] • [[Hilary Mantel]] • [[A Place of Greater Safety]] 
 
 https://en.wikipedia.org/wiki/A_Place_of_Greater_Safety
 

@@ -9,7 +9,7 @@ date: 2015-11-09
 permalink: 2015/11/09/brad-evans-deleuze-and-the-event-of-life
 ---
 
-[[2015]] • [[commonplace]] • [[Brad Evans]] • [[Los Angeles Review of Books]]
+[[2015]] • [[Commonplace]] • [[Brad Evans]] • [[Los Angeles Review of Books]]
 
 https://lareviewofbooks.org/article/gilles-deleuze-the-event-of-life/
 

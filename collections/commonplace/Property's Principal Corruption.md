@@ -9,7 +9,7 @@ date: 2016-03-04
 permalink: 2016/03/04/tom-chatfield-propertys-principal-corruption
 ---
 
-[[2016]] • [[commonplace]] • [[Tom Chatfield]] • [[New Philosopher]]
+[[2016]] • [[Commonplace]] • [[Tom Chatfield]] • [[New Philosopher]]
 
 http://www.newphilosopher.com/articles/2977/
 

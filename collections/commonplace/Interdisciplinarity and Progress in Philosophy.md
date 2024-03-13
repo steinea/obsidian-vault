@@ -9,7 +9,7 @@ date: 2016-09-02
 permalink: 2016/09/02/derrick-darby-interdisciplinarity-and-progress-in-philosophy
 ---
 
-[[2016]] • [[commonplace]] • [[Derrick Darby]] • [[Daily Nous]]
+[[2016]] • [[Commonplace]] • [[Derrick Darby]] • [[Daily Nous]]
 
 http://dailynous.com/2016/09/02/interdisciplinarity-progress-philosophy/
 

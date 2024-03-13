@@ -9,7 +9,7 @@ date: 2015-03-19
 permalink: 2015/03/19/jeremiah-the-way-of-man-is-not-in-himself
 ---
 
-[[2015]] • [[commonplace]] • [[Jeremiah]] • [[Bible]]
+[[2015]] • [[Commonplace]] • [[Jeremiah]] • [[Bible]]
 
 https://en.wikipedia.org/wiki/Jeremiah_10
 

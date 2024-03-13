@@ -9,7 +9,7 @@ date: 2016-11-16
 permalink: 2016/11/16/jay-l-garfield-the-buddhist-challenge
 ---
 
-[[2016]] • [[commonplace]] • [[Jay L. Garfield]] • [[Los Angeles Review of Books]]
+[[2016]] • [[Commonplace]] • [[Jay L. Garfield]] • [[Los Angeles Review of Books]]
 
 https://lareviewofbooks.org/article/the-buddhist-challenge/
 

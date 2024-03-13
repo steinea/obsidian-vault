@@ -9,7 +9,7 @@ date: 2015-07-31
 permalink: 2015/07/31/peter-waterless-springs
 ---
 
-[[2015]] • [[commonplace]] • [[Peter]] • [[Bible]] 
+[[2015]] • [[Commonplace]] • [[Peter]] • [[Bible]] 
 
 https://en.wikipedia.org/wiki/Second_Epistle_of_Peter
 

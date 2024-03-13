@@ -9,7 +9,7 @@ date: 2013-01-10
 permalink: 2013/01/10/john-r-searle-can-information-theory-explain-consciousness
 ---
 
-[[2013]] • [[commonplace]] • [[John R. Searle]] • [[New York Review of Books]]
+[[2013]] • [[Commonplace]] • [[John R. Searle]] • [[New York Review of Books]]
 
 http://www.nybooks.com/articles/2013/01/10/can-information-theory-explain-consciousness/
 

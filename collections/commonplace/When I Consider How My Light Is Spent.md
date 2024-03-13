@@ -9,7 +9,7 @@ date: 2015-06-12
 permalink: 2015/06/12/john-milton-when-i-consider-how-my-light-is-spent
 ---
 
-[[2015]] • [[commonplace]] • [[John Milton]] • [[Poetry Foundation]]
+[[2015]] • [[Commonplace]] • [[John Milton]] • [[Poetry Foundation]]
 
 https://www.poetryfoundation.org/poems/44750/sonnet-19-when-i-consider-how-my-light-is-spent
 

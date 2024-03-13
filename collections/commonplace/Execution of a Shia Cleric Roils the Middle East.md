@@ -9,7 +9,7 @@ date: 2016-01-06
 permalink: 2016/01/06/krishnadev-calamur-execution-of-a-shia-cleric-roils-the-middle-east
 ---
 
-[[2016]] • [[commonplace]] • [[Krishnadev Calamur]] • [[The Atlantic]]
+[[2016]] • [[Commonplace]] • [[Krishnadev Calamur]] • [[The Atlantic]]
 
 http://www.theatlantic.com/international/archive/2016/01/saudi-iran-execution-kuwait/422628/
 

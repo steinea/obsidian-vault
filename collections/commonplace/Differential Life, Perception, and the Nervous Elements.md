@@ -9,7 +9,7 @@ date: 2016-08-10
 permalink: 2016/08/10/andrew-murphie-differential-life-perception-and-the-nervous-elements
 ---
 
-[[2016]] • [[commonplace]] • [[Andrew Murphie]] • [[Culture Machine]]
+[[2016]] • [[Commonplace]] • [[Andrew Murphie]] • [[Culture Machine]]
 
 http://www.culturemachine.net/index.php/%20cm/article/viewArticle/32/39
 

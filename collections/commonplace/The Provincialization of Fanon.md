@@ -9,7 +9,7 @@ date: 2022-12-16
 permalink: 2022/12/16/muriam-haleh-davis-the-us-academy-and-the-provincialization-of-fanon
 ---
 
-[[2022]] • [[commonplace]] • [[Muriam Haleh Davis]] • [[Los Angeles Review of Books]]
+[[2022]] • [[Commonplace]] • [[Muriam Haleh Davis]] • [[Los Angeles Review of Books]]
 
 https://dev.lareviewofbooks.org/article/the-us-academy-and-the-provincialization-of-fanon/
 

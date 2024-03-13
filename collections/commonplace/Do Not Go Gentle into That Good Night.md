@@ -9,7 +9,7 @@ date: 2014-08-03
 permalink: 2014/08/03/dylan-thomas-do-not-go-gentle-into-that-good-night
 ---
 
-[[2014]] • [[commonplace]] • [[Dylan Thomas]] • [[Poets]]
+[[2014]] • [[Commonplace]] • [[Dylan Thomas]] • [[Poets]]
 
 https://poets.org/poem/do-not-go-gentle-good-night
 

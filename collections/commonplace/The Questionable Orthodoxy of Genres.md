@@ -9,7 +9,7 @@ date: 2015-10-13
 permalink: 2015/10/13/alberto-comparini-the-questionable-orthodoxoy-of-genres
 ---
 
-[[2015]] • [[commonplace]] • [[Alberto Comparini]] • [[Los Angeles Review of Books]]
+[[2015]] • [[Commonplace]] • [[Alberto Comparini]] • [[Los Angeles Review of Books]]
 
 https://lareviewofbooks.org/article/the-questionable-orthodoxy-of-genres/
 

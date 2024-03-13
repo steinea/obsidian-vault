@@ -9,7 +9,7 @@ date: 2015-03-11
 permalink: 2015/03/11/walter-siti-resistance-is-futile
 ---
 
-[[2015]] • [[commonplace]] • [[Walter Siti]] • [[Asymptote Journal]]
+[[2015]] • [[Commonplace]] • [[Walter Siti]] • [[Asymptote Journal]]
 
 https://www.asymptotejournal.com/fiction/walter-siti-resistance-is-futile/
 

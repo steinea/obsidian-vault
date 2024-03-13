@@ -9,7 +9,7 @@ date: 2016-08-30
 permalink: 2016/08/30/moira-weigel-pajama-rich
 ---
 
-[[2016]] • [[commonplace]] • [[Moira Weigel]] • [[Real Life]]
+[[2016]] • [[Commonplace]] • [[Moira Weigel]] • [[Real Life]]
 
 http://reallifemag.com/pajama-rich/
 

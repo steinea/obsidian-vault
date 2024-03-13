@@ -9,7 +9,7 @@ date: 2023-06-12
 permalink: 2023/06/12/soren-mau-capitalism-makes-everyone-bend
 ---
 
-[[2023]] • [[commonplace]] • [[Søren Mau]] • [[Jacobin]]
+[[2023]] • [[Commonplace]] • [[Søren Mau]] • [[Jacobin]]
 
 https://jacobin.com/2023/02/soren-mau-mute-compulsion-marx-capital-economic-power-domination
  

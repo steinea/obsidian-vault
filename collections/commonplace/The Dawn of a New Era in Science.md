@@ -9,7 +9,7 @@ date: 2016-02-15
 permalink: 2016/02/15/matthew-francis-the-dawn-of-a-new-era-in-science
 ---
 
-[[2016]] • [[commonplace]] • [[Matthew Francis]] • [[The Atlantic]]
+[[2016]] • [[Commonplace]] • [[Matthew Francis]] • [[The Atlantic]]
 
 http://www.theatlantic.com/science/archive/2016/02/when-two-black-holes-collide/462279/
 

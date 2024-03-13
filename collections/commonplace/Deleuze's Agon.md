@@ -9,7 +9,7 @@ date: 2016-11-05
 permalink: 2016/11/05/terence-blake-deleuzes-agon
 ---
 
-[[2016]] • [[commonplace]] • [[Terence Blake]] • [[Agent Swarm]]
+[[2016]] • [[Commonplace]] • [[Terence Blake]] • [[Agent Swarm]]
 
 https://terenceblake.wordpress.com/2016/11/05/deleuzes-agon-schizophrenising-lacan/
 

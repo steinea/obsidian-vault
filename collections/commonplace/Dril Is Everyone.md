@@ -9,7 +9,7 @@ date: 2023-10-13
 permalink: 2023/10/13/nate-rogers-dril-is-everyone
 ---
 
-[[2023]] • [[commonplace]] • [[Nate Rogers]] • [[The Ringer]]
+[[2023]] • [[Commonplace]] • [[Nate Rogers]] • [[The Ringer]]
 
 https://www.theringer.com/tech/2023/4/12/23673003/dril-twitter-interview-profile-identity
 

@@ -9,7 +9,7 @@ date: 2016-07-18
 permalink: 2016/07/18/maria-yagoda-the-hidden-struggle-for-women-with-adhd
 ---
 
-[[2016]] • [[commonplace]] • [[Maria Yagoda]] • [[Broadly]]
+[[2016]] • [[Commonplace]] • [[Maria Yagoda]] • [[Broadly]]
 
 https://broadly.vice.com/en_us/article/adhd-women-better-together-festival
 

@@ -9,7 +9,7 @@ date: 2017-08-17
 permalink: 2017/08/18/joseph-weissman-cloudbank
 ---
 
-[[2017]] • [[commonplace]] • [[Joseph Weissman]] • [[Fractal Ontology]] 
+[[2017]] • [[Commonplace]] • [[Joseph Weissman]] • [[Fractal Ontology]] 
 
 https://fractalontology.wordpress.com/2017/08/17/cloudbank/
 

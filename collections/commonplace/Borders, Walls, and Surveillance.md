@@ -9,7 +9,7 @@ date: 2016-10-26
 permalink: 2016/10/26/josh-begley-borders-walls-and-surveillance
 ---
 
-[[2016]] • [[commonplace]] • [[Josh Begley]] • [[The Intercept]]
+[[2016]] • [[Commonplace]] • [[Josh Begley]] • [[The Intercept]]
 
 https://theintercept.com/2016/10/26/best-of-luck-with-the-wall/
 

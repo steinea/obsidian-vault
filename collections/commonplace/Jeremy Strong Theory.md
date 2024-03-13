@@ -9,7 +9,7 @@ date: 2023-01-23
 permalink: 2023/01/23/r-colin-tait-jeremy-strong-theory
 ---
 
-[[2023]] • [[commonplace]] • [[R. Colin Tait]] • [[Los Angeles Review of Books]]
+[[2023]] • [[Commonplace]] • [[R. Colin Tait]] • [[Los Angeles Review of Books]]
 
 https://lareviewofbooks.org/article/jeremy-strong-theory-on-acting-and-talking-about-acting/
  

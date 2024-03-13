@@ -9,7 +9,7 @@ date: 2015-04-23
 permalink: 2015/04/23/benjamin-aldes-wurgaft-three-contemporary-spinozas
 ---
 
-[[2015]] • [[commonplace]] • [[Benjamin Aldes Wurgaft]] • [[Los Angeles Review of Books]] 
+[[2015]] • [[Commonplace]] • [[Benjamin Aldes Wurgaft]] • [[Los Angeles Review of Books]] 
 
 https://lareviewofbooks.org/article/three-contemporary-spinozas/
 

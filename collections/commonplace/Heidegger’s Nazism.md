@@ -9,7 +9,7 @@ date: 2023-10-09
 permalink: 2023/10/09/gustav-jonsson-heideggers-nazism
 ---
 
-[[2023]] • [[commonplace]] • [[Gustav Jönsson]] • [[Jacobin]]
+[[2023]] • [[Commonplace]] • [[Gustav Jönsson]] • [[Jacobin]]
 
 https://jacobin.com/2023/03/martin-heidegger-nazism-payen-wolin-book-review/
 

@@ -9,7 +9,7 @@ date: 2016-02-17
 permalink: 2016/02/17/sean-carroll-a-universe-from-nothing
 ---
 
-[[2016]] • [[commonplace]] • [[Sean Carroll]] • [[Preposterous Universe]]
+[[2016]] • [[Commonplace]] • [[Sean Carroll]] • [[Preposterous Universe]]
 
 http://www.preposterousuniverse.com/blog/2012/04/28/a-universe-from-nothing/
 

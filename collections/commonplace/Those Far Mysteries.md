@@ -9,7 +9,7 @@ date: 2014-01-22
 permalink: 2014/01/22/herman-melville-those-far-mysteries
 ---
 
-[[2014]] • [[commonplace]] • [[Herman Melville]] • [[Moby-Dick]]
+[[2014]] • [[Commonplace]] • [[Herman Melville]] • [[Moby-Dick]]
 
 https://en.wikipedia.org/wiki/Moby-Dick
 

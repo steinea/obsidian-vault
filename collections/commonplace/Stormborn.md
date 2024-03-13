@@ -9,7 +9,7 @@ date: 2017-07-24
 permalink: 2017/07/24/aaron-bady-stormborn
 ---
 
-[[2017]] • [[commonplace]] • [[Aaron Bady]] • [[Los Angeles Review of Books]] 
+[[2017]] • [[Commonplace]] • [[Aaron Bady]] • [[Los Angeles Review of Books]] 
 
 https://lareviewofbooks.org/article/game-thrones-stormborn/
 

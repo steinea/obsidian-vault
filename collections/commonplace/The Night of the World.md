@@ -9,7 +9,7 @@ date: 2018-01-23
 permalink: 2018/01/23/g-w-f-hegel-the-night-of-the-world
 ---
 
-[[2018]] • [[commonplace]] • [[G. W. F. Hegel]] • [[Jena Lectures]]
+[[2018]] • [[Commonplace]] • [[G. W. F. Hegel]] • [[Jena Lectures]]
 
 https://www.marxists.org/reference/archive/hegel/works/jl/
  

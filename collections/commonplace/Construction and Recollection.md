@@ -9,7 +9,7 @@ date: 2017-02-14
 permalink: 2017/02/14/wes-alwan-construction-and-recollection
 ---
 
-[[2017]] • [[commonplace]] • [[Wes Alwan]] • [[Partially Examined Life]] 
+[[2017]] • [[Commonplace]] • [[Wes Alwan]] • [[Partially Examined Life]] 
 
 https://partiallyexaminedlife.com/2017/01/02/ep155-1-rorty-epistemology/
 

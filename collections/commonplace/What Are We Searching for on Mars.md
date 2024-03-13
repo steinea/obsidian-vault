@@ -9,7 +9,7 @@ date: 2014-12-15
 permalink: 2014/12/15/nicholas-st-fleur-what-are-we-searching-for-on-mars 
 ---
 
-[[2014]] • [[commonplace]] • [[Nicholas St. Fleur]] • [[The Atlantic]]
+[[2014]] • [[Commonplace]] • [[Nicholas St. Fleur]] • [[The Atlantic]]
 
 http://www.theatlantic.com/technology/archive/2014/12/mars-curiosity-rover-gale-crater-American-Geophysics-Union-Conference-water/383625/
 

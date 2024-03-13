@@ -9,7 +9,7 @@ date: 2016-01-18
 permalink: 2016/01/18/guy-debord-society-of-the-spectacle
 ---
 
-[[2016]] • [[commonplace]] • [[Guy Debord]] • [[Marxists]]
+[[2016]] • [[Commonplace]] • [[Guy Debord]] • [[Marxists]]
 
 https://www.marxists.org/reference/archive/debord/society.htm
 

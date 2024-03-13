@@ -9,7 +9,7 @@ date: 2016-03-08
 permalink: 2016/03/08/andrew-yang-empire-nation-and-time
 ---
 
-[[2016]] • [[commonplace]] • [[Andrew Yang]] • [[Los Angeles Review of Books]]
+[[2016]] • [[Commonplace]] • [[Andrew Yang]] • [[Los Angeles Review of Books]]
 
 https://lareviewofbooks.org/review/empire-nation-and-time/
 

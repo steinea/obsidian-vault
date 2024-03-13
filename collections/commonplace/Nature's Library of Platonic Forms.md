@@ -9,7 +9,7 @@ date: 2015-03-17
 permalink: 2015/03/17/andreas-wagner-natures-library-of-platonic-forms
 ---
 
-[[2015]] • [[commonplace]] • [[Andreas Wagner]] • [[Aeon]]
+[[2015]] • [[Commonplace]] • [[Andreas Wagner]] • [[Aeon]]
 
 https://web.archive.org/web/20150316203345/http://aeon.co/magazine/philosophy/natures-library-of-platonic-forms/
 

@@ -9,7 +9,7 @@ date: 2015-11-04
 permalink: 2015/11/04/julie-beck-the-zen-of-adult-coloring-books
 ---
 
-[[2015]] • [[commonplace]] • [[Julie Beck]] • [[The Atlantic]]
+[[2015]] • [[Commonplace]] • [[Julie Beck]] • [[The Atlantic]]
 
 https://www.theatlantic.com/health/archive/2015/11/sorry-benedict-cumberbatch-your-head-is-fine/414010/
 

@@ -9,7 +9,7 @@ date: 2016-10-18
 permalink: 2016/10/18/houman-barekat-vulgar-and-unsightly
 ---
 
-[[2016]] • [[commonplace]] • [[Houman Barekat]] • [[Los Angeles Review of Books]]
+[[2016]] • [[Commonplace]] • [[Houman Barekat]] • [[Los Angeles Review of Books]]
 
 https://lareviewofbooks.org/article/vulgar-unsightly-adrian-nathan-wests-jaccuse-extremely-degrading-pornography/
 

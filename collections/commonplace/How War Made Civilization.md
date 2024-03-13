@@ -9,7 +9,7 @@ date: 2014-04-22
 permalink: 2014/04/22/ian-morris-how-war-made-civilization
 ---
 
-[[2014]] • [[commonplace]] • [[Ian Morris]] • [[Google Books]]
+[[2014]] • [[Commonplace]] • [[Ian Morris]] • [[Google Books]]
 
 https://books.google.ca/books/about/War_What_is_it_Good_For.html?id=-BjCQwAACAAJ
 

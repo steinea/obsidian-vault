@@ -9,7 +9,7 @@ date: 2015-11-30
 permalink: 2015/11/30/stuart-clark-cosmologists-should-be-more-skeptical-of-dark-matter
 ---
 
-[[2015]] • [[commonplace]] • [[Stuart Clark]] • [[Aeon]]
+[[2015]] • [[Commonplace]] • [[Stuart Clark]] • [[Aeon]]
 
 https://aeon.co/opinions/cosmologists-should-be-more-skeptical-of-dark-matter
 

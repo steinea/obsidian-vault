@@ -9,7 +9,7 @@ date: 2016-12-11
 permalink: 2016/12/11/christina-lupton-to-read-is-to-choose
 ---
 
-[[2016]] • [[commonplace]] • [[Christina Lupton]] • [[Los Angeles Review of Books]]
+[[2016]] • [[Commonplace]] • [[Christina Lupton]] • [[Los Angeles Review of Books]]
 
 https://lareviewofbooks.org/article/to-read-is-to-choose/
 

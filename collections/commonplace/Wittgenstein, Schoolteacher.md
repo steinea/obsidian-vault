@@ -9,7 +9,7 @@ date: 2015-12-22
 permalink: 2015/12/22/spencer-robins-wittgenstein-schoolteacher
 ---
 
-[[2015]] • [[commonplace]] • [[Spencer Robins]] • [[The Paris Review]]
+[[2015]] • [[Commonplace]] • [[Spencer Robins]] • [[The Paris Review]]
 
 https://www.theparisreview.org/blog/2015/03/05/wittgenstein-schoolteacher/
 

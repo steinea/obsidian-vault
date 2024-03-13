@@ -9,7 +9,7 @@ date: 2016-03-19
 permalink: 2016/03/19/masha-gessen-the-rule-of-the-family
 ---
 
-[[2016]] • [[commonplace]] • [[Masha Gessen]] • [[New York Review of Books]]
+[[2016]] • [[Commonplace]] • [[Masha Gessen]] • [[New York Review of Books]]
 
 http://www.nybooks.com/daily/2016/03/14/putin-mafia-state-lesin-killing/
 

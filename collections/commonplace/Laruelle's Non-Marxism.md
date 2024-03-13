@@ -9,7 +9,7 @@ date: 2017-06-05
 permalink: 2017/06/05/terence-blake-laruelles-non-marxism
 ---
 
-[[2017]] • [[commonplace]] •[[Terence Blake]] • [[Agent Swarm]] 
+[[2017]] • [[Commonplace]] •[[Terence Blake]] • [[Agent Swarm]] 
  
 “INTRODUCTION TO NON-MARXISM is a very interesting work of transition, published in French in 2000, and well worth reading in the contemporary context of thought trying to break free from the inherited limitations that prevent it from engaging realistically with the world.”
 

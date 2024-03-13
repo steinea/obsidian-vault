@@ -9,7 +9,7 @@ date: 2016-01-09
 permalink: 2016/01/09/frederick-engels-freedom-and-necessity
 ---
 
-[[2016]] • [[commonplace]] • [[Friedrich Engels]] • [[Marxists]]
+[[2016]] • [[Commonplace]] • [[Friedrich Engels]] • [[Marxists]]
 
 https://www.marxists.org/archive/marx/works/1877/anti-duhring/ch09.htm
 

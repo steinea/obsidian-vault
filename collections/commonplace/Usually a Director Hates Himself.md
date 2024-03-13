@@ -9,7 +9,7 @@ date: 2014-03-25
 permalink: 2014/03/25/natalie-portman-usually-a-director-hates-himself
 ---
 
-[[2014]] • [[commonplace]] • [[Natalie Portman]] • [[The New Yorker]]
+[[2014]] • [[Commonplace]] • [[Natalie Portman]] • [[The New Yorker]]
 
 http://www.newyorker.com/magazine/2014/03/17/heavy-weather-2
 

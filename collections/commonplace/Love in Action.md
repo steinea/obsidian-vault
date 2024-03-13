@@ -9,7 +9,7 @@ date: 2013-03-28
 permalink: 2013/03/28/krista-tippett-john-lewis-love-in-action
 ---
 
-[[2013]] • [[commonplace]] • [[Krista Tippett]] • [[John Lewis]] • [[On Being]]
+[[2013]] • [[Commonplace]] • [[Krista Tippett]] • [[John Lewis]] • [[On Being]]
 
 http://www.onbeing.org/programs/john-lewis-love-action/
 

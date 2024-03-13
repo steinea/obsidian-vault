@@ -9,7 +9,7 @@ date: 2016-08-30
 permalink: 2016/08/30/oliver-wainwright-lets-all-move-to-mars
 ---
 
-[[2016]] • [[commonplace]] • [[Oliver Wainwright]] • [[The Guardian]]
+[[2016]] • [[Commonplace]] • [[Oliver Wainwright]] • [[The Guardian]]
 
 http://www.theguardian.com/artanddesign/2015/mar/09/space-architects-shaping-plans-for-life-on-moon-and-mars
 

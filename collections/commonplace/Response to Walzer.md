@@ -9,7 +9,7 @@ date: 2016-10-10
 permalink: 2016/10/10/avishai-margalit-assaf-sharon-response-to-walzer
 ---
 
-[[2016]] • [[commonplace]] • [[Avishai Margalit]] • [[Assaf Sharon]] • [[Boston Review]]
+[[2016]] • [[Commonplace]] • [[Avishai Margalit]] • [[Assaf Sharon]] • [[Boston Review]]
 
 https://bostonreview.net/forum/confronting-religious-revivalism/avishai-margalit-assaf-sharon-response-michael-walzer
 

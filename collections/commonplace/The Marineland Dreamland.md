@@ -9,7 +9,7 @@ date: 2013-08-02
 permalink: 2013/08/02/craig-davidson-the-marineland-dreamland
 ---
 
-[[2013]] • [[commonplace]] • [[Craig Davidson]] • [[The Walrus]]
+[[2013]] • [[Commonplace]] • [[Craig Davidson]] • [[The Walrus]]
 
 https://thewalrus.ca/the-marineland-dreamland/
 

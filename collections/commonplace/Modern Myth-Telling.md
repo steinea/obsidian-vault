@@ -9,7 +9,7 @@ date: 2015-08-11
 permalink: 2015/08/11/james-parker-modern-myth-telling
 ---
 
-[[2015]] • [[commonplace]] • [[James Parker]] • [[The Atlantic]]
+[[2015]] • [[Commonplace]] • [[James Parker]] • [[The Atlantic]]
 
 https://www.theatlantic.com/magazine/archive/2015/09/j-r-r-tolkien-and-c-s-lewis-revived-myth-telling/399347/
 

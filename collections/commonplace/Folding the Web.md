@@ -9,7 +9,7 @@ date: 2016-07-14
 permalink: 2016/07/14/michael-connor-folding-the-web
 ---
 
-[[2016]] • [[commonplace]] • [[Michael Connor]] • [[Rhizome]]
+[[2016]] • [[Commonplace]] • [[Michael Connor]] • [[Rhizome]]
 
 http://rhizome.org/editorial/2016/jun/16/folding-the-web/
 

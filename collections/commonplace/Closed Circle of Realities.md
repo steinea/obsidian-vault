@@ -9,7 +9,7 @@ date: 2023-06-22
 permalink: 2023/06/22/tiqqun-closed-circle-of-realities
 ---
 
-[[2023]] • [[commonplace]] • [[Tiqqun]] • [[Twitter]]
+[[2023]] • [[Commonplace]] • [[Tiqqun]] • [[Twitter]]
 
 https://twitter.com/spencerbeswick/status/1672026215710900224
  

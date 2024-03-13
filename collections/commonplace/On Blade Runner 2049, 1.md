@@ -9,7 +9,7 @@ date: 2017-09-29
 permalink: 2017/09/29/matt-miller-on-blade-runner-2049-1
 ---
 
-[[2017]] • [[commonplace]] • [[Matt Miller]] • [[Esquire]] 
+[[2017]] • [[Commonplace]] • [[Matt Miller]] • [[Esquire]] 
  
 “Between its premiere in 1982 and the final cut in 2007, eight different versions of Ridley Scott’s Blade Runner have been released—which perfectly illustrates the embattled existence of what is otherwise one of the greatest sci-fi films ever.”
 

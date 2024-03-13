@@ -9,7 +9,7 @@ date: 2015-07-14
 permalink: 2015/07/14/jake-bittle-paper-chasing
 ---
 
-[[2015]] • [[commonplace]] • [[Jake Bittle]] • [[The Point]] 
+[[2015]] • [[Commonplace]] • [[Jake Bittle]] • [[The Point]] 
 
 https://thepointmag.com/examined-life/paper-chasing/
 

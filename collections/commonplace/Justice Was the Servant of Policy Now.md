@@ -9,7 +9,7 @@ date: 2015-07-24
 permalink: 2015/07/24/hilary-mantel-justice-was-the-servant-of-policy-now
 ---
 
-[[2015]] • [[commonplace]] • [[Hilary Mantel]] • [[A Place of Greater Safety]] 
+[[2015]] • [[Commonplace]] • [[Hilary Mantel]] • [[A Place of Greater Safety]] 
 
 https://en.wikipedia.org/wiki/A_Place_of_Greater_Safety
 

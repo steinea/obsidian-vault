@@ -9,7 +9,7 @@ date: 2015-12-01
 permalink: 2015/12/01/claire-vaye-watkins-on-pandering
 ---
 
-[[2015]] • [[commonplace]] • [[Claire Vaye Watkins]] • [[Tin House]]
+[[2015]] • [[Commonplace]] • [[Claire Vaye Watkins]] • [[Tin House]]
 
 https://tinhouse.com/blog/41314/on-pandering.html
 

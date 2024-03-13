@@ -9,7 +9,7 @@ date: 2015-09-05
 permalink: 2015/09/05/dan-piepenbring-on-the-pleasures-of-not-reading
 ---
 
-[[2015]] • [[commonplace]] • [[Dan Piepenbring]] • [[The Paris Review]]
+[[2015]] • [[Commonplace]] • [[Dan Piepenbring]] • [[The Paris Review]]
 
 https://www.theparisreview.org/blog/2015/08/31/on-the-pleasures-of-not-reading/
 

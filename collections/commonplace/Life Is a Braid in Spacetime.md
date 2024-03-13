@@ -9,7 +9,7 @@ date: 2015-10-02
 permalink: 2015/10/02/max-tegmark-life-is-a-braid-in-spacetime
 ---
 
-[[2015]] • [[commonplace]] • [[Max Tegmark]] • [[Nautilus]]
+[[2015]] • [[Commonplace]] • [[Max Tegmark]] • [[Nautilus]]
 
 https://nautil.us/issue/29/scaling/life-is-a-braid-in-spacetime-rp
 

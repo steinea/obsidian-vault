@@ -9,7 +9,7 @@ date: 2015-10-10
 permalink: 2015/10/10/tim-sohn-trevor-paglen-plumbs-the-internet
 ---
 
-[[2015]] • [[commonplace]] • [[Tim Sohn]] • [[The New Yorker]]
+[[2015]] • [[Commonplace]] • [[Tim Sohn]] • [[The New Yorker]]
 
 https://www.newyorker.com/tech/annals-of-technology/trevor-paglen-plumbs-the-internet-at-metro-pictures-gallery
 

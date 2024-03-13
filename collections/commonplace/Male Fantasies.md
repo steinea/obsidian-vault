@@ -9,7 +9,7 @@ date: 2016-10-05
 permalink: 2016/10/05/ana-teixeira-pinto-male-fantasies
 ---
 
-[[2016]] • [[commonplace]] • [[Ana Teixeira Pinto]] • [[e-flux]]
+[[2016]] • [[Commonplace]] • [[Ana Teixeira Pinto]] • [[e-flux]]
 
 http://www.e-flux.com/journal/76/72759/male-fantasies-the-sequel-s/
 

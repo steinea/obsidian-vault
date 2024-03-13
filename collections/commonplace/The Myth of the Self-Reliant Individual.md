@@ -9,7 +9,7 @@ date: 2016-02-05
 permalink: 2016/02/05/kimberley-brownlee-the-myth-of-the-self-reliant-individual
 ---
 
-[[2016]] • [[commonplace]] • [[Kimberley Brownlee]] • [[Aeon]]
+[[2016]] • [[Commonplace]] • [[Kimberley Brownlee]] • [[Aeon]]
 
 https://aeon.co/opinions/what-lies-behind-the-myth-of-the-strong-self-reliant-loner
 

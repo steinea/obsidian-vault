@@ -9,7 +9,7 @@ date: 2014-03-25
 permalink: 2014/03/25/emily-landau-new-adult-fiction
 ---
 
-[[2014]] • [[commonplace]] • [[Emily Landau]] • [[The Walrus]]
+[[2014]] • [[Commonplace]] • [[Emily Landau]] • [[The Walrus]]
 
 https://thewalrus.ca/never-never-land/
 

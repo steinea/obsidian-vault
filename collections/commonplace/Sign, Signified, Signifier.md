@@ -9,7 +9,7 @@ date: 2014-10-14
 permalink: 2014-10-14-ferdinand-de-saussure-course-in-general-linguistics
 ---
 
-[[2014]] • [[commonplace]] • [[Ferdinand de Saussure]] • [[Course in General Linguistics]]
+[[2014]] • [[Commonplace]] • [[Ferdinand de Saussure]] • [[Course in General Linguistics]]
 
 https://cup.columbia.edu/book/course-in-general-linguistics/9780231157261
 

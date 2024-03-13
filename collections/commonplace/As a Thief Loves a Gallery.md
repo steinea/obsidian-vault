@@ -9,7 +9,7 @@ date: 2014-01-22
 permalink: 2014/01/22/lemony-snickett-as-a-thief-loves-a-gallery
 ---
 
-[[2014]] • [[commonplace]] • [[Lemony Snicket]] • [[The Beatrice Poems]]
+[[2014]] • [[Commonplace]] • [[Lemony Snicket]] • [[The Beatrice Poems]]
 
 https://en.wikipedia.org/wiki/The_Beatrice_Letters
 

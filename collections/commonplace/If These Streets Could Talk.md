@@ -9,7 +9,7 @@ date: 2023-10-07
 permalink: 2023/10/07/michael-ledger-lomas-if-these-streets-could-talk
 ---
 
-[[2023]] • [[commonplace]] • [[Michael Ledger-Lomas]] • [[Literary Review of Canada]]
+[[2023]] • [[Commonplace]] • [[Michael Ledger-Lomas]] • [[Literary Review of Canada]]
 
 https://reviewcanada.ca/magazine/2023/09/if-these-streets-could-talk/
 

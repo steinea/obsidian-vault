@@ -9,7 +9,7 @@ date: 2015-02-06
 permalinks: 2015/02/06/fernando-pessoa-how-many-masks-wear-we
 ---
 
-[[2015]] • [[commonplace]] • [[Fernando Pessoa]] • [[Los Angeles Review of Books]]
+[[2015]] • [[Commonplace]] • [[Fernando Pessoa]] • [[Los Angeles Review of Books]]
 
 https://lareviewofbooks.org/article/translation/
 

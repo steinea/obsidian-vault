@@ -9,7 +9,7 @@ date: 2015-10-21
 permalink: 2015/10/21/karen-an-hwei-lee-on-hierophany
 ---
 
-[[2015]] • [[commonplace]] • [[Karen An-Hwei Lee]] • [[Poetry Foundation]]
+[[2015]] • [[Commonplace]] • [[Karen An-Hwei Lee]] • [[Poetry Foundation]]
 
 https://www.poetryfoundation.org/poetrymagazine/poems/56898/on-hierophany
 

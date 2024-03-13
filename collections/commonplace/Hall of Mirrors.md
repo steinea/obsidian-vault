@@ -9,7 +9,7 @@ date: 2015-09-07
 permalink: 2015/09/07/elena-greco-hall-of-mirrors
 ---
 
-[[2015]] • [[commonplace]] • [[Elena Greco]] • [[The New Inquiry]]
+[[2015]] • [[Commonplace]] • [[Elena Greco]] • [[The New Inquiry]]
 
 https://thenewinquiry.com/hall-of-mirrors/
 

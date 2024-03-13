@@ -9,7 +9,7 @@ date: 2015-07-01
 permalink: 2015/07/01/matt-thompson-the-origins-of-fundamentalism
 ---
 
-[[2015]] • [[commonplace]] • [[Matt Thompson]] • [[The Atlantic]] 
+[[2015]] • [[Commonplace]] • [[Matt Thompson]] • [[The Atlantic]] 
 
 https://www.theatlantic.com/entertainment/archive/2015/06/the-origins-of-fundamentalism/397238/
 

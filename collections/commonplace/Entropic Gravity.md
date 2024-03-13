@@ -9,7 +9,7 @@ date: 2016-02-09
 permalink: 2016/02/09/grant-remmen-entropic-gravity
 ---
 
-[[2016]] • [[commonplace]] • [[Grant Remmen]] • [[Preposterous Universe]]
+[[2016]] • [[Commonplace]] • [[Grant Remmen]] • [[Preposterous Universe]]
 
 http://www.preposterousuniverse.com/blog/2016/02/08/guest-post-grant-remmen-on-entropic-gravity/
 

@@ -9,7 +9,7 @@ date: 2014-11-08
 permalink: 2014/11/08/edward-said-narrative-and-social-space
 ---
 
-[[2014]] • [[commonplace]] • [[Edward Said]] • [[Critical Theory]]
+[[2014]] • [[Commonplace]] • [[Edward Said]] • [[Critical Theory]]
 
 https://global.oup.com/ushe/product/critical-theory-9780199797776
 

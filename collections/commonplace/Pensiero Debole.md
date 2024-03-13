@@ -9,7 +9,7 @@ date: 2016-11-01
 permalink: 2016/11/01/gianni-vattimo-pensiero-debole
 ---
 
-[[2016]] • [[commonplace]] • [[Gianni Vattimo]] • [[Wikipedia]]
+[[2016]] • [[Commonplace]] • [[Gianni Vattimo]] • [[Wikipedia]]
 
 https://en.wikipedia.org/wiki/Gianni_Vattimo
 

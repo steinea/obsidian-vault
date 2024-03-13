@@ -9,7 +9,7 @@ date: 2018-01-23
 permalink: 2018/01/23/rig-veda-whence-comes-this-creation
 ---
 
-[[2018]] • [[commonplace]] • [[Rig Veda]] • [[Sacred Texts]]
+[[2018]] • [[Commonplace]] • [[Rig Veda]] • [[Sacred Texts]]
 
 http://www.sacred-texts.com/hin/rigveda/rv10129.htm
  

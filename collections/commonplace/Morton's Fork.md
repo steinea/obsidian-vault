@@ -9,7 +9,7 @@ date: 2014-12-01
 permalink: 2014/12/01/john-morton-mortons-fork
 ---
 
-[[2014]] • [[commonplace]] • [[John Morton]] • [[Wikipedia]]
+[[2014]] • [[Commonplace]] • [[John Morton]] • [[Wikipedia]]
 
 https://en.wikipedia.org/wiki/Morton%27s_fork
 

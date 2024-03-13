@@ -9,7 +9,7 @@ date: 2014-09-08
 permalink: 2014/09/08/edmund-burke-reflections-on-the-revolution-in-france
 ---
 
-[[2014]] • [[commonplace]] • [[Edmund Burke]] • [[Reflections on the Revolution in France]]
+[[2014]] • [[Commonplace]] • [[Edmund Burke]] • [[Reflections on the Revolution in France]]
 
 https://global.oup.com/academic/product/reflections-on-the-revolution-in-france-9780199539024
 

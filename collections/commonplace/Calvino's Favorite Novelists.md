@@ -9,7 +9,7 @@ date: 2023-01-01
 permalink: 2023/01/01/italo-calvino-calvinos-favorite-novelists
 ---
 
-[[2023]] • [[commonplace]] • [[Italo Calvino]] • [[Twitter]]
+[[2023]] • [[Commonplace]] • [[Italo Calvino]] • [[Twitter]]
 
 https://mobile.twitter.com/chris_power/status/1607333848337240070
  

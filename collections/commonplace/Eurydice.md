@@ -9,7 +9,7 @@ date: 2017-04-07
 permalink: 2017/04/07/h-d-eurydice
 ---
 
-[[2017]] • [[commonplace]] • [[H. D.]] • [[Poetry Foundation]] 
+[[2017]] • [[Commonplace]] • [[H. D.]] • [[Poetry Foundation]] 
 
 https://www.poetryfoundation.org/poems/51869/eurydice-56d22fe6d049d
 

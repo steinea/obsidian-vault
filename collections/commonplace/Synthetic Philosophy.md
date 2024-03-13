@@ -9,7 +9,7 @@ date: 2023-10-16
 permalink: 2023/10/16/catarina-dutilh-novaes-synthetic-philosophy
 ---
 
-[[2023]] • [[commonplace]] • [[Catarina Dutilh Novaes]] • [[Daily Nous]]
+[[2023]] • [[Commonplace]] • [[Catarina Dutilh Novaes]] • [[Daily Nous]]
 
 https://dailynous.com/2023/05/30/a-plea-for-synthetic-philosophy-guest-post/
 

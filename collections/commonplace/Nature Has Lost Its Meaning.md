@@ -9,7 +9,7 @@ date: 2015-12-01
 permalink: 2015/12/01/ross-andersen-nature-has-lost-its-meaning
 ---
 
-[[2015]] • [[commonplace]] • [[Ross Andersen]] • [[The Atlantic]]
+[[2015]] • [[Commonplace]] • [[Ross Andersen]] • [[The Atlantic]]
 
 https://www.theatlantic.com/science/archive/2015/11/nature-has-lost-its-meaning/417918/
 

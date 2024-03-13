@@ -9,7 +9,7 @@ date: 2017-01-01
 permalink: 2017/01/01/hansjorg-dilger-medical-technologies-and-infrastructure
 ---
 
-[[2017]] • [[commonplace]] • [[Hansjörg Dilger]] • [[Allegra Laboratory]] 
+[[2017]] • [[Commonplace]] • [[Hansjörg Dilger]] • [[Allegra Laboratory]] 
 
 http://allegralaboratory.net/medical-technologies-and-infrastructure-exploring-immobility-and-disconnectivity-in-global-health-medtech/
 

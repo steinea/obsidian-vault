@@ -9,7 +9,7 @@ date: 2018-07-15
 permalink: 2018/07/15/martin-heidegger-why-are-there-beings-at-all
 ---
 
-[[2018]] • [[commonplace]] • [[Martin Heidegger]] • [[Wikiquote]]
+[[2018]] • [[Commonplace]] • [[Martin Heidegger]] • [[Wikiquote]]
 
 https://en.wikiquote.org/wiki/Martin_Heidegger
  

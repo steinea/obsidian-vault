@@ -9,7 +9,7 @@ date: 2016-03-31
 permalink: 2016/03/31/rajan-menon-why-humanitarian-intervention-goes-horribly-wrong
 ---
 
-[[2016]] • [[commonplace]] • [[Rajan Menon]] • [[Aeon]]
+[[2016]] • [[Commonplace]] • [[Rajan Menon]] • [[Aeon]]
 
 https://aeon.co/opinions/why-humanitarian-intervention-goes-horribly-wrong
 

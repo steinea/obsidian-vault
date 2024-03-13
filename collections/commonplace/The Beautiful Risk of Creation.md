@@ -9,7 +9,7 @@ date: 2016-04-29
 permalink: 2016/04/29/john-d-caputo-the-beautiful-risk-of-creation
 ---
 
-[[2016]] • [[commonplace]] • [[John D. Caputo]] • [[The Weakness of God]]
+[[2016]] • [[Commonplace]] • [[John D. Caputo]] • [[The Weakness of God]]
 
 https://books.google.ca/books/about/The_Weakness_of_God.html?id=8t4cl5rgDb8C
 

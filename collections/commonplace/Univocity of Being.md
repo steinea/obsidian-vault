@@ -9,7 +9,7 @@ date: 2015-07-22
 permalink: 2015/07/22/john-duns-scotus-gilles-deleuze-univocity-of-being
 ---
 
-[[2015]] • [[commonplace]] • [[John Duns Scotus]] • [[Gilles Deleuze]] • [[Wikipedia]] 
+[[2015]] • [[Commonplace]] • [[John Duns Scotus]] • [[Gilles Deleuze]] • [[Wikipedia]] 
 
 https://en.wikipedia.org/wiki/Univocity_of_being
 

@@ -9,7 +9,7 @@ date: 2023-10-16
 permalink: 2023/10/16/kt-thompson-prefab-freedom
 ---
 
-[[2023]] • [[commonplace]] • [[KT Thompson]] • [[The New Inquiry]]
+[[2023]] • [[Commonplace]] • [[KT Thompson]] • [[The New Inquiry]]
 
 https://thenewinquiry.com/prefab-freedom/
 

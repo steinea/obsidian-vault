@@ -9,7 +9,7 @@ date: 2016-11-05
 permalink: 2016/11/05/marat-grinberg-the-soviet-matrix
 ---
 
-[[2016]] • [[commonplace]] • [[Marat Grinberg]] • [[Los Angeles Review of Books]]
+[[2016]] • [[Commonplace]] • [[Marat Grinberg]] • [[Los Angeles Review of Books]]
 
 https://lareviewofbooks.org/article/the-soviet-matrix-on-the-strugatsky-brothers-the-doomed-city/
 

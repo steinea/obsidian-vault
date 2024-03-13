@@ -9,7 +9,7 @@ date: 2014-09-23
 permalink: 2014/09/23/nick-mount-rock-modern
 ---
 
-[[2014]] • [[commonplace]] • [[Nick Mount]] • [[The Walrus]]
+[[2014]] • [[Commonplace]] • [[Nick Mount]] • [[The Walrus]]
 
 https://thewalrus.ca/rock-modern/
 

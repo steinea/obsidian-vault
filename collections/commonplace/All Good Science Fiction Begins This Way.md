@@ -9,7 +9,7 @@ date: 2016-02-25
 permalink: 2016/02/25/ingrid-rojas-contrerars-all-good-science-fiction-begins-this-way
 ---
 
-[[2016]] • [[commonplace]] • [[Ingrid Rojas Contreras]] • [[Los Angeles Review of Books]]
+[[2016]] • [[Commonplace]] • [[Ingrid Rojas Contreras]] • [[Los Angeles Review of Books]]
 
 https://lareviewofbooks.org/essay/all-good-science-fiction-begins-this-way/
 

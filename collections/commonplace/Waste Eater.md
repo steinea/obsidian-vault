@@ -9,7 +9,7 @@ date: 2023-03-11
 permalink: 2023/03/11/kaile-hultner-waste-eater
 ---
 
-[[2023]] • [[commonplace]] • [[Kaile Hultner]] • [[No Escape]]
+[[2023]] • [[Commonplace]] • [[Kaile Hultner]] • [[No Escape]]
 
 https://noescapevg.com/year-of-games-3-waste-eater/
  

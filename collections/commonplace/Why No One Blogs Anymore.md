@@ -9,7 +9,7 @@ date: 2015-02-27
 permalink: 2015/02/27/robinson-meyer-why-no-one-blogs-anymore
 ---
 
-[[2015]] • [[commonplace]] • [[Robinson Meyer]] • [[The Atlantic]]
+[[2015]] • [[Commonplace]] • [[Robinson Meyer]] • [[The Atlantic]]
 
 https://www.theatlantic.com/technology/archive/2015/02/what-blogging-has-become/386201/
 

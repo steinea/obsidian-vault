@@ -9,7 +9,7 @@ date: 2023-10-18
 permalink: 2023/10/18/jules-gill-peterson-from-gender-critical-to-qanon
 ---
 
-[[2023]] • [[commonplace]] • [[Jules Gill-Peterson]] • [[The New Inquiry]]
+[[2023]] • [[Commonplace]] • [[Jules Gill-Peterson]] • [[The New Inquiry]]
 
 https://thenewinquiry.com/from-gender-critical-to-qanon-anti-trans-politics-and-the-laundering-of-conspiracy/
 

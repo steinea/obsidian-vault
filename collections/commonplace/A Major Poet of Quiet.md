@@ -9,7 +9,7 @@ date: 2016-04-03
 permalink: 2016/04/03/ben-lerner-a-major-poet-of-quiet
 ---
 
-[[2016]] • [[commonplace]] • [[Ben Lerner]] • [[The Paris Review]]
+[[2016]] • [[Commonplace]] • [[Ben Lerner]] • [[The Paris Review]]
 
 http://www.theparisreview.org/blog/2016/03/31/a-major-poet-of-quiet/
 

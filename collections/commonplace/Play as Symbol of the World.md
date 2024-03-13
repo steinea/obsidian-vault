@@ -9,7 +9,7 @@ date: 2016-11-14
 permalink: 2016/11/14/stuart-elden-play-as-symbol-of-the-world
 ---
 
-[[2016]] • [[commonplace]] • [[Stuart Elden]] • [[Notre Dame Philosophical Reviews]]
+[[2016]] • [[Commonplace]] • [[Stuart Elden]] • [[Notre Dame Philosophical Reviews]]
 
 https://ndpr.nd.edu/news/71322-play-as-symbol-of-the-world-and-other-writings/
 

@@ -9,7 +9,7 @@ date: 2015-06-20
 permalink: 2015/06/20/ferdinand-de-saussure-thomas-sebeok-jakob-von-uexkull-charles-sanders-peirce-semiotics
 ---
 
-[[2015]] • [[commonplace]] • [[Ferdinand de Saussure]] • [[Thomas Sebeok]] • [[Jakob von Uexkull]] • [[Charles Sanders Peirce]] • [[Wikipedia]] 
+[[2015]] • [[Commonplace]] • [[Ferdinand de Saussure]] • [[Thomas Sebeok]] • [[Jakob von Uexkull]] • [[Charles Sanders Peirce]] • [[Wikipedia]] 
 
 https://en.wikipedia.org/wiki/Semiotics
 

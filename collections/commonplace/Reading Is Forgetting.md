@@ -9,7 +9,7 @@ date: 2015-07-01
 permalink: 2015/07/01/tim-parks-reading-is-forgetting
 ---
 
-[[2015]] • [[commonplace]] • [[Tim Parks]] • [[New York Review of Books]] 
+[[2015]] • [[Commonplace]] • [[Tim Parks]] • [[New York Review of Books]] 
 
 https://www.nybooks.com/online/2015/06/26/reading-is-forgetting/
 

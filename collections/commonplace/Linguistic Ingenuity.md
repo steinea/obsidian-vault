@@ -9,7 +9,7 @@ date: 2014-04-28
 permalink: 2014/04/28/gabriel-arana-linguistic-ingenuity
 ---
 
-[[2014]] • [[commonplace]] • [[Gabriel Arana]] • [[The Atlantic]]
+[[2014]] • [[Commonplace]] • [[Gabriel Arana]] • [[The Atlantic]]
 
 https://www.theatlantic.com/sexes/archive/2013/01/creaky-voice-yet-another-example-of-young-womens-linguistic-ingenuity/267046/
 

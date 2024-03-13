@@ -9,7 +9,7 @@ date: 2014-03-31
 permalink: 2014/03/31/kathryn-schulz-finals-forms
 ---
 
-[[2014]] • [[commonplace]] • [[Kathryn Schulz]] • [[The New Yorker]]
+[[2014]] • [[Commonplace]] • [[Kathryn Schulz]] • [[The New Yorker]]
 
 http://www.newyorker.com/magazine/2014/04/07/final-forms
 

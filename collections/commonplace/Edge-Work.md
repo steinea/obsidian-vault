@@ -9,7 +9,7 @@ date: 2023-10-16
 permalink: 2023/10/16/angelita-biscotti-edge-work
 ---
 
-[[2023]] • [[commonplace]] • [[Angelita Biscotti]] • [[Sydney Review of Books]]
+[[2023]] • [[Commonplace]] • [[Angelita Biscotti]] • [[Sydney Review of Books]]
 
 https://sydneyreviewofbooks.com/review/li-argosy-theory-colours/
 

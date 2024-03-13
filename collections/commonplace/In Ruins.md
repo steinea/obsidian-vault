@@ -9,7 +9,7 @@ date: 2015-09-23
 permalink: 2015/09/23/jonathan-farmer-in-ruins
 ---
 
-[[2015]] • [[commonplace]] • [[Jonathan Farmer]] • [[Los Angeles Review of Books]]
+[[2015]] • [[Commonplace]] • [[Jonathan Farmer]] • [[Los Angeles Review of Books]]
 
 https://lareviewofbooks.org/article/in-ruins/
 

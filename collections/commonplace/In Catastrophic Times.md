@@ -9,7 +9,7 @@ date: 2016-02-10
 permalink: 2016/02/10/s-c-hickman-in-catastrophic-times
 ---
 
-[[2016]] • [[commonplace]] • [[S. C. Hickman]] •[[Social Ecologies]]
+[[2016]] • [[Commonplace]] • [[S. C. Hickman]] •[[Social Ecologies]]
 
 https://socialecologies.wordpress.com/2015/12/30/isabelle-stengers-in-catastrophic-times/
 

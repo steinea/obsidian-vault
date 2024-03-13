@@ -9,7 +9,7 @@ date: 2016-04-07
 permalink: 2016/04/07/ana-teixeira-pinto-enantiomorphs-in-hyperspace
 ---
 
-[[2016]] • [[commonplace]] • [[Ana Teixeira Pinto]] • [[e-flux]]
+[[2016]] • [[Commonplace]] • [[Ana Teixeira Pinto]] • [[e-flux]]
 
 http://www.e-flux.com/journal/enantiomorphs-in-hyperspace-living-and-dying-on-the-fourth-dimension/
 

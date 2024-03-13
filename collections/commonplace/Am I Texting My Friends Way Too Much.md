@@ -9,7 +9,7 @@ date: 2016-07-03
 permalink: 2016/07/03/mira-gonzalez-am-i-texting-my-friends-way-too-much
 ---
 
-[[2016]] • [[commonplace]] • [[Mira Gonzalez]] • [[Real Life]]
+[[2016]] • [[Commonplace]] • [[Mira Gonzalez]] • [[Real Life]]
 
 http://reallifemag.com/ok-pls-thx-am-i-texting-my-friends-way-too-much/
 

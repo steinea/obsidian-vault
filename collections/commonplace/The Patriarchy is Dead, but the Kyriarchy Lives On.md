@@ -9,7 +9,7 @@ date: 2015-07-14
 permalink: 2015/07/14/nichi-hodgson-the-patriarchy-is-dead-but-the-kyriarchy-lives-on
 ---
 
-[[2015]] • [[commonplace]] • [[Nichi Hodgson]] • [[The Guardian]] 
+[[2015]] • [[Commonplace]] • [[Nichi Hodgson]] • [[The Guardian]] 
 
 https://www.theguardian.com/commentisfree/2010/sep/10/kyriarchy-and-patriarchy
 

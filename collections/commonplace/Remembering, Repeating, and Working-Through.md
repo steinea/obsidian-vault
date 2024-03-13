@@ -9,7 +9,7 @@ date: 2016-03-05
 permalink: 2016/03/05/sigmund-freud-remembering-repeating-and-working-through
 ---
 
-[[2016]] • [[commonplace]] • [[Sigmund Freud]] • [[Marxists]]
+[[2016]] • [[Commonplace]] • [[Sigmund Freud]] • [[Marxists]]
 
 https://www.marxists.org/reference/subject/philosophy/works/at/catharsis.htm
 

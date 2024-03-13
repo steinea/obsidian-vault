@@ -9,7 +9,7 @@ date: 2016-03-04
 permalink: 2016/03/04/ching-hung-woo-free-will-is-an-illusion-but-freedom-isnt
 ---
 
-[[2016]] • [[commonplace]] • [[Ching-Hung Woo]] • [[Philosophy Now]]
+[[2016]] • [[Commonplace]] • [[Ching-Hung Woo]] • [[Philosophy Now]]
 
 https://philosophynow.org/issues/112/Free_Will_Is_An_Illusion_But_Freedom_Isnt
 

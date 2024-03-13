@@ -9,7 +9,7 @@ date: 2023-02-02
 permalink: 2023/02/02/spencer-beswick-living-communism
 ---
 
-[[2023]] • [[commonplace]] • [[Spencer Beswick]] • [[Living Communism]]
+[[2023]] • [[Commonplace]] • [[Spencer Beswick]] • [[Living Communism]]
 
 https://anarchiststudies.org/living-communism-spencer-beswick/
  

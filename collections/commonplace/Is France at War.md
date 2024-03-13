@@ -9,7 +9,7 @@ date: 2015-11-16
 permalink: 2015/11/16/krishnadev-calamur-is-france-at-war
 ---
 
-[[2015]] • [[commonplace]] • [[Krishnadev Calamur]] • [[The Atlantic]]
+[[2015]] • [[Commonplace]] • [[Krishnadev Calamur]] • [[The Atlantic]]
 
 https://www.theatlantic.com/international/archive/2015/11/is-france-at-war-isis/416244/
 

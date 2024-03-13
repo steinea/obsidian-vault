@@ -9,7 +9,7 @@ date: 2017-03-01
 permalink: 2017/03/01/shreeharsh-kelkar-a-theory-of-key-points
 ---
 
-[[2017]] • [[commonplace]] • [[Shreeharsh Kelkar]] • [[Platypus]] 
+[[2017]] • [[Commonplace]] • [[Shreeharsh Kelkar]] • [[Platypus]] 
 
 http://blog.castac.org/2017/03/key-points/
 

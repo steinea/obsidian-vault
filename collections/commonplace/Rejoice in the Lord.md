@@ -9,7 +9,7 @@ date: 2015-05-20
 permalink: 2015/05/20/habakkuk-rejoice-in-the-lord
 ---
 
-[[2015]] • [[commonplace]] • [[Habakkuk]] • [[Bible]] 
+[[2015]] • [[Commonplace]] • [[Habakkuk]] • [[Bible]] 
 
 https://en.wikipedia.org/wiki/Habakkuk_3
 

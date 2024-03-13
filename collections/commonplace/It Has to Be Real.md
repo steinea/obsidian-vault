@@ -9,7 +9,7 @@ date: 2022-11-24
 permalink: 2022/11/24/tony-gilroy-it-has-to-be-real
 ---
 
-[[2022]] • [[commonplace]] • [[Tony Gilroy]] • [[Vulture]]
+[[2022]] • [[Commonplace]] • [[Tony Gilroy]] • [[Vulture]]
 
 https://www.vulture.com/article/andor-tony-gilroy-finale-interview.html
 

@@ -9,7 +9,7 @@ date: 2015-09-07
 permalink: 2015/09/07/branden-adams-fossil-fools
 ---
 
-[[2015]] • [[commonplace]] • [[Branden Adams]] • [[The New Inquiry]]
+[[2015]] • [[Commonplace]] • [[Branden Adams]] • [[The New Inquiry]]
 
 https://thenewinquiry.com/fossil-fools/
 

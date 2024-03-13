@@ -9,7 +9,7 @@ date: 2015-07-09
 permalink: 2015/07/09/adrian-kent-our-quantum-reality-problem
 ---
 
-[[2015]] • [[commonplace]] • [[Adrian Kent]] • [[Aeon]] 
+[[2015]] • [[Commonplace]] • [[Adrian Kent]] • [[Aeon]] 
 
 https://web.archive.org/web/20150906055003/http://aeon.co/magazine/science/our-quantum-reality-problem/
 

@@ -9,7 +9,7 @@ date: 2014-01-16
 permalink: 2014/01/16/alan-watts-the-playful-universe
 ---
 
-[[2014]] • [[commonplace]] • [[Alan Watts]] • [[Wordpress]]
+[[2014]] • [[Commonplace]] • [[Alan Watts]] • [[Wordpress]]
 
 https://annemariesteen.wordpress.com/2014/01/16/playful-universe/
 

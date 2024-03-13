@@ -9,7 +9,7 @@ date: 2022-11-10
 permalink: 2022/11/10/avery-alder-ugly-logistics-and-fragile-connections
 ---
 
-[[2022]] • [[commonplace]] • [[Avery Alder]] • [[Twitter]]
+[[2022]] • [[Commonplace]] • [[Avery Alder]] • [[Twitter]]
 
 https://mobile.twitter.com/lackingceremony/status/1590859584427921409
 

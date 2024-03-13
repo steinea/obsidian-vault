@@ -9,7 +9,7 @@ date: 2015-04-22
 permalink: 2015/04/22/ira-wells-jonathan-lethem-the-elephant-man
 ---
 
-[[2015]] • [[commonplace]] • [[Ira Wells]] • [[Los Angeles Review of Books]] 
+[[2015]] • [[Commonplace]] • [[Ira Wells]] • [[Los Angeles Review of Books]] 
 
 https://lareviewofbooks.org/article/jonathan-lethem-elephant-man/
 

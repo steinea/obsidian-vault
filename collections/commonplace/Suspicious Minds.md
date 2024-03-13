@@ -9,7 +9,7 @@ date: 2016-07-18
 permalink: 2016/07/18/evan-kindley-suspicious-minds
 ---
 
-[[2016]] • [[commonplace]] • [[Evan Kindley]] • [[n+1]]
+[[2016]] • [[Commonplace]] • [[Evan Kindley]] • [[n+1]]
 
 https://nplusonemag.com/issue-25/reviews/suspicious-minds-2/
 

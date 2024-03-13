@@ -9,7 +9,7 @@ date: 2015-09-11
 permalink: 2015/09/11/levi-bryant-deleuze-on-assemblages
 ---
 
-[[2015]] • [[commonplace]] • [[Levi Bryant]] • [[Larval Subjects]]
+[[2015]] • [[Commonplace]] • [[Levi Bryant]] • [[Larval Subjects]]
 
 https://larvalsubjects.wordpress.com/2009/10/08/deleuze-on-assemblages/
 

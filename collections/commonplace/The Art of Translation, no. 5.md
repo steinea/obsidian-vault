@@ -9,7 +9,7 @@ date: 2015-11-03
 permalink: 2015/11/03/peter-cole-the-art-of-translation-no-5
 ---
 
-[[2015]] • [[commonplace]] • [[Peter Cole]] • [[The Paris Review]]
+[[2015]] • [[Commonplace]] • [[Peter Cole]] • [[The Paris Review]]
 
 https://www.theparisreview.org/interviews/6386/the-art-of-translation-no-5-peter-cole
 

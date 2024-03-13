@@ -9,7 +9,7 @@ date: 2023-06-03
 permalink: 2023/06/03/terence-blake-reading-julliens-the-incommensurable
 ---
 
-[[2023]] • [[commonplace]] • [[Terence Blake]] • [[Agent Swarm]]
+[[2023]] • [[Commonplace]] • [[Terence Blake]] • [[Agent Swarm]]
 
 https://terenceblake.wordpress.com/2023/01/29/reading-francois-julliens-the-incommensurable-0-from-extro-comparatism-to-decoincidence/
  

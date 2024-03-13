@@ -9,7 +9,7 @@ date: 2015-10-22
 permalink: 2015/10/22/robert-sapolsky-metaphors-are-us
 ---
 
-[[2015]] • [[commonplace]] • [[Robert Sapolsky]] • [[Nautilus]]
+[[2015]] • [[Commonplace]] • [[Robert Sapolsky]] • [[Nautilus]]
 
 https://nautil.us/issue/29/scaling/metaphors-are-us-rp
 

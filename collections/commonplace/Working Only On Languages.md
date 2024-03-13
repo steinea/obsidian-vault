@@ -9,7 +9,7 @@ date: 2018-12-23
 permalink: 2018/12/23/roland-barthes-working-only-on-languages
 ---
 
-[[2018]] • [[commonplace]] • [[Roland Barthes]] • [[Sade, Fourier, Loyola]]
+[[2018]] • [[Commonplace]] • [[Roland Barthes]] • [[Sade, Fourier, Loyola]]
 
 https://books.google.ca/books?id=JSDy19bSKQsC
  

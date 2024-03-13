@@ -9,7 +9,7 @@ date: 2015-10-10
 permalink: 2015/10/10/yoni-applebaum-americas-fragile-constitution
 ---
 
-[[2015]] • [[commonplace]] • [[Yoni Applebaum]] • [[The Atlantic]]
+[[2015]] • [[Commonplace]] • [[Yoni Applebaum]] • [[The Atlantic]]
 
 https://www.theatlantic.com/magazine/archive/2015/10/our-fragile-constitution/403237/
 

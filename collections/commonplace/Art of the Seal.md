@@ -9,7 +9,7 @@ date: 2015-09-05
 permalink: 2015/09/05/alice-rawsthorn-art-of-the-seal
 ---
 
-[[2015]] • [[commonplace]] • [[Alice Rawsthorn]] • [[The New York Times]]
+[[2015]] • [[Commonplace]] • [[Alice Rawsthorn]] • [[The New York Times]]
 
 https://www.nytimes.com/2009/03/08/style/tmagazine/08rawsthorn.html
 

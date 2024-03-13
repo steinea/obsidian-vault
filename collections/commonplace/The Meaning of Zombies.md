@@ -9,7 +9,7 @@ date: 2015-10-29
 permalink: 2015/10/29/naomi-alderman-the-meaning-of-zombies
 ---
 
-[[2015]] • [[commonplace]] • [[Naomi Alderman]] • [[Granta]]
+[[2015]] • [[Commonplace]] • [[Naomi Alderman]] • [[Granta]]
 
 https://granta.com/the-meaning-of-zombies/
 

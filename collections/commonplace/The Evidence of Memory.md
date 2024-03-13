@@ -9,7 +9,7 @@ date: 2016-07-20
 permalink: 2016/07/20/anne-fausto-sterling-the-evidence-of-memory
 ---
 
-[[2016]] • [[commonplace]] • [[Anne Fausto-Sterling]] • [[Boston Review]]
+[[2016]] • [[Commonplace]] • [[Anne Fausto-Sterling]] • [[Boston Review]]
 
 http://bostonreview.net/wonders/fausto-sterling-evidence-memory
 

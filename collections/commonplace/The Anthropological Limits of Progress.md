@@ -9,7 +9,7 @@ date: 2017-06-26
 permalink: 2017/06/26/nicolas-hausdorf-the-anthropological-limits-of-progress
 ---
 
-[[2017]] • [[commonplace]] • [[Nicolas Hausdorf]] • [[Hong Kong Review of Books]] 
+[[2017]] • [[Commonplace]] • [[Nicolas Hausdorf]] • [[Hong Kong Review of Books]] 
 
 https://hkrbooks.com/2017/06/26/hkrb-essays-the-anthropological-limits-of-progress/
 

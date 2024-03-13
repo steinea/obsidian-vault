@@ -9,7 +9,7 @@ date: 2015-07-14
 permalink: 2015/07/14/tim-parks-the-key-to-rereading
 ---
 
-[[2015]] • [[commonplace]] • [[Tim Parks]] • [[New York Review of Books]] 
+[[2015]] • [[Commonplace]] • [[Tim Parks]] • [[New York Review of Books]] 
 
 https://www.nybooks.com/online/2015/07/11/rereading-unlocking-the-mind/
 

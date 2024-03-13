@@ -9,7 +9,7 @@ date: 2014-10-21
 permalink: 2014/10/21/robert-cover-nomos-and-narrative
 ---
 
-[[2014]] • [[commonplace]] • [[Robert Cover]] • [[The Supreme Court 1982 Term]]
+[[2014]] • [[Commonplace]] • [[Robert Cover]] • [[The Supreme Court 1982 Term]]
 
 https://heinonline.org/HOL/LandingPage?handle=hein.journals/hlr97&div=13&id=&page=
 

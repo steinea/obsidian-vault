@@ -9,7 +9,7 @@ date: 2015-02-06
 permalinks: 2015/02/06/kurt-vonnegut-eight-rules-for-writing-fiction
 ---
 
-[[2015]] • [[commonplace]] • [[Kurt Vonnegut]] • [[Troubling Information]]
+[[2015]] • [[Commonplace]] • [[Kurt Vonnegut]] • [[Troubling Information]]
 
 http://www.troubling.info/vonnegut.html
 

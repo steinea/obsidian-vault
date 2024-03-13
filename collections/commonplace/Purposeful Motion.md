@@ -9,7 +9,7 @@ date: 2015-10-05
 permalink: 2015/10/05/bill-cappossere-purposeful-motion
 ---
 
-[[2015]] • [[commonplace]] • [[Bill Cappossere]] • [[Los Angeles Review of Books]]
+[[2015]] • [[Commonplace]] • [[Bill Cappossere]] • [[Los Angeles Review of Books]]
 
 https://lareviewofbooks.org/article/purposeful-motion/
 

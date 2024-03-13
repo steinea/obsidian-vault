@@ -9,7 +9,7 @@ date: 2016-07-05
 permalink: 2016/07/05/frans-de-waal-the-link-between-language-and-cognition-is-a-red-herring
 ---
 
-[[2016]] • [[commonplace]] • [[Frans de Waal]] • [[Aeon]]
+[[2016]] • [[Commonplace]] • [[Frans de Waal]] • [[Aeon]]
 
 https://aeon.co/ideas/the-link-between-language-and-cognition-is-a-red-herring
 

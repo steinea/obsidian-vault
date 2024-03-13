@@ -9,7 +9,7 @@ date: 2015-02-04
 permalink: 2015/02/04/adam-chandler-the-moment-to-arm-ukraine
 ---
 
-[[2015]] • [[commonplace]] • [[Adam Chandler]] • [[The Atlantic]]
+[[2015]] • [[Commonplace]] • [[Adam Chandler]] • [[The Atlantic]]
 
 https://www.theatlantic.com/international/archive/2015/02/ukraine-lethal-aid-pro-russian-separatists-arm/385123/
 

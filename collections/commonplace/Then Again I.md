@@ -9,7 +9,7 @@ date: 2014-05-15
 permalink: 2014/05/15/peter-trachtenberg-then-again-i
 ---
 
-[[2014]] • [[commonplace]] • [[Peter Trachtenberg]] • [[Los Angeles Review of Books]]
+[[2014]] • [[Commonplace]] • [[Peter Trachtenberg]] • [[Los Angeles Review of Books]]
 
 https://lareviewofbooks.org/article/man-periodic-table/
 

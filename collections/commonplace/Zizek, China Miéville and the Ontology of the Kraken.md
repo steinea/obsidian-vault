@@ -9,7 +9,7 @@ date: 2016-10-21
 permalink: 2016/10/21/terence-blake-zizek-china-mieville-and-the-ontology-of-the-kraken
 ---
 
-[[2016]] • [[commonplace]] • [[Terence Blake]] • [[Agent Swarm]]
+[[2016]] • [[Commonplace]] • [[Terence Blake]] • [[Agent Swarm]]
 
 https://terenceblake.wordpress.com/2016/10/21/reading-disparities-1-zizek-china-mieville-and-the-ontology-of-the-kraken/
 

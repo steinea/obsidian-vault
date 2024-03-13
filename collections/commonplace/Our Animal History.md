@@ -9,7 +9,7 @@ date: 2017-02-23
 permalink: 2017/02/23/jenny-uglow-our-animal-history
 ---
 
-[[2017]] • [[commonplace]] • [[Jenny Uglow]] • [[New York Review of Books]] 
+[[2017]] • [[Commonplace]] • [[Jenny Uglow]] • [[New York Review of Books]] 
 
 http://www.nybooks.com/daily/2017/02/23/our-animal-history-making-nature/
 

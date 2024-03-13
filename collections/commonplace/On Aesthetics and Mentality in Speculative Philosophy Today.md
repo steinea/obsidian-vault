@@ -9,7 +9,7 @@ date: 2015-07-13
 permalink: 2015/07/13/a-j-nocek-on-aesthetics-and-mentality-in-speculative-philosophy-today
 ---
 
-[[2015]] • [[commonplace]] • [[A. J. Nocek]] • [[Los Angeles Review of Books]] 
+[[2015]] • [[Commonplace]] • [[A. J. Nocek]] • [[Los Angeles Review of Books]] 
 
 https://lareviewofbooks.org/article/on-aesthetics-and-mentality-in-speculative-philosophy-today/
 

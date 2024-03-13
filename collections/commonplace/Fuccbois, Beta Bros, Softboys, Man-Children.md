@@ -9,7 +9,7 @@ date: 2015-10-05
 permalink: 2015/10/05/emily-rappaport-fuccbois-beta-bros-softboys-man-children
 ---
 
-[[2015]] • [[commonplace]] • [[Emily Rappaport]] • [[Topical Cream]]
+[[2015]] • [[Commonplace]] • [[Emily Rappaport]] • [[Topical Cream]]
 
 https://topicalcream.org/features/fuccbois-beta-bros-softboys-man-children/
 

@@ -9,7 +9,7 @@ date: 2014-12-29
 permalink: 2014/12/29/orson-scott-empire-won-through-conquest
 ---
 
-[[2014]] • [[commonplace]] • [[Orson Scott Card]] • [[Shadow of the Giant]]
+[[2014]] • [[Commonplace]] • [[Orson Scott Card]] • [[Shadow of the Giant]]
 
 https://en.wikipedia.org/wiki/Shadow_of_the_Giant
 

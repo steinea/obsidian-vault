@@ -9,7 +9,7 @@ date: 2016-03-31
 permalink: 2016/03/31/rishi-goyal-the-mind-lives-on-the-heart
 ---
 
-[[2016]] • [[commonplace]] • [[Rishi Goyal]] • [[Los Angeles Review of Books]]
+[[2016]] • [[Commonplace]] • [[Rishi Goyal]] • [[Los Angeles Review of Books]]
 
 https://lareviewofbooks.org/review/the-mind-lives-on-the-heart-a-death-deferred/
 

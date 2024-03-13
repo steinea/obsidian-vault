@@ -9,7 +9,7 @@ date: 2016-02-06
 permalink: 2016/02/06/reza-negarestani-programs-and-realizabilities
 ---
 
-[[2016]] • [[commonplace]] • [[Reza Negarestani]] • [[e-flux]]
+[[2016]] • [[Commonplace]] • [[Reza Negarestani]] • [[e-flux]]
 
 http://www.e-flux.com/journal/what-is-philosophy-part-two-programs-and-realizabilities/
 

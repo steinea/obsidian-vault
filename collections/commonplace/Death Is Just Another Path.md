@@ -9,7 +9,7 @@ date: 2015-08-26
 permalink: 2015/08/26/j-r-r-tolkien-death-is-just-another-path
 ---
 
-[[2015]] • [[commonplace]] • [[J. R. R. Tolkien]] • [[The Return of the King]]
+[[2015]] • [[Commonplace]] • [[J. R. R. Tolkien]] • [[The Return of the King]]
 
 https://en.wikipedia.org/wiki/The_Lord_of_the_Rings:_The_Return_of_the_King
 

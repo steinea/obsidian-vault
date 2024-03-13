@@ -9,7 +9,7 @@ date: 2016-02-11
 permalink: 2016/02/11/sean-carroll-gravitational-waves-at-last
 ---
 
-[[2016]] • [[commonplace]] • [[Sean Carroll]] • [[Preposterous Universe]]
+[[2016]] • [[Commonplace]] • [[Sean Carroll]] • [[Preposterous Universe]]
 
 http://www.preposterousuniverse.com/blog/2016/02/11/gravitational-waves-at-last/
 

@@ -9,7 +9,7 @@ date: 2016-01-26
 permalink: 2016/01/26/astra-taylor-why-we-expose-ourselves
 ---
 
-[[2016]] • [[commonplace]] • [[Astra Taylor]] • [[The Intercept]]
+[[2016]] • [[Commonplace]] • [[Astra Taylor]] • [[The Intercept]]
 
 https://theintercept.com/2016/01/23/surveillance-bernard-harcourt-why-do-we-expose-ourselves/
 

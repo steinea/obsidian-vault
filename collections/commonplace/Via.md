@@ -9,7 +9,7 @@ date: 2015-11-25
 permalink: 2015/11/25/caroline-bergvall-via
 ---
 
-[[2015]] • [[commonplace]] • [[Caroline Bergvall]] • [[Fig]]
+[[2015]] • [[Commonplace]] • [[Caroline Bergvall]] • [[Fig]]
 
 48 Dante Variations   
 

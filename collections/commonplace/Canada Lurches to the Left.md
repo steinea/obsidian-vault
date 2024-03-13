@@ -9,7 +9,7 @@ date: 2015-10-20
 permalink: 2015/10/20/david-frum-canada-lurches-to-the-left
 ---
 
-[[2015]] • [[commonplace]] • [[David Frum]] • [[The Atlantic]]
+[[2015]] • [[Commonplace]] • [[David Frum]] • [[The Atlantic]]
 
 https://www.theatlantic.com/international/archive/2015/10/canada-trudeau-liberals-election/411463/
 

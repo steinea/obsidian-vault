@@ -9,7 +9,7 @@ date: 2015-08-10
 permalink: 2015/08/10/rune-moller-stahl-andreas-moller-mulvad-what-makes-scandinavia-different
 ---
 
-[[2015]] • [[commonplace]] • [[Rune Møller Stahl]] • [[Andreas Møller Mulvad]] • [[Jacobin]]
+[[2015]] • [[Commonplace]] • [[Rune Møller Stahl]] • [[Andreas Møller Mulvad]] • [[Jacobin]]
 
 https://jacobin.com/2015/08/national-review-williamson-bernie-sanders-sweden/
 

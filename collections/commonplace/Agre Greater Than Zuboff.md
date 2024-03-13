@@ -9,7 +9,7 @@ date: 2022-11-13
 permalink: 2022/11/13/alexander-galloway-agre-greater-than-zuboff
 ---
 
-[[2022]] • [[commonplace]] • [[Alexander Galloway]] • [[Culture & Communication]]
+[[2022]] • [[Commonplace]] • [[Alexander Galloway]] • [[Culture & Communication]]
 
 http://cultureandcommunication.org/galloway/agre-zuboff
 

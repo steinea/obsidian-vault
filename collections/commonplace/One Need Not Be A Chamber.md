@@ -9,7 +9,7 @@ date: 2015-06-15
 permalink: 2015/06/15/emily-dickinson-one-need-not-be-a-chamber
 ---
 
-[[2015]] • [[commonplace]] • [[Emily Dickinson]] • [[Bartleby]]
+[[2015]] • [[Commonplace]] • [[Emily Dickinson]] • [[Bartleby]]
 
 https://www.bartleby.com/113/4069.html
 

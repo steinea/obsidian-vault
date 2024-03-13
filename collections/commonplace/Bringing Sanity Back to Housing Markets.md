@@ -9,7 +9,7 @@ date: 2017-01-26
 permalink: 2017/01/26/stephen-price-bringing-sanity-back-to-housing-markets
 ---
 
-[[2017]] • [[commonplace]] • [[Stephen Price]] • [[Maclean's]] 
+[[2017]] • [[Commonplace]] • [[Stephen Price]] • [[Maclean's]] 
 
 http://www.macleans.ca/economy/economicanalysis/a-roadmap-for-bringing-sanity-back-to-housing-markets/
 

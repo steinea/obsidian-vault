@@ -9,7 +9,7 @@ date: 2016-03-20
 permalink: 2016/03/20/ron-fournier-the-worst-of-all-worlds
 ---
 
-[[2016]] • [[commonplace]] • [[Ron Fournier]] •[[The Atlantic]]
+[[2016]] • [[Commonplace]] • [[Ron Fournier]] •[[The Atlantic]]
 
 http://www.theatlantic.com/politics/archive/2016/03/clinton-vs-trump-the-worst-of-all-worlds/474024/
 

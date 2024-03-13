@@ -9,7 +9,7 @@ date: 2015-08-28
 permalink: 2015/08/28/yanis-varoufakis-no-time-for-games-in-europe
 ---
 
-[[2015]] • [[commonplace]] • [[Yanis Varoufakis]] • [[The New York Times]]
+[[2015]] • [[Commonplace]] • [[Yanis Varoufakis]] • [[The New York Times]]
 
 https://www.nytimes.com/2015/02/17/opinion/yanis-varoufakis-no-time-for-games-in-europe.html
 

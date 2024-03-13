@@ -9,7 +9,7 @@ date: 2016-03-12
 permalink: 2016/03/12/rob-horning-reacting-to-reactions
 ---
 
-[[2016]] • [[commonplace]] • [[Rob Horning]] • [[The New Inquiry]]
+[[2016]] • [[Commonplace]] • [[Rob Horning]] • [[The New Inquiry]]
 
 http://thenewinquiry.com/blogs/marginal-utility/reacting-to-reactions/
 

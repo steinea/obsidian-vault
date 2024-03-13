@@ -9,7 +9,7 @@ date: 2016-11-06
 permalink: 2016/11/06/geoff-nicholson-the-shrugged-atlas
 ---
 
-[[2016]] • [[commonplace]] • [[Geoff Nicholson]] • [[Los Angeles Review of Books]]
+[[2016]] • [[Commonplace]] • [[Geoff Nicholson]] • [[Los Angeles Review of Books]]
 
 https://lareviewofbooks.org/article/the-shrugged-atlas/
 

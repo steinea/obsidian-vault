@@ -9,7 +9,7 @@ date: 2016-07-10
 permalink: 2016/07/10/carlos-hernandez-ethiopias-boom-times
 ---
 
-[[2016]] • [[commonplace]] • [[Carlos Hernández]] • [[Jacobin]]
+[[2016]] • [[Commonplace]] • [[Carlos Hernández]] • [[Jacobin]]
 
 https://www.jacobinmag.com/2016/05/ethiopia-addis-ababa-development-midroc-amoudi/
 

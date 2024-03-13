@@ -9,7 +9,7 @@ date: 2016-01-05
 permalink: 2016/01/05/michael-hiltzik-the-force-awakens-stinks
 ---
 
-[[2016]] • [[commonplace]] • [[Michael Hiltzik]] • [[Los Angeles Times]]
+[[2016]] • [[Commonplace]] • [[Michael Hiltzik]] • [[Los Angeles Times]]
 
 http://www.latimes.com/business/hiltzik/la-fi-mh-star-wars-the-force-awakens-stinks-20151226-column.html
 

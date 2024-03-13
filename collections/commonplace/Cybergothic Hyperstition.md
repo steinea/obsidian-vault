@@ -9,7 +9,7 @@ date: 2017-05-15
 permalink: 2017/05/15/iris-carver-cybergothic-hyperstition
 ---
 
-[[2017]] • [[commonplace]] • [[Iris Carver]] • [[CCRU]] 
+[[2017]] • [[Commonplace]] • [[Iris Carver]] • [[CCRU]] 
 
 http://www.ccru.net/syzygy/cybergoth.htm
 

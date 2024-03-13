@@ -9,7 +9,7 @@ date: 2016-10-16
 permalink: 2016/10/16/paul-ibbotson-evidence-rebuts-chomskys-theory-of-language-learning
 ---
 
-[[2016]] • [[commonplace]] • [[Paul Ibbotson]] • [[Scientific American]]
+[[2016]] • [[Commonplace]] • [[Paul Ibbotson]] • [[Scientific American]]
 
 http://www.scientificamerican.com/article/evidence-rebuts-chomsky-s-theory-of-language-learning/
 

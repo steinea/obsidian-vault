@@ -9,7 +9,7 @@ date: 2015-02-10
 permalink: 2015/02/10/michel-foucault-dispositif
 ---
 
-[[2015]] • [[commonplace]] • [[Michel Foucault]] • [[Wikipedia]]
+[[2015]] • [[Commonplace]] • [[Michel Foucault]] • [[Wikipedia]]
 
 https://en.wikipedia.org/wiki/Dispositif
 

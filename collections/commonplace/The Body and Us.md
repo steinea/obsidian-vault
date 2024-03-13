@@ -9,7 +9,7 @@ date: 2017-05-11
 permalink: 2017/05/11/riccardo-manzotti-tim-parks-the-body-and-us
 ---
 
-[[2017]] • [[commonplace]] • [[Riccardo Manzotti]] • [[Tim Parks]] 
+[[2017]] • [[Commonplace]] • [[Riccardo Manzotti]] • [[Tim Parks]] 
 
 http://www.nybooks.com/daily/2017/05/11/consciousness-the-body-and-us/
 

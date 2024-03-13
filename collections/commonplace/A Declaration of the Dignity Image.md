@@ -9,7 +9,7 @@ date: 2016-09-17
 permalink: 2016/09/17/american-artist-a-declaration-of-the-dignity-image
 ---
 
-[[2016]] • [[commonplace]] • [[American Artist]] •[[The New Inquiry]]
+[[2016]] • [[Commonplace]] • [[American Artist]] •[[The New Inquiry]]
 
 http://thenewinquiry.com/essays/a-declaration-of-the-dignity-image/
 

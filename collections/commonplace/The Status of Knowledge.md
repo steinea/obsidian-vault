@@ -9,7 +9,7 @@ date: 2016-02-28
 permalink: 2016/02/28/jean-francois-lyotard-the-postmodern-condition
 ---
 
-[[2016]] • [[commonplace]] • [[Jean-Francois Lyotard]] • [[Marxists]]
+[[2016]] • [[Commonplace]] • [[Jean-Francois Lyotard]] • [[Marxists]]
 
 https://www.marxists.org/reference/subject/philosophy/works/fr/lyotard.htm
 

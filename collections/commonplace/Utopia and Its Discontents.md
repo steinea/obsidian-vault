@@ -9,7 +9,7 @@ date: 2015-03-01
 permalink: 2015/03/01/slawomir-sierakowski-slavoj-zizek-utopia-and-its-discontents
 ---
 
-[[2015]] • [[commonplace]] • [[Slawomir Sierakowski]] • [[Slavoj Zizek]] • [[Los Angeles Review of Books]]
+[[2015]] • [[Commonplace]] • [[Slawomir Sierakowski]] • [[Slavoj Zizek]] • [[Los Angeles Review of Books]]
 
 https://lareviewofbooks.org/article/utopia-discontents-slawomir-sierakowski-talks-slavoj-zizek/
 

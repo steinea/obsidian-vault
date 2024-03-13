@@ -9,7 +9,7 @@ date: 2018-03-19
 permalink: 2018/03/19/alexander-r-galloway-anti-computer
 ---
 
-[[2018]] • [[commonplace]] • [[Alexander Galloway]] • [[Culture and Communication]]
+[[2018]] • [[Commonplace]] • [[Alexander Galloway]] • [[Culture and Communication]]
 
 http://cultureandcommunication.org/galloway/anti-computer
  

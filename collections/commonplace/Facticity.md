@@ -9,7 +9,7 @@ date: 2016-04-16
 permalink: 2016/04/16/martin-heidegger-facticity
 ---
 
-[[2016]] • [[commonplace]] • [[Martin Heidegger]] • [[Wikipedia]]
+[[2016]] • [[Commonplace]] • [[Martin Heidegger]] • [[Wikipedia]]
 
 https://en.wikipedia.org/w/index.php?title=Facticity&oldid=706533128
 

@@ -9,7 +9,7 @@ date: 2015-11-04
 permalink: 2015/11/04/cicero-five-canons-of-rhetoric
 ---
 
-[[2015]] • [[commonplace]] • [[Cicero]] • [[Wikipedia]]
+[[2015]] • [[Commonplace]] • [[Cicero]] • [[Wikipedia]]
 
 https://en.wikipedia.org/wiki/Rhetoric#Canons
 

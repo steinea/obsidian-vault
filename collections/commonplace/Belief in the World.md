@@ -9,7 +9,7 @@ date: 2023-05-10
 permalink: 2023/05/10/gilles-deleuze-belief-in-the-world
 ---
 
-[[2023]] • [[commonplace]] • [[Gilles Deleuze]] • [[The Funambulist]]
+[[2023]] • [[Commonplace]] • [[Gilles Deleuze]] • [[The Funambulist]]
 
 https://thefunambulist.net/editorials/philosophy-control-and-becoming-a-conversation-between-toni-negri-and-gilles-deleuze
  

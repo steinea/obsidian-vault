@@ -9,7 +9,7 @@ date: 2016-01-09
 permalink: 2016/01/09/abou-farman-social-science-socialist-scientist-and-the-future-of-utopias
 ---
 
-[[2016]] • [[commonplace]] • [[Abou Farman]] • [[Platypus]]
+[[2016]] • [[Commonplace]] • [[Abou Farman]] • [[Platypus]]
 
 http://blog.castac.org/2015/09/socialist-scientists/
 

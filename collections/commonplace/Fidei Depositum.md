@@ -9,7 +9,7 @@ date: 2014-12-06
 permalink: 2014/12/06/pope-john-paul-ii-fidei-depositum
 ---
 
-[[2014]] • [[commonplace]] • [[Pope John Paul II]] • [[Wikipedia]]
+[[2014]] • [[Commonplace]] • [[Pope John Paul II]] • [[Wikipedia]]
 
 https://en.wikipedia.org/wiki/Catechism_of_the_Catholic_Church
 

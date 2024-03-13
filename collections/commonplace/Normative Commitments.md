@@ -9,7 +9,7 @@ date: 2016-09-06
 permalink: 2016/09/06/raphael-magarik-normative-commitments
 ---
 
-[[2016]] • [[commonplace]] • [[Raphael Magarik]] • [[Los Angeles Review of Books]]
+[[2016]] • [[Commonplace]] • [[Raphael Magarik]] • [[Los Angeles Review of Books]]
 
 https://lareviewofbooks.org/article/normative-commitments-a-philosophical-vision-for-the-study-of-religion/
 

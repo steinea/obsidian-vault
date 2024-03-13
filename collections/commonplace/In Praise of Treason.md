@@ -9,7 +9,7 @@ date: 2023-09-30
 permalink: 2023/09/30/john-clegg-in-praise-of-treason
 ---
 
-[[2023]] • [[commonplace]] • [[John Clegg]] • [[The Brooklyn Rail]]
+[[2023]] • [[Commonplace]] • [[John Clegg]] • [[The Brooklyn Rail]]
 
 https://brooklynrail.org/2023/03/field-notes/In-Praise-of-Treason
 

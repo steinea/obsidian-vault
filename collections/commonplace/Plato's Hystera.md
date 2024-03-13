@@ -9,7 +9,7 @@ date: 2014-09-05
 permalink: 2014/09/05/luce-irigaray-platos-hystera
 ---
 
-[[2014]] • [[commonplace]] • [[Luce Irigaray]] • [[Speculum of the Other Woman]]
+[[2014]] • [[Commonplace]] • [[Luce Irigaray]] • [[Speculum of the Other Woman]]
 
 https://www.cornellpress.cornell.edu/book/9780801416637/speculum-of-the-other-woman/
 

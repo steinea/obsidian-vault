@@ -9,7 +9,7 @@ date: 2015-03-19
 permalink: 2015/03/19/emma-green-the-gay-schism-in-the-mennonite-church
 ---
 
-[[2015]] • [[commonplace]] • [[Emma Green]] • [[The Atlantic]]
+[[2015]] • [[Commonplace]] • [[Emma Green]] • [[The Atlantic]]
 
 https://www.theatlantic.com/national/archive/2015/03/gay-and-mennonite/388060/
 

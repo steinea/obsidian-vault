@@ -9,7 +9,7 @@ date: 2014-10-28
 permalink: 2014/10/28/isaac-asimov-on-creativity
 ---
 
-[[2014]] • [[commonplace]] • [[Isaac Asimov]] • [[MIT Technology Review]]
+[[2014]] • [[Commonplace]] • [[Isaac Asimov]] • [[MIT Technology Review]]
 
 https://www.technologyreview.com/2014/10/20/169899/isaac-asimov-asks-how-do-people-get-new-ideas/
 

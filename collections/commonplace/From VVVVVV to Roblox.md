@@ -9,7 +9,7 @@ date: 2023-10-16
 permalink: 2023/10/16/patrick-klepek-from-vvvvvv-to-roblox
 ---
 
-[[2023]] • [[commonplace]] • [[Patrick Klepek]] • [[Waypoint]]
+[[2023]] • [[Commonplace]] • [[Patrick Klepek]] • [[Waypoint]]
 
 https://www.vice.com/en/article/z3xn95/how-the-designer-of-vvvvvv-and-dicey-dungeons-fell-in-love-with-roblox
 

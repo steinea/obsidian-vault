@@ -9,7 +9,7 @@ date: 2014-09-01
 permalink: 2014/09/01/steve-coll-dark-fantasy-of-security
 ---
 
-[[2014]] • [[commonplace]] • [[Steve Coll]] • [[The New Yorker]]
+[[2014]] • [[Commonplace]] • [[Steve Coll]] • [[The New Yorker]]
 
 https://www.newyorker.com/podcast/comment/in-search-of-a-strategy
 

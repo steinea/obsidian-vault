@@ -9,7 +9,7 @@ date: 2016-07-01
 permalink: 2016/07/01/brandon-keim-chimps-and-the-zen-of-falling-water
 ---
 
-[[2016]] • [[commonplace]] • [[Brandon Keim]] • [[Nautilus]]
+[[2016]] • [[Commonplace]] • [[Brandon Keim]] • [[Nautilus]]
 
 https://nautil.us/blog/chimps-and-the-zen-of-falling-water
 

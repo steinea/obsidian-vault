@@ -9,7 +9,7 @@ date: 2015-08-25
 permalink: 2015/08/25/david-p-barash-competition-and-coexistence
 ---
 
-[[2015]] • [[commonplace]] • [[David P. Barash]] • [[Los Angeles Review of Books]]
+[[2015]] • [[Commonplace]] • [[David P. Barash]] • [[Los Angeles Review of Books]]
 
 https://lareviewofbooks.org/article/competition-and-coexistence-a-pushmi-pullyu-perspective/
 

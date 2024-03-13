@@ -9,7 +9,7 @@ date: 2014-01-12
 permalink: 2014/01/12/alix-rule-david-levine-international-art-english
 ---
 
-[[2014]] • [[commonplace]] • [[Alix Rule]] • [[David Levine]] • [[Triple Canopy]]
+[[2014]] • [[Commonplace]] • [[Alix Rule]] • [[David Levine]] • [[Triple Canopy]]
 
 https://www.canopycanopycanopy.com/issues/16/contents/international_art_english
 

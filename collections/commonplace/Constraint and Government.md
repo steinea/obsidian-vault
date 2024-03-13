@@ -9,7 +9,7 @@ date: 2013-09-29
 permalink: 2013/09/29/thomas-jefferson-constraint-and-government
 ---
 
-[[2013]] • [[commonplace]] • [[Thomas Jefferson]] • [[Wikipedia]]
+[[2013]] • [[Commonplace]] • [[Thomas Jefferson]] • [[Wikipedia]]
 
 https://en.wikipedia.org/wiki/Notes_on_the_State_of_Virginia
 

@@ -9,7 +9,7 @@ date: 2017-01-29
 permalink: 2017/01/29/marta-figlerowicz-white-men-on-a-mission
 ---
 
-[[2017]] • [[commonplace]] • [[Marta Figlerowicz]] • [[Los Angeles Review of Books]] 
+[[2017]] • [[Commonplace]] • [[Marta Figlerowicz]] • [[Los Angeles Review of Books]] 
 
 https://lareviewofbooks.org/article/white-men-mission-martin-scorseses-long-silence/
 

@@ -9,7 +9,7 @@ date: 2015-05-14
 permalink: 2015/05/14/roberto-bolano-dick-is-thoreau
 ---
 
-[[2015]] • [[commonplace]] • [[Roberto Bolaño]] • [[New Directions]]
+[[2015]] • [[Commonplace]] • [[Roberto Bolaño]] • [[New Directions]]
 
 https://www.ndbooks.com/book/between-parentheses/
 

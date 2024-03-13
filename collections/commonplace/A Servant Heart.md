@@ -9,7 +9,7 @@ date: 2015-11-30
 permalink: 2015/11/30/james-g-chappel-a-servant-heart
 ---
 
-[[2015]] • [[commonplace]] • [[James G. Chappel]] • [[Boston Review]]
+[[2015]] • [[Commonplace]] • [[James G. Chappel]] • [[Boston Review]]
 
 https://www.bostonreview.net/articles/james-chappel-servant-heart-religion-neoliberalism/
 

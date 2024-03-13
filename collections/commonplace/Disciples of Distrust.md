@@ -9,7 +9,7 @@ date: 2016-11-05
 permalink: 2016/11/05/gary-wills-disciples-of-distrust
 ---
 
-[[2016]] • [[commonplace]] • [[Garry Wills]] •[[New York Review of Books]]
+[[2016]] • [[Commonplace]] • [[Garry Wills]] •[[New York Review of Books]]
 
 http://www.nybooks.com/daily/2016/11/05/disciples-of-distrust-trump-iraq-war-legacy/
 

@@ -9,7 +9,7 @@ date: 2015-04-30
 permalink: 2015/04/30/milan-kundera-the-apologizer
 ---
 
-[[2015]] • [[commonplace]] • [[Milan Kundera]] • [[The New Yorker]] 
+[[2015]] • [[Commonplace]] • [[Milan Kundera]] • [[The New Yorker]] 
 
 https://www.newyorker.com/magazine/2015/05/04/the-apologizer
 

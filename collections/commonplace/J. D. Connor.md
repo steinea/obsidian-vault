@@ -9,7 +9,7 @@ date: 2016-01-08
 permalink: 2016/01/08/j-d-connor-the-force-awakens-making-things-right
 ---
 
-[[2016]] • [[commonplace]] • [[J. D. Connor]] • [[Los Angeles Review of Books]]
+[[2016]] • [[Commonplace]] • [[J. D. Connor]] • [[Los Angeles Review of Books]]
 
 http://lareviewofbooks.org/essay/making-things-right-star-wars-episode-vii-the-force-awakens/
 

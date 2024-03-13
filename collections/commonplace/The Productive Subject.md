@@ -9,7 +9,7 @@ date: 2015-10-31
 permalink: 2015/10/31/pierre-macheray-the-productive-subject
 ---
 
-[[2015]] • [[commonplace]] • [[Pierre Macheray]] • [[Viewpoint Magazine]]
+[[2015]] • [[Commonplace]] • [[Pierre Macheray]] • [[Viewpoint Magazine]]
 
 https://viewpointmag.com/2015/10/31/the-productive-subject/
 

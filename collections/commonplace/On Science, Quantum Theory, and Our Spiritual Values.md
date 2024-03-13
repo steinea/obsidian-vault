@@ -9,7 +9,7 @@ date: 2015-07-02
 permalink: 2015/07/02/simone-weil-on-science-quantum-theory-and-our-spiritual-values
 ---
 
-[[2015]] • [[commonplace]] • [[Simone Weil]] • [[The Marginalian]] 
+[[2015]] • [[Commonplace]] • [[Simone Weil]] • [[The Marginalian]] 
 
 https://www.themarginalian.org/2015/06/24/simone-weil-on-science-necessity-and-the-love-of-god/
 

@@ -9,7 +9,7 @@ date: 2015-09-19
 permalink: 2015/09/19/elizabeth-alexander-praise-song-for-the-day
 ---
 
-[[2015]] • [[commonplace]] • [[Elizabeth Alexander]] • [[Poets]]
+[[2015]] • [[Commonplace]] • [[Elizabeth Alexander]] • [[Poets]]
 
 https://poets.org/poem/praise-song-day
 

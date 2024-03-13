@@ -9,7 +9,7 @@ date: 2015-11-04
 permalink: 2015/11/04/joe-veix-live-long-and-die-out
 ---
 
-[[2015]] • [[commonplace]] • [[Joe Veix]] • [[The Awl]]
+[[2015]] • [[Commonplace]] • [[Joe Veix]] • [[The Awl]]
 
 https://www.theawl.com/2015/11/options
 

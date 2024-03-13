@@ -9,7 +9,7 @@ date: 2022-12-25
 permalink: 2022/12/25/hafiz-fear-is-the-cheapest-room-in-the-house
 ---
 
-[[2022]] • [[commonplace]] • [[Hafiz]] • [[Poets United]]
+[[2022]] • [[Commonplace]] • [[Hafiz]] • [[Poets United]]
 
 https://poetryblogroll.blogspot.com/2011/09/classic-poetry-your-mother-and-my.html
 

@@ -9,7 +9,7 @@ date: 2013-09-29
 permalink: 2013/09/29/roger-williams-church-and-state
 ---
 
-[[2013]] • [[commonplace]] • [[Roger Williams]] • [[World History Encyclopedia]]
+[[2013]] • [[Commonplace]] • [[Roger Williams]] • [[World History Encyclopedia]]
 
 https://www.worldhistory.org/article/1662/roger-williams-a-letter-to-the-town-of-providence/
 

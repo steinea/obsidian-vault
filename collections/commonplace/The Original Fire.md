@@ -9,7 +9,7 @@ date: 2022-11-12
 permalink: 2022/11/12/bryan-vandyke-the-original-fire
 ---
 
-[[2022]] • [[commonplace]] • [[Bryan VanDyke]] • [[The Millions]]
+[[2022]] • [[Commonplace]] • [[Bryan VanDyke]] • [[The Millions]]
 
 https://themillions.com/2022/11/the-original-fire-on-mary-shelley-and-creativity.html
 

@@ -9,7 +9,7 @@ date: 2017-07-16
 permalink: 2017/07/16/michael-tomasello-usage-based-linguistics
 ---
 
-[[2017]] • [[commonplace]] • [[Michael Tomasello]] • [[Oxford Bibliographies]] 
+[[2017]] • [[Commonplace]] • [[Michael Tomasello]] • [[Oxford Bibliographies]] 
 
 http://www.oxfordbibliographies.com/view/document/obo-9780199772810/obo-9780199772810-0068.xml
 

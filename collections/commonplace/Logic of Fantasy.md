@@ -9,7 +9,7 @@ date: 2017-01-14
 permalink: 2017/01/14/jacques-lacan-logic-of-fantasy
 ---
 
-[[2017]] • [[commonplace]] • [[Jacques Lacan]] 
+[[2017]] • [[Commonplace]] • [[Jacques Lacan]] 
 
 http://www.lacan.com/seminars3.htm
 

@@ -9,7 +9,7 @@ date: 2017-05-04
 permalink: 2017/05/05/terence-blake-let-no-one-ignorant-of-sts-enter-here
 ---
 
-[[2017]] • [[commonplace]] • [[Terence Blake]] • [[Agent Swarm]] 
+[[2017]] • [[Commonplace]] • [[Terence Blake]] • [[Agent Swarm]] 
 
 https://terenceblake.wordpress.com/2017/05/04/let-noone-ignorant-of-sts-enter-1-latourology-and-the-dark-latour/
 

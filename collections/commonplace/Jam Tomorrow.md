@@ -9,7 +9,7 @@ date: 2016-01-03
 permalink: 2016/03/03/lewis-carroll-jam-tomorrow
 ---
 
-[[2016]] • [[commonplace]] • [[Lewis Carroll]] • [[Through the Looking Glass]]
+[[2016]] • [[Commonplace]] • [[Lewis Carroll]] • [[Through the Looking Glass]]
 
 https://en.wikipedia.org/wiki/Through_the_Looking-Glass
 

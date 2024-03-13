@@ -9,7 +9,7 @@ date: 2016-12-16
 permalink: 2016/12/16/lois-p-jones-mandy-kahn-my-nature-is-to-dive
 ---
 
-[[2016]] • [[commonplace]] • [[Lois P. Jones]] • [[Mandy Kahn]] • [[Los Angeles Review of Books]]
+[[2016]] • [[Commonplace]] • [[Lois P. Jones]] • [[Mandy Kahn]] • [[Los Angeles Review of Books]]
 
 https://lareviewofbooks.org/article/nature-dive-interview-poet-mandy-kahn/
 

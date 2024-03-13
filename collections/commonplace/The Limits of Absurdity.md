@@ -9,7 +9,7 @@ date: 2016-03-23
 permalink: 2016/03/23/robert-zaretsky-the-limits-of-absurdity
 ---
 
-[[2016]] • [[commonplace]] • [[Robert Zaretsky]] • [[Los Angeles Review of Books]]
+[[2016]] • [[Commonplace]] • [[Robert Zaretsky]] • [[Los Angeles Review of Books]]
 
 https://lareviewofbooks.org/essay/the-limits-of-absurdity/
 

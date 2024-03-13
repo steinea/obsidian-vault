@@ -9,7 +9,7 @@ date: 2016-05-07
 permalink: 2016/05/07/lauren-duca-the-viral-virus
 ---
 
-[[2016]] • [[commonplace]] • [[Lauren Duca]] • [[The New Inquiry]]
+[[2016]] • [[Commonplace]] • [[Lauren Duca]] • [[The New Inquiry]]
 
 http://thenewinquiry.com/essays/the-viral-virus/
 

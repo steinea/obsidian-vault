@@ -9,7 +9,7 @@ date: 2017-01-19
 permalink: 2017/01/19/steven-weinberg-the-trouble-with-quantum-mechanics
 ---
 
-[[2017]] • [[commonplace]] • [[Steven Weinberg]] • [[New York Review of Books]] 
+[[2017]] • [[Commonplace]] • [[Steven Weinberg]] • [[New York Review of Books]] 
 
 http://www.nybooks.com/articles/2017/01/19/trouble-with-quantum-mechanics/
 

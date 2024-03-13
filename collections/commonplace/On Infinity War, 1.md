@@ -9,7 +9,7 @@ date: 2018-05-02
 permalink: 2018/05/02/aaron-bady-on-infinity-war-1
 ---
 
-[[2018]] • [[commonplace]] • [[Aaron Bady]] • [[Los Angeles Review of Books]]
+[[2018]] • [[Commonplace]] • [[Aaron Bady]] • [[Los Angeles Review of Books]]
 
 https://lareviewofbooks.org/article/post-shawarma-avengers-infinity-war/
  

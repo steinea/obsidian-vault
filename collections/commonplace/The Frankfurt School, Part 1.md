@@ -9,7 +9,7 @@ date: 2017-04-06
 permalink: 2017/04/06/peter-thompson-the-frankfurt-school-part-1
 ---
 
-[[2017]] • [[commonplace]] • [[Peter Thompson]] • [[The Guardian]] 
+[[2017]] • [[Commonplace]] • [[Peter Thompson]] • [[The Guardian]] 
 
 http://www.theguardian.com/commentisfree/2013/mar/25/anders-breivik-frankfurt-school
 

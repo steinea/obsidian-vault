@@ -9,7 +9,7 @@ date: 2016-03-09
 permalink: 2016/03/09/sarah-scoles-how-thinking-about-infinity-changes-kids-brains-on-math
 ---
 
-[[2016]] • [[commonplace]] • [[Sarah Scoles]] • [[Aeon]]
+[[2016]] • [[Commonplace]] • [[Sarah Scoles]] • [[Aeon]]
 
 https://aeon.co/opinions/how-thinking-about-infinity-changes-kids-brains-on-math
 

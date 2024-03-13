@@ -9,7 +9,7 @@ date: 2015-07-14
 permalink: 2015/07/14/john-lancaster-whos-afraid-of-the-library-of-america
 ---
 
-[[2015]] • [[commonplace]] • [[John Lanchester]] • [[London Review of Books]] 
+[[2015]] • [[Commonplace]] • [[John Lanchester]] • [[London Review of Books]] 
 
 https://www.lrb.co.uk/the-paper/v30/n12/john-lanchester/short-cuts
 

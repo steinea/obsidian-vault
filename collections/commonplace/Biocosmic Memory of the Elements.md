@@ -9,7 +9,7 @@ date: 2023-10-07
 permalink: 2023/10/07/eugene-kuchinov-biocosmic-memory-of-the-elements
 ---
 
-[[2023]] • [[commonplace]] • [[Eugene Kuchinov]] • [[Cosmic Bulletin]]
+[[2023]] • [[Commonplace]] • [[Eugene Kuchinov]] • [[Cosmic Bulletin]]
 
 https://cosmos.art/cosmic-bulletin/2022/in-biocosmic-memory-of-the-elements
 

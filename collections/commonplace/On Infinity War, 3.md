@@ -9,7 +9,7 @@ date: 2018-05-19
 permalink: 2018/05/19/christopher-orr-on-infinity-war-3
 ---
 
-[[2018]] • [[commonplace]] • [[Christopher Orr]] • [[The Atlantic]]
+[[2018]] • [[Commonplace]] • [[Christopher Orr]] • [[The Atlantic]]
 
 https://www.theatlantic.com/entertainment/archive/2018/04/avengers-infinity-war-marvel-review/558983/
  

@@ -9,7 +9,7 @@ date: 2016-11-17
 permalink: 2016/11/17/daniel-cook-autumn-of-indie-game-markets
 ---
 
-[[2016]] • [[commonplace]] • [[Daniel Cook]] • [[LOSTGARDEN]]
+[[2016]] • [[Commonplace]] • [[Daniel Cook]] • [[LOSTGARDEN]]
 
 http://www.lostgarden.com/2016/11/autumn-of-indie-game-markets.html
 

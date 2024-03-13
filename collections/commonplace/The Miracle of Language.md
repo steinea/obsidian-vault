@@ -9,7 +9,7 @@ date: 2015-10-01
 permalink: 2015/10/01/michael-rennier-the-miracle-of-language
 ---
 
-[[2015]] • [[commonplace]] • [[Michael Rennier]] • [[Dappled Things]]
+[[2015]] • [[Commonplace]] • [[Michael Rennier]] • [[Dappled Things]]
 
 https://www.dappledthings.org/7978/the-miracle-of-language/
 

@@ -9,7 +9,7 @@ date: 2016-02-25
 permalink: 2016/02/25/alexandre-kojeve-introduction-to-the-reading-of-hegel
 ---
 
-[[2016]] • [[commonplace]] • [[Alexandre Kojève]] • [[Marxists]]
+[[2016]] • [[Commonplace]] • [[Alexandre Kojève]] • [[Marxists]]
 
 https://www.marxists.org/reference/subject/philosophy/works/fr/kojeve.htm
 

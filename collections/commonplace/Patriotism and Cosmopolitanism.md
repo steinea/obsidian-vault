@@ -9,7 +9,7 @@ date: 2016-07-26
 permalink: 2016/07/26/martha-c-nussbaum-patriotism-and-cosmopolitanism
 ---
 
-[[2016]] • [[commonplace]] • [[Martha C. Nussbaum]] • [[Boston Review]]
+[[2016]] • [[Commonplace]] • [[Martha C. Nussbaum]] • [[Boston Review]]
 
 http://bostonreview.net/martha-nussbaum-patriotism-and-cosmopolitanism
 

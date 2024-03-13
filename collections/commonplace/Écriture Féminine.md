@@ -9,7 +9,7 @@ date: 2017-07-27
 permalink: 2017/07/27/helene-cixous-ecriture-feminine
 ---
 
-[[2017]] • [[commonplace]] • [[Helene Cixous]] • [[Wikipedia]] 
+[[2017]] • [[Commonplace]] • [[Helene Cixous]] • [[Wikipedia]] 
 
 https://en.wikipedia.org/wiki/Feminist_theory
 

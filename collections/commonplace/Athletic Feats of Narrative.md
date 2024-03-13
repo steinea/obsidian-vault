@@ -9,7 +9,7 @@ date: 2023-06-03
 permalink: 2023/06/03/maddi-chilton-athletic-feats-of-narrative
 ---
 
-[[2023]] • [[commonplace]] • [[Maddi Chilton]] • [[Unwinnable]]
+[[2023]] • [[Commonplace]] • [[Maddi Chilton]] • [[Unwinnable]]
 
 https://unwinnable.com/2023/01/31/athletic-feats-of-narrative/
  

@@ -9,7 +9,7 @@ date: 2017-07-01
 permalink: 2017/07/01/richard-a-lanham-aposiopesis
 ---
 
-[[2017]] • [[commonplace]] • [[Richard A. Lanham]] • [[Wikipedia]] 
+[[2017]] • [[Commonplace]] • [[Richard A. Lanham]] • [[Wikipedia]] 
 
 https://en.wikipedia.org/wiki/Aposiopesis
 

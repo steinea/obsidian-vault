@@ -9,7 +9,7 @@ date: 2016-03-08
 permalink: 2016/03/08/alicia-eler-joe-cool
 ---
 
-[[2016]] • [[commonplace]] • [[Alicia Eler]] • [[The New Inquiry]]
+[[2016]] • [[Commonplace]] • [[Alicia Eler]] • [[The New Inquiry]]
 
 http://thenewinquiry.com/essays/joe-cool/
 

@@ -9,7 +9,7 @@ date: 2017-05-22
 permalink: 2017/05/22/david-sims-twin-peaks-returns
 ---
 
-[[2017]] • [[commonplace]] • [[David Sims]] • [[The Atlantic]] 
+[[2017]] • [[Commonplace]] • [[David Sims]] • [[The Atlantic]] 
 
 https://www.theatlantic.com/entertainment/archive/2017/05/twin-peaks-return-parts-1-and-2-review/527565/
 

@@ -9,7 +9,7 @@ date: 2014-11-14
 permalink: 2014/11/14/slavoj-zizek-courtly-loveor-woman-as-thing
 ---
 
-[[2014]] • [[commonplace]] • [[Slavoj Zizek]] • [[The Norton Anthology of Theory and Criticism]]
+[[2014]] • [[Commonplace]] • [[Slavoj Zizek]] • [[The Norton Anthology of Theory and Criticism]]
 
 https://www.worldcat.org/title/norton-anthology-of-theory-and-criticism/oclc/45023141
 

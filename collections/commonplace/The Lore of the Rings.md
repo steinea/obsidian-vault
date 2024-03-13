@@ -9,7 +9,7 @@ date: 2023-04-03
 permalink: 2023/04/03/austin-gilkeson-the-lore-of-the-rings
 ---
 
-[[2023]] • [[commonplace]] • [[Austin Gilkeson]] • [[New York Review of Books]]
+[[2023]] • [[Commonplace]] • [[Austin Gilkeson]] • [[New York Review of Books]]
 
 https://www.nybooks.com/online/2023/01/24/the-lore-of-the-rings/
  

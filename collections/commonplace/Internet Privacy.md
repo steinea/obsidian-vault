@@ -9,7 +9,7 @@ date: 2015-11-10
 permalink: 2015/11/10/evan-selinger-internet-privacy
 ---
 
-[[2015]] • [[commonplace]] • [[Evan Selinger]] • [[Los Angeles Review of Books]]
+[[2015]] • [[Commonplace]] • [[Evan Selinger]] • [[Los Angeles Review of Books]]
 
 https://lareviewofbooks.org/article/internet-privacy-stepping-up-our-self-defense-game/
 

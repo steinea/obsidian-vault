@@ -9,7 +9,7 @@ date: 2015-06-17
 permalink: 2015/06/17/george-orwell-white-i-write 
 ---
 
-[[2015]] • [[commonplace]] • [[George Orwell]] • [[The Orwell Foundation]] 
+[[2015]] • [[Commonplace]] • [[George Orwell]] • [[The Orwell Foundation]] 
 
 https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/why-i-write/
 

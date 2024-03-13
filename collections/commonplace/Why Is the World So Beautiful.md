@@ -9,7 +9,7 @@ date: 2016-07-24
 permalink: 2016/07/24/frank-wilczek-krista-tippett 
 ---
 
-[[2016]] • [[commonplace]] • [[Frank Wilczek]] • [[Krista Tippett]] • [[On Being]]
+[[2016]] • [[Commonplace]] • [[Frank Wilczek]] • [[Krista Tippett]] • [[On Being]]
 
 https://onbeing.org/programs/frank-wilczek-beauty-as-a-compass-for-truth/
 

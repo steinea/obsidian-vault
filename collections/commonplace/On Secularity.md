@@ -9,7 +9,7 @@ date: 2017-08-24
 permalink: 2017/08/24/nav-haq-on-secularity
 ---
 
-[[2017]] • [[commonplace]] • [[Nav Haq]] • [[e-flux]] 
+[[2017]] • [[Commonplace]] • [[Nav Haq]] • [[e-flux]] 
 
 http://www.e-flux.com/announcements/144146/wheredoiendandyoubegin-on-secularity/
 

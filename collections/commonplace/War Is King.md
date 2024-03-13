@@ -9,7 +9,7 @@ date: 2016-05-24
 permalink: 2016/05/24/garry-wills-war-is-king
 ---
 
-[[2016]] • [[commonplace]] • [[Garry Wills]] • [[New York Review of Books]]
+[[2016]] • [[Commonplace]] • [[Garry Wills]] • [[New York Review of Books]]
 
 http://www.nybooks.com/daily/2016/05/23/shakespeare-history-plays-chicago-war-is-king/
 

@@ -9,7 +9,7 @@ date: 2017-08-23
 permalink: 2017/08/23/henry-t-greely-crispr-patents-and-nobel-prizes
 ---
 
-[[2017]] • [[commonplace]] • [[Henry T. Greely]] • [[Los Angeles Review of Books]]
+[[2017]] • [[Commonplace]] • [[Henry T. Greely]] • [[Los Angeles Review of Books]]
 
 https://lareviewofbooks.org/article/crispr-patents-and-nobel-prizes/
  

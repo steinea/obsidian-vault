@@ -9,7 +9,7 @@ date: 2015-11-04
 permalink: 2015/11/04/joseph-albernaz-absolved-of-the-absolute
 ---
 
-[[2015]] • [[commonplace]] • [[Joseph Albernaz]] • [[Los Angeles Review of Books]]
+[[2015]] • [[Commonplace]] • [[Joseph Albernaz]] • [[Los Angeles Review of Books]]
 
 https://lareviewofbooks.org/article/absolved-of-the-absolute/
 

@@ -9,7 +9,7 @@ date: 2017-01-24
 permalink: 2017/01/24/sandy-grant-language-games-can-set-us-free
 ---
 
-[[2017]] • [[commonplace]] • [[Sandy Grant]] • [[Aeon]] 
+[[2017]] • [[Commonplace]] • [[Sandy Grant]] • [[Aeon]] 
 
 https://aeon.co/ideas/how-playing-wittgensteinian-language-games-can-set-us-free
 

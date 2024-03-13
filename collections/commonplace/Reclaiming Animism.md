@@ -9,7 +9,7 @@ date: 2017-06-21
 permalink: 2017/06/21/isabelle-stengers-reclaiming-animism
 ---
 
-[[2017]] • [[commonplace]] • [[Isabelle Stengers]] • [[e-flux]] 
+[[2017]] • [[Commonplace]] • [[Isabelle Stengers]] • [[e-flux]] 
 
 http://www.e-flux.com/journal/reclaiming-animism/
 

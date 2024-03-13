@@ -9,7 +9,7 @@ date: 2014-08-29
 permalink: 2014/08/29/g-w-f-hegel-heart-and-faith
 ---
 
-[[2014]] • [[commonplace]] • [[G. W. F. Hegel]] • [[Encyclopedia of the Philosophical Sciences]]
+[[2014]] • [[Commonplace]] • [[G. W. F. Hegel]] • [[Encyclopedia of the Philosophical Sciences]]
 
 https://en.wikipedia.org/wiki/Encyclopedia_of_the_Philosophical_Sciences
 

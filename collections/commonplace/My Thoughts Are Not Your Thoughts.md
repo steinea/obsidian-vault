@@ -9,7 +9,7 @@ date: 2015-03-08
 permalink: 2015/03/08/isaiah-my-thoughts-are-not-your-thoughts
 ---
 
-[[2015]] • [[commonplace]] • [[Isaiah]] • [[Bible]]
+[[2015]] • [[Commonplace]] • [[Isaiah]] • [[Bible]]
 
 https://en.wikipedia.org/wiki/Isaiah_55
 

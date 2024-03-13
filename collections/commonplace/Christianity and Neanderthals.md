@@ -9,7 +9,7 @@ date: 2015-09-23
 permalink: 2015/09/23/joel-duff-christianity-and-neanderthals
 ---
 
-[[2015]] • [[commonplace]] • [[Joel Duff]] • [[Natural Historian]]
+[[2015]] • [[Commonplace]] • [[Joel Duff]] • [[Natural Historian]]
 
 https://thenaturalhistorian.com/2015/01/19/christian-responses-physical-spiritual-status-neanderthals-original-sin-theology/
 

@@ -9,7 +9,7 @@ date: 2023-12-18
 permalink: 2023/12/18/meredith-whittaker-plantations-computers-control
 ---
 
-[[2023]] • [[commonplace]] • [[Meredith Whittaker]] • [[Logic(s) Magazine]]
+[[2023]] • [[Commonplace]] • [[Meredith Whittaker]] • [[Logic(s) Magazine]]
 
 https://logicmag.io/supa-dupa-skies/origin-stories-plantations-computers-and-industrial-control/
 

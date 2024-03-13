@@ -9,7 +9,7 @@ date: 2016-05-12
 permalink: 2016/05/12/vilem-flusser-on-fiction
 ---
 
-[[2016]] • [[commonplace]] • [[Vilém Flusser]] • [[Triple Ampersand]]
+[[2016]] • [[Commonplace]] • [[Vilém Flusser]] • [[Triple Ampersand]]
 
 http://tripleampersand.org/flusser-on-fiction/
 

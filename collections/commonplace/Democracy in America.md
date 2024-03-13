@@ -9,7 +9,7 @@ date: 2013-09-29
 permalink: 2013/09/29/alexis-de-tocqueville-democracy
 ---
 
-[[2013]] • [[commonplace]] • [[Alexis de Tocqueville]] • [[Project Gutenberg]]
+[[2013]] • [[Commonplace]] • [[Alexis de Tocqueville]] • [[Project Gutenberg]]
 
 https://www.gutenberg.org/files/815/815-h/815-h.htm
 

@@ -9,7 +9,7 @@ date: 2016-02-25
 permalink: 2016/02/25/lida-maxwell-does-love-have-a-politics
 ---
 
-[[2016]] • [[commonplace]] • [[Lida Maxwell]] • [[Los Angeles Review of Books]]
+[[2016]] • [[Commonplace]] • [[Lida Maxwell]] • [[Los Angeles Review of Books]]
 
 https://lareviewofbooks.org/essay/does-love-have-a-politics/
 

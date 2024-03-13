@@ -9,7 +9,7 @@ date: 2023-10-07
 permalink: 2023/10/07/michael-marder-the-fire-of-rebirth
 ---
 
-[[2023]] • [[commonplace]] • [[Michael Marder]] • [[Cosmic Bulletin]]
+[[2023]] • [[Commonplace]] • [[Michael Marder]] • [[Cosmic Bulletin]]
 
 https://cosmos.art/cosmic-bulletin/2022/the-fire-of-rebirth-in-the-writings-of-aleksandr-svyatogor
 

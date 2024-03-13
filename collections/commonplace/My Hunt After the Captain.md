@@ -9,7 +9,7 @@ date: 2015-02-03
 permalink: 2015/02/03/oliver-wendall-holmes-my-hunt-after-the-captain
 ---
 
-[[2015]] • [[commonplace]] • [[Oliver Wendall Holmes]] • [[The Atlantic]]
+[[2015]] • [[Commonplace]] • [[Oliver Wendall Holmes]] • [[The Atlantic]]
 
 https://www.theatlantic.com/magazine/archive/1862/12/my-hunt-after-the-captain/308750/
 

@@ -9,7 +9,7 @@ date: 2015-03-30
 permalink: 2015/03/30/jeremiah-what-i-have-built
 ---
 
-[[2015]] • [[commonplace]] • [[Jeremiah]] • [[Bible]]
+[[2015]] • [[Commonplace]] • [[Jeremiah]] • [[Bible]]
 
 https://en.wikipedia.org/wiki/Jeremiah_45
 

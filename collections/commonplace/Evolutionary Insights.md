@@ -9,7 +9,7 @@ date: 2016-02-15
 permalink: 2016/02/15/david-p-barash-evolutionary-insights
 ---
 
-[[2016]] • [[commonplace]] • [[David P. Barash]] • [[Los Angeles Review of Books]]
+[[2016]] • [[Commonplace]] • [[David P. Barash]] • [[Los Angeles Review of Books]]
 
 https://lareviewofbooks.org/review/five-blockbuster-evolutionary-insights-and-one-wild-life-on-robert-trivers/
 

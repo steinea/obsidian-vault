@@ -7,7 +7,7 @@ date: 2024-03-09
 permalink: 2024/03/09/vi-huntsman-emboldening-idea-landlords
 ---
 
-[[2024]] • [[commonplace]] • [[Vi Huntsman]] • [[Collabs Without Permission]] 
+[[2024]] • [[Commonplace]] • [[Vi Huntsman]] • [[Collabs Without Permission]] 
 
 https://youtu.be/EpbZBS2GcN0
 

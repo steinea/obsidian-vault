@@ -9,7 +9,7 @@ date: 2016-07-31
 permalink: 2016/07/31/ed-yong-are-we-the-only-animals-that-understand-ignorance
 ---
 
-[[2016]] • [[commonplace]] • [[Ed Yong]] • [[The Atlantic]]
+[[2016]] • [[Commonplace]] • [[Ed Yong]] • [[The Atlantic]]
 
 https://www.theatlantic.com/science/archive/2016/07/are-we-the-only-animals-that-understand-ignorance/493295/
 

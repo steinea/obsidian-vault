@@ -9,7 +9,7 @@ date: 2014-07-25
 permalink: 2014/07/25/isaac-asimov-cult-of-ignorance
 ---
 
-[[2014]] • [[commonplace]] • [[Isaac Asimov]] • [[Newsweek]]
+[[2014]] • [[Commonplace]] • [[Isaac Asimov]] • [[Newsweek]]
 
 https://aphelis.net/cult-ignorance-isaac-asimov-1980/
 

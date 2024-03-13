@@ -9,7 +9,7 @@ date: 2015-12-12
 permalink: 2015/12/12/k-c-cole-why-build-a-universe
 ---
 
-[[2015]] • [[commonplace]] • [[K. C. Cole]] • [[Los Angeles Review of Books]]
+[[2015]] • [[Commonplace]] • [[K. C. Cole]] • [[Los Angeles Review of Books]]
 
 https://lareviewofbooks.org/article/why-build-a-universe/
 

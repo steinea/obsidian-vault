@@ -9,7 +9,7 @@ date: 2015-11-25
 permalink: 2015/11/25/adam-gopnik-spooked
 ---
 
-[[2015]] • [[commonplace]] • [[Adam Gopnik]] • [[The New Yorker]]
+[[2015]] • [[Commonplace]] • [[Adam Gopnik]] • [[The New Yorker]]
 
 https://www.newyorker.com/magazine/2015/11/30/spooked-books-adam-gopnik
 

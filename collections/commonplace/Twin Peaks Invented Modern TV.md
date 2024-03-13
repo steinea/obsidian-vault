@@ -9,7 +9,7 @@ date: 2017-06-01
 permalink: 2017/06/01/james-parker-twin-peaks-invented-modern-tv
 ---
 
-[[2017]] • [[commonplace]] • [[James Parker]] • [[The Atlantic]] 
+[[2017]] • [[Commonplace]] • [[James Parker]] • [[The Atlantic]] 
 
 https://www.theatlantic.com/magazine/archive/2017/06/how-twin-peaks-invented-modern-television/524493/
 

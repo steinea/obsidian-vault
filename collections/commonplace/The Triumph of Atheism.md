@@ -9,7 +9,7 @@ date: 2016-03-10
 permalink: 2016/03/10/jeffrey-tayler-the-triumph-of-atheism
 ---
 
-[[2016]] • [[commonplace]] • [[Jeffrey Tayler]] • [[Los Angeles Review of Books]]
+[[2016]] • [[Commonplace]] • [[Jeffrey Tayler]] • [[Los Angeles Review of Books]]
 
 https://lareviewofbooks.org/review/the-triumph-of-atheism/
 

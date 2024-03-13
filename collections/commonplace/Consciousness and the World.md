@@ -9,7 +9,7 @@ date: 2018-01-29
 permalink: 2018/01/29/riccardo-manzotti-tim-parks-consciousness-and-the-world
 ---
 
-[[2018]] • [[commonplace]] • [[Riccardo Manzotti]] • [[Tim Parks]] • [[New York Review of Books]]
+[[2018]] • [[Commonplace]] • [[Riccardo Manzotti]] • [[Tim Parks]] • [[New York Review of Books]]
 
 http://www.nybooks.com/daily/2018/01/29/consciousness-and-the-world/
  

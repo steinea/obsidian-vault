@@ -9,7 +9,7 @@ date: 2018-05-20
 permalink: 2018/05/20/david-sims-spencer-kornhaber-sophie-gilbert-akane-no-mai
 ---
 
-[[2018]] • [[commonplace]] • [[David Sims]] • [[Spencer Kornhaber]] • [[Sophie Gilbert]] [[The Atlantic]]
+[[2018]] • [[Commonplace]] • [[David Sims]] • [[Spencer Kornhaber]] • [[Sophie Gilbert]] [[The Atlantic]]
 
 https://www.theatlantic.com/entertainment/archive/2018/05/westworld-season-2-episode-5-akane-no-mai-roundtable/560744/
  

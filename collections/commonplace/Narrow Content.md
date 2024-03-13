@@ -9,7 +9,7 @@ date: 2022-12-14
 permalink: 2022/12/14/david-j-chalmers-narrow-content
 ---
 
-[[2022]] • [[commonplace]] • [[David J. Chalmers]] • [[Notre Dame Philosophical Reviews]]
+[[2022]] • [[Commonplace]] • [[David J. Chalmers]] • [[Notre Dame Philosophical Reviews]]
 
 https://ndpr.nd.edu/reviews/narrow-content/
 

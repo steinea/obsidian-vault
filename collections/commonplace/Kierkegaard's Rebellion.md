@@ -9,7 +9,7 @@ date: 2016-11-10
 permalink: 2016/11/10/peter-e-gordon-kierkegaards-rebellion
 ---
 
-[[2016]] • [[commonplace]] • [[Peter E. Gordon]] • [[New York Review of Books]]
+[[2016]] • [[Commonplace]] • [[Peter E. Gordon]] • [[New York Review of Books]]
 
 http://www.nybooks.com/articles/2016/11/10/kierkegaards-rebellion/
 

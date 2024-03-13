@@ -9,7 +9,7 @@ date: 2014-09-01
 permalink: 2014/09/01/terry-eagleton-literary-theory
 ---
 
-[[2014]] • [[commonplace]] • [[Terry Eagleton]] • [[Literary Theory]]
+[[2014]] • [[Commonplace]] • [[Terry Eagleton]] • [[Literary Theory]]
 
 https://en.wikipedia.org/wiki/Literary_Theory:_An_Introduction
 

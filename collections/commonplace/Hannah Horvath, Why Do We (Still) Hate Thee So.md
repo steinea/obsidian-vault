@@ -9,7 +9,7 @@ date: 2016-04-16
 permalink: 2016/04/16/kathryn-vanarendonk-hannah-horvath-why-do-we-still-hate-thee-so
 ---
 
-[[2016]] • [[commonplace]] • [[Kathryn VanArendonk]] • [[Vulture]]
+[[2016]] • [[Commonplace]] • [[Kathryn VanArendonk]] • [[Vulture]]
 
 http://www.vulture.com/2016/04/hannah-horvath-why-do-we-still-hate-thee-so.html
 

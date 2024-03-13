@@ -9,7 +9,7 @@ date: 2015-04-24
 permalink: 2015/04/24/andrew-scull-madness-and-meaning
 ---
 
-[[2015]] • [[commonplace]] • [[Andrew Scull]] • [[The Paris Review]] 
+[[2015]] • [[Commonplace]] • [[Andrew Scull]] • [[The Paris Review]] 
 
 https://www.theparisreview.org/blog/2015/04/22/madness-and-meaning/
 

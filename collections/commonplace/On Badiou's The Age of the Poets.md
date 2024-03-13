@@ -9,7 +9,7 @@ date: 2016-07-23
 permalink: 2016/07/23/gerald-bruns-on-badious-the-age-of-the-poets
 ---
 
-[[2016]] • [[commonplace]] • [[Gerald Bruns]] • [[Notre Dame Philosophical Reviews]]
+[[2016]] • [[Commonplace]] • [[Gerald Bruns]] • [[Notre Dame Philosophical Reviews]]
 
 https://ndpr.nd.edu/news/66649-the-age-of-the-poets-and-other-writings-on-twentieth-century-poetry-and-prose/
 

@@ -9,7 +9,7 @@ date: 2016-10-05
 permalink: 2016/10/05/jedidiah-purdy-the-art-of-the-possible
 ---
 
-[[2016]] • [[commonplace]] • [[Jedidiah Purdy]] • [[The Art of the Possible]]
+[[2016]] • [[Commonplace]] • [[Jedidiah Purdy]] • [[The Art of the Possible]]
 
 https://lareviewofbooks.org/article/art-possible-peter-frases-four-futures/
 

@@ -9,7 +9,7 @@ date: 2015-03-06
 permalink: 2015/03/06/santiago-zabala-gianni-vattimo-european-union-nihilism
 ---
 
-[[2015]] • [[commonplace]] • [[Santiago Zabala]] • [[Gianni Vattimo]] • [[Los Angeles Review of Books]]
+[[2015]] • [[Commonplace]] • [[Santiago Zabala]] • [[Gianni Vattimo]] • [[Los Angeles Review of Books]]
 
 https://lareviewofbooks.org/article/european-union-nihilism/
 

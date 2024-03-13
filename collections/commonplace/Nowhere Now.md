@@ -9,7 +9,7 @@ date: 2016-11-08
 permalink: 2016/11/08/julianne-werlin-nowhere-now
 ---
 
-[[2016]] • [[commonplace]] • [[Julianne Werlin]] • [[Los Angeles Review of Books]]
+[[2016]] • [[Commonplace]] • [[Julianne Werlin]] • [[Los Angeles Review of Books]]
 
 https://lareviewofbooks.org/article/nowhere-now-thomas-mores-utopia-at-500/
 

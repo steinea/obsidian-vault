@@ -9,7 +9,7 @@ date: 2018-05-19
 permalink: 2018/05/19/christopher-orr-westworld-and-lost
 ---
 
-[[2018]] • [[commonplace]] • [[Christopher Orr]] • [[The Atlantic]]
+[[2018]] • [[Commonplace]] • [[Christopher Orr]] • [[The Atlantic]]
 
 https://www.theatlantic.com/entertainment/archive/2018/05/no-that-episode-of-westworld-was-not-an-homage-to-lost/560279/
  

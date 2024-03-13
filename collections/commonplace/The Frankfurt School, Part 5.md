@@ -9,7 +9,7 @@ date: 2017-04-07
 permalink: 2017/04/07/peter-thompson-the-frankfurt-school-part-5
 ---
 
-[[2017]] • [[commonplace]] • [[Peter Thompson]] • [[The Guardian]] 
+[[2017]] • [[Commonplace]] • [[Peter Thompson]] • [[The Guardian]] 
 
 http://www.theguardian.com/commentisfree/belief/2013/apr/22/frankfurt-school-walter-benjamin-fascism-future
 

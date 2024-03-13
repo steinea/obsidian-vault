@@ -9,7 +9,7 @@ date: 2023-10-13
 permalink: 2023/10/13/crimethinc-france-in-flames
 ---
 
-[[2023]] • [[commonplace]] • [[CrimethInc]] 
+[[2023]] • [[Commonplace]] • [[CrimethInc]] 
 
 https://crimethinc.com/2023/03/30/france-in-flames-macron-attempts-to-crush-the-movement-against-the-pension-reform-with-lethal-violence-1
 

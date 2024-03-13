@@ -9,7 +9,7 @@ date: 2016-01-13
 permalink: 2016/01/13/nakul-krishna-add-your-own-egg
 ---
 
-[[2016]] • [[commonplace]] • [[Nakul Krishna]] • [[The Point Magazine]]
+[[2016]] • [[Commonplace]] • [[Nakul Krishna]] • [[The Point Magazine]]
 
 https://thepointmag.com/2016/examined-life/add-your-own-egg
 

@@ -9,7 +9,7 @@ date: 2014-02-06
 permalink: 2014/02/06/ed-yong-the-unique-merger-that-made-you
 ---
 
-[[2014]] • [[commonplace]] • [[Ed Yong]] • [[Nautilus]]
+[[2014]] • [[Commonplace]] • [[Ed Yong]] • [[Nautilus]]
 
 https://web.archive.org/web/20140208012339/http://nautil.us/issue/10/mergers--acquisitions/the-unique-merger-that-made-you-and-ewe-and-yew
 

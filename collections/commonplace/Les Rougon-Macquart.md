@@ -9,7 +9,7 @@ date: 2022-09-23
 permalink: 2022/09/23/emile-zola-les-rougon-macquart
 ---
 
-[[2022]] • [[commonplace]] • [[Émile Zola]] • [[Wikipedia]]
+[[2022]] • [[Commonplace]] • [[Émile Zola]] • [[Wikipedia]]
 
 https://en.wikipedia.org/wiki/Book_series#Fiction_books
 

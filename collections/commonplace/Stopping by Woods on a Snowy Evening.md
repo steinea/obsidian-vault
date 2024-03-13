@@ -9,7 +9,7 @@ date: 2015-10-18
 permalink: 2015/10/18/robert-frost-stopping-by-woods-on-a-snowy-evening
 ---
 
-[[2015]] • [[commonplace]] • [[Robert Frost]] • [[Poetry Foundation]]
+[[2015]] • [[Commonplace]] • [[Robert Frost]] • [[Poetry Foundation]]
 
 https://www.poetryfoundation.org/poems/42891/stopping-by-woods-on-a-snowy-evening
 

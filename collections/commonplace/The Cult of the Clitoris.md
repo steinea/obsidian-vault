@@ -9,7 +9,7 @@ date: 2017-06-16
 permalink: 2017/06/16/laura-frost-the-cult-of-the-clitoris
 ---
 
-[[2017]] • [[commonplace]] • [[Laura Frost]] • [[Los Angeles Review of Books]] 
+[[2017]] • [[Commonplace]] • [[Laura Frost]] • [[Los Angeles Review of Books]] 
 
 https://lareviewofbooks.org/article/the-cult-of-the-clitoris/
 

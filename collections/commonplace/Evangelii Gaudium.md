@@ -9,7 +9,7 @@ date: 2014-01-02
 permalink: 2014/01/02/pope-francis-evangelii-gaudium
 ---
 
-[[2014]] • [[commonplace]] • [[Pope Francis]] • [[Vatican]]
+[[2014]] • [[Commonplace]] • [[Pope Francis]] • [[Vatican]]
 
 https://www.vatican.va/content/francesco/en/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html
 

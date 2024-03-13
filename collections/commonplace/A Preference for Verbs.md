@@ -9,7 +9,7 @@ date: 2016-07-10
 permalink: 2016/07/10/perry-link-a-preference-for-verbs
 ---
 
-[[2016]] • [[commonplace]] • [[Perry Link]] • [[New York Review of Books]]
+[[2016]] • [[Commonplace]] • [[Perry Link]] • [[New York Review of Books]]
 
 https://www.nybooks.com/online/2016/06/30/the-mind-less-puzzling-in-chinese/
 

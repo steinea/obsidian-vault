@@ -9,7 +9,7 @@ date: 2015-07-22
 permalink: 2015/07/22/alanna-schubach-the-trouble-with-true-detective
 ---
 
-[[2015]] • [[commonplace]] • [[Alanna Schubach]] • [[Jacobin]] 
+[[2015]] • [[Commonplace]] • [[Alanna Schubach]] • [[Jacobin]] 
 
 https://jacobin.com/2015/07/mcadams-pizzolatto-sexism-season-two-nussbaum-review/
 

@@ -9,7 +9,7 @@ date: 2017-01-25
 permalink: 2017/01/25/kate-jeffrey-maps-in-the-head
 ---
 
-[[2017]] • [[commonplace]] • [[Kate Jeffrey]] • [[Aeon]] 
+[[2017]] • [[Commonplace]] • [[Kate Jeffrey]] • [[Aeon]] 
 
 https://aeon.co/essays/how-cognitive-maps-help-animals-navigate-the-world
 

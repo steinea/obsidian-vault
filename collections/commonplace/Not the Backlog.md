@@ -9,7 +9,7 @@ date: 2023-03-11
 permalink: 2023/03/11/benjamin-not-the-backlog
 ---
 
-[[2023]] • [[commonplace]] • [[Benjamin]] • [[Not the Backlog]]
+[[2023]] • [[Commonplace]] • [[Benjamin]] • [[Not the Backlog]]
 
 https://thinkings.space/not-the-backlog
  

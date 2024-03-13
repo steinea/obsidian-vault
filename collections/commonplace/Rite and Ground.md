@@ -9,7 +9,7 @@ date: 2023-10-07
 permalink: 2023/10/07/denis-shalaginov-rite-and-ground
 ---
 
-[[2023]] • [[commonplace]] • [[Denis Shalaginov]] • [[Cosmic Bulletin]] 
+[[2023]] • [[Commonplace]] • [[Denis Shalaginov]] • [[Cosmic Bulletin]] 
 
 https://cosmos.art/cosmic-bulletin/2022/rite-and-ground
 

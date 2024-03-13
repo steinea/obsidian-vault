@@ -9,7 +9,7 @@ date: 2015-04-30
 permalink: 2015/04/30/karl-ove-knausgaard-on-the-power-of-brevity
 ---
 
-[[2015]] • [[commonplace]] • [[Karl Ove Knausgaard]] • [[The Atlantic]] 
+[[2015]] • [[Commonplace]] • [[Karl Ove Knausgaard]] • [[The Atlantic]] 
 
 https://www.theatlantic.com/entertainment/archive/2015/04/karl-ove-knausgaard-on-the-power-of-short-stories/391658/
 

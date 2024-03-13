@@ -9,7 +9,7 @@ date: 2014-01-26
 permalink: 2014/01/26/adam-kotsko-first-readings
 ---
 
-[[2014]] • [[commonplace]] • [[Adam Kotsko]] • [[Wordpress]]
+[[2014]] • [[Commonplace]] • [[Adam Kotsko]] • [[Wordpress]]
 
 https://itself.blog/2013/07/05/on-first-readings/
 

@@ -9,7 +9,7 @@ date: 2013-09-29
 permalink: 2013/09/29/immanuel-kant-what-is-enlightenment
 ---
 
-[[2013]] • [[commonplace]] • [[Immanuel Kant]] • [[Internet Modern History Sourcebook]]
+[[2013]] • [[Commonplace]] • [[Immanuel Kant]] • [[Internet Modern History Sourcebook]]
 
 https://sourcebooks.fordham.edu/mod/modsbook.asp
 

@@ -9,7 +9,7 @@ date: 2015-07-22
 permalink: 2015/07/22/mya-frazier-what-the-heaven-tourism-memoir-can-tell-us
 ---
 
-[[2015]] • [[commonplace]] • [[Mya Frazier]] • [[Aeon]] 
+[[2015]] • [[Commonplace]] • [[Mya Frazier]] • [[Aeon]] 
 
 https://aeon.co/magazine/philosophy/what-the-heaven-tourism-memoir-can-tell-us
 

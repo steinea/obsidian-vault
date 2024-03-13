@@ -9,7 +9,7 @@ date: 2015-06-03
 permalink: 2015/06/03/chase-twichell-the-ghost-of-tom
 ---
 
-[[2015]] • [[commonplace]] • [[Chase Twichell]] • [[Poetry]] 
+[[2015]] • [[Commonplace]] • [[Chase Twichell]] • [[Poetry]] 
 
 https://www.poetryfoundation.org/poetrymagazine/poems/58146/the-ghost-of-tom
 

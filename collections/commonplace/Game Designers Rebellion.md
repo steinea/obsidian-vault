@@ -9,7 +9,7 @@ date: 2023-06-03
 permalink: 2023/06/03/joost-vervoort-game-designers-rebellion
 ---
 
-[[2023]] • [[commonplace]] • [[Joost Vervoort]] • [[Anticiplay]]
+[[2023]] • [[Commonplace]] • [[Joost Vervoort]] • [[Anticiplay]]
 
 https://anticiplay.medium.com/game-designers-rebellion-learning-from-the-resonant-realities-of-climate-activism-e0ddae241285
  

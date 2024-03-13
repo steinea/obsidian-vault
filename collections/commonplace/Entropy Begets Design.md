@@ -9,7 +9,7 @@ date: 2016-02-02
 permalink: 2016/02/02/nigel-anthony-reading-entropy-begets-design
 ---
 
-[[2016]] • [[commonplace]] • [[Nigel Anthony Reading]] • [[Asynsis]]
+[[2016]] • [[Commonplace]] • [[Nigel Anthony Reading]] • [[Asynsis]]
 
 https://asynsis.wordpress.com/2014/09/05/entropy-begets-design-qed-2/
 

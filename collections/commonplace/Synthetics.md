@@ -9,7 +9,7 @@ date: 2015-12-02
 permalink: 2015/12/02/lucy-ives-synthetics
 ---
 
-[[2015]] • [[commonplace]] • [[Lucy Ives]] • [[Los Angeles Review of Books]]
+[[2015]] • [[Commonplace]] • [[Lucy Ives]] • [[Los Angeles Review of Books]]
 
 https://lareviewofbooks.org/article/synthetics/
 

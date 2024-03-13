@@ -9,7 +9,7 @@ date: 2015-11-25
 permalink: 2015/11/25/joanna-klein-millenials-really-arent-that-different
 ---
 
-[[2015]] • [[commonplace]] • [[JoAnna Klein]] • [[Nautilus]]
+[[2015]] • [[Commonplace]] • [[JoAnna Klein]] • [[Nautilus]]
 
 https://nautil.us/blog/heres-why-millennials-really-arent-that-different
 

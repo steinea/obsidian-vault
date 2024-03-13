@@ -9,7 +9,7 @@ date: 2016-02-02
 permalink: 2016/02/02/sabine-hossenfelder-the-superfluid-universe
 ---
 
-[[2016]] • [[commonplace]] • [[Sabine Hossenfelder]] • [[Aeon]]
+[[2016]] • [[Commonplace]] • [[Sabine Hossenfelder]] • [[Aeon]]
 
 https://aeon.co/essays/is-dark-matter-subatomic-particles-a-superfluid-or-both
 

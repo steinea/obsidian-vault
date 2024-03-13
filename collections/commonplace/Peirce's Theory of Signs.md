@@ -9,7 +9,7 @@ date: 2015-11-25
 permalink: 2015/11/25/albert-atkin-peirces-theory-of-signs
 ---
 
-[[2015]] • [[commonplace]] • [[Albert Atkin]] • [[Stanford Encyclopedia of Philosophy]]
+[[2015]] • [[Commonplace]] • [[Albert Atkin]] • [[Stanford Encyclopedia of Philosophy]]
 
 https://plato.stanford.edu/entries/peirce-semiotics/
 

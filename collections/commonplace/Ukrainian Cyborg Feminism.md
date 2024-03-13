@@ -9,7 +9,7 @@ date: 2023-09-30
 permalink: 2023/09/30/irina-zherebkina-sergey-zherebkin-ukrainian-cyborg-feminism
 ---
 
-[[2023]] • [[commonplace]] • [[Irina Zherebkina]] • [[Sergey Zherebkin]] • [[Cosmic Bulletin]]
+[[2023]] • [[Commonplace]] • [[Irina Zherebkina]] • [[Sergey Zherebkin]] • [[Cosmic Bulletin]]
 
 https://cosmos.art/cosmic-bulletin/2022/the-mixture-of-nationalist-and-feminist-discourses-in-the-ukrainian-ssr-or-the-question-of-cyborg-nationalism
 

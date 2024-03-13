@@ -9,7 +9,7 @@ date: 2015-10-26
 permalink: 2015/10/26/nanjala-nyabola-the-african-is-not-at-home
 ---
 
-[[2015]] • [[commonplace]] • [[Nanjala Nyabola]] • [[The New Inquiry]]
+[[2015]] • [[Commonplace]] • [[Nanjala Nyabola]] • [[The New Inquiry]]
 
 https://thenewinquiry.com/the-african-is-not-at-home/
 

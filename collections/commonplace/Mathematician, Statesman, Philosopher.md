@@ -9,7 +9,7 @@ date: 2015-09-28
 permalink: 2015/09/28/jonathan-kirshner-mathematician-statesman-philosopher
 ---
 
-[[2015]] • [[commonplace]] • [[Jonathan Kirshner]] • [[Los Angeles Review of Books]]
+[[2015]] • [[Commonplace]] • [[Jonathan Kirshner]] • [[Los Angeles Review of Books]]
 
 https://lareviewofbooks.org/article/mathematician-statesman-philosopher-the-life-of-john-maynard-keynes/
 

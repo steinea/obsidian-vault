@@ -9,7 +9,7 @@ date: 2017-12-31
 permalink: 2017/12/31/sophie-gilbert-david-sims-black-museum
 ---
 
-[[2017]] • [[commonplace]] • [[Sophie Gilbert]] • [[David Sims]] • [[The Atlantic]]
+[[2017]] • [[Commonplace]] • [[Sophie Gilbert]] • [[David Sims]] • [[The Atlantic]]
 
 https://www.theatlantic.com/entertainment/archive/2017/12/black-mirror-black-museum-is-a-throwback-to-episodes-past/549389/
 

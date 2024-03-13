@@ -9,7 +9,7 @@ date: 2016-02-21
 permalink: 2016/02/21/charles-sanders-peirce-how-to-make-our-ideas-clear
 ---
 
-[[2016]] • [[commonplace]] • [[Charles Sanders Peirce]] • [[Popular Science Monthly]]
+[[2016]] • [[Commonplace]] • [[Charles Sanders Peirce]] • [[Popular Science Monthly]]
 
 http://www.peirce.org/writings/p119.html
 

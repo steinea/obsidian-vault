@@ -9,7 +9,7 @@ date: 2016-02-02
 permalink: 2016/02/02/colin-dickey-on-killing-dogs
 ---
 
-[[2016]] • [[commonplace]] • [[Colin Dickey]] • [[Los Angeles Review of Books]]
+[[2016]] • [[Commonplace]] • [[Colin Dickey]] • [[Los Angeles Review of Books]]
 
 https://lareviewofbooks.org/review/on-killing-dogs/
 

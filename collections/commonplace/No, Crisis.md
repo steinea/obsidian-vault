@@ -9,7 +9,7 @@ date: 2015-12-12
 permalink: 2015/12/12/evan-calder-williams-no-crisis
 ---
 
-[[2015]] • [[commonplace]] • [[Evan Calder Williams]] •[[Los Angeles Review of Books]]
+[[2015]] • [[Commonplace]] • [[Evan Calder Williams]] •[[Los Angeles Review of Books]]
 
 https://lareviewofbooks.org/article/no-crisis-2/
 

@@ -9,7 +9,7 @@ date: 2015-10-15
 permalink: 2015/10/15/ed-yong-hunter-gatherer-sleeping-patterns
 ---
 
-[[2015]] • [[commonplace]] • [[Ed Yong]] • [[The Atlantic]]
+[[2015]] • [[Commonplace]] • [[Ed Yong]] • [[The Atlantic]]
 
 https://www.theatlantic.com/science/archive/2015/10/the-many-myths-of-paleo-sleeping/410707/
 

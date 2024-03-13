@@ -9,7 +9,7 @@ date: 2016-09-30
 permalink: 2016/09/30/philip-bump-why-donald-trump-tweets-late-at-night
 ---
 
-[[2016]] • [[commonplace]] • [[Philip Ball]] • [[Washington Post]]
+[[2016]] • [[Commonplace]] • [[Philip Ball]] • [[Washington Post]]
 
 https://www.washingtonpost.com/news/the-fix/wp/2016/09/30/why-donald-trump-tweets-late-at-night-and-very-early-in-the-morning/
 

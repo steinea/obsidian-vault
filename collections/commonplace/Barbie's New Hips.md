@@ -9,7 +9,7 @@ date: 2016-01-28
 permalink: 2016/01/28/megan-garber-barbies-new-hips
 ---
 
-[[2016]] • [[commonplace]] • [[Megan Garber]] • [[The Atlantic]]
+[[2016]] • [[Commonplace]] • [[Megan Garber]] • [[The Atlantic]]
 
 http://www.theatlantic.com/entertainment/archive/2016/01/barbies-hips-dont-lie/432741/
 

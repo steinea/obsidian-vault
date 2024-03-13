@@ -9,7 +9,7 @@ date: 2017-01-12
 permalink: 2017/01/12/paco-salas-perez-emergency-dialect
 ---
 
-[[2017]] • [[commonplace]] • [[Paco Salas Perez]] • [[Real Life]]
+[[2017]] • [[Commonplace]] • [[Paco Salas Perez]] • [[Real Life]]
 
 http://reallifemag.com/emergency-dialect/
 

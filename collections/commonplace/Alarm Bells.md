@@ -9,7 +9,7 @@ date: 2023-10-07
 permalink: 2023/10/07/bob-armstrong-alarm-bells
 ---
 
-[[2023]] • [[commonplace]] • [[Bob Armstrong]] • [[Literary Review of Canada]]
+[[2023]] • [[Commonplace]] • [[Bob Armstrong]] • [[Literary Review of Canada]]
 
 https://reviewcanada.ca/magazine/2023/09/alarm-bells/
 

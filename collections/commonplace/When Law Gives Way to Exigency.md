@@ -9,7 +9,7 @@ date: 2014-12-19
 permalink: 2014/12/19/orson-scott-card-when-law-gives-way-to-exigency
 ---
 
-[[2014]] • [[commonplace]] • [[Orson Scott Card]] • [[Shadow of the Hegemon]]
+[[2014]] • [[Commonplace]] • [[Orson Scott Card]] • [[Shadow of the Hegemon]]
 
 https://en.wikipedia.org/wiki/Shadow_of_the_Hegemon
 

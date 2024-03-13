@@ -9,7 +9,7 @@ date: 2014-11-08
 permalink: 2014/11/08/walter-ong-writing-restructures-consciousness
 ---
 
-[[2014]] • [[commonplace]] • [[Walter Ong]] • [[Orality and Literacy]]
+[[2014]] • [[Commonplace]] • [[Walter Ong]] • [[Orality and Literacy]]
 
 https://books.google.ca/books/about/Orality_and_Literacy.html?id=37Ikbo9P4M8C
 

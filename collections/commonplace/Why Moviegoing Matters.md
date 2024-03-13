@@ -9,7 +9,7 @@ date: 2016-12-05
 permalink: 2016/12/05/graham-daseler-why-moviegoing-matters
 ---
 
-[[2016]] • [[commonplace]] • [[Graham Daseler]] • [[Los Angeles Review of Books]]
+[[2016]] • [[Commonplace]] • [[Graham Daseler]] • [[Los Angeles Review of Books]]
 
 https://lareviewofbooks.org/article/why-moviegoing-matters/
 

@@ -9,7 +9,7 @@ date: 2016-02-04
 permalink: 2016/02/04/charles-sanders-peirce-on-hegel
 ---
 
-[[2016]] • [[commonplace]] • [[Charles Sanders Peirce]] • [[Marxists]]
+[[2016]] • [[Commonplace]] • [[Charles Sanders Peirce]] • [[Marxists]]
 
 https://www.marxists.org/reference/subject/philosophy/works/us/peirce3.htm
 

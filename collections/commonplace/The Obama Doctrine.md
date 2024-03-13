@@ -9,7 +9,7 @@ date: 2016-07-08
 permalink: 2016/07/08/jeffrey-goldberg-the-obama-doctrine
 ---
 
-[[2016]] • [[commonplace]] • [[Jeffrey Goldberg]] • [[The Atlantic]]
+[[2016]] • [[Commonplace]] • [[Jeffrey Goldberg]] • [[The Atlantic]]
 
 http://www.theatlantic.com/magazine/archive/2016/04/the-obama-doctrine/471525/
 

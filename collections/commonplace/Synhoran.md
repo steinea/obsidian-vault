@@ -9,7 +9,7 @@ date: 2016-11-30
 permalink: 2016/11/30/hans-georg-gadamer-synhoran
 ---
 
-[[2016]] • [[commonplace]] • [[Hans-Georg Gadamer]] • [[Truth and Method]]
+[[2016]] • [[Commonplace]] • [[Hans-Georg Gadamer]] • [[Truth and Method]]
 
 https://en.wikipedia.org/wiki/Truth_and_Method
 

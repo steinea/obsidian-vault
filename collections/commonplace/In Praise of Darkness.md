@@ -9,7 +9,7 @@ date: 2015-06-10
 permalink: 2015/06/10/maria-popova-in-praise-of-darkness
 ---
 
-[[2015]] • [[commonplace]] • [[Maria Popova]] • [[The Marginalian]] 
+[[2015]] • [[Commonplace]] • [[Maria Popova]] • [[The Marginalian]] 
 
 https://www.themarginalian.org/2015/06/04/henry-beston-night-outermost-house/
 

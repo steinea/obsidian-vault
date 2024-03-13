@@ -9,7 +9,7 @@ date: 2016-09-03
 permalink: 2016/09/03/claude-s-fischer-just-deserts
 ---
 
-[[2016]] • [[commonplace]] • [[Claude S. Fischer]] • [[Boston Review]]
+[[2016]] • [[Commonplace]] • [[Claude S. Fischer]] • [[Boston Review]]
 
 http://bostonreview.net/made-america/claude-fischer-just-deserts
 

@@ -9,7 +9,7 @@ date: 2016-05-07
 permalink: 2016/05/07/kinitra-d-brooks-literary-nigeria
 ---
 
-[[2016]] • [[commonplace]] • [[Kinitra D. Brooks]] • [[Los Angeles Review of Books]]
+[[2016]] • [[Commonplace]] • [[Kinitra D. Brooks]] • [[Los Angeles Review of Books]]
 
 https://lareviewofbooks.org/review/the-multiple-pasts-presents-and-futures-of-nnedi-okorafors-literary-nigeria/
 

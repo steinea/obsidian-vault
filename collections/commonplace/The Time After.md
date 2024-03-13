@@ -9,7 +9,7 @@ date: 2016-03-10
 permalink: 2016/03/10/rose-mclaren-the-time-after
 ---
 
-[[2016]] • [[commonplace]] • [[Rose McLaren]] • [[Music and Literature]]
+[[2016]] • [[Commonplace]] • [[Rose McLaren]] • [[Music and Literature]]
 
 http://www.musicandliterature.org/reviews/2013/10/28/bla-tarr-the-time-after
 

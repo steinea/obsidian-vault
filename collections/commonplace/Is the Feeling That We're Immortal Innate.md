@@ -9,7 +9,7 @@ date: 2015-08-19
 permalink: 2015/08/19/natalie-emmons-is-the-feeling-that-were-immortal-innate
 ---
 
-[[2015]] • [[commonplace]] • [[Natalie Emmons]] • [[Aeon]]
+[[2015]] • [[Commonplace]] • [[Natalie Emmons]] • [[Aeon]]
 
 https://aeon.co/magazine/psychology/is-the-feeling-that-were-immortal-innate
 

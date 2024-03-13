@@ -9,7 +9,7 @@ date: 2017-10-11
 permalink: 2017/10/11/christopher-orr-on-blade-runner-2049-3
 ---
 
-[[2017]] • [[commonplace]] • [[Christopher Orr]] • [[The Atlantic]] 
+[[2017]] • [[Commonplace]] • [[Christopher Orr]] • [[The Atlantic]] 
 
 https://www.theatlantic.com/entertainment/archive/2017/10/blade-runner-2049-is-a-worthy-heir-to-the-classic-original/542205/
 

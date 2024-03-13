@@ -9,7 +9,7 @@ date: 2017-02-14
 permalink: 2017/02/14/terence-blake-not-an-ontology-and-more-than-a-pluralism
 ---
 
-[[2017]] • [[commonplace]] • [[Terence Blake]] • [[Agent Swarm]] 
+[[2017]] • [[Commonplace]] • [[Terence Blake]] • [[Agent Swarm]] 
 
 https://terenceblake.wordpress.com/2017/02/12/ontological-pluralism-not-an-ontology-and-more-than-a-pluralism/
 

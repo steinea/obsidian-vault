@@ -9,7 +9,7 @@ date: 2016-12-14
 permalink: 2016/12/14/gideon-lewis-kraus-the-great-ai-awakening
 ---
 
-[[2016]] • [[commonplace]] • [[Gideon Lewis-Kraus]] • [[The New York Times]]
+[[2016]] • [[Commonplace]] • [[Gideon Lewis-Kraus]] • [[The New York Times]]
 
 http://www.nytimes.com/2016/12/14/magazine/the-great-ai-awakening.html
 

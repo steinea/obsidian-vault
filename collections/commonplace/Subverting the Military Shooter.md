@@ -9,7 +9,7 @@ date: 2017-06-24
 permalink: 2017/06/24/seth-shepherd-subverting-the-military-shooter
 ---
 
-[[2017]] • [[commonplace]] • [[Seth Shepherd]] • [[Waypoint]] 
+[[2017]] • [[Commonplace]] • [[Seth Shepherd]] • [[Waypoint]] 
 
 https://waypoint.vice.com/en_us/article/newajb/how-vanquish-subverts-the-military-shooter
 

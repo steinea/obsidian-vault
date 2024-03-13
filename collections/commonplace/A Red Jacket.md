@@ -9,7 +9,7 @@ date: 2014-03-26
 permalink: 2014/03/26/samantha-reynolds-a-red-jacket
 ---
 
-[[2014]] • [[commonplace]] • [[Samantha Reynolds]] • [[bentlily]]
+[[2014]] • [[Commonplace]] • [[Samantha Reynolds]] • [[bentlily]]
 
 https://bentlily.com/2011/01/04/a-red-jacket/
 

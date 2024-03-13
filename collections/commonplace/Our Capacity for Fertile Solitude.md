@@ -9,7 +9,7 @@ date: 2015-06-17
 permalink: 2015/06/17/maria-popova-our-capacity-for-fertile-solitude
 ---
 
-[[2015]] • [[commonplace]] • [[Maria Popova]] • [[The Marginalian]] 
+[[2015]] • [[Commonplace]] • [[Maria Popova]] • [[The Marginalian]] 
 
 https://www.themarginalian.org/2014/07/18/adam-phillips-on-risk-and-solitude/
 

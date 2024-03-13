@@ -9,7 +9,7 @@ date: 2017-07-10
 permalink: 2017/07/10/david-sims-on-dunkirk
 ---
 
-[[2017]] • [[commonplace]] • [[David Sims]] • [[The Atlantic]] 
+[[2017]] • [[Commonplace]] • [[David Sims]] • [[The Atlantic]] 
 
 https://www.theatlantic.com/entertainment/archive/2017/07/is-dunkirk-the-beginning-of-a-new-hollywood-gimmick/533094/
 

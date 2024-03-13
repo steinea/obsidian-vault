@@ -9,7 +9,7 @@ date: 2018-07-15
 permalink: 2018/07/15/yuri-gagarin-nikita-khrushchev-i-dont-see-any-god-up-here
 ---
 
-[[2018]] • [[commonplace]] • AUTHOR • PUBLICATION
+[[2018]] • [[Commonplace]] • AUTHOR • PUBLICATION
 
 https://en.wikipedia.org/wiki/Yuri_Gagarin
  

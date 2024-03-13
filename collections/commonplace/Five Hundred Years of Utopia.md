@@ -9,7 +9,7 @@ date: 2016-05-08
 permalink: 2016/05/08/ed-simon-five-hundred-years-of-utopia
 ---
 
-[[2016]] • [[commonplace]] • [[Ed Simon]] • [[Jacobin]]
+[[2016]] • [[Commonplace]] • [[Ed Simon]] • [[Jacobin]]
 
 https://www.jacobinmag.com/2016/04/thomas-more-utopia-socialism-progress-wilde/
 

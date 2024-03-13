@@ -9,7 +9,7 @@ date: 2023-12-20
 permalink: 2023/12/20/merritt-k-progression-fantasy
 ---
 
-[[2023]] • [[commonplace]] • [[Merritt K]] • [[Bluesky]]
+[[2023]] • [[Commonplace]] • [[Merritt K]] • [[Bluesky]]
 
 https://bsky.app/profile/merrittk.com/post/3kgz6quptus2n
 

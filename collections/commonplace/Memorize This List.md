@@ -9,7 +9,7 @@ date: 2014-12-06
 permalink: 2014/12/06/joseph-fink-jeffrey-cranor-the-list
 ---
 
-[[2014]] • [[commonplace]] • [[Joseph Fink]] • [[Jeffrey Cranor]] • [[Welcome to Night Vale]]
+[[2014]] • [[Commonplace]] • [[Joseph Fink]] • [[Jeffrey Cranor]] • [[Welcome to Night Vale]]
 
 https://www.welcometonightvale.com/
 

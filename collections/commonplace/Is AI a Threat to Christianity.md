@@ -9,7 +9,7 @@ date: 2017-02-03
 permalink: 2017/02/03/jonathan-merritt-is-ai-a-threat-to-christianity
 ---
 
-[[2017]] • [[commonplace]] • [[Jonathan Merritt]] • [[The Atlantic]] 
+[[2017]] • [[Commonplace]] • [[Jonathan Merritt]] • [[The Atlantic]] 
 
 https://www.theatlantic.com/technology/archive/2017/02/artificial-intelligence-christianity/515463/
 

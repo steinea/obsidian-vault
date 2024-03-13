@@ -9,7 +9,7 @@ date: 2014-09-25
 permalink: 2014/09/25/cleanth-brooks-paradox-and-formalism
 ---
 
-[[2014]] • [[commonplace]] • [[Cleanth Brooks]] • [[Critical Theory]]
+[[2014]] • [[Commonplace]] • [[Cleanth Brooks]] • [[Critical Theory]]
 
 https://global.oup.com/ushe/product/critical-theory-9780199797776
 

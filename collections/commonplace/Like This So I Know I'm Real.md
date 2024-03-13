@@ -9,7 +9,7 @@ date: 2016-03-13
 permalink: 2016/03/13/bethlehem-shoals-like-this-so-i-know-im-real
 ---
 
-[[2016]] • [[commonplace]] • [[Bethlehem Shoals]] • [[Hazlitt]]
+[[2016]] • [[Commonplace]] • [[Bethlehem Shoals]] • [[Hazlitt]]
 
 http://hazlitt.net/feature/so-i-know-im-real
 

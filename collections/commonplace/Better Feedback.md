@@ -9,7 +9,7 @@ date: 2023-10-09
 permalink: 2023/10/09/bryant-francis-better-feedback
 ---
 
-[[2023]] • [[commonplace]] • [[Bryant Francis]] • [[Game Developer]]
+[[2023]] • [[Commonplace]] • [[Bryant Francis]] • [[Game Developer]]
 
 https://www.gamedeveloper.com/gdc2023/how-to-give-better-feedback-in-game-writing-and-beyond-
 

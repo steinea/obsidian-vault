@@ -9,7 +9,7 @@ date: 2015-11-30
 permalink: 2015/11/30/jeremiah-sheer-silence
 ---
 
-[[2015]] • [[commonplace]] • [[Jeremiah]] • [[Bible]]
+[[2015]] • [[Commonplace]] • [[Jeremiah]] • [[Bible]]
 
 https://biblehub.com/1_kings/19-11.htm
 

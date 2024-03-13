@@ -9,7 +9,7 @@ date: 2023-12-27
 permalink: 2023/12/27/paul-stephens-world-as-diagram
 ---
 
-[[2023]] • [[commonplace]] • [[Paul Stephens]] • [[e-flux]]
+[[2023]] • [[Commonplace]] • [[Paul Stephens]] • [[e-flux]]
 
 https://www.e-flux.com/criticism/549435/schema-world-as-diagram
 

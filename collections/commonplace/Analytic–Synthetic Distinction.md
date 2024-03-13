@@ -9,7 +9,7 @@ date: 2016-01-30
 permalink: 2016/01/30/immanuel-kant-analytic-synthetic-distinction
 ---
 
-[[2016]] • [[commonplace]] • [[Immanuel Kant]] • [[Wikipedia]]
+[[2016]] • [[Commonplace]] • [[Immanuel Kant]] • [[Wikipedia]]
 
 https://en.wikipedia.org/wiki/Analytic%E2%80%93synthetic_distinction
 

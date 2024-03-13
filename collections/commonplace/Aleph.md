@@ -9,7 +9,7 @@ date: 2015-07-04
 permalink: 2015/07/04/oxford-english-dictionary-aleph
 ---
 
-[[2015]] • [[commonplace]] • [[Oxford English Dictionary]]  
+[[2015]] • [[Commonplace]] • [[Oxford English Dictionary]]  
 
 https://www.oed.com/view/Entry/4833
 

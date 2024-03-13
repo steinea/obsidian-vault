@@ -9,7 +9,7 @@ date: 2015-05-06
 permalink: 2015/05/06/adam-gopnik-the-troubling-genius-of-g-k-chesterton
 ---
 
-[[2015]] • [[commonplace]] • [[Adam Gopnik]] • [[The New Yorker]]
+[[2015]] • [[Commonplace]] • [[Adam Gopnik]] • [[The New Yorker]]
 
 https://www.newyorker.com/magazine/2008/07/07/the-back-of-the-world
 

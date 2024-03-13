@@ -9,7 +9,7 @@ date: 2022-11-12
 permalink: 2022/11/12/nicolas-oueijan-make-cognitive-maps-not-levels
 ---
 
-[[2022]] • [[commonplace]] • [[Nicolas Oueijan]] • [[Game Developers Conference]]
+[[2022]] • [[Commonplace]] • [[Nicolas Oueijan]] • [[Game Developers Conference]]
 
 https://www.youtube.com/watch?v=Q1Tczf8vxCM
 

@@ -9,7 +9,7 @@ date: 2016-02-19
 permalink: 
 ---
 
-[[2016]] • [[commonplace]] • [[Risto Hilpinen]] • [[Stanford Encyclopedia of Philosophy]]
+[[2016]] • [[Commonplace]] • [[Risto Hilpinen]] • [[Stanford Encyclopedia of Philosophy]]
 
 http://plato.stanford.edu/entries/artifact/
 

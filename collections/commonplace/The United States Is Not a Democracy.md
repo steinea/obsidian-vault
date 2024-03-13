@@ -9,7 +9,7 @@ date: 2016-05-07
 permalink: 2016/05/07/roslyn-fuller-the-united-states-is-not-a-democracy
 ---
 
-[[2016]] • [[commonplace]] • [[Roslyn Fuller]] • [[Los Angeles Review of Books]]
+[[2016]] • [[Commonplace]] • [[Roslyn Fuller]] • [[Los Angeles Review of Books]]
 
 https://lareviewofbooks.org/review/the-united-states-is-not-a-democracy/
 

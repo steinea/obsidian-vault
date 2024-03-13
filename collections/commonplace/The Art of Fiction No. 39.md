@@ -9,7 +9,7 @@ date: 2017-06-20
 permalink: 2017/06/20/jorge-luis-borges-the-art-of-fiction-no-39
 ---
 
-[[2017]] • [[commonplace]] • [[Jorge Luis Borges]] • [[The Paris Review]] 
+[[2017]] • [[Commonplace]] • [[Jorge Luis Borges]] • [[The Paris Review]] 
 
 https://www.theparisreview.org/interviews/4331/jorge-luis-borges-the-art-of-fiction-no-39-jorge-luis-borges
 

@@ -9,7 +9,7 @@ date: 2016-03-12
 permalink: 2016/03/12/rose-mclaren-no-plot-no-genre-no-varnish
 ---
 
-[[2016]] • [[commonplace]] • [[Rose McLaren]] • [[The White Review]]
+[[2016]] • [[Commonplace]] • [[Rose McLaren]] • [[The White Review]]
 
 http://www.thewhitereview.org/features/art-does-not-know-a-beyond-on-karl-ove-knausgaard/
 

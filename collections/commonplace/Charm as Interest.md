@@ -9,7 +9,7 @@ date: 2015-03-21
 permalink: 2015/03/21/richard-avedon-charm
 ---
 
-[[2015]] • [[commonplace]] • [[Richard Avedon]] • [[The Paris Review]]
+[[2015]] • [[Commonplace]] • [[Richard Avedon]] • [[The Paris Review]]
 
 http://www.theparisreview.org/blog/2015/03/20/staff-picks-mendelsohn-microgravity-misconduct/
 

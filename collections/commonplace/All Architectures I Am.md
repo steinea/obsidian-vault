@@ -9,7 +9,7 @@ date: 2023-01-01
 permalink: 2023/01/01/max-lesser-all-architectures-i-am
 ---
 
-[[2023]] • [[commonplace]] • [[Max Lesser]] • [[Los Angeles Review of Books]]
+[[2023]] • [[Commonplace]] • [[Max Lesser]] • [[Los Angeles Review of Books]]
 
 https://lareviewofbooks.org/article/all-architectures-i-am-the-unintended-legacy-of-charles-olsons-projective-verse/
  

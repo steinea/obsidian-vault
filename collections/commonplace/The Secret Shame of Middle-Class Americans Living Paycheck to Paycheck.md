@@ -9,7 +9,7 @@ date: 2016-07-27
 permalink: 2016/07/27/neal-gabler-the-secret-shame-of-middle-class-americans-living-paycheck-to-paycheck
 ---
 
-[[2016]] • [[commonplace]] • [[Neal Gabler]] • [[The Atlantic]]
+[[2016]] • [[Commonplace]] • [[Neal Gabler]] • [[The Atlantic]]
 
 http://www.theatlantic.com/magazine/archive/2016/05/my-secret-shame/476415/
 

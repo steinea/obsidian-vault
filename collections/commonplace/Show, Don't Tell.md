@@ -9,7 +9,7 @@ date: 2014-04-11
 permalink: 2014/04/11/sadie-stein-show-dont-tell
 ---
 
-[[2014]] • [[commonplace]] • [[Sadie Stein]] • [[The Paris Review]]
+[[2014]] • [[Commonplace]] • [[Sadie Stein]] • [[The Paris Review]]
 
 https://www.theparisreview.org/blog/2014/04/11/show-dont-tell/
 

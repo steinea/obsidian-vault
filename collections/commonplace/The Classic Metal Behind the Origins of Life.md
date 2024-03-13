@@ -9,7 +9,7 @@ date: 2016-03-27
 permalink: 2016/03/27/al-crumbliss-the-classic-metal-behind-the-origins-of-life
 ---
 
-[[2016]] • [[commonplace]] • [[Al Crumbliss]] • [[Nautilus]]
+[[2016]] • [[Commonplace]] • [[Al Crumbliss]] • [[Nautilus]]
 
 http://nautil.us/issue/34/adaptation/the-classic-metal-behind-the-origins-of-life
 

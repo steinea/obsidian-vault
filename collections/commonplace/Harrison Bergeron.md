@@ -9,7 +9,7 @@ date: 2015-07-22
 permalink: 2015/07/22/kurt-vonnegut-harrison-bergeron
 ---
 
-[[2015]] • [[commonplace]] • [[Kurt Vonnegut]] • [[Cyber English]] 
+[[2015]] • [[Commonplace]] • [[Kurt Vonnegut]] • [[Cyber English]] 
 
 http://www.tnellen.com/cybereng/harrison.html
 

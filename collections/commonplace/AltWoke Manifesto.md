@@ -9,7 +9,7 @@ date: 2017-06-13
 permalink: 2017/07/13/triple-ampersand-altwoke-manifesto
 ---
 
-[[2017]] • [[commonplace]] • [[Triple Ampersand]]
+[[2017]] • [[Commonplace]] • [[Triple Ampersand]]
 
 http://tripleampersand.org/alt-woke-manifesto/
 

@@ -9,7 +9,7 @@ date: 2015-02-19
 permalink: 2015/02/19/michael-segal-is-your-theory-of-everything-pure-enough
 ---
 
-[[2015]] • [[commonplace]] • [[Michael Segal]] • [[Nautilus]]
+[[2015]] • [[Commonplace]] • [[Michael Segal]] • [[Nautilus]]
 
 https://nautil.us/issue/21/information/is-your-theory-of-everything-pure-enough
 

@@ -9,7 +9,7 @@ date: 2023-03-20
 permalink: 2023/03/20/hugh-farrell-the-strategy-of-composition
 ---
 
-[[2023]] • [[commonplace]] • [[Hugh Farrell]] • [[Ill Will]]
+[[2023]] • [[Commonplace]] • [[Hugh Farrell]] • [[Ill Will]]
 
 https://illwill.com/composition
  

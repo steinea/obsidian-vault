@@ -9,7 +9,7 @@ date: 2016-03-31
 permalink: 2016/03/31/chip-rowe-design-flaws-in-the-human-body
 ---
 
-[[2016]] • [[commonplace]] • [[Chip Rowe]] • [[Nautilus]]
+[[2016]] • [[Commonplace]] • [[Chip Rowe]] • [[Nautilus]]
 
 http://nautil.us/issue/34/adaptation/top-10-design-flaws-in-the-human-body-rp
 

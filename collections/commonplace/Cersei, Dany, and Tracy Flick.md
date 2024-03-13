@@ -9,7 +9,7 @@ date: 2017-07-31
 permalink: 2017/07/31/sarah-mesle-cersei-dany-and-tracy-flick
 ---
 
-[[2017]] • [[commonplace]] • [[Sarah Mesle]] • [[Los Angeles Review of Books]] 
+[[2017]] • [[Commonplace]] • [[Sarah Mesle]] • [[Los Angeles Review of Books]] 
 
 https://lareviewofbooks.org/article/game-thrones-queens-justice/
 

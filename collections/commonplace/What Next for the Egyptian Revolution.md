@@ -9,7 +9,7 @@ date: 2015-11-05
 permalink: 2015/11/05/khaled-fahmy-what-next-for-the-egyptian-revolution
 ---
 
-[[2015]] • [[commonplace]] • [[Khaled Fahmy]] • [[Aeon]]
+[[2015]] • [[Commonplace]] • [[Khaled Fahmy]] • [[Aeon]]
 
 http://aeon.co/magazine/society/what-next-for-the-egyptian-revolution/
 

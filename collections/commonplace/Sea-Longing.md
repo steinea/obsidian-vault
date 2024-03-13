@@ -9,7 +9,7 @@ date: 2022-10-14
 permalink: 2022/10/14/tolkien-gateway-sea-longing
 ---
 
-[[2022]] • [[commonplace]] • [[J. R. R. Tolkien]] • [[Tolkien Gateway]]
+[[2022]] • [[Commonplace]] • [[J. R. R. Tolkien]] • [[Tolkien Gateway]]
 
 https://tolkiengateway.net/wiki/Sea-longing
 

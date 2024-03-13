@@ -9,7 +9,7 @@ date: 2015-03-15
 permalink: 2015/03/15/jeremiah-new-mercies
 ---
 
-[[2015]] • [[commonplace]] • [[Jeremiah]] • [[Bible]]
+[[2015]] • [[Commonplace]] • [[Jeremiah]] • [[Bible]]
 
 https://en.wikipedia.org/wiki/Lamentations_3
 

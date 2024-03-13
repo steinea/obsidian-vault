@@ -9,7 +9,7 @@ date: 2016-02-15
 permalink: 2016/02/15/garry-wills-the-next-justice-is-not-up-to-us
 ---
 
-[[2016]] • [[commonplace]] • [[Garry Wills]] • [[New York Review of Books]]
+[[2016]] • [[Commonplace]] • [[Garry Wills]] • [[New York Review of Books]]
 
 http://www.nybooks.com/daily/2016/02/15/next-supreme-court-justice-not-up-to-us/
 

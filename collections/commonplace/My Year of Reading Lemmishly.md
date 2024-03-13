@@ -9,7 +9,7 @@ date: 2022-07-01
 permalink: 2022/07/01/jonathan-lethem-my-year-of-reading-lemmishly
 ---
 
-[[2022]] • [[commonplace]] • [[Jonathan Lethem]] • [[London Review of Books]]
+[[2022]] • [[Commonplace]] • [[Jonathan Lethem]] • [[London Review of Books]]
 
 https://www.lrb.co.uk/the-paper/v44/n03/jonathan-lethem/my-year-of-reading-lemmishly
 

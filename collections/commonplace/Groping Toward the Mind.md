@@ -9,7 +9,7 @@ date: 2016-07-12
 permalink: 2016/07/12/colin-mcginn-groping-toward-the-mind
 ---
 
-[[2016]] • [[commonplace]] • [[Colin McGinn]] • [[New York Review of Books]]
+[[2016]] • [[Commonplace]] • [[Colin McGinn]] • [[New York Review of Books]]
 
 http://www.nybooks.com/articles/2016/06/23/groping-toward-modern-mind/
 

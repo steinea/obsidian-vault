@@ -9,7 +9,7 @@ date: 2014-04-13
 permalink: 2014/04/13/sigizmund-krzhizhanovsky-someone-elses-theme
 ---
 
-[[2014]] • [[commonplace]] • [[Sigizmund Krzhizhanovsky]] • [[Memories of the Future]]
+[[2014]] • [[Commonplace]] • [[Sigizmund Krzhizhanovsky]] • [[Memories of the Future]]
 
 https://www.nyrb.com/products/memories-of-the-future?variant=1094930253
 

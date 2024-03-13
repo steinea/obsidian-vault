@@ -9,7 +9,7 @@ date: 2023-03-20
 permalink: 2023/03/20/niall-harrison-dancing-on-the-worlds-thin-crust
 ---
 
-[[2023]] • [[commonplace]] • [[Niall Harrison]] • [[Los Angeles Review of Books]]
+[[2023]] • [[Commonplace]] • [[Niall Harrison]] • [[Los Angeles Review of Books]]
 
 https://dev.lareviewofbooks.org/article/dancing-on-the-worlds-thin-crust-on-the-mit-presss-radium-age-series/
  

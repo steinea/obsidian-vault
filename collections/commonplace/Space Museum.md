@@ -9,7 +9,7 @@ date: 2023-10-07
 permalink: 2023/10/07/denis-sivkov-space-museum
 ---
 
-[[2023]] • [[commonplace]] • [[Denis Sivkov]] • [[Cosmic Bulletin]]
+[[2023]] • [[Commonplace]] • [[Denis Sivkov]] • [[Cosmic Bulletin]]
 
 https://cosmos.art/cosmic-bulletin/2022/pyotr-druzhinin-s-space-museum
 

@@ -9,7 +9,7 @@ date: 2017-10-01
 permalink: 2017/10/01/pierre-duhem-willard-quine-duhem-quine-thesis
 ---
 
-[[2017]] • [[commonplace]] • [[Pierre Duhem]] • [[Willard Quine]] • [[Wikipedia]] 
+[[2017]] • [[Commonplace]] • [[Pierre Duhem]] • [[Willard Quine]] • [[Wikipedia]] 
 
 https://en.wikipedia.org/wiki/Duhem%E2%80%93Quine_thesis
 

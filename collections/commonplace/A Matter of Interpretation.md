@@ -9,7 +9,7 @@ date: 2016-02-17
 permalink: 2016/02/17/robert-post-a-matter-of-interpretation
 ---
 
-[[2016]] • [[commonplace]] • [[Robert Post]] • [[New York Review of Books]]
+[[2016]] • [[Commonplace]] • [[Robert Post]] • [[New York Review of Books]]
 
 http://www.nybooks.com/articles/1998/06/11/justice-for-scalia/
 

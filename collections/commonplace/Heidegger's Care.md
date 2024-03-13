@@ -9,7 +9,7 @@ date: 2017-06-20
 permalink: 2017/06/20/michael-wheeler-heideggers-care
 ---
 
-[[2017]] • [[commonplace]] • [[Michael Wheeler]] • [[Stanford Encyclopedia of Philosophy]] 
+[[2017]] • [[Commonplace]] • [[Michael Wheeler]] • [[Stanford Encyclopedia of Philosophy]] 
 
 https://plato.stanford.edu/entries/heidegger/
 

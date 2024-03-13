@@ -9,7 +9,7 @@ date: 2015-11-17
 permalink: 2015/11/17.george-silver-paradoxes-of-defense
 ---
 
-[[2015]] • [[commonplace]] • [[George Silver]] • [[Paradoxes of Defense]]
+[[2015]] • [[Commonplace]] • [[George Silver]] • [[Paradoxes of Defense]]
 
 http://www.pbm.com/~lindahl/paradoxes.html
 

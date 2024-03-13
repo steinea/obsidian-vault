@@ -9,7 +9,7 @@ date: 2016-11-15
 permalink: 2016/11/15/gerry-canavan-quiet-too-quiet
 ---
 
-[[2016]] • [[commonplace]] • [[Gerry Canavan]] • [[Los Angeles Review of Books]]
+[[2016]] • [[Commonplace]] • [[Gerry Canavan]] • [[Los Angeles Review of Books]]
 
 https://lareviewofbooks.org/review/quiet-too-quiet/
 

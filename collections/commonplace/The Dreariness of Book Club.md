@@ -9,7 +9,7 @@ date: 2022-12-30
 permalink: 2022/12/30/naomi-kanakia-the-dreariness-of-book-club-discussions
 ---
 
-[[2022]] • [[commonplace]] • [[Naomi Kanakia]] • [[Los Angeles Review of Books]]
+[[2022]] • [[Commonplace]] • [[Naomi Kanakia]] • [[Los Angeles Review of Books]]
 
 https://lareviewofbooks.org/article/the-dreariness-of-book-club-discussions/
 

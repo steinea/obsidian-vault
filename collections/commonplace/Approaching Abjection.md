@@ -9,7 +9,7 @@ date: 2014-10-23
 permalink: 2014/10/23/julia-kristeva-approaching-abjection
 ---
 
-[[2014]] • [[commonplace]] • [[Julia Kristeva]] • [[Powers of Horror]]
+[[2014]] • [[Commonplace]] • [[Julia Kristeva]] • [[Powers of Horror]]
 
 https://en.wikipedia.org/wiki/Powers_of_Horror
 

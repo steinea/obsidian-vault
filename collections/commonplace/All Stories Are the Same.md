@@ -9,7 +9,7 @@ date: 2016-01-06
 permalink: 2016/01/06/john-yorke-all-stories-are-the-same
 ---
 
-[[2016]] • [[commonplace]] • [[John Yorke]] • [[The Atlantic]]
+[[2016]] • [[Commonplace]] • [[John Yorke]] • [[The Atlantic]]
 
 http://www.theatlantic.com/entertainment/archive/2016/01/into-the-woods-excerpt/421566/
 

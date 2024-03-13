@@ -9,7 +9,7 @@ date: 2023-01-01
 permalink:
 ---
 
-[[2023]] • [[commonplace]] • [[Ala Riani]] • [[Rezan Labady]] • [[Los Angeles Review of Books]]
+[[2023]] • [[Commonplace]] • [[Ala Riani]] • [[Rezan Labady]] • [[Los Angeles Review of Books]]
 
 https://lareviewofbooks.org/article/unity-in-diversity-on-overcoming-the-erasure-of-kurdistan-and-jina-amini/
  

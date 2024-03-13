@@ -9,7 +9,7 @@ date: 2017-01-07
 permalink: 2017/01/07/dennis-j-schmidt-review-of-janicauds-heidegger-in-france
 ---
 
-[[2017]] • [[commonplace]] • [[Dennis J. Schmidt]] • [[Notre Dame Philosophical Reviews]]
+[[2017]] • [[Commonplace]] • [[Dennis J. Schmidt]] • [[Notre Dame Philosophical Reviews]]
 
 https://ndpr.nd.edu/news/heidegger-in-france/
 

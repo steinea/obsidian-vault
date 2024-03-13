@@ -9,7 +9,7 @@ date: 2016-01-02
 permalink: 2016/01/02/antonio-gramsci-i-hate-new-years-day
 ---
 
-[[2016]] • [[commonplace]] • [[Antonio Gramsci]] • [[Jacobin]]
+[[2016]] • [[Commonplace]] • [[Antonio Gramsci]] • [[Jacobin]]
 
 https://www.jacobinmag.com/2016/01/antonio-gramsci-new-years-day/
 

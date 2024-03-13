@@ -9,7 +9,7 @@ date: 2017-02-13
 permalink: 2017/02/13/simon-critchley-the-function-of-anxiety
 ---
 
-[[2017]] • [[commonplace]] • [[Simon Critchley]] • [[The Guardian]] 
+[[2017]] • [[Commonplace]] • [[Simon Critchley]] • [[The Guardian]] 
 
 http://www.theguardian.com/commentisfree/belief/2009/jul/06/heidegger-philosophy-being
 

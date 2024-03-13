@@ -9,7 +9,7 @@ date: 2015-06-30
 permalink: 2015/06/30/mathias-frisch-could-we-do-without-cause-and-effect
 ---
 
-[[2015]] • [[commonplace]] • [[Mathias Frisch]] • [[Aeon]] 
+[[2015]] • [[Commonplace]] • [[Mathias Frisch]] • [[Aeon]] 
 
 https://aeon.co/magazine/philosophy/could-we-do-without-cause-and-effect
 

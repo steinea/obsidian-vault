@@ -9,7 +9,7 @@ date: 2015-11-30
 permalink: 2015/11/30/emily-esfahani-smith-lasting-relationships
 ---
 
-[[2015]] • [[commonplace]] • [[Emily Esfahani Smith]] • [[Business Insider]]
+[[2015]] • [[Commonplace]] • [[Emily Esfahani Smith]] • [[Business Insider]]
 
 https://www.businessinsider.com/lasting-relationships-rely-on-traits-2015-11
 

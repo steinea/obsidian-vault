@@ -9,7 +9,7 @@ date: 2016-01-12
 permalink: 2016/01/12/michael-graziano-consciousness-is-not-mysterious
 ---
 
-[[2016]] • [[commonplace]] • [[Michael Graziano]] • [[The Atlantic]]
+[[2016]] • [[Commonplace]] • [[Michael Graziano]] • [[The Atlantic]]
 
 http://www.theatlantic.com/science/archive/2016/01/consciousness-color-brain/423522/
 

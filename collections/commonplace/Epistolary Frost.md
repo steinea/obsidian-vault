@@ -9,7 +9,7 @@ date: 2014-08-01
 permalink: 2014/08/01/david-bromwich-epistolary-frost
 ---
 
-[[2014]] • [[commonplace]] • [[David Bromwich]] • [[Times Literary Supplement]]
+[[2014]] • [[Commonplace]] • [[David Bromwich]] • [[Times Literary Supplement]]
 
 https://www.the-tls.co.uk/
 

@@ -9,7 +9,7 @@ date: 2015-11-10
 permalink: 2015/11/10/julian-barnes-even-worse-than-we-thought
 ---
 
-[[2015]] • [[commonplace]] • [[Julian Barnes]] • [[New York Review of Books]]
+[[2015]] • [[Commonplace]] • [[Julian Barnes]] • [[New York Review of Books]]
 
 https://www.nybooks.com/articles/2015/11/19/jedwabne-even-worse-we-thought/
 

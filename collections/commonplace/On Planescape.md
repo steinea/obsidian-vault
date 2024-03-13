@@ -9,7 +9,7 @@ date: 2017-06-09
 permalink: 2017/06/09/cameron-kunzelman-on-planescape
 ---
 
-[[2017]] • [[commonplace]] • [[Cameron Kunzelman]] • [[Waypoint]] 
+[[2017]] • [[Commonplace]] • [[Cameron Kunzelman]] • [[Waypoint]] 
 
 https://waypoint.vice.com/en_us/article/pay3q8/we-need-another-boundary-breaker-like-planescape-torment
 

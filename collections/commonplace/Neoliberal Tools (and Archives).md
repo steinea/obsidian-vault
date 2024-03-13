@@ -9,7 +9,7 @@ date: 2016-07-24
 permalink: 2016/07/24/daniel-allington-sarah-brouillette-david-golumbia-neoliberal-tools-and-archives
 ---
 
-[[2016]] • [[commonplace]] • [[Daniel Allington]] •[[Sarah Brouillette]] • [[David Golumbia]] • [[Los Angeles Review of Books]]
+[[2016]] • [[Commonplace]] • [[Daniel Allington]] •[[Sarah Brouillette]] • [[David Golumbia]] • [[Los Angeles Review of Books]]
 
 https://lareviewofbooks.org/article/neoliberal-tools-archives-political-history-digital-humanities/
 

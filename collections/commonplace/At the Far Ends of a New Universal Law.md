@@ -9,7 +9,7 @@ date: 2016-02-02
 permalink: 2016/02/02/natalie-wolchover-at-the-far-ends-of-a-new-universal-law
 ---
 
-[[2016]] • [[commonplace]] • [[Natalie Wolchover]] • [[Quanta Magazine]]
+[[2016]] • [[Commonplace]] • [[Natalie Wolchover]] • [[Quanta Magazine]]
 
 https://www.quantamagazine.org/20141015-at-the-far-ends-of-a-new-universal-law/
 

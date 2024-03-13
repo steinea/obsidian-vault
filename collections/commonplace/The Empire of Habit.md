@@ -9,7 +9,7 @@ date: 2016-10-18
 permalink: 2016/10/18/douglas-casson-the-empire-of-habit
 ---
 
-[[2016]] • [[commonplace]] • [[Douglas Casson]] • [[Notre Dame Philosophical Reviews]]
+[[2016]] • [[Commonplace]] • [[Douglas Casson]] • [[Notre Dame Philosophical Reviews]]
 
 https://ndpr.nd.edu/news/70560-the-empire-of-habit-john-locke-discipline-and-the-origins-of-liberalism/
 

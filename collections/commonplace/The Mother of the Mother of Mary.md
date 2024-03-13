@@ -9,7 +9,7 @@ date: 2023-04-09
 permalink: 2023/04/09/marta-figlerowicz-the-mother-of-the-mother-of-mary
 ---
 
-[[2023]] • [[commonplace]] • [[Marta Figlerowicz]] • [[The Paris Review]]
+[[2023]] • [[Commonplace]] • [[Marta Figlerowicz]] • [[The Paris Review]]
 
 https://www.theparisreview.org/blog/2023/04/07/the-mother-of-the-mother-of-the-virgin-mary/
  

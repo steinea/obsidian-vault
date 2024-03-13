@@ -9,7 +9,7 @@ date: 2023-03-04
 permalink: 2023/03/04/superbrothers-jetts-unorthodox-design-concepts
 ---
 
-[[2023]] • [[commonplace]] • [[Superbrothers]] • [[Steam]]
+[[2023]] • [[Commonplace]] • [[Superbrothers]] • [[Steam]]
 
 https://store.steampowered.com/news/app/204060/view/3650760600392309131
  

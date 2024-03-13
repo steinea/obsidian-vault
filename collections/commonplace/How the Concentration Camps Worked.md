@@ -9,7 +9,7 @@ date: 2015-03-30
 permalink: 2015/03/30/adam-kirsch-how-the-concentration-camps-worked
 ---
 
-[[2015]] • [[commonplace]] • [[Adam Kirsch]] • [[The New Yorker]]
+[[2015]] • [[Commonplace]] • [[Adam Kirsch]] • [[The New Yorker]]
 
 https://www.newyorker.com/magazine/2015/04/06/the-system-books-kirsch
 

@@ -9,7 +9,7 @@ date: 2016-02-10
 permalink: 2016/02/10/sara-worth-book-of-revelations
 ---
 
-[[2016]] • [[commonplace]] • [[Sara Worth]] • [[Los Angeles Review of Books]]
+[[2016]] • [[Commonplace]] • [[Sara Worth]] • [[Los Angeles Review of Books]]
 
 https://lareviewofbooks.org/review/book-of-revelations/
 

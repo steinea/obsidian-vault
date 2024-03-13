@@ -9,7 +9,7 @@ date: 2023-04-01
 permalink: 2023/04/01/5cense-u2s-natural-logarhythm
 ---
 
-[[2023]] • [[commonplace]] • [[5cense]]
+[[2023]] • [[Commonplace]] • [[5cense]]
 
 https://5cense.com/Edge_Delay.htm
  

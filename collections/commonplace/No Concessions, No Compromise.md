@@ -9,7 +9,7 @@ date: 2022-12-17
 permalink: 2022/12/17/eli-glasner-no-concessions-no-compromise
 ---
 
-[[2022]] • [[commonplace]] • [[Eli Glasner]] • [[CBC]]
+[[2022]] • [[Commonplace]] • [[Eli Glasner]] • [[CBC]]
 
 https://www.cbc.ca/news/entertainment/avatar-way-of-water-review-1.6687334
 

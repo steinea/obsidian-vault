@@ -9,7 +9,7 @@ date: 2016-12-21
 permalink: 2016/12/21/friedrich-nietzsche-lou-andreas-salome-writing-philosophy-with-style
 ---
 
-[[2016]] • [[commonplace]] • [[Friedrich Nietzsche]] • [[Lou Andreas-Salomé]] • [[Daily Nous]]
+[[2016]] • [[Commonplace]] • [[Friedrich Nietzsche]] • [[Lou Andreas-Salomé]] • [[Daily Nous]]
 
 http://dailynous.com/2016/12/21/writing-philosophy-style/
 

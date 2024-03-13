@@ -9,7 +9,7 @@ date: 2015-08-26
 permalink: 2015/08/26/stephanie-bailey-my-fathers-sign
 ---
 
-[[2015]] • [[commonplace]] • [[Stephanie Bailey]] • [[The New Inquiry]]
+[[2015]] • [[Commonplace]] • [[Stephanie Bailey]] • [[The New Inquiry]]
 
 https://thenewinquiry.com/my-fathers-sign/
 

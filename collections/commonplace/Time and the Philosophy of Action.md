@@ -9,7 +9,7 @@ date: 2016-12-17
 permalink: 2016/12/17/timothy-cleveland-time-and-the-philosophy-of-action
 ---
 
-[[2016]] • [[commonplace]] • [[Timothy Cleveland]] •[[Notre Dame Philosophical Reviews]]
+[[2016]] • [[Commonplace]] • [[Timothy Cleveland]] •[[Notre Dame Philosophical Reviews]]
 
 https://ndpr.nd.edu/news/time-and-the-philosophy-of-action-2/
 

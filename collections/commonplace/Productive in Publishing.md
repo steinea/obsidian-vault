@@ -9,7 +9,7 @@ date: 2016-11-10
 permalink: 2016/11/10/jason-brennan-productive-in-publishing
 ---
 
-[[2016]] • [[commonplace]] • [[Jason Brennan]] • [[Daily Nous]]
+[[2016]] • [[Commonplace]] • [[Jason Brennan]] • [[Daily Nous]]
 
 http://dailynous.com/2016/11/10/productive-publishing-guest-post-jason-brennan/
 

@@ -9,7 +9,7 @@ date: 2016-02-25
 permalink: 2016/02/25/jean-hyppolite-the-organisation-of-the-logic
 ---
 
-[[2016]] • [[commonplace]] • [[Jean Hyppolite]] • [[Marxists]]
+[[2016]] • [[Commonplace]] • [[Jean Hyppolite]] • [[Marxists]]
 
 https://www.marxists.org/reference/subject/philosophy/works/fr/hyppolit.htm
 

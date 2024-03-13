@@ -9,7 +9,7 @@ date: 2015-08-19
 permalink: 2015/08/19/elliot-murphy-video-games-and-radical-politics
 ---
 
-[[2015]] • [[commonplace]] • [[Elliot Murphy]] • [[Los Angeles Review of Books]]
+[[2015]] • [[Commonplace]] • [[Elliot Murphy]] • [[Los Angeles Review of Books]]
 
 https://lareviewofbooks.org/article/always-a-lighthouse-video-games-and-radical-politics/
 

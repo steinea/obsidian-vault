@@ -9,7 +9,7 @@ date: 2014-09-26
 permalink: 2014/09/26/jeffrey-toobin-the-solace-of-oblivion
 ---
 
-[[2014]] • [[commonplace]] • [[Jeffrey Toobin]] • [[The New Yorker]]
+[[2014]] • [[Commonplace]] • [[Jeffrey Toobin]] • [[The New Yorker]]
 
 https://www.newyorker.com/magazine/2014/09/29/solace-oblivion
 

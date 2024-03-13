@@ -9,7 +9,7 @@ date: 2016-02-02
 permalink: 2016/02/02/nigel-anthony-reading-form-follows-flow
 ---
 
-[[2016]] • [[commonplace]] • [[Nigel Anthony Reading]] • [[Asynsis]]
+[[2016]] • [[Commonplace]] • [[Nigel Anthony Reading]] • [[Asynsis]]
 
 https://asynsis.wordpress.com/2011/05/26/dynamical-symmetries-asynsis/
 

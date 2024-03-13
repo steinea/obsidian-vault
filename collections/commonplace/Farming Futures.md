@@ -9,7 +9,7 @@ date: 2023-01-07
 permalink: 2022/01/07/harriet-friedmann-farming-futures
 ---
 
-[[2022]] • [[commonplace]] • [[Harriet Friedmann]] • [[New Left Review]]
+[[2022]] • [[Commonplace]] • [[Harriet Friedmann]] • [[New Left Review]]
 
 https://newleftreview.org/issues/ii138/articles/harriet-friedmann-farming-futures?pc=1488
 

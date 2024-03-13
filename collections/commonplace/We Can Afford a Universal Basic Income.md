@@ -9,7 +9,7 @@ date: 2016-04-09
 permalink: 2016/04/09/colin-holtz-we-can-afford-a-universal-basic-income
 ---
 
-[[2016]] • [[commonplace]] • [[Colin Holtz]] • [[The Guardian]]
+[[2016]] • [[Commonplace]] • [[Colin Holtz]] • [[The Guardian]]
 
 http://www.theguardian.com/commentisfree/2016/apr/07/panama-papers-taxes-universal-basic-income-public-services
 

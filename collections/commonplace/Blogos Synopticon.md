@@ -9,7 +9,7 @@ date: 2016-10-25
 permalink: 2016/10/25/terence-blake-blogos-synopticon
 ---
 
-[[2016]] • [[commonplace]] • [[Terence Blake]] • [[Agent Swarm]]
+[[2016]] • [[Commonplace]] • [[Terence Blake]] • [[Agent Swarm]]
 
 https://terenceblake.wordpress.com/2016/09/17/blogos-synopticon-six-years-of-philosophical-blogging/
 

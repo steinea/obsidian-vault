@@ -9,7 +9,7 @@ date: 2016-02-15
 permalink: 2016/02/15/terence-blake-principles-of-non-philosophy
 ---
 
-[[2016]] • [[commonplace]] • [[Terence Blake]] • [[Agent Swarm]]
+[[2016]] • [[Commonplace]] • [[Terence Blake]] • [[Agent Swarm]]
 
 https://terenceblake.wordpress.com/2016/02/15/principles-of-non-philosophy-creative-tension-or-self-paralysing-conflict/
 

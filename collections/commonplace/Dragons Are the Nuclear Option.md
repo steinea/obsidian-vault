@@ -9,7 +9,7 @@ date: 2017-08-07
 permalink: 2017/08/07/sophie-gilbert-dragons-are-the-nuclear-option
 ---
 
-[[2017]] • [[commonplace]] • [[Sophie Gilbert]] • [[The Atlantic]] 
+[[2017]] • [[Commonplace]] • [[Sophie Gilbert]] • [[The Atlantic]] 
 
 https://www.theatlantic.com/entertainment/archive/2017/08/game-of-thrones-dragons-and-the-nuclear-option/536067/
 

@@ -9,7 +9,7 @@ date: 2015-02-27
 permalink: 2015/02/27/rachel-sussman-the-deep-time-question
 ---
 
-[[2015]] • [[commonplace]] • [[Rachel Sussman]] • [[Marina Abramovic Institute]]
+[[2015]] • [[Commonplace]] • [[Rachel Sussman]] • [[Marina Abramovic Institute]]
 
 https://web.archive.org/web/20150426130650/http://www.mai-hudson.org/content/2014/10/14/the-deep-time-question
 

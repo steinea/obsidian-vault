@@ -9,7 +9,7 @@ date: 2017-07-21
 permalink: 2017/07/21/christopher-orr-dunkirk-is-a-masterpiece
 ---
 
-[[2017]] • [[commonplace]] • [[Christopher Orr]] • [[The Atlantic]] 
+[[2017]] • [[Commonplace]] • [[Christopher Orr]] • [[The Atlantic]] 
 
 https://www.theatlantic.com/entertainment/archive/2017/07/dunkirk-is-a-stunningly-spare-survival-film/534252/
 

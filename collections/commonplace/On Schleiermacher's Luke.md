@@ -9,7 +9,7 @@ date: 2016-08-30
 permalink: 2016/08/30/robert-m-price-on-schleiermachers-luke
 ---
 
-[[2016]] • [[commonplace]] • [[Robert M. Price]] • [[Higher Critical Review]]
+[[2016]] • [[Commonplace]] • [[Robert M. Price]] • [[Higher Critical Review]]
 
 https://depts.drew.edu/jhc/schleier.html
 

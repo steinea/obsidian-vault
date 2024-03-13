@@ -9,7 +9,7 @@ date: 2015-07-08
 permalink: 2015/07/08/maria-popova-how-relativity-rattled-the-flow-of-existence
 ---
 
-[[2015]] • [[commonplace]] • [[Maria Popova]] • [[The Marginalian]] 
+[[2015]] • [[Commonplace]] • [[Maria Popova]] • [[The Marginalian]] 
 
 https://www.themarginalian.org/2015/05/07/rebecca-goldstein-incompleteness-godel-einstein-time/
 

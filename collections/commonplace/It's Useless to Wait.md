@@ -9,7 +9,7 @@ date: 2023-06-22
 permalink: 2023/06/22/the-invisible-committee-its-useless-to-wait
 ---
 
-[[2023]] • [[commonplace]] • [[The Invisible Committee]] • [[Twitter]]
+[[2023]] • [[Commonplace]] • [[The Invisible Committee]] • [[Twitter]]
 
 https://twitter.com/spencerbeswick/status/1671935513954058254
  

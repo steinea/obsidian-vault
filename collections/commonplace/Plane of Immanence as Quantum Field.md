@@ -9,7 +9,7 @@ date: 2017-06-20
 permalink: 2017/06/20/dylan-casey-plane-of-immanence-as-quantum-field
 ---
 
-[[2017]] • [[commonplace]] • [[Dylan Casey]] • [[Partially Examined Life]]
+[[2017]] • [[Commonplace]] • [[Dylan Casey]] • [[Partially Examined Life]]
 
 https://partiallyexaminedlife.com/product/ep-76-deleuze-on-what-philosophy-is/
  

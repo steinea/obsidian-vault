@@ -9,7 +9,7 @@ date: 2017-05-18
 permalink: 2017/05/18/david-sims-taking-prometheus-seriously
 ---
 
-[[2017]] • [[commonplace]] • [[David Sims]] • [[The Atlantic]] 
+[[2017]] • [[Commonplace]] • [[David Sims]] • [[The Atlantic]] 
 
 https://www.theatlantic.com/entertainment/archive/2017/05/why-prometheus-deserves-to-be-taken-seriously/527151/
 

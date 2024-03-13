@@ -9,7 +9,7 @@ date: 2015-11-18
 permalink: 2015/11/18/scott-atran-nafees-hamid-the-war-isis-wants
 ---
 
-[[2015]] • [[commonplace]] • [[Scott Atran]] • [[Nafees Hamid]] • [[New York Review of Books]]
+[[2015]] • [[Commonplace]] • [[Scott Atran]] • [[Nafees Hamid]] • [[New York Review of Books]]
 
 https://www.nybooks.com/online/2015/11/16/paris-attacks-isis-strategy-chaos/
 

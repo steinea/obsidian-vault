@@ -9,7 +9,7 @@ date: 2016-09-24
 permalink: 2016/09/24/naomi-waltham-smith-untying-bodies
 ---
 
-[[2016]] • [[commonplace]] • [[Naomi Waltham-Smith]] • [[Los Angeles Review of Books]]
+[[2016]] • [[Commonplace]] • [[Naomi Waltham-Smith]] • [[Los Angeles Review of Books]]
 
 https://lareviewofbooks.org/article/untying-bodies/
 

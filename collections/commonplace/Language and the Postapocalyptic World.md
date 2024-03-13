@@ -9,7 +9,7 @@ date: 2015-10-02
 permalink: 2015/10/02/jason-embry-language-and-the-postapocalyptic-world
 ---
 
-[[2015]] • [[commonplace]] • [[Jason Embry]] • [[Los Angeles Review of Books]]
+[[2015]] • [[Commonplace]] • [[Jason Embry]] • [[Los Angeles Review of Books]]
 
 https://lareviewofbooks.org/article/language-and-the-postapocalyptic-world/
 

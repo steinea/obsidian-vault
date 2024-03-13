@@ -9,7 +9,7 @@ date: 2015-10-13
 permalink: 2015/10/13/moira-weigel-mal-ahern-further-materials-toward-a-theory-of-the-man-child
 ---
 
-[[2015]] • [[commonplace]] • [[Moira Weigel]] • [[Mal Ahern]] • [[The New Inquiry]]
+[[2015]] • [[Commonplace]] • [[Moira Weigel]] • [[Mal Ahern]] • [[The New Inquiry]]
 
 https://thenewinquiry.com/further-materials-toward-a-theory-of-the-man-child/
 

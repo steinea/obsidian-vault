@@ -9,7 +9,7 @@ date: 2016-04-19
 permalink: 2016/04/19/nikil-saval-on-kobe-bryant
 ---
 
-[[2016]] • [[commonplace]] • [[Nikil Saval]] • [[n+1]] 
+[[2016]] • [[Commonplace]] • [[Nikil Saval]] • [[n+1]] 
 
 https://nplusonemag.com/online-only/online-only/on-kobe-bryant/
 

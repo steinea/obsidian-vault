@@ -9,7 +9,7 @@ date: 2015-06-10
 permalink: 2015/06/10/michael-erard-how-to-design-a-metaphor
 ---
 
-[[2015]] • [[commonplace]] • [[Michael Erard]] • [[Aeon]] 
+[[2015]] • [[Commonplace]] • [[Michael Erard]] • [[Aeon]] 
 
 https://aeon.co/magazine/culture/how-to-design-a-metaphor
 

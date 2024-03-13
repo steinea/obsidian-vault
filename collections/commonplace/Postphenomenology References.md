@@ -9,7 +9,7 @@ date: 2017-09-13
 permalink: 2017/09/13/stacey-irwin-robert-rosenberger-postphenomenology-references
 ---
 
-[[2017]] • [[commonplace]] • [[Stacey Irwin]] • [[Robert Rosenberger]] • [[Postphenomenology]]
+[[2017]] • [[Commonplace]] • [[Stacey Irwin]] • [[Robert Rosenberger]] • [[Postphenomenology]]
 
 https://postphenomenology.org/references/
  

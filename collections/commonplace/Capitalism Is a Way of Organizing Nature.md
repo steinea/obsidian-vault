@@ -9,7 +9,7 @@ date: 2016-01-27
 permalink: 2016/01/27/out-of-the-woods-capitalism-is-a-way-of-organizing-nature
 ---
 
-[[2016]] • [[commonplace]] • [[Out of the Woods]] • [[The New Inquiry]]
+[[2016]] • [[Commonplace]] • [[Out of the Woods]] • [[The New Inquiry]]
 
 http://thenewinquiry.com/essays/human-nature/
 

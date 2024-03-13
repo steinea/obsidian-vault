@@ -9,7 +9,7 @@ date: 2014-10-28
 permalink: 2014/10/28/karl-marx-consciousness-determined-from-material-conditions
 ---
 
-[[2014]] • [[commonplace]] • [[Karl Marx]] • [[The Norton Anthology of Theory and Criticism]]
+[[2014]] • [[Commonplace]] • [[Karl Marx]] • [[The Norton Anthology of Theory and Criticism]]
 
 https://www.worldcat.org/title/norton-anthology-of-theory-and-criticism/oclc/45023141
 

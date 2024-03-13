@@ -9,7 +9,7 @@ date: 2016-07-05
 permalink: 2016/07/05/christopher-orr-game-of-thrones-finally-became-a-different-show
 ---
 
-[[2016]] • [[commonplace]] • [[Christopher Orr]] • [[The Atlantic]]
+[[2016]] • [[Commonplace]] • [[Christopher Orr]] • [[The Atlantic]]
 
 http://www.theatlantic.com/entertainment/archive/2016/06/how-game-of-thrones-became-a-different-show/489305/
 

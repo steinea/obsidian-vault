@@ -9,7 +9,7 @@ date: 2016-02-02
 permalink: 2016/02/02/gyorgy-lukacs-reification-and-the-consciousness-of-the-proletariat
 ---
 
-[[2016]] • [[commonplace]] • [[Gyorgy Lukács]] • [[Marxists]]
+[[2016]] • [[Commonplace]] • [[Gyorgy Lukács]] • [[Marxists]]
 
 https://www.marxists.org/archive/lukacs/works/history/hcc05.htm
 

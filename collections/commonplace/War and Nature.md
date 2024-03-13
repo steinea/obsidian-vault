@@ -9,7 +9,7 @@ date: 2015-01-27
 permalink: 2015/01/27/thomas-hobbes-war-and-nature
 ---
 
-[[2015]] • [[commonplace]] • [[Thomas Hobbes]] • [[Leviathan]]
+[[2015]] • [[Commonplace]] • [[Thomas Hobbes]] • [[Leviathan]]
 
 http://oregonstate.edu/instruct/phl302/texts/hobbes/leviathan-c.html
 

@@ -9,7 +9,7 @@ date: 2017-02-13
 permalink: 2017/02/13/terence-blake-badiou-and-a-philosophy-of-nature
 ---
 
-[[2017]] • [[commonplace]] • [[Terence Blake]] • [[Agent Swarm]] 
+[[2017]] • [[Commonplace]] • [[Terence Blake]] • [[Agent Swarm]] 
 
 https://terenceblake.wordpress.com/2017/02/09/badiou-and-a-philosophy-of-nature-overcoming-doxic-residues/
 

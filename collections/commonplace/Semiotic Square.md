@@ -9,7 +9,7 @@ date: 2016-03-10
 permalink: 2016/03/10/algirdas-greimas-semiotic-square
 ---
 
-[[2016]] • [[commonplace]] • [[Algirdas Greimas]] • [[Wikipedia]]
+[[2016]] • [[Commonplace]] • [[Algirdas Greimas]] • [[Wikipedia]]
 
 https://en.wikipedia.org/wiki/Semiotic_square
 

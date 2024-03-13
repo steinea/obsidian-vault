@@ -9,7 +9,7 @@ date: 2023-10-09
 permalink: 2023/10/09/paul-w-gleason-poverty-abolition
 ---
 
-[[2023]] • [[commonplace]] • [[Paul W. Gleason]] • [[Los Angeles Review of Books]]
+[[2023]] • [[Commonplace]] • [[Paul W. Gleason]] • [[Los Angeles Review of Books]]
 
 https://lareviewofbooks.org/article/how-to-be-a-poverty-abolitionist-on-matthew-desmonds-poverty-by-america/
 

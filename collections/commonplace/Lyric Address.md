@@ -9,7 +9,7 @@ date: 2017-01-30
 permalink: 2017/01/30/kristina-maria-darling-lyric-address
 ---
 
-[[2017]] • [[commonplace]] • [[Kristina Marie Darling]] • [[Los Angeles Review of Books]] 
+[[2017]] • [[Commonplace]] • [[Kristina Marie Darling]] • [[Los Angeles Review of Books]] 
 
 https://lareviewofbooks.org/article/lyric-address-impossible-desire/
 

@@ -9,7 +9,7 @@ date: 2016-05-07
 permalink: 2016/05/07/matti-friedman-the-peculiar-language-of-soldiers
 ---
 
-[[2016]] • [[commonplace]] • [[Matti Friedman]] • [[The Atlantic]]
+[[2016]] • [[Commonplace]] • [[Matti Friedman]] • [[The Atlantic]]
 
 http://www.theatlantic.com/international/archive/2016/05/military-jargon-idf/481092/
 

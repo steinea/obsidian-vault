@@ -9,7 +9,7 @@ date: 2022-11-24
 permalink: 2022/11/24/the-invisible-committee-find-each-other
 ---
 
-[[2022]] • [[commonplace]] • [[The Invisible Committee]] • [[The Coming Insurrection]]
+[[2022]] • [[Commonplace]] • [[The Invisible Committee]] • [[The Coming Insurrection]]
 
 https://theanarchistlibrary.org/library/comite-invisible-the-coming-insurrection#toc11
 

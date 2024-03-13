@@ -9,7 +9,7 @@ date: 2015-10-05
 permalink: 2015/10/05/alec-wilkinson-the-poet-who-went-too-far
 ---
 
-[[2015]] • [[commonplace]] • [[Alec Wilkinson]] • [[The New Yorker]]
+[[2015]] • [[Commonplace]] • [[Alec Wilkinson]] • [[The New Yorker]]
 
 https://www.newyorker.com/magazine/2015/10/05/something-borrowed-wilkinson
 

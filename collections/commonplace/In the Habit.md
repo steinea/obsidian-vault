@@ -9,7 +9,7 @@ date: 2015-09-28
 permalink: 2015/09/28/ian-bogost-in-the-habit
 ---
 
-[[2015]] • [[commonplace]] • [[Ian Bogost]] • [[Los Angeles Review of Books]]
+[[2015]] • [[Commonplace]] • [[Ian Bogost]] • [[Los Angeles Review of Books]]
 
 https://lareviewofbooks.org/article/in-the-habit/
 

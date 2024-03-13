@@ -9,7 +9,7 @@ date: 2016-11-11
 permalink: 2016/11/11/david-enoch-dont-be-productive-in-publishing
 ---
 
-[[2016]] • [[commonplace]] • [[David Enoch]] • [[Daily Nous]]
+[[2016]] • [[Commonplace]] • [[David Enoch]] • [[Daily Nous]]
 
 http://dailynous.com/2016/11/11/productive-publishing-2-david-enoch/
 

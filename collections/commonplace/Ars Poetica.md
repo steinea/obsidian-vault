@@ -9,7 +9,7 @@ date: 2014-09-04
 permalink: 2014/09/04/horace-ars-poetica
 ---
 
-[[2014]] • [[commonplace]] • [[Horace]] • [[The Norton Anthology of Theory and Criticism]]
+[[2014]] • [[Commonplace]] • [[Horace]] • [[The Norton Anthology of Theory and Criticism]]
 
 https://www.worldcat.org/title/norton-anthology-of-theory-and-criticism/oclc/45023141
 

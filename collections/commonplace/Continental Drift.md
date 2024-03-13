@@ -9,7 +9,7 @@ date: 2015-12-25
 permalink: 2015/12/25/michael-mccanne-continental-drift
 ---
 
-[[2015]] • [[commonplace]] • [[Michael McCanne]] • [[The New Inquiry]]
+[[2015]] • [[Commonplace]] • [[Michael McCanne]] • [[The New Inquiry]]
 
 https://thenewinquiry.com/continental-drift/
 

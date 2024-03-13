@@ -9,7 +9,7 @@ date: 2017-02-10
 permalink: 2017/02/10/simon-critchley-on-mineness
 ---
 
-[[2017]] • [[commonplace]] • [[Simon Critchley]] • [[The Guardian]] 
+[[2017]] • [[Commonplace]] • [[Simon Critchley]] • [[The Guardian]] 
 
 http://www.theguardian.com/commentisfree/belief/2009/jun/15/heidegger-being-time-philosophy
 

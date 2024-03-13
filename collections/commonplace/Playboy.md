@@ -9,7 +9,7 @@ date: 2017-10-04
 permalink: 2017/10/04/molly-young-playboy
 ---
 
-[[2017]] • [[commonplace]] • [[Molly Young]] • [[n+1]] 
+[[2017]] • [[Commonplace]] • [[Molly Young]] • [[n+1]] 
 
 https://nplusonemag.com/online-only/book-review/playboy-hugh-hefner-story/
 

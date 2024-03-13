@@ -9,7 +9,7 @@ date: 2015-01-30
 permalink: 2015/01/30/heinrich-wilhelm-olbers-dark-night-sky-paradox
 ---
 
-[[2015]] • [[commonplace]] • [[Heinrich Wilhelm Olbers]] • [[Wikipedia]]
+[[2015]] • [[Commonplace]] • [[Heinrich Wilhelm Olbers]] • [[Wikipedia]]
 
 https://en.wikipedia.org/wiki/Olbers%27_paradox
 

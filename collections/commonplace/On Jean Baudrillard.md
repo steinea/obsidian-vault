@@ -9,7 +9,7 @@ date: 2017-05-15
 permalink: 2017/05/15/douglas-kellner-on-jean-baudrillard
 ---
 
-[[2017]] • [[commonplace]] • [[Douglas Kellner]] • [[Stanford Encyclopedia of Philosophy]] 
+[[2017]] • [[Commonplace]] • [[Douglas Kellner]] • [[Stanford Encyclopedia of Philosophy]] 
 
 https://plato.stanford.edu/entries/baudrillard/
 

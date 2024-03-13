@@ -9,7 +9,7 @@ date: 2015-05-27
 permalink: 2015/05/27/joe-pinsker-inbox-zero-vs-inbox-5000
 ---
 
-[[2015]] • [[commonplace]] • [[Joe Pinsker]] • [[The Atlantic]] 
+[[2015]] • [[Commonplace]] • [[Joe Pinsker]] • [[The Atlantic]] 
 
 https://www.theatlantic.com/technology/archive/2015/05/why-some-people-cant-stand-having-unread-emails/394031/
 

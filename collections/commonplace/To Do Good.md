@@ -9,7 +9,7 @@ date: 2014-12-23
 permalink: 2014/12/23/orson-scott-card-to-do-good
 ---
 
-[[2014]] • [[commonplace]] • [[Orson Scott Card]] • [[Shadow Puppets]]
+[[2014]] • [[Commonplace]] • [[Orson Scott Card]] • [[Shadow Puppets]]
 
 https://en.wikipedia.org/wiki/Shadow_Puppets
 

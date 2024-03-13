@@ -9,7 +9,7 @@ date: 2023-06-04
 permalink: 2023/06/04/david-graeber-to-save-the-world
 ---
 
-[[2023]] • [[commonplace]] • [[David Graeber]] • [[Big Issue]]
+[[2023]] • [[Commonplace]] • [[David Graeber]] • [[Big Issue]]
 
 https://www.bigissue.com/opinion/david-graeber-to-save-the-world-were-going-to-have-to-stop-working/
  

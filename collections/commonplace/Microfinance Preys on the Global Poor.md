@@ -9,7 +9,7 @@ date: 2023-10-20
 permalink: 2023/10/20/fabio-de-masi-milford-bateman-microfinance-preys-on-the-global-poor
 ---
 
-[[2023]] • [[commonplace]] • [[Fabio de Masi]] • [[Milford Bateman]] • [[Jacobin]]
+[[2023]] • [[Commonplace]] • [[Fabio de Masi]] • [[Milford Bateman]] • [[Jacobin]]
 
 https://jacobin.com/2023/06/fintech-microfinance-poverty-debt-global-south-world-bank/
 

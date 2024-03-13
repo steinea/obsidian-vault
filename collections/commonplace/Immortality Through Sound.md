@@ -9,7 +9,7 @@ date: 2023-10-01
 permalink: 2023/10/01/saodat-ismailova-immortality-through-sound
 ---
 
-[[2023]] • [[commonplace]] • [[Saodat Ismailova]] • [[Cosmic Bulletin]]
+[[2023]] • [[Commonplace]] • [[Saodat Ismailova]] • [[Cosmic Bulletin]]
 
 https://cosmos.art/cosmic-bulletin/2022/on-attaining-immortality-through-sound
 

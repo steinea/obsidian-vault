@@ -9,7 +9,7 @@ date: 2017-01-03
 permalink: 2017/01/03/sarah-cowan-john-bergers-hope
 ---
 
-[[2017]] • [[commonplace]] • [[Sarah Cowan]] • [[The Paris Review]]
+[[2017]] • [[Commonplace]] • [[Sarah Cowan]] • [[The Paris Review]]
 
 https://www.theparisreview.org/blog/2017/01/03/john-berger-1926-2017/
 

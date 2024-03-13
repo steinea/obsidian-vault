@@ -9,7 +9,7 @@ date: 2016-07-13
 permalink: 2016/07/13/keith-frankish-where-is-the-mind-aeon
 ---
 
-[[2016]] • [[commonplace]] • [[Keith Frankish]] • [[Aeon]]
+[[2016]] • [[Commonplace]] • [[Keith Frankish]] • [[Aeon]]
 
 https://aeon.co/ideas/the-mind-isn-t-locked-in-the-brain-but-extends-far-beyond-it
 

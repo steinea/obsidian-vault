@@ -9,7 +9,7 @@ date: 2015-12-17
 permalink: 2015/12/17/democritus-atoms-and-void
 ---
 
-[[2015]] • [[commonplace]] • [[Democritus]] • [[The First Philosophers]]
+[[2015]] • [[Commonplace]] • [[Democritus]] • [[The First Philosophers]]
 
 https://global.oup.com/ukhe/product/the-first-philosophers-9780199539093
 

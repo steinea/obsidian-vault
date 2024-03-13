@@ -9,7 +9,7 @@ date: 2017-01-29
 permalink: 2017/01/29/dave-cook-from-kings-field-to-bloodborne
 ---
 
-[[2017]] • [[commonplace]] • [[Dave Cook]] • [[VG247]] 
+[[2017]] • [[Commonplace]] • [[Dave Cook]] • [[VG247]] 
 
 http://www.vg247.com/2014/07/02/from-kings-field-to-bloodborne-the-lineage-of-dark-souls/
 

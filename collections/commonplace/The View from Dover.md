@@ -9,7 +9,7 @@ date: 2015-09-28
 permalink: 2015/09/28/david-herd-the-view-from-dover
 ---
 
-[[2015]] • [[commonplace]] • [[David Herd]] • [[Los Angeles Review of Books]]
+[[2015]] • [[Commonplace]] • [[David Herd]] • [[Los Angeles Review of Books]]
 
 https://lareviewofbooks.org/article/view-dover/
 

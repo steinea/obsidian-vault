@@ -9,7 +9,7 @@ date: 2014-03-19
 permalink: 2014/03/19/julia-rosen-the-supernova-at-the-bottom-of-the-sea
 ---
 
-[[2014]] • [[commonplace]] • [[Julia Rosen]] • [[Nautilus]]
+[[2014]] • [[Commonplace]] • [[Julia Rosen]] • [[Nautilus]]
 
 https://nautil.us/issue/22/slow/the-secret-history-of-the-supernova-at-the-bottom-of-the-sea
 

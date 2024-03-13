@@ -9,7 +9,7 @@ date: 2023-10-18
 permalink: 2023/10/18/natasha-lennard-nicholas-mirzoeff-the-general-crisis-of-whiteness
 ---
 
-[[2023]] • [[commonplace]] • [[Natasha Lenanrd]] • [[Nicholas Mirzoeff]] • [[Los Angeles Review of Books]]
+[[2023]] • [[Commonplace]] • [[Natasha Lenanrd]] • [[Nicholas Mirzoeff]] • [[Los Angeles Review of Books]]
 
 https://lareviewofbooks.org/article/the-general-crisis-of-whiteness-a-conversation-with-nicholas-mirzoeff/
 

@@ -9,7 +9,7 @@ date: 2016-01-07
 permalink: 2016/01/07/sam-smith-bloodless-coop
 ---
 
-[[2016]] • [[commonplace]] • [[Sam Smith]] • [[The New Inquiry]]
+[[2016]] • [[Commonplace]] • [[Sam Smith]] • [[The New Inquiry]]
 
 http://thenewinquiry.com/essays/bloodless-coop/
 

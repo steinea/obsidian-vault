@@ -9,7 +9,7 @@ date: 2016-02-25
 permalink: 2016/02/25/scott-bakker-nick-srnicek-the-semantic-apocalypse
 ---
 
-[[2016]] • [[commonplace]] • [[Scott Bakker]] • [[Nick Srnicek]] • [[Speculative Heresy]]
+[[2016]] • [[Commonplace]] • [[Scott Bakker]] • [[Nick Srnicek]] • [[Speculative Heresy]]
 
 https://speculativeheresy.wordpress.com/2008/11/26/the-semantic-apocalypse/
 

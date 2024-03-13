@@ -9,7 +9,7 @@ date: 2017-02-14
 permalink: 2017/02/14/simon-critchley-the-horizon-of-our-death
 ---
 
-[[2017]] • [[commonplace]] • [[Simon Critchley]] • [[The Guardian]] 
+[[2017]] • [[Commonplace]] • [[Simon Critchley]] • [[The Guardian]] 
 
 http://www.theguardian.com/commentisfree/belief/2009/jul/13/heidegger-being-time
 

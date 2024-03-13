@@ -9,7 +9,7 @@ date: 2016-11-28
 permalink: 2016/11/28/frank-trentmann-how-humans-became-consumers
 ---
 
-[[2016]] • [[commonplace]] • [[Frank Trentmann]] • [[The Atlantic]]
+[[2016]] • [[Commonplace]] • [[Frank Trentmann]] • [[The Atlantic]]
 
 http://www.theatlantic.com/business/archive/2016/11/how-humans-became-consumers/508700/
 

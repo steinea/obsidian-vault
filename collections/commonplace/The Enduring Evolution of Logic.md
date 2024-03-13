@@ -9,7 +9,7 @@ date: 2016-07-17
 permalink: 2016/07/17/thomas-ferguson-graham-priest-the-enduring-evolution-of-logic
 ---
 
-[[2016]] • [[commonplace]] • [[Thomas Ferguson]] • [[Graham Priest]] • [[Daily Nous]]
+[[2016]] • [[Commonplace]] • [[Thomas Ferguson]] • [[Graham Priest]] • [[Daily Nous]]
 
 http://dailynous.com/2016/07/11/enduring-evolution-logic-ferguson-priest/
 

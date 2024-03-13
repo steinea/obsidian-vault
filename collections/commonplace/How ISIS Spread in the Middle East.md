@@ -9,7 +9,7 @@ date: 2015-11-18
 permalink: 2015/11/18/david-ignatius-how-isis-spread-in-the-middle-east
 ---
 
-[[2015]] • [[commonplace]] • [[David Ignatius]] • [[The Atlantic]]
+[[2015]] • [[Commonplace]] • [[David Ignatius]] • [[The Atlantic]]
 
 https://www.theatlantic.com/international/archive/2015/10/how-isis-started-syria-iraq/412042/
 

@@ -9,7 +9,7 @@ date: 2015-04-24
 permalink: 2015/04/24/ross-douthat-will-pope-francis-break-the-church
 ---
 
-[[2015]] • [[commonplace]] • [[Ross Douthat]] • [[The Atlantic]]
+[[2015]] • [[Commonplace]] • [[Ross Douthat]] • [[The Atlantic]]
 
 https://www.theatlantic.com/magazine/archive/2015/05/will-pope-francis-break-the-church/389516/
 

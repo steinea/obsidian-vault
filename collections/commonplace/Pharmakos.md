@@ -9,7 +9,7 @@ date: 2016-11-01
 permalink: 2016/11/01/jacques-derrida-pharmakos
 ---
 
-[[2016]] • [[commonplace]] • [[Jacques Derrida]] • [[Wikipedia]]
+[[2016]] • [[Commonplace]] • [[Jacques Derrida]] • [[Wikipedia]]
 
 https://en.wikipedia.org/wiki/Pharmakos
 

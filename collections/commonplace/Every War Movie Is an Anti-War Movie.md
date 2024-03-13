@@ -9,7 +9,7 @@ date: 2022-11-10
 permalink: 2022/11/10/steven-spielberg-every-war-movie-is-an-anti-war-movie
 ---
 
-[[2022]] • [[commonplace]] • [[Steven Spielberg]] • [[Council on Foreign Relations]]
+[[2022]] • [[Commonplace]] • [[Steven Spielberg]] • [[Council on Foreign Relations]]
 
 https://www.cfr.org/blog/five-anti-war-movies-worth-watching
 

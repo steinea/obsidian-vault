@@ -9,7 +9,7 @@ date: 2023-09-30
 permalink: 2023/09/30/alexey-ulko-decolonizing-russian-cosmism
 ---
 
-[[2023]] • [[commonplace]] • [[Alexey Ulko]] • [[Cosmic Bulletin]]
+[[2023]] • [[Commonplace]] • [[Alexey Ulko]] • [[Cosmic Bulletin]]
 
 https://cosmos.art/cosmic-bulletin/2022/decolonizing-russian-cosmism
 

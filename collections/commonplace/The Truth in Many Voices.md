@@ -9,7 +9,7 @@ date: 2015-10-14
 permalink: 2015/10/14/timothy-snyder-svetlana-alexievich-the-truth-in-many-voices
 ---
 
-[[2015]] • [[commonplace]] • [[Timothy Snyder]] • [[Svetlana Alexievich]] • [[New York Review of Books]]
+[[2015]] • [[Commonplace]] • [[Timothy Snyder]] • [[Svetlana Alexievich]] • [[New York Review of Books]]
 
 https://www.nybooks.com/online/2015/10/12/svetlana-alexievich-truth-many-voices/
 

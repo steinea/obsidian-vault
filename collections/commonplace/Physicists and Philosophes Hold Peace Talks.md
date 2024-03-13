@@ -9,7 +9,7 @@ date: 2015-12-23
 permalink: 2015/12/23/natalie-wolchover-physicists-and-philosophes-hold-peace-talks
 ---
 
-[[2015]] • [[commonplace]] • [[Natalie Wolchover]] • [[The Atlantic]]
+[[2015]] • [[Commonplace]] • [[Natalie Wolchover]] • [[The Atlantic]]
 
 https://www.theatlantic.com/science/archive/2015/12/physics-philosophy-string-theory/421569/
 

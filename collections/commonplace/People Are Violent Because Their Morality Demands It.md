@@ -9,7 +9,7 @@ date: 2015-06-20
 permalink: 2015/06/20/tage-rai-people-are-violent-because-their-morality-demands-it
 ---
 
-[[2015]] • [[commonplace]] • [[Tage Rai]] • [[Aeon]] 
+[[2015]] • [[Commonplace]] • [[Tage Rai]] • [[Aeon]] 
 
 https://aeon.co/magazine/philosophy/people-do-violence-because-their-moral-codes-demand-it
 

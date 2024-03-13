@@ -9,7 +9,7 @@ date: 2014-08-19
 permalink: 2014/08/19/jill-lepore-the-crooked-and-the-dead
 ---
 
-[[2014]] • [[commonplace]] • [[Jill Lepore]] • [[The New Yorker]]
+[[2014]] • [[Commonplace]] • [[Jill Lepore]] • [[The New Yorker]]
 
 https://www.newyorker.com/magazine/2014/08/25/crooked-dead
 

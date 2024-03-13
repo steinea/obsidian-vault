@@ -9,7 +9,7 @@ date: 2014-10-20
 permalink: 2014/10/20/ana-ristovic-snow-in-your-shoes
 ---
 
-[[2014]] • [[commonplace]] • [[Ana Ristovic]] • [[The New Yorker]]
+[[2014]] • [[Commonplace]] • [[Ana Ristovic]] • [[The New Yorker]]
 
 https://www.newyorker.com/magazine/2014/10/27/snow-shoes
 

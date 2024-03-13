@@ -9,7 +9,7 @@ date: 2014-09-16
 permalink: 2014/09/16/nick-paumgarten-we-are-a-camera
 ---
 
-[[2014]] • [[commonplace]] • [[Nick Paumgarten]] • [[The New Yorker]]
+[[2014]] • [[Commonplace]] • [[Nick Paumgarten]] • [[The New Yorker]]
 
 https://www.newyorker.com/magazine/2014/09/22/camera
 

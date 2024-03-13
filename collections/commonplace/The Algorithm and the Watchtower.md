@@ -9,7 +9,7 @@ date: 2015-09-29
 permalink: 2015/09/29/colin-koopman-the-algorithm-and-the-watchtower
 ---
 
-[[2015]] • [[commonplace]] • [[Colin Koopman]] • [[The New Inquiry]]
+[[2015]] • [[Commonplace]] • [[Colin Koopman]] • [[The New Inquiry]]
 
 https://thenewinquiry.com/the-algorithm-and-the-watchtower/
 

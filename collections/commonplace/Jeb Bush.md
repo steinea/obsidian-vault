@@ -9,7 +9,7 @@ date: 2014-05-22
 permalink: 2014/05/22/lizzie-widdicombe-jeb-bush
 ---
 
-[[2014]] • [[commonplace]] • [[Lizzie Widdicombe]] • [[The New Yorker]]
+[[2014]] • [[Commonplace]] • [[Lizzie Widdicombe]] • [[The New Yorker]]
 
 http://www.newyorker.com/magazine/2014/05/26/hot-right-now
 

@@ -9,7 +9,7 @@ date: 2014-03-27
 permalink: 2014/03/27/malcolm-gladwell-sacred-and-profane
 ---
 
-[[2014]] • [[commonplace]] • [[Malcolm Gladwell]] • [[The New Yorker]]
+[[2014]] • [[Commonplace]] • [[Malcolm Gladwell]] • [[The New Yorker]]
 
 http://www.newyorker.com/magazine/2014/03/31/sacred-and-profane-4
 

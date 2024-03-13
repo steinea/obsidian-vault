@@ -9,7 +9,7 @@ date: 2015-08-21
 permalink: 2015/08/21/dee-barnes-whats-missing-from-straight-outta-compton
 ---
 
-[[2015]] • [[commonplace]] • [[Dee Barnes]] • [[Gawker]]
+[[2015]] • [[Commonplace]] • [[Dee Barnes]] • [[Gawker]]
 
 https://www.gawker.com/heres-whats-missing-from-straight-outta-compton-me-and-1724735910
 

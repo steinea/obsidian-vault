@@ -9,7 +9,7 @@ date: 2015-07-22
 permalink: 2015/07/22/james-douglas-the-pixar-theory-of-labor
 ---
 
-[[2015]] • [[commonplace]] • [[James Douglas]] • [[The Awl]] 
+[[2015]] • [[Commonplace]] • [[James Douglas]] • [[The Awl]] 
 
 https://www.theawl.com/2015/07/the-pixar-theory-of-labor/
 

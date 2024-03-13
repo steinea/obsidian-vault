@@ -9,7 +9,7 @@ date: 2022-11-24
 permalink: 2022/11/24/notes-from-nowhere-break-other-fences
 ---
 
-[[2022]] • [[commonplace]] • [[Notes from Nowhere]] • [[We Are Everywhere]]
+[[2022]] • [[Commonplace]] • [[Notes from Nowhere]] • [[We Are Everywhere]]
 
 https://artactivism.gn.apc.org/stories.htm
 

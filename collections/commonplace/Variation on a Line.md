@@ -9,7 +9,7 @@ date: 2015-06-19
 permalink: 2015/06/19/stanley-plumly-variation-on-a-line
 ---
 
-[[2015]] • [[commonplace]] • [[Stanley Plumly]] • [[Poetry Foundation]] 
+[[2015]] • [[Commonplace]] • [[Stanley Plumly]] • [[Poetry Foundation]] 
 
 https://www.poetryfoundation.org/poetrymagazine/poems/58162/variation-on-a-line-from-elizabeth-bishops-five-flights-up
 

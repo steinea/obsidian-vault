@@ -9,7 +9,7 @@ date: 2017-01-15
 permalink: 2017/01/15/alicia-christoff-minimal-care
 ---
 
-[[2017]] • [[commonplace]] • [[Alicia Christoff]] • [[Los Angeles Review of Books]] 
+[[2017]] • [[Commonplace]] • [[Alicia Christoff]] • [[Los Angeles Review of Books]] 
 
 https://lareviewofbooks.org/article/minimal-care-in-kenneth-lonergans-manchester-by-the-sea/
 

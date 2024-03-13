@@ -9,7 +9,7 @@ date: 2014-03-25
 permalink: 2014/03/25/herman-melville-the-last-resources-of-an-insulted-and-unendurable-existence
 ---
 
-[[2014]] • [[commonplace]] • [[Herman Melville]] • [[Moby-Dick]]
+[[2014]] • [[Commonplace]] • [[Herman Melville]] • [[Moby-Dick]]
 
 https://en.wikipedia.org/wiki/Moby-Dick
 

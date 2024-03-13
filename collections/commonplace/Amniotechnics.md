@@ -9,7 +9,7 @@ date: 2017-01-25
 permalink: 2017/01/25/sophie-lewis-amniotechnics
 ---
 
-[[2017]] • [[commonplace]] • [[Sophie Lewis]] • [[The New Inquiry]] 
+[[2017]] • [[Commonplace]] • [[Sophie Lewis]] • [[The New Inquiry]] 
 
 http://thenewinquiry.com/essays/amniotechnics/
 

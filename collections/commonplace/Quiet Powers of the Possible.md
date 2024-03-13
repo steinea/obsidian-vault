@@ -9,7 +9,7 @@ date: 2016-12-13
 permalink: 2016/12/13/ian-james-quiet-powers-of-the-possible
 ---
 
-[[2016]] • [[commonplace]] • [[Ian James]] • [[Notre Dame Philosophical Reviews]]
+[[2016]] • [[Commonplace]] • [[Ian James]] • [[Notre Dame Philosophical Reviews]]
 
 https://ndpr.nd.edu/reviews/quiet-powers-of-the-possible-interviews-in-contemporary-french-phenomenology/
 

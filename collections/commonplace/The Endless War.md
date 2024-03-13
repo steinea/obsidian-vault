@@ -9,7 +9,7 @@ date: 2015-12-28
 permalink: 2015/12/28/john-tytell-the-endless-war
 ---
 
-[[2015]] • [[commonplace]] • [[John Tytell]] • [[Los Angeles Review of Books]]
+[[2015]] • [[Commonplace]] • [[John Tytell]] • [[Los Angeles Review of Books]]
 
 https://lareviewofbooks.org/review/the-endless-war/
 

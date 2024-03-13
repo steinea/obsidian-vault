@@ -9,7 +9,7 @@ date: 2016-05-12
 permalink: 2016/05/12/matt-watson-an-anthropologist-visits-the-classroom
 ---
 
-[[2016]] • [[commonplace]] • [[Matt Watson]] • [[Platypus]]
+[[2016]] • [[Commonplace]] • [[Matt Watson]] • [[Platypus]]
 
 http://blog.castac.org/2016/05/anthro-class/
 

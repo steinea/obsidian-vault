@@ -9,7 +9,7 @@ date: 2016-02-26
 permalink: 2016/02/26/willard-quine-verification-theory-and-reductionism
 ---
 
-[[2016]] • [[commonplace]] • [[Willard Quine]] • [[Marxists]]
+[[2016]] • [[Commonplace]] • [[Willard Quine]] • [[Marxists]]
 
 https://www.marxists.org/reference/subject/philosophy/works/us/quine.htm
 

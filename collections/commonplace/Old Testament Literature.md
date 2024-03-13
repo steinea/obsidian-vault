@@ -9,7 +9,7 @@ date: 2014-09-21
 permalink: 2014/09/21/malcolm-godden-old-testament-literature
 ---
 
-[[2014]] • [[commonplace]] • [[Malcolm Godden]] • [[The Cambridge Companion to Old English Literature]]
+[[2014]] • [[Commonplace]] • [[Malcolm Godden]] • [[The Cambridge Companion to Old English Literature]]
 
 https://www.cambridge.org/core/books/cambridge-companion-to-old-english-literature/47A7B94AF16CC0E995542B4035513E45
 

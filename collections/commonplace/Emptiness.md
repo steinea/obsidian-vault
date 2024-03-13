@@ -9,7 +9,7 @@ date: 2015-03-03
 permalink: 2015/03/03/miriam-toews-emptiness
 ---
 
-[[2015]] • [[commonplace]] • [[Miriam Toews]] • [[A Complicated Kindness]]
+[[2015]] • [[Commonplace]] • [[Miriam Toews]] • [[A Complicated Kindness]]
 
 https://www.penguinrandomhouse.ca/books/179091/a-complicated-kindness-by-miriam-toews/9780735273955
 

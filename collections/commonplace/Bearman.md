@@ -9,7 +9,7 @@ date: 2016-01-08
 permalink: 2016/01/08/christopher-benfey-bearman
 ---
 
-[[2016]] • [[commonplace]] • [[Christopher Benfey]] • [[Bearman]]
+[[2016]] • [[Commonplace]] • [[Christopher Benfey]] • [[Bearman]]
 
 http://www.nybooks.com/daily/2016/01/07/bearman-inarritu-the-revenant/
 

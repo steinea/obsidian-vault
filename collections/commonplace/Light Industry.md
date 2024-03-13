@@ -9,7 +9,7 @@ date: 2016-07-23
 permalink: 2016/07/23/ingrid-burrington-light-industry
 ---
 
-[[2016]] • [[commonplace]] • [[Ingrid Burrington]] •[[e-flux]]
+[[2016]] • [[Commonplace]] • [[Ingrid Burrington]] •[[e-flux]]
 
 http://www.e-flux.com/journal/light-industry-toxic-waste-and-pastoral-capitalism/
 

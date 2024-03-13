@@ -9,7 +9,7 @@ date: 2023-06-11
 permalink: 2023/06/11/julia-mallory-on-the-occasion-of-flight
 ---
 
-[[2023]] • [[commonplace]] • [[Julia Mallory]] • [[Electric Marronage]]
+[[2023]] • [[Commonplace]] • [[Julia Mallory]] • [[Electric Marronage]]
 
 https://www.electricmarronage.com/electricblog/2023/2/17/for-fahima-on-the-occasion-of-flight-words-from-the-overground
  

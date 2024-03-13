@@ -9,7 +9,7 @@ date: 2017-01-28
 permalink: 2017/01/28/brooke-hays-time-crystals
 ---
 
-[[2017]] • [[commonplace]] • [[Brooke Hays]] • [[UPI]] 
+[[2017]] • [[Commonplace]] • [[Brooke Hays]] • [[UPI]] 
 
 https://www.upi.com/Science_News/2017/01/26/Presenting-time-crystals-physics-newest-material/6431485453881/
 

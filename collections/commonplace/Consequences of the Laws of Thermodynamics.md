@@ -9,7 +9,7 @@ date: 2015-10-21
 permalink: 2015/10/21/samiya-bashir-consequences-of-the-laws-of-thermodynamics
 ---
 
-[[2015]] • [[commonplace]] • [[Samiya Bashir]] • [[Poetry Foundation]]
+[[2015]] • [[Commonplace]] • [[Samiya Bashir]] • [[Poetry Foundation]]
 
 https://www.poetryfoundation.org/poetrymagazine/poems/56891/consequences-of-the-laws-of-thermodynamics
 

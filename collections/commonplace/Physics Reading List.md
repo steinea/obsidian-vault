@@ -9,7 +9,7 @@ date: 2015-12-17
 permalink: 2015/12/17/sean-carroll-physics-reading-list
 ---
 
-[[2015]] • [[commonplace]] • [[Sean Carroll]] •[[Preposterous Universe]]
+[[2015]] • [[Commonplace]] • [[Sean Carroll]] •[[Preposterous Universe]]
 
 http://www.preposterousuniverse.com/blog/2015/12/16/reading-list/
 

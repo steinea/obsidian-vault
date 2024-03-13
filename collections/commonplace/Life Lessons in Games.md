@@ -9,7 +9,7 @@ date: 2023-06-03
 permalink: 2023/06/03/ben-brubaker-life-lessons-in-games
 ---
 
-[[2023]] • [[commonplace]] • [[Ben Brubaker]] • [[Quanta Magazine]]
+[[2023]] • [[Commonplace]] • [[Ben Brubaker]] • [[Quanta Magazine]]
 
 https://www.quantamagazine.org/the-computer-scientist-who-finds-life-lessons-in-board-games-20230125/
  

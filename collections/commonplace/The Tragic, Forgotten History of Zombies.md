@@ -9,7 +9,7 @@ date: 2015-10-29
 permalink: 2015/10/29/mike-mariani-the-tragic-forgotten-history-of-zombies
 ---
 
-[[2015]] • [[commonplace]] • [[Mike Mariani]] • [[The Atlantic]]
+[[2015]] • [[Commonplace]] • [[Mike Mariani]] • [[The Atlantic]]
 
 https://www.theatlantic.com/entertainment/archive/2015/10/how-america-erased-the-tragic-history-of-the-zombie/412264/
 

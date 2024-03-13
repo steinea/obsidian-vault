@@ -9,7 +9,7 @@ date: 2017-08-24
 permalink: 2017/08/24/cheryl-thompson-white-populist-feminism
 ---
 
-[[2017]] • [[commonplace]] • [[Cheryl Thompson]] • [[Rabble]] 
+[[2017]] • [[Commonplace]] • [[Cheryl Thompson]] • [[Rabble]] 
 
 http://rabble.ca/blogs/bloggers/2017-02-21t000000/white-populist-feminism-makes-intersectionality-nearly-impossible
 

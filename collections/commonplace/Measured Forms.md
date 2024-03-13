@@ -9,7 +9,7 @@ date: 2014-09-27
 permalink: 2014/09/27/brook-thomas-measured-forms
 ---
 
-[[2014]] • [[commonplace]] • [[Brook Thomas]] • [[Cross-Examinations of Law and Literature]] • [[Billy Budd, Sailor]]
+[[2014]] • [[Commonplace]] • [[Brook Thomas]] • [[Cross-Examinations of Law and Literature]] • [[Billy Budd, Sailor]]
 
 https://www.cambridge.org/core/books/crossexaminations-of-law-and-literature/3B480C9EAF39815DE86F090B25199090
 

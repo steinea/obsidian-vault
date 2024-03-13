@@ -9,7 +9,7 @@ date: 2015-11-24
 permalink: 2015/11/24/sarah-wambold-putting-an-end-to-it-all
 ---
 
-[[2015]] • [[commonplace]] • [[Sarah Wambold]] • [[Los Angeles Review of Books]]
+[[2015]] • [[Commonplace]] • [[Sarah Wambold]] • [[Los Angeles Review of Books]]
 
 https://lareviewofbooks.org/article/putting-an-end-to-it-all-understanding-suicide/
 

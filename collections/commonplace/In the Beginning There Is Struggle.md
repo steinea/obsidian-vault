@@ -9,7 +9,7 @@ date: 2013-07-09
 permalink: 2013/07/09/amma-syncletica-in-the-beginning-there-is-struggle 
 ---
 
-[[2013]] • [[commonplace]] • [[Amma Syncletica]] • [[Monachos]]
+[[2013]] • [[Commonplace]] • [[Amma Syncletica]] • [[Monachos]]
 
 https://web.archive.org/web/20080516225019/http://monachos.net/library/Selection_of_the_sayings_of_Amma_Syncletia
 

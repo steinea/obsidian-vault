@@ -9,7 +9,7 @@ date: 2017-04-20
 permalink: 2017/04/20/zack-kotzer-six-original-mac-games-you-should-play
 ---
 
-[[2017]] • [[commonplace]] • [[Zack Kotzer]] • [[Motherboard]] 
+[[2017]] • [[Commonplace]] • [[Zack Kotzer]] • [[Motherboard]] 
 
 https://motherboard.vice.com/en_us/article/return-to-dark-castle-6-original-mac-games-you-should-play-in-your-browser
 

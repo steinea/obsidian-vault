@@ -9,7 +9,7 @@ date: 2017-01-14
 permalink: 2017/01/14/benjamin-landry-ten-poems-from-passagen
 ---
 
-[[2017]] • [[commonplace]] • [[Benjamin Landry]] • [[Conjunctions]] 
+[[2017]] • [[Commonplace]] • [[Benjamin Landry]] • [[Conjunctions]] 
 
 http://www.conjunctions.com/webconj.htm
 

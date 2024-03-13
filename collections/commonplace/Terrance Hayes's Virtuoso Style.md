@@ -9,7 +9,7 @@ date: 2015-05-08
 permalink: 2015/05/08/dan-chiasson-terrance-hayes-virtuoso-style
 ---
 
-[[2015]] • [[commonplace]] • [[Dan Chiasson]] • [[The New Yorker]] 
+[[2015]] • [[Commonplace]] • [[Dan Chiasson]] • [[The New Yorker]] 
 
 https://www.newyorker.com/magazine/2015/05/11/sense-of-self
 

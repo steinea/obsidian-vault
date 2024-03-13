@@ -9,7 +9,7 @@ date: 2017-12-29
 permalink: 2017/12/29/sophie-gilbert-david-sims-arkangel
 ---
 
-[[2017]] • [[commonplace]] • [[Sophie Gilbert]] • [[David Sims]] • [[The Atlantic]]
+[[2017]] • [[Commonplace]] • [[Sophie Gilbert]] • [[David Sims]] • [[The Atlantic]]
 
 https://www.theatlantic.com/entertainment/archive/2017/12/black-mirror-arkangel-mines-the-horror-of-helicopter-parenting/549368/
 

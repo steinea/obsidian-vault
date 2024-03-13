@@ -9,7 +9,7 @@ date: 2015-11-10
 permalink: 2015/11/10/nora-loreto-the-problem-of-representation-in-the-neoliberal-age
 ---
 
-[[2015]] • [[commonplace]] • [[Nora Loreto]] • [[Rabble]]
+[[2015]] • [[Commonplace]] • [[Nora Loreto]] • [[Rabble]]
 
 https://rabble.ca/feminism/problem-representation-neoliberal-age/
 

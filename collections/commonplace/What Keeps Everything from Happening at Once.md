@@ -9,7 +9,7 @@ date: 2017-01-17
 permalink: 2017/01/17/sara-lippincott-what-keeps-everything-from-happening-at-once
 ---
 
-[[2017]] • [[commonplace]] • [[Sara Lippincott]] • [[Los Angeles Review of Books]]  
+[[2017]] • [[Commonplace]] • [[Sara Lippincott]] • [[Los Angeles Review of Books]]  
 
 https://lareviewofbooks.org/article/what-keeps-everything-from-happening-at-once-the-physics-of-time/
 

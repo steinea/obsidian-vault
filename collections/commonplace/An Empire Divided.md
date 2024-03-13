@@ -9,7 +9,7 @@ date: 2016-12-17
 permalink: 2016/12/17/graham-j-murphy-an-empire-divided
 ---
 
-[[2016]] • [[commonplace]] • [[Graham J. Murphy]] • [[Los Angeles Review of Books]]
+[[2016]] • [[Commonplace]] • [[Graham J. Murphy]] • [[Los Angeles Review of Books]]
 
 https://lareviewofbooks.org/article/an-empire-divided/
 

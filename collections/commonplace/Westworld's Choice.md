@@ -9,7 +9,7 @@ date: 2018-05-13
 permalink: 2018/05/13/jarek-ervin-westworlds-choice
 ---
 
-[[2018]] • [[commonplace]] • [[Jarek Ervin]] • [[Jacobin]]
+[[2018]] • [[Commonplace]] • [[Jarek Ervin]] • [[Jacobin]]
 
 http://jacobinmag.com/2018/05/westworld-season-two-science-fiction-androids/
  

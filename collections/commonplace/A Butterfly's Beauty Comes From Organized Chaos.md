@@ -9,7 +9,7 @@ date: 2015-07-22
 permalink: 2015/07/22/brandon-keim-a-butterflys-beauty-comes-from-organized-chaos
 ---
 
-[[2015]] • [[commonplace]] • [[Brandon Keim]] • [[Nautilus]]
+[[2015]] • [[Commonplace]] • [[Brandon Keim]] • [[Nautilus]]
 
 https://nautil.us/blog/a-butterflys-beauty-comes-from-organized-chaos
 

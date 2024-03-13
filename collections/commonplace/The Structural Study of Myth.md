@@ -9,7 +9,7 @@ date: 2014-10-15
 permalink: 2014/10/15/claude-levi-strauss-the-structural-study-of-myth
 ---
 
-[[2014]] • [[commonplace]] • [[Claude Lévi-Strauss]] • [[Critical Theory]]
+[[2014]] • [[Commonplace]] • [[Claude Lévi-Strauss]] • [[Critical Theory]]
 
 https://global.oup.com/ushe/product/critical-theory-9780199797776
 

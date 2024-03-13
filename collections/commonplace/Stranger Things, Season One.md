@@ -9,7 +9,7 @@ date: 2016-08-30
 permalink: 2016/08/30/aaron-bady-stranger-things-season-one
 ---
 
-[[2016]] • [[commonplace]] • [[Aaron Bady]] • [[Los Angeles Review of Books]]
+[[2016]] • [[Commonplace]] • [[Aaron Bady]] • [[Los Angeles Review of Books]]
 
 https://lareviewofbooks.org/article/stranger-things-season-one/
 

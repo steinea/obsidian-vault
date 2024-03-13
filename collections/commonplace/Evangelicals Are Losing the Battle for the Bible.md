@@ -9,7 +9,7 @@ date: 2016-02-17
 permalink: 2016/02/17/jim-hinch-evangelicals-are-losing-the-battle-for-the-bible
 ---
 
-[[2016]] • [[commonplace]] • [[Jim Hinch]] • [[Los Angeles Review of Books]]
+[[2016]] • [[Commonplace]] • [[Jim Hinch]] • [[Los Angeles Review of Books]]
 
 https://lareviewofbooks.org/essay/evangelicals-are-losing-the-battle-for-the-bible-and-theyre-just-fine-with-that/
 

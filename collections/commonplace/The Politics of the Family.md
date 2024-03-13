@@ -9,7 +9,7 @@ date: 2015-03-04
 permalink: 2015/03/04/fred-wah-the-politics-of-the-family
 ---
 
-[[2015]] • [[commonplace]] • [[Fred Wah]] • [[Diamond Grill]]
+[[2015]] • [[Commonplace]] • [[Fred Wah]] • [[Diamond Grill]]
 
 https://en.wikipedia.org/wiki/Diamond_Grill
 

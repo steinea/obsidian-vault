@@ -9,7 +9,7 @@ date: 2015-02-04
 permalink: 2015/02/04/sadie-stein-brown-study
 ---
 
-[[2015]] • [[commonplace]] • [[Sadie Stein]] • [[The Paris Review]]
+[[2015]] • [[Commonplace]] • [[Sadie Stein]] • [[The Paris Review]]
 
 https://www.theparisreview.org/blog/2015/02/03/golden-brown/
 

@@ -9,7 +9,7 @@ date: 2017-10-09
 permalink: 2017/10/09/riccardo-manzotti-the-consciousness-grid
 ---
 
-[[2017]] • [[commonplace]] • [[Riccardo Manzotti]] • [[Tim Parks]] • [[New York Review of Books]] 
+[[2017]] • [[Commonplace]] • [[Riccardo Manzotti]] • [[Tim Parks]] • [[New York Review of Books]] 
 
 https://www.nybooks.com/online/2017/10/09/consciousness-an-object-lesson/
 

@@ -9,7 +9,7 @@ date: 2015-08-25
 permalink: 2015/08/25/charles-simic-a-brutal-american-epic
 ---
 
-[[2015]] • [[commonplace]] • [[Charles Simic]] • [[New York Review of Books]]
+[[2015]] • [[Commonplace]] • [[Charles Simic]] • [[New York Review of Books]]
 
 https://www.nybooks.com/online/2015/08/25/brutal-american-epic-reznikoff-testimony/
 

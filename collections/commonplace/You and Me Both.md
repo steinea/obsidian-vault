@@ -9,7 +9,7 @@ date: 2014-12-01
 permalink: 2014/12/01/dan-chiasson-you-and-me-both
 ---
 
-[[2014]] • [[commonplace]] • [[Dan Chiasson]] • [[The New Yorker]]
+[[2014]] • [[Commonplace]] • [[Dan Chiasson]] • [[The New Yorker]]
 
 https://www.newyorker.com/magazine/2014/12/08/you-and-me-both
 

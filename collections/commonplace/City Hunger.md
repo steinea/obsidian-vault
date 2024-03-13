@@ -9,7 +9,7 @@ date: 2016-02-02
 permalink: 2016/02/02/monica-datta-city-hunger
 ---
 
-[[2016]] • [[commonplace]] • [[Monica Datta]] • [[The New Inquiry]]
+[[2016]] • [[Commonplace]] • [[Monica Datta]] • [[The New Inquiry]]
 
 http://thenewinquiry.com/essays/city-hunger/
 

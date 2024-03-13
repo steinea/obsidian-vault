@@ -9,7 +9,7 @@ date: 2017-07-13
 permalink: 2017/07/13/jedidiah-purdy-the-cosmology-of-game-of-thrones
 ---
 
-[[2017]] • [[commonplace]] • [[Jedidiah Purdy]] • [[Los Angeles Review of Books]] 
+[[2017]] • [[Commonplace]] • [[Jedidiah Purdy]] • [[Los Angeles Review of Books]] 
 
 https://lareviewofbooks.org/article/fiery-heaven-bastard-earth-the-cosmology-of-game-of-thrones/
 

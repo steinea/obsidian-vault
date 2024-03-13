@@ -9,7 +9,7 @@ date: 2016-03-21
 permalink: 2016/03/21/kim-fay-denise-mina-low-art
 ---
 
-[[2016]] • [[commonplace]] • [[Kim Fay]] • [[Denise Mina]] • [[Low Art]]
+[[2016]] • [[Commonplace]] • [[Kim Fay]] • [[Denise Mina]] • [[Low Art]]
 
 https://lareviewofbooks.org/interview/low-art-denise-mina/
 

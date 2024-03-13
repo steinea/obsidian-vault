@@ -9,7 +9,7 @@ date: 2014-09-03
 permalink: 2014/09/03/gildas-on-the-ruin-of-britain
 ---
 
-[[2014]] • [[commonplace]] • [[Gildas]] • [[A Kind of Mirror of Human Life]]
+[[2014]] • [[Commonplace]] • [[Gildas]] • [[A Kind of Mirror of Human Life]]
 
 https://en.wikipedia.org/wiki/De_Excidio_et_Conquestu_Britanniae
 

@@ -9,7 +9,7 @@ date: 2016-12-11
 permalink: 2016/12/11/colin-dickey-up-out-of-the-darkness
 ---
 
-[[2016]] • [[commonplace]] • [[Colin Dickey]] • [[Los Angeles Review of Books]]
+[[2016]] • [[Commonplace]] • [[Colin Dickey]] • [[Los Angeles Review of Books]]
 
 https://lareviewofbooks.org/article/darkness-new-history-monsters/
 

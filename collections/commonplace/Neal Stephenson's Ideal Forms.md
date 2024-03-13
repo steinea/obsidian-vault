@@ -9,7 +9,7 @@ date: 2015-08-21
 permalink: 2015/08/21/peter-berard-neal-stephensons-ideal-forms
 ---
 
-[[2015]] • [[commonplace]] • [[Peter Berard]] • [[Los Angeles Review of Books]]
+[[2015]] • [[Commonplace]] • [[Peter Berard]] • [[Los Angeles Review of Books]]
 
 https://lareviewofbooks.org/article/neal-stephensons-ideal-forms/
 

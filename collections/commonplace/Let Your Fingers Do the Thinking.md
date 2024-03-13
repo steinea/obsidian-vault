@@ -9,7 +9,7 @@ date: 2023-10-10
 permalink: 2023/10/10/tom-valeo-let-your-fingers-do-the-thinking
 ---
 
-[[2023]] • [[commonplace]] • [[Tom Valeo]] • [[Chicago Reader]]
+[[2023]] • [[Commonplace]] • [[Tom Valeo]] • [[Chicago Reader]]
 
 https://chicagoreader.com/news-politics/let-your-fingers-do-the-thinking/
 

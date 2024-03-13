@@ -9,7 +9,7 @@ date: 2015-12-12
 permalink: 2015/12/12/jonathan-merritt-defining-evangelical
 ---
 
-[[2015]] • [[commonplace]] • [[Jonathan Merritt]] • [[The Atlantic]]
+[[2015]] • [[Commonplace]] • [[Jonathan Merritt]] • [[The Atlantic]]
 
 https://www.theatlantic.com/politics/archive/2015/12/evangelical-christian/418236/
 

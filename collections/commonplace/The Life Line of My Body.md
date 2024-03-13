@@ -9,7 +9,7 @@ date: 2016-07-24
 permalink: 2016/07/24/hermann-weyl-the-life-line-of-my-body
 ---
 
-[[2016]] • [[commonplace]] • [[Hermann Weyl]] • [[Philosophy of Mathematics and Natural Science]]
+[[2016]] • [[Commonplace]] • [[Hermann Weyl]] • [[Philosophy of Mathematics and Natural Science]]
 
 https://press.princeton.edu/books/paperback/9780691141206/philosophy-of-mathematics-and-natural-science
 

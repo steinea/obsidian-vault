@@ -9,7 +9,7 @@ date: 2015-07-12
 permalink: 2015/07/12/jasu-hu-about-your-skin
 ---
 
-[[2015]] • [[commonplace]] • [[Jasu Hu]] • [[Nautilus]] 
+[[2015]] • [[Commonplace]] • [[Jasu Hu]] • [[Nautilus]] 
 
 https://nautil.us/issue/26/color/about-your-skin
 

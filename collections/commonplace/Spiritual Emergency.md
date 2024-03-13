@@ -9,7 +9,7 @@ date: 2016-08-14
 permalink: 2016/08/14/james-carpenter-spiritual-emergency
 ---
 
-[[2016]] • [[commonplace]] • [[James Carpenter]] • [[Aeon]]
+[[2016]] • [[Commonplace]] • [[James Carpenter]] • [[Aeon]]
 
 https://aeon.co/essays/treating-acute-psychosis-with-drugs-can-prolong-the-anguish
 

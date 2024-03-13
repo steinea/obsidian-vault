@@ -9,7 +9,7 @@ date: 2015-10-22
 permalink: 2015/10/22/martin-rees-why-alien-life-will-be-robotic
 ---
 
-[[2015]] • [[commonplace]] • [[Martin Rees]] • [[Nautilus]]
+[[2015]] • [[Commonplace]] • [[Martin Rees]] • [[Nautilus]]
 
 https://nautil.us/issue/29/scaling/why-alien-life-will-be-robotic
 

@@ -9,7 +9,7 @@ date: 2016-01-28
 permalink: 2016/01/28/out-of-the-woods-the-political-economy-of-hunger
 ---
 
-[[2016]] • [[commonplace]] • [[Out of the Woods]] • [[Libcom]]
+[[2016]] • [[Commonplace]] • [[Out of the Woods]] • [[Libcom]]
 
 https://libcom.org/blog/political-economy-hunger-17112014
 

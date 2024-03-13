@@ -9,7 +9,7 @@ date: 2015-04-27
 permalink: 2015/04/27/rachel-elizabeth-jones-a-form-of-faith
 ---
 
-[[2015]] • [[commonplace]] • [[Rachel Elizabeth Jones]] • [[The New Inquiry]] 
+[[2015]] • [[Commonplace]] • [[Rachel Elizabeth Jones]] • [[The New Inquiry]] 
 
 http://thenewinquiry.com/essays/a-form-of-faith/
 

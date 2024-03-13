@@ -9,7 +9,7 @@ date: 2017-02-01
 permalink: 2017/02/01/andrew-russell-lee-vinsel-whitey-on-mars
 ---
 
-[[2017]] • [[commonplace]] • [[Andrew Russell]] • [[Lee Vinsel]] • [[Aeon]] 
+[[2017]] • [[Commonplace]] • [[Andrew Russell]] • [[Lee Vinsel]] • [[Aeon]] 
 
 https://aeon.co/essays/is-a-mission-to-mars-morally-defensible-given-todays-real-needs
 

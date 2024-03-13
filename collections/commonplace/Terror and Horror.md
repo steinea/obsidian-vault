@@ -9,7 +9,7 @@ date: 2015-11-17
 permalink: 2015/11/17/christine-ruotolo-terror-and-horror
 ---
 
-[[2015]] • [[commonplace]] • [[Christine Ruotolo]] • [[The Gothic]]
+[[2015]] • [[Commonplace]] • [[Christine Ruotolo]] • [[The Gothic]]
 
 https://web.archive.org/web/20080202111332/http://graduate.engl.virginia.edu/enec981/Group/chris.terror.html
 

@@ -9,7 +9,7 @@ date: 2015-11-07
 permalink: 2015/11/07/gd-dess-the-melancholy-of-patrick-modiano
 ---
 
-[[2015]] • [[commonplace]] • [[GD Dess]] • [[Los Angeles Review of Books]]
+[[2015]] • [[Commonplace]] • [[GD Dess]] • [[Los Angeles Review of Books]]
 
 https://lareviewofbooks.org/article/the-melancholy-of-patrick-modiano/
 

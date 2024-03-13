@@ -9,7 +9,7 @@ date: 2015-10-29
 permalink: 2015/10/29/dru-oja-jay-beyond-trudeaus-charm-offensive
 ---
 
-[[2015]] • [[commonplace]] • [[Dru Oja Jay]] • [[Medium]]
+[[2015]] • [[Commonplace]] • [[Dru Oja Jay]] • [[Medium]]
 
 https://medium.com/@druojajay/beyond-trudeau-s-charm-offensive-a-social-movement-guide-to-cooptation-7141acbc74f3
 

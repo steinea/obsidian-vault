@@ -9,7 +9,7 @@ date: 2018-05-02
 permalink: 2018/05/02/david-sims-on-infinity-war-2
 ---
 
-[[2018]] • [[commonplace]] • [[David Sims]] • [[The Atlantic]]
+[[2018]] • [[Commonplace]] • [[David Sims]] • [[The Atlantic]]
 
 https://www.theatlantic.com/entertainment/archive/2018/05/avengers-infinity-war-comic-book-deaths/559409/
  

@@ -9,7 +9,7 @@ date: 2015-02-05
 permalink: 2015/02/05/william-j-astore-war-is-the-new-normal
 ---
 
-[[2015]] • [[commonplace]] • [[William J. Astore]] • [[Guernica]]
+[[2015]] • [[Commonplace]] • [[William J. Astore]] • [[Guernica]]
 
 https://www.guernicamag.com/daily/william-j-astore-war-is-the-new-normal/
 

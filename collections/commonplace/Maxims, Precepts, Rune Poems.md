@@ -9,7 +9,7 @@ date: 2014-09-06
 permalink: 2014/09/06/anonymous-maxims-precepts-rune-poems
 ---
 
-[[2014]] • [[commonplace]] • [[Anonymous]] • [[The Medieval Period]]
+[[2014]] • [[Commonplace]] • [[Anonymous]] • [[The Medieval Period]]
 
 https://broadviewpress.com/product/the-broadview-anthology-of-british-literature-the-medieval-period-third-edition/
 

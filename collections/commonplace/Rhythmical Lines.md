@@ -9,7 +9,7 @@ date: 2017-02-15
 permalink: 2017/02/15/sarah-cowman-rhythmical-lines
 ---
 
-[[2017]] • [[commonplace]] • [[Sarah Cowan]] • [[The Paris Review]] 
+[[2017]] • [[Commonplace]] • [[Sarah Cowan]] • [[The Paris Review]] 
 
 https://www.theparisreview.org/blog/2017/02/15/rhythmical-lines/
 

@@ -9,7 +9,7 @@ date: 2014-01-22
 permalink: 2014/01/22/e-e-cummings-i-like-my-body
 ---
 
-[[2014]] • [[commonplace]] • [[E. E. Cummings]] • [[Google Books]]
+[[2014]] • [[Commonplace]] • [[E. E. Cummings]] • [[Google Books]]
 
 https://books.google.ca/books/about/E_E_Cummings.html?id=NYaQEAAAQBAJ
 

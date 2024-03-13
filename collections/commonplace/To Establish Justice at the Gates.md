@@ -9,7 +9,7 @@ date: 2015-04-02
 permalink: 2015/04/02/justin-campbell-to-establish-justice-at-the-gates
 ---
 
-[[2015]] • [[commonplace]] • [[Justin Campbell]] • [[Los Angeles Review of Books]]
+[[2015]] • [[Commonplace]] • [[Justin Campbell]] • [[Los Angeles Review of Books]]
 
 https://lareviewofbooks.org/article/establish-justice-gates/
 

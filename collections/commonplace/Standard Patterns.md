@@ -9,7 +9,7 @@ date: 2022-12-17
 permalink: 2022/12/16/sam-kabo-ashwell-standard-patterns-in-choice-based-games
 ---
 
-[[2022]] • [[commonplace]] • [[Sam Kabo Ashwell]] • [[Heterogenous Tasks]]
+[[2022]] • [[Commonplace]] • [[Sam Kabo Ashwell]] • [[Heterogenous Tasks]]
 
 https://heterogenoustasks.wordpress.com/2015/01/26/standard-patterns-in-choice-based-games/
 

@@ -9,7 +9,7 @@ date: 2016-03-10
 permalink: 2016/03/10/christina-lupton-the-searcher-of-patterns-and-the-keeper-of-things
 ---
 
-[[2016]] • [[commonplace]] • [[Christina Lupton]] • [[Los Angeles Review of Books]]
+[[2016]] • [[Commonplace]] • [[Christina Lupton]] • [[Los Angeles Review of Books]]
 
 https://lareviewofbooks.org/review/the-searcher-of-patterns-and-the-keeper-of-things/
 

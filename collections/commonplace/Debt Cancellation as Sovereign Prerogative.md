@@ -9,7 +9,7 @@ date: 2016-02-05
 permalink: 2016/02/05/devin-singh-debt-cancellation-as-sovereign-prerogative
 ---
 
-[[2016]] • [[commonplace]] • [[Devin Singh]] • [[Cosmologics]]
+[[2016]] • [[Commonplace]] • [[Devin Singh]] • [[Cosmologics]]
 
 http://cosmologicsmagazine.com/devin-singh-debt-cancellation-as-sovereign-crisis-management/
 

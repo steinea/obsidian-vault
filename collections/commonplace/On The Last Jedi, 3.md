@@ -9,7 +9,7 @@ date: 2017-12-15
 permalink: 2017/12/15/matthew-gault-on-the-last-jedi-3
 ---
 
-[[2017]] • [[commonplace]] • [[Matthew Gault]] • [[Motherboard]]
+[[2017]] • [[Commonplace]] • [[Matthew Gault]] • [[Motherboard]]
 
 https://motherboard.vice.com/en_us/article/9kdd97/star-wars-the-last-jedi-review-makes-prequels-good
 

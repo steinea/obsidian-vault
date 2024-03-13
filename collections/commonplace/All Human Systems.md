@@ -9,7 +9,7 @@ date: 2015-12-25
 permalink: 2015/12/25/saul-bellow-all-human-systems
 ---
 
-[[2015]] • [[commonplace]] • [[Saul Bellow]] • [[Los Angeles Review of Books]]
+[[2015]] • [[Commonplace]] • [[Saul Bellow]] • [[Los Angeles Review of Books]]
 
 https://lareviewofbooks.org/article/the-thief-the-friend-his-wife-and-her-lover/
 

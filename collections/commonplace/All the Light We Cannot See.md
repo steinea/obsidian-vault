@@ -9,7 +9,7 @@ date: 2015-07-10
 permalink: 2015/07/10/anthony-doerr-all-the-light-we-cannot-see
 ---
 
-[[2015]] • [[commonplace]] • [[Anthony Doerr]] • [[All the Light We Cannot See]] 
+[[2015]] • [[Commonplace]] • [[Anthony Doerr]] • [[All the Light We Cannot See]] 
 
 https://www.anthonydoerr.com/books/all-the-light-we-cannot-see
 

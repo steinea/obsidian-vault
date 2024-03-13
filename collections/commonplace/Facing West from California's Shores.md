@@ -9,7 +9,7 @@ date: 2017-06-20
 permalink: 2017/06/20/walt-whitman-facing-west-from-californias-shores
 ---
 
-[[2017]] • [[commonplace]] • [[Walt Whitman]] • [[Leaves of Grass]] 
+[[2017]] • [[Commonplace]] • [[Walt Whitman]] • [[Leaves of Grass]] 
 
 https://whitmanarchive.org/published/LG/1891/poems/43
 

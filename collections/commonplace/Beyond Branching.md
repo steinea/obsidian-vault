@@ -9,7 +9,7 @@ date: 2022-12-17
 permalink: 2022/12/16/emily-short-beyond-branching
 ---
 
-[[2022]] • [[commonplace]] • [[Emily Short]] • [[Emily Short's Interactive Storytelling]]
+[[2022]] • [[Commonplace]] • [[Emily Short]] • [[Emily Short's Interactive Storytelling]]
 
 https://emshort.wordpress.com/2016/04/12/beyond-branching-quality-based-and-salience-based-narrative-structures/
 

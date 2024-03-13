@@ -9,7 +9,7 @@ date: 2015-02-14
 permalink: 2015/02/14/soren-kierkegaard-despair-is-a-sickness
 ---
 
-[[2015]] • [[commonplace]] • [[Søren Kierkegaard]] • [[The Sickness Unto Death]]
+[[2015]] • [[Commonplace]] • [[Søren Kierkegaard]] • [[The Sickness Unto Death]]
 
 https://press.princeton.edu/books/paperback/9780691020280/kierkegaards-writings-xix-volume-19
 

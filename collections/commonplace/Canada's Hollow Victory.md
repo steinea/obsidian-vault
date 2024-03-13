@@ -9,7 +9,7 @@ date: 2015-10-22
 permalink: 2015/10/22/luke-savage-canadas-hollow-victory
 ---
 
-[[2015]] • [[commonplace]] • [[Luke Savage]] • [[Jacobin]]
+[[2015]] • [[Commonplace]] • [[Luke Savage]] • [[Jacobin]]
 
 https://jacobin.com/2015/10/trudeau-muclair-stephen-harper-canada-federal-election/
 

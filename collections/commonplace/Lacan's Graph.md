@@ -9,7 +9,7 @@ date: 2016-11-01
 permalink: 2016/11/01/terence-blake-lacans-graph
 ---
 
-[[2016]] • [[commonplace]] • [[Terence Blake]] • [[Agent Swarm]]
+[[2016]] • [[Commonplace]] • [[Terence Blake]] • [[Agent Swarm]]
 
 https://terenceblake.wordpress.com/2016/11/01/lacans-graph-sexuation-or-annexation/
 

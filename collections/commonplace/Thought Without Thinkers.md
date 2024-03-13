@@ -9,7 +9,7 @@ date: 2023-10-10
 permalink: 2023/10/10/carson-welch-thought-without-thinkers
 ---
 
-[[2023]] • [[commonplace]] • [[Carson Welch]] • [[Radical Philosophy]]
+[[2023]] • [[Commonplace]] • [[Carson Welch]] • [[Radical Philosophy]]
 
 https://www.radicalphilosophy.com/reviews/individual-reviews/thought-without-thinkers
 

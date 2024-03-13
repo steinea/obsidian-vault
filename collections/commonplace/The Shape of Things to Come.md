@@ -9,7 +9,7 @@ date: 2015-02-22
 permalink: 2015/02/22/ian-parker-the-shape-of-things-to-come
 ---
 
-[[2015]] • [[commonplace]] • [[Ian Parker]] • [[The New Yorker]]
+[[2015]] • [[Commonplace]] • [[Ian Parker]] • [[The New Yorker]]
 
 https://www.newyorker.com/magazine/2015/02/23/shape-things-come
 

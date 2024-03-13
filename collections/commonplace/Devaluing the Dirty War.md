@@ -9,7 +9,7 @@ date: 2015-07-28
 permalink: 2015/07/28/adam-thirlwell-devaluing-the-dirty-war
 ---
 
-[[2015]] • [[commonplace]] • [[Adam Thirlwell]] • [[New York Review of Books]] 
+[[2015]] • [[Commonplace]] • [[Adam Thirlwell]] • [[New York Review of Books]] 
 
 https://www.nybooks.com/online/2015/07/28/alan-pauls-history-of-money/
 

@@ -9,7 +9,7 @@ date: 2016-02-20
 permalink: 2016/02/20/geoffrey-goddu-kants-antinomies-of-pure-reason
 ---
 
-[[2016]] • [[commonplace]] • [[Geoffrey Goddu]] • [[University of Richmond]]
+[[2016]] • [[Commonplace]] • [[Geoffrey Goddu]] • [[University of Richmond]]
 
 https://philosophy.richmond.edu/faculty/ggoddu/
 

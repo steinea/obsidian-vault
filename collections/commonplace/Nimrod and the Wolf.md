@@ -9,7 +9,7 @@ date: 2014-11-10
 permalink: 2014/11/10/robert-menner-nimrod-and-the-wolf
 ---
 
-[[2014]] • [[commonplace]] • [[Robert Menner]] • [[Journal of English and Germanic Philology]]
+[[2014]] • [[Commonplace]] • [[Robert Menner]] • [[Journal of English and Germanic Philology]]
 
 https://www.jstor.org/stable/27704407
 

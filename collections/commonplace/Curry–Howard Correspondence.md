@@ -9,7 +9,7 @@ date: 2017-03-01
 permalink: 2017/03/01/haskell-curry-william-alvin-howard-haskell-curry-correspondence
 ---
 
-[[2017]] • [[commonplace]] • [[Haskell Curry]] • [[William Alvin Howard]] • [[Wikipedia]] 
+[[2017]] • [[Commonplace]] • [[Haskell Curry]] • [[William Alvin Howard]] • [[Wikipedia]] 
 
 https://en.m.wikipedia.org/wiki/Curry%E2%80%93Howard_correspondence
 

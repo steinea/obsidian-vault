@@ -9,7 +9,7 @@ date: 2015-07-16
 permalink: 2015/07/16/gyorgy-lukacs-preface-to-the-theory-of-the-novel
 ---
 
-[[2015]] • [[commonplace]] • [[Gyorgy Lukács]] • [[Marxists]]
+[[2015]] • [[Commonplace]] • [[Gyorgy Lukács]] • [[Marxists]]
 
 https://www.marxists.org/archive/lukacs/works/theory-novel/preface.htm
 

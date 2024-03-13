@@ -9,7 +9,7 @@ date: 2015-12-06
 permalink: 2015/12/06/jonathan-merritt-troubling-remarks-on-guns
 ---
 
-[[2015]] • [[commonplace]] • [[Jonathan Merritt]] • [[The Atlantic]]
+[[2015]] • [[Commonplace]] • [[Jonathan Merritt]] • [[The Atlantic]]
 
 https://www.theatlantic.com/politics/archive/2015/12/jerry-falwell-jrs-troubling-remarks-on-guns/419019/
 

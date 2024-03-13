@@ -9,7 +9,7 @@ date: 2017-01-14
 permalink: 2017/01/14/isaac-nowell-memorable-speech
 ---
 
-[[2017]] • [[commonplace]] • [[Isaac Nowell]] • [[Los Angeles Review of Books]] 
+[[2017]] • [[Commonplace]] • [[Isaac Nowell]] • [[Los Angeles Review of Books]] 
 
 https://lareviewofbooks.org/article/memorable-speech-on-j-d-mcclatchys-sweet-theft-a-poets-commonplace-book/
 

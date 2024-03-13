@@ -9,7 +9,7 @@ date: 2022-12-19
 permalink: 2022/12/19/vivian-lam-there-is-no-escape
 ---
 
-[[2022]] • [[commonplace]] • [[Vivian Lam]] • [[Los Angeles Review of Books]]
+[[2022]] • [[Commonplace]] • [[Vivian Lam]] • [[Los Angeles Review of Books]]
 
 https://dev.lareviewofbooks.org/article/there-is-no-escape-on-supergiants-hades/
 

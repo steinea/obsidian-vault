@@ -9,7 +9,7 @@ date: 2015-03-22
 permalink: 2015/03/22/sappho-silence-breaks-my-tongue
 ---
 
-[[2015]] • [[commonplace]] • [[Sappho]] • [[Wikipedia]]
+[[2015]] • [[Commonplace]] • [[Sappho]] • [[Wikipedia]]
 
 https://en.wikipedia.org/wiki/Sappho_31
 

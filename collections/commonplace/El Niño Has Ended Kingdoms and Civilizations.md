@@ -9,7 +9,7 @@ date: 2016-06-17
 permalink: 2016/06/17/claudia-geib-el-nino-has-ended-kingdoms-and-civilizations
 ---
 
-[[2016]] • [[commonplace]] • [[Claudia Geib]] • [[Nautilus]]
+[[2016]] • [[Commonplace]] • [[Claudia Geib]] • [[Nautilus]]
 
 http://nautil.us/blog/el-nio-has-ended-kingdoms-and-civilizations
 

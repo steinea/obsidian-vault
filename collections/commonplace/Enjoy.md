@@ -9,7 +9,7 @@ date: 2016-02-12
 permalink: 2016/02/12/terry-eagleton-enjoy
 ---
 
-[[2016]] • [[commonplace]] • [[Terry Eagleton]] • [[London Review of Books]]
+[[2016]] • [[Commonplace]] • [[Terry Eagleton]] • [[London Review of Books]]
 
 http://www.lrb.co.uk/v19/n23/terry-eagleton/enjoy
 

@@ -9,7 +9,7 @@ date: 2015-04-18
 permalink: 2015/04/18/ian-mcgilchrist-a-matter-of-trust
 ---
 
-[[2015]] • [[commonplace]] • [[Iain McGilchrist]] • [[Los Angeles Review of Books]] 
+[[2015]] • [[Commonplace]] • [[Iain McGilchrist]] • [[Los Angeles Review of Books]] 
 
 https://lareviewofbooks.org/article/matter-trust/
 

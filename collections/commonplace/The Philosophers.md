@@ -9,7 +9,7 @@ date: 2016-01-27
 permalink: 2016/01/27/adam-ehrlich-sachs-the-philosophers
 ---
 
-[[2016]] • [[commonplace]] • [[Adam Ehrlich Sachs]] • [[The New Yorker]]
+[[2016]] • [[Commonplace]] • [[Adam Ehrlich Sachs]] • [[The New Yorker]]
 
 http://www.newyorker.com/magazine/2016/02/01/the-philosophers
 

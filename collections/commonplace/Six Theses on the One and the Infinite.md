@@ -9,7 +9,7 @@ date: 2016-11-10
 permalink: 2016/11/10/terence-blake-six-theses-on-the-one-and-the-infinite
 ---
 
-[[2016]] • [[commonplace]] • [[Terence Blake]] • [[Agent Swarm]]
+[[2016]] • [[Commonplace]] • [[Terence Blake]] • [[Agent Swarm]]
 
 https://terenceblake.wordpress.com/2016/11/10/badiou-the-one-the-infinite-six-theses/
 

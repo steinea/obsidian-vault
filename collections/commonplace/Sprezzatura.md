@@ -9,7 +9,7 @@ date: 2014-07-25
 permalink: 2014/07/25/caroline-moorhead-sprezzatura
 ---
 
-[[2014]] • [[commonplace]] • [[Caroline Moorehead]] • [[Times Literary Supplement]]
+[[2014]] • [[Commonplace]] • [[Caroline Moorehead]] • [[Times Literary Supplement]]
 
 https://www.the-tls.co.uk/
 

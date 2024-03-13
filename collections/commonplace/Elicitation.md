@@ -9,7 +9,7 @@ date: 2014-04-01
 permalink: 2014/04/01/john-mcphee-elicitation
 ---
 
-[[2014]] • [[commonplace]] • [[John McPhee]] • [[The New Yorker]]
+[[2014]] • [[Commonplace]] • [[John McPhee]] • [[The New Yorker]]
 
 http://www.newyorker.com/magazine/2014/04/07/elicitation
 

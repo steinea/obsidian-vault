@@ -9,7 +9,7 @@ date: 2017-05-06
 permalink: 2017/05/06/archetypal-lobster-archetypes-and-category-theory
 ---
 
-[[2017]] • [[commonplace]] • [[Archetypal Lobster]] • [[Twitter]] 
+[[2017]] • [[Commonplace]] • [[Archetypal Lobster]] • [[Twitter]] 
 
 https://twitter.com/profcatdg/status/860973579592228864
 

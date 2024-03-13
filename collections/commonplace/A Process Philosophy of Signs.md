@@ -9,7 +9,7 @@ date: 2016-08-10
 permalink: 2016/08/10/michael-halewood-a-process-philosophy-of-signs
 ---
 
-[[2016]] • [[commonplace]] • [[Michael Halewood]] • [[Notre Dame Philosophical Reviews]]
+[[2016]] • [[Commonplace]] • [[Michael Halewood]] • [[Notre Dame Philosophical Reviews]]
 
 https://ndpr.nd.edu/news/68693-a-process-philosophy-of-signs/
 

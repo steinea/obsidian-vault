@@ -9,7 +9,7 @@ date: 2015-08-19
 permalink: 2015/08/19/john-ibbitson-the-laurentian-consensus
 ---
 
-[[2015]] • [[commonplace]] • [[John Ibbitson]] • [[The Globe and Mail]]
+[[2015]] • [[Commonplace]] • [[John Ibbitson]] • [[The Globe and Mail]]
 
 https://www.theglobeandmail.com/news/politics/the-death-of-the-laurentian-consensus-and-what-it-says-about-canada/article4403773/
 

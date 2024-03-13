@@ -9,7 +9,7 @@ date: 2023-06-03
 permalink: 2023/06/03/yussef-cole-beautiful-cursed-dreams
 ---
 
-[[2023]] • [[commonplace]] • [[Yussef Cole]] • [[Polygon]]
+[[2023]] • [[Commonplace]] • [[Yussef Cole]] • [[Polygon]]
 
 https://www.polygon.com/23574291/james-cameron-avatar-war-nature-hayao-miyazaki
  

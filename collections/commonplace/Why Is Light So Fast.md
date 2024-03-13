@@ -9,7 +9,7 @@ date: 2015-09-22
 permalink: 2015/09/22/sidney-perkowitz-why-is-light-so-fast
 ---
 
-[[2015]] • [[commonplace]] • [[Sidney Perkowitz]] • [[Aeon]]
+[[2015]] • [[Commonplace]] • [[Sidney Perkowitz]] • [[Aeon]]
 
 https://aeon.co/magazine/science/the-universal-constants-that-drive-physicists-mad
 

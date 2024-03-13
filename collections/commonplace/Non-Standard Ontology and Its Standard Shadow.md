@@ -9,7 +9,7 @@ date: 2016-10-24
 permalink: 2016/10/24/terence-blake-non-standard-ontology-and-its-standard-shadow
 ---
 
-[[2016]] • [[commonplace]] • [[Terence Blake]] • [[Agent Swarm]]
+[[2016]] • [[Commonplace]] • [[Terence Blake]] • [[Agent Swarm]]
 
 https://terenceblake.wordpress.com/2016/10/24/reading-disparities-4-non-standard-ontology-and-its-standard-shadow/
 

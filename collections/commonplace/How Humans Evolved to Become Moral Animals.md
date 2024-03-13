@@ -9,7 +9,7 @@ date: 2015-12-02
 permalink: 2015/12/02/emily-esfahani-smith-how-humans-evolved-to-become-moral-animals
 ---
 
-[[2015]] • [[commonplace]] • [[Emily Esfahani Smith]] • [[The Atlantic]]
+[[2015]] • [[Commonplace]] • [[Emily Esfahani Smith]] • [[The Atlantic]]
 
 https://www.theatlantic.com/health/archive/2015/12/evolution-of-morality-social-humans-and-apes/418371/
 

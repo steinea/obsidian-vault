@@ -9,7 +9,7 @@ date: 2014-10-06
 permalink: 2014/10/06/heather-green-i-was-reading-up-on-my-hellenic-math
 ---
 
-[[2014]] • [[commonplace]] • [[Heather Green]] • [[The New Yorker]]
+[[2014]] • [[Commonplace]] • [[Heather Green]] • [[The New Yorker]]
 
 https://www.newyorker.com/magazine/2014/10/13/reading-hellenic-math
 

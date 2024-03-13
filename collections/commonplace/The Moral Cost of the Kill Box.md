@@ -9,7 +9,7 @@ date: 2016-02-28
 permalink: 2016/02/28/scott-beauchamp-the-moral-cost-of-the-kill-box
 ---
 
-[[2016]] • [[commonplace]] • [[Scott Beauchamp]] • [[The Atlantic]]
+[[2016]] • [[Commonplace]] • [[Scott Beauchamp]] • [[The Atlantic]]
 
 http://www.theatlantic.com/politics/archive/2016/02/the-cost-of-the-kill-box/470751/
 

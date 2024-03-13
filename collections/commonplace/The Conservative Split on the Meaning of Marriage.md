@@ -9,7 +9,7 @@ date: 2015-07-01
 permalink: 2015/07/01/emma-green-the-conservative-split-on-the-meaning-of-marriage
 ---
 
-[[2015]] • [[commonplace]] • [[Emma Green]] • [[The Atlantic]] 
+[[2015]] • [[Commonplace]] • [[Emma Green]] • [[The Atlantic]] 
 
 https://www.theatlantic.com/politics/archive/2015/07/the-conservative-split-on-the-meaning-of-marriage/397415/
 

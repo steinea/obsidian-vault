@@ -9,7 +9,7 @@ date: 2017-07-26
 permalink: 2017/07/26/bruno-dias-the-dungeon-of-the-mind
 ---
 
-[[2017]] • [[commonplace]] • [[Bruno Dias]] • [[Waypoint]] 
+[[2017]] • [[Commonplace]] • [[Bruno Dias]] • [[Waypoint]] 
 
 https://waypoint.vice.com/en_us/article/pad59k/interactive-fictions-favorite-setting-is-the-dungeon-of-the-mind
 

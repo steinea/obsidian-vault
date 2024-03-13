@@ -9,7 +9,7 @@ date: 2023-04-09
 permalink: 2023/04/09/alexander-galloway-on-the-bias
 ---
 
-[[2023]] • [[commonplace]] • [[Alexander Galloway]] • [[ASAP Journal]]
+[[2023]] • [[Commonplace]] • [[Alexander Galloway]] • [[ASAP Journal]]
 
 https://asapjournal.com/graphic-formalism-on-the-bias-alexander-r-galloway/
  

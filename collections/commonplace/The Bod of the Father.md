@@ -9,7 +9,7 @@ date: 2015-08-25
 permalink: 2015/08/25/vishnu-strangeways-the-bod-of-the-father
 ---
 
-[[2015]] • [[commonplace]] • [[Vishnu Strangeways]] • [[The New Inquiry]]
+[[2015]] • [[Commonplace]] • [[Vishnu Strangeways]] • [[The New Inquiry]]
 
 https://thenewinquiry.com/the-bod-of-the-father/
 

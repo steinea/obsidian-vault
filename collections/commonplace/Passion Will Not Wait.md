@@ -9,7 +9,7 @@ date: 2015-06-27
 permalink: 2015/06/27/friedrich-nietzsche-passion-will-not-wait
 ---
 
-[[2015]] • [[commonplace]] • [[Friedrich Nietzsche]] • [[Human, All Too Human]] 
+[[2015]] • [[Commonplace]] • [[Friedrich Nietzsche]] • [[Human, All Too Human]] 
 
 https://en.wikipedia.org/wiki/Human,_All_Too_Human
 

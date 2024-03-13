@@ -9,7 +9,7 @@ date: 2017-03-11
 permalink: 2017/03/11/john-r-wood-the-necessity-of-death
 ---
 
-[[2017]] • [[commonplace]] • [[John R. Wood]] • [[The Canadian Scientific and Christian Affiliation]] 
+[[2017]] • [[Commonplace]] • [[John R. Wood]] • [[The Canadian Scientific and Christian Affiliation]] 
 
 https://www.youtube.com/watch?v=JBGFIVGvekY
 

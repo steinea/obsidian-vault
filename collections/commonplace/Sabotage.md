@@ -9,7 +9,7 @@ date: 2023-02-02
 permalink: 2023/02/02/inhabit-sabotage
 ---
 
-[[2023]] • [[commonplace]] • [[Inhabit]] • [[Substack]]
+[[2023]] • [[Commonplace]] • [[Inhabit]] • [[Substack]]
 
 https://territories.substack.com/p/sabotage
  

@@ -9,7 +9,7 @@ date: 2023-03-20
 permalink: 2023/03/20/austin-walker-post-cringe
 ---
 
-[[2023]] • [[commonplace]] • [[Austin Walker]] • [[Clockwork Worlds]]
+[[2023]] • [[Commonplace]] • [[Austin Walker]] • [[Clockwork Worlds]]
 
 https://www.clockworkworlds.com/post-cringe/
  

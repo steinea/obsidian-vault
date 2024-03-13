@@ -9,7 +9,7 @@ date: 2014-10-20
 permalink: 2014/10/20/andrew-grace-for-the-silo-boys
 ---
 
-[[2014]] • [[commonplace]] • [[Andrew Grace]] • [[The New Yorker]]
+[[2014]] • [[Commonplace]] • [[Andrew Grace]] • [[The New Yorker]]
 
 https://www.newyorker.com/magazine/2014/10/27/silo-boys
 

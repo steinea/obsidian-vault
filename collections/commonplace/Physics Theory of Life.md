@@ -9,7 +9,7 @@ date: 2017-07-26
 permalink: 2017/07/26/natalie-wolchover-physics-theory-of-life
 ---
 
-[[2017]] • [[commonplace]] • [[Natalie Wolchover]] • [[Quanta Magazine]] 
+[[2017]] • [[Commonplace]] • [[Natalie Wolchover]] • [[Quanta Magazine]] 
 
 https://www.quantamagazine.org/first-support-for-a-physics-theory-of-life-20170726/
 

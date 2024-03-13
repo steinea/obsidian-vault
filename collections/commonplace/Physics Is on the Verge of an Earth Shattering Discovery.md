@@ -9,7 +9,7 @@ date: 2016-05-01
 permalink: 2016/05/01/pauline-gagnon-physics-is-on-the-verge-of-an-earth-shattering-discovery
 ---
 
-[[2016]] • [[commonplace]] • [[Pauline Gagnon]] • [[Aeon]]
+[[2016]] • [[Commonplace]] • [[Pauline Gagnon]] • [[Aeon]]
 
 https://aeon.co/opinions/physics-is-on-the-verge-of-an-earth-shattering-discovery
 

@@ -9,7 +9,7 @@ date: 2017-08-17
 permalink: 2017/08/17/joseph-klein-no-limits
 ---
 
-[[2017]] • [[commonplace]] • [[Joseph Klein]] • [[Platypus]]
+[[2017]] • [[Commonplace]] • [[Joseph Klein]] • [[Platypus]]
 
 http://blog.castac.org/2017/08/no-limits/
  

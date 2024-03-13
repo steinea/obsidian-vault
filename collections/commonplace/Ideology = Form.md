@@ -9,7 +9,7 @@ date: 2016-02-18
 permalink: 2016/02/18/jonas-staal-ideology-equals-form
 ---
 
-[[2016]] • [[commonplace]] • [[Jonas Staal]] • [[e-flux]]
+[[2016]] • [[Commonplace]] • [[Jonas Staal]] • [[e-flux]]
 
 http://www.e-flux.com/journal/ideology-form/
 

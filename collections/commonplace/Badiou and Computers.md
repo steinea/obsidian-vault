@@ -9,7 +9,7 @@ date: 2023-12-11
 permalink: 2023/12/11/alexander-galloway-badiou-and-computers
 ---
 
-[[2023]] • [[commonplace]] • [[Alexander Galloway]] • [[Culture & Communication]]
+[[2023]] • [[Commonplace]] • [[Alexander Galloway]] • [[Culture & Communication]]
 
 http://cultureandcommunication.org/galloway/badiou-and-computers
 

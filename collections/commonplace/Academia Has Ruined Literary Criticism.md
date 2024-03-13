@@ -9,7 +9,7 @@ date: 2023-06-03
 permalink: 2023/06/03/merve-emre-academia-has-ruined-literary-criticism
 ---
 
-[[2023]] • [[commonplace]] • [[Merve Emre]] • [[The New Yorker]]
+[[2023]] • [[Commonplace]] • [[Merve Emre]] • [[The New Yorker]]
 
 https://www.newyorker.com/magazine/2023/01/23/has-academia-ruined-literary-criticism-professing-criticism-john-guillory
  

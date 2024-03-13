@@ -9,7 +9,7 @@ date: 2023-10-09
 permalink: 2023/10/09/bitestring-web-fingerprinting
 ---
 
-[[2023]] • [[commonplace]] • [[Bitestring]]
+[[2023]] • [[Commonplace]] • [[Bitestring]]
 
 https://www.bitestring.com/posts/2023-03-19-web-fingerprinting-is-worse-than-I-thought.html
 

@@ -9,7 +9,7 @@ date: 2015-09-19
 permalink: 2015/09/19/andrew-winer-the-pure-messy-math-of-us
 ---
 
-[[2015]] • [[commonplace]] • [[Andrew Winer]] • [[Los Angeles Review of Books]]
+[[2015]] • [[Commonplace]] • [[Andrew Winer]] • [[Los Angeles Review of Books]]
 
 https://lareviewofbooks.org/article/the-pure-messy-math-of-us/
 

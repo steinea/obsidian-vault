@@ -9,7 +9,7 @@ date: 2017-06-19
 permalink: 2017/06/19/david-sims-an-18-hour-movie
 ---
 
-[[2017]] • [[commonplace]] • [[David Sims]] • [[The Atlantic]]
+[[2017]] • [[Commonplace]] • [[David Sims]] • [[The Atlantic]]
 
 https://www.theatlantic.com/entertainment/archive/2017/06/twin-peaks-is-finally-headed-somewhere/530835/
 

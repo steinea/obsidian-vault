@@ -9,7 +9,7 @@ date: 2017-02-19
 permalink: 2017/02/19/will-partin-the-thousand-eyes-of-watch-dogs-2
 ---
 
-[[2017]] • [[commonplace]] • [[Will Partin]] • [[Los Angeles Review of Books]] 
+[[2017]] • [[Commonplace]] • [[Will Partin]] • [[Los Angeles Review of Books]] 
 
 https://lareviewofbooks.org/article/the-thousand-eyes-of-watch-dogs-2/
 

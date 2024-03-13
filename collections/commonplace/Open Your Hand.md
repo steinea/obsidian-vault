@@ -9,7 +9,7 @@ date: 2015-10-04
 permalink: 2015/10/04/moses-open-your-hand
 ---
 
-[[2015]] • [[commonplace]] • [[Moses]] • [[Bible]]
+[[2015]] • [[Commonplace]] • [[Moses]] • [[Bible]]
 
 https://en.wikipedia.org/wiki/Book_of_Deuteronomy
 

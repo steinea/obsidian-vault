@@ -9,7 +9,7 @@ date: 2017-06-21
 permalink: 2017/06/21/geoffrey-hill-tenebrae
 ---
 
-[[2017]] • [[commonplace]] • [[Geoffrey Hill]] • [[Poetry Foundation]] 
+[[2017]] • [[Commonplace]] • [[Geoffrey Hill]] • [[Poetry Foundation]] 
 
 https://www.poetryfoundation.org/poems/48463/tenebrae
 

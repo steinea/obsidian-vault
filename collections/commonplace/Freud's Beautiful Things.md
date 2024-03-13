@@ -9,7 +9,7 @@ date: 2015-06-03
 permalink: 2015/06/03/emily-berry-freuds-beautiful-things
 ---
 
-[[2015]] • [[commonplace]] • [[Emily Berry]] • [[Poetry Foundation]] 
+[[2015]] • [[Commonplace]] • [[Emily Berry]] • [[Poetry Foundation]] 
 
 https://www.poetryfoundation.org/poetrymagazine/poems/58143/freuds-beautiful-things
 

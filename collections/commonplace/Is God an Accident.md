@@ -9,7 +9,7 @@ date: 2015-11-24
 permalink: 2015/11/24/paul-bloom-is-god-an-accident
 ---
 
-[[2015]] • [[commonplace]] • [[Paul Bloom]] • [[The Atlantic]]
+[[2015]] • [[Commonplace]] • [[Paul Bloom]] • [[The Atlantic]]
 
 https://www.theatlantic.com/magazine/archive/2005/12/is-god-an-accident/304425/
 

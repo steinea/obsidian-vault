@@ -9,7 +9,7 @@ date: 2018-12-14
 permalink: 2018/12/14/charlie-hall-from-risk-to-diplomacy
 ---
 
-[[2018]] • [[commonplace]] • [[Charlie Hall]] • [[Polygon]]
+[[2018]] • [[Commonplace]] • [[Charlie Hall]] • [[Polygon]]
 
 https://www.polygon.com/2018/12/14/18135133/best-tabletop-games-2018-board-card-games
  

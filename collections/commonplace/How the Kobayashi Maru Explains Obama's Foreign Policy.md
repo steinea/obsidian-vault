@@ -9,7 +9,7 @@ date: 2016-03-10
 permalink: 2016/03/10/yoni-applebaum-how-the-kobayashi-maru-explains-obamas-foreign-policy
 ---
 
-[[2016]] • [[commonplace]] • [[Yoni Applebaum]] • [[The Atlantic]]
+[[2016]] • [[Commonplace]] • [[Yoni Applebaum]] • [[The Atlantic]]
 
 https://www.theatlantic.com/politics/archive/2016/03/how-the-kobayashi-maru-explains-obamas-foreign-policy/624714/
 

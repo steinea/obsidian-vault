@@ -9,7 +9,7 @@ date: 2017-10-05
 permalink: 2017/10/05/join-the-party-all-writers-should-play-dnd
 ---
 
-[[2017]] • [[commonplace]] • [[Join the Party]] • [[Electric Literature]] 
+[[2017]] • [[Commonplace]] • [[Join the Party]] • [[Electric Literature]] 
 
 https://electricliterature.com/why-all-writers-should-play-dungeons-dragons-23b6a1561075
 

@@ -9,7 +9,7 @@ date: 2016-07-14
 permalink: 2016/07/14/richard-polt-the-question-concerning-heidegger
 ---
 
-[[2016]] • [[commonplace]] • [[Richard Polt]] • [[Los Angeles Review of Books]]
+[[2016]] • [[Commonplace]] • [[Richard Polt]] • [[Los Angeles Review of Books]]
 
 https://lareviewofbooks.org/article/question-concerning-heidegger/
 

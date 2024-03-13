@@ -9,7 +9,7 @@ date: 2016-12-11
 permalink: 2016/12/11/m-joshua-mozersky-mctaggarts-paradox
 ---
 
-[[2016]] • [[commonplace]] • [[M. Joshua Mozersky]] • [[Notre Dame Philosophical Reviews]]
+[[2016]] • [[Commonplace]] • [[M. Joshua Mozersky]] • [[Notre Dame Philosophical Reviews]]
 
 https://ndpr.nd.edu/news/mctaggarts-paradox/
 

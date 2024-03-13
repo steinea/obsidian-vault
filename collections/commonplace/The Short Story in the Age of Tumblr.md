@@ -9,7 +9,7 @@ date: 2017-01-12
 permalink: 2017/01/12/dan-worden-the-short-story-in-the-age-of-tumblr
 ---
 
-[[2017]] • [[commonplace]] • [[Daniel Worden]] • [[Los Angeles Review of Books]]
+[[2017]] • [[Commonplace]] • [[Daniel Worden]] • [[Los Angeles Review of Books]]
 
 https://lareviewofbooks.org/article/short-story-age-tumblr-nick-francis-potters-new-animals/
 

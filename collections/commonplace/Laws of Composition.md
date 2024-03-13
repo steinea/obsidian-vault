@@ -9,7 +9,7 @@ date: 2023-10-07
 permalink: 2023/10/07/sergey-kalmykov-laws-of-composition
 ---
 
-[[2023]] • [[commonplace]] • [[Sergey Kalmykov]] • [[Cosmic Bulletin]]
+[[2023]] • [[Commonplace]] • [[Sergey Kalmykov]] • [[Cosmic Bulletin]]
 
 https://cosmos.art/cosmic-bulletin/2022/laws-of-composition
 

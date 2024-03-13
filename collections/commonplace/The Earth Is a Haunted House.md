@@ -9,7 +9,7 @@ date: 2022-12-15
 permalink: 2022/12/15/stephanie-feldman-andy-davidson-the-earth-is-a-haunted-house
 ---
 
-[[2022]] • [[commonplace]] • [[Stephanie Feldman]] • [[Andy Davidson]] • [[Los Angeles Review of Books]]
+[[2022]] • [[Commonplace]] • [[Stephanie Feldman]] • [[Andy Davidson]] • [[Los Angeles Review of Books]]
 
 https://lareviewofbooks.org/article/the-earth-is-a-haunted-house-a-conversation-between-stephanie-feldman-and-andy-davidson/
 

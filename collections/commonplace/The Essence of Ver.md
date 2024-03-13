@@ -9,7 +9,7 @@ date: 2015-03-16
 permalink: 2015/03/16/emanuel-schuchart-the-essence-of-ver
 ---
 
-[[2015]] • [[commonplace]] • [[Emanuel Schuchart]] • [[Your Daily German]]
+[[2015]] • [[Commonplace]] • [[Emanuel Schuchart]] • [[Your Daily German]]
 
 https://yourdailygerman.com/2013/10/23/german-prefix-ver-meaning/
 

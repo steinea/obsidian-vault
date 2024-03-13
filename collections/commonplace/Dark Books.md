@@ -9,7 +9,7 @@ date: 2016-01-08
 permalink: 2016/01/08/tara-isabella-burton-dark-books
 ---
 
-[[2016]] • [[commonplace]] • [[Tara Isabella Burton]] • [[Aeon]]
+[[2016]] • [[Commonplace]] • [[Tara Isabella Burton]] • [[Aeon]]
 
 https://aeon.co/essays/how-books-can-sap-the-soul-and-poison-readers-with-ideas
 

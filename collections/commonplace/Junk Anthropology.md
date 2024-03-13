@@ -9,7 +9,7 @@ date: 2023-12-23
 permalink: 2023/12/23/rebecca-carlson-junk-anthropology
 ---
 
-[[2023]] • [[commonplace]] • [[Rebecca Carlson]] • [[Platypus]]
+[[2023]] • [[Commonplace]] • [[Rebecca Carlson]] • [[Platypus]]
 
 https://blog.castac.org/2023/07/junk-anthropology-a-manifesto-for-trashing-and-untrashing/
 

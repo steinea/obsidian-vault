@@ -9,7 +9,7 @@ date: 2014-04-28
 permalink: 2014/04/28/daniel-bosch-on-epitaphic-fictions
 ---
 
-[[2014]] • [[commonplace]] • [[Daniel Bosch]] • [[The Paris Review]]
+[[2014]] • [[Commonplace]] • [[Daniel Bosch]] • [[The Paris Review]]
 
 https://www.theparisreview.org/blog/2014/04/28/on-epitaphic-fictions-ben-franklin-w-b-yeats/
 

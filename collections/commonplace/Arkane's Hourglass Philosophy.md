@@ -9,7 +9,7 @@ date: 2023-06-11
 permalink: 2023/06/11/robert-purchese-arkanes-hourglass-philosophy
 ---
 
-[[2023]] • [[commonplace]] • [[Robert Purchase]] • [[Eurogamer]]
+[[2023]] • [[Commonplace]] • [[Robert Purchase]] • [[Eurogamer]]
 
 https://www.eurogamer.net/the-hourglass-philosophy-behind-dishonored-and-deathloops-genre-leading-level-design
  

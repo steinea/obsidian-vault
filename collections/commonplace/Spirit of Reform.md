@@ -9,7 +9,7 @@ date: 2014-03-25
 permalink: 2014/03/25/david-berlin-spirit-of-reform
 ---
 
-[[2014]] • [[commonplace]] • [[David Berlin]] • [[The Walrus]]
+[[2014]] • [[Commonplace]] • [[David Berlin]] • [[The Walrus]]
 
 https://thewalrus.ca/chimes-of-freedom/
 

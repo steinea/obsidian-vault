@@ -9,7 +9,7 @@ date: 2015-08-09
 permalink: 2015/08/09/emma-green-the-freakishness-of-christianity
 ---
 
-[[2015]] • [[commonplace]] • [[Emma Green]] • [[The Atlantic]] 
+[[2015]] • [[Commonplace]] • [[Emma Green]] • [[The Atlantic]] 
 
 https://www.theatlantic.com/politics/archive/2015/08/russell-moore-christian-freaks/400265/
 

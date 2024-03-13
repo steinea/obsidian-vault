@@ -9,7 +9,7 @@ date: 2015-11-12
 permalink: 2015/11/12/sara/ahmed-against-students
 ---
 
-[[2015]] • [[commonplace]] • [[Sara Ahmed]] • [[The New Inquiry]]
+[[2015]] • [[Commonplace]] • [[Sara Ahmed]] • [[The New Inquiry]]
 
 https://thenewinquiry.com/against-students/
 

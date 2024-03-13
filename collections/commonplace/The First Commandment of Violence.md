@@ -9,7 +9,7 @@ date: 2016-11-01
 permalink: 2016/11/01/
 ---
 
-[[2016]] • [[commonplace]] • [[The New Inquiry]]
+[[2016]] • [[Commonplace]] • [[The New Inquiry]]
 
 http://thenewinquiry.com/features/editors-note-vol-56-violence/
 

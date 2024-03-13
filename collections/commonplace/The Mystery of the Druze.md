@@ -9,7 +9,7 @@ date: 2017-02-07
 permalink: 2017/02/07/eran-elhaik-the-mystery-of-the-druze
 ---
 
-[[2017]] • [[commonplace]] • [[Eran Elhaik]] • [[Aeon]] 
+[[2017]] • [[Commonplace]] • [[Eran Elhaik]] • [[Aeon]] 
 
 https://aeon.co/ideas/solving-the-mystery-of-the-druze-a-2000-year-old-odyssey
 

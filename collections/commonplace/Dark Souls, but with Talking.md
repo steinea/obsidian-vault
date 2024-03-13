@@ -9,7 +9,7 @@ date: 2017-07-14
 permalink: 2017/07/14/joshua-kim-dark-souls-but-with-talking
 ---
 
-[[2017]] • [[commonplace]] • [[Joshua Kim]] • [[YouTube]]
+[[2017]] • [[Commonplace]] • [[Joshua Kim]] • [[YouTube]]
 
 https://www.youtube.com/watch?v=eRbZVx6SuOE&t=1s
  

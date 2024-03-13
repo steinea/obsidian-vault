@@ -9,7 +9,7 @@ date: 2016-07-13
 permalink: 2016/07/13/alison-stine-labyrinth-and-the-deep-dark-heart-of-childhood
 ---
 
-[[2016]] • [[commonplace]] • [[Alison Stine]] • [[The Atlantic]]
+[[2016]] • [[Commonplace]] • [[Alison Stine]] • [[The Atlantic]]
 
 http://www.theatlantic.com/entertainment/archive/2016/06/labyrinth-captured-the-dark-heart-of-childhood/489146/
 

@@ -9,7 +9,7 @@ date: 2014-08-10
 permalink: 2014/08/10/steven-moffat-big-universe
 ---
 
-[[2014]] • [[commonplace]] • [[Steven Moffat]] • [[IMDb]]
+[[2014]] • [[Commonplace]] • [[Steven Moffat]] • [[IMDb]]
 
 https://www.imdb.com/title/tt1998643/
 

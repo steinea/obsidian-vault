@@ -9,7 +9,7 @@ date: 2016-05-22
 permalink: 2016/05/22/herman-cappelan-a-general-theory-of-conceptual-engineering
 ---
 
-[[2016]] • [[commonplace]] • [[Herman Cappelan]] • [[Daily Nous]]
+[[2016]] • [[Commonplace]] • [[Herman Cappelan]] • [[Daily Nous]]
 
 http://dailynous.com/2016/05/19/philosophers-win-3-6-million-for-conceptual-engineering/
 

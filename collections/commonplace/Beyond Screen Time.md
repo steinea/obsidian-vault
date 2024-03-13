@@ -9,7 +9,7 @@ date: 2014-04-28
 permalink: 2014/04/28/ray-junco-beyond-screen-time
 ---
 
-[[2014]] • [[commonplace]] • [[Ray Junco]] • [[The Atlantic]]
+[[2014]] • [[Commonplace]] • [[Ray Junco]] • [[The Atlantic]]
 
 https://www.theatlantic.com/technology/archive/2014/04/beyond-screen-time-what-a-good-game-like-minecraft-teaches-kids/361261/
 

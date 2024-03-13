@@ -9,7 +9,7 @@ date: 2016-07-20
 permalink: 2016/07/20/michael-vater-infinite-phenomenology
 ---
 
-[[2016]] • [[commonplace]] • [[Michael Vater]] • [[Notre Dame Philosophical Reviews]]
+[[2016]] • [[Commonplace]] • [[Michael Vater]] • [[Notre Dame Philosophical Reviews]]
 
 https://ndpr.nd.edu/news/67644-infinite-phenomenology-the-lessons-of-hegels-science-of-experience/
 

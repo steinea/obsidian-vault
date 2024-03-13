@@ -9,7 +9,7 @@ date: 2023-01-01
 permalink: 2023/01/01/spencer-kornhaber-a-new-generation-of-fantasy-tv
 ---
 
-[[2023]] • [[commonplace]] • [[Spencer Kornhaber]] • [[The Atlantic]]
+[[2023]] • [[Commonplace]] • [[Spencer Kornhaber]] • [[The Atlantic]]
 
 https://web.archive.org/web/20221222184000/https://www.theatlantic.com/culture/archive/2022/12/fantasy-tv-humorless-house-of-the-dragon-andor/672552/
  

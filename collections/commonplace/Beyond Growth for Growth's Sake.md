@@ -9,7 +9,7 @@ date: 2015-11-27
 permalink: 2015/11/27/martin-kirk-beyond-growth-for-growths-sake
 ---
 
-[[2015]] • [[commonplace]] • [[Martin Kirk]] • [[Aeon]]
+[[2015]] • [[Commonplace]] • [[Martin Kirk]] • [[Aeon]]
 
 https://aeon.co/opinions/it-s-time-to-move-beyond-growth-for-growth-s-sake
 

@@ -9,7 +9,7 @@ date: 2017-10-11
 permalink: 2017/10/11/julia-alexander-on-blade-runner-2049-5
 ---
 
-[[2017]] • [[commonplace]] • [[Julia Alexander]] • [[Polygon]] 
+[[2017]] • [[Commonplace]] • [[Julia Alexander]] • [[Polygon]] 
 
 https://www.polygon.com/2017/10/5/16426054/blade-runner-2049-review
 

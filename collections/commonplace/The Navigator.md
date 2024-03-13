@@ -9,7 +9,7 @@ date: 2014-04-07
 permalink: 2014/04/07/steven-finucan-the-navigator
 ---
 
-[[2014]] • [[commonplace]] • [[Steven Finucan]] • [[The Walrus]]
+[[2014]] • [[Commonplace]] • [[Steven Finucan]] • [[The Walrus]]
 
 https://thewalrus.ca/the-navigator/
 

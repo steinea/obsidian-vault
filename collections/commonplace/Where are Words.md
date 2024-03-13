@@ -9,7 +9,7 @@ date: 2017-12-27
 permalink: 2017/12/27/riccardo-manzotti-tim-parks-where-are-words
 ---
 
-[[2017]] • [[commonplace]] • [[Riccardo Manzotti]] • [[Tim Parks]] • [[New York Review of Books]]
+[[2017]] • [[Commonplace]] • [[Riccardo Manzotti]] • [[Tim Parks]] • [[New York Review of Books]]
 
 http://www.nybooks.com/daily/2017/12/27/consciousness-where-are-words/
  

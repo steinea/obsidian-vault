@@ -9,7 +9,7 @@ date: 2017-06-02
 permalink: 2017/06/02/margaret-atwood-why-do-you-write
 ---
 
-[[2017]] • [[commonplace]] • [[Margaret Atwood]] • [[Nine Beginnings]] 
+[[2017]] • [[Commonplace]] • [[Margaret Atwood]] • [[Nine Beginnings]] 
 
 https://www.terriwindling.com/blog/2017/01/margaret-atwood.html
 

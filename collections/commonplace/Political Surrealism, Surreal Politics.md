@@ -9,7 +9,7 @@ date: 2016-12-26
 permalink: 2016/12/26/carl-freedman-political-surrealism-surreal-politics
 ---
 
-[[2016]] • [[commonplace]] • [[Carl Freedman]] • [[Los Angeles Review of Books]]
+[[2016]] • [[Commonplace]] • [[Carl Freedman]] • [[Los Angeles Review of Books]]
 
 https://lareviewofbooks.org/article/political-surrealism-surreal-politics/
 

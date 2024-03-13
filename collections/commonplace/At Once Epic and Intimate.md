@@ -9,7 +9,7 @@ date: 2016-12-19
 permalink: 2016/12/19/christopher-orr-at-once-epic-and-intimate
 ---
 
-[[2016]] • [[commonplace]] • [[Christopher Orr]] • [[The Atlantic]]
+[[2016]] • [[Commonplace]] • [[Christopher Orr]] • [[The Atlantic]]
 
 https://www.theatlantic.com/entertainment/archive/2016/12/the-best-movies-of-2016/511049/
 

@@ -9,7 +9,7 @@ date: 2015-08-28
 permalink: 2015/08/28/elizabeth-kolbert-the-woman-who-could-stop-climate-change
 ---
 
-[[2015]] • [[commonplace]] • [[Elizabeth Kolbert]] • [[The New Yorker]]
+[[2015]] • [[Commonplace]] • [[Elizabeth Kolbert]] • [[The New Yorker]]
 
 https://www.newyorker.com/magazine/2015/08/24/the-weight-of-the-world
 

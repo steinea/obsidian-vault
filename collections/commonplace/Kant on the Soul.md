@@ -9,7 +9,7 @@ date: 2017-07-04
 permalink: 2017/07/04/michelle-grier-kant-on-the-soul
 ---
 
-[[2017]] • [[commonplace]] • [[Michelle Grier]] • [[Stanford Encyclopedia of Philosophy]] 
+[[2017]] • [[Commonplace]] • [[Michelle Grier]] • [[Stanford Encyclopedia of Philosophy]] 
 
 https://plato.stanford.edu/entries/kant-metaphysics/#SouRatPsy
 

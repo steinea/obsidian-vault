@@ -9,7 +9,7 @@ date: 2017-07-16
 permalink: 2017/07/16/hans-heinrich-lieb-integrational-linguistics
 ---
 
-[[2017]] • [[commonplace]] • [[Hans-Heinrich Lieb]] • [[Wikipedia]] 
+[[2017]] • [[Commonplace]] • [[Hans-Heinrich Lieb]] • [[Wikipedia]] 
 
 https://en.wikipedia.org/wiki/Integrational_linguistics
 

@@ -9,7 +9,7 @@ date: 2017-05-19
 permalink: 2017/05/19/justin-gillis-looming-floods-cities-threatened
 ---
 
-[[2017]] • [[commonplace]] • [[Justin Gillis]] • [[The New York Times]] 
+[[2017]] • [[Commonplace]] • [[Justin Gillis]] • [[The New York Times]] 
 
 https://www.nytimes.com/interactive/2017/05/18/climate/antarctica-ice-melt-climate-change-flood.html
 

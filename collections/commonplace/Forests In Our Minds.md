@@ -9,7 +9,7 @@ date: 2023-02-08
 permalink: 2023/02/08/ursula-k-le-guin-forests-in-our-minds
 ---
 
-[[2023]] • [[commonplace]] • [[Ursula K. Le Guin]] • [[Twitter]]
+[[2023]] • [[Commonplace]] • [[Ursula K. Le Guin]] • [[Twitter]]
 
 https://mobile.twitter.com/UrsulaBot/status/1623541215772966917
  

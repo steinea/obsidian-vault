@@ -9,7 +9,7 @@ date: 2015-10-14
 permalink: 2015/10/14/julie-beck-hallucinations
 ---
 
-[[2015]] • [[commonplace]] • [[Julie Beck]] • [[The Atlantic]]
+[[2015]] • [[Commonplace]] • [[Julie Beck]] • [[The Atlantic]]
 
 https://www.theatlantic.com/health/archive/2015/10/hallucinations-born-from-what-people-know-not-what-they-see/410344/
 

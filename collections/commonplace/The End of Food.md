@@ -9,7 +9,7 @@ date: 2015-12-17
 permalink: 2015/12/17/lizzie-widdicombe-the-end-of-food
 ---
 
-[[2015]] • [[commonplace]] • [[Lizzie Widdicombe]] • [[The New Yorker]]
+[[2015]] • [[Commonplace]] • [[Lizzie Widdicombe]] • [[The New Yorker]]
 
 https://www.newyorker.com/magazine/2014/05/12/the-end-of-food
 

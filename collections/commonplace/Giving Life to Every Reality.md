@@ -9,7 +9,7 @@ date: 2015-07-29
 permalink: 2015/07/29/pope-francis-giving-life-to-every-reality
 ---
 
-[[2015]] • [[commonplace]] • [[Pope Francis]] • [[Vatican]] 
+[[2015]] • [[Commonplace]] • [[Pope Francis]] • [[Vatican]] 
 
 https://www.vatican.va/content/francesco/en/speeches/2014/october/documents/papa-francesco_20141027_plenaria-accademia-scienze.html
 

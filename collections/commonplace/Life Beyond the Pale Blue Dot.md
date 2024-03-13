@@ -9,7 +9,7 @@ date: 2015-07-02
 permalink: 2015/07/02/sam-chivers-life-beyond-the-pale-blue-dot 
 ---
 
-[[2015]] • [[commonplace]] • [[Sam Chivers]] • [[Nautilus]] 
+[[2015]] • [[Commonplace]] • [[Sam Chivers]] • [[Nautilus]] 
 
 https://nautil.us/issue/26/color/life-beyond-the-pale-blue-dot
 

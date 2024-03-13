@@ -9,7 +9,7 @@ date: 2023-01-07
 permalink: 2023/01/07/eunus-clarifications
 ---
 
-[[2023]] • [[commonplace]] • [[Eunus]] • [[Ill Will]]
+[[2023]] • [[Commonplace]] • [[Eunus]] • [[Ill Will]]
 
 https://illwill.com/clarifications
  

@@ -9,7 +9,7 @@ date: 2016-01-24
 permalink: 2016/01/24/rose-eveleth-imagination-battles
 ---
 
-[[2016]] • [[commonplace]] • [[Rose Eveleth]] • [[Los Angeles Review of Books]]
+[[2016]] • [[Commonplace]] • [[Rose Eveleth]] • [[Los Angeles Review of Books]]
 
 https://lareviewofbooks.org/review/imagination-battles-what-will-the-future-look-like/
 

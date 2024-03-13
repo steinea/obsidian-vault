@@ -9,7 +9,7 @@ date: 2014-11-10
 permalink: 2014/11/10/roy-liuzza-tower-of-babel
 ---
 
-[[2014]] • [[commonplace]] • [[Roy Liuzza]] • [[Studies in the Literary Imagination]]
+[[2014]] • [[Commonplace]] • [[Roy Liuzza]] • [[Studies in the Literary Imagination]]
 
 https://www.academia.edu/1916615/The_Tower_of_Babel_The_Wanderer_and_the_Ruins_of_History
 

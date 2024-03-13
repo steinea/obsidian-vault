@@ -9,7 +9,7 @@ date: 2016-11-25
 permalink: 2016/11/25/james-livingston-fuck-work
 ---
 
-[[2016]] • [[commonplace]] • [[James Livingston]] • [[Aeon]]
+[[2016]] • [[Commonplace]] • [[James Livingston]] • [[Aeon]]
 
 https://aeon.co/essays/what-if-jobs-are-not-the-solution-but-the-problem
 

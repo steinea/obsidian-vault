@@ -9,7 +9,7 @@ date: 2016-05-19
 permalink: 2016/05/19/ta-nehisi-coates-picking-sides-in-captain-america-civil-war
 ---
 
-[[2016]] • [[commonplace]] • [[Ta-Nehisi Coates]] • [[The Atlantic]]
+[[2016]] • [[Commonplace]] • [[Ta-Nehisi Coates]] • [[The Atlantic]]
 
 http://www.theatlantic.com/entertainment/archive/2016/05/captain-america-civil-war/481881/
 

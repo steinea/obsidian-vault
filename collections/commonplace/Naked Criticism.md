@@ -9,7 +9,7 @@ date: 2016-03-09
 permalink: 2016/03/09/mal-ahern-naked-criticism
 ---
 
-[[2016]] • [[commonplace]] • [[Mal Ahern]] • [[The New Inquiry]]
+[[2016]] • [[Commonplace]] • [[Mal Ahern]] • [[The New Inquiry]]
 
 http://thenewinquiry.com/essays/naked-criticism/
 

@@ -9,7 +9,7 @@ date: 2016-05-07
 permalink: 2016/05/07/e-flux-editors-all-things-have-borders
 ---
 
-[[2016]] • [[commonplace]] • [[e-flux Editors]] • [[e-flux]]
+[[2016]] • [[Commonplace]] • [[e-flux Editors]] • [[e-flux]]
 
 http://www.e-flux.com/journal/editorial-48/
 

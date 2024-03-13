@@ -9,7 +9,7 @@ date: 2023-03-06
 permalink: 2023/03/06/peter-gelderloos-ecosystems-of-revolt
 ---
 
-[[2023]] • [[commonplace]] • [[Peter Gelderloos]] • [[Ill Will]]
+[[2023]] • [[Commonplace]] • [[Peter Gelderloos]] • [[Ill Will]]
 
 https://illwill.com/ecosystems-of-revolt
  

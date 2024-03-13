@@ -9,7 +9,7 @@ date: 2016-03-31
 permalink: 2016/03/31/kaveh-waddell-encryption-is-a-luxury
 ---
 
-[[2016]] • [[commonplace]] • [[Kaveh Waddell]] • [[The Atlantic]]
+[[2016]] • [[Commonplace]] • [[Kaveh Waddell]] • [[The Atlantic]]
 
 http://www.theatlantic.com/technology/archive/2016/03/the-digital-security-divide/475590/
 

@@ -9,7 +9,7 @@ date: 2017-10-03
 permalink: 2017/10/03/terence-blake-parallel-or-parallax
 ---
 
-[[2017]] • [[commonplace]] • [[Terence Blake]] • [[Agent Swarm]] 
+[[2017]] • [[Commonplace]] • [[Terence Blake]] • [[Agent Swarm]] 
 
 https://terenceblake.wordpress.com/2017/10/03/zizeks-incontinence-of-the-void-2-deleuzezizek-parallel-or-parallax/
 

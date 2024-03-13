@@ -9,7 +9,7 @@ date: 2015-09-22
 permalink: 2015/09/22/richard-feynman-atoms-with-consciousness
 ---
 
-[[2015]] • [[commonplace]] • [[Richard Feynman]] • [[Preposterous Universe]]
+[[2015]] • [[Commonplace]] • [[Richard Feynman]] • [[Preposterous Universe]]
 
 https://www.preposterousuniverse.com/blog/2013/09/04/atoms-with-consciousness-matter-with-curiosity/
 

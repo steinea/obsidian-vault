@@ -9,7 +9,7 @@ date: 2023-06-12
 permalink: 2023/06/12/hugh-charles-to-salvage-utopian-love
 ---
 
-[[2023]] • [[commonplace]] • [[Hugh Charles]] • [[Los Angeles Review of Books]]
+[[2023]] • [[Commonplace]] • [[Hugh Charles]] • [[Los Angeles Review of Books]]
 
 https://dev.lareviewofbooks.org/article/a-revolutionary-hate-to-salvage-utopian-love-on-china-mievilles-a-spectre-haunting/
  

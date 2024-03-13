@@ -9,7 +9,7 @@ date: 2016-10-11
 permalink: 2016/10/11/ed-yong-why-does-this-virus-have-spider-dna
 ---
 
-[[2016]] • [[commonplace]] • [[Ed Yong]] • [[The Atlantic]]
+[[2016]] • [[Commonplace]] • [[Ed Yong]] • [[The Atlantic]]
 
 http://www.theatlantic.com/science/archive/2016/10/the-virus-with-spider-dna/503585/
 

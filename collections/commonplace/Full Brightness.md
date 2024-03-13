@@ -9,7 +9,7 @@ date: 2015-12-20
 permalink: 2015/12/20/jacqueline-feldman-full-brightness
 ---
 
-[[2015]] • [[commonplace]] • [[Jacqueline Feldman]] • [[The New Inquiry]]
+[[2015]] • [[Commonplace]] • [[Jacqueline Feldman]] • [[The New Inquiry]]
 
 https://thenewinquiry.com/full-brightness/
 

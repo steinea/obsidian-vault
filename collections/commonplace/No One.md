@@ -9,7 +9,7 @@ date: 2016-06-14
 permalink: 2016/06/14/aaron-bady-sarah-mesle-no-one
 ---
 
-[[2016]] • [[commonplace]] • [[Aaron Bady]] •[[Sarah Mesle]] • [[Los Angeles Review of Books]]
+[[2016]] • [[Commonplace]] • [[Aaron Bady]] •[[Sarah Mesle]] • [[Los Angeles Review of Books]]
 
 https://lareviewofbooks.org/article/game-thrones-season-6-no-one/
 

@@ -9,7 +9,7 @@ date: 2016-07-13
 permalink: 2016/07/13/caleb-scharf-where-do-minds-belong
 ---
 
-[[2016]] • [[commonplace]] • [[Caleb Scharf]] • [[Aeon]]
+[[2016]] • [[Commonplace]] • [[Caleb Scharf]] • [[Aeon]]
 
 http://aeon.co/essays/intelligent-machines-might-want-to-become-biological-again
 

@@ -9,7 +9,7 @@ date: 2015-10-20
 permalink: 2015/10/20/matt-ford-a-resounding-liberal-victory-in-canada
 ---
 
-[[2015]] • [[commonplace]] • [[Matt Ford]] • [[The Atlantic]]
+[[2015]] • [[Commonplace]] • [[Matt Ford]] • [[The Atlantic]]
 
 https://www.theatlantic.com/international/archive/2015/10/canada-justin-trudeau-election/411415/
 

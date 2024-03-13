@@ -9,7 +9,7 @@ date: 2015-12-01
 permalink: 2015/12/01/margaret-wertheim-i-feel-therefore-i-am
 ---
 
-[[2015]] • [[commonplace]] • [[Margaret Wertheim]] • [[Aeon]]
+[[2015]] • [[Commonplace]] • [[Margaret Wertheim]] • [[Aeon]]
 
 https://aeon.co/essays/how-and-why-exactly-did-consciousness-become-a-problem
 

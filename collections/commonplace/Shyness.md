@@ -9,7 +9,7 @@ date: 2014-05-23
 permalink: 2014/05/23/alejandro-zambra-shyness
 ---
 
-[[2014]] • [[commonplace]] • [[Alejandro Zambra]] • [[The New Yorker]]
+[[2014]] • [[Commonplace]] • [[Alejandro Zambra]] • [[The New Yorker]]
 
 http://www.newyorker.com/magazine/2014/05/26/camilo
 

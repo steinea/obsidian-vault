@@ -9,7 +9,7 @@ date: 2017-03-02
 permalink: 2017/03/02/william-carlos-williams-news-from-poems
 ---
 
-[[2017]] • [[commonplace]] • [[William Carlos Williams]] • [[Asphodel, That Greeny Flower]] 
+[[2017]] • [[Commonplace]] • [[William Carlos Williams]] • [[Asphodel, That Greeny Flower]] 
 
 https://en.wikipedia.org/wiki/Asphodel,_That_Greeny_Flower
 

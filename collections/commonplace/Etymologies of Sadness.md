@@ -9,7 +9,7 @@ date: 2016-01-06
 permalink: 2016/01/06/marta-figlerowicz-etymologies-of-sadness
 ---
 
-[[2016]] • [[commonplace]] • [[Marta Figlerowicz]] • [[Los Angeles Review of Books]]
+[[2016]] • [[Commonplace]] • [[Marta Figlerowicz]] • [[Los Angeles Review of Books]]
 
 http://lareviewofbooks.org/review/etymologies-of-sadness/
 

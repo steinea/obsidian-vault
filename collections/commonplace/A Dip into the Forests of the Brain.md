@@ -9,7 +9,7 @@ date: 2015-03-25
 permalink: 2015/03/25/an-xiao-mina-a-dip-into-the-forests-of-the-brain
 ---
 
-[[2015]] • [[commonplace]] • [[An Xiao Mina]] • [[Los Angeles Review of Books]]
+[[2015]] • [[Commonplace]] • [[An Xiao Mina]] • [[Los Angeles Review of Books]]
 
 https://lareviewofbooks.org/article/dip-forests-brain/
 

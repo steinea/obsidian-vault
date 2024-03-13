@@ -9,7 +9,7 @@ date: 2023-07-03
 permalink: 2023/07/03/rudolf-rocker-no-such-thing-as-a-final-goal
 ---
 
-[[2023]] • [[commonplace]] • [[Rudolf Rocker]] • [[Twitter]]
+[[2023]] • [[Commonplace]] • [[Rudolf Rocker]] • [[Twitter]]
 
 https://twitter.com/spencerbeswick/status/1675839241773826050
 

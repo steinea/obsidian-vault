@@ -9,7 +9,7 @@ date: 2015-06-13
 permalink: 2015/06/13/adam-phillips-maria-popova-on-being-too-much-for-ourselves
 ---
 
-[[2015]] • [[commonplace]] • [[Adam Phillips]] • [[Maria Popova]] • [[The Marginalian]] 
+[[2015]] • [[Commonplace]] • [[Adam Phillips]] • [[Maria Popova]] • [[The Marginalian]] 
 
 https://www.themarginalian.org/2015/06/08/adam-phillips-on-balance/
 

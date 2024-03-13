@@ -9,7 +9,7 @@ date: 2016-03-21
 permalink: 2016/03/21/matthew-monagle-john-hillcoat-mythmaker
 ---
 
-[[2016]] • [[commonplace]] • [[Matthew Monagle]] • [[Los Angeles Review of Books]]
+[[2016]] • [[Commonplace]] • [[Matthew Monagle]] • [[Los Angeles Review of Books]]
 
 https://lareviewofbooks.org/essay/john-hillcoat-mythmaker/
 

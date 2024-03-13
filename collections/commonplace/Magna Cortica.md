@@ -9,7 +9,7 @@ date: 2014-05-12
 permalink: 2014/05/12/james-cascio-magna-cortica
 ---
 
-[[2014]] • [[commonplace]] • [[James Cascio]] • [[Open the Future]]
+[[2014]] • [[Commonplace]] • [[James Cascio]] • [[Open the Future]]
 
 http://www.openthefuture.com/2014/05/magna_cortica.html
 

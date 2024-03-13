@@ -9,7 +9,7 @@ date: 2017-03-02
 permalink: 2017/03/02/robinson-jeffers-tides-of-fire
 ---
 
-[[2017]] • [[commonplace]] • [[Robinson Jeffers]] • [[The Selected Poetry of Robinson Jeffers]] 
+[[2017]] • [[Commonplace]] • [[Robinson Jeffers]] • [[The Selected Poetry of Robinson Jeffers]] 
 
 https://www.sup.org/books/title/?id=706
 

@@ -9,7 +9,7 @@ date: 2015-03-19
 permalink: 2015/03/19/jonathan-littell-what-happened-in-homs
 ---
 
-[[2015]] • [[commonplace]] • [[Jonathan Littell]] • [[New York Review of Books]]
+[[2015]] • [[Commonplace]] • [[Jonathan Littell]] • [[New York Review of Books]]
 
 https://www.nybooks.com/online/2015/03/18/syrian-notebooks-what-happened-in-homs/
 

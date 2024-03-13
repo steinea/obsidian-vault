@@ -9,7 +9,7 @@ date: 2016-12-27
 permalink: 2016/12/27/madison-margolin-how-ai-can-become-a-third-hemisphere-of-our-brains
 ---
 
-[[2016]] • [[commonplace]] • [[Madison Margolin]] • [[Motherboard]]
+[[2016]] • [[Commonplace]] • [[Madison Margolin]] • [[Motherboard]]
 
 http://motherboard.vice.com/read/how-ai-can-become-a-third-hemisphere-of-our-brains
 

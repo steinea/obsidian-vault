@@ -9,7 +9,7 @@ date: 2016-10-12
 permalink: 2016/10/12/caitlin-doyle-soul-and-dual
 ---
 
-[[2016]] • [[commonplace]] • [[Caitlin Doyle]] • [[Los Angeles Review of Books]]
+[[2016]] • [[Commonplace]] • [[Caitlin Doyle]] • [[Los Angeles Review of Books]]
 
 https://lareviewofbooks.org/article/soul-dual-dothead-amit-majmudar/
 

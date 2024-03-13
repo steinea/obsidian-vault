@@ -9,7 +9,7 @@ date: 2015-07-18
 permalink: 2015/07/18/chiara-marletto-constructor-theory-solves-the-riddle-of-life
 ---
 
-[[2015]] • [[commonplace]] • [[Chiara Marletto]] • [[Aeon]] 
+[[2015]] • [[Commonplace]] • [[Chiara Marletto]] • [[Aeon]] 
 
 https://web.archive.org/web/20150905084500/http://aeon.co/magazine/science/constructor-theory-solves-the-riddle-of-life/
 

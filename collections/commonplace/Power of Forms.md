@@ -9,7 +9,7 @@ date: 2014-09-27
 permalink: 2014/09/27/stephen-greenblatt-power-of-forms
 ---
 
-[[2014]] • [[commonplace]] • [[Stephen Greenblatt]] • [[The Norton Anthology of Theory and Criticism]]
+[[2014]] • [[Commonplace]] • [[Stephen Greenblatt]] • [[The Norton Anthology of Theory and Criticism]]
 
 https://www.worldcat.org/title/norton-anthology-of-theory-and-criticism/oclc/45023141
 

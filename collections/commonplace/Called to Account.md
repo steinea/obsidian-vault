@@ -9,7 +9,7 @@ date: 2016-02-24
 permalink: 2016/02/24/miranda-trimmier-called-to-account
 ---
 
-[[2016]] • [[commonplace]] • [[Miranda Trimmier]] • [[The New Inquiry]]
+[[2016]] • [[Commonplace]] • [[Miranda Trimmier]] • [[The New Inquiry]]
 
 http://thenewinquiry.com/essays/called-to-account/
 

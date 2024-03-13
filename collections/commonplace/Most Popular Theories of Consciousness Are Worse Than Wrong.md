@@ -9,7 +9,7 @@ date: 2016-03-09
 permalink: 2016/03/09/michael-graziano-most-popular-theories-of-consciousness-are-worse-than-wrong
 ---
 
-[[2016]] • [[commonplace]] • [[Michael Graziano]] • [[The Atlantic]]
+[[2016]] • [[Commonplace]] • [[Michael Graziano]] • [[The Atlantic]]
 
 http://www.theatlantic.com/science/archive/2016/03/phlegm-theories-of-consciousness/472812/
 

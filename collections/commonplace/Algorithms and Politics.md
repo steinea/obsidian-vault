@@ -9,7 +9,7 @@ date: 2015-10-31
 permalink: 2015/10/31/evgeny-morozov-algorithms-and-politics
 ---
 
-[[2015]] • [[commonplace]] • [[Evgeny Morozov]] • [[The Guardian]]
+[[2015]] • [[Commonplace]] • [[Evgeny Morozov]] • [[The Guardian]]
 
 https://www.theguardian.com/technology/2014/jul/20/rise-of-data-death-of-politics-evgeny-morozov-algorithmic-regulation
 

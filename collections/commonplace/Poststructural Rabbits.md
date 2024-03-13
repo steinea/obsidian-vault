@@ -9,7 +9,7 @@ date: 2014-08-19
 permalink: 2014/08/19/joseph-fink-jeffrey-cranor-rabbits
 ---
 
-[[2014]] • [[commonplace]] • [[Joseph Fink]] • [[Jeffrey Cranor]] • [[Welcome to Night Vale]]
+[[2014]] • [[Commonplace]] • [[Joseph Fink]] • [[Jeffrey Cranor]] • [[Welcome to Night Vale]]
 
 https://www.welcometonightvale.com/
 

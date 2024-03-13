@@ -9,7 +9,7 @@ date: 2017-03-06
 permalink: 2017/03/06/derek-thompson-the-clickbait-presidency
 ---
 
-[[2017]] • [[commonplace]] • [[Derek Thompson]] • [[The Atlantic]] 
+[[2017]] • [[Commonplace]] • [[Derek Thompson]] • [[The Atlantic]] 
 
 https://www.theatlantic.com/politics/archive/2017/03/the-clickbait-presidency/518751/
 

@@ -9,7 +9,7 @@ date: 2015-11-04
 permalink: 2015/11/04/olga-khazan-middle-aged-white-americans-are-dying-of-despair
 ---
 
-[[2015]] • [[commonplace]] • [[Olga Khazan]] • [[The Atlantic]]
+[[2015]] • [[Commonplace]] • [[Olga Khazan]] • [[The Atlantic]]
 
 https://www.theatlantic.com/health/archive/2015/11/boomers-deaths-pnas/413971/
 

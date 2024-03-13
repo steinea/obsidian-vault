@@ -9,7 +9,7 @@ date: 2015-09-08
 permalink: 2015/09/08/daniel-little-understanding-society-with-assemblage-theory
 ---
 
-[[2015]] • [[commonplace]] • [[Daniel Little]] • [[Understanding Society]]
+[[2015]] • [[Commonplace]] • [[Daniel Little]] • [[Understanding Society]]
 
 https://understandingsociety.blogspot.com/2012/11/assemblage-theory.html
 

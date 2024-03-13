@@ -9,7 +9,7 @@ date: 2015-10-30
 permalink: 2015/10/30/james-odwyer-the-hidden-power-laws-of-ecosystems
 ---
 
-[[2015]] • [[commonplace]] • [[James O'Dwyer]] • [[Nautilus]]
+[[2015]] • [[Commonplace]] • [[James O'Dwyer]] • [[Nautilus]]
 
 https://nautil.us/issue/29/scaling/the-hidden-power-laws-of-ecosystems
 

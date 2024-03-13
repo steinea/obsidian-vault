@@ -9,7 +9,7 @@ date: 2014-03-24
 permalink: 2014/03/24/kelefa-sanneh-skin-in-the-game
 ---
 
-[[2014]] • [[commonplace]] • [[Kelefa Sanneh]] • [[The New Yorker]]
+[[2014]] • [[Commonplace]] • [[Kelefa Sanneh]] • [[The New Yorker]]
 
 https://www.newyorker.com/magazine/2014/03/24/skin-in-the-game
 

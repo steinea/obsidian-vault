@@ -9,7 +9,7 @@ date: 2014-09-22
 permalink: 2014/09/22/pierre-bourdieu-a-social-critique-of-the-judgement-of-taste
 ---
 
-[[2014]] • [[commonplace]] • [[Pierre Bourdieu]] • [[The Norton Anthology of Theory and Criticism]]
+[[2014]] • [[Commonplace]] • [[Pierre Bourdieu]] • [[The Norton Anthology of Theory and Criticism]]
 
 https://www.worldcat.org/title/norton-anthology-of-theory-and-criticism/oclc/45023141
 

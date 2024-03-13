@@ -9,7 +9,7 @@ date: 2017-06-20
 permalink: 2017/06/20/w-h-auden-the-image-of-myself
 ---
 
-[[2017]] • [[commonplace]] • [[W. H. Auden]] • [[The Dyer's Hand ]] 
+[[2017]] • [[Commonplace]] • [[W. H. Auden]] • [[The Dyer's Hand ]] 
 
 https://en.wikipedia.org/wiki/The_Dyer%27s_Hand
 

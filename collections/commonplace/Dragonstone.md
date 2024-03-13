@@ -9,7 +9,7 @@ date: 2017-07-17
 permalink: 2017/07/17/aaron-bady-dragonstone
 ---
 
-[[2017]] • [[commonplace]] • [[Aaron Bady]] • [[Dragonstone]] 
+[[2017]] • [[Commonplace]] • [[Aaron Bady]] • [[Dragonstone]] 
 
 https://lareviewofbooks.org/article/game-thrones-dragonstone/
 

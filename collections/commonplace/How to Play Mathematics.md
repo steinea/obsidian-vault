@@ -9,7 +9,7 @@ date: 2017-02-07
 permalink: 2017/02/07/margaret-wertheim-how-to-play-mathematics
 ---
 
-[[2017]] • [[commonplace]] • [[Margaret Wertheim]] • [[Aeon]] 
+[[2017]] • [[Commonplace]] • [[Margaret Wertheim]] • [[Aeon]] 
 
 https://aeon.co/essays/theres-more-maths-in-slugs-and-corals-than-we-can-think-of
 

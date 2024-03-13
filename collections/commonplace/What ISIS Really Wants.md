@@ -9,7 +9,7 @@ date: 2015-02-19
 permalink: 2015/02/19/graeme-wood-what-isis-really-wants
 ---
 
-[[2015]] • [[commonplace]] • [[Graeme Wood]] • [[The Atlantic]]
+[[2015]] • [[Commonplace]] • [[Graeme Wood]] • [[The Atlantic]]
 
 https://www.theatlantic.com/magazine/archive/2015/03/what-isis-really-wants/384980/
 

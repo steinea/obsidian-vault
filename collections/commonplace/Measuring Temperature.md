@@ -9,7 +9,7 @@ date: 2017-05-15
 permalink: 2017/05/15/arthur-jensen-measuring-temperature
 ---
 
-[[2017]] • [[commonplace]] • [[Arthur Jensen]] • [[Bias in Mental Testing]] 
+[[2017]] • [[Commonplace]] • [[Arthur Jensen]] • [[Bias in Mental Testing]] 
 
 https://en.wikipedia.org/wiki/Bias_in_Mental_Testing
 

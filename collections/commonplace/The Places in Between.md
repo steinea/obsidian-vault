@@ -9,7 +9,7 @@ date: 2014-07-28
 permalink: 2014/07/28/pankaj-mishra-the-places-in-between
 ---
 
-[[2014]] • [[commonplace]] • [[Pankaj Mishra]] • [[The New Yorker]]
+[[2014]] • [[Commonplace]] • [[Pankaj Mishra]] • [[The New Yorker]]
 
 https://www.newyorker.com/magazine/2014/08/04/places-3
 

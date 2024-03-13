@@ -9,7 +9,7 @@ date: 2015-05-16
 permalink: 2015/05/16/aaron-bady-zunguzungu
 ---
 
-[[2015]] • [[commonplace]] • [[Aaron Bady]] 
+[[2015]] • [[Commonplace]] • [[Aaron Bady]] 
 
 https://zunguzungu.wordpress.com/about/
 

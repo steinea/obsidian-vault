@@ -9,7 +9,7 @@ date: 2014-03-31
 permalink: 2014/03/31/james-surowiecki-punditonomics
 ---
 
-[[2014]] • [[commonplace]] • [[James Surowiecki]] • [[The New Yorker]]
+[[2014]] • [[Commonplace]] • [[James Surowiecki]] • [[The New Yorker]]
 
 http://www.newyorker.com/magazine/2014/04/07/punditonomics
 

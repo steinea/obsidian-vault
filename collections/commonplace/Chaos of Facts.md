@@ -9,7 +9,7 @@ date: 2016-10-19
 permalink: 2016/10/19/nathan-jurgenson-chaos-of-facts
 ---
 
-[[2016]] • [[commonplace]] • [[Nathan Jurgenson]] • [[Real Life]]
+[[2016]] • [[Commonplace]] • [[Nathan Jurgenson]] • [[Real Life]]
 
 http://reallifemag.com/chaos-of-facts/
 

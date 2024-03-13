@@ -9,7 +9,7 @@ date: 2016-07-12
 permalink: 2016/07/12/michael-graziano-how-consciousness-works
 ---
 
-[[2016]] • [[commonplace]] • [[Michael Graziano]] • [[Aeon]]
+[[2016]] • [[Commonplace]] • [[Michael Graziano]] • [[Aeon]]
 
 https://aeon.co/essays/how-consciousness-works-and-why-we-believe-in-ghosts
 

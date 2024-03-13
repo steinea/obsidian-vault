@@ -9,7 +9,7 @@ date: 2017-03-23
 permalink: 2017/03/23/terence-blake-latour-and-badiou
 ---
 
-[[2017]] • [[commonplace]] • [[Terence Blake]] • [[Agent Swarm]] 
+[[2017]] • [[Commonplace]] • [[Terence Blake]] • [[Agent Swarm]] 
 
 https://terenceblake.wordpress.com/2017/03/23/latourbadiou-a-wild-comparison/
 

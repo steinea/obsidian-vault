@@ -9,7 +9,7 @@ date: 2016-12-23
 permalink: 2016/12/23/martin-woessner-there-will-be-feelings
 ---
 
-[[2016]] • [[commonplace]] • [[Martin Woessner]] • [[Los Angeles Review of Books]]
+[[2016]] • [[Commonplace]] • [[Martin Woessner]] • [[Los Angeles Review of Books]]
 
 https://lareviewofbooks.org/article/will-feelings-george-toless-paul-thomas-anderson/
 

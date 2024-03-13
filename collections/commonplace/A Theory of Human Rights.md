@@ -9,7 +9,7 @@ date: 2015-04-15
 permalink: 2015/04/15/james-r-mensch-a-theory-of-human-rights
 ---
 
-[[2015]] • [[commonplace]] • [[James R. Mensch]] • [[Open Democracy]] 
+[[2015]] • [[Commonplace]] • [[James R. Mensch]] • [[Open Democracy]] 
 
 https://www.opendemocracy.net/en/james-r-mensch/theory-of-human-rights/
 

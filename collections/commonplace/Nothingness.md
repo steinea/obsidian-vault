@@ -9,7 +9,7 @@ date: 2017-09-26
 permalink: 2017/09/26/roy-sorenson-nothingness
 ---
 
-[[2017]] • [[commonplace]] • [[Roy Sorenson]] • [[Stanford Encyclopedia of Philosophy]] 
+[[2017]] • [[Commonplace]] • [[Roy Sorenson]] • [[Stanford Encyclopedia of Philosophy]] 
  
 “First published Thu Aug 28, 2003; substantive revision Thu Aug 31, 2017”
 

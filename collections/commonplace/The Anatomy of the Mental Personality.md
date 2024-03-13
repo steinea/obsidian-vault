@@ -9,7 +9,7 @@ date: 2016-03-10
 permalink: 2016/03/10/sigmund-freud-the-anatomy-of-the-mental-personality
 ---
 
-[[2016]] • [[commonplace]] • [[Sigmund Freud]] • [[Marxists]]
+[[2016]] • [[Commonplace]] • [[Sigmund Freud]] • [[Marxists]]
 
 https://www.marxists.org/reference/subject/philosophy/works/at/freud2.htm
 

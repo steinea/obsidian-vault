@@ -9,7 +9,7 @@ date: 2017-12-30
 permalink: 2017/12/30/sophie-gilbert-david-sims-crocodile
 ---
 
-[[2017]] • [[commonplace]] • [[Sophie Gilbert]] • [[David Sims]] • [[The Atlantic]]
+[[2017]] • [[Commonplace]] • [[Sophie Gilbert]] • [[David Sims]] • [[The Atlantic]]
 
 https://www.theatlantic.com/entertainment/archive/2017/12/black-mirror-crocodile-is-a-nihilistic-nordic-noir/549380/
 

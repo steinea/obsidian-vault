@@ -9,7 +9,7 @@ date: 2015-11-16
 permalink: 2015/11/16/william-mccants-why-did-isis-attack-paris
 ---
 
-[[2015]] • [[commonplace]] • [[William McCants]] • [[The Atlantic]]
+[[2015]] • [[Commonplace]] • [[William McCants]] • [[The Atlantic]]
 
 https://www.theatlantic.com/international/archive/2015/11/isis-paris-attack-why/416277/
 

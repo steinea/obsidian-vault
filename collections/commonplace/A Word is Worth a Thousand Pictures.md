@@ -9,7 +9,7 @@ date: 2015-02-05
 permalink: 2015/02/05/phil-eklund-a-word-is-worth-a-thousand-pictures
 ---
 
-[[2015]] • [[commonplace]] • [[Phil Eklund]] • [[Entropy Mag]]
+[[2015]] • [[Commonplace]] • [[Phil Eklund]] • [[Entropy Mag]]
 
 https://web.archive.org/web/20150206071347/http://entropymag.org/a-word-is-worth-a-thousand-pictures/
 

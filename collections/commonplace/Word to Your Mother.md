@@ -9,7 +9,7 @@ date: 2015-10-19
 permalink: 2015/10/19/sophie-gilbert-spencer-kornhaber-word-to-your-mother
 ---
 
-[[2015]] • [[commonplace]] • [[Sophie Gilbert]] • [[Spencer Kornhaber]] • [[The Atlantic]]
+[[2015]] • [[Commonplace]] • [[Sophie Gilbert]] • [[Spencer Kornhaber]] • [[The Atlantic]]
 
 https://www.theatlantic.com/entertainment/archive/2015/10/the-leftovers-season-two-episode-three-off-ramp/411082/
 

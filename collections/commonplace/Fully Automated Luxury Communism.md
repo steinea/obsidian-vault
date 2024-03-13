@@ -9,7 +9,7 @@ date: 2015-03-18
 permalink: 2015/03/18/brian-merchant-fully-automated-luxury-communism
 ---
 
-[[2015]] • [[commonplace]] • [[Briant Merchant]] • [[The Guardian]]
+[[2015]] • [[Commonplace]] • [[Briant Merchant]] • [[The Guardian]]
 
 http://www.theguardian.com/sustainable-business/2015/mar/18/fully-automated-luxury-communism-robots-employment
 

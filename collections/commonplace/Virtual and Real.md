@@ -9,7 +9,7 @@ date: 2016-06-24
 permalink: 2016/06/24/nathan-jurgenson-virtual-and-real
 ---
 
-[[2016]] • [[commonplace]] • [[Nathan Jurgenson]] • [[Real Life]]
+[[2016]] • [[Commonplace]] • [[Nathan Jurgenson]] • [[Real Life]]
 
 https://reallifemag.com/dispatches/editors-letter/
 

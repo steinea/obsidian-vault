@@ -9,7 +9,7 @@ date: 2015-11-16
 permalink: 2015/11/16/ahmed-rashid-from-mumbai-to-paris
 ---
 
-[[2015]] • [[commonplace]] • [[Ahmed Rashid]] • [[New York Review of Books]]
+[[2015]] • [[Commonplace]] • [[Ahmed Rashid]] • [[New York Review of Books]]
 
 https://www.nybooks.com/online/2015/11/16/isis-from-mumbai-to-paris/
 

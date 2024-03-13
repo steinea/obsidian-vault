@@ -9,7 +9,7 @@ date: 2014-04-07
 permalink: 2014/04/07/jonathan-lethem-pending-vegan
 ---
 
-[[2014]] • [[commonplace]] • [[Jonathan Lethem]] • [[The New Yorker]]
+[[2014]] • [[Commonplace]] • [[Jonathan Lethem]] • [[The New Yorker]]
 
 http://www.newyorker.com/magazine/2014/04/07/pending-vegan
 

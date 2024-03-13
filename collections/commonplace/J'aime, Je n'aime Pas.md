@@ -9,7 +9,7 @@ date: 2017-07-02
 permalink: 2017/07/02/roland-barthes-jaime-je-naime-pas
 ---
 
-[[2017]] • [[commonplace]] • [[Roland Barthes]] 
+[[2017]] • [[Commonplace]] • [[Roland Barthes]] 
 
 https://us.macmillan.com/books/9780374251468/rolandbarthesbyrolandbarthes
 

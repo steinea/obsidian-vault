@@ -9,7 +9,7 @@ date: 2015-01-12
 permalink: 2015/01/12/lia-purpura-the-shiver-of-nothing
 ---
 
-[[2015]] • [[commonplace]] • [[Lia Purpura]] • [[The New Yorker]] 
+[[2015]] • [[Commonplace]] • [[Lia Purpura]] • [[The New Yorker]] 
 
 https://www.newyorker.com/magazine/2015/01/19/probability
 

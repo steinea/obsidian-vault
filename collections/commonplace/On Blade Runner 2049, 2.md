@@ -9,7 +9,7 @@ date: 2017-10-06
 permalink: 2017/10/06/matthew-gault-on-blade-runner-2049-2
 ---
 
-[[2017]] • [[commonplace]] • [[Matthew Gault]] • [[Motherboard]] 
+[[2017]] • [[Commonplace]] • [[Matthew Gault]] • [[Motherboard]] 
 
 https://motherboard.vice.com/en_us/article/43amnb/blade-runner-2049-review-ryan-gosling-harrison-ford-ridley-scott-replicant
 

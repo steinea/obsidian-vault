@@ -9,7 +9,7 @@ date: 2015-07-02
 permalink: 2015/07/02/derek-thompson-a-world-without-work
 ---
 
-[[2015]] • [[commonplace]] • [[Derek Thompson]] •[[The Atlantic]] 
+[[2015]] • [[Commonplace]] • [[Derek Thompson]] •[[The Atlantic]] 
 
 https://www.theatlantic.com/magazine/archive/2015/07/world-without-work/395294/
 

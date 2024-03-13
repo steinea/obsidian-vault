@@ -9,7 +9,7 @@ date: 2022-11-12
 permalink: 2022/11/13/austin-walker-meeting-with-a-judas-tree
 ---
 
-[[2022]] • [[commonplace]] • [[Austin Walker]] • [[Clockwork Worlds]]
+[[2022]] • [[Commonplace]] • [[Austin Walker]] • [[Clockwork Worlds]]
 
 https://www.clockworkworlds.com/notes-on-meeting-with-a-judas-tree/
 

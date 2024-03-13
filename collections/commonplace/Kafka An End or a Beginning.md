@@ -9,7 +9,7 @@ date: 2016-11-19
 permalink: 2016/11/19/morten-hoi-jensen-kafka-an-end-or-a-beginning
 ---
 
-[[2016]] • [[commonplace]] • [[Morten Høi Jensen]] • [[Los Angeles Review of Books]]
+[[2016]] • [[Commonplace]] • [[Morten Høi Jensen]] • [[Los Angeles Review of Books]]
 
 https://lareviewofbooks.org/article/kafka-end-beginning/
 

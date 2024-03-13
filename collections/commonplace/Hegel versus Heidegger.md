@@ -9,7 +9,7 @@ date: 2017-06-20
 permalink: 2017/06/20/slavoj-zizek-hegel-versus-heidegger
 ---
 
-[[2017]] • [[commonplace]] • [[Slavoj Zizek]] • [[e-flux]] 
+[[2017]] • [[Commonplace]] • [[Slavoj Zizek]] • [[e-flux]] 
 
 https://www.e-flux.com/journal/32/68252/hegel-versus-heidegger/
 

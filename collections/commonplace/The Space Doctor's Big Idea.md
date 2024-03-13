@@ -9,7 +9,7 @@ date: 2015-11-25
 permalink: 2015/11/25/randall-munroe-the-space-doctors-big-idea
 ---
 
-[[2015]] • [[commonplace]] • [[Randall Munroe]] • [[The New Yorker]]
+[[2015]] • [[Commonplace]] • [[Randall Munroe]] • [[The New Yorker]]
 
 https://www.newyorker.com/tech/annals-of-technology/the-space-doctors-big-idea-einstein-general-relativity
 

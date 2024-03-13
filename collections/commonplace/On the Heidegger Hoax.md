@@ -9,7 +9,7 @@ date: 2023-12-23
 permalink: 2023/12/23/richard-wolin-on-the-heidegger-hoax
 ---
 
-[[2023]] • [[commonplace]] • [[Richard Wolin]] • [[Los Angeles Review of Books]]
+[[2023]] • [[Commonplace]] • [[Richard Wolin]] • [[Los Angeles Review of Books]]
 
 https://lareviewofbooks.org/article/the-heidegger-hoax/
 

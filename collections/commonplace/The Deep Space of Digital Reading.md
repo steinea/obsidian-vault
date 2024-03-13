@@ -9,7 +9,7 @@ date: 2016-01-07
 permalink: 2016/01/07/paul-la-farge-the-deep-space-of-digital-reading
 ---
 
-[[2016]] • [[commonplace]] • [[Paul La Farge]] • [[Nautilus]]
+[[2016]] • [[Commonplace]] • [[Paul La Farge]] • [[Nautilus]]
 
 http://nautil.us/issue/32/space/the-deep-space-of-digital-reading
 

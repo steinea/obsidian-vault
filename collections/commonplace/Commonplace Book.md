@@ -9,7 +9,7 @@ date: 2017-02-01
 permalink: 2017/02/01/john-locke-commonplace-book
 ---
 
-[[2017]] • [[commonplace]] • [[John Locke]] • [[Wikipedia]] 
+[[2017]] • [[Commonplace]] • [[John Locke]] • [[Wikipedia]] 
 
 https://en.m.wikipedia.org/wiki/Commonplace_book
 

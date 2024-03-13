@@ -9,7 +9,7 @@ date: 2023-10-16
 permalink: 2023/10/16/anders-enberg-pederson-the-best-of-all-possible-wars
 ---
 
-[[2023]] • [[commonplace]] • [[Anders Engberg-Pedersen]] • [[Los Angeles Review of Books]]
+[[2023]] • [[Commonplace]] • [[Anders Engberg-Pedersen]] • [[Los Angeles Review of Books]]
 
 https://lareviewofbooks.org/article/the-best-of-all-possible-wars-warfare-worldmaking-and-the-creative-imagination/
 

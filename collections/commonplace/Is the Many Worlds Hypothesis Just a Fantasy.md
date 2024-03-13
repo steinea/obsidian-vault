@@ -9,7 +9,7 @@ date: 2015-02-24
 permalink: 2015/02/24/philip-ball-is-the-many-worlds-hypothesis-just-a-fantasy
 ---
 
-[[2015]] • [[commonplace]] • [[Philip Ball]] • [[Aeon]]
+[[2015]] • [[Commonplace]] • [[Philip Ball]] • [[Aeon]]
 
 https://aeon.co/magazine/science/is-the-many-worlds-hypothesis-just-a-fantasy
 

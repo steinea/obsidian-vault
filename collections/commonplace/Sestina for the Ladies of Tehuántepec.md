@@ -9,7 +9,7 @@ date: 2015-10-18
 permalink: 2015/10/18/earle-birney-sestina-for-the-ladies-of-tehuantepec
 ---
 
-[[2015]] • [[commonplace]] • [[Earle Birney]] • [[Canadian Poetry Online]]
+[[2015]] • [[Commonplace]] • [[Earle Birney]] • [[Canadian Poetry Online]]
 
 https://canpoetry.library.utoronto.ca/birney/poem3.htm
 

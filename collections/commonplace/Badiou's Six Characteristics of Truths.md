@@ -9,7 +9,7 @@ date: 2016-12-18
 permalink: 2016/12/18/terence-blake-badious-six-characteristics-of-truths
 ---
 
-[[2016]] • [[commonplace]] • [[Terence Blake]] • [[Agent Swarm]]
+[[2016]] • [[Commonplace]] • [[Terence Blake]] • [[Agent Swarm]]
 
 https://terenceblake.wordpress.com/2016/12/18/badious-inquiry-1-six-characteristics-of-truths/
 

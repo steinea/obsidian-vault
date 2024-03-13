@@ -9,7 +9,7 @@ date: 2016-03-10
 permalink: 2016/03/10/john-j-corso-what-does-greimas-semiotic-square-really-do
 ---
 
-[[2016]] • [[commonplace]] • [[John J. Corso]] • [[Mosaic]]
+[[2016]] • [[Commonplace]] • [[John J. Corso]] • [[Mosaic]]
 
 https://www.jstor.org/stable/44030128
 

@@ -9,7 +9,7 @@ date: 2015-09-28
 permalink: 2015/09/28/jorge-luis-borges-osvaldo-ferrari-a-prophet-in-reverse
 ---
 
-[[2015]] • [[commonplace]] • [[Jorge Luis Borges]] • [[Osvaldo Ferrari]] • [[New York Review of Books]]
+[[2015]] • [[Commonplace]] • [[Jorge Luis Borges]] • [[Osvaldo Ferrari]] • [[New York Review of Books]]
 
 https://www.nybooks.com/online/2015/09/24/prophet-reverse-borges/
 

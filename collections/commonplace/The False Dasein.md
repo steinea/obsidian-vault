@@ -9,7 +9,7 @@ date: 2016-07-28
 permalink: 2016/07/28/jon-mills-the-false-dasein
 ---
 
-[[2016]] • [[commonplace]] • [[John Mills]]
+[[2016]] • [[Commonplace]] • [[John Mills]]
 
 http://jonmills.tripod.com/Dasein.htm
 

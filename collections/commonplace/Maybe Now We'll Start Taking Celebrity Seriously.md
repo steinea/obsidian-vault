@@ -9,7 +9,7 @@ date: 2016-12-04
 permalink: 2016/12/04/robert-van-krieken-maybe-now-well-start-taking-celebrity-seriously
 ---
 
-[[2016]] • [[commonplace]] • [[Robert van Krieken]] • [[The Sociological Review]]
+[[2016]] • [[Commonplace]] • [[Robert van Krieken]] • [[The Sociological Review]]
 
 https://thesociologicalreview.org/collections/2016-us-election/maybe-now-well-start-taking-celebrity-seriously/
 

@@ -9,7 +9,7 @@ date: 2015-03-11
 permalink: 2015/03/11/gregory-the-great-the-accustomed-places
 ---
 
-[[2015]] • [[commonplace]] • [[Gregory the Great]] • [[Wikipedia]]
+[[2015]] • [[Commonplace]] • [[Gregory the Great]] • [[Wikipedia]]
 
 https://en.wikipedia.org/wiki/Mellitus
 

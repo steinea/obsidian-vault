@@ -9,7 +9,7 @@ date: 2014-12-03
 permalink: 2014/12/03/john-stuart-mill-harm-principle
 ---
 
-[[2014]] • [[commonplace]] • [[John Stuart Mill]] • [[Wikipedia]]
+[[2014]] • [[Commonplace]] • [[John Stuart Mill]] • [[Wikipedia]]
 
 https://en.wikipedia.org/wiki/Harm_principle
 

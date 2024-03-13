@@ -9,7 +9,7 @@ date: 2015-11-24
 permalink: 2015/11/24/paul-bloom-scientific-faith-is-different-from-religious-faith
 ---
 
-[[2015]] • [[commonplace]] • [[Paul Bloom]] • [[The Atlantic]]
+[[2015]] • [[Commonplace]] • [[Paul Bloom]] • [[The Atlantic]]
 
 https://www.theatlantic.com/science/archive/2015/11/why-scientific-faith-isnt-the-same-as-religious-faith/417357/
 

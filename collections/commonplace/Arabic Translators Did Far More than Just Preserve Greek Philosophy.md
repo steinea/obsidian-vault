@@ -9,7 +9,7 @@ date: 2016-11-04
 permalink: 2016/11/04/peter-adamson-arabic-translators-did-far-more-than-just-preserve-greek-philosophy
 ---
 
-[[2016]] • [[commonplace]] • [[Peter Adamson]] • [[Aeon]]
+[[2016]] • [[Commonplace]] • [[Peter Adamson]] • [[Aeon]]
 
 https://aeon.co/ideas/arabic-translators-did-far-more-than-just-preserve-greek-philosophy
 

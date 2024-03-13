@@ -9,7 +9,7 @@ date: 2016-08-01
 permalink: 2016/08/01/hans-georg-gadamer-the-surrender-of-breda
 ---
 
-[[2016]] • [[commonplace]] • [[Hans-Georg Gadamer]] • [[Wikipedia]]
+[[2016]] • [[Commonplace]] • [[Hans-Georg Gadamer]] • [[Wikipedia]]
 
 https://en.wikipedia.org/wiki/The_Surrender_of_Breda
 

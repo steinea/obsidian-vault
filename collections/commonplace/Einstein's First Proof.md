@@ -9,7 +9,7 @@ date: 2015-11-30
 permalink: 2015/11/30/steven-strogatz-einsteins-first-proof
 ---
 
-[[2015]] • [[commonplace]] • [[Steven Strogatz]] • [[The New Yorker]]
+[[2015]] • [[Commonplace]] • [[Steven Strogatz]] • [[The New Yorker]]
 
 https://www.newyorker.com/tech/annals-of-technology/einsteins-first-proof-pythagorean-theorem
 

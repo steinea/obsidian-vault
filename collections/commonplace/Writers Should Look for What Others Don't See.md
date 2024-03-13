@@ -9,7 +9,7 @@ date: 2015-05-08
 permalink: 2015/05/08/doug-mclean-charles-simic-writers-should-look-for-what-others-dont-see
 ---
 
-[[2015]] • [[commonplace]] • [[Doug McLean]] • [[Charles Simic]] • [[The Atlantic]] 
+[[2015]] • [[Commonplace]] • [[Doug McLean]] • [[Charles Simic]] • [[The Atlantic]] 
 
 https://www.theatlantic.com/entertainment/archive/2015/05/by-heart-charles-simic/392519/
 

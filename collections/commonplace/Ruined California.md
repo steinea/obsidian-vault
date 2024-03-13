@@ -9,7 +9,7 @@ date: 2015-11-23
 permalink: 2015/11/23/casey-walker-ruined-california
 ---
 
-[[2015]] • [[commonplace]] • [[Casey Walker]] • [[Los Angeles Review of Books]]
+[[2015]] • [[Commonplace]] • [[Casey Walker]] • [[Los Angeles Review of Books]]
 
 https://lareviewofbooks.org/article/ruined-california/
 

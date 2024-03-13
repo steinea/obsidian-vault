@@ -9,7 +9,7 @@ date: 2014-08-27
 permalink: 2014/08/27/hannah-proctor-death-and-the-maiden
 ---
 
-[[2014]] • [[commonplace]] • [[Hannah Proctor]] • [[The New Inquiry]]
+[[2014]] • [[Commonplace]] • [[Hannah Proctor]] • [[The New Inquiry]]
 
 https://thenewinquiry.com/death-and-the-maiden/
 

@@ -9,7 +9,7 @@ date: 2014-10-06
 permalink: 2014/10/06/kevin-canty-story-with-bird
 ---
 
-[[2014]] • [[commonplace]] • [[Kevin Canty]] • [[The New Yorker]]
+[[2014]] • [[Commonplace]] • [[Kevin Canty]] • [[The New Yorker]]
 
 https://www.newyorker.com/magazine/2014/10/06/story-bird
 

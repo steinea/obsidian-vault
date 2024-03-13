@@ -9,7 +9,7 @@ date: 2016-02-05
 permalink: 2016/02/05/gottfried-leibnitz-monadology
 ---
 
-[[2016]] • [[commonplace]] • [[Gottfried Leibnitz]] • [[Marxists]]
+[[2016]] • [[Commonplace]] • [[Gottfried Leibnitz]] • [[Marxists]]
 
 https://www.marxists.org/reference/subject/philosophy/works/ge/leibniz.htm
 

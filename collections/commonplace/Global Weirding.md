@@ -9,7 +9,7 @@ date: 2016-12-24
 permalink: 2016/12/24/andrew-hageman-timothy-morton-jeff-vandermeer-global-weirding
 ---
 
-[[2016]] • [[commonplace]] • [[Andrew Hageman]] • [[Timothy Morton]] • [[Jeff VanderMeer]] • [[Los Angeles Review of Books]]
+[[2016]] • [[Commonplace]] • [[Andrew Hageman]] • [[Timothy Morton]] • [[Jeff VanderMeer]] • [[Los Angeles Review of Books]]
 
 https://lareviewofbooks.org/article/a-conversation-between-timothy-morton-and-jeff-vandermeer/
 

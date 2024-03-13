@@ -9,7 +9,7 @@ date: 2015-01-12
 permalink: 2015/01/12/ellen-bass-reincarnation
 ---
 
-[[2015]] • [[commonplace]] • [[Ellen Bass]] • [[The New Yorker]]
+[[2015]] • [[Commonplace]] • [[Ellen Bass]] • [[The New Yorker]]
 
 https://www.newyorker.com/magazine/2015/01/19/reincarnation-3
 

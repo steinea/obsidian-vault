@@ -9,7 +9,7 @@ date: 2016-01-08
 permalink: 2016/01/08/kathryn-schulz-when-the-big-one-comes
 ---
 
-[[2016]] • [[commonplace]] • [[Kathryn Schulz]] • [[The New Yorker]]
+[[2016]] • [[Commonplace]] • [[Kathryn Schulz]] • [[The New Yorker]]
 
 http://www.newyorker.com/tech/elements/how-to-stay-safe-when-the-big-one-comes
 

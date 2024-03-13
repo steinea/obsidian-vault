@@ -9,7 +9,7 @@ date: 2016-09-06
 permalink: 2016/09/06/alex-abad-santos-pumpkin-spice-latters
 ---
 
-[[2016]] • [[commonplace]] • [[Alex Abad-Santos]] • [[Vox]]
+[[2016]] • [[Commonplace]] • [[Alex Abad-Santos]] • [[Vox]]
 
 http://www.vox.com/2014/9/10/6126359/pumpkin-spice-latte-starbucks-season-trend
 

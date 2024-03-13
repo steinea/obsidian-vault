@@ -9,7 +9,7 @@ date: 2016-01-31
 permalink: 2016/01/31/empedocles-ancient-pluralism
 ---
 
-[[2016]] • [[commonplace]] • [[Empedocles]] • [[Wikipedia]]
+[[2016]] • [[Commonplace]] • [[Empedocles]] • [[Wikipedia]]
 
 https://en.wikipedia.org/wiki/Pluralism_(philosophy)#Ancient_pluralism
 

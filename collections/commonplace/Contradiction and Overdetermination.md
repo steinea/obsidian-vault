@@ -9,7 +9,7 @@ date: 2016-01-25
 permalink: 2016/01/25/louis-althusser-contradiction-and-overdetermination
 ---
 
-[[2016]] • [[commonplace]] • [[Louis Althusser]] • [[Marxists]]
+[[2016]] • [[Commonplace]] • [[Louis Althusser]] • [[Marxists]]
 
 https://www.marxists.org/reference/archive/althusser/1962/overdetermination.htm
 

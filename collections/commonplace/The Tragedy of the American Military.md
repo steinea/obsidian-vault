@@ -9,7 +9,7 @@ date: 2015-02-16
 permalink: 2015/02/16/james-fallows-the-tragedy-of-the-american-military
 ---
 
-[[2015]] • [[commonplace]] • [[James Fallows]] • [[The Atlantic]]
+[[2015]] • [[Commonplace]] • [[James Fallows]] • [[The Atlantic]]
 
 https://www.theatlantic.com/magazine/archive/2015/01/the-tragedy-of-the-american-military/383516/
 

@@ -9,7 +9,7 @@ date: 2016-03-10
 permalink: 2016/03/10/christopher-r-oldstone-moore-beards-and-threatened-masculinity
 ---
 
-[[2016]] • [[commonplace]] • [[Christopher R. Oldstone-Moore]] • [[Aeon]]
+[[2016]] • [[Commonplace]] • [[Christopher R. Oldstone-Moore]] • [[Aeon]]
 
 https://aeon.co/opinions/how-beards-put-a-brave-face-on-threatened-masculinity
 

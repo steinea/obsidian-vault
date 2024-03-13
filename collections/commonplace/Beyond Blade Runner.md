@@ -9,7 +9,7 @@ date: 2017-02-10
 permalink: 2017/02/10/carl-abbott-beyond-blade-runner
 ---
 
-[[2017]] • [[commonplace]] • [[Carl Abbott]] • [[Los Angeles Review of Books]] 
+[[2017]] • [[Commonplace]] • [[Carl Abbott]] • [[Los Angeles Review of Books]] 
 
 https://lareviewofbooks.org/article/beyond-blade-runner/
 

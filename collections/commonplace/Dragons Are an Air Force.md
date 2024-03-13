@@ -9,7 +9,7 @@ date: 2017-08-08
 permalink: 2017/08/08/matthew-gault-dragon-are-an-air-force
 ---
 
-[[2017]] • [[commonplace]] • [[Matthew Gault]] • [[Motherboard]] 
+[[2017]] • [[Commonplace]] • [[Matthew Gault]] • [[Motherboard]] 
 
 https://motherboard.vice.com/en_us/article/43xkeb/game-of-thrones-dragons-arent-nukes-theyre-an-air-force
 

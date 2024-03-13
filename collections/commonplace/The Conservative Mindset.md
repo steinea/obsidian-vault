@@ -9,7 +9,7 @@ date: 2016-03-21
 permalink: 2016/03/21/allen-mendenhall-the-conservative-mindset
 ---
 
-[[2016]] • [[commonplace]] • [[Allen Mendenhall]] • [[Los Angeles Review of Books]]
+[[2016]] • [[Commonplace]] • [[Allen Mendenhall]] • [[Los Angeles Review of Books]]
 
 https://lareviewofbooks.org/review/the-conservative-mindset/
 

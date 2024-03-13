@@ -9,7 +9,7 @@ date: 2016-02-19
 permalink: 2016/02/19/douglas-murphy-megastructure-visions
 ---
 
-[[2016]] • [[commonplace]] • [[Douglas Murphy]] • [[Verso]]
+[[2016]] • [[Commonplace]] • [[Douglas Murphy]] • [[Verso]]
 
 http://www.versobooks.com/blogs/2481-megastructure-visions-an-extract-from-last-futures
 

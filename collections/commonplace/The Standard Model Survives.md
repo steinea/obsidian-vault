@@ -9,7 +9,7 @@ date: 2023-03-20
 permalink: 2023/03/20/rebecca-boyle-the-standard-model-survives
 ---
 
-[[2023]] • [[commonplace]] • [[Rebecca Boyle]] • [[Quanta Magazine]]
+[[2023]] • [[Commonplace]] • [[Rebecca Boyle]] • [[Quanta Magazine]]
 
 https://www.quantamagazine.org/standard-model-of-cosmology-survives-jwsts-surprising-finds-20230120/
  

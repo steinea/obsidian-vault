@@ -9,7 +9,7 @@ date: 2017-01-10
 permalink: 2017/01/10/daniel-everett-chomsky-wolfe-and-me
 ---
 
-[[2017]] • [[commonplace]] • [[Daniel Everett]] • [[Aeon]]
+[[2017]] • [[Commonplace]] • [[Daniel Everett]] • [[Aeon]]
 
 https://aeon.co/essays/why-language-is-not-everything-that-noam-chomsky-said-it-is
 

@@ -9,7 +9,7 @@ date: 2023-12-27
 permalink: 2023/12/27/matt-huber-the-problem-with-degrowth
 ---
 
-[[2023]] • [[commonplace]] • [[Matt Huber]] • [[Jacobin]]
+[[2023]] • [[Commonplace]] • [[Matt Huber]] • [[Jacobin]]
 
 https://jacobin.com/2023/07/degrowth-climate-change-economic-planning-production-austerity
 

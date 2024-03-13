@@ -9,7 +9,7 @@ date: 2017-01-10
 permalink: 2017/01/10/michael-bowler-complicated-presence
 ---
 
-[[2017]] • [[commonplace]] • [[Michael Bowler]] • [[Notre Dame Philosophical Reviews]]
+[[2017]] • [[Commonplace]] • [[Michael Bowler]] • [[Notre Dame Philosophical Reviews]]
 
 https://ndpr.nd.edu/news/complicated-presence-heidegger-and-the-postmetaphysical-unity-of-being/
 

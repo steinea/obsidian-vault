@@ -9,7 +9,7 @@ date: 2016-03-14
 permalink: 2016/03/14/keguro-macharia-political-vernaculars
 ---
 
-[[2016]] • [[commonplace]] • [[Keguro Macharia]] • [[The New Inquiry]]
+[[2016]] • [[Commonplace]] • [[Keguro Macharia]] • [[The New Inquiry]]
 
 http://thenewinquiry.com/essays/political-vernaculars-freedom-and-love/
 

@@ -9,7 +9,7 @@ date: 2016-11-10
 permalink: 2016/11/10/john-scalzi-the-cinemax-theory-of-racism
 ---
 
-[[2016]] • [[commonplace]] • [[John Scalzi]] • [[Whatever]]
+[[2016]] • [[Commonplace]] • [[John Scalzi]] • [[Whatever]]
 
 http://whatever.scalzi.com/2016/11/10/the-cinemax-theory-of-racism/
 

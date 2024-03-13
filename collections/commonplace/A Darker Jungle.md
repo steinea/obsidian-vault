@@ -9,7 +9,7 @@ date: 2016-05-07
 permalink: 2016/05/07/christopher-benfey-a-darker-jungle
 ---
 
-[[2016]] • [[commonplace]] • [[Christopher Benfey]] • [[New York Review of Books]]
+[[2016]] • [[Commonplace]] • [[Christopher Benfey]] • [[New York Review of Books]]
 
 http://www.nybooks.com/daily/2016/04/26/darker-jungle-book/
 

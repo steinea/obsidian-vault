@@ -9,7 +9,7 @@ date: 2015-08-31
 permalink: 2015/08/31/d-h-lawrence-the-trembling-centre
 ---
 
-[[2015]] • [[commonplace]] • [[D. H. Lawrence]] • [[Phoenix]]
+[[2015]] • [[Commonplace]] • [[D. H. Lawrence]] • [[Phoenix]]
 
 https://books.google.ca/books/about/Phoenix.html?id=E3IOAQAAMAAJ
 

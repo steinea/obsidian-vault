@@ -9,7 +9,7 @@ date: 2016-07-14
 permalink: 2016/07/14/autumn-whitefield-modrano-in-the-eye-of-the-coder
 ---
 
-[[2016]] • [[commonplace]] • [[Autumn Whitefield-Modrano]] • [[Real Life]]
+[[2016]] • [[Commonplace]] • [[Autumn Whitefield-Modrano]] • [[Real Life]]
 
 http://reallifemag.com/in-the-eye-of-the-coder/
 

@@ -9,7 +9,7 @@ date: 2023-06-11
 permalink: 2023/06/11/nathan-wainstein-game-wonder
 ---
 
-[[2023]] • [[commonplace]] • [[Nathan Wainstein]] • [[Los Angeles Review of Books]]
+[[2023]] • [[Commonplace]] • [[Nathan Wainstein]] • [[Los Angeles Review of Books]]
 
 https://dev.lareviewofbooks.org/article/game-wonder-on-fromsoftwares-bloodborne-and-h-p-lovecrafts-the-haunter-of-the-dark/
  

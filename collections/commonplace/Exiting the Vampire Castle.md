@@ -9,7 +9,7 @@ date: 2017-04-28
 permalink: 2017/04/28/mark-fisher-exiting-the-vampire-castle
 ---
 
-[[2017]] • [[commonplace]] • [[Mark Fisher]] • [[The North Star]] 
+[[2017]] • [[Commonplace]] • [[Mark Fisher]] • [[The North Star]] 
 
 http://www.thenorthstar.info/?p=11299
 

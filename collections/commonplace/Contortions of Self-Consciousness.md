@@ -9,7 +9,7 @@ date: 2016-04-30
 permalink: 2016/04/30/rob-horning-contortions-of-self-consciousness
 ---
 
-[[2016]] • [[commonplace]] • [[Rob Horning]] • [[The New Inquiry]]
+[[2016]] • [[Commonplace]] • [[Rob Horning]] • [[The New Inquiry]]
 
 http://thenewinquiry.com/blogs/marginal-utility/contortions-of-self-consciousness/
 

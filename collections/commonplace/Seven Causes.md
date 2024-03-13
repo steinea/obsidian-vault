@@ -9,7 +9,7 @@ date: 2015-08-28
 permalink: 2015/08/28/aristotle-seven-causes
 ---
 
-[[2015]] • [[commonplace]] • [[Aristotle]] • [[Rhetoric]]
+[[2015]] • [[Commonplace]] • [[Aristotle]] • [[Rhetoric]]
 
 http://classics.mit.edu/Aristotle/rhetoric.1.i.html
 

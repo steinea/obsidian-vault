@@ -9,7 +9,7 @@ date: 2023-06-03
 permalink: 2023/06/03/peter-mcdonald-the-impossible-reversal
 ---
 
-[[2023]] • [[commonplace]] • [[Peter McDonald]] • [[Analog Game Studies]]
+[[2023]] • [[Commonplace]] • [[Peter McDonald]] • [[Analog Game Studies]]
 
 https://analoggamestudies.org/2017/07/the-impossible-reversal-george-brechts-playfulness-in-deck-a-fluxgame/
  

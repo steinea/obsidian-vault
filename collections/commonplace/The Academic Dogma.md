@@ -9,7 +9,7 @@ date: 2014-08-31
 permalink: 2014/08/31/robert-nisbet-the-academic-dogma
 ---
 
-[[2014]] • [[commonplace]] • [[Robert Nisbet]] • [[The Degradation of the Academic Dogma]]
+[[2014]] • [[Commonplace]] • [[Robert Nisbet]] • [[The Degradation of the Academic Dogma]]
 
 https://www.routledge.com/The-Degradation-of-the-Academic-Dogma/Nisbet/p/book/9781560009153
 

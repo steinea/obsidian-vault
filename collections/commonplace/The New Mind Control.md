@@ -9,7 +9,7 @@ date: 2016-02-24
 permalink: 2016/02/24/robert-epstein-the-new-mind-control
 ---
 
-[[2016]] • [[commonplace]] • [[Robert Epstein]] • [[Aeon]]
+[[2016]] • [[Commonplace]] • [[Robert Epstein]] • [[Aeon]]
 
 https://aeon.co/essays/how-the-internet-flips-elections-and-alters-our-thoughts
 

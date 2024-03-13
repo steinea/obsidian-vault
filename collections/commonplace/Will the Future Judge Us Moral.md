@@ -9,7 +9,7 @@ date: 2015-03-24
 permalink: 2015/03/24/stefan-klein-stephen-cave-will-the-future-judge-us-moral
 ---
 
-[[2015]] • [[commonplace]] • [[Stefan Klein]] • [[Stephen Cave]] • [[Aeon]]
+[[2015]] • [[Commonplace]] • [[Stefan Klein]] • [[Stephen Cave]] • [[Aeon]]
 
 https://aeon.co/magazine/philosophy/what-will-morality-look-like-100-years-hence
 

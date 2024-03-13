@@ -9,7 +9,7 @@ date: 2015-07-22
 permalink: 2015/07/22/john-duns-scotus-haecceity
 ---
 
-[[2015]] • [[commonplace]] • [[John Duns Scotus]] • [[Wikipedia]] 
+[[2015]] • [[Commonplace]] • [[John Duns Scotus]] • [[Wikipedia]] 
 
 https://en.wikipedia.org/wiki/Haecceity
 

@@ -9,7 +9,7 @@ date: 2014-04-24
 permalink: 2014/04/24/adam-gopnik-the-poets-hand
 ---
 
-[[2014]] • [[commonplace]] • [[Adam Gopnik]] • [[The New Yorker]]
+[[2014]] • [[Commonplace]] • [[Adam Gopnik]] • [[The New Yorker]]
 
 http://www.newyorker.com/magazine/2014/04/28/the-poets-hand
 

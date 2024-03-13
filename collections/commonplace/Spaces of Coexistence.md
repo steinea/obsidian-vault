@@ -9,7 +9,7 @@ date: 2016-11-01
 permalink: 2016/11/01/peter-sloterdijk-spaces-of-coexistence
 ---
 
-[[2016]] • [[commonplace]] • [[Peter Sloterdijk]] • [[Wikipedia]]
+[[2016]] • [[Commonplace]] • [[Peter Sloterdijk]] • [[Wikipedia]]
 
 https://en.wikipedia.org/wiki/Peter_Sloterdijk
 

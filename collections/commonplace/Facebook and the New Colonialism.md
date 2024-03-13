@@ -9,7 +9,7 @@ date: 2016-02-12
 permalink: 2016/02/12/adrienne-lafrance-facebook-and-the-new-colonialism
 ---
 
-[[2016]] • [[commonplace]] • [[Adrienne LaFrance]] • [[The Atlantic]]
+[[2016]] • [[Commonplace]] • [[Adrienne LaFrance]] • [[The Atlantic]]
 
 http://www.theatlantic.com/technology/archive/2016/02/facebook-and-the-new-colonialism/462393/
 

@@ -9,7 +9,7 @@ date: 2017-06-30
 permalink: 2017/06/30/elie-weisel-where-is-god
 ---
 
-[[2017]] • [[commonplace]] • [[Elie Weisel]] • [[Wikipedia]] 
+[[2017]] • [[Commonplace]] • [[Elie Weisel]] • [[Wikipedia]] 
 
 https://en.wikipedia.org/wiki/Night_(book)
 

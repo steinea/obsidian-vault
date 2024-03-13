@@ -9,7 +9,7 @@ date: 2016-12-29
 permalink: 2016/12/29/david-haeselin-give-us-today
 ---
 
-[[2016]] • [[commonplace]] • [[David Haeselin]] • [[Los Angeles Review of Books]]
+[[2016]] • [[Commonplace]] • [[David Haeselin]] • [[Los Angeles Review of Books]]
 
 https://lareviewofbooks.org/article/give-us-today/
 

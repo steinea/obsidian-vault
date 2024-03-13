@@ -9,7 +9,7 @@ date: 2016-03-20
 permalink: 2016/03/20/david-sims-the-most-christopher-nolan-film-of-all
 ---
 
-[[2016]] • [[commonplace]] • [[David Sims]] • [[The Atlantic]]
+[[2016]] • [[Commonplace]] • [[David Sims]] • [[The Atlantic]]
 
 http://www.theatlantic.com/entertainment/archive/2016/03/memento-is-a-precise-twisty-delight-15-years-on/473973/
 

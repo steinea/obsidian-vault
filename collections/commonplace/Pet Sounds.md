@@ -9,7 +9,7 @@ date: 2016-08-17
 permalink: 2016/08/17/elizabeth-newton-pet-sounds
 ---
 
-[[2016]] • [[commonplace]] • [[Elizabeth Newton]] • [[Pet Sounds]]
+[[2016]] • [[Commonplace]] • [[Elizabeth Newton]] • [[Pet Sounds]]
 
 http://reallifemag.com/pet-sounds/
 

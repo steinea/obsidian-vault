@@ -9,7 +9,7 @@ date: 2017-03-20
 permalink: 2017/03/20/david-sims-mass-effect-andromeda-is-more-about-choice-than-story
 ---
 
-[[2017]] • [[commonplace]] • [[David Sims]] • [[The Atlantic]] 
+[[2017]] • [[Commonplace]] • [[David Sims]] • [[The Atlantic]] 
 
 https://www.theatlantic.com/entertainment/archive/2017/03/mass-effect-andromeda-review/520161/
 

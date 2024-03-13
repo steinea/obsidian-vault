@@ -9,7 +9,7 @@ date: 2015-10-19
 permalink: 2015/10/19/elmo-keep-all-you-zombies
 ---
 
-[[2015]] • [[commonplace]] • [[Elmo Keep]] • [[The Awl]]
+[[2015]] • [[Commonplace]] • [[Elmo Keep]] • [[The Awl]]
 
 https://www.theawl.com/2015/10/all-you-zombies/
 

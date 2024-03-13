@@ -9,7 +9,7 @@ date: 2016-01-20
 permalink: 2016/01/20/sheryl-a-kujawa-holbrook-an-interpreted-world
 ---
 
-[[2016]] • [[commonplace]] • [[Sheryl A. Kujawa-Holbrook]] • [[Essential Writings and Chants of a Christian Mystic]]
+[[2016]] • [[Commonplace]] • [[Sheryl A. Kujawa-Holbrook]] • [[Essential Writings and Chants of a Christian Mystic]]
 
 https://books.google.ca/books?id=xrRoCwAAQBAJ&dq=info:UV5rZlIrrPMJ
 

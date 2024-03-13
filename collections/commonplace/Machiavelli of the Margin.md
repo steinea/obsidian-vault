@@ -9,7 +9,7 @@ date: 2015-10-26
 permalink: 2015/10/26/corey-robin-machiavelli-of-the-margin
 ---
 
-[[2015]] • [[commonplace]] • [[Corey Robin]]
+[[2015]] • [[Commonplace]] • [[Corey Robin]]
 
 https://coreyrobin.com/2014/11/13/david-ricardo-machiavelli-of-the-margin/
 

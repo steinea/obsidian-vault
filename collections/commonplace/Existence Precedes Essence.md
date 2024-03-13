@@ -9,7 +9,7 @@ date: 2016-01-07
 permalink: 2016/01/07/jean-paul-sartre-existence-precedes-essence
 ---
 
-[[2016]] • [[commonplace]] • [[Jean-Paul Sartre]] • [[Wikipedia]]
+[[2016]] • [[Commonplace]] • [[Jean-Paul Sartre]] • [[Wikipedia]]
 
 https://en.wikipedia.org/wiki/Existence_precedes_essence
 

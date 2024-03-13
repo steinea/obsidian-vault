@@ -9,7 +9,7 @@ date: 2023-06-11
 permalink: 2023/06/11/laura-miller-cottagecore-emo-emily-bronte
 ---
 
-[[2023]] • [[commonplace]] • [[Laura Miller]] • [[Slate]]
+[[2023]] • [[Commonplace]] • [[Laura Miller]] • [[Slate]]
 
 https://slate.com/culture/2023/02/emily-bronte-movie-true-story-wuthering-heights.html
  

@@ -9,7 +9,7 @@ date: 2017-03-14
 permalink: 2017/03/14/josephine-livingstone-how-to-look-at-kristen-stewart
 ---
 
-[[2017]] • [[commonplace]] • [[Josephine Livingstone]] • [[The New Republic]] 
+[[2017]] • [[Commonplace]] • [[Josephine Livingstone]] • [[The New Republic]] 
 
 https://newrepublic.com/article/141308/look-kristen-stewart
 

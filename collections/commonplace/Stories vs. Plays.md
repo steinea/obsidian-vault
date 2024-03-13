@@ -9,7 +9,7 @@ date: 2014-05-23
 permalink: 2014/05/23/ian-mcewan-stories-vs-plays
 ---
 
-[[2014]] • [[commonplace]] • [[Ian McEwan]] • [[Atonement]]
+[[2014]] • [[Commonplace]] • [[Ian McEwan]] • [[Atonement]]
 
 https://en.wikipedia.org/wiki/Atonement_(novel)
 

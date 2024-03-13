@@ -9,7 +9,7 @@ date: 2014-10-21
 permalink: 2014/10/21/michael-mark-cohen-hipster-vs-douchebag
 ---
 
-[[2014]] • [[commonplace]] • [[Michael Mark Cohen]] • [[Medium]]
+[[2014]] • [[Commonplace]] • [[Michael Mark Cohen]] • [[Medium]]
 
 https://medium.com/the-secret-history-of-america/douchebag-the-white-racial-slur-weve-all-been-waiting-for-a2323002f85d
 

@@ -9,7 +9,7 @@ date: 2015-12-03
 permalink: 2015/12/03/george-santayana-against-kant
 ---
 
-[[2015]] • [[commonplace]] • [[George Santayana]] • [[Winds of Doctrine]]
+[[2015]] • [[Commonplace]] • [[George Santayana]] • [[Winds of Doctrine]]
 
 https://www.gutenberg.org/ebooks/17771
 

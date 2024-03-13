@@ -9,7 +9,7 @@ date: 2017-02-22
 permalink: 2017/02/22/riccardo-manzotti-tim-parks-am-i-the-apple
 ---
 
-[[2017]] • [[commonplace]] • [[Riccardo Manzotti]] • [[Tim Parks]] • [[New York Review of Books]]
+[[2017]] • [[Commonplace]] • [[Riccardo Manzotti]] • [[Tim Parks]] • [[New York Review of Books]]
 
 http://www.nybooks.com/daily/2017/02/22/consciousness-am-i-the-apple/
 

@@ -9,7 +9,7 @@ date: 2015-09-05
 permalink: 2015/09/05/tim-parks-clearing-up-ambiguity
 ---
 
-[[2015]] • [[commonplace]] • [[Tim Parks]] • [[New York Review of Books]]
+[[2015]] • [[Commonplace]] • [[Tim Parks]] • [[New York Review of Books]]
 
 https://www.nybooks.com/online/2015/09/01/clearing-up-ambiguity/
 

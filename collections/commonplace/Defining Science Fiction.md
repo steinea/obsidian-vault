@@ -9,7 +9,7 @@ date: 2014-07-17
 permalink: 2014/07/17/chris-mckitterick-defining-science-fiction
 ---
 
-[[2014]] • [[commonplace]] • [[Chris McKitterick]] • [[Center for the Study of Science Fiction]]
+[[2014]] • [[Commonplace]] • [[Chris McKitterick]] • [[Center for the Study of Science Fiction]]
 
 https://web.archive.org/web/20140717131126/http://www.sfcenter.ku.edu/SF-Defined.htm
 

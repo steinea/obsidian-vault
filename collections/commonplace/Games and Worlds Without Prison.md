@@ -9,7 +9,7 @@ date: 2017-07-28
 permalink: 2017/07/28/cameron-kunzelman-games-and-worlds-without-prison
 ---
 
-[[2017]] • [[commonplace]] • [[Cameron Kunzelman]] • [[Waypoint]] 
+[[2017]] • [[Commonplace]] • [[Cameron Kunzelman]] • [[Waypoint]] 
 
 https://waypoint.vice.com/en_us/article/gyb4dy/games-can-portray-limitless-worlds-why-not-one-without-prisons
 

@@ -9,7 +9,7 @@ date: 2014-09-28
 permalink: 2014/09/28/stephen-greenblatt-the-circulation-of-social-energy
 ---
 
-[[2014]] • [[commonplace]] • [[Stephen Greenblatt]] • [[Shakespearean Negotiations]]
+[[2014]] • [[Commonplace]] • [[Stephen Greenblatt]] • [[Shakespearean Negotiations]]
 
 https://www.google.ca/books/edition/Shakespearean_Negotiations/866eoQY-tXIC
 

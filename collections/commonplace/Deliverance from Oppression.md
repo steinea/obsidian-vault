@@ -9,7 +9,7 @@ date: 2016-04-24
 permalink: 2016/04/24/isaiah-deliverance-from-oppression
 ---
 
-[[2016]] • [[commonplace]] • [[Isaiah]] • [[Bible]]
+[[2016]] • [[Commonplace]] • [[Isaiah]] • [[Bible]]
 
 https://en.wikipedia.org/wiki/Isaiah_25
 

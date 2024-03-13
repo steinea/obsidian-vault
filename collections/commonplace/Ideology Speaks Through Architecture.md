@@ -9,7 +9,7 @@ date: 2023-12-23
 permalink: 2023/12/23/hayes-geldmacher-ideology-speaks-through-architecture
 ---
 
-[[2023]] • [[commonplace]] • [[Hayes Geldmacher]] • [[Unwinnable]]
+[[2023]] • [[Commonplace]] • [[Hayes Geldmacher]] • [[Unwinnable]]
 
 https://unwinnable.com/2023/06/14/ideology-speaks-through-architecture-exploring-inside-and-gorogoa/
 

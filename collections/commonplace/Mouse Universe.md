@@ -9,7 +9,7 @@ date: 2014-12-06
 permalink: 2014/12/06/john-b-calhoun-mouse-universe
 ---
 
-[[2014]] • [[commonplace]] • [[John B. Calhoun]] • [[Wikipedia]]
+[[2014]] • [[Commonplace]] • [[John B. Calhoun]] • [[Wikipedia]]
 
 https://en.wikipedia.org/wiki/John_B._Calhoun#Mouse_experiments
 

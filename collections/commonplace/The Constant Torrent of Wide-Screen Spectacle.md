@@ -9,7 +9,7 @@ date: 2022-12-17
 permalink: 2022/12/17/david-sims-avatar-the-constant-torrent-of-wide-screen-spectacle
 ---
 
-[[2022]] • [[commonplace]] • [[David Sims]] • [[The Atlantic]]
+[[2022]] • [[Commonplace]] • [[David Sims]] • [[The Atlantic]]
 
 https://www.theatlantic.com/culture/archive/2022/12/avatar-2-way-of-water-movie-review-james-cameron/672448/
 

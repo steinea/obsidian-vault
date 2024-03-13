@@ -9,7 +9,7 @@ date: 2016-04-25
 permalink: 2016/04/25/john-wilmot-the-reasoning-engine
 ---
 
-[[2016]] • [[commonplace]] • [[John Wilmot]] • [[Satyr Against Reason and Mankind]]
+[[2016]] • [[Commonplace]] • [[John Wilmot]] • [[Satyr Against Reason and Mankind]]
 
 https://en.wikipedia.org/wiki/A_Satyr_Against_Reason_and_Mankind
 

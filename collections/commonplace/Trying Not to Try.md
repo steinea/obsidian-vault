@@ -9,7 +9,7 @@ date: 2015-03-19
 permalink: 2015/03/19/edward-slingerland-trying-not-to-trying
 ---
 
-[[2015]] • [[commonplace]] • [[Edward Slingerland]] • [[Nautilus]]
+[[2015]] • [[Commonplace]] • [[Edward Slingerland]] • [[Nautilus]]
 
 https://nautil.us/issue/22/slow/trying-not-to-try
 

@@ -9,7 +9,7 @@ date: 2015-07-10
 permalink: 2015/07/10/sigrid-rausing-american-wild
 ---
 
-[[2015]] • [[commonplace]] • [[Sigrid Rausing]] • [[Granta]] 
+[[2015]] • [[Commonplace]] • [[Sigrid Rausing]] • [[Granta]] 
 
 https://granta.com/products/granta-128-american-wild/
 

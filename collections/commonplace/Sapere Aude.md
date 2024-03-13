@@ -9,7 +9,7 @@ date: 2017-02-02
 permalink: 2017/02/02/sina-queyras-sapere-aude
 ---
 
-[[2017]] • [[commonplace]] • [[Sina Queyras]] • [[Los Angeles Review of Books]] 
+[[2017]] • [[Commonplace]] • [[Sina Queyras]] • [[Los Angeles Review of Books]] 
 
 https://lareviewofbooks.org/article/sapere-aude-on-3-summers-and-the-poetry-of-lisa-robertson/
 

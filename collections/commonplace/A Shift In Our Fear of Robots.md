@@ -9,7 +9,7 @@ date: 2018-04-24
 permalink: 2018/04/24/becky-ferreira-a-shift-in-our-fear-of-robots
 ---
 
-[[2018]] • [[commonplace]] • [[Becky Ferreira]] • [[Motherboard]]
+[[2018]] • [[Commonplace]] • [[Becky Ferreira]] • [[Motherboard]]
 
 https://motherboard.vice.com/en_us/article/bjpk43/westworlds-female-hosts-signal-a-shift-in-our-fear-of-robots
  

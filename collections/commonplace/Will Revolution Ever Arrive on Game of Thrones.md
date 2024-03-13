@@ -9,7 +9,7 @@ date: 2016-07-05
 permalink: 2016/07/05/spencer-kornhaber-will-revolution-ever-arrive-on-game-of-thrones
 ---
 
-[[2016]] • [[commonplace]] • [[Spencer Kornhaber]] • [[The Atlantic]]
+[[2016]] • [[Commonplace]] • [[Spencer Kornhaber]] • [[The Atlantic]]
 
 http://www.theatlantic.com/entertainment/archive/2016/06/game-of-thrones-populism-commoners-high-sparrow-revolution-cersei-season-6-finale/489542/
 

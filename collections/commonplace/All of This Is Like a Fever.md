@@ -9,7 +9,7 @@ date: 2022-11-09
 permalink: 2022/11/09/edward-berger-all-of-this-is-like-a-fever
 ---
 
-[[2022]] • [[commonplace]] • [[Edward Berger]] • [[All Quiet On the Western Front]]
+[[2022]] • [[Commonplace]] • [[Edward Berger]] • [[All Quiet On the Western Front]]
 
 https://www.imdb.com/title/tt1016150/
 

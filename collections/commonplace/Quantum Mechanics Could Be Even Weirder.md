@@ -9,7 +9,7 @@ date: 2016-06-26
 permalink: 2016/06/26/philip-ball-quantum-mechanics-could-be-even-weirder
 ---
 
-[[2016]] • [[commonplace]] • [[Philip Ball]] • [[The Atlantic]]
+[[2016]] • [[Commonplace]] • [[Philip Ball]] • [[The Atlantic]]
 
 https://www.theatlantic.com/science/archive/2016/06/quantum-mechanics-weird/487691/
 

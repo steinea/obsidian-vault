@@ -9,7 +9,7 @@ date: 2016-02-10
 permalink: 2016/02/10/s-c-hickman-the-neurocognitive-revolution
 ---
 
-[[2016]] • [[commonplace]] • [[S. C. Hickman]] • [[Social Ecologies]]
+[[2016]] • [[Commonplace]] • [[S. C. Hickman]] • [[Social Ecologies]]
 
 https://socialecologies.wordpress.com/2016/01/26/the-neurocognitive-revolution-triumph-or-undoing/
 

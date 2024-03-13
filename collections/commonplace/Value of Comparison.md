@@ -9,7 +9,7 @@ date: 2014-03-17
 permalink: 2014/03/17/lydia-davis-value-of-comparison
 ---
 
-[[2014]] • [[commonplace]] • [[Lydia Davis]] • [[The New Yorker]]
+[[2014]] • [[Commonplace]] • [[Lydia Davis]] • [[The New Yorker]]
 
 https://www.newyorker.com/magazine/2014/03/17/long-story-short
 

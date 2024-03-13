@@ -9,7 +9,7 @@ date: 2016-05-08
 permalink: 2016/05/08/claire-fontaine-our-common-critical-condition
 ---
 
-[[2016]] • [[commonplace]] • [[Claire Fontaine]] • [[e-flux]]
+[[2016]] • [[Commonplace]] • [[Claire Fontaine]] • [[e-flux]]
 
 http://www.e-flux.com/journal/our-common-critical-condition/
 

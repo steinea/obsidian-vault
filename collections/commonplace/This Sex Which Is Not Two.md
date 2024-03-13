@@ -9,7 +9,7 @@ date: 2016-02-17
 permalink: 2016/02/17/azeen-ghorayshi-this-sex-which-is-not-two
 ---
 
-[[2016]] • [[commonplace]] • [[Azeen Ghorayshi]] • [[The New Inquiry]]
+[[2016]] • [[Commonplace]] • [[Azeen Ghorayshi]] • [[The New Inquiry]]
 
 http://thenewinquiry.com/essays/this-sex-which-is-not-two/
 

@@ -9,7 +9,7 @@ date: 2016-02-15
 permalink: 2016/02/15/bruce-dorminey-this-is-how-to-check-whether-spacetime-is-foamy
 ---
 
-[[2016]] • [[commonplace]] • [[Bruce Dorminey]] • [[Nautilus]]
+[[2016]] • [[Commonplace]] • [[Bruce Dorminey]] • [[Nautilus]]
 
 http://nautil.us/blog/this-is-how-to-check-whether-spacetime-is-foamy
 

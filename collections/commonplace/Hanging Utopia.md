@@ -9,7 +9,7 @@ date: 2014-10-13
 permalink: 2014/10/13/kevin-goddard-hanging-utopia
 ---
 
-[[2014]] • [[commonplace]] • [[Kevin Goddard]] • [[Arizona Quarterly]] • [[Billy Budd, Sailor]]
+[[2014]] • [[Commonplace]] • [[Kevin Goddard]] • [[Arizona Quarterly]] • [[Billy Budd, Sailor]]
 
 https://muse.jhu.edu/article/444592
 

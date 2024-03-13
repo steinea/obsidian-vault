@@ -9,7 +9,7 @@ date: 2016-10-26
 permalink: 2016/10/26/rachel-elizabeth-jones-expressed-in-fits
 ---
 
-[[2016]] • [[commonplace]] • [[Rachel Elizabeth Jones]] • [[The New Inquiry]]
+[[2016]] • [[Commonplace]] • [[Rachel Elizabeth Jones]] • [[The New Inquiry]]
 
 http://thenewinquiry.com/essays/expressed-in-fits/
 

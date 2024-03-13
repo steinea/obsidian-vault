@@ -9,7 +9,7 @@ date: 2016-05-01
 permalink: 2016/05/01/terence-blake-is-philosophy-problem-solving
 ---
 
-[[2016]] • [[commonplace]] • [[Terence Blake]] • [[Agent Swarm]]
+[[2016]] • [[Commonplace]] • [[Terence Blake]] • [[Agent Swarm]]
 
 https://terenceblake.wordpress.com/2016/04/28/is-philosophy-problem-solving-a-badiousian-reply/
 

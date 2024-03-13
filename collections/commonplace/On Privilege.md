@@ -9,7 +9,7 @@ date: 2014-09-25
 permalink: 2014/09/25/n-plus-one-editors-on-privilege
 ---
 
-[[2014]] • [[commonplace]] • [[n+1]]
+[[2014]] • [[Commonplace]] • [[n+1]]
 
 https://www.nplusonemag.com/issue-20/the-intellectual-situation/on-privilege/
 

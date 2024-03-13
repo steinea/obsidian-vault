@@ -9,7 +9,7 @@ date: 2017-07-20
 permalink: 2017/07/20/david-sims-a-one-of-a-kind-space-odyssey
 ---
 
-[[2017]] • [[commonplace]] • [[David Sims]] • [[The Atlantic]] 
+[[2017]] • [[Commonplace]] • [[David Sims]] • [[The Atlantic]] 
 
 https://www.theatlantic.com/entertainment/archive/2017/07/valerian-and-the-city-of-a-thousand-planets-review/534249/
 

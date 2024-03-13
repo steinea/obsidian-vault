@@ -9,7 +9,7 @@ date: 2016-12-25
 permalink: 2016/12/25/shoshana-olidort-alice-notley-between-the-living-and-the-dead
 ---
 
-[[2016]] • [[commonplace]] • [[Shoshana Olidort]] • [[Alice Notley]] • [[Los Angeles Review of Books]]
+[[2016]] • [[Commonplace]] • [[Shoshana Olidort]] • [[Alice Notley]] • [[Los Angeles Review of Books]]
 
 https://lareviewofbooks.org/article/between-the-living-and-the-dead-an-interview-with-alice-notley/
 

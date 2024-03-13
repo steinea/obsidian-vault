@@ -9,7 +9,7 @@ date: 2015-07-27
 permalink: 2015/07/27/robin-wright-inside-the-iran-talks
 ---
 
-[[2015]] • [[commonplace]] • [[Robin Wright]] • [[The New Yorker]] 
+[[2015]] • [[Commonplace]] • [[Robin Wright]] • [[The New Yorker]] 
 
 https://www.newyorker.com/magazine/2015/07/27/tehrans-promise
 

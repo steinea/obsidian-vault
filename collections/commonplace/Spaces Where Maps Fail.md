@@ -9,7 +9,7 @@ date: 2015-07-14
 permalink: 2015/07/14/john-rieder-spaces-where-maps-fail
 ---
 
-[[2015]] • [[commonplace]] • [[John Rieder]] • [[Los Angeles Review of Books]] 
+[[2015]] • [[Commonplace]] • [[John Rieder]] • [[Los Angeles Review of Books]] 
 
 https://lareviewofbooks.org/article/spaces-where-maps-fail/
 

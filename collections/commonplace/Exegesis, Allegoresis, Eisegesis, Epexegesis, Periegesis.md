@@ -9,7 +9,7 @@ date: 2015-07-01
 permalink: 2015/07/01/oxford-english-dictionary-exegesis-allegoresis-eisegesis-epexegesis-periegesis
 ---
 
-[[2015]] • [[commonplace]] • [[Oxford English Dictionary]] 
+[[2015]] • [[Commonplace]] • [[Oxford English Dictionary]] 
 
 https://www.oed.com/
 

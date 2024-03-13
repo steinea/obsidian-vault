@@ -9,7 +9,7 @@ date: 2014-12-08
 permalink: 2014/12/08/george-bernard-shaw-apples
 ---
 
-[[2014]] • [[commonplace]] • [[George Bernard Shaw]] • [[Asymptote Journal]]
+[[2014]] • [[Commonplace]] • [[George Bernard Shaw]] • [[Asymptote Journal]]
 
 http://www.asymptotejournal.com/about.php#sthash.5CnYTCit.dpuf
 

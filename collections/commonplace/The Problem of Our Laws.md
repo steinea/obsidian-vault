@@ -9,7 +9,7 @@ date: 2015-07-19
 permalink: 2015/07/19/franz-kafka-the-problem-of-our-laws
 ---
 
-[[2015]] • [[commonplace]] • [[Franz Kafka]] • [[London Review of Books]] 
+[[2015]] • [[Commonplace]] • [[Franz Kafka]] • [[London Review of Books]] 
 
 https://www.lrb.co.uk/the-paper/v37/n14/franz-kafka/short-cuts
 

@@ -9,7 +9,7 @@ date: 2017-02-09
 permalink: 2017/02/09/krista-tippett-alain-de-botton-the-true-hard-work-of-love-and-relationships
 ---
 
-[[2017]] • [[commonplace]] • [[Krista Tippett]] • [[Alain de Botton]] 
+[[2017]] • [[Commonplace]] • [[Krista Tippett]] • [[Alain de Botton]] 
 
 http://www.onbeing.org/programs/alain-de-botton-the-true-hard-work-of-love-and-relationships/
 

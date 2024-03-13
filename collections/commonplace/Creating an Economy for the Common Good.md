@@ -9,7 +9,7 @@ date: 2016-02-05
 permalink: 2016/02/05/charles-felber-creating-an-economy-for-the-common-good
 ---
 
-[[2016]] • [[commonplace]] • [[Charles Felber]] • [[Peace News]]
+[[2016]] • [[Commonplace]] • [[Charles Felber]] • [[Peace News]]
 
 http://peacenews.info/node/8306/charles-felber-change-everything-creating-economy-common-good
 

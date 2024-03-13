@@ -9,7 +9,7 @@ date: 2016-01-15
 permalink: 2016/01/15/will-partin-when-a-video-games-world-ends
 ---
 
-[[2016]] • [[commonplace]] • [[Will Partin]] • [[The Atlantic]]
+[[2016]] • [[Commonplace]] • [[Will Partin]] • [[The Atlantic]]
 
 http://www.theatlantic.com/entertainment/archive/2016/01/when-a-video-game-world-ends/423360/
 

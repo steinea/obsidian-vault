@@ -9,7 +9,7 @@ date: 2016-01-14
 permalink: 2016/01/14/cajetan-nwabueze-iheka-pathologies-of-organized-violence
 ---
 
-[[2016]] • [[commonplace]] • [[Cajetan Nwabueze Iheka]] • [[Los Angeles Review of Books]]
+[[2016]] • [[Commonplace]] • [[Cajetan Nwabueze Iheka]] • [[Los Angeles Review of Books]]
 
 http://lareviewofbooks.org/review/the-pathologies-of-organized-violence/
 

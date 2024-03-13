@@ -9,7 +9,7 @@ date: 2017-10-31
 permalink: 2017/10/31/terence-blake-zizeks-deleuze-lacan-pact
 ---
 
-[[2017]] • [[commonplace]] • [[Terence Blake]] • [[Agent Swarm]] 
+[[2017]] • [[Commonplace]] • [[Terence Blake]] • [[Agent Swarm]] 
 
 https://terenceblake.wordpress.com/2017/10/31/zizeks-deleuzelacan-pact-an-ongoing-project/
 

@@ -9,7 +9,7 @@ date: 2017-04-11
 permalink: 2017/04/11/christopher-benfey-apart-together
 ---
 
-[[2017]] • [[commonplace]] • [[Christopher Benfey]] • [[Apart Together]] 
+[[2017]] • [[Commonplace]] • [[Christopher Benfey]] • [[Apart Together]] 
 
 http://www.nybooks.com/daily/2016/12/10/distance-apart-together/
 

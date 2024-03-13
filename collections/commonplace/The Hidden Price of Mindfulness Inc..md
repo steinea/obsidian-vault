@@ -9,7 +9,7 @@ date: 2016-07-14
 permalink: 2016/07/14/david-gelles-the-hidden-price-of-mindfulness-inc
 ---
 
-[[2016]] • [[commonplace]] • [[David Gelles]] • [[The New York Times]]
+[[2016]] • [[Commonplace]] • [[David Gelles]] • [[The New York Times]]
 
 http://www.nytimes.com/2016/03/20/opinion/sunday/the-hidden-price-of-mindfulness-inc.html
 

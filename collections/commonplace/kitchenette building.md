@@ -9,7 +9,7 @@ date: 2015-09-19
 permalink: 2015/09/19/gwendolyn-brooks-kitchenette-building
 ---
 
-[[2015]] • [[commonplace]] • [[Gwendolyn Brooks]] • [[Poetry Foundation]]
+[[2015]] • [[Commonplace]] • [[Gwendolyn Brooks]] • [[Poetry Foundation]]
 
 https://www.poetryfoundation.org/poems/43308/kitchenette-building
 

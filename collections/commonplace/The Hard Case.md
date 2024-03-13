@@ -9,7 +9,7 @@ date: 2014-10-19
 permalink: 2014/10/19/gregg-crane-the-hard-case
 ---
 
-[[2014]] • [[commonplace]] • [[Gregg Crane]] • [[University of Toronto Quarterly]] • [[Billy Budd, Sailor]]
+[[2014]] • [[Commonplace]] • [[Gregg Crane]] • [[University of Toronto Quarterly]] • [[Billy Budd, Sailor]]
 
 https://utpjournals.press/doi/10.3138/utq.82.4.889
 

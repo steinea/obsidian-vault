@@ -9,7 +9,7 @@ date: 2014-04-14
 permalink: 2014/04/14/daniel-baird-no-place-to-hide
 ---
 
-[[2014]] • [[commonplace]] • [[Daniel Baird]] • [[The Walrus]]
+[[2014]] • [[Commonplace]] • [[Daniel Baird]] • [[The Walrus]]
 
 https://thewalrus.ca/no-place-to-hide/
 

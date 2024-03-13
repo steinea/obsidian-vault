@@ -9,7 +9,7 @@ date: 2023-12-26
 permalink: 2023/12/26/james-hibberd-on-taylor-sheridan
 ---
 
-[[2023]] • [[commonplace]] • [[James Hibberd]] • [[On Taylor Sheridan]]
+[[2023]] • [[Commonplace]] • [[James Hibberd]] • [[On Taylor Sheridan]]
 
 https://www.hollywoodreporter.com/tv/tv-features/taylor-sheridan-yellowstone-interview-1235519261/
 

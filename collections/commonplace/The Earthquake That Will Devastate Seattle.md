@@ -9,7 +9,7 @@ date: 2015-07-19
 permalink: 2015/07/19/kathryn-schulz-the-earthquake-that-will-devastate-seattle
 ---
 
-[[2015]] • [[commonplace]] • [[Kathryn Schulz]] • [[The New Yorker]]
+[[2015]] • [[Commonplace]] • [[Kathryn Schulz]] • [[The New Yorker]]
 
 https://www.newyorker.com/magazine/2015/07/20/the-really-big-one
 

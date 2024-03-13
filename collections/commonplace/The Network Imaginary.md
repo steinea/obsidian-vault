@@ -9,7 +9,7 @@ date: 2016-11-01
 permalink: 2016/11/01/mary-pappalardo-the-network-imaginary
 ---
 
-[[2016]] • [[commonplace]] • [[Mary Pappalardo]] • [[Los Angeles Review of Books]]
+[[2016]] • [[Commonplace]] • [[Mary Pappalardo]] • [[Los Angeles Review of Books]]
 
 https://lareviewofbooks.org/article/the-network-imaginary/
 

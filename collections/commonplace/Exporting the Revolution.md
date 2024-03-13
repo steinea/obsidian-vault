@@ -9,7 +9,7 @@ date: 2023-06-11
 permalink: 2023/06/11/bassem-saad-exporting-the-revolution
 ---
 
-[[2023]] • [[commonplace]] • [[Bassem Saad]] • [[The New Inquiry]]
+[[2023]] • [[Commonplace]] • [[Bassem Saad]] • [[The New Inquiry]]
 
 https://thenewinquiry.com/exporting-the-revolution/
  

@@ -9,7 +9,7 @@ date: 2015-12-01
 permalink: 2015/12/01/adam-zagajewski-try-to-praise-the-mutilated-world
 ---
 
-[[2015]] • [[commonplace]] • [[Adam Zagajewski]] • [[Without End]]
+[[2015]] • [[Commonplace]] • [[Adam Zagajewski]] • [[Without End]]
 
 https://us.macmillan.com/books/9780374528614/withoutend
 

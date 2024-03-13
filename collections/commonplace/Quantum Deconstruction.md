@@ -9,7 +9,7 @@ date: 2017-07-27
 permalink: 2017/07/27/terence-blake-quantum-deconstruction
 ---
 
-[[2017]] • [[commonplace]] • [[Terence Blake]] • [[Agent Swarm]] 
+[[2017]] • [[Commonplace]] • [[Terence Blake]] • [[Agent Swarm]] 
 
 https://terenceblake.wordpress.com/2017/07/27/reading-disparities-11-quantum-deconstruction-and-formal-causality/
 

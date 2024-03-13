@@ -9,7 +9,7 @@ date: 2015-05-15
 permalink: 2015/05/15/george-plimpton-ernest-hemingway-the-art-of-fiction-no-21
 ---
 
-[[2015]] • [[commonplace]] • [[George Plimpton]] • [[Ernest Hemingway]] • [[The Paris Review]] 
+[[2015]] • [[Commonplace]] • [[George Plimpton]] • [[Ernest Hemingway]] • [[The Paris Review]] 
 
 https://www.theparisreview.org/interviews/4825/the-art-of-fiction-no-21-ernest-hemingway
 

@@ -9,7 +9,7 @@ date: 2023-03-05
 permalink: 2023/03/05/elaine-graham-leigh-a-template-for-modern-oppression
 ---
 
-[[2023]] • [[commonplace]] • [[Elaine Graham-Leigh]] • [[Jacobin]]
+[[2023]] • [[Commonplace]] • [[Elaine Graham-Leigh]] • [[Jacobin]]
 
 https://jacobin.com/2023/01/albigensian-crusade-marxist-history-feudal-power-catholic-church-capitalism-oppression/
  

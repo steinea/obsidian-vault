@@ -9,7 +9,7 @@ date: 2015-12-22
 permalink: 2015/12/22/jason-z-resnikoff-hal-mother-and-father
 ---
 
-[[2015]] • [[commonplace]] • [[Jason Z. Resnikoff]] • [[The Paris Review]]
+[[2015]] • [[Commonplace]] • [[Jason Z. Resnikoff]] • [[The Paris Review]]
 
 https://www.theparisreview.org/blog/2015/01/09/hal-mother-and-father/
 

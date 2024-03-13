@@ -9,7 +9,7 @@ date: 2016-03-08
 permalink: 2016/03/08/jacqueline-steiger-myths-as-mitochondria
 ---
 
-[[2016]] • [[commonplace]] • [[Jacqueline Steiger]] • [[Los Angeles Review of Books]]
+[[2016]] • [[Commonplace]] • [[Jacqueline Steiger]] • [[Los Angeles Review of Books]]
 
 https://lareviewofbooks.org/review/myths-as-mitochondria/
 

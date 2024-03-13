@@ -9,7 +9,7 @@ date: 2015-02-12
 permalink: 2015/02/12/marilynne-robinson-existence-is-the-essential-thing
 ---
 
-[[2015]] • [[commonplace]] • [[Marilynne Robinson]] • [[Gilead]]
+[[2015]] • [[Commonplace]] • [[Marilynne Robinson]] • [[Gilead]]
 
 https://en.wikipedia.org/wiki/Gilead_(novel)
 

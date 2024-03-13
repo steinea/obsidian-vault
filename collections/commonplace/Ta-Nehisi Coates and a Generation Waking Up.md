@@ -9,7 +9,7 @@ date: 2015-07-22
 permalink: 2015/07/22/brit-bennett-ta-nehisi-coates-and-a-generation-waking-up
 ---
 
-[[2015]] • [[commonplace]] • [[Brit Bennett]] • [[The New Yorker]]
+[[2015]] • [[Commonplace]] • [[Brit Bennett]] • [[The New Yorker]]
 
 https://www.newyorker.com/culture/cultural-comment/ta-nehisi-coates-and-a-generation-waking-up
 

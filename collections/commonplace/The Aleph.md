@@ -9,7 +9,7 @@ date: 2015-07-21
 permalink: 2015/07/21/jorge-luis-borges-the-aleph
 ---
 
-[[2015]] • [[commonplace]] • [[Jorge Luis Borges]] • [[The Aleph and Other Stories]] 
+[[2015]] • [[Commonplace]] • [[Jorge Luis Borges]] • [[The Aleph and Other Stories]] 
 
 https://en.wikipedia.org/wiki/The_Aleph_(short_story)
 

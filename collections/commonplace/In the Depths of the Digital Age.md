@@ -9,7 +9,7 @@ date: 2016-07-25
 permalink: 2016/07/25/edward-mendelson-in-the-depths-of-the-digital-age
 ---
 
-[[2016]] • [[commonplace]] • [[Edward Mendelson]] • [[New York Review of Books]]
+[[2016]] • [[Commonplace]] • [[Edward Mendelson]] • [[New York Review of Books]]
 
 http://www.nybooks.com/articles/2016/06/23/depths-of-the-digital-age/
 

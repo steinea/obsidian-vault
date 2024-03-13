@@ -9,7 +9,7 @@ date: 2017-09-05
 permalink: 2017/09/05/david-sims-the-perfect-ending-for-twin-peaks
 ---
 
-[[2017]] • [[commonplace]] • [[David Sims]] • [[The Atlantic]] 
+[[2017]] • [[Commonplace]] • [[David Sims]] • [[The Atlantic]] 
 
 https://www.theatlantic.com/entertainment/archive/2017/09/david-lynch-found-the-perfect-ending-for-twin-peaks/538818/
 

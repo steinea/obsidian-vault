@@ -9,7 +9,7 @@ date: 2014-03-24
 permalink: 2014/03/24/tessa-hadley-chink-in-the-consciousness
 ---
 
-[[2014]] • [[commonplace]] • [[Tessa Hadley]] • [[The New Yorker]]
+[[2014]] • [[Commonplace]] • [[Tessa Hadley]] • [[The New Yorker]]
 
 http://www.newyorker.com/magazine/2014/03/24/under-the-sign-of-the-moon
 

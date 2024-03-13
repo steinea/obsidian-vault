@@ -9,7 +9,7 @@ date: 2016-02-15
 permalink: 2016/02/15/nick-ripatrazone-revisiting-the-power-and-the-glory-during-lent
 ---
 
-[[2016]] • [[commonplace]] • [[Nick Ripatrazone]] • [[The Atlantic]]
+[[2016]] • [[Commonplace]] • [[Nick Ripatrazone]] • [[The Atlantic]]
 
 http://www.theatlantic.com/entertainment/archive/2016/02/the-power-and-the-glory-lent-graham-greene/461820/
 

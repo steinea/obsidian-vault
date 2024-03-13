@@ -9,7 +9,7 @@ date: 2015-11-10
 permalink: 2015/11/10/jonathan-lethem-the-art-of-fiction-no-177
 ---
 
-[[2015]] • [[commonplace]] • [[Jonathan Lethem]] • [[The Paris Review]]
+[[2015]] • [[Commonplace]] • [[Jonathan Lethem]] • [[The Paris Review]]
 
 https://www.theparisreview.org/interviews/228/the-art-of-fiction-no-177-jonathan-lethem
 

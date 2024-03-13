@@ -9,7 +9,7 @@ date: 2015-07-16
 permalink: 2015/07/16/livia-gershon-money-and-power-at-strip-clubs
 ---
 
-[[2015]] • [[commonplace]] • [[Livia Gershon]] • [[JSTOR]] 
+[[2015]] • [[Commonplace]] • [[Livia Gershon]] • [[JSTOR]] 
 
 https://daily.jstor.org/money-power-strip-clubs/
 

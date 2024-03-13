@@ -9,7 +9,7 @@ date: 2014-04-25
 permalink: 2014/04/25/will-butler-google-glass-and-assistive-technology
 ---
 
-[[2014]] • [[commonplace]] • [[Will Butler]] • [[The Atlantic]]
+[[2014]] • [[Commonplace]] • [[Will Butler]] • [[The Atlantic]]
 
 https://www.theatlantic.com/technology/archive/2014/04/people-dont-like-google-glass-because-it-makes-them-seem-weak/360919/
 

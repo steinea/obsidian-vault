@@ -9,7 +9,7 @@ date: 2015-10-27
 permalink: 2015/10/27/dan-piepenbring-a-cataract-of-ruin
 ---
 
-[[2015]] • [[commonplace]] • [[Dan Piepenbring]] • [[The Paris Review]]
+[[2015]] • [[Commonplace]] • [[Dan Piepenbring]] • [[The Paris Review]]
 
 https://www.theparisreview.org/blog/2015/10/26/a-cataract-of-ruin/
 

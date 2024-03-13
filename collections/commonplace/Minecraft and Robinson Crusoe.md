@@ -9,7 +9,7 @@ date: 2017-02-26
 permalink: 2017/02/26/josef-nguyen-minecraft-and-robinson-crusoe
 ---
 
-[[2017]] • [[commonplace]] • [[Josef Nguyen]] • [[John Hopkins University Press]] 
+[[2017]] • [[Commonplace]] • [[Josef Nguyen]] • [[John Hopkins University Press]] 
 
 https://www.press.jhu.edu/news/blog/minecraft-and-robinson-crusoe
 

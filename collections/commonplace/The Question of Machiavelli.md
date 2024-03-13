@@ -9,7 +9,7 @@ date: 2015-10-26
 permalink: 2015/10/26/isaiah-berlin-the-question-of-machiavelli
 ---
 
-[[2015]] • [[commonplace]] • [[Isaiah Berlin]] • [[New York Review of Books]]
+[[2015]] • [[Commonplace]] • [[Isaiah Berlin]] • [[New York Review of Books]]
 
 https://www.nybooks.com/articles/1971/11/04/a-special-supplement-the-question-of-machiavelli/
 

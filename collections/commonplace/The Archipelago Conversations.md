@@ -9,7 +9,7 @@ date: 2023-06-11
 permalink: 2023/06/11/hans-ulrich-obrist-edouard-glissant-the-archipelago-conversations
 ---
 
-[[2023]] • [[commonplace]] • [[Hans Ulrich Obrist]] • [[Édouard Glissant]] • [[European Review of Books]]
+[[2023]] • [[Commonplace]] • [[Hans Ulrich Obrist]] • [[Édouard Glissant]] • [[European Review of Books]]
 
 https://europeanreviewofbooks.com/hans-ulrich-obrist-interviews-edouard-glissant/en
  

@@ -9,7 +9,7 @@ date: 2017-03-16
 permalink: 2017/03/16/nicholas-royle-jacques-derrida-fiction-and-figure
 ---
 
-[[2017]] • [[commonplace]] • [[Nicholas Royle]] • [[Jacques Derrida]] 
+[[2017]] • [[Commonplace]] • [[Nicholas Royle]] • [[Jacques Derrida]] 
 
 https://www.sup.org/books/title/?id=4919
 

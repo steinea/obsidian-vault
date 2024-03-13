@@ -9,7 +9,7 @@ date: 2014-11-01
 permalink: 2014/11/01/robert-post-whos-afraid-of-jurispathic-courts
 ---
 
-[[2014]] • [[commonplace]] • [[Robert Post]] • [[Yale Journal of Law & the Humanities]] • [[Billy Budd, Sailor]]
+[[2014]] • [[Commonplace]] • [[Robert Post]] • [[Yale Journal of Law & the Humanities]] • [[Billy Budd, Sailor]]
 
 https://openyls.law.yale.edu/handle/20.500.13051/7365
 

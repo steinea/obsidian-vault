@@ -9,7 +9,7 @@ date: 2015-03-15
 permalink: 2015/03/15/muhammad-the-gates-of-paradise-lie-in-the-shadow-of-the-sword
 ---
 
-[[2015]] • [[commonplace]] • [[Muhammad]] • [[constellation/books/In the Shadow of the Sword]]
+[[2015]] • [[Commonplace]] • [[Muhammad]] • [[constellation/books/In the Shadow of the Sword]]
 
 https://en.wikipedia.org/wiki/In_the_Shadow_of_the_Sword_(book)
 

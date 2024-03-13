@@ -9,7 +9,7 @@ date: 2023-12-26
 permalink: 2023/12/26/rebecca-carlson-a-vocabulary-for-junk
 ---
 
-[[2023]] • [[commonplace]] • [[Rebecca Carlson]] • [[Platypus]]
+[[2023]] • [[Commonplace]] • [[Rebecca Carlson]] • [[Platypus]]
 
 https://blog.castac.org/2023/07/a-vocabulary-for-junk-in-four-movements/
 

@@ -9,7 +9,7 @@ date: 2015-10-24
 permalink: 2015/10/24/george-herbert-discipline
 ---
 
-[[2015]] • [[commonplace]] • [[George Herbert]] • [[Poetry Foundation]]
+[[2015]] • [[Commonplace]] • [[George Herbert]] • [[Poetry Foundation]]
 
 https://www.poetryfoundation.org/poems/50702/discipline
 

@@ -9,7 +9,7 @@ date: 2016-10-08
 permalink: 2016/10/08/victoria-pitts-taylor-mirroring-and-mattering
 ---
 
-[[2016]] • [[commonplace]] • [[Victoria Pitts-Taylor]] • [[Los Angeles Review of Books]]
+[[2016]] • [[Commonplace]] • [[Victoria Pitts-Taylor]] • [[Los Angeles Review of Books]]
 
 https://lareviewofbooks.org/article/mirroring-and-mattering-science-politics-and-the-new-feminist-materialism/
 

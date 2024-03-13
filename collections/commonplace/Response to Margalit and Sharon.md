@@ -9,7 +9,7 @@ date: 2016-10-10
 permalink: 2016/10/10/michael-walzer-response-to-margalit-and-sharon
 ---
 
-[[2016]] • [[commonplace]] • [[Michael Walzer]] • [[Boston Review]]
+[[2016]] • [[Commonplace]] • [[Michael Walzer]] • [[Boston Review]]
 
 https://bostonreview.net/forum/confronting-religious-revivalism/michael-walzer-try-try-again
 

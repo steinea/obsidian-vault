@@ -9,7 +9,7 @@ date: 2015-10-01
 permalink: 2015/10/01/rainer-maria-rilke-archaic-torso-of-apollo
 ---
 
-[[2015]] • [[commonplace]] • [[Rainer Maria Rilke]] • [[Poets]]
+[[2015]] • [[Commonplace]] • [[Rainer Maria Rilke]] • [[Poets]]
 
 https://poets.org/poem/archaic-torso-apollo
 

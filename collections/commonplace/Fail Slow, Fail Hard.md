@@ -9,7 +9,7 @@ date: 2015-08-28
 permalink: 2015/08/28/martin-woessner-fail-slow-fail-hard
 ---
 
-[[2015]] • [[commonplace]] • [[Martin Woessner]] • [[Los Angeles Review of Books]]
+[[2015]] • [[Commonplace]] • [[Martin Woessner]] • [[Los Angeles Review of Books]]
 
 https://lareviewofbooks.org/article/fail-slow-fail-hard-heidegger/
 

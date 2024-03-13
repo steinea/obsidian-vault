@@ -9,7 +9,7 @@ date: 2015-04-18
 permalink: 2015/04/18/tom-kizzia-roommates-on-mars
 ---
 
-[[2015]] • [[commonplace]] • [[Tom Kizzia]] • [[The New Yorker]] 
+[[2015]] • [[Commonplace]] • [[Tom Kizzia]] • [[The New Yorker]] 
 
 https://www.newyorker.com/magazine/2015/04/20/moving-to-mars
 

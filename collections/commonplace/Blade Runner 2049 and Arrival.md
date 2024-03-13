@@ -9,7 +9,7 @@ date: 2017-10-11
 permalink: 2017/10/11/terence-blake-blade-runner-2049-and-arrival
 ---
 
-[[2017]] • [[commonplace]] • [[Terence Blake]] • [[Agent Swarm]]
+[[2017]] • [[Commonplace]] • [[Terence Blake]] • [[Agent Swarm]]
 
 https://terenceblake.wordpress.com/2017/10/11/blade-runner-2049-and-arrival-a-pedagogical-cinema/
  

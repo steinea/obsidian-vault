@@ -9,7 +9,7 @@ date: 2016-03-08
 permalink: 2016/03/08/ed-yong-babies-are-more-reflective-than-we-thought
 ---
 
-[[2016]] • [[commonplace]] • [[Ed Yong]] • [[The Atlantic]]
+[[2016]] • [[Commonplace]] • [[Ed Yong]] • [[The Atlantic]]
 
 http://www.theatlantic.com/science/archive/2016/03/babies-know-when-they-know/472539/
 

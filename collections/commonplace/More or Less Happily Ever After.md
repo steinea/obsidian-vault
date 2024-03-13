@@ -9,7 +9,7 @@ date: 2014-02-02
 permalink: 2014/02/02/robert-coover-more-or-less-happily-ever-after
 ---
 
-[[2014]] • [[commonplace]] • [[Robert Coover]] • [[The New Yorker]]
+[[2014]] • [[Commonplace]] • [[Robert Coover]] • [[The New Yorker]]
 
 https://www.newyorker.com/magazine/2014/01/27/the-frog-prince
 

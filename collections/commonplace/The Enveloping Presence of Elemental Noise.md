@@ -9,7 +9,7 @@ date: 2014-10-09
 permalink: 2014/10/09/john-luther-adams-noise
 ---
 
-[[2014]] • [[commonplace]] • [[John Luther Adams]] • [[Strange and Sacred Noise]]
+[[2014]] • [[Commonplace]] • [[John Luther Adams]] • [[Strange and Sacred Noise]]
 
 https://www.johnlutheradams.net/strange-and-sacred-noise-essay/
 

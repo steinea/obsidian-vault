@@ -9,7 +9,7 @@ date: 2017-03-16
 permalink: 2017/03/16/riccardo-manzotti-tim-parks-the-mind-in-the-whirlwind
 ---
 
-[[2017]] • [[commonplace]] • [[Riccardo Manzotti]] • [[Tim Parks]] • [[New York Review of Books]] 
+[[2017]] • [[Commonplace]] • [[Riccardo Manzotti]] • [[Tim Parks]] • [[New York Review of Books]] 
 
 http://www.nybooks.com/daily/2017/03/16/consciousness-mind-in-the-whirlwind/
 

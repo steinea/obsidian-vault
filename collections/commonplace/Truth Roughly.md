@@ -9,7 +9,7 @@ date: 2015-11-04
 permalink: 2015/11/04/greggory-j-favre-truth-roughly
 ---
 
-[[2015]] • [[commonplace]] • [[Greggory J. Favre]] • [[The White Hat Syndicate]]
+[[2015]] • [[Commonplace]] • [[Greggory J. Favre]] • [[The White Hat Syndicate]]
 
 https://medium.com/homeland-security/aristotle-s-truth-roughly-the-impact-of-human-trust-e397d34f7dd0
 

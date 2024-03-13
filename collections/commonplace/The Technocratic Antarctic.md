@@ -9,7 +9,7 @@ date: 2017-02-16
 permalink: 2017/02/16/stefan-helmreich-jessica-o-reilly-the-technocratic-antarctic
 ---
 
-[[2017]] • [[commonplace]] • [[Stefan Helmreich]] • [[Jessica O'Reilly]] • [[Platypus]] 
+[[2017]] • [[Commonplace]] • [[Stefan Helmreich]] • [[Jessica O'Reilly]] • [[Platypus]] 
 
 http://blog.castac.org/2017/02/technocratic-antarctic/
 

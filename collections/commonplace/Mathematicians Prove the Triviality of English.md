@@ -9,7 +9,7 @@ date: 2015-11-17
 permalink: 2015/11/17/alex-bellos-mathematicians-prove-the-triviality-of-english
 ---
 
-[[2015]] • [[commonplace]] • [[Alex Bellos]] • [[The Guardian]]
+[[2015]] • [[Commonplace]] • [[Alex Bellos]] • [[The Guardian]]
 
 https://www.theguardian.com/science/alexs-adventures-in-numberland/2015/oct/29/mathematicians-prove-the-triviality-of-english
 

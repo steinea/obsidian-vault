@@ -9,7 +9,7 @@ date: 2017-02-02
 permalink: 2017/02/02/karen-gregory-kirsty-hendry-jake-watts-dave-young-selfwork
 ---
 
-[[2017]] • [[commonplace]] • [[Karen Gregory]] • [[Kirsty Hendry]] • [[Jake Watts]] • [[Dave Young]] • [[Really Bad Chess]] 
+[[2017]] • [[Commonplace]] • [[Karen Gregory]] • [[Kirsty Hendry]] • [[Jake Watts]] • [[Dave Young]] • [[Really Bad Chess]] 
 
 https://reallifemag.com/selfwork/
 

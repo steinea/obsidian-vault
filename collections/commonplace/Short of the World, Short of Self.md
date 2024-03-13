@@ -9,7 +9,7 @@ date: 2023-03-06
 permalink: 2023/03/06/a-k-parris-short-of-the-world-short-of-self
 ---
 
-[[2023]] • [[commonplace]] • [[A. K. Parris]] • [[Ill Will]]
+[[2023]] • [[Commonplace]] • [[A. K. Parris]] • [[Ill Will]]
 
 https://illwill.com/short-of-the-world-short-of-self
  

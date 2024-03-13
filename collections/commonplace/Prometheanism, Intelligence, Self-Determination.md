@@ -9,7 +9,7 @@ date: 2016-02-10
 permalink: 2016/02/10/s-c-hickman-prometheanism-intelligence-self-determination
 ---
 
-[[2016]] • [[commonplace]] • [[S. C. Hickman]] • [[Social Ecologies]]
+[[2016]] • [[Commonplace]] • [[S. C. Hickman]] • [[Social Ecologies]]
 
 https://socialecologies.wordpress.com/2016/01/13/reza-negarestani-prometheanism-intelligence-self-determination/
 

@@ -9,7 +9,7 @@ date: 2023-10-16
 permalink: 2023/10/16/ben-hooyman-a-gargantuan-pulp-sphinx
 ---
 
-[[2023]] • [[commonplace]] • [[Ben Hooyman]] • [[Los Angeles Review of Books]]
+[[2023]] • [[Commonplace]] • [[Ben Hooyman]] • [[Los Angeles Review of Books]]
 
 https://lareviewofbooks.org/article/article-a-gargantuan-pulp-sphinx-on-miquel-de-palols-the-garden-of-seven-twilights/
 

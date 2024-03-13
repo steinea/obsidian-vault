@@ -9,7 +9,7 @@ date: 2016-01-29
 permalink: 2016/01/29/immanuel-kant-the-impossibility-of-a-sceptical-satisfaction-of-pure-reason
 ---
 
-[[2016]] • [[commonplace]] • [[Immanuel Kant]] • [[Marxists]]
+[[2016]] • [[Commonplace]] • [[Immanuel Kant]] • [[Marxists]]
 
 https://www.marxists.org/reference/subject/ethics/kant/reason/ch04.htm
 

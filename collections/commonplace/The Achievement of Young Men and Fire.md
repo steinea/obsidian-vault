@@ -9,7 +9,7 @@ date: 2015-09-25
 permalink: 2015/09/25/alan-thomas-the-achievement-of-young-men-and-fire
 ---
 
-[[2015]] • [[commonplace]] • [[Alan Thomas]] • [[Los Angeles Review of Books]]
+[[2015]] • [[Commonplace]] • [[Alan Thomas]] • [[Los Angeles Review of Books]]
 
 https://lareviewofbooks.org/article/the-achievement-of-young-men-and-fire/
 

@@ -9,7 +9,7 @@ date: 2016-10-09
 permalink: 2016/10/09/gregory-jones-katz-deconstruction-in-america
 ---
 
-[[2016]] • [[commonplace]] • [[Gregory Jones-Katz]] • [[Boston Review]]
+[[2016]] • [[Commonplace]] • [[Gregory Jones-Katz]] • [[Boston Review]]
 
 https://bostonreview.net/books-ideas/gregory-jones-katz-deconstruction-america
 

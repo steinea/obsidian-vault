@@ -9,7 +9,7 @@ date: 2015-02-26
 permalink: 2015/02/26/yanis-varoufakis-how-i-became-an-erratic-marxist
 ---
 
-[[2015]] • [[commonplace]] • [[Yanis Varoufakis]] • [[The Guardian]]
+[[2015]] • [[Commonplace]] • [[Yanis Varoufakis]] • [[The Guardian]]
 
 https://www.theguardian.com/news/2015/feb/18/yanis-varoufakis-how-i-became-an-erratic-marxist
 

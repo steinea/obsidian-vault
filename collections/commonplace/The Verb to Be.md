@@ -9,7 +9,7 @@ date: 2015-02-20
 permalink: 2015/02/20/andre-breton-the-verb-to-be
 ---
 
-[[2015]] • [[commonplace]] • [[André Breton]] • [[The Paris Review]]
+[[2015]] • [[Commonplace]] • [[André Breton]] • [[The Paris Review]]
 
 https://www.theparisreview.org/blog/2015/02/19/the-verb-to-be/
 

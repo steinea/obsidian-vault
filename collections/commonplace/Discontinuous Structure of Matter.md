@@ -9,7 +9,7 @@ date: 2016-03-07
 permalink: 2016/03/07/jean-baptiste-perrin-discontinuous-structure-of-matter
 ---
 
-[[2016]] • [[commonplace]] • [[Jean Baptiste Perrin]] • [[Nobel Prize]]
+[[2016]] • [[Commonplace]] • [[Jean Baptiste Perrin]] • [[Nobel Prize]]
 
 http://www.nobelprize.org/nobel_prizes/physics/laureates/1926/perrin-lecture.html
 

@@ -9,7 +9,7 @@ date: 2022-12-17
 permalink: 2022/12/16/andrew-lee-baby-heists
 ---
 
-[[2022]] • [[commonplace]] • [[Andrew Lee]] • [[The New Inquiry]]
+[[2022]] • [[Commonplace]] • [[Andrew Lee]] • [[The New Inquiry]]
 
 https://thenewinquiry.com/baby-heists/
 

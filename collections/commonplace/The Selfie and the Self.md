@@ -9,7 +9,7 @@ date: 2015-07-09
 permalink: 2015/07/09/menachem-wecker-the-selfie-and-the-self
 ---
  
-[[2015]] • [[commonplace]] • [[Menachem Wecker]] • [[The Atlantic]] 
+[[2015]] • [[Commonplace]] • [[Menachem Wecker]] • [[The Atlantic]] 
 
 https://www.theatlantic.com/entertainment/archive/2015/07/facebook-rainbow-filters-history-of-art/398057/
 

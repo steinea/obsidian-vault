@@ -9,7 +9,7 @@ date: 2016-01-16
 permalink: 2016/01/16/jean-paul-sartre-existentialism-is-a-humanism
 ---
 
-[[2016]] • [[commonplace]] • [[Jean-Paul Sartre]] • [[Marxists]]
+[[2016]] • [[Commonplace]] • [[Jean-Paul Sartre]] • [[Marxists]]
 
 https://www.marxists.org/reference/archive/sartre/works/exist/sartre.htm
 

@@ -9,7 +9,7 @@ date: 2014-05-23
 permalink: 2014/05/23/thomas-babington-macauley-how-can-man-die-better
 ---
 
-[[2014]] • [[commonplace]] • [[Thomas Babington Macaulay]] • [[Laws of Ancient Rome]]
+[[2014]] • [[Commonplace]] • [[Thomas Babington Macaulay]] • [[Laws of Ancient Rome]]
 
 https://en.wikipedia.org/wiki/Lays_of_Ancient_Rome
 

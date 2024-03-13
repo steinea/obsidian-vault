@@ -9,7 +9,7 @@ date: 2016-05-11
 permalink: 2016/05/11/gyorgy-lukacs-the-phenomenon-of-reification
 ---
 
-[[2016]] • [[commonplace]] • [[Gyorgy Lukács]] • [[Stanford Encyclopedia of Philosophy]]
+[[2016]] • [[Commonplace]] • [[Gyorgy Lukács]] • [[Stanford Encyclopedia of Philosophy]]
 
 https://plato.stanford.edu/entries/lukacs/
 

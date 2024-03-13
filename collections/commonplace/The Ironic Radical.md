@@ -9,7 +9,7 @@ date: 2023-12-11
 permalink: 2023/12/11/michael-s-roth-the-ironic-radical
 ---
 
-[[2023]] • [[commonplace]] • [[Michael S. Roth]] • [[Los Angeles Review of Books]]
+[[2023]] • [[Commonplace]] • [[Michael S. Roth]] • [[Los Angeles Review of Books]]
 
 https://lareviewofbooks.org/article/the-ironic-radical-on-hayden-whites-the-ethics-of-narrative/
 

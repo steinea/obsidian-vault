@@ -9,7 +9,7 @@ date: 2017-02-09
 permalink: 2017/02/09/kevin-hartnett-the-hidden-twist-to-making-a-mobius-strip
 ---
 
-[[2017]] • [[commonplace]] • [[Kevin Hartnett]] • [[Quanta Magazine]] 
+[[2017]] • [[Commonplace]] • [[Kevin Hartnett]] • [[Quanta Magazine]] 
 
 https://www.quantamagazine.org/20170209-mobius-strip-symplectic-geometry/
 

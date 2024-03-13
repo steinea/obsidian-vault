@@ -9,7 +9,7 @@ date: 2016-07-09
 permalink: 2016/07/09/michael-thomsen-loneliness-and-content-distribution
 ---
 
-[[2016]] • [[commonplace]] • [[Michael Thomsen]] • [[Real Life]]
+[[2016]] • [[Commonplace]] • [[Michael Thomsen]] • [[Real Life]]
 
 http://reallifemag.com/gemini-haptics/
 

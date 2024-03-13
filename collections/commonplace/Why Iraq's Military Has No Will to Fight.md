@@ -9,7 +9,7 @@ date: 2015-05-30
 permalink: 2015/05/30/matt-schiavenza-why-iraqs-military-has-no-will-to-fight
 ---
 
-[[2015]] • [[commonplace]] • [[Matt Schiavenza]] • [[The Atlantic]] 
+[[2015]] • [[Commonplace]] • [[Matt Schiavenza]] • [[The Atlantic]] 
 
 https://www.theatlantic.com/international/archive/2015/05/why-iraqs-military-has-no-will-to-fight/394067/
 

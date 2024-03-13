@@ -9,7 +9,7 @@ date: 2023-06-04
 permalink: 2023/06/04/max-paschall-the-lost-forest-gardens-of-europe
 ---
 
-[[2023]] • [[commonplace]] • [[Max Paschall]] • [[Resilience]]
+[[2023]] • [[Commonplace]] • [[Max Paschall]] • [[Resilience]]
 
 https://www.resilience.org/stories/2020-10-08/the-lost-forest-gardens-of-europe/
  

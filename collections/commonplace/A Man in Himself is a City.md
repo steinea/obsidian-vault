@@ -9,7 +9,7 @@ date: 2017-01-19
 permalink: 2017/01/19/charles-taylor-a-man-in-himself-is-a-city
 ---
 
-[[2017]] • [[commonplace]] • [[Charles Taylor]] • [[Los Angeles Review of Books]] 
+[[2017]] • [[Commonplace]] • [[Charles Taylor]] • [[Los Angeles Review of Books]] 
 
 https://lareviewofbooks.org/article/man-city-jim-jarmuschs-paterson/
 

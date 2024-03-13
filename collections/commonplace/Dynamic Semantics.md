@@ -9,7 +9,7 @@ date: 2016-07-23
 permalink: 2016/07/23/rick-nouwen-dynamic-semantics
 ---
 
-[[2016]] • [[commonplace]] • [[Rick Nouwen]] • [[Stanford Encyclopedia of Philosophy]]
+[[2016]] • [[Commonplace]] • [[Rick Nouwen]] • [[Stanford Encyclopedia of Philosophy]]
 
 http://plato.stanford.edu/entries/dynamic-semantics/
 

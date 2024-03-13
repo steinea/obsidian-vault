@@ -9,7 +9,7 @@ date: 2016-07-24
 permalink: 2016/07/24/robert-epstein-the-empty-brain
 ---
 
-[[2016]] • [[commonplace]] • [[Robert Epstein]] • [[Aeon]]
+[[2016]] • [[Commonplace]] • [[Robert Epstein]] • [[Aeon]]
 
 https://aeon.co/essays/your-brain-does-not-process-information-and-it-is-not-a-computer
 

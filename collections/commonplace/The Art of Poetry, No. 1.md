@@ -9,7 +9,7 @@ date: 2015-11-07
 permalink: 2015/11/07/t-s-eliot-the-art-of-poetry-no-1
 ---
 
-[[2015]] • [[commonplace]] • [[T. S. Eliot]] • [[The Paris Review]]
+[[2015]] • [[Commonplace]] • [[T. S. Eliot]] • [[The Paris Review]]
 
 https://www.theparisreview.org/interviews/4738/the-art-of-poetry-no-1-t-s-eliot
 

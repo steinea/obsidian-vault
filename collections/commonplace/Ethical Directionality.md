@@ -9,7 +9,7 @@ date: 2015-05-06
 permalink: 2015/05/06/lennard-davis-ethical-directionality
 ---
 
-[[2015]] • [[commonplace]] • [[Lennard Davis]] • [[Los Angeles Review of Books]] 
+[[2015]] • [[Commonplace]] • [[Lennard Davis]] • [[Los Angeles Review of Books]] 
 
 https://lareviewofbooks.org/article/the-sound-and-the-fury/
 

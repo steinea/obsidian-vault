@@ -9,7 +9,7 @@ date: 2016-10-16
 permalink: 2016/10/16/ryan-mcilvain-jonathan-lethem-provisionally-speaking
 ---
 
-[[2016]] • [[commonplace]] • [[Ryan McIlvain]] •[[Jonathan Lethem]] • [[Los Angeles Review of Books]]
+[[2016]] • [[Commonplace]] • [[Ryan McIlvain]] •[[Jonathan Lethem]] • [[Los Angeles Review of Books]]
 
 https://lareviewofbooks.org/article/provisionally-speaking-interview-jonathan-lethem/
 

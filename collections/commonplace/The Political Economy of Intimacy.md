@@ -9,7 +9,7 @@ date: 2016-07-14
 permalink: 2016/07/14/emma-dowling-the-political-economy-of-intimacy
 ---
 
-[[2016]] • [[commonplace]] • [[Emma Dowling]] • [[Verso]]
+[[2016]] • [[Commonplace]] • [[Emma Dowling]] • [[Verso]]
 
 http://www.versobooks.com/blogs/2499-love-s-labour-s-cost-the-political-economy-of-intimacy
 

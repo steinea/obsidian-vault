@@ -9,7 +9,7 @@ date: 2017-01-25
 permalink: 2017/01/25/mark-linsenmayer-quine-on-language-logic-and-science
 ---
 
-[[2017]] • [[commonplace]] • [[Mark Linsenmayer]] • [[Partially Examined Life]] 
+[[2017]] • [[Commonplace]] • [[Mark Linsenmayer]] • [[Partially Examined Life]] 
 
 https://partiallyexaminedlife.com/2012/10/17/topic-for-66-quine-on-language-logic-and-science/
 

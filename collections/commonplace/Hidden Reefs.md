@@ -9,7 +9,7 @@ date: 2015-07-31
 permalink: 2015/07/31/jude-hidden-reefs
 ---
 
-[[2015]] • [[commonplace]] • [[Jude]] • [[Bible]] 
+[[2015]] • [[Commonplace]] • [[Jude]] • [[Bible]] 
 
 https://en.wikipedia.org/wiki/Epistle_of_Jude
 

@@ -9,7 +9,7 @@ date: 2015-06-15
 permalink: 2015/06/15/aaron-bady-when-game-of-thrones-stopped-being-necessary
 ---
 
-[[2015]] • [[commonplace]] • [[Aaron Bady]] • [[The New Inquiry]] 
+[[2015]] • [[Commonplace]] • [[Aaron Bady]] • [[The New Inquiry]] 
 
 https://thenewinquiry.com/blog/when-game-of-thrones-stopped-being-necessary/
 

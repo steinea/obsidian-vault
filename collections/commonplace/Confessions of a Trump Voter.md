@@ -9,7 +9,7 @@ date: 2017-03-01
 permalink: 2017/03/01/phillip-hagerman-confessions-of-a-trump-voter
 ---
 
-[[2017]] • [[commonplace]] • [[Phillip Hagerman]] • [[Los Angeles Review of Books]] 
+[[2017]] • [[Commonplace]] • [[Phillip Hagerman]] • [[Los Angeles Review of Books]] 
 
 https://lareviewofbooks.org/article/confessions-of-a-trump-voter/
 

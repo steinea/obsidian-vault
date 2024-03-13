@@ -9,7 +9,7 @@ date: 2015-11-14
 permalink: 2015/11/14/judah-grunstein-no-longer-host-or-refugee
 ---
 
-[[2015]] • [[commonplace]] • [[Judah Grunstein]] • [[The Atlantic]]
+[[2015]] • [[Commonplace]] • [[Judah Grunstein]] • [[The Atlantic]]
 
 https://www.theatlantic.com/international/archive/2015/11/paris-attacks-refugees/416019/
 

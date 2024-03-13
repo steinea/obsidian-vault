@@ -9,7 +9,7 @@ date: 2016-10-23
 permalink: 2016/10/23/teju-cole-a-way-of-taking-in-the-world
 ---
 
-[[2016]] • [[commonplace]] • [[Teju Cole]] • [[Los Angeles Review of Books]]
+[[2016]] • [[Commonplace]] • [[Teju Cole]] • [[Los Angeles Review of Books]]
 
 https://lareviewofbooks.org/article/a-way-of-taking-in-the-world/
 

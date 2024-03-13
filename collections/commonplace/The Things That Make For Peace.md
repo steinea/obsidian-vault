@@ -9,7 +9,7 @@ date: 2015-12-22
 permalink: 2015/12/22/luke-the-things-that-make-for-peace
 ---
 
-[[2015]] • [[commonplace]] • [[Luke]] • [[Bible]]
+[[2015]] • [[Commonplace]] • [[Luke]] • [[Bible]]
 
 https://en.wikipedia.org/wiki/Luke_19
 

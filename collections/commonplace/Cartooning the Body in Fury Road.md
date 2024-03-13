@@ -9,7 +9,7 @@ date: 2015-08-21
 permalink: 2015/08/21/isabel-ortiz-cartooning-the-body-in-fury-road
 ---
 
-[[2015]] • [[commonplace]] • [[Isabel Ortiz]] • [[Los Angeles Review of Books]]
+[[2015]] • [[Commonplace]] • [[Isabel Ortiz]] • [[Los Angeles Review of Books]]
 
 https://lareviewofbooks.org/article/cartooning-the-body-in-mad-max-fury-road/
 

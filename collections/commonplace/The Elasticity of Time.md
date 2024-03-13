@@ -9,7 +9,7 @@ date: 2015-07-09
 permalink: 2015/07/09/maria-popova-the-elasticity-of-time
 ---
 
-[[2015]] • [[commonplace]] • [[Maria Popova]] • [[The Marginalian]] 
+[[2015]] • [[Commonplace]] • [[Maria Popova]] • [[The Marginalian]] 
 
 https://www.themarginalian.org/2015/05/04/virginia-woolf-orlando-time/
 

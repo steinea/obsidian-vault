@@ -9,7 +9,7 @@ date: 2015-08-25
 permalink: 2015/08/25/jess-whittlestone-is-it-ever-worth-not-knowing-the-truth
 ---
 
-[[2015]] • [[commonplace]] • [[Jess Whittlestone]] • [[Aeon]]
+[[2015]] • [[Commonplace]] • [[Jess Whittlestone]] • [[Aeon]]
 
 https://aeon.co/magazine/philosophy/is-it-ever-worth-not-knowing-the-truth
 

@@ -9,7 +9,7 @@ date: 2015-04-08
 permalink: 2015/04/08/james-r-mensch-violence-and-embodiment
 ---
 
-[[2015]] • [[commonplace]] • [[James R. Mensch]] • [[Open Democracy]]
+[[2015]] • [[Commonplace]] • [[James R. Mensch]] • [[Open Democracy]]
 
 https://www.opendemocracy.net/en/article/violence_and_embodiment/
 

@@ -9,7 +9,7 @@ date: 2017-07-01
 permalink: 2017/07/01/gregory-of-nyssa-quadriga
 ---
 
-[[2017]] • [[commonplace]] • [[Gregory of Nyssa]] • [[Wikipedia]] 
+[[2017]] • [[Commonplace]] • [[Gregory of Nyssa]] • [[Wikipedia]] 
 
 https://en.wikipedia.org/wiki/Allegorical_interpretation_of_the_Bible
 

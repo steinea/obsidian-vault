@@ -9,7 +9,7 @@ date: 2015-10-21
 permalink: 2015/10/21/najwan-darwish-a-moment-of-silence
 ---
 
-[[2015]] • [[commonplace]] • [[Najwan Darwish]] • [[Poetry Foundation]]
+[[2015]] • [[Commonplace]] • [[Najwan Darwish]] • [[Poetry Foundation]]
 
 https://www.poetryfoundation.org/poetrymagazine/poems/56904/a-moment-of-silence
 

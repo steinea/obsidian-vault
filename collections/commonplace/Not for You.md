@@ -9,7 +9,7 @@ date: 2016-07-23
 permalink: 2016/07/23/vicky-osterweil-not-for-you
 ---
 
-[[2016]] • [[commonplace]] • [[Vicky Osterweil]] • [[The New Inquiry]]
+[[2016]] • [[Commonplace]] • [[Vicky Osterweil]] • [[The New Inquiry]]
 
 http://thenewinquiry.com/essays/not-for-you/
 

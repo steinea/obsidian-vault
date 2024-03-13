@@ -9,7 +9,7 @@ date: 2014-09-05
 permalink: 2014/09/05/jean-baudrillard-on-simulation-and-skyrim
 ---
 
-[[2014]] • [[commonplace]] • [[Jean Baudrillard]] • [[Simulacra and Simulation]]
+[[2014]] • [[Commonplace]] • [[Jean Baudrillard]] • [[Simulacra and Simulation]]
 
 https://en.wikipedia.org/wiki/Simulacra_and_Simulation
 

@@ -9,7 +9,7 @@ date: 2015-01-24
 permalink: 2015/01/24/leo-tolstoy-chimera-of-the-present
 ---
 
-[[2015]] • [[commonplace]] • [[Leo Tolstoy]] • [[Salon]]
+[[2015]] • [[Commonplace]] • [[Leo Tolstoy]] • [[Salon]]
 
 http://www.salon.com/2015/01/11/leo_tolstoys_theory_of_everything/
 

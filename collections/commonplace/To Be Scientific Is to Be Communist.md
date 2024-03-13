@@ -9,7 +9,7 @@ date: 2023-06-03
 permalink: 2023/06/03/liam-kofi-bright-remco-heesen-to-be-scientific-is-to-be-communist
 ---
 
-[[2023]] • [[commonplace]] • [[Liam Kofi Bright]] • [[Remco Heesen]] • [[Social Epistemology]]
+[[2023]] • [[Commonplace]] • [[Liam Kofi Bright]] • [[Remco Heesen]] • [[Social Epistemology]]
 
 https://www.tandfonline.com/doi/full/10.1080/02691728.2022.2156308
  

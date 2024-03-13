@@ -9,7 +9,7 @@ date: 2015-05-02
 permalink: 2015/05/02/gregory-reid-the-upwardly-mobile-barista
 ---
  
-[[2015]] • [[commonplace]] • [[Gregory Reid]] • [[The Atlantic]] 
+[[2015]] • [[Commonplace]] • [[Gregory Reid]] • [[The Atlantic]] 
 
 https://www.theatlantic.com/magazine/archive/2015/05/the-upwardly-mobile-barista/389513/
 

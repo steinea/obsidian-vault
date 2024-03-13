@@ -9,7 +9,7 @@ date: 2015-07-22
 permalink: 2015/07/22/timothy-hodler-nick-sousanis-thinking-through-images
 ---
 
-[[2015]] • [[commonplace]] • [[Timothy Hodler]] • [[Nick Sousanis]] • [[The Paris Review]] 
+[[2015]] • [[Commonplace]] • [[Timothy Hodler]] • [[Nick Sousanis]] • [[The Paris Review]] 
 
 https://www.theparisreview.org/blog/2015/07/20/thinking-through-images-an-interview-with-nick-sousanis/
 

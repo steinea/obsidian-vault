@@ -9,7 +9,7 @@ date: 2023-10-09
 permalink: 2023/10/09/frederic-neyrat-satellite-signals-for-the-atlanta-forest
 ---
 
-[[2023]] • [[commonplace]] • [[Frédéric Neyrat]] • [[Ill Will]]
+[[2023]] • [[Commonplace]] • [[Frédéric Neyrat]] • [[Ill Will]]
 
 https://illwill.com/satellite-signals
 

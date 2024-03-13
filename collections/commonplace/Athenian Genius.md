@@ -9,7 +9,7 @@ date: 2016-02-10
 permalink: 2016/02/10/eric-weiner-athenian-genius
 ---
 
-[[2016]] • [[commonplace]] • [[Eric Weiner]] • [[Athenian Genius]]
+[[2016]] • [[Commonplace]] • [[Eric Weiner]] • [[Athenian Genius]]
 
 http://www.theatlantic.com/science/archive/2016/02/what-made-ancient-athens-a-city-of-genius/462009/
 

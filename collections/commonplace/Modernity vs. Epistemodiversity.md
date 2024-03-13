@@ -9,7 +9,7 @@ date: 2016-07-26
 permalink: 2016/07/26/maria-inigo-clavo-modernity-vs-epistemodiversity
 ---
 
-[[2016]] • [[commonplace]] • [[María Iñigo Clavo]] • [[e-flux]]
+[[2016]] • [[Commonplace]] • [[María Iñigo Clavo]] • [[e-flux]]
 
 http://www.e-flux.com/journal/modernity-vs-epistemodiversity/
 

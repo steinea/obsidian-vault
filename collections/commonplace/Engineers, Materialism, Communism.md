@@ -9,7 +9,7 @@ date: 2023-10-17
 permalink: 2023/10/17/nick-chavez-engineers-materialism-communism
 ---
 
-[[2023]] • [[commonplace]] • [[Nick Chavez]] • [[Notes From Below]]
+[[2023]] • [[Commonplace]] • [[Nick Chavez]] • [[Notes From Below]]
 
 https://notesfrombelow.org/article/engineers-and-communist-materialism
 

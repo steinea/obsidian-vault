@@ -9,7 +9,7 @@ date: 2017-01-18
 permalink: 2017/01/18/ann-louise-bardach-a-conversation-with-bernard-henry-levy
 ---
 
-[[2017]] • [[commonplace]] • [[Ann Louise Bardach]] • [[Los Angeles Review of Books]] 
+[[2017]] • [[Commonplace]] • [[Ann Louise Bardach]] • [[Los Angeles Review of Books]] 
 
 https://lareviewofbooks.org/article/conversation-bernard-henri-levy/
 

@@ -9,7 +9,7 @@ date: 2014-03-26
 permalink: 2014/03/26/george-packer-terms-of-crisis
 ---
 
-[[2014]] • [[commonplace]] • [[George Packer]] • [[The New Yorker]]
+[[2014]] • [[Commonplace]] • [[George Packer]] • [[The New Yorker]]
 
 http://www.newyorker.com/magazine/2014/03/31/terms-of-crisis
 

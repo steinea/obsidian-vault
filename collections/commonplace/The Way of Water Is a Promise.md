@@ -9,7 +9,7 @@ date: 2022-12-17
 permalink: 2022/12/17/dom-sinacola-avatar-the-way-of-water
 ---
 
-[[2022]] • [[commonplace]] • [[Dom Sinacola]] • [[Paste]]
+[[2022]] • [[Commonplace]] • [[Dom Sinacola]] • [[Paste]]
 
 https://www.pastemagazine.com/movies/james-cameron/avatar-way-of-water-review/
 

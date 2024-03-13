@@ -9,7 +9,7 @@ date: 2023-01-09
 permalink: 2023/01/09/charles-theel-doom-instead-of-glory
 ---
 
-[[2023]] • [[commonplace]] • [[Charles Theel]] • [[Polygon]]
+[[2023]] • [[Commonplace]] • [[Charles Theel]] • [[Polygon]]
 
 https://www.polygon.com/reviews/23416587/trophy-dark-review-rpg
  

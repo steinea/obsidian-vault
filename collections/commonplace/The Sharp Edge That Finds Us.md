@@ -9,7 +9,7 @@ date: 2016-03-14
 permalink: 2016/03/14/robert-l-kehoe-iii-the-sharp-edge-that-finds-us
 ---
 
-[[2016]] • [[commonplace]] • [[Robert L. Kehoe III]] • [[Los Angeles Review of Books]]
+[[2016]] • [[Commonplace]] • [[Robert L. Kehoe III]] • [[Los Angeles Review of Books]]
 
 https://lareviewofbooks.org/review/the-sharp-edge-that-finds-us-edward-mendelsons-moral-agents-and-the-question-what-is-man/
 

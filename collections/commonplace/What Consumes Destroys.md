@@ -9,7 +9,7 @@ date: 2015-08-12
 permalink: 2015/08/12/angel-luis-colon-what-consumes-destroys
 ---
 
-[[2015]] • [[commonplace]] • [[Angel Luis Colón]] • [[Los Angeles Review of Books]]
+[[2015]] • [[Commonplace]] • [[Angel Luis Colón]] • [[Los Angeles Review of Books]]
 
 https://lareviewofbooks.org/article/what-consumes-destroys-don-winslow/
 

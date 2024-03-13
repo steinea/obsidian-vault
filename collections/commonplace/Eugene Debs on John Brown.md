@@ -9,7 +9,7 @@ date: 2023-10-16
 permalink: 2023/10/16/eugene-debs-on-john-brown
 ---
 
-[[2023]] • [[commonplace]] • [[Eugene Debs]] • [[Jacobin]]
+[[2023]] • [[Commonplace]] • [[Eugene Debs]] • [[Jacobin]]
 
 https://jacobin.com/2022/01/socialist-party-america-slavery-abolitionism-race-debs-unpublished
 

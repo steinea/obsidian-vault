@@ -9,7 +9,7 @@ date: 2014-09-05
 permalink: 2014/09/05/tom-stern-on-analysis
 ---
 
-[[2014]] • [[commonplace]] • [[Tom Stern]] • [[Times Literary Supplement]]
+[[2014]] • [[Commonplace]] • [[Tom Stern]] • [[Times Literary Supplement]]
 
 http://www.the-tls.co.uk/articles/private/on-analysis/
 

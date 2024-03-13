@@ -9,7 +9,7 @@ date: 2016-08-17
 permalink: 2016/08/17/anne-fausto-sterling-pink-and-blue
 ---
 
-[[2016]] • [[commonplace]] • [[Anne Fausto-Sterling]] • [[Boston Review]]
+[[2016]] • [[Commonplace]] • [[Anne Fausto-Sterling]] • [[Boston Review]]
 
 http://bostonreview.net/wonders/anne-fausto-sterling-trans-kids
 

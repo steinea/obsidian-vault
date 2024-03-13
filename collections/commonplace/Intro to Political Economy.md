@@ -9,7 +9,7 @@ date: 2014-04-29
 permalink: 2014/04/29/jean-jacques-rousseau-intro-to-political-economy
 ---
 
-[[2014]] • [[commonplace]] • [[Jean-Jacques Rousseau]] • [[Discourse on Political Economy and The Social Contract]]
+[[2014]] • [[Commonplace]] • [[Jean-Jacques Rousseau]] • [[Discourse on Political Economy and The Social Contract]]
 
 https://global.oup.com/academic/product/discourse-on-political-economy-and-the-social-contract-9780199538966
 

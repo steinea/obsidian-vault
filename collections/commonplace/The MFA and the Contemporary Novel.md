@@ -9,7 +9,7 @@ date: 2016-03-09
 permalink: 2016/03/09/richard-jean-so-the-mfa-and-the-contemporary-novel
 ---
 
-[[2016]] • [[commonplace]] • [[Richard Jean So]] • [[The Atlantic]]
+[[2016]] • [[Commonplace]] • [[Richard Jean So]] • [[The Atlantic]]
 
 http://www.theatlantic.com/entertainment/archive/2016/03/mfa-creative-writing/462483/
 

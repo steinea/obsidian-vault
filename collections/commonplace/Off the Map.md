@@ -9,7 +9,7 @@ date: 2014-07-25
 permalink: 2014/07/25/alastair-bonnett-off-the-map
 ---
 
-[[2014]] • [[commonplace]] • [[Alastair Bonnett]] • [[Google Books]]
+[[2014]] • [[Commonplace]] • [[Alastair Bonnett]] • [[Google Books]]
 
 https://books.google.ca/books/about/Off_the_Map.html?id=abDfnQEACAAJ
 

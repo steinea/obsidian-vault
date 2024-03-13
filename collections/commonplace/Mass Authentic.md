@@ -9,7 +9,7 @@ date: 2016-12-21
 permalink: 2016/12/21/rob-horning-mass-authentic
 ---
 
-[[2016]] • [[commonplace]] • [[Rob Horning]] • [[The New Inquiry]]
+[[2016]] • [[Commonplace]] • [[Rob Horning]] • [[The New Inquiry]]
 
 http://thenewinquiry.com/blogs/marginal-utility/mass-authentic/
 

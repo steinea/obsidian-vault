@@ -9,7 +9,7 @@ date: 2016-07-24
 permalink: 2016/07/24/ayesha-siddiqi-our-brand-could-be-your-crisis
 ---
 
-[[2016]] • [[commonplace]] • [[Ayesha Siddiqi]] • [[The New Inquiry]]
+[[2016]] • [[Commonplace]] • [[Ayesha Siddiqi]] • [[The New Inquiry]]
 
 http://thenewinquiry.com/essays/our-brand-could-be-your-crisis/
 

@@ -9,7 +9,7 @@ date: 2017-12-17
 permalink: 2017/12/17/spencer-kornhaber-on-the-last-jedi-5
 ---
 
-[[2017]] • [[commonplace]] • [[Spencer Kornhaber]] • [[The Atlantic]] 
+[[2017]] • [[Commonplace]] • [[Spencer Kornhaber]] • [[The Atlantic]] 
 
 https://www.theatlantic.com/entertainment/archive/2017/12/the-last-jedi-twists-spoilers-star-wars-episode-viii/548402/
 

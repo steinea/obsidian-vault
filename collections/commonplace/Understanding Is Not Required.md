@@ -9,7 +9,7 @@ date: 2024-02-01
 permalink: 2024/02/01/cameron-kunzelman-understanding-is-not-required
 ---
 
-[[2024]] • [[commonplace]] • [[Cameron Kunzelman]] • [[Game Studies Study Buddies]]
+[[2024]] • [[Commonplace]] • [[Cameron Kunzelman]] • [[Game Studies Study Buddies]]
 
 http://rangedtouch.com/2023/12/31/65-ito-engineering-play/
 

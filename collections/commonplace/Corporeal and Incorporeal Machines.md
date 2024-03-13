@@ -9,7 +9,7 @@ date: 2015-07-11
 permalink: 2015/07/11/ian-lowrie-corporeal-and-incorporeal-machines
 ---
 
-[[2015]] • [[commonplace]] • [[Ian Lowrie]] • [[Los Angeles Review of Books]] 
+[[2015]] • [[Commonplace]] • [[Ian Lowrie]] • [[Los Angeles Review of Books]] 
 
 https://lareviewofbooks.org/article/corporeal-and-incorporeal-machines-new-materialism/
 

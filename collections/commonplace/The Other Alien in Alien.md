@@ -9,7 +9,7 @@ date: 2016-03-10
 permalink: 2016/03/10/tom-shone-the-other-alien-in-alien
 ---
 
-[[2016]] • [[commonplace]] • [[Tom Shone]] • [[Slate]]
+[[2016]] • [[Commonplace]] • [[Tom Shone]] • [[Slate]]
 
 https://slate.com/culture/2012/06/prometheus-why-are-academics-so-obsessed-with-ridley-scotts-alien-and-its-sequels.html
 

@@ -9,7 +9,7 @@ date: 2016-07-23
 permalink: 2016/07/23/artem-kaznatcheev-realism-and-interfaces
 ---
 
-[[2016]] • [[commonplace]] • [[Artem Kaznatcheev]] • [[Theory, Evolution, and Games Group]]
+[[2016]] • [[Commonplace]] • [[Artem Kaznatcheev]] • [[Theory, Evolution, and Games Group]]
 
 https://egtheory.wordpress.com/2014/11/30/interface-philosophy/
 

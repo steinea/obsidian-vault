@@ -9,7 +9,7 @@ date: 2014-04-14
 permalink: 2014/04/14/leslie-jamison-effort-is-not-the-enemy-of-compassion
 ---
 
-[[2014]] • [[commonplace]] • [[Leslie Jamison]] • [[The Atlantic]]
+[[2014]] • [[Commonplace]] • [[Leslie Jamison]] • [[The Atlantic]]
 
 https://www.theatlantic.com/health/archive/2014/04/effort-is-not-the-enemy-of-compassion/360217/
 

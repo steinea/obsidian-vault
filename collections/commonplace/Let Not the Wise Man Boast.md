@@ -9,7 +9,7 @@ date: 2015-03-18
 permalink: 2015/03/18/jeremiah-let-not-the-wise-man-boast
 ---
 
-[[2015]] • [[commonplace]] • [[Jeremiah]] • [[Bible]]
+[[2015]] • [[Commonplace]] • [[Jeremiah]] • [[Bible]]
 
 https://en.wikipedia.org/wiki/Jeremiah_9
 

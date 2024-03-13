@@ -9,7 +9,7 @@ date: 2017-02-07
 permalink: 2017/02/07/dawn-nafus-data-friction
 ---
 
-[[2017]] • [[commonplace]] • [[Dawn Nafus]] • [[Platypus]] 
+[[2017]] • [[Commonplace]] • [[Dawn Nafus]] • [[Platypus]] 
 
 http://blog.castac.org/2017/02/data-friction/
 

@@ -9,7 +9,7 @@ date: 2015-11-16
 permalink: 2015/11/16/peter-beinart-isis-is-not-waging-a-war-against-western-civilization
 ---
 
-[[2015]] • [[commonplace]] • [[Peter Beinart]] • [[The Atlantic]]
+[[2015]] • [[Commonplace]] • [[Peter Beinart]] • [[The Atlantic]]
 
 https://www.theatlantic.com/international/archive/2015/11/isis-paris-attacks-rubio-republicans/416085/
 

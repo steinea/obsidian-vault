@@ -9,7 +9,7 @@ date: 2016-07-13
 permalink: 2016/07/13/john-mcwhorter-the-worlds-most-efficient-languages
 ---
 
-[[2016]] • [[commonplace]] • [[John McWhorter]] • [[The Atlantic]]
+[[2016]] • [[Commonplace]] • [[John McWhorter]] • [[The Atlantic]]
 
 http://www.theatlantic.com/international/archive/2016/06/complex-languages/489389/
 

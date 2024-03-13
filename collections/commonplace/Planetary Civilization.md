@@ -9,7 +9,7 @@ date: 2018-07-15
 permalink: 2018/07/15/carl-sagan-planetary-civilization
 ---
 
-[[2018]] • [[commonplace]] • [[Carl Sagan]] • [[Pale Blue Dot]]
+[[2018]] • [[Commonplace]] • [[Carl Sagan]] • [[Pale Blue Dot]]
 
 https://en.wikipedia.org/wiki/Pale_Blue_Dot_(book)
  

@@ -9,7 +9,7 @@ date: 2017-06-21
 permalink: 2017/06/21/terry-eagleton-in-the-gaudy-supermarket
 ---
 
-[[2017]] • [[commonplace]] • [[Terry Eagleton]] • [[London Review of Books]] 
+[[2017]] • [[Commonplace]] • [[Terry Eagleton]] • [[London Review of Books]] 
 
 https://www.lrb.co.uk/the-paper/v21/n10/terry-eagleton/in-the-gaudy-supermarket
 

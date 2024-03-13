@@ -9,7 +9,7 @@ date: 2016-02-10
 permalink: 2016/02/10/scott-bakker-what-is-the-semantic-apocalypse
 ---
 
-[[2016]] • [[commonplace]] • [[Scott Bakker]] • [[Three Pound Brain]]
+[[2016]] • [[Commonplace]] • [[Scott Bakker]] • [[Three Pound Brain]]
 
 https://rsbakker.wordpress.com/2011/06/21/what-is-the-semantic-apocalypse/
 

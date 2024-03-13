@@ -9,7 +9,7 @@ date: 2015-04-16
 permalink: 2015/04/16/james-r-mensch-violence-and-blindness
 ---
 
-[[2015]] • [[commonplace]] • [[James R. Mensch]] • [[Open Democracy]] 
+[[2015]] • [[Commonplace]] • [[James R. Mensch]] • [[Open Democracy]] 
 
 https://www.opendemocracy.net/en/article/violence-and-blindness-the-case-of-uchuraccay/
 

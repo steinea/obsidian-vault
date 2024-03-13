@@ -9,7 +9,7 @@ date: 2017-07-01
 permalink: 2017/07/01/prosper-of-aquitane-lex-orandi-lex-credendi
 ---
 
-[[2017]] • [[commonplace]] • [[Prosper of Aquitane]] • [[Wikipedia]]
+[[2017]] • [[Commonplace]] • [[Prosper of Aquitane]] • [[Wikipedia]]
 
 https://en.wikipedia.org/wiki/Lex_orandi,_lex_credendi
  

@@ -9,7 +9,7 @@ date: 2015-06-03
 permalink: 2015/06/03/tyler-shoemaker-rita-raley-caterina-lazzara-jeremy-douglass-the-unfamiliar
 ---
 
-[[2015]] • [[commonplace]] • [[Tyler Shoemaker]] • [[Rita Raley]] • [[Caterina Lazzara]] • [[Jeremy Douglass]] • [[Los Angeles Review of Books]] 
+[[2015]] • [[Commonplace]] • [[Tyler Shoemaker]] • [[Rita Raley]] • [[Caterina Lazzara]] • [[Jeremy Douglass]] • [[Los Angeles Review of Books]] 
 
 https://lareviewofbooks.org/article/the-unfamiliar/
 

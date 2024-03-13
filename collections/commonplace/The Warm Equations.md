@@ -9,7 +9,7 @@ date: 2015-07-01
 permalink: 2015/07/01/gerry-canavan-the-warm-equations
 ---
 
-[[2015]] • [[commonplace]] • [[Gerry Canavan]] • [[Los Angeles Review of Books]]
+[[2015]] • [[Commonplace]] • [[Gerry Canavan]] • [[Los Angeles Review of Books]]
 
 https://lareviewofbooks.org/article/the-warm-equations/
 

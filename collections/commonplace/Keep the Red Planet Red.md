@@ -9,7 +9,7 @@ date: 2017-02-05
 permalink: 2017/02/05/keith-a-spencer-keep-the-red-planet-red
 ---
 
-[[2017]] • [[commonplace]] • [[Keith A. Spencer]] • [[Jacobin]] 
+[[2017]] • [[Commonplace]] • [[Keith A. Spencer]] • [[Jacobin]] 
 
 https://www.jacobinmag.com/2017/02/mars-elon-musk-space-exploration-nasa-colonization/
 

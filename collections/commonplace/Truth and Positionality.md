@@ -9,7 +9,7 @@ date: 2014-12-12
 permalink: 2014/12/12/laura-robinson-truth-and-positionality
 ---
 
-[[2014]] • [[commonplace]] • [[Laura Robinson]] • [[Canadaland]]
+[[2014]] • [[Commonplace]] • [[Laura Robinson]] • [[Canadaland]]
 
 https://www.canadaland.com/podcast/laura-robinson/
 

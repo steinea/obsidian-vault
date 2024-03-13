@@ -9,7 +9,7 @@ date: 2014-10-16
 permalink: 2014/10/16/lester-hunt-melvilles-dilemma
 ---
 
-[[2014]] • [[commonplace]] • [[Lester Hunt]] • [[Philosophy and Literature]] • [[Billy Budd, Sailor]]
+[[2014]] • [[Commonplace]] • [[Lester Hunt]] • [[Philosophy and Literature]] • [[Billy Budd, Sailor]]
 
 https://muse.jhu.edu/article/38861/pdf
 

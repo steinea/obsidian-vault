@@ -9,7 +9,7 @@ date: 2016-05-20
 permalink: 2016/05/20/adam-burke-the-chinese-rooms-of-cognitive-capital
 ---
 
-[[2016]] • [[commonplace]] • [[Adam Burke]] •[[Triple Ampersand]]
+[[2016]] • [[Commonplace]] • [[Adam Burke]] •[[Triple Ampersand]]
 
 http://tripleampersand.org/the-chinese-rooms-of-cognitive-capital/
 

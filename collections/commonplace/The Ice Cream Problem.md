@@ -9,7 +9,7 @@ date: 2017-01-26
 permalink: 2017/01/26/riccardo-manzotti-tim-parks-the-ice-cream-problem
 ---
 
-[[2017]] • [[commonplace]] • [[Riccardo Manzotti]] • [[Tim Parks]] • [[New York Review of Books]] 
+[[2017]] • [[Commonplace]] • [[Riccardo Manzotti]] • [[Tim Parks]] • [[New York Review of Books]] 
 
 http://www.nybooks.com/daily/2017/01/26/consciousness-the-ice-cream-problem/
 

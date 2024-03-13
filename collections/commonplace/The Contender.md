@@ -9,7 +9,7 @@ date: 2013-08-01
 permalink: 2013/08/01/richard-gwyn-the-contender
 ---
 
-[[2013]] • [[commonplace]] • [[Richard Gwyn]] • [[The Walrus]]
+[[2013]] • [[Commonplace]] • [[Richard Gwyn]] • [[The Walrus]]
 
 https://thewalrus.ca/the-contender/
 

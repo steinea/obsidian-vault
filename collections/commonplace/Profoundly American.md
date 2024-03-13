@@ -9,7 +9,7 @@ date: 2015-12-14
 permalink: 2015/12/14/kevin-hart-profoundly-american
 ---
 
-[[2015]] • [[commonplace]] • [[Kevin Hart]] • [[Los Angeles Review of Books]]
+[[2015]] • [[Commonplace]] • [[Kevin Hart]] • [[Los Angeles Review of Books]]
 
 https://lareviewofbooks.org/article/profoundly-american-marilynne-robinson/
 

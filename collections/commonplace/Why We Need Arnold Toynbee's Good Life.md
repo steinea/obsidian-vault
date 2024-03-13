@@ -9,7 +9,7 @@ date: 2015-07-02
 permalink: 2015/07/02/ian-beacock-why-we-need-arnold-toynbees-good-life
 ---
 
-[[2015]] • [[commonplace]] • [[Ian Beacock]] • [[Aeon]] 
+[[2015]] • [[Commonplace]] • [[Ian Beacock]] • [[Aeon]] 
 
 https://aeon.co/magazine/society/why-we-need-arnold-toynbees-muscular-humanism
 

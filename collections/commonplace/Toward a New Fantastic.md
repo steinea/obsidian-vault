@@ -9,7 +9,7 @@ date: 2015-12-28
 permalink: 2015/12/28/joshua-adam-anderson-toward-a-new-fantastic
 ---
 
-[[2015]] • [[commonplace]] • [[Joshua Adam Fantastic]] • [[Los Angeles Review of Books]]
+[[2015]] • [[Commonplace]] • [[Joshua Adam Fantastic]] • [[Los Angeles Review of Books]]
 
 https://lareviewofbooks.org/essay/toward-a-new-fantastic-stop-calling-it-science-fiction/
 

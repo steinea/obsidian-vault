@@ -9,7 +9,7 @@ date: 2014-09-23
 permalink: 2014/09/23/gary-stephen-ross-why-good-people-write-bad-prose
 ---
 
-[[2014]] • [[commonplace]] • [[Gary Stephen Ross]] • [[The Walrus]]
+[[2014]] • [[Commonplace]] • [[Gary Stephen Ross]] • [[The Walrus]]
 
 https://thewalrus.ca/why-good-people-write-bad-prose/
 

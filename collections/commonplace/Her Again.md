@@ -9,7 +9,7 @@ date: 2014-03-25
 permalink: 2014/03/25/anthony-lane-her-again
 ---
 
-[[2014]] • [[commonplace]] • [[Anthony Lane]] • [[The New Yorker]]
+[[2014]] • [[Commonplace]] • [[Anthony Lane]] • [[The New Yorker]]
 
 http://www.newyorker.com/magazine/2014/03/24/her-again
 

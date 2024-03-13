@@ -9,7 +9,7 @@ date: 2014-09-26
 permalink: 2014/09/26/brook-thomas-billy-budd-and-the-untold-story-of-the-law
 ---
 
-[[2014]] • [[commonplace]] • [[Brook Thomas]] • [[JSTOR]] • [[Billy Budd, Sailor]]
+[[2014]] • [[Commonplace]] • [[Brook Thomas]] • [[JSTOR]] • [[Billy Budd, Sailor]]
 
 https://www.jstor.org/stable/27670190
 

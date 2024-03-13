@@ -9,7 +9,7 @@ date: 2015-12-22
 permalink: 2015/12/22/malcolm-harris-why-marxists-need-anarchists
 ---
 
-[[2015]] • [[commonplace]] • [[Malcolm Harris]] • [[Los Angeles Review of Books]]
+[[2015]] • [[Commonplace]] • [[Malcolm Harris]] • [[Los Angeles Review of Books]]
 
 https://lareviewofbooks.org/article/left-behind-why-marxists-need-anarchists-and-vice-versa/
 

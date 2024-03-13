@@ -9,7 +9,7 @@ date: 2014-10-11
 permalink: 2014/10/11/bell-hooks-the-oppositional-gaze-black-female-spectators
 ---
 
-[[2014]] • [[commonplace]] • [[bell hooks]] • [[Black Looks]]
+[[2014]] • [[Commonplace]] • [[bell hooks]] • [[Black Looks]]
 
 https://www.worldcat.org/title/892911026
 

@@ -9,7 +9,7 @@ date: 2016-03-03
 permalink: 2016/03/03/david-the-lord-is-keeper-of-the-oppressed
 ---
 
-[[2016]] • [[commonplace]] • [[David]] • [[The Book of Psalms]]
+[[2016]] • [[Commonplace]] • [[David]] • [[The Book of Psalms]]
 
 https://en.wikipedia.org/wiki/Psalm_146
 

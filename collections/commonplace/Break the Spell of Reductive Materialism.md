@@ -9,7 +9,7 @@ date: 2016-05-22
 permalink: 2016/05/22/stuart-kauffman-break-the-spell-of-reductive-materialism
 ---
 
-[[2016]] • [[commonplace]] • [[Stuart Kauffman]] • [[Aeon]]
+[[2016]] • [[Commonplace]] • [[Stuart Kauffman]] • [[Aeon]]
 
 https://aeon.co/opinions/why-science-needs-to-break-the-spell-of-reductive-materialism
 

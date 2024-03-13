@@ -9,7 +9,7 @@ date: 2017-01-02
 permalink: 2017/01/02/leif-weatherby-the-cybernetic-humanities
 ---
 
-[[2017]] • [[commonplace]] • [[Leif Weatherby]] • [[Los Angeles Review of Books]] 
+[[2017]] • [[Commonplace]] • [[Leif Weatherby]] • [[Los Angeles Review of Books]] 
 
 https://lareviewofbooks.org/article/the-cybernetic-humanities/
 

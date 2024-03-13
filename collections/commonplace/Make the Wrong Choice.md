@@ -9,7 +9,7 @@ date: 2016-08-10
 permalink: 2016/08/10/ed-schad-make-the-wrong-choice
 ---
 
-[[2016]] • [[commonplace]] • [[Ed Schad]] • [[Los Angeles Review of Books]]
+[[2016]] • [[Commonplace]] • [[Ed Schad]] • [[Los Angeles Review of Books]]
 
 https://lareviewofbooks.org/article/make-wrong-choice-rereading-conrads-victory/
 

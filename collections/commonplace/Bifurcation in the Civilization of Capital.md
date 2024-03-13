@@ -9,7 +9,7 @@ date: 2023-03-06
 permalink: 2023/03/06/mohand-bifurcation-in-the-civilization-of-capital
 ---
 
-[[2023]] • [[commonplace]] • [[Mohand]] • [[Ill Will]]
+[[2023]] • [[Commonplace]] • [[Mohand]] • [[Ill Will]]
 
 https://illwill.com/bifurcation
  

@@ -9,7 +9,7 @@ date: 2016-02-26
 permalink: 2016/02/26/casper-addyman-baby-laughter
 ---
 
-[[2016]] • [[commonplace]] • [[Casper Addyman]] • [[Aeon]]
+[[2016]] • [[Commonplace]] • [[Casper Addyman]] • [[Aeon]]
 
 https://aeon.co/opinions/why-playing-peekaboo-with-babies-is-a-very-serious-matter
 

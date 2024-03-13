@@ -9,7 +9,7 @@ date: 2017-01-18
 permalink: 2017/01/18/joe-wolfe-voice-acoustics
 ---
 
-[[2017]] • [[commonplace]] • [[Joe Wolfe]] • [[University of New South Wales]] 
+[[2017]] • [[Commonplace]] • [[Joe Wolfe]] • [[University of New South Wales]] 
 
 http://newt.phys.unsw.edu.au/jw/voice.html
 

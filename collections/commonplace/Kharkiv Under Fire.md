@@ -9,7 +9,7 @@ date: 2023-10-04
 permalink: 2023/10/04/stanislav-ostrous-kharkiv-under-fire
 ---
 
-[[2023]] • [[commonplace]] • [[Stanislav Ostrous]] • [[Cosmic Bulletin]]
+[[2023]] • [[Commonplace]] • [[Stanislav Ostrous]] • [[Cosmic Bulletin]]
 
 https://cosmos.art/cosmic-bulletin/2022/kharkiv-under-fire
 

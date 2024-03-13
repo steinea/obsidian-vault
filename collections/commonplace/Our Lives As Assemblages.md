@@ -9,7 +9,7 @@ date: 2017-05-09
 permalink: 2017/05/09/nicholas-tampio-our-lives-as-assemblages
 ---
 
-[[2017]] • [[commonplace]] • [[Nicholas Tampio]] • [[Aeon]] 
+[[2017]] • [[Commonplace]] • [[Nicholas Tampio]] • [[Aeon]] 
 
 https://aeon.co/ideas/stuck-on-one-idea-of-justice-or-beauty-rhizomes-can-help
 

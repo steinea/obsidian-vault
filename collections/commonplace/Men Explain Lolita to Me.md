@@ -9,7 +9,7 @@ date: 2015-12-19
 permalink: 2015/12/19/rebecca-solnit-men-explain-lolita-to-me
 ---
 
-[[2015]] • [[commonplace]] • [[Rebecca Solnit]] •[[Literary Hub]]
+[[2015]] • [[Commonplace]] • [[Rebecca Solnit]] •[[Literary Hub]]
 
 https://lithub.com/men-explain-lolita-to-me/
 

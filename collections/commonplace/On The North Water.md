@@ -9,7 +9,7 @@ date: 2017-01-28
 permalink: 2017/01/28/daniel-johnson-on-the-north-water
 ---
 
-[[2017]] • [[commonplace]] • [[Daniel Johnson]] • [[The Paris Review]] 
+[[2017]] • [[Commonplace]] • [[Daniel Johnson]] • [[The Paris Review]] 
 
 https://www.theparisreview.org/blog/2017/01/27/staff-picks-concentric-circles-carpenters-coffee-house/
 

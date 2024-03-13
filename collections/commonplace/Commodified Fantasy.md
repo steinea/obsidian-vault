@@ -9,7 +9,7 @@ date: 2022-12-23
 permalink: 2022/12/23/ursula-k-le-guin-commodified-fantasy
 ---
 
-[[2022]] • [[commonplace]] • [[Ursula K. Le Guin]] • [[Tales from Earthsea]]
+[[2022]] • [[Commonplace]] • [[Ursula K. Le Guin]] • [[Tales from Earthsea]]
 
 https://www.ursulakleguin.com/tales-from-earthsea
 

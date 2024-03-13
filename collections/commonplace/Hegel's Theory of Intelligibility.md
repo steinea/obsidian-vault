@@ -9,7 +9,7 @@ date: 2016-07-23
 permalink: 2016/07/23/paul-redding-hegels-theory-of-intelligibility
 ---
 
-[[2016]] • [[commonplace]] • [[Paul Redding]] •[[Notre Dame Philosophical Reviews]]
+[[2016]] • [[Commonplace]] • [[Paul Redding]] •[[Notre Dame Philosophical Reviews]]
 
 https://ndpr.nd.edu/news/66506-hegels-theory-of-intelligibility/
 

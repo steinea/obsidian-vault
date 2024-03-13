@@ -9,7 +9,7 @@ date: 2014-04-09
 permalink: 2014/04/09/kristin-iverson-the-good-life
 ---
 
-[[2014]] • [[commonplace]] • [[Kristin Iverson]] • [[Brooklyn Magazine]]
+[[2014]] • [[Commonplace]] • [[Kristin Iverson]] • [[Brooklyn Magazine]]
 
 http://www.bkmag.com/2014/01/02/the-good-life-what-it-means-to-live-and-eat-well-in-2014/
 

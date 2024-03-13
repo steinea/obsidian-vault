@@ -9,7 +9,7 @@ date: 2023-10-16
 permalink: 2023/10/16/roger-luckhurst-science-fiction-as-mode-of-action
 ---
 
-[[2023]] • [[commonplace]] • [[Roger Luckhurst]] • [[Los Angeles Review of Books]]
+[[2023]] • [[Commonplace]] • [[Roger Luckhurst]] • [[Los Angeles Review of Books]]
 
 https://lareviewofbooks.org/article/science-fiction-as-mode-of-action-on-mit-presss-uneven-futures/
 

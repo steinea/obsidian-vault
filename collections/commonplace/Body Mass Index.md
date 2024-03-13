@@ -9,7 +9,7 @@ date: 2016-03-10
 permalink: 2016/03/10/mal-ahern-body-mass-index
 ---
 
-[[2016]] • [[commonplace]] • [[Mal Ahern]] • [[The New Inquiry]]
+[[2016]] • [[Commonplace]] • [[Mal Ahern]] • [[The New Inquiry]]
 
 http://thenewinquiry.com/essays/body-mass-index/
 

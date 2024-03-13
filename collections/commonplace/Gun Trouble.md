@@ -9,7 +9,7 @@ date: 2015-02-06
 permalink: 2015/02/06/robert-h-scales-gun-trouble
 ---
 
-[[2015]] • [[commonplace]] • [[Robert H. Scales]] • [[The Atlantic]]
+[[2015]] • [[Commonplace]] • [[Robert H. Scales]] • [[The Atlantic]]
 
 https://www.theatlantic.com/magazine/archive/2015/01/gun-trouble/383508/
 

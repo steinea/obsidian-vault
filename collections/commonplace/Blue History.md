@@ -9,7 +9,7 @@ date: 2017-02-06
 permalink: 2017/02/06/jessica-lehman-blue-history
 ---
 
-[[2017]] • [[commonplace]] • [[Jessica Lehman]] • [[The New Inquiry]] 
+[[2017]] • [[Commonplace]] • [[Jessica Lehman]] • [[The New Inquiry]] 
 
 http://thenewinquiry.com/essays/blue-history/
 

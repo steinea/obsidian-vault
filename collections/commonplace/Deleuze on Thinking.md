@@ -9,7 +9,7 @@ date: 2017-03-20
 permalink: 2017/03/20/levi-r-bryant-deleuze-on-thinkin
 ---
 
-[[2017]] • [[commonplace]] • [[Levi Bryant]] • [[Larval Subjects]] 
+[[2017]] • [[Commonplace]] • [[Levi Bryant]] • [[Larval Subjects]] 
 
 https://larvalsubjects.wordpress.com/2017/03/20/deleuze-what-is-called-thinking/
 

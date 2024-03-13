@@ -9,7 +9,7 @@ date: 2015-03-23
 permalink: 2015/03/23/jeremiah-i-will-be-found-by-you
 ---
 
-[[2015]] • [[commonplace]] • [[Jeremiah]] • [[Bible]]
+[[2015]] • [[Commonplace]] • [[Jeremiah]] • [[Bible]]
 
 https://en.wikipedia.org/wiki/Jeremiah_29
 

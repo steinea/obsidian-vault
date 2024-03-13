@@ -9,7 +9,7 @@ date: 2014-11-03
 permalink: 2014/11/03/jacques-ranciere-disagreeement
 ---
 
-[[2014]] • [[commonplace]] • [[Jacques Rancière]] • [[Disagreement]]
+[[2014]] • [[Commonplace]] • [[Jacques Rancière]] • [[Disagreement]]
 
 https://www.upress.umn.edu/book-division/books/disagreement
 

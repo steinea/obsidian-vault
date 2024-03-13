@@ -9,7 +9,7 @@ date: 2023-03-12
 permalink: 2023/03/12/justin-alexander-jaquaying-the-dungeon-9
 ---
 
-[[2023]] • [[commonplace]] • [[Justin Alexander]] • [[The Alexandrian]]
+[[2023]] • [[Commonplace]] • [[Justin Alexander]] • [[The Alexandrian]]
 
 https://thealexandrian.net/wordpress/46646/roleplaying-games/dark-tower-level-connections
 

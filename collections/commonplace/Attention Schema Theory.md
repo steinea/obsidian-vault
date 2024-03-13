@@ -9,7 +9,7 @@ date: 2016-02-05
 permalink: 2016/02/05/michael-graziano-attention-schema-theory
 ---
 
-[[2016]] • [[commonplace]] • [[Michael Graziano]] • [[The Atlantic]]
+[[2016]] • [[Commonplace]] • [[Michael Graziano]] • [[The Atlantic]]
 
 http://www.theatlantic.com/science/archive/2016/02/phantom-limbs-explain-consciousness/459780/
 

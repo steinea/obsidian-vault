@@ -9,7 +9,7 @@ date: 2014-06-19
 permalink: 2014/06/19/dave-cameron-behind-the-mask
 ---
 
-[[2014]] • [[commonplace]] • [[Dave Cameron]] • [[The Walrus]]
+[[2014]] • [[Commonplace]] • [[Dave Cameron]] • [[The Walrus]]
 
 https://thewalrus.ca/behind-the-mask/
 

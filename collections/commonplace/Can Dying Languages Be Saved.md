@@ -9,7 +9,7 @@ date: 2015-03-24
 permalink: 2015/03/24/judith-thurman-can-dying-languages-be-saved
 ---
 
-[[2015]] • [[commonplace]] • [[Judith Thurman]] • [[The New Yorker]]
+[[2015]] • [[Commonplace]] • [[Judith Thurman]] • [[The New Yorker]]
 
 https://www.newyorker.com/magazine/2015/03/30/a-loss-for-words
 

@@ -9,7 +9,7 @@ date: 2016-05-02
 permalink: 2016/05/02/rob-horning-the-overload
 ---
 
-[[2016]] • [[commonplace]] • [[Rob Horning]] • [[The New Inquiry]]
+[[2016]] • [[Commonplace]] • [[Rob Horning]] • [[The New Inquiry]]
 
 http://thenewinquiry.com/blogs/marginal-utility/the-overload/
 

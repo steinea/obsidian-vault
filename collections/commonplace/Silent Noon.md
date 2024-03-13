@@ -9,7 +9,7 @@ date: 2015-10-18
 permalink: 2015/10/18/dante-gabriel-rossetti-silent-noon
 ---
 
-[[2015]] • [[commonplace]] • [[Dante Gabriel Rossetti]] • [[Poetry Foundation]]
+[[2015]] • [[Commonplace]] • [[Dante Gabriel Rossetti]] • [[Poetry Foundation]]
 
 https://www.poetryfoundation.org/poems/45009/the-house-of-life-19-silent-noon
 

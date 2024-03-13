@@ -9,7 +9,7 @@ date: 2013-08-01
 permalink: 2013/08/01/peter-andrey-smith-troubled-waters
 ---
 
-[[2013]] • [[commonplace]] • [[Peter Andrey Smith]] • [[The Walrus]]
+[[2013]] • [[Commonplace]] • [[Peter Andrey Smith]] • [[The Walrus]]
 
 https://thewalrus.ca/troubled-waters/
 

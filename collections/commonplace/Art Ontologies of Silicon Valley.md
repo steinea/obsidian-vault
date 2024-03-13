@@ -9,7 +9,7 @@ date: 2016-07-14
 permalink: 2016/07/14/e-flux-editors-art-ontologies-of-silicon-valley
 ---
 
-[[2016]] • [[commonplace]] • [[e-flux Editors]] • [[e-flux]]
+[[2016]] • [[Commonplace]] • [[e-flux Editors]] • [[e-flux]]
 
 http://www.e-flux.com/journal/editorial-art-ontologies-of-silicon-valley/
 

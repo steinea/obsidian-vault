@@ -9,7 +9,7 @@ date: 2014-05-22
 permalink: 2014/05/22/adam-gopnik-word-magic 
 ---
 
-[[2014]] • [[commonplace]] • [[Adam Gopnik]] • [[The New Yorker]]
+[[2014]] • [[Commonplace]] • [[Adam Gopnik]] • [[The New Yorker]]
 
 http://www.newyorker.com/magazine/2014/05/26/word-magic
 

@@ -9,7 +9,7 @@ date: 2023-12-28
 permalink: 2023-12-28-thalia-williamson-the-extremely-long-paragraph
 ---
 
-[[2023]] • [[commonplace]] • [[Thalia Williamson]] • [[Los Angeles Review of Books]]
+[[2023]] • [[Commonplace]] • [[Thalia Williamson]] • [[Los Angeles Review of Books]]
 
 https://dev.lareviewofbooks.org/article/technology-attention-and-the-extremely-long-paragraph/
 

@@ -9,7 +9,7 @@ date: 2015-04-23
 permalink: 2015/04/23/asaph-dark-sayings
 ---
 
-[[2015]] • [[commonplace]] • [[Asaph]] • [[Bible]]
+[[2015]] • [[Commonplace]] • [[Asaph]] • [[Bible]]
 
 https://biblehub.com/esv/psalms/78.htm
 

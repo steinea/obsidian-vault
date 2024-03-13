@@ -9,7 +9,7 @@ date: 2015-04-20
 permalink: 2015/04/20/jill-lepore-the-myth-of-magna-carta
 ---
 
-[[2015]] • [[commonplace]] • [[Jill Lepore]] • [[The New Yorker]] 
+[[2015]] • [[Commonplace]] • [[Jill Lepore]] • [[The New Yorker]] 
 
 https://www.newyorker.com/magazine/2015/04/20/the-rule-of-history
 

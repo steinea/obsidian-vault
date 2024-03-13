@@ -9,7 +9,7 @@ date: 2016-05-01
 permalink: 2016/05/01/richard-beck-no-surrender
 ---
 
-[[2016]] • [[commonplace]] • [[Richard Beck]] • [[n+1]]
+[[2016]] • [[Commonplace]] • [[Richard Beck]] • [[n+1]]
 
 https://nplusonemag.com/online-only/online-only/no-surrender/
 

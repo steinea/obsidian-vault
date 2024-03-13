@@ -9,7 +9,7 @@ date: 2023-03-26
 permalink: 2023/03/26/solutions-for-postmodern-living-when-and-where-i-learned
 ---
 
-[[2023]] • [[commonplace]] • [[Solutions for Postmodern Living]] • [[Twitter]]
+[[2023]] • [[Commonplace]] • [[Solutions for Postmodern Living]] • [[Twitter]]
 
 https://mobile.twitter.com/postmodernlivin/status/1640071222263451648
  

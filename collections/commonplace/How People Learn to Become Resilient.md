@@ -9,7 +9,7 @@ date: 2016-05-07
 permalink: 2016/05/07/maria-konnikova-how-people-learn-to-become-resilient
 ---
 
-[[2016]] • [[commonplace]] • [[Maria Konnikova]] • [[The New Yorker]]
+[[2016]] • [[Commonplace]] • [[Maria Konnikova]] • [[The New Yorker]]
 
 http://www.newyorker.com/science/maria-konnikova/the-secret-formula-for-resilience
 

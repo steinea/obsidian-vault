@@ -9,7 +9,7 @@ date: 2013-09-29
 permalink: 2013/09/29/thomas-paine-the-age-of-reason
 ---
 
-[[2013]] • [[commonplace]] • [[Thomas Paine]] • [[Wikipedia]]
+[[2013]] • [[Commonplace]] • [[Thomas Paine]] • [[Wikipedia]]
 
 https://en.wikipedia.org/wiki/The_Age_of_Reason
 

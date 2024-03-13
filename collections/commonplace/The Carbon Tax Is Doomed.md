@@ -9,7 +9,7 @@ date: 2016-10-09
 permalink: 2016/10/09/matt-huber-the-carbon-tax-is-doomed
 ---
 
-[[2016]] • [[commonplace]] • [[Matt Huber]] • [[Jacobin]]
+[[2016]] • [[Commonplace]] • [[Matt Huber]] • [[Jacobin]]
 
 https://www.jacobinmag.com/2016/10/oil-fossil-fuel-climate-cap-trade-tax-renewables/
 

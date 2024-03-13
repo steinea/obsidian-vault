@@ -9,7 +9,7 @@ date: 2023-01-15
 permalink: 2023/01/15/crimethinc-mud-wizard
 ---
 
-[[2023]] • [[commonplace]] • [[CrimethInc]] • [[Mastodon]]
+[[2023]] • [[Commonplace]] • [[CrimethInc]] • [[Mastodon]]
 
 https://todon.eu/@CrimethInc/109696870165138298
  

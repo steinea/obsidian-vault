@@ -9,7 +9,7 @@ date: 2023-06-04
 permalink: 2023/06/04/bryce-lynch-on-barrowmaze
 ---
 
-[[2023]] • [[commonplace]] • [[Bryce Lynch]] • [[Ten Foot Pole]]
+[[2023]] • [[Commonplace]] • [[Bryce Lynch]] • [[Ten Foot Pole]]
 
 https://tenfootpole.org/ironspike/?p=977
  

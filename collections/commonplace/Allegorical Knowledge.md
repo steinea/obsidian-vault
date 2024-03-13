@@ -9,7 +9,7 @@ date: 2016-12-21
 permalink: 2016/12/21/johanna-drucker-allegorical-knowledge
 ---
 
-[[2016]] • [[commonplace]] • [[Johanna Drucker]] • [[Los Angeles Review of Books]]
+[[2016]] • [[Commonplace]] • [[Johanna Drucker]] • [[Los Angeles Review of Books]]
 
 https://lareviewofbooks.org/article/allegorical-knowledge-the-art-of-alchemy/
 

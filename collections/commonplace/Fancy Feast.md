@@ -9,7 +9,7 @@ date: 2017-09-21
 permalink: 2017/09/21/danya-glabau-fancy-feast
 ---
 
-[[2017]] • [[commonplace]] • [[Danya Glabau]] • [[Real Life]] 
+[[2017]] • [[Commonplace]] • [[Danya Glabau]] • [[Real Life]] 
 
 http://reallifemag.com/fancy-feast/
 

@@ -9,7 +9,7 @@ date: 2013-09-25
 permalink: 2013/09/25/j-r-r-tolkien-the-horse-and-the-rider
 ---
 
-[[2013]] • [[commonplace]] • [[J. R. R. Tolkien]] • [[Wikipedia]]
+[[2013]] • [[Commonplace]] • [[J. R. R. Tolkien]] • [[Wikipedia]]
 
 https://en.wikipedia.org/wiki/The_Two_Towers
 

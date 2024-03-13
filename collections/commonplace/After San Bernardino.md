@@ -9,7 +9,7 @@ date: 2015-12-08
 permalink: 2015/12/08/amy-davidson-sorkin-after-san-bernardino
 ---
 
-[[2015]] • [[commonplace]] • [[Amy Davidson Sorkin]] • [[The New Yorker]]
+[[2015]] • [[Commonplace]] • [[Amy Davidson Sorkin]] • [[The New Yorker]]
 
 https://www.newyorker.com/magazine/2015/12/14/guns-and-terror
 

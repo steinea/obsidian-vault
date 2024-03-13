@@ -9,7 +9,7 @@ date: 2015-06-10
 permalink: 2015/06/10/monica-youn-poetic-farewell-to-law
 ---
 
-[[2015]] • [[commonplace]] • [[Monica Youn]] • [[The Rhodes Project]] 
+[[2015]] • [[Commonplace]] • [[Monica Youn]] • [[The Rhodes Project]] 
 
 https://rhodesproject.com/monica-youn-profile/
 

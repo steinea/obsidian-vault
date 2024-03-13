@@ -9,7 +9,7 @@ date: 2016-04-06
 permalink: 2016/04/06/d-harlan-wilson-a-history-of-patriarchy
 ---
 
-[[2016]] • [[commonplace]] • [[D. Harlan Wilson]] • [[Los Angeles Review of Books]]
+[[2016]] • [[Commonplace]] • [[D. Harlan Wilson]] • [[Los Angeles Review of Books]]
 
 https://lareviewofbooks.org/review/a-history-of-patriarchy/
 

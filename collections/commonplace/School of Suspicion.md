@@ -9,7 +9,7 @@ date: 2016-02-01
 permalink: 2016/02/01/paul-ricoeur-school-of=suspicion
 ---
 
-[[2016]] • [[commonplace]] • [[Paul Ricoeur]] • [[Wikipedia]]
+[[2016]] • [[Commonplace]] • [[Paul Ricoeur]] • [[Wikipedia]]
 
 https://en.wikipedia.org/wiki/Paul_Ric%C5%93ur
 

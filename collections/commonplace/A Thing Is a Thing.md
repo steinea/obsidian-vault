@@ -9,7 +9,7 @@ date: 2015-02-10
 permalink: 2015/02/10/alejandro-g-inarritu-a-thing-is-a-thing
 ---
 
-[[2015]] • [[commonplace]] • [[Alejandro G. Inarritu]] • [[Birdman]]
+[[2015]] • [[Commonplace]] • [[Alejandro G. Inarritu]] • [[Birdman]]
 
 https://www.imdb.com/title/tt2562232/
 

@@ -9,7 +9,7 @@ date: 2015-11-24
 permalink: 2015/11/24/michael-ignatieff-the-refugees-and-the-new-war
 ---
 
-[[2015]] • [[commonplace]] • [[Michael Ignatieff]] • [[New York Review of Books]]
+[[2015]] • [[Commonplace]] • [[Michael Ignatieff]] • [[New York Review of Books]]
 
 https://www.nybooks.com/articles/2015/12/17/refugees-and-new-war/
 

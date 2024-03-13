@@ -9,7 +9,7 @@ date: 2016-01-07
 permalink: 2016/01/07/anne-carson-one-equals-one
 ---
 
-[[2016]] • [[commonplace]] • [[Anne Carson]] • [[The New Yorker]]
+[[2016]] • [[Commonplace]] • [[Anne Carson]] • [[The New Yorker]]
 
 http://www.newyorker.com/magazine/2016/01/11/1-equals-1
 

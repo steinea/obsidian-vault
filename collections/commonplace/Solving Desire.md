@@ -9,7 +9,7 @@ date: 2016-03-10
 permalink: 2016/03/10/alyson-k-spurgas-solving-desire
 ---
 
-[[2016]] • [[commonplace]] • [[Alyson K. Spurgas]] • [[The New Inquiry]]
+[[2016]] • [[Commonplace]] • [[Alyson K. Spurgas]] • [[The New Inquiry]]
 
 http://thenewinquiry.com/essays/solving-desire/
 

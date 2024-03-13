@@ -9,7 +9,7 @@ date: 2022-12-26
 permalink: 2022/12/26/terence-blake-a-looter-of-mathematics
 ---
 
-[[2022]] • [[commonplace]] • [[Terence Blake]] • [[Twitter]]
+[[2022]] • [[Commonplace]] • [[Terence Blake]] • [[Twitter]]
 
 https://mobile.twitter.com/TPBlake/status/1607476030838652928
 

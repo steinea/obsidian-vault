@@ -9,7 +9,7 @@ date: 2016-02-17
 permalink: 2016/02/17/elizabeth-cline-buying-less-by-buying-better
 ---
 
-[[2016]] • [[commonplace]] • [[Elizabeth Cline]] • [[The Atlantic]]
+[[2016]] • [[Commonplace]] • [[Elizabeth Cline]] • [[The Atlantic]]
 
 http://www.theatlantic.com/business/archive/2016/02/buying-less-by-buying-better/462639/
 

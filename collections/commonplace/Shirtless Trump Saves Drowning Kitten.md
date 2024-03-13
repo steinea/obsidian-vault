@@ -9,7 +9,7 @@ date: 2016-11-16
 permalink: 2016/11/16/brian-phillips-shirtless-trump-saves-drowning-kitten
 ---
 
-[[2016]] • [[commonplace]] • [[Brian Phillips]] • [[MTV]]
+[[2016]] • [[Commonplace]] • [[Brian Phillips]] • [[MTV]]
 
 https://www.mtv.com/news/sctf7j/shirtless-trump-saves-drowning-kitten
 

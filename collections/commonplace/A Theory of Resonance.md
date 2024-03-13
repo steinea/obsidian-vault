@@ -9,7 +9,7 @@ date: 2014-11-07
 permalink: 2014/11/07/wai-chee-dimock-a-theory-of-resonance
 ---
 
-[[2014]] • [[commonplace]] • [[Wai Chee Dimock]] • [[PMLA]]
+[[2014]] • [[Commonplace]] • [[Wai Chee Dimock]] • [[PMLA]]
 
 https://www.jstor.org/stable/463483
 

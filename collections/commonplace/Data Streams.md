@@ -9,7 +9,7 @@ date: 2017-01-23
 permalink: 2017/01/23/hito-steyerl-kate-crawford-data-streams
 ---
 
-[[2017]] • [[commonplace]] • [[Hito Steyerl]] • [[Kate Crawford]] • [[The New Inquiry]] 
+[[2017]] • [[Commonplace]] • [[Hito Steyerl]] • [[Kate Crawford]] • [[The New Inquiry]] 
 
 http://thenewinquiry.com/features/data-streams/
 

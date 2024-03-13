@@ -9,7 +9,7 @@ date: 2017-07-19
 permalink: 2017/07/19/david-sims-the-fifth-element
 ---
 
-[[2017]] • [[commonplace]] • [[David Sims]] • [[The Atlantic]] 
+[[2017]] • [[Commonplace]] • [[David Sims]] • [[The Atlantic]] 
 
 https://www.theatlantic.com/entertainment/archive/2017/07/how-the-fifth-element-subverted-sci-fi-movies/534108/
 

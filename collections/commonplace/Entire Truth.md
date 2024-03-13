@@ -9,7 +9,7 @@ date: 2017-06-20
 permalink: 2017/06/20/olav-h-hauge-entire-truth
 ---
 
-[[2017]] • [[commonplace]] • [[Olav H. Hauge]] • [[Entire Truth]] 
+[[2017]] • [[Commonplace]] • [[Olav H. Hauge]] • [[Entire Truth]] 
 
 https://www.narrativemagazine.com/issues/winter-2011/ipoems/dont-come-me-entire-truth-olav-h-hauge
 

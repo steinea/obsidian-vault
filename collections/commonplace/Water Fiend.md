@@ -9,7 +9,7 @@ date: 2017-03-03
 permalink: 2017/03/03/john-steinbeck-water-fiend
 ---
 
-[[2017]] • [[commonplace]] • [[John Steinbeck]] 
+[[2017]] • [[Commonplace]] • [[John Steinbeck]] 
  
 “I am a water fiend... Water is everything to me.”
 

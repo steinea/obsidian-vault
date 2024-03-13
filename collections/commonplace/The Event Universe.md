@@ -9,7 +9,7 @@ date: 2016-10-21
 permalink: 2016/10/21/brian-g-henning-the-event-universe
 ---
 
-[[2016]] • [[commonplace]] • [[Brian G. Henning]] • [[Notre Dame Philosophical Reviews]]
+[[2016]] • [[Commonplace]] • [[Brian G. Henning]] • [[Notre Dame Philosophical Reviews]]
 
 https://ndpr.nd.edu/news/70867-the-event-universe-the-revisionary-metaphysics-of-alfred-north-whitehead/
 

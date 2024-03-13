@@ -9,7 +9,7 @@ date: 2023-03-11
 permalink: 2023/03/11/dan-sinykin-fuck-the-poetry-police
 ---
 
-[[2023]] • [[commonplace]] • [[Dan Sinykin]] • [[Los Angeles Review of Books]]
+[[2023]] • [[Commonplace]] • [[Dan Sinykin]] • [[Los Angeles Review of Books]]
 
 https://dev.lareviewofbooks.org/article/fuck-the-poetry-police-on-the-index-of-major-literary-prizes-in-the-united-states/
  

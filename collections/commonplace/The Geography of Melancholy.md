@@ -9,7 +9,7 @@ date: 2014-12-19
 permalink: 2014/12/19/tara-isabella-burton-the-geography-of-melancholy
 ---
 
-[[2014]] • [[commonplace]] • [[Tara Isabella Burton]] • [[The American Reader]]
+[[2014]] • [[Commonplace]] • [[Tara Isabella Burton]] • [[The American Reader]]
 
 https://theamericanreader.com/the-geography-of-melancholy/
 

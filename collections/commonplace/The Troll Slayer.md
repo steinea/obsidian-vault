@@ -9,7 +9,7 @@ date: 2014-08-28
 permalink: 2014/08/28/rebecca-mead-the-troll-slayer
 ---
 
-[[2014]] • [[commonplace]] • [[Rebecca Mead]] • [[The New Yorker]]
+[[2014]] • [[Commonplace]] • [[Rebecca Mead]] • [[The New Yorker]]
 
 https://www.newyorker.com/magazine/2014/09/01/troll-slayer
 

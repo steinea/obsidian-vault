@@ -9,7 +9,7 @@ date: 2016-03-06
 permalink: 2016/03/06/erica-violet-lee-reconciling-in-the-apocalypse
 ---
 
-[[2016]] • [[commonplace]] • [[Erica Violet Lee]] • [[Canadian Centre for Policy Alternatives]]
+[[2016]] • [[Commonplace]] • [[Erica Violet Lee]] • [[Canadian Centre for Policy Alternatives]]
 
 https://www.policyalternatives.ca/publications/monitor/reconciling-apocalypse
 

@@ -9,7 +9,7 @@ date: 2015-06-10
 permalink: 2015/06/10/damion-searls-pure-prose
 ---
 
-[[2015]] • [[commonplace]] • [[Damion Searls]] • [[The Paris Review]] 
+[[2015]] • [[Commonplace]] • [[Damion Searls]] • [[The Paris Review]] 
 
 https://www.theparisreview.org/blog/2015/06/09/pure-prose/
 

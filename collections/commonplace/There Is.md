@@ -9,7 +9,7 @@ date: 2016-07-27
 permalink: 2016/07/27/pierre-jean-renaudie-there-is
 ---
 
-[[2016]] • [[commonplace]] • [[Pierre Jean Renaudie]] • [[Notre Dame Philosophical Reviews]]
+[[2016]] • [[Commonplace]] • [[Pierre Jean Renaudie]] • [[Notre Dame Philosophical Reviews]]
 
 https://ndpr.nd.edu/news/68329-there-is-the-event-and-the-finitude-of-appearing/
 

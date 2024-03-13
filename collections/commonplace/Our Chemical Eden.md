@@ -9,7 +9,7 @@ date: 2016-01-11
 permalink: 2016/01/11/tim-requarth-our-chemical-eden
 ---
 
-[[2016]] • [[commonplace]] • [[Tim Requarth]] • [[Aeon]]
+[[2016]] • [[Commonplace]] • [[Tim Requarth]] • [[Aeon]]
 
 https://aeon.co/essays/why-life-is-not-a-thing-but-a-restless-manner-of-being
 

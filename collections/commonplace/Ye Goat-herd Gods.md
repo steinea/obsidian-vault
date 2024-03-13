@@ -9,7 +9,7 @@ date: 2015-10-18
 permalink: 2015/10/18/philip-sidney-ye-goat-herd-gods
 ---
 
-[[2015]] • [[commonplace]] • [[Philip Sidney]] • [[University of Cincinnati]]
+[[2015]] • [[Commonplace]] • [[Philip Sidney]] • [[University of Cincinnati]]
 
 https://homepages.uc.edu/~druryjp/Sidney,%20A%20Double%20Sestina.htm
 

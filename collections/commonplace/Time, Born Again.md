@@ -9,7 +9,7 @@ date: 2016-02-15
 permalink: 2016/02/15/sean-carroll-time-born-again
 ---
 
-[[2016]] • [[commonplace]] • [[Sean Carroll]] • [[Preposterous Universe]]
+[[2016]] • [[Commonplace]] • [[Sean Carroll]] • [[Preposterous Universe]]
 
 http://www.preposterousuniverse.com/blog/2013/05/21/time-born-again/
 

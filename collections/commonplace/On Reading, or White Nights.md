@@ -9,7 +9,7 @@ date: 2015-07-22
 permalink: 2015/07/22/roberto-saviano-on-reading-or-white-nights
 ---
 
-[[2015]] • [[commonplace]] • [[Roberto Saviano]] • [[The Penguin Classics]] 
+[[2015]] • [[Commonplace]] • [[Roberto Saviano]] • [[The Penguin Classics]] 
 
 https://thepenguinclassics.tumblr.com/post/124572015604/on-reading-or-white-nights-by-roberto-saviano
 

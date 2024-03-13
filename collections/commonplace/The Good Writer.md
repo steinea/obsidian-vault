@@ -9,7 +9,7 @@ date: 2014-09-04
 permalink: 2014/09/04/ralph-waldo-emerson-the-good-writer
 ---
 
-[[2014]] • [[commonplace]] • [[Ralph Waldo Emerson]] • [[Open Library]]
+[[2014]] • [[Commonplace]] • [[Ralph Waldo Emerson]] • [[Open Library]]
 
 https://openlibrary.org/books/OL7013473M/Journals_of_Ralph_Waldo_Emerson
 

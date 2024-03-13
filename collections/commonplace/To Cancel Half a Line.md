@@ -9,7 +9,7 @@ date: 2013-06-28
 permalink: 2013/06/28/omar-khayyam-to-cancel-half-a-line
 ---
  
-[[2013]] • [[commonplace]] • [[Omar Khayyam]] • [[Rubaiyat]]
+[[2013]] • [[Commonplace]] • [[Omar Khayyam]] • [[Rubaiyat]]
 
 http://classics.mit.edu/Khayyam/rubaiyat.html
 

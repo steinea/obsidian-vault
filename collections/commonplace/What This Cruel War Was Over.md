@@ -9,7 +9,7 @@ date: 2015-07-01
 permalink: 2015/07/01/ta-nehisi-coates-what-this-cruel-war-was-over
 ---
 
-[[2015]] • [[commonplace]] • [[Ta-Nehisi Coates]] • [[The Atlantic]]
+[[2015]] • [[Commonplace]] • [[Ta-Nehisi Coates]] • [[The Atlantic]]
 
 https://www.theatlantic.com/politics/archive/2015/06/what-this-cruel-war-was-over/396482/
 

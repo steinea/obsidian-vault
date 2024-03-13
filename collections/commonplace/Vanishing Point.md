@@ -9,7 +9,7 @@ date: 2015-11-23
 permalink: 2015/11/23/karl-ove-knausgaard-vanishing-point
 ---
 
-[[2015]] • [[commonplace]] • [[Karl Ove Knausgaard]] • [[The New Yorker]]
+[[2015]] • [[Commonplace]] • [[Karl Ove Knausgaard]] • [[The New Yorker]]
 
 https://www.newyorker.com/books/page-turner/vanishing-point
 

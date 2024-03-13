@@ -9,7 +9,7 @@ date: 2014-05-23
 permalink: 2014/05/23/arjun-basu-touring-travel-vacation
 ---
 
-[[2014]] • [[commonplace]] • [[Arjun Basu]]
+[[2014]] • [[Commonplace]] • [[Arjun Basu]]
 
 https://arjunbasu.com/archives/onvacation
 

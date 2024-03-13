@@ -9,7 +9,7 @@ date: 2015-07-22
 permalink: 2015/07/22/jia-tolentino-taylor-swift-is-definitely-in-her-zone
 ---
 
-[[2015]] • [[commonplace]] • [[Jia Tolentino]] • [[Jezebel]] 
+[[2015]] • [[Commonplace]] • [[Jia Tolentino]] • [[Jezebel]] 
 
 https://jezebel.com/taylor-swift-is-definitely-in-her-zone-1718196417
 

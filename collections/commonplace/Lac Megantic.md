@@ -9,7 +9,7 @@ date: 2014-06-08
 permalink: 2014/06/08/lorne-sossin-lac-megantic
 ---
 
-[[2014]] • [[commonplace]] • [[Lorne Sossin]] • [[The Walrus]]
+[[2014]] • [[Commonplace]] • [[Lorne Sossin]] • [[The Walrus]]
 
 https://thewalrus.ca/runaway-train/
 

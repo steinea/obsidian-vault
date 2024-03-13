@@ -9,7 +9,7 @@ date: 2016-07-20
 permalink: 2016/07/20/douglas-coupland-what-if-theres-no-next-big-thing
 ---
 
-[[2016]] • [[commonplace]] • [[Douglas Coupland]] • [[e-flux]]
+[[2016]] • [[Commonplace]] • [[Douglas Coupland]] • [[e-flux]]
 
 http://www.e-flux.com/journal/what-if-theres-no-next-big-thing/
 

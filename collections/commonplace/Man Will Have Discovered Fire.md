@@ -9,7 +9,7 @@ date: 2017-02-13
 permalink: 2017/02/13/pierre-tielhard-de-chardin-man-will-have-discovered-fire
 ---
 
-[[2017]] • [[commonplace]] • [[Pierre Tielhard de Chardin]] • [[Toward the Future]] 
+[[2017]] • [[Commonplace]] • [[Pierre Tielhard de Chardin]] • [[Toward the Future]] 
 
 https://books.google.ca/books/about/Toward_the_Future.html?id=LqNqqOH3LqYC
 

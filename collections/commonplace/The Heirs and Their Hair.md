@@ -9,7 +9,7 @@ date: 2023-01-09
 permalink: 2023/01/09/sarah-mesle-the-heirs-and-their-hair
 ---
 
-[[2023]] • [[commonplace]] • [[Sarah Mesle]] • [[Los Angeles Review of Books]]
+[[2023]] • [[Commonplace]] • [[Sarah Mesle]] • [[Los Angeles Review of Books]]
 
 https://dev.lareviewofbooks.org/article/the-heirs-and-their-hair-on-house-of-the-dragon/
  

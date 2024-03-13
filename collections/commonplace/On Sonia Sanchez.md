@@ -9,7 +9,7 @@ date: 2017-01-27
 permalink: 2017/01/27/caitlin-younquist-on-sonia-sanchez
 ---
 
-[[2017]] • [[commonplace]] • [[Caitlin Younquist]] • [[The Paris Review]] 
+[[2017]] • [[Commonplace]] • [[Caitlin Younquist]] • [[The Paris Review]] 
 
 https://www.theparisreview.org/blog/2017/01/27/staff-picks-concentric-circles-carpenters-coffee-house/
 

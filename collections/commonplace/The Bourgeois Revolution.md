@@ -9,7 +9,7 @@ date: 2016-02-22
 permalink: 2016/02/22/karl-marx-friedrich-engels-the-bourgeois-revolution
 ---
 
-[[2016]] • [[commonplace]] • [[Karl Marx]] • [[Friedrich Engels]] • [[Lapham’s Quarterly]] 
+[[2016]] • [[Commonplace]] • [[Karl Marx]] • [[Friedrich Engels]] • [[Lapham’s Quarterly]] 
 
 https://www.laphamsquarterly.org/revolutions/bourgeois-revolution
 

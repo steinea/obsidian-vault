@@ -9,7 +9,7 @@ date: 2015-12-22
 permalink: 2015/12/22/jonathan-wilson-the-matter-of-frenchness
 ---
 
-[[2015]] • [[commonplace]] • [[Jonathan Wilson]] • [[Los Angeles Review of Books]]
+[[2015]] • [[Commonplace]] • [[Jonathan Wilson]] • [[Los Angeles Review of Books]]
 
 https://lareviewofbooks.org/article/the-matter-of-frenchness/
 

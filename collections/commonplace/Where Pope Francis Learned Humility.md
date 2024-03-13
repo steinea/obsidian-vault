@@ -9,7 +9,7 @@ date: 2015-08-26
 permalink: 2015/08/26/paul-vallely-where-pope-francis-learned-humility
 ---
 
-[[2015]] • [[commonplace]] • [[Paul Vallely]] • [[The Atlantic]]
+[[2015]] • [[Commonplace]] • [[Paul Vallely]] • [[The Atlantic]]
 
 https://www.theatlantic.com/international/archive/2015/08/pope-francis-cordoba-exile-humble/402032/
 

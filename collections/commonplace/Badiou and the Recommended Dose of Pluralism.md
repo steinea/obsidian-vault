@@ -9,7 +9,7 @@ date: 2017-02-05
 permalink: 2017/02/05/terence-blake-badiou-and-the-recommended-dose-of-pluralism
 ---
 
-[[2017]] • [[commonplace]] • [[Terence Blake]] • [[Agent Swarm]] 
+[[2017]] • [[Commonplace]] • [[Terence Blake]] • [[Agent Swarm]] 
 
 https://terenceblake.wordpress.com/2017/02/05/badiou-and-the-recommended-dose-of-pluralism/
 

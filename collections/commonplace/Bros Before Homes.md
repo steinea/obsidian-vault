@@ -9,7 +9,7 @@ date: 2016-07-03
 permalink: 2016/07/03/phoebe-maltz-bovy-bros-before-homes
 ---
 
-[[2016]] • [[commonplace]] • [[Phoebe Maltz Bovy]] • [[The New Republic]]
+[[2016]] • [[Commonplace]] • [[Phoebe Maltz Bovy]] • [[The New Republic]]
 
 https://newrepublic.com/article/134651/bros-homes
 

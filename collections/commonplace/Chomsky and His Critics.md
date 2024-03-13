@@ -9,7 +9,7 @@ date: 2015-11-24
 permalink: 2015/11/24/emanuel-stoakes-noam-chomsky-chomsky-and-his-critics
 ---
 
-[[2015]] • [[commonplace]] • [[Emanuel Stoakes]] • [[Noam Chomsky]] • [[Jacobin]]
+[[2015]] • [[Commonplace]] • [[Emanuel Stoakes]] • [[Noam Chomsky]] • [[Jacobin]]
 
 https://jacobin.com/2015/11/noam-chomsky-interview-isis-syria-intervention-nato/
 

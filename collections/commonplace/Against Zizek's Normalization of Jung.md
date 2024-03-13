@@ -9,7 +9,7 @@ date: 2016-11-08
 permalink: 2016/11/08/terence-blake-against-zizeks-normalization-of-jung
 ---
 
-[[2016]] • [[commonplace]] • [[Terence Blake]] • [[Agent Swarm]]
+[[2016]] • [[Commonplace]] • [[Terence Blake]] • [[Agent Swarm]]
 
 https://terenceblake.wordpress.com/2016/11/08/against-zizeks-normalization-of-jung-hillmans-non-standard-jung/
 

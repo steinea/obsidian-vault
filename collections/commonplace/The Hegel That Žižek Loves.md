@@ -9,7 +9,7 @@ date: 2014-12-06
 permalink: 2014/12/06/slavoj-zizek-less-than-nothing
 ---
 
-[[2014]] • [[commonplace]] • [[Slavoj Zizek]] • [[Verso]]
+[[2014]] • [[Commonplace]] • [[Slavoj Zizek]] • [[Verso]]
 
 https://www.versobooks.com/books/1523-less-than-nothing
 

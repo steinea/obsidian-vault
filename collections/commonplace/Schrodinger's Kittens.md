@@ -9,7 +9,7 @@ date: 2015-10-13
 permalink: 2015/10/13/philip-ball-schrodingers-kittens
 ---
 
-[[2015]] • [[commonplace]] • [[Philip Ball]] • [[Nautilus]]
+[[2015]] • [[Commonplace]] • [[Philip Ball]] • [[Nautilus]]
 
 https://nautil.us/issue/29/scaling/how-big-can-schr246dingers-kittens-get
 

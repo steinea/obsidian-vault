@@ -9,7 +9,7 @@ date: 2016-02-15
 permalink: 2016/02/15/sean-carroll-einsteins-radical-idea
 ---
 
-[[2016]] • [[commonplace]] • [[Sean Carroll]] • [[The Atlantic]]
+[[2016]] • [[Commonplace]] • [[Sean Carroll]] • [[The Atlantic]]
 
 http://www.theatlantic.com/science/archive/2016/02/all-physics-is-local/462480/
 

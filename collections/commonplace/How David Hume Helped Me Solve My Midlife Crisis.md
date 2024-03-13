@@ -9,7 +9,7 @@ date: 2015-10-15
 permalink: 2015/10/15/alison-gopnik-how-david-hume-helped-me-solve-my-midlife-crisis
 ---
 
-[[2015]] • [[commonplace]] • [[Alison Gopnik]] • [[The Atlantic]]
+[[2015]] • [[Commonplace]] • [[Alison Gopnik]] • [[The Atlantic]]
 
 https://www.theatlantic.com/magazine/archive/2015/10/how-david-hume-helped-me-solve-my-midlife-crisis/403195/
 

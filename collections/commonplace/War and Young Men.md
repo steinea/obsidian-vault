@@ -9,7 +9,7 @@ date: 2017-06-20
 permalink: 2017/06/20/sebastian-junger-war-and-young-men
 ---
 
-[[2017]] • [[commonplace]] • [[Sebastian Junger]] • [[War]] 
+[[2017]] • [[Commonplace]] • [[Sebastian Junger]] • [[War]] 
 
 http://www.sebastianjunger.com/war-by-sebastian-junger
 

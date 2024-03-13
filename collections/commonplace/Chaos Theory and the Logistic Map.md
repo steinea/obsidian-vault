@@ -9,7 +9,7 @@ date: 2016-03-10
 permalink: 2016/03/10/geoff-boeing-chaos-theory-and-the-logistic-map
 ---
 
-[[2016]] • [[commonplace]] • [[Geoff Boeing]]
+[[2016]] • [[Commonplace]] • [[Geoff Boeing]]
 
 http://geoffboeing.com/2015/03/chaos-theory-logistic-map/
 

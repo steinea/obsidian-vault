@@ -9,7 +9,7 @@ date: 2017-06-20
 permalink: 2017/06/20/wendell-berry-learning-to-give-you-my-death
 ---
 
-[[2017]] • [[commonplace]] • [[Wendell Berry]] • [[A Country of Marriage]] 
+[[2017]] • [[Commonplace]] • [[Wendell Berry]] • [[A Country of Marriage]] 
 
 https://www.penguinrandomhouse.ca/books/675170/a-country-of-marriage-by-wendell-berry/9781619022072
 

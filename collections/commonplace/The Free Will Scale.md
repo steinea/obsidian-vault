@@ -9,7 +9,7 @@ date: 2015-10-24
 permalink: 2015/10/24/stephen-cave-the-free-will-scale
 ---
 
-[[2015]] • [[commonplace]] • [[Stephen Cave]] • [[Aeon]]
+[[2015]] • [[Commonplace]] • [[Stephen Cave]] • [[Aeon]]
 
 https://aeon.co/magazine/philosophy/free-will-is-back-and-maybe-we-can-measure-it
 

@@ -9,7 +9,7 @@ date: 2015-10-22
 permalink: 2015/10/22/siobhan-roberts-a-search-engine-for-mathematics
 ---
 
-[[2015]] • [[commonplace]] • [[Siobhan Roberts]] • [[Nautilus]]
+[[2015]] • [[Commonplace]] • [[Siobhan Roberts]] • [[Nautilus]]
 
 https://nautil.us/issue/29/scaling/how-to-build-a-search-engine-for-mathematics
 

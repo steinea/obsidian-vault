@@ -9,7 +9,7 @@ date: 2016-07-11
 permalink: 2016/07/11/michael-thomsen-gemini-haptics
 ---
 
-[[2016]] • [[commonplace]] • [[Michael Thomsen]] • [[Real Life]]
+[[2016]] • [[Commonplace]] • [[Michael Thomsen]] • [[Real Life]]
 
 http://reallifemag.com/gemini-haptics/
 

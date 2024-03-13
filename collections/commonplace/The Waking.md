@@ -9,7 +9,7 @@ date: 2015-09-22
 permalink: 2015/09/22/theodore-roethke-the-waking
 ---
 
-[[2015]] • [[commonplace]] • [[Theodore Roethke]] • [[Poetry Foundation]]
+[[2015]] • [[Commonplace]] • [[Theodore Roethke]] • [[Poetry Foundation]]
 
 https://www.poetryfoundation.org/poems/43333/the-waking-56d2220f25315
 

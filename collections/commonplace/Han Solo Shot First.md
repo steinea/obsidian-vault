@@ -9,7 +9,7 @@ date: 2015-02-19
 permalink: 2015/02/19/jacob-brogan-han-solo-shot-first
 ---
 
-[[2015]] • [[commonplace]] • [[Jacob Brogan]] • [[The Atlantic]]
+[[2015]] • [[Commonplace]] • [[Jacob Brogan]] • [[The Atlantic]]
 
 https://www.theatlantic.com/technology/archive/2015/02/han-solo-shot-first/385551/
 

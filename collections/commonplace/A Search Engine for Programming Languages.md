@@ -9,7 +9,7 @@ date: 2017-01-15
 permalink: 2017/01/15/michael-byrne-a-search-engine-for-programming-languages
 ---
 
-[[2017]] • [[commonplace]] • [[Michael Byrne]] • [[Motherboard]] 
+[[2017]] • [[Commonplace]] • [[Michael Byrne]] • [[Motherboard]] 
 
 http://motherboard.vice.com/read/a-search-engine-for-programming-language-syntax-is-a-pretty-good-idea
 

@@ -9,7 +9,7 @@ date: 2016-11-01
 permalink: 2016/11/01/boris-groys-towards-the-new-realism
 ---
 
-[[2016]] • [[commonplace]] • [[Boris Groys]] • [[e-flux]]
+[[2016]] • [[Commonplace]] • [[Boris Groys]] • [[e-flux]]
 
 http://www.e-flux.com/journal/77/77109/towards-the-new-realism/
 

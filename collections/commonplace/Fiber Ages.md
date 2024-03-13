@@ -9,7 +9,7 @@ date: 2023-02-24
 permalink: 2023/02/24/sigrid-ellis-fiber-ages
 ---
 
-[[2023]] • [[commonplace]] • [[Sigrid Ellis]] • [[Mastodon]]
+[[2023]] • [[Commonplace]] • [[Sigrid Ellis]] • [[Mastodon]]
 
 https://wandering.shop/@sigridellis/109919702777797801
  

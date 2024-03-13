@@ -9,7 +9,7 @@ date: 2016-10-25
 permalink: 2016/10/25/terence-blake-zizek-deleuze-jung
 ---
 
-[[2016]] • [[commonplace]] • [[Terence Blake]] • [[Agent Swarm]]
+[[2016]] • [[Commonplace]] • [[Terence Blake]] • [[Agent Swarm]]
 
 https://terenceblake.wordpress.com/2013/08/06/zizek-deleuze-jung-the-analogical-self-versus-the-digital-ego/
 

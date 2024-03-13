@@ -9,7 +9,7 @@ date: 2015-07-09
 permalink: 2015/07/09/carlo-allegri-rich-kids-major-in-english
 ---
 
-[[2015]] • [[commonplace]] • [[Carlo Allegri]] • [[The Atlantic]] 
+[[2015]] • [[Commonplace]] • [[Carlo Allegri]] • [[The Atlantic]] 
 
 https://www.theatlantic.com/business/archive/2015/07/college-major-rich-families-liberal-arts/397439/
 

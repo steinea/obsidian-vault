@@ -9,7 +9,7 @@ date: 2023-06-12
 permalink: 2023/06/12/jeremy-peel-narrative-baked-into-corridors
 ---
 
-[[2023]] • [[commonplace]] • [[Jeremy Peel]] • [[Rock Paper Shotgun]]
+[[2023]] • [[Commonplace]] • [[Jeremy Peel]] • [[Rock Paper Shotgun]]
 
 https://www.rockpapershotgun.com/the-narrative-had-to-be-baked-into-the-corridors-marc-laidlaw-on-writing-half-life
  

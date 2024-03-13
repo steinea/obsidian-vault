@@ -9,7 +9,7 @@ date: 2014-08-24
 permalink: 2014/08/24/virginia-woolf-when-i-read-his-books
 ---
 
-[[2014]] • [[commonplace]] • [[Virginia Woolf]] • [[Smith College]]
+[[2014]] • [[Commonplace]] • [[Virginia Woolf]] • [[Smith College]]
 
 https://www.smith.edu/woolf/fatherwithtranscript.php
 

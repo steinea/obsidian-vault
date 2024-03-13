@@ -9,7 +9,7 @@ date: 2016-02-10
 permalink: 2016/02/10/cassandra-seltman-the-unconscious-is-the-last-activist
 ---
 
-[[2016]] • [[commonplace]] • [[Cassandra Seltman]] • [[Los Angeles Review of Books]]
+[[2016]] • [[Commonplace]] • [[Cassandra Seltman]] • [[Los Angeles Review of Books]]
 
 https://lareviewofbooks.org/interview/the-unconscious-is-the-last-activist/
 

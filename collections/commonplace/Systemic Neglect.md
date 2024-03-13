@@ -9,7 +9,7 @@ date: 2016-05-11
 permalink: 2016/05/11/jay-garfield-bryan-van-norden-systemic-neglect
 ---
 
-[[2016]] • [[commonplace]] • [[Jay Garfield]] • [[Bryan Van Norden]] • [[The New York Times]]
+[[2016]] • [[Commonplace]] • [[Jay Garfield]] • [[Bryan Van Norden]] • [[The New York Times]]
 
 https://www.nytimes.com/2016/05/11/opinion/if-philosophy-wont-diversify-lets-call-it-what-it-really-is.html
 

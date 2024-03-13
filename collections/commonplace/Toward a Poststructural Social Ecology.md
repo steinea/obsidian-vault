@@ -9,7 +9,7 @@ date: 2023-06-03
 permalink: 2023/06/03/reimagining-toward-a-poststructural-social-ecology
 ---
 
-[[2023]] • [[commonplace]] • [[reimagining]] • [[Anarchist Library]]
+[[2023]] • [[Commonplace]] • [[reimagining]] • [[Anarchist Library]]
 
 https://theanarchistlibrary.org/library/reimagining-toward-a-poststructural-social-ecology?v=1673502214
  

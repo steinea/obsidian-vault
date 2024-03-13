@@ -9,7 +9,7 @@ date: 2014-05-23
 permalink: 2014/05/23/g-k-chesterton-new-rebels
 ---
 
-[[2014]] • [[commonplace]] • [[G. K. Chesterton]] • [[Orthodoxy]]
+[[2014]] • [[Commonplace]] • [[G. K. Chesterton]] • [[Orthodoxy]]
 
 https://en.wikipedia.org/wiki/Orthodoxy_(book)
 

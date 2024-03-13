@@ -9,7 +9,7 @@ date: 2014-09-01
 permalink: 2014/09/01/sally-kohn-clickbait
 ---
 
-[[2014]] • [[commonplace]] • [[Sally Kohn]] • [[TED]]
+[[2014]] • [[Commonplace]] • [[Sally Kohn]] • [[TED]]
 
 https://www.ted.com/talks/sally_kohn_don_t_like_clickbait_don_t_click/
 

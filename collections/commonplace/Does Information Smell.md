@@ -9,7 +9,7 @@ date: 2016-12-30
 permalink: 2016/12/30/riccardo-manzotti-tim-parks-does-information-smell
 ---
 
-[[2016]] • [[commonplace]] • [[Riccardo Manzotti]] • [[Tim Parks]] • [[New York Review of Books]]
+[[2016]] • [[Commonplace]] • [[Riccardo Manzotti]] • [[Tim Parks]] • [[New York Review of Books]]
 
 http://www.nybooks.com/daily/2016/12/30/consciousness-does-information-smell/
 

@@ -9,7 +9,7 @@ date: 2014-04-25
 permalink: 2014/04/25/timothy-beal-matters-of-faith
 ---
 
-[[2014]] • [[commonplace]] • [[Timothy Beal]] • [[Los Angeles Review of Books]]
+[[2014]] • [[Commonplace]] • [[Timothy Beal]] • [[Los Angeles Review of Books]]
 
 https://lareviewofbooks.org/article/matters-faith/
 

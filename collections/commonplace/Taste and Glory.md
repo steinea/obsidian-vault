@@ -9,7 +9,7 @@ date: 2017-06-30
 permalink: 2017/06/30/sylvia-plath-taste-and-glory
 ---
 
-[[2017]] • [[commonplace]] • [[Sylvia Plath]] • [[The Unabridged Journals of Sylvia Plath]] 
+[[2017]] • [[Commonplace]] • [[Sylvia Plath]] • [[The Unabridged Journals of Sylvia Plath]] 
 
 https://books.google.ca/books/about/The_Unabridged_Journals_of_Sylvia_Plath.html?id=UJ628vQBsYAC
 

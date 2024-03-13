@@ -9,7 +9,7 @@ date: 2015-09-13
 permalink: 2015/09/13/paul-nelson-robin-blasers-divine-real
 ---
 
-[[2015]] • [[commonplace]] • [[Paul Nelson]]
+[[2015]] • [[Commonplace]] • [[Paul Nelson]]
 
 https://paulenelson.com/2013/07/26/notes-on-the-practice-of-outside-robin-blasers-divine-real/
 

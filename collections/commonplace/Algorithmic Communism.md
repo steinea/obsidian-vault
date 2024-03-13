@@ -9,7 +9,7 @@ date: 2016-01-09
 permalink: 2016/01/09/ian-lowrie-algorithmic-communism
 ---
 
-[[2016]] • [[commonplace]] • [[Ian Lowrie]] • [[Algorithmic Communism]]
+[[2016]] • [[Commonplace]] • [[Ian Lowrie]] • [[Algorithmic Communism]]
 
 https://lareviewofbooks.org/review/on-algorithmic-communism/
 

@@ -9,7 +9,7 @@ date: 2016-01-24
 permalink: 2016/01/24/david-prayer-for-guidance-and-for-deliverance
 ---
 
-[[2016]] • [[commonplace]] • [[David]] • [[The Book of Psalms]]
+[[2016]] • [[Commonplace]] • [[David]] • [[The Book of Psalms]]
 
 https://en.wikipedia.org/wiki/Psalm_25
 

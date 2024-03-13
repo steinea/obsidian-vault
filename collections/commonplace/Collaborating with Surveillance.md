@@ -9,7 +9,7 @@ date: 2016-05-08
 permalink: 2016/05/08/angela-woodward-collaborating-with-surveillance
 ---
 
-[[2016]] • [[commonplace]] • [[Angela Woodward]] • [[Los Angeles Review of Books]]
+[[2016]] • [[Commonplace]] • [[Angela Woodward]] • [[Los Angeles Review of Books]]
 
 https://lareviewofbooks.org/review/collaborating-with-surveillance-wolfgang-hilbigs-east-german-fiction/
 

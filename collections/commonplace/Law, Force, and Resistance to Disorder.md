@@ -9,7 +9,7 @@ date: 2014-10-13
 permalink: 2014/10/13/lawrence-friedman-law-force-and-resistance-to-disorder
 ---
 
-[[2014]] • [[commonplace]] • [[Lawrence Friedman]] • [[Thomas Jefferson Law Review]] • [[Billy Budd, Sailor]]
+[[2014]] • [[Commonplace]] • [[Lawrence Friedman]] • [[Thomas Jefferson Law Review]] • [[Billy Budd, Sailor]]
 
 https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1805948
 

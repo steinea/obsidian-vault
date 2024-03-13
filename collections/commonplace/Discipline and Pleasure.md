@@ -9,7 +9,7 @@ date: 2016-07-13
 permalink: 2016/07/13/vicky-osterweil-discipline-and-pleasure
 ---
 
-[[2016]] • [[commonplace]] • [[Vicky Osterweil]] • [[The New Inquiry]]
+[[2016]] • [[Commonplace]] • [[Vicky Osterweil]] • [[The New Inquiry]]
 
 http://thenewinquiry.com/essays/discipline-and-pleasure/
 

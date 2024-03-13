@@ -9,7 +9,7 @@ date: 2023-12-27
 permalink: 2023/12/27/ayesha-shahid-lessons-on-agroecological-transitions
 ---
 
-[[2023]] • [[commonplace]] • [[Ayesha Shahid]] • [[Platypus]]
+[[2023]] • [[Commonplace]] • [[Ayesha Shahid]] • [[Platypus]]
 
 https://blog.castac.org/2023/07/ways-of-knowing-lessons-on-agroecological-transitions-from-a-pothwari-farm/
 

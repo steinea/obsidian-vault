@@ -9,7 +9,7 @@ date: 2014-10-28
 permalink: 2014/10/28/karl-marx-preface-to-a-contribution-to-the-critique-of-political-economy
 ---
 
-[[2014]] • [[commonplace]] • [[Karl Marx]] • [[Critical Theory]]
+[[2014]] • [[Commonplace]] • [[Karl Marx]] • [[Critical Theory]]
 
 https://www.worldcat.org/title/norton-anthology-of-theory-and-criticism/oclc/45023141
 

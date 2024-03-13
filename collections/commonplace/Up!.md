@@ -9,7 +9,7 @@ date: 2023-10-01
 permalink: 2023/10/01/krelex-zentre-up
 ---
 
-[[2023]] • [[commonplace]] • [[Krëlex Zentre]] • [[Cosmic Bulletin]]
+[[2023]] • [[Commonplace]] • [[Krëlex Zentre]] • [[Cosmic Bulletin]]
 
 https://cosmos.art/cosmic-bulletin/2022/up
 

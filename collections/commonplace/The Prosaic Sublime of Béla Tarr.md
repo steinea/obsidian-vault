@@ -9,7 +9,7 @@ date: 2016-03-10
 permalink: 2016/03/10/rose-mclaren-the-prosaic-sublime-of-bela-tarr
 ---
 
-[[2016]] • [[commonplace]] • [[Rose McLaren]] • [[The White Review]]
+[[2016]] • [[Commonplace]] • [[Rose McLaren]] • [[The White Review]]
 
 http://www.thewhitereview.org/features/the-prosaic-sublime-of-bela-tarr/
 

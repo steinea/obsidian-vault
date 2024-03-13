@@ -9,7 +9,7 @@ date: 2015-06-25
 permalink: 2015/06/25/thomas-piketty-a-practical-vision-of-a-more-equal-society
 ---
 
-[[2015]] • [[commonplace]] • [[Thomas Piketty]] • [[New York Review of Books]] 
+[[2015]] • [[Commonplace]] • [[Thomas Piketty]] • [[New York Review of Books]] 
 
 http://www.nybooks.com/articles/2015/06/25/practical-vision-more-equal-society/
 

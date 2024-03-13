@@ -9,7 +9,7 @@ date: 2016-03-10
 permalink: 2016/03/10/michael-jarrett-heuretics-defined
 ---
 
-[[2016]] • [[commonplace]] • [[Michael Jarrett]] • [[Penn State York]]
+[[2016]] • [[Commonplace]] • [[Michael Jarrett]] • [[Penn State York]]
 
 http://www2.york.psu.edu/~jmj3/home.html
 

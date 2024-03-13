@@ -9,7 +9,7 @@ date: 2016-02-20
 permalink: 2016/02/20/evald-ilyenkov-logic-and-dialectics
 ---
 
-[[2016]] • [[commonplace]] • [[Evald Ilyenkov]] • [[Marxists]]
+[[2016]] • [[Commonplace]] • [[Evald Ilyenkov]] • [[Marxists]]
 
 https://www.marxists.org/archive/ilyenkov/works/essays/essay3.htm
 

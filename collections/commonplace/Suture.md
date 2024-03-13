@@ -9,7 +9,7 @@ date: 2017-08-04
 permalink: 2017/08/04/jacques-alain-miller-suture
 ---
 
-[[2017]] • [[commonplace]] • [[Jacques-Alain Miller]] • [[The Symptom]] 
+[[2017]] • [[Commonplace]] • [[Jacques-Alain Miller]] • [[The Symptom]] 
 
 http://www.lacan.com/symptom8_articles/miller8.html
 

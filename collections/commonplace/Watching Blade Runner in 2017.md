@@ -9,7 +9,7 @@ date: 2017-10-15
 permalink: 2017/10/15/sarah-gailey-watching-blade-runner-in-2017
 ---
 
-[[2017]] • [[commonplace]] • [[Sarah Gailey]] • [[Tor.com]] 
+[[2017]] • [[Commonplace]] • [[Sarah Gailey]] • [[Tor.com]] 
 
 https://www.tor.com/2017/10/03/this-future-looks-familiar-watching-blade-runner-in-2017/
 

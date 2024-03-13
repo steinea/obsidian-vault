@@ -9,7 +9,7 @@ date: 2017-06-30
 permalink: 2017/06/30/lord-byron-so-well-go-no-more-a-roving
 ---
 
-[[2017]] • [[commonplace]] • [[Lord Byron]] • [[Poetry Foundation]] 
+[[2017]] • [[Commonplace]] • [[Lord Byron]] • [[Poetry Foundation]] 
 
 https://www.poetryfoundation.org/poems/43845/so-well-go-no-more-a-roving
 

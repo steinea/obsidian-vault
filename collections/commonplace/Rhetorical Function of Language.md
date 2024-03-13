@@ -9,7 +9,7 @@ date: 2015-03-31
 permalink: 2015/03/31/kenneth-burke-rhetorical-function-of-language
 ---
 
-[[2015]] • [[commonplace]] • [[Kenneth Burke]] • [[Wikipedia]]
+[[2015]] • [[Commonplace]] • [[Kenneth Burke]] • [[Wikipedia]]
 
 https://en.wikipedia.org/wiki/Kenneth_Burke
 

@@ -9,7 +9,7 @@ date: 2014-09-12
 permalink: 2014/09/12/samuel-taylor-coleridge-shakespeares-judgment-equal-to-his-genius
 ---
 
-[[2014]] • [[commonplace]] • [[Samuel Taylor Coleridge]] • [[The Norton Anthology of Theory and Criticism]]
+[[2014]] • [[Commonplace]] • [[Samuel Taylor Coleridge]] • [[The Norton Anthology of Theory and Criticism]]
 
 https://www.worldcat.org/title/norton-anthology-of-theory-and-criticism/oclc/45023141
 

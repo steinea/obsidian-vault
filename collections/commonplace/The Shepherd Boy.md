@@ -9,7 +9,7 @@ date: 2017-11-25
 permalink: 2017/11/25/the-brothers-grimm-the-shepherd-boy
 ---
 
-[[2017]] • [[commonplace]] • [[The Brothers Grimm]] • [[Carnegie Mellon University]] 
+[[2017]] • [[Commonplace]] • [[The Brothers Grimm]] • [[Carnegie Mellon University]] 
 
 https://www.cs.cmu.edu/~spok/grimmtmp/117.txt
 

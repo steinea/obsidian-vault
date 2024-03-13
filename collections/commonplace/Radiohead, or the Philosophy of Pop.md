@@ -9,7 +9,7 @@ date: 2016-07-26
 permalink: 2016/07/26/mark-greif-radiohead-or-the-philosophy-of-pop
 ---
 
-[[2016]] • [[commonplace]] • [[Mark Greif]] • [[n+1]]
+[[2016]] • [[Commonplace]] • [[Mark Greif]] • [[n+1]]
 
 https://nplusonemag.com/issue-3/essays/radiohead-or-philosophy-pop/
 

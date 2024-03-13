@@ -9,7 +9,7 @@ date: 2015-12-23
 permalink: 2015/12/23/benjamin-spall-stacking-habits
 ---
 
-[[2015]] • [[commonplace]] • [[Benjamin Spall]] • [[99U]]
+[[2015]] • [[Commonplace]] • [[Benjamin Spall]] • [[99U]]
 
 https://99u.adobe.com/articles/38251/stacking-habits-how-to-finally-stick-to-your-morning-routine
 

@@ -9,7 +9,7 @@ date: 2017-01-12
 permalink: 2017/01/12/brandon-kreitler-certitude-unwoven
 ---
 
-[[2017]] • [[commonplace]] • [[Brandon Kreitler]] • [[Los Angeles Review of Books]]
+[[2017]] • [[Commonplace]] • [[Brandon Kreitler]] • [[Los Angeles Review of Books]]
 
 https://lareviewofbooks.org/article/certitude-unwoven-first-books-from-sarah-v-schweig-and-justin-boening/
 

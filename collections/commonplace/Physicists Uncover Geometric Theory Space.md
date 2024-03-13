@@ -9,7 +9,7 @@ date: 2017-02-23
 permalink: 2017/02/23/natalie-wolchover-physicists-uncover-geometric-theory-space
 ---
 
-[[2017]] • [[commonplace]] • [[Natalie Wolchover]] • [[Quanta Magazine]] 
+[[2017]] • [[Commonplace]] • [[Natalie Wolchover]] • [[Quanta Magazine]] 
 
 https://www.quantamagazine.org/20170223-bootstrap-geometry-theory-space/
 

@@ -9,7 +9,7 @@ date: 2016-02-15
 permalink: 2016/02/15/tamsin-shaw-the-psychologists-take-power
 ---
 
-[[2016]] • [[commonplace]] • [[Tamsin Shaw]] • [[New York Review of Books]]
+[[2016]] • [[Commonplace]] • [[Tamsin Shaw]] • [[New York Review of Books]]
 
 http://www.nybooks.com/articles/2016/02/25/the-psychologists-take-power/
 

@@ -9,7 +9,7 @@ date: 2023-06-03
 permalink: 2023/06/03/christian-swineheart-one-book-many-readings
 ---
 
-[[2023]] • [[commonplace]] • [[Christian Swineheart]] • [[Samizdat]]
+[[2023]] • [[Commonplace]] • [[Christian Swineheart]] • [[Samizdat]]
 
 https://samizdat.co/cyoa/
  

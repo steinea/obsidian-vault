@@ -9,7 +9,7 @@ date: 2016-03-27
 permalink: 2016/03/27/anu-partanen-americans-dont-get-nordic-countries
 ---
 
-[[2016]] • [[commonplace]] • [[Anu Partanen]] • [[The Atlantic]]
+[[2016]] • [[Commonplace]] • [[Anu Partanen]] • [[The Atlantic]]
 
 http://www.theatlantic.com/politics/archive/2016/03/bernie-sanders-nordic-countries/473385/
 

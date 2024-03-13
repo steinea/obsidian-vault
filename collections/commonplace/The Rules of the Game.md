@@ -9,7 +9,7 @@ date: 2017-01-19
 permalink: 2017/01/19/amartya-sen-eric-maskin-the-rules-of-the-game
 ---
 
-[[2017]] • [[commonplace]] • [[Amartya Sen]] • [[Eric Maskin]] • [[New York Review of Books]]
+[[2017]] • [[Commonplace]] • [[Amartya Sen]] • [[Eric Maskin]] • [[New York Review of Books]]
 
 http://www.nybooks.com/articles/2017/01/19/rules-of-the-game-new-electoral-system/
 

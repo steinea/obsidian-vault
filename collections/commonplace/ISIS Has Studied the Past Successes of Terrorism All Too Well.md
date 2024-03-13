@@ -9,7 +9,7 @@ date: 2015-11-17
 permalink: 2015/11/17/bruce-hoffman-isis-has-studied-the-past-successes-of-terrorism-all-too-well
 ---
 
-[[2015]] • [[commonplace]] • [[Bruce Hoffman]] • [[Aeon]]
+[[2015]] • [[Commonplace]] • [[Bruce Hoffman]] • [[Aeon]]
 
 https://aeon.co/opinions/political-leaders-say-terrorism-doesn-t-work-they-re-wrong
 

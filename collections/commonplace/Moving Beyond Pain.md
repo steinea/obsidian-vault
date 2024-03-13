@@ -9,7 +9,7 @@ date: 2016-05-18
 permalink: 2016/05/18/bell-hooks-moving-beyond-pain
 ---
 
-[[2016]] • [[commonplace]] • [[bell hooks]] • [[bell hooks Institute]]
+[[2016]] • [[Commonplace]] • [[bell hooks]] • [[bell hooks Institute]]
 
 http://www.bellhooksinstitute.com/blog/2016/5/9/moving-beyond-pain
 

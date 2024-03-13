@@ -9,7 +9,7 @@ date: 2014-05-23
 permalink: 2014/05/23/elizabeth-bowen-habit-is-a-tender-tie
 ---
 
-[[2014]] • [[commonplace]] • [[Elizabeth Bowen]] • [[The Death of the Heart]]
+[[2014]] • [[Commonplace]] • [[Elizabeth Bowen]] • [[The Death of the Heart]]
 
 https://en.wikipedia.org/wiki/The_Death_of_the_Heart
 

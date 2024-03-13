@@ -9,7 +9,7 @@ date: 2016-10-08
 permalink: 2016/10/08/alexandra-samuel-inventing-rituals-for-the-digital-world
 ---
 
-[[2016]] • [[commonplace]] • [[Alexandra Samuel]] • [[JSTOR]]
+[[2016]] • [[Commonplace]] • [[Alexandra Samuel]] • [[JSTOR]]
 
 http://daily.jstor.org/inventing-rituals-for-the-digital-world/
 

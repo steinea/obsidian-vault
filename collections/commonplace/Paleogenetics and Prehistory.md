@@ -9,7 +9,7 @@ date: 2015-09-26
 permalink: 2015/09/26/jacob-mikanowski-paleogenetics-and-prehistory
 ---
 
-[[2015]] • [[commonplace]] • [[Jacob Mikanowski]] • [[Aeon]]
+[[2015]] • [[Commonplace]] • [[Jacob Mikanowski]] • [[Aeon]]
 
 https://aeon.co/magazine/science/what-can-paleogenetics-tell-us-about-prehistory
 

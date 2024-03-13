@@ -9,7 +9,7 @@ date: 2014-11-02
 permalink: 2014/11/02/john-valery-white-reactions-to-oppression
 ---
 
-[[2014]] • [[commonplace]] • [[John Valery White]] • [[Yale Law Journal]] / [[Billy Budd, Sailor]]
+[[2014]] • [[Commonplace]] • [[John Valery White]] • [[Yale Law Journal]] / [[Billy Budd, Sailor]]
 
 https://www.jstor.org/stable/796910
 

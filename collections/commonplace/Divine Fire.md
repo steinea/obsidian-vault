@@ -9,7 +9,7 @@ date: 2016-08-17
 permalink: 2016/08/18/kyle-arnold-divine-fire
 ---
 
-[[2016]] • [[commonplace]] • [[Kyle Arnold]] • [[Aeon]]
+[[2016]] • [[Commonplace]] • [[Kyle Arnold]] • [[Aeon]]
 
 https://aeon.co/ideas/the-divine-fire-of-philip-k-dick-s-religious-visions
 

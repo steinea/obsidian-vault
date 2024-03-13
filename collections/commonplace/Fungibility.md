@@ -9,7 +9,7 @@ date: 2017-05-14
 permalink: 2017/05/15/martha-nussbaum-fungibility
 ---
 
-[[2017]] • [[commonplace]] • [[Martha C. Nussbaum]] • [[Philosophy & Public Affairs]] 
+[[2017]] • [[Commonplace]] • [[Martha C. Nussbaum]] • [[Philosophy & Public Affairs]] 
 
 https://onlinelibrary.wiley.com/journal/10884963
 

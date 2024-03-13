@@ -9,7 +9,7 @@ date: 2018-05-28
 permalink: 2018/05/28/david-sims-spencer-kornhaber-sophie-gilbert-phase-space
 ---
 
-[[2018]] • [[commonplace]] • [[David Sims]] • [[Spencer Kornhaber]] • [[Sophie Gilbert]] [[The Atlantic]]
+[[2018]] • [[Commonplace]] • [[David Sims]] • [[Spencer Kornhaber]] • [[Sophie Gilbert]] [[The Atlantic]]
 
 https://www.theatlantic.com/entertainment/archive/2018/05/westworld-season-2-episode-6-phase-space-roundtable/561356/
  

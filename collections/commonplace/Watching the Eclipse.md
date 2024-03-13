@@ -9,7 +9,7 @@ date: 2014-08-12
 permalink: 2014/08/12/david-remnick-watching-the-eclipse
 ---
 
-[[2014]] • [[commonplace]] • [[David Remnick]] • [[The New Yorker]]
+[[2014]] • [[Commonplace]] • [[David Remnick]] • [[The New Yorker]]
 
 http://www.newyorker.com/magazine/2014/08/11/watching-eclipse
 

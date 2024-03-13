@@ -9,7 +9,7 @@ date: 2015-03-26
 permalink: 2015/03/26/fredric-jameson-the-cosmonauts-report
 ---
 
-[[2015]] • [[commonplace]] • [[Fredric Jameson]] • [[New Left Review]]
+[[2015]] • [[Commonplace]] • [[Fredric Jameson]] • [[New Left Review]]
 
 https://newleftreview.org/issues/ii92/articles/fredric-jameson-the-aesthetics-of-singularity
 

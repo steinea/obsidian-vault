@@ -9,7 +9,7 @@ date: 2022-11-13
 permalink: 2022/11/13/sam-barlow-vous-vivrez-en-moi
 ---
 
-[[2022]] • [[commonplace]] • [[Sam Barlow]] • [[Immortality]]
+[[2022]] • [[Commonplace]] • [[Sam Barlow]] • [[Immortality]]
 
 https://www.microsoft.com/store/productId/9PM1905P9LQ6
 

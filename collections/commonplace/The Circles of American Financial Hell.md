@@ -9,7 +9,7 @@ date: 2016-05-07
 permalink: 2016/05/07/rebecca-j-rosen-the-circles-of-american-financial-hell
 ---
 
-[[2016]] • [[commonplace]] • [[Rebecca J. Rosen]] • [[The Atlantic]]
+[[2016]] • [[Commonplace]] • [[Rebecca J. Rosen]] • [[The Atlantic]]
 
 http://www.theatlantic.com/business/archive/2016/05/american-financial-hell/481107/
 

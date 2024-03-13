@@ -9,7 +9,7 @@ date: 2016-02-03
 permalink: 2016/02/03/rene-descartes-discourse-on-method
 ---
 
-[[2016]] • [[commonplace]] • [[Rene Descartes]] • [[Marxists]]
+[[2016]] • [[Commonplace]] • [[Rene Descartes]] • [[Marxists]]
 
 https://www.marxists.org/reference/subject/philosophy/works/fr/descarte.htm
 

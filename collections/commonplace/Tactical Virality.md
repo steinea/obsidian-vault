@@ -9,7 +9,7 @@ date: 2017-02-14
 permalink: 2017/02/14/hannah-barton-tactical-virality
 ---
 
-[[2017]] • [[commonplace]] • [[Hannah Barton]] • [[Real Life]] 
+[[2017]] • [[Commonplace]] • [[Hannah Barton]] • [[Real Life]] 
 
 http://reallifemag.com/tactical-virality/
 

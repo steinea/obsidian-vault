@@ -9,7 +9,7 @@ date: 2015-10-22
 permalink: 2015/10/22/paul-bloom-people-want-fairness
 ---
 
-[[2015]] • [[commonplace]] • [[Paul Bloom]] • [[The Atlantic]]
+[[2015]] • [[Commonplace]] • [[Paul Bloom]] • [[The Atlantic]]
 
 https://www.theatlantic.com/science/archive/2015/10/people-dont-actually-want-equality/411784/
 

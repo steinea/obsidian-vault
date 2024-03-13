@@ -9,7 +9,7 @@ date: 2015-09-11
 permalink: 2015/09/11/john-david-dawson-reading-after-levinas
 ---
 
-[[2015]] • [[commonplace]] • [[John David Dawson]] • [[Bryn Mawr College]]
+[[2015]] • [[Commonplace]] • [[John David Dawson]] • [[Bryn Mawr College]]
 
 https://www.brynmawr.edu/bmrcl/rev10eaglestone.html
 

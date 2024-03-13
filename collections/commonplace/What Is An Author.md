@@ -9,7 +9,7 @@ date: 2014-10-01
 permalink: 2014/10/01/michel-foucault-what-is-an-author
 ---
 
-[[2014]] • [[commonplace]] • [[Michel Foucault]] • [[The Norton Anthology of Theory and Criticism]]
+[[2014]] • [[Commonplace]] • [[Michel Foucault]] • [[The Norton Anthology of Theory and Criticism]]
 
 https://www.worldcat.org/title/norton-anthology-of-theory-and-criticism/oclc/45023141
 

@@ -9,7 +9,7 @@ date: 2023-12-16
 permalink: 2023/12/16/bret-devereaux-celtic-warfare
 ---
 
-[[2023]] • [[commonplace]] • [[Bret Devereaux]] • [[A Collection of Unmitigated Pedentry]] 
+[[2023]] • [[Commonplace]] • [[Bret Devereaux]] • [[A Collection of Unmitigated Pedentry]] 
 
 https://acoup.blog/2023/05/12/collections-who-were-the-celts-and-how-did-they-some-of-them-fight/
 

@@ -9,7 +9,7 @@ date: 2018-01-09
 permalink: 2018/01/09/ed-yong-super-black-is-the-new-black
 ---
 
-[[2018]] • [[commonplace]] • [[Ed Yong]] • [[The Atlantic]]
+[[2018]] • [[Commonplace]] • [[Ed Yong]] • [[The Atlantic]]
 
 https://www.theatlantic.com/science/archive/2018/01/super-black-is-the-new-black/549869/
  

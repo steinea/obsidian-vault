@@ -9,7 +9,7 @@ date: 2015-10-29
 permalink: 2015/10/29/matt-bors-the-gif-bite-election
 ---
 
-[[2015]] • [[commonplace]] • [[Matt Bors]] • [[Medium]]
+[[2015]] • [[Commonplace]] • [[Matt Bors]] • [[Medium]]
 
 https://mattbors.medium.com/the-gif-bite-election-34dfab84014
 

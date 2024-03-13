@@ -9,7 +9,7 @@ date: 2015-10-24
 permalink: 2015/10/24/george-herbert-matins
 ---
 
-[[2015]] • [[commonplace]] • [[George Herbert]] • [[The Temple]]
+[[2015]] • [[Commonplace]] • [[George Herbert]] • [[The Temple]]
 
 https://www.georgeherbert.org.uk/archives/selected_work_02.html
 

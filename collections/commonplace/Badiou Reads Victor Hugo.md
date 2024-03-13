@@ -9,7 +9,7 @@ date: 2016-12-22
 permalink: 2016/12/22/terence-blake-badiou-reads-victor-hugo
 ---
 
-[[2016]] • [[commonplace]] • [[Terence Blake]] • [[Agent Swarm]]
+[[2016]] • [[Commonplace]] • [[Terence Blake]] • [[Agent Swarm]]
 
 https://terenceblake.wordpress.com/2016/12/22/badiou-reads-victor-hugo-1-the-blue-thistle-and-dis-enclosing-the-finite/
 

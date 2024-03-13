@@ -9,7 +9,7 @@ date: 2015-05-09
 permalink: 2015/05/09/jeffrey-toobin-how-to-stop-mass-incarceration
 ---
 
-[[2015]] • [[commonplace]] • [[Jeffrey Toobin]] • [[The New Yorker]] 
+[[2015]] • [[Commonplace]] • [[Jeffrey Toobin]] • [[The New Yorker]] 
 
 https://www.newyorker.com/magazine/2015/05/11/the-milwaukee-experiment
 

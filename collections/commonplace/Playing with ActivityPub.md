@@ -9,7 +9,7 @@ date: 2023-06-03
 permalink: 2023/06/03/tom-macwright-playing-with-activitypub
 ---
 
-[[2023]] • [[commonplace]] • [[Tom MacWright]]
+[[2023]] • [[Commonplace]] • [[Tom MacWright]]
 
 https://macwright.com/2022/12/09/activitypub.html
  

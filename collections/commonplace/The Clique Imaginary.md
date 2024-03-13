@@ -9,7 +9,7 @@ date: 2016-07-23
 permalink: 2016/07/23/alana-massey-the-clique-imaginary
 ---
 
-[[2016]] • [[commonplace]] • [[Alana Massey]] • [[The New Inquiry]]
+[[2016]] • [[Commonplace]] • [[Alana Massey]] • [[The New Inquiry]]
 
 http://thenewinquiry.com/essays/the-clique-imaginary/
 

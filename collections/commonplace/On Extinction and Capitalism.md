@@ -9,7 +9,7 @@ date: 2016-07-13
 permalink: 2016/07/13/matthew-schneider-mayerson-on-extinction-and-capitalism
 ---
 
-[[2016]] • [[commonplace]] • [[Matthew Schneider-Mayerson]] • [[Los Angeles Review of Books]]
+[[2016]] • [[Commonplace]] • [[Matthew Schneider-Mayerson]] • [[Los Angeles Review of Books]]
 
 https://lareviewofbooks.org/review/on-extinction-and-capitalism/
 

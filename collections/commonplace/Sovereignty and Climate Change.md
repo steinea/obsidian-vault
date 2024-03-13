@@ -9,7 +9,7 @@ date: 2013-08-01
 permalink: 2013/08/01/john-macfarlane-sovereignty-and-climate-change
 ---
 
-[[2013]] • [[commonplace]] • [[John Macfarlane]] • [[The Walrus]]
+[[2013]] • [[Commonplace]] • [[John Macfarlane]] • [[The Walrus]]
 
 https://thewalrus.ca/editors-note-10-6/
 

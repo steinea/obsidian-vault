@@ -9,7 +9,7 @@ date: 2017-02-13
 permalink: 2017/02/13/badious-love-procedure
 ---
 
-[[2017]] • [[commonplace]] • [[Terence Blake]] • [[Agent Swarm]]
+[[2017]] • [[Commonplace]] • [[Terence Blake]] • [[Agent Swarm]]
 
 https://terenceblake.wordpress.com/2017/02/08/badious-love-procedure-avoiding-de-genericity/
  

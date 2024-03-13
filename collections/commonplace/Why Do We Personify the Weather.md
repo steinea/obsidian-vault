@@ -9,7 +9,7 @@ date: 2015-03-05
 permalink: 2015/03/05/dan-piepenbring-why-do-we-personify-the-weather
 ---
 
-[[2015]] • [[commonplace]] • [[Dan Piepenbring]] • [[The Paris Review]]
+[[2015]] • [[Commonplace]] • [[Dan Piepenbring]] • [[The Paris Review]]
 
 https://www.theparisreview.org/blog/2015/03/05/perfect-paul/
 

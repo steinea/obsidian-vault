@@ -9,7 +9,7 @@ date: 2022-11-07
 permalink: 2022/11/07/tony-gilroy-you-have-to-be-directing
 ---
 
-[[2022]] • [[commonplace]] • [[Tony Gilroy]] • [[Script]]
+[[2022]] • [[Commonplace]] • [[Tony Gilroy]] • [[Script]]
 
 https://scriptmag.com/interviews-features/tony-gilroy-checks-in-after-10-episodes-of-andor
 

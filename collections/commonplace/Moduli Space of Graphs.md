@@ -9,7 +9,7 @@ date: 2023-06-11
 permalink: 2023/06/11/leila-sloman-modul-space-of-graphs
 ---
 
-[[2023]] • [[commonplace]] • [[Leila Sloman]] • [[Quanta Magazine]]
+[[2023]] • [[Commonplace]] • [[Leila Sloman]] • [[Quanta Magazine]]
 
 https://www.quantamagazine.org/quantum-field-theory-pries-open-mathematical-puzzle-20230216/
  

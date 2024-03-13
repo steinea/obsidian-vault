@@ -9,7 +9,7 @@ date: 2017-07-26
 permalink: 2017/07/26/terence-blake-zizeks-quantum-genesis
 ---
 
-[[2017]] • [[commonplace]] • [[Terence Blake]] • [[Agent Swarm]] 
+[[2017]] • [[Commonplace]] • [[Terence Blake]] • [[Agent Swarm]] 
 
 https://terenceblake.wordpress.com/2017/07/26/reading-disparities-10-zizeks-quantum-genesis/
 

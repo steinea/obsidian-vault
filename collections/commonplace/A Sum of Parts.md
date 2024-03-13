@@ -9,7 +9,7 @@ date: 2023-10-07
 permalink: 2023/10/07/daniel-woolf-a-sum-of-parts
 ---
 
-[[2023]] • [[commonplace]] • [[Daniel Woolf]] • [[Literary Review of Canada]]
+[[2023]] • [[Commonplace]] • [[Daniel Woolf]] • [[Literary Review of Canada]]
 
 https://reviewcanada.ca/magazine/2023/09/a-sum-of-parts/
 

@@ -9,7 +9,7 @@ date: 2017-06-21
 permalink: 2017/06/21/karl-popper-metaphysical-research-program
 ---
 
-[[2017]] • [[commonplace]] • [[Karl Popper]] • [[Philosophy After Darwin]] 
+[[2017]] • [[Commonplace]] • [[Karl Popper]] • [[Philosophy After Darwin]] 
 
 https://press.princeton.edu/books/paperback/9780691135540/philosophy-after-darwin
 

@@ -9,7 +9,7 @@ date: 2015-06-03
 permalink: 2015/06/03/jeremy-glazier-un-coup-didees
 ---
 
-[[2015]] • [[commonplace]] • [[Jeremy Glazier]] • [[Los Angeles Review of Books]] 
+[[2015]] • [[Commonplace]] • [[Jeremy Glazier]] • [[Los Angeles Review of Books]] 
 
 https://lareviewofbooks.org/article/un-coup-didees-a-new-translation-of-mallarmes-a-roll-of-the-dice/
 

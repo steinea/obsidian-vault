@@ -9,7 +9,7 @@ date: 2016-07-25
 permalink: 2016/07/25/murray-gell-man-eightfold-way-in-quantum-physics
 ---
 
-[[2016]] • [[commonplace]] • [[Murray Gell-Mann]] • [[Wikipedia]]
+[[2016]] • [[Commonplace]] • [[Murray Gell-Mann]] • [[Wikipedia]]
 
 https://en.wikipedia.org/w/index.php?title=Eightfold_Way_(physics)&oldid=726044389
 

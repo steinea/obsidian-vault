@@ -9,7 +9,7 @@ date: 2023-07-01
 permalink: 2023/07/01/noam-chomsky-how-people-perceive-themselves
 ---
 
-[[2023]] • [[commonplace]] • [[Noam Chomsky]] • [[Goodreads]]
+[[2023]] • [[Commonplace]] • [[Noam Chomsky]] • [[Goodreads]]
 
 https://www.goodreads.com/quotes/339156-how-people-themselves-perceive-what-they-are-doing-is-not
  

@@ -9,7 +9,7 @@ date: 2016-03-13
 permalink: 2016/03/13/herbert-marcuse-introduction-to-reason-and-revolution
 ---
 
-[[2016]] • [[commonplace]] • [[Herbert Marcuse]] • [[Marxists]]
+[[2016]] • [[Commonplace]] • [[Herbert Marcuse]] • [[Marxists]]
 
 https://www.marxists.org/reference/archive/marcuse/works/reason/ch01-1.htm
 

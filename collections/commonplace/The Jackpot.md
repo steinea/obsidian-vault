@@ -9,7 +9,7 @@ date: 2022-11-10
 permalink: 2022/11/10/william-gibson-the-jackpot
 ---
 
-[[2022]] • [[commonplace]] • [[William Gibson]] • [[The Peripheral]]
+[[2022]] • [[Commonplace]] • [[William Gibson]] • [[The Peripheral]]
 
 https://www.imdb.com/title/tt15576568/
 

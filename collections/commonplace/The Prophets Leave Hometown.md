@@ -9,7 +9,7 @@ date: 2015-07-11
 permalink: 2015/07/11/david-kordahl-the-prophets-leave-hometown
 ---
 
-[[2015]] • [[commonplace]] • [[David Kordahl]] • [[Los Angeles Review of Books]] 
+[[2015]] • [[Commonplace]] • [[David Kordahl]] • [[Los Angeles Review of Books]] 
 
 https://lareviewofbooks.org/article/the-prophets-leave-hometown-three-physicists-try-philosophy/
 

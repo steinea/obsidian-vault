@@ -9,7 +9,7 @@ date: 2016-05-08
 permalink: 2016/05/08/dylan-hicks-type-slowly
 ---
 
-[[2016]] • [[commonplace]] • [[Dylan Hicks]] • [[Los Angeles Review of Books]]
+[[2016]] • [[Commonplace]] • [[Dylan Hicks]] • [[Los Angeles Review of Books]]
 
 https://lareviewofbooks.org/review/type-slowly-word-processing-and-literary-composition/
 

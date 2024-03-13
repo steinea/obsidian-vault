@@ -9,7 +9,7 @@ date: 2015-08-25
 permalink: 2015/08/25/andy-greenwald-amcs-promising-return-to-zombieland
 ---
 
-[[2015]] • [[commonplace]] • [[Andy Greenwald]] • [[Grantland]]
+[[2015]] • [[Commonplace]] • [[Andy Greenwald]] • [[Grantland]]
 
 http://grantland.com/hollywood-prospectus/dead-again-amcs-promising-return-to-zombieland/
 

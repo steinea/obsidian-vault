@@ -9,7 +9,7 @@ date: 2015-02-05
 permalink: 2015/02/05/jeffrey-tyler-fyodors-guide
 ---
 
-[[2015]] • [[commonplace]] • [[Jeffrey Tyler]] • [[The Atlantic]]
+[[2015]] • [[Commonplace]] • [[Jeffrey Tyler]] • [[The Atlantic]]
 
 https://www.theatlantic.com/magazine/archive/2015/01/fyodors-guide/383498/
 

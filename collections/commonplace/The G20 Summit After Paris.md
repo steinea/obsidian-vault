@@ -9,7 +9,7 @@ date: 2015-11-16
 permalink: 2015/11/16/tajha-chappellet-lanier-the-g20-summit-after-paris
 ---
 
-[[2015]] • [[commonplace]] • [[Tajha Chappellet-Lanier]] • [[The Atlantic]]
+[[2015]] • [[Commonplace]] • [[Tajha Chappellet-Lanier]] • [[The Atlantic]]
 
 https://www.theatlantic.com/international/archive/2015/11/the-g20-summit-after-paris/416127/
 

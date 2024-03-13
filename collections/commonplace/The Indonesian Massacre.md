@@ -9,7 +9,7 @@ date: 2015-11-03
 permalink: 2015/11/03/margaret-scott-the-indonesian-massacre
 ---
 
-[[2015]] • [[commonplace]] • [[Margaret Scott]] • [[New York Review of Books]]
+[[2015]] • [[Commonplace]] • [[Margaret Scott]] • [[New York Review of Books]]
 
 https://www.nybooks.com/online/2015/11/02/indonesian-massacre-what-did-us-know/
 

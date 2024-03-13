@@ -9,7 +9,7 @@ date: 2017-03-14
 permalink: 2017/03/14/kavi-bilhana-black-marigolds
 ---
 
-[[2017]] • [[commonplace]] • [[Kavi Bilhana]] • [[Sacred Texts]] 
+[[2017]] • [[Commonplace]] • [[Kavi Bilhana]] • [[Sacred Texts]] 
 
 https://www.sacred-texts.com/hin/bilhana/bil01.htm
 

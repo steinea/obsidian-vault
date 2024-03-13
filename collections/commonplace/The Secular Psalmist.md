@@ -9,7 +9,7 @@ date: 2016-01-08
 permalink: 2016/01/08/james-wood-the-secular-psalmist
 ---
 
-[[2016]] • [[commonplace]] • [[James Wood]] • [[The New Yorker]]
+[[2016]] • [[Commonplace]] • [[James Wood]] • [[The New Yorker]]
 
 http://www.newyorker.com/magazine/2016/01/04/like-a-prayer
 

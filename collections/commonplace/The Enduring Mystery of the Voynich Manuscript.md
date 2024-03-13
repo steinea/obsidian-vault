@@ -9,7 +9,7 @@ date: 2017-02-03
 permalink: 2017/02/03/dustin-illingworth-the-enduring-mystery-of-the-voynich-manuscript
 ---
 
-[[2017]] • [[commonplace]] • [[Dustin Illingworth]] • [[Los Angeles Review of Books]] 
+[[2017]] • [[Commonplace]] • [[Dustin Illingworth]] • [[Los Angeles Review of Books]] 
 
 https://lareviewofbooks.org/article/a-certain-riddle-of-the-sphinx-the-enduring-mystery-of-the-voynich-manuscript/
 

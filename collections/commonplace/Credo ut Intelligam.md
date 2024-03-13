@@ -9,7 +9,7 @@ date: 2013-07-02
 permalink: 2013/07/02/anselm-credo-ut-intelligam
 ---
 
-[[2013]] • [[commonplace]] • [[Anselm of Canterbury]] • [[Internet Medieval Sourcebook]]
+[[2013]] • [[Commonplace]] • [[Anselm of Canterbury]] • [[Internet Medieval Sourcebook]]
 
 https://sourcebooks.fordham.edu/basis/anselm-proslogium.asp
 

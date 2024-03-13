@@ -9,7 +9,7 @@ date: 2015-06-29
 permalink: 2015/06/29/santiago-zabala-what-to-make-of-heidegger-in-2015
 ---
 
-[[2015]] • [[commonplace]] • [[Santiago Zabala]] • [[Los Angeles Review of Books]]
+[[2015]] • [[Commonplace]] • [[Santiago Zabala]] • [[Los Angeles Review of Books]]
 
 https://lareviewofbooks.org/article/what-to-make-of-heidegger-in-2015/
 

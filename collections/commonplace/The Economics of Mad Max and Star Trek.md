@@ -9,7 +9,7 @@ date: 2015-06-29
 permalink: 2015/06/29/tom-streithorst-the-economics-of-mad-max-and-star-trek
 ---
 
-[[2015]] • [[commonplace]] • [[Tom Streithorst]] • [[Los Angeles Review of Books]]
+[[2015]] • [[Commonplace]] • [[Tom Streithorst]] • [[Los Angeles Review of Books]]
 
 https://lareviewofbooks.org/article/the-economics-of-mad-max-and-star-trek/
 

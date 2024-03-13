@@ -9,7 +9,7 @@ date: 2015-11-24
 permalink: 2015/11/24/amanda-gefter-quantum-mechanics-is-putting-human-identity-on-trial
 ---
 
-[[2015]] • [[commonplace]] • [[Amanda Gefter]] • [[Nautilus]]
+[[2015]] • [[Commonplace]] • [[Amanda Gefter]] • [[Nautilus]]
 
 https://web.archive.org/web/20151121053258/https://nautil.us/issue/30/identity/quantum-mechanics-is-putting-human-identity-on-trial
 

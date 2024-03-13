@@ -9,7 +9,7 @@ date: 2017-03-02
 permalink: 2017/03/02/gary-snyder-an-exercise-in-mind-focus
 ---
 
-[[2017]] • [[commonplace]] • [[Gary Snyder]] • [[Poetry Foundation]] 
+[[2017]] • [[Commonplace]] • [[Gary Snyder]] • [[Poetry Foundation]] 
  
 “[Haiku] is not a literary career; it’s an exercise in mind-focus that everyone shares.”
 

@@ -9,7 +9,7 @@ date: 2016-04-16
 permalink: 2016/04/16/caitlin-keefe-moran-yet-ill-speak
 ---
 
-[[2016]] • [[commonplace]] • [[Caitlin Keefe Moran]] • [[The Toast]]
+[[2016]] • [[Commonplace]] • [[Caitlin Keefe Moran]] • [[The Toast]]
 
 http://the-toast.net/2016/04/13/yet-ill-speak-othellos-emilia/
 

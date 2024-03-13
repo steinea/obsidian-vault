@@ -9,7 +9,7 @@ date: 2017-07-20
 permalink: 2017/07/20/spencer-kornhaber-on-chester-bennington
 ---
 
-[[2017]] • [[commonplace]] • [[Spencer Kornhaber]] • [[The Atlantic]] 
+[[2017]] • [[Commonplace]] • [[Spencer Kornhaber]] • [[The Atlantic]] 
 
 https://www.theatlantic.com/entertainment/archive/2017/07/chester-bennington-rip-41-victimhood/534393/
 

@@ -9,7 +9,7 @@ date: 2016-11-03
 permalink: 2016/11/03/maria-bustillos-when-truth-falls-apart
 ---
 
-[[2016]] • [[commonplace]] • [[Maria Bustillos]] • [[The Awl]]
+[[2016]] • [[Commonplace]] • [[Maria Bustillos]] • [[The Awl]]
 
 https://theawl.com/when-truth-falls-apart-b4667d39575b
 

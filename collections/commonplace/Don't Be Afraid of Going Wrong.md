@@ -9,7 +9,7 @@ date: 2023-03-11
 permalink: 2023/03/11/max-levin-dont-be-afraid-of-going-wrong
 ---
 
-[[2023]] • [[commonplace]] • [[Max Levin]] • [[Los Angeles Review of Books]]
+[[2023]] • [[Commonplace]] • [[Max Levin]] • [[Los Angeles Review of Books]]
 
 https://dev.lareviewofbooks.org/article/dont-be-afraid-of-going-wrong-conversations-with-c-l-r-james/
  

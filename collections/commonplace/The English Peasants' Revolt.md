@@ -9,7 +9,7 @@ date: 2023-10-16
 permalink: 2023/10/16/dominic-alexander-the-english-peasants-revolt
 ---
 
-[[2023]] • [[commonplace]] • [[Dominic Alexander]] • [[Jacobin]]
+[[2023]] • [[Commonplace]] • [[Dominic Alexander]] • [[Jacobin]]
 
 https://jacobin.com/2023/04/english-rising-1381-peasants-townspeople-london-class/
 

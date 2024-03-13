@@ -9,7 +9,7 @@ date: 2016-07-17
 permalink: 2016/07/17/daniel-kunitz-via-activa
 ---
 
-[[2016]] • [[commonplace]] • [[Daniel Kunitz]] •[[The Paris Review]]
+[[2016]] • [[Commonplace]] • [[Daniel Kunitz]] •[[The Paris Review]]
 
 http://www.theparisreview.org/blog/2016/07/12/via-activa/
 

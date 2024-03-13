@@ -9,7 +9,7 @@ date: 2022-11-13
 permalink: 2022/11/13/alexander-galloway-fred-serval-le-jeu-de-la-guerre
 ---
 
-[[2022]] • [[commonplace]] • [[Alexander Galloway]] • [[Fred Serval]] • [[Homo Ludens]]
+[[2022]] • [[Commonplace]] • [[Alexander Galloway]] • [[Fred Serval]] • [[Homo Ludens]]
 
 https://youtu.be/CGjt8po_y4I
 

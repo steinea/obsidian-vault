@@ -9,7 +9,7 @@ date: 2016-04-03
 permalink: 2016/04/03/maria-teresa-hart-the-evolution-of-the-perfect-hero-body
 ---
 
-[[2016]] • [[commonplace]] • [[Maria Teresa Hart]] • [[The Atlantic]]
+[[2016]] • [[Commonplace]] • [[Maria Teresa Hart]] • [[The Atlantic]]
 
 http://www.theatlantic.com/entertainment/archive/2016/04/superman-batman-and-the-evolution-of-the-perfect-male-body/475998/
 

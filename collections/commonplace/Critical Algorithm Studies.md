@@ -9,7 +9,7 @@ date: 2016-01-29
 permalink: 2016/01/29/tarleton-gillespie-nick-seaver-critical-algorithm-studies
 ---
 
-[[2016]] • [[commonplace]] • [[Tarleton Gillespie]] • [[Nick Seaver]] • [[Social Media Collective]]
+[[2016]] • [[Commonplace]] • [[Tarleton Gillespie]] • [[Nick Seaver]] • [[Social Media Collective]]
 
 http://socialmediacollective.org/reading-lists/critical-algorithm-studies/
 

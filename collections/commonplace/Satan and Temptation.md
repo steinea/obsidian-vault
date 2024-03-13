@@ -9,7 +9,7 @@ date: 2017-04-21
 permalink: 2017/04/21/virginia-halbur-satan-and-temptation
 ---
 
-[[2017]] • [[commonplace]] • [[Virginia Halbur]] • [[Saint Mary's Press College Study Bible]] 
+[[2017]] • [[Commonplace]] • [[Virginia Halbur]] • [[Saint Mary's Press College Study Bible]] 
 
 https://en.novalis.ca/products/college-study-bible
 

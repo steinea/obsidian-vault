@@ -9,7 +9,7 @@ date: 2014-09-30
 permalink: 2014/09/30/hayden-white-the-historical-text-as-literary-artifact
 ---
 
-[[2014]] • [[commonplace]] • [[Hayden White]] • [[Critical Theory]]
+[[2014]] • [[Commonplace]] • [[Hayden White]] • [[Critical Theory]]
 
 https://global.oup.com/ushe/product/critical-theory-9780199797776
 

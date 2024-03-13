@@ -9,7 +9,7 @@ date: 2016-08-22
 permalink: 2016/08/22/tony-k-for-they-know-not-what-they-do
 ---
 
-[[2016]] • [[commonplace]] • [[Tony K.]] • [[Amazon Review]]
+[[2016]] • [[Commonplace]] • [[Tony K.]] • [[Amazon Review]]
 
 https://www.amazon.ca/product-reviews/0860913554/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=recent
 

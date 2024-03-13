@@ -9,7 +9,7 @@ date: 2017-08-14
 permalink: 2017/08/14/aaron-bady-sarah-mesle-eastwatch
 ---
 
-[[2017]] • [[commonplace]] • [[Aaron Bady]] • [[Sarah Mesle]] • [[Los Angeles Review of Books]]
+[[2017]] • [[Commonplace]] • [[Aaron Bady]] • [[Sarah Mesle]] • [[Los Angeles Review of Books]]
 
 https://lareviewofbooks.org/article/game-thrones-eastwatch/
 

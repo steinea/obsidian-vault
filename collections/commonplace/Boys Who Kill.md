@@ -9,7 +9,7 @@ date: 2014-01-07
 permalink: 2014/01/07/seth-oelbaum-boys-who-kill
 ---
 
-[[2014]] • [[commonplace]] • [[Seth Oelbaum]] • [[HTMLGIANT]]
+[[2014]] • [[Commonplace]] • [[Seth Oelbaum]] • [[HTMLGIANT]]
 
 https://htmlgiant.com/tag/boys-who-kill/
 

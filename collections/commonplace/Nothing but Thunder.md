@@ -9,7 +9,7 @@ date: 2015-01-13
 permalink: 2015/01/13/michael-ondaatje-nothing-but-thunder
 ---
 
-[[2015]] • [[commonplace]] • [[Michael Ondaatje]] • [[In the Skin of a Lion]]
+[[2015]] • [[Commonplace]] • [[Michael Ondaatje]] • [[In the Skin of a Lion]]
 
 https://www.penguinrandomhouse.ca/books/124591/in-the-skin-of-a-lion-by-michael-ondaatje/9780394281827
 

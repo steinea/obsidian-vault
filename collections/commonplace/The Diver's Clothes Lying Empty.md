@@ -9,7 +9,7 @@ date: 2016-03-03
 permalink: 2016/03/03/rumi-the-divers-clothes-lying-empty
 ---
 
-[[2016]] • [[commonplace]] • [[Rumi]] • [[Mud and Lotus]]
+[[2016]] • [[Commonplace]] • [[Rumi]] • [[Mud and Lotus]]
 
 https://mudandlotus.blogspot.com/2010/07/divers-clothes-lying-empty.html
 

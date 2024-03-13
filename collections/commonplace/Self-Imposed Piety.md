@@ -9,7 +9,7 @@ date: 2016-02-18
 permalink: 2016/02/18/paul-self-imposed-piety
 ---
 
-[[2016]] • [[commonplace]] • [[Paul]] • [[Bible]]
+[[2016]] • [[Commonplace]] • [[Paul]] • [[Bible]]
 
 https://en.wikipedia.org/wiki/Colossians_2
 

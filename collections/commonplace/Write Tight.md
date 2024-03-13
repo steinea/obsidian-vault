@@ -9,7 +9,7 @@ date: 2015-04-22
 permalink: 2015/04/22/damion-searls-write-tight
 ---
 
-[[2015]] • [[commonplace]] • [[Damion Searls]] • [[The Paris Review]] 
+[[2015]] • [[Commonplace]] • [[Damion Searls]] • [[The Paris Review]] 
 
 https://www.theparisreview.org/blog/2015/04/21/write-tight/
 

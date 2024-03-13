@@ -9,7 +9,7 @@ date: 2016-01-09
 permalink: 2016/01/09/michael-a-elliott-american-nostalgia
 ---
 
-[[2016]] • [[commonplace]] • [[Michael A. Elliott]] • [[Los Angeles Review of Books]]
+[[2016]] • [[Commonplace]] • [[Michael A. Elliott]] • [[Los Angeles Review of Books]]
 
 https://lareviewofbooks.org/essay/american-nostalgia/
 

@@ -9,7 +9,7 @@ date: 2014-09-04
 permalink: 2014/09/04/susan-sontag-on-keeping-a-journal
 ---
 
-[[2014]] • [[commonplace]] • [[Susan Sontag]] • [[The New York Times]]
+[[2014]] • [[Commonplace]] • [[Susan Sontag]] • [[The New York Times]]
 
 https://www.nytimes.com/2006/09/10/magazine/10sontag.html
 

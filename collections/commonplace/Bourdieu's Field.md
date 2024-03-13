@@ -9,7 +9,7 @@ date: 2016-05-11
 permalink: 2016/05/11/pierre-bourdieu-field
 ---
 
-[[2016]] • [[commonplace]] • [[Pierre Bourdieu]] • [[Wikipedia]]
+[[2016]] • [[Commonplace]] • [[Pierre Bourdieu]] • [[Wikipedia]]
 
 https://en.wikipedia.org/wiki/Field_(Bourdieu)
 

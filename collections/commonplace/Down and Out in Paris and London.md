@@ -9,7 +9,7 @@ date: 2015-07-10
 permalink: 2015/07/10/george-orwell-down-and-out-in-paris-and-london
 ---
 
-[[2015]] • [[commonplace]] • [[George Orwell]] • [[Down and Out in Paris and London]] 
+[[2015]] • [[Commonplace]] • [[George Orwell]] • [[Down and Out in Paris and London]] 
 
 https://en.wikipedia.org/wiki/Down_and_Out_in_Paris_and_London
 

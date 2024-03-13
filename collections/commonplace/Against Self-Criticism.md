@@ -9,7 +9,7 @@ date: 2015-03-09
 permalink: 2015/03/09/adam-phillips-against-self-criticism
 ---
 
-[[2015]] • [[commonplace]] • [[Adam Phillips]] • [[London Review of Books]]
+[[2015]] • [[Commonplace]] • [[Adam Phillips]] • [[London Review of Books]]
 
 https://www.lrb.co.uk/the-paper/v37/n05/adam-phillips/against-self-criticism
 

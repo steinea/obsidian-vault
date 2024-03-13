@@ -9,7 +9,7 @@ date: 2016-02-02
 permalink: 2016/02/02/alfie-brown-seconds-of-pleasure
 ---
 
-[[2016]] • [[commonplace]] • [[Alfie Brown]] • [[The New Inquiry]]
+[[2016]] • [[Commonplace]] • [[Alfie Brown]] • [[The New Inquiry]]
 
 http://thenewinquiry.com/essays/seconds-of-pleasure/
 

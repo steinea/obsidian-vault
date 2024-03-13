@@ -9,7 +9,7 @@ date: 2015-06-17
 permalink: 2015/06/17/andrew-sabl-liberalism-as-drama
 ---
 
-[[2015]] • [[commonplace]] • [[Andrew Sabl]] • [[Los Angeles Review of Books]] 
+[[2015]] • [[Commonplace]] • [[Andrew Sabl]] • [[Los Angeles Review of Books]] 
 
 https://lareviewofbooks.org/article/liberalism-as-drama/
 

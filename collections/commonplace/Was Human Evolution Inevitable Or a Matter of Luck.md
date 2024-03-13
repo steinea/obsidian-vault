@@ -9,7 +9,7 @@ date: 2015-07-02
 permalink: 2015/07/02/dan-falk-was-human-evolution-inevitable-or-a-matter-of-luck
 ---
 
-[[2015]] • [[commonplace]] • [[Dan Falk]] • [[Aeon]] 
+[[2015]] • [[Commonplace]] • [[Dan Falk]] • [[Aeon]] 
 
 https://aeon.co/magazine/science/was-human-evolution-inevitable-or-a-matter-of-luck
 

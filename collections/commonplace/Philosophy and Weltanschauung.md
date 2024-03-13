@@ -9,7 +9,7 @@ date: 2016-04-16
 permalink: 2016/04/16/martin-heidegger-philosophy-and-weltanschauung
 ---
 
-[[2016]] • [[commonplace]] • [[Martin Heidegger]] • [[The Basic Problems of Phenomenology]]
+[[2016]] • [[Commonplace]] • [[Martin Heidegger]] • [[The Basic Problems of Phenomenology]]
 
 https://www.marxists.org/reference/subject/philosophy/works/ge/heidegge.htm
 

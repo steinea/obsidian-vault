@@ -9,7 +9,7 @@ date: 2023-01-10
 permalink: 2023/01/10/ill-will-citational-machines
 ---
 
-[[2023]] • [[commonplace]] • [[Ill Will]] • [[Twitter]]
+[[2023]] • [[Commonplace]] • [[Ill Will]] • [[Twitter]]
 
 https://mobile.twitter.com/illwilleditions/status/1612861710171525121
  

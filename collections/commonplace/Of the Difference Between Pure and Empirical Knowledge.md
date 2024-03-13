@@ -9,7 +9,7 @@ date: 2016-02-04
 permalink: 2016/02/04/immanuel-kant-of-the-difference-between-pure-and-empirical-knowledge
 ---
 
-[[2016]] • [[commonplace]] • [[Immanuel Kant]] • [[Marxists]]
+[[2016]] • [[Commonplace]] • [[Immanuel Kant]] • [[Marxists]]
 
 https://www.marxists.org/reference/subject/ethics/kant/reason/ch01.htm
 

@@ -9,7 +9,7 @@ date: 2014-09-21
 permalink: 2014/09/21/aelfric-old-english-genesis
 ---
 
-[[2014]] • [[commonplace]] • [[Ælfric of Eynsham]] • [[The Medieval Period]]
+[[2014]] • [[Commonplace]] • [[Ælfric of Eynsham]] • [[The Medieval Period]]
 
 https://broadviewpress.com/product/the-broadview-anthology-of-british-literature-the-medieval-period-third-edition/
 

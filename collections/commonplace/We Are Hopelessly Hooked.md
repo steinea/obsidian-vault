@@ -9,7 +9,7 @@ date: 2016-02-15
 permalink: 2016/02/15/jacob-weisberg-we-are-hopelessly-hooked
 ---
 
-[[2016]] • [[commonplace]] • [[Jacob Weisberg]] • [[New York Review of Books]]
+[[2016]] • [[Commonplace]] • [[Jacob Weisberg]] • [[New York Review of Books]]
 
 http://www.nybooks.com/articles/2016/02/25/we-are-hopelessly-hooked/
 

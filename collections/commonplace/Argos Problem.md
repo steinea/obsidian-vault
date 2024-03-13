@@ -9,7 +9,7 @@ date: 2015-09-03
 permalink: 2015/09/03/hayden-white-argos-problem
 ---
 
-[[2015]] • [[commonplace]] • [[Hayden White]]
+[[2015]] • [[Commonplace]] • [[Hayden White]]
 
 Stanford Archeology, Theory of Assemblage
 

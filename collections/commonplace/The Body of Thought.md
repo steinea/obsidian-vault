@@ -9,7 +9,7 @@ date: 2023-01-07
 permalink: 2023/01/07/robert-pogue-harrison-the-body-of-thought
 ---
 
-[[2023]] • [[commonplace]] • [[Robert Pogue Harrison]] • [[Los Angeles Review of Books]]
+[[2023]] • [[Commonplace]] • [[Robert Pogue Harrison]] • [[Los Angeles Review of Books]]
 
 https://lareviewofbooks.org/article/the-body-of-thought-on-markus-gabriels-the-meaning-of-thought/
  

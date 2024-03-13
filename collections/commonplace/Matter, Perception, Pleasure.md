@@ -9,7 +9,7 @@ date: 2017-01-11
 permalink: 2017/01/11/francesco-verde-matter-perception-pleasure
 ---
 
-[[2017]] • [[commonplace]] • [[Francesco Verde]] • [[Notre Dame Philosophical Reviews]] 
+[[2017]] • [[Commonplace]] • [[Francesco Verde]] • [[Notre Dame Philosophical Reviews]] 
 
 https://ndpr.nd.edu/news/plotinus-and-epicurus-matter-perception-pleasure/
 

@@ -9,7 +9,7 @@ date: 2017-06-22
 permalink: 2017/06/22/nplusone-editors-pomo-neocons
 ---
 
-[[2017]] • [[commonplace]] • [[n+1 Editors]] • [[n+1]] 
+[[2017]] • [[Commonplace]] • [[n+1 Editors]] • [[n+1]] 
 
 https://nplusonemag.com/issue-1/the-intellectual-situation/pomo-neocons/
 

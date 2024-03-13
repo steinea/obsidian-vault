@@ -9,7 +9,7 @@ date: 2017-08-14
 permalink: 2017/08/14/michael-harriott-game-of-thrones-and-white-supremacy
 ---
 
-[[2017]] • [[commonplace]] • [[Michael Harriott]] • [[The Root]] 
+[[2017]] • [[Commonplace]] • [[Michael Harriott]] • [[The Root]] 
 
 http://www.theroot.com/game-of-thrones-showed-us-how-america-treats-white-supr-1797817865
 

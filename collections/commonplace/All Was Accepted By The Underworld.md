@@ -9,7 +9,7 @@ date: 2015-03-18
 permalink: 2015/03/18/rawi-hage-all-was-accepted-by-the-underworld
 ---
 
-[[2015]] • [[commonplace]] • [[Rawi Hage]] • [[Cockroach]]
+[[2015]] • [[Commonplace]] • [[Rawi Hage]] • [[Cockroach]]
 
 https://houseofanansi.com/products/cockroach
 

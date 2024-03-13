@@ -9,7 +9,7 @@ date: 2016-03-21
 permalink: 2016/03/21/malcolm-harris-reform-school-the-new-inquiry
 ---
 
-[[2016]] • [[commonplace]] • [[Malcolm Harris]] • [[The New Inquiry]]
+[[2016]] • [[Commonplace]] • [[Malcolm Harris]] • [[The New Inquiry]]
 
 http://thenewinquiry.com/essays/reform-school/
 

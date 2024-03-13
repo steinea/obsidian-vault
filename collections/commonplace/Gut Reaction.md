@@ -9,7 +9,7 @@ date: 2014-07-29
 permalink: 2014/07/29/emily-nussbaum-gut-reaction
 ---
 
-[[2014]] • [[commonplace]] • [[Emily Nussbaum]] • [[The New Yorker]]
+[[2014]] • [[Commonplace]] • [[Emily Nussbaum]] • [[The New Yorker]]
 
 http://www.newyorker.com/magazine/2014/08/04/gut-reaction
 

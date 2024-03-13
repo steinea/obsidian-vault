@@ -9,7 +9,7 @@ date: 2015-11-17
 permalink: 2015/11/17/sophia-azeb-there-will-be-thinkpieces
 ---
 
-[[2015]] • [[commonplace]] • [[Sophia Azeb]] • [[The New Inquiry]]
+[[2015]] • [[Commonplace]] • [[Sophia Azeb]] • [[The New Inquiry]]
 
 https://thenewinquiry.com/there-will-be-thinkpieces/
 

@@ -9,7 +9,7 @@ date: 2023-12-11
 permalink: 2023/12/11/andrew-johnston-the-dawn-of-the-computer-rpg
 ---
 
-[[2023]] • [[commonplace]] • [[Andrew Johnston]] • [[Superjump Magazine]]
+[[2023]] • [[Commonplace]] • [[Andrew Johnston]] • [[Superjump Magazine]]
 
 https://www.superjumpmagazine.com/plato-computer-rpg/
 

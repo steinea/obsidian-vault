@@ -9,7 +9,7 @@ date: 2014-10-20
 permalink: 2014/10/20/david-denby-war-is-almost-over
 ---
 
-[[2014]] • [[commonplace]] • [[David Denby]] • [[The New Yorker]]
+[[2014]] • [[Commonplace]] • [[David Denby]] • [[The New Yorker]]
 
 https://www.newyorker.com/magazine/2014/10/27/war-almost
 

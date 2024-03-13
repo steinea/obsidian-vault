@@ -9,7 +9,7 @@ date: 2023-12-23
 permalink: 2023/12/23/jordana-cepelewicz-stability-in-chaos
 ---
 
-[[2023]] • [[commonplace]] • [[Jordana Cepelewicz]] • [[Quanta Magazine]]
+[[2023]] • [[Commonplace]] • [[Jordana Cepelewicz]] • [[Quanta Magazine]]
 
 https://www.quantamagazine.org/flow-proof-helps-mathematicians-find-stability-in-chaos-20230615/
 

@@ -9,7 +9,7 @@ date: 2017-01-03
 permalink: 2017/01/03/sumita-chakraborty-carried-off-to-the-worlds-end
 ---
 
-[[2017]] • [[commonplace]] • [[Sumita Chakraborty]] • [[Los Angeles Review of Books]]
+[[2017]] • [[Commonplace]] • [[Sumita Chakraborty]] • [[Los Angeles Review of Books]]
 
 https://lareviewofbooks.org/article/carried-off-worlds-end-study-alice-oswald-five-parts/
 

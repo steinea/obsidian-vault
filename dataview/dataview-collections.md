@@ -2,7 +2,7 @@
 
 - [[dataview/collections/Annotations.md|Annotations]]
 - [[Bibliographies|Bibliographies]]
-- [[dataview/collections/commonplace.md|commonplace]]
+- [[Commonplace|Commonplace]]
 - [[Playlists|Playlists]]
 - [[Study|Study]]
 - [[Teaching|Teaching]]

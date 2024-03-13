@@ -9,7 +9,7 @@ date: 2016-01-14
 permalink: 2016/01/14/alicia-eler-eve-peyser-tinderization-of-feeling
 ---
 
-[[2016]] • [[commonplace]] • [[Alicia Eler]] • [[Eve Peyser]] • [[The New Inquiry]]
+[[2016]] • [[Commonplace]] • [[Alicia Eler]] • [[Eve Peyser]] • [[The New Inquiry]]
 
 http://thenewinquiry.com/essays/tinderization-of-feeling/
 

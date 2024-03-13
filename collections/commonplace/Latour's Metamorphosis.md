@@ -9,7 +9,7 @@ date: 2023-03-20
 permalink: 2023/03/20/alyssa-battistoni-latours-metamorphosis
 ---
 
-[[2023]] • [[commonplace]] • [[Alyssa Battistoni]] • [[New Left Review]]
+[[2023]] • [[Commonplace]] • [[Alyssa Battistoni]] • [[New Left Review]]
 
 https://newleftreview.org/sidecar/posts/latours-metamorphosis?pc=1492
  

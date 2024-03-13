@@ -9,7 +9,7 @@ date: 2015-07-11
 permalink: 2015/07/11/ernest-hemingway-the-sea-and-other-things
 ---
 
-[[2015]] • [[commonplace]] • [[Ernest Hemingway]] • [[A Moveable Feast]] 
+[[2015]] • [[Commonplace]] • [[Ernest Hemingway]] • [[A Moveable Feast]] 
 
 https://en.wikipedia.org/wiki/A_Moveable_Feast
 

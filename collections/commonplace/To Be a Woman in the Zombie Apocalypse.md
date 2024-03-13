@@ -9,7 +9,7 @@ date: 2016-03-14
 permalink: 2016/03/14/lenika-cruz-to-be-a-woman-in-the-zombie-apocalypse
 ---
 
-[[2016]] • [[commonplace]] • [[Lenika Cruz]] • [[The Atlantic]]
+[[2016]] • [[Commonplace]] • [[Lenika Cruz]] • [[The Atlantic]]
 
 http://www.theatlantic.com/entertainment/archive/2016/03/the-walking-dead-live-from-the-kill-floor/473337/
 

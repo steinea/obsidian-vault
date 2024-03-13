@@ -9,7 +9,7 @@ date: 2015-06-17
 permalink: 2015/06/17/clarissa-sebag-montefiore-why-has-buff-become-best-for-men
 ---
 
-[[2015]] • [[commonplace]] • [[Clarissa Sebag-Montefiore]] • [[Aeon]] 
+[[2015]] • [[Commonplace]] • [[Clarissa Sebag-Montefiore]] • [[Aeon]] 
 
 https://aeon.co/magazine/culture/why-has-buff-become-best-for-men
 

@@ -9,7 +9,7 @@ date: 2017-12-30
 permalink: 2017/12/30/sophie-gilbert-david-sims-hang-the-dj
 ---
 
-[[2017]] • [[commonplace]] • [[Sophie Gilbert]] • [[David Sims]] • [[The Atlantic]]
+[[2017]] • [[Commonplace]] • [[Sophie Gilbert]] • [[David Sims]] • [[The Atlantic]]
 
 https://www.theatlantic.com/entertainment/archive/2017/12/black-mirror-hang-the-dj/549371/
 

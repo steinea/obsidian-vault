@@ -9,7 +9,7 @@ date: 2015-10-19
 permalink: 2015/10/19/bernard-stiegler-power-powerlessness-thinking-and-future
 ---
 
-[[2015]] • [[commonplace]] • [[Bernard Stiegler]] • [[Los Angeles Review of Books]]
+[[2015]] • [[Commonplace]] • [[Bernard Stiegler]] • [[Los Angeles Review of Books]]
 
 https://lareviewofbooks.org/article/power-powerlessness-thinking-and-future/
 

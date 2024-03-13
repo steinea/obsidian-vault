@@ -9,7 +9,7 @@ date: 2015-03-30
 permalink: 2015/03/30/lenika-cruz-david-sims-redemption-and-forgiveness-on-the-walking-dead
 ---
 
-[[2015]] • [[commonplace]] • [[Lenika Cruz]] • [[David Sims]] • [[The Atlantic]]
+[[2015]] • [[Commonplace]] • [[Lenika Cruz]] • [[David Sims]] • [[The Atlantic]]
 
 https://www.theatlantic.com/entertainment/archive/2015/03/the-walking-dead-season-five-finale-conquer-review/388982/
 

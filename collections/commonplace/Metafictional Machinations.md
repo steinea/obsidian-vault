@@ -9,7 +9,7 @@ date: 2016-12-27
 permalink: 2016/12/27/daniel-k-green-metafictional-machinations
 ---
 
-[[2016]] • [[commonplace]] • [[Daniel K. Green]] • [[Los Angeles Review of Books]]
+[[2016]] • [[Commonplace]] • [[Daniel K. Green]] • [[Los Angeles Review of Books]]
 
 https://lareviewofbooks.org/article/metafictional-machinations-william-luvaass-beneath-coyote-hills/
 

@@ -9,7 +9,7 @@ date: 2017-05-07
 permalink: 2017/05/07/robert-pinsky-blakes-chimney-sweeper-poems
 ---
 
-[[2017]] • [[commonplace]] • [[Robert Pinsky]] • [[Slate]] 
+[[2017]] • [[Commonplace]] • [[Robert Pinsky]] • [[Slate]] 
 
 http://www.slate.com/articles/arts/poem/2010/09/a_perfect_discomfit.html
 

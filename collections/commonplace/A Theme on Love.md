@@ -9,7 +9,7 @@ date: 2017-01-03
 permalink: 2017/01/03/hooman-majd-a-theme-on-love
 ---
 
-[[2017]] • [[commonplace]] • [[Hooman Majd]] • [[Los Angeles Review of Books]]
+[[2017]] • [[Commonplace]] • [[Hooman Majd]] • [[Los Angeles Review of Books]]
 
 https://lareviewofbooks.org/article/a-theme-on-love-enigma-variations/
 

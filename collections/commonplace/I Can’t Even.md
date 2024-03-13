@@ -9,7 +9,7 @@ date: 2014-05-16
 permalink: 2014/05/16/michael-reid-roberts-i-cant-even
 ---
 
-[[2014]] • [[commonplace]] • [[Michael Reid Roberts]] • [[The American Reader]]
+[[2014]] • [[Commonplace]] • [[Michael Reid Roberts]] • [[The American Reader]]
 
 http://theamericanreader.com/life-sentences-the-abcs-of-i-cant-even/
 

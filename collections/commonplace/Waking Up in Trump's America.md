@@ -9,7 +9,7 @@ date: 2016-11-12
 permalink: 2016/11/12/maya-binyam-waking-up-in-trumps-america
 ---
 
-[[2016]] • [[commonplace]] • [[Maya Binyam]] •[[The New Inquiry]]
+[[2016]] • [[Commonplace]] • [[Maya Binyam]] •[[The New Inquiry]]
 
 http://thenewinquiry.com/essays/waking-up-in-trumps-america-part-1/
 

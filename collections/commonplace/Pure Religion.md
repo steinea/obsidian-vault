@@ -9,7 +9,7 @@ date: 2015-06-28
 permalink: 2015/06/28/james-pure-religion
 ---
 
-[[2015]] • [[commonplace]] • [[James the Just]] • [[Wikipedia]] 
+[[2015]] • [[Commonplace]] • [[James the Just]] • [[Wikipedia]] 
 
 https://en.wikipedia.org/wiki/James_1
 

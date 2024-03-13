@@ -9,7 +9,7 @@ date: 2014-12-23
 permalink: 2014/12/23/stewart-alsop-stassenization
 ---
 
-[[2014]] • [[commonplace]] • [[Stewart Alsop]] • [[Gonzo]]
+[[2014]] • [[Commonplace]] • [[Stewart Alsop]] • [[Gonzo]]
 
 http://www.gonzo.org/articles/lit/crouserh.html
 

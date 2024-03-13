@@ -9,7 +9,7 @@ date: 2017-06-20
 permalink: 2017/07/20/charles-spurgeon-on-nature
 ---
 
-[[2017]] • [[commonplace]] • [[Charles Spurgeon]] • [[The Spurgeon Center]] 
+[[2017]] • [[Commonplace]] • [[Charles Spurgeon]] • [[The Spurgeon Center]] 
 
 https://www.spurgeon.org
 

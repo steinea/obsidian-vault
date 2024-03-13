@@ -9,7 +9,7 @@ date: 2015-08-10
 permalink: 2015/08/10/cody-delistraty-the-hidden-connection-between-morality-and-language
 ---
 
-[[2015]] • [[commonplace]] • [[Cody Delistraty]] • [[Nautilus]] 
+[[2015]] • [[Commonplace]] • [[Cody Delistraty]] • [[Nautilus]] 
 
 https://nautil.us/blog/the-hidden-connection-between-morality-and-language
 

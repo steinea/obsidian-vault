@@ -9,7 +9,7 @@ date: 2015-06-12
 permalink: 2015/06/12/jonathan-franzen-the-republic-of-bad-taste
 ---
 
-[[2015]] • [[commonplace]] • [[Jonathan Franzen]] • [[The New Yorker]] 
+[[2015]] • [[Commonplace]] • [[Jonathan Franzen]] • [[The New Yorker]] 
 
 https://www.newyorker.com/magazine/2015/06/08/the-republic-of-bad-taste
 

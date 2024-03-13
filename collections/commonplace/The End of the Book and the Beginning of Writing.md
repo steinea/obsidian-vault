@@ -9,7 +9,7 @@ date: 2014-10-07
 permalink: 2014/10/07/jacques-derrida-the-end-of-the-book-and-the-beginning-of-writing
 ---
 
-[[2014]] • [[commonplace]] • [[Jacques Derrida]] • [[Of Grammatology]]
+[[2014]] • [[Commonplace]] • [[Jacques Derrida]] • [[Of Grammatology]]
 
 https://en.wikipedia.org/wiki/Of_Grammatology
 

@@ -9,7 +9,7 @@ date: 2023-02-02
 permalink: 2023/02/02/inhabit-the-time-of-trees
 ---
 
-[[2023]] • [[commonplace]] • [[Inhabit]] • [[Substack]]
+[[2023]] • [[Commonplace]] • [[Inhabit]] • [[Substack]]
 
 https://territories.substack.com/p/the-time-of-trees
  

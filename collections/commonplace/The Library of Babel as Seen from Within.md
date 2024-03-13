@@ -9,7 +9,7 @@ date: 2015-07-24
 permalink: 2015/07/24/jonathan-basile-the-library-of-babel-as-seen-from-within
 ---
 
-[[2015]] • [[commonplace]] • [[Jonathan Basile]] • [[The Paris Review]] 
+[[2015]] • [[Commonplace]] • [[Jonathan Basile]] • [[The Paris Review]] 
 
 https://www.theparisreview.org/blog/2015/07/23/the-library-of-babel-as-seen-from-within/
 

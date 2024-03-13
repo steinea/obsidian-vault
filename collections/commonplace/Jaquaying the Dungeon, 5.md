@@ -9,7 +9,7 @@ date: 2023-03-12
 permalink: 2023/03/12/justin-alexander-jaquaying-the-dungeon-5
 ---
 
-[[2023]] • [[commonplace]] • [[Justin Alexander]] • [[The Alexandrian]]
+[[2023]] • [[Commonplace]] • [[Justin Alexander]] • [[The Alexandrian]]
 
 https://thealexandrian.net/wordpress/13132/roleplaying-games/jaquaying-the-dungeon-part-5-jaquaying-for-fun-and-profit
 

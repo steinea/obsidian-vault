@@ -9,7 +9,7 @@ date: 2014-10-13
 permalink: 2014/10/13/h-bruce-franklin-billy-budd-and-capital-punishment
 ---
 
-[[2014]] • [[commonplace]] • [[H. Bruce Franklin]] • [[American Literature]] • [[Billy Budd, Sailor]]
+[[2014]] • [[Commonplace]] • [[H. Bruce Franklin]] • [[American Literature]] • [[Billy Budd, Sailor]]
 
 https://www.hbrucefranklin.com/articles/billy-budd-and-capital-punishment/
 

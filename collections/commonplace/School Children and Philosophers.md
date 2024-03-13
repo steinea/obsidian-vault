@@ -9,7 +9,7 @@ date: 2016-03-03
 permalink: 2016/03/03/peter-worley-school-children-and-philosophers
 ---
 
-[[2016]] • [[commonplace]] • [[Peter Worley]] • [[Aeon]]
+[[2016]] • [[Commonplace]] • [[Peter Worley]] • [[Aeon]]
 
 https://aeon.co/opinions/to-see-philosophy-in-action-visit-a-primary-school-class
 

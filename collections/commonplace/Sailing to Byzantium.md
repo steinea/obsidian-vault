@@ -9,7 +9,7 @@ date: 2015-11-03
 permalink: 2015/11/03/william-butler-yeats-sailing-to-byzantium
 ---
 
-[[2015]] • [[commonplace]] • [[William Butler Yeats]] • [[Poetry Foundation]]
+[[2015]] • [[Commonplace]] • [[William Butler Yeats]] • [[Poetry Foundation]]
 
 https://www.poetryfoundation.org/poems/43291/sailing-to-byzantium
 

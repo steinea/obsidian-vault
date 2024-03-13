@@ -9,7 +9,7 @@ date: 2014-06-30
 permalink: 2014/06/30/david-denby-endgames
 ---
 
-[[2014]] • [[commonplace]] • [[David Denby]] • [[The New Yorker]]
+[[2014]] • [[Commonplace]] • [[David Denby]] • [[The New Yorker]]
 
 www.newyorker.com/magazine/2014/07/07/endgames
 

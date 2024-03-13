@@ -9,7 +9,7 @@ date: 2017-02-13
 permalink: 2017/02/13/terence-blake-subtracting-self-images
 ---
 
-[[2017]] • [[commonplace]] • [[Terence Blake]] • [[Agent Swarm]] 
+[[2017]] • [[Commonplace]] • [[Terence Blake]] • [[Agent Swarm]] 
 
 https://terenceblake.wordpress.com/2017/02/05/18861/
 

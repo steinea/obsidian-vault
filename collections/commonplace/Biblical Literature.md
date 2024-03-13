@@ -9,7 +9,7 @@ date: 2014-09-26
 permalink: 2014/09/26/barbara-raw-biblical-literature
 ---
 
-[[2014]] • [[commonplace]] • [[Barbara Raw]] • [[The Cambridge Companion to Old English Literature]]
+[[2014]] • [[Commonplace]] • [[Barbara Raw]] • [[The Cambridge Companion to Old English Literature]]
 
 https://www.cambridge.org/core/books/abs/cambridge-companion-to-old-english-literature/biblical-literature/1B455642620323AC0602219E5CCF456F
 

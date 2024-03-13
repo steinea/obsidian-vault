@@ -9,7 +9,7 @@ date: 2017-02-14
 permalink: 2017/02/14/terence-blake-expanded-philosophical-universe
 ---
 
-[[2017]] • [[commonplace]] • [[Terence Blake]] • [[Agent Swarm]] 
+[[2017]] • [[Commonplace]] • [[Terence Blake]] • [[Agent Swarm]] 
 
 https://terenceblake.wordpress.com/2017/02/12/expanded-philosophical-universe-laruelle-and-philo-fan-fiction/
 

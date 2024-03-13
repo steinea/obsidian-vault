@@ -9,7 +9,7 @@ date: 2016-03-12
 permalink: 2016/03/12/karl-ove-knausgaard-art-does-not-know-a-beyond
 ---
 
-[[2016]] • [[commonplace]] • [[Karl Ove Knausgaard]] • [[The White Review]]
+[[2016]] • [[Commonplace]] • [[Karl Ove Knausgaard]] • [[The White Review]]
 
 http://www.thewhitereview.org/features/art-does-not-know-a-beyond-on-karl-ove-knausgaard/
 

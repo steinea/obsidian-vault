@@ -9,7 +9,7 @@ date: 2018-04-08
 permalink: 2018/04/08/sylvere-lotringer-materialist-semiotics
 ---
 
-[[2018]] • [[commonplace]] • [[Sylvère Lotringer]] • [[European Graduate School]]
+[[2018]] • [[Commonplace]] • [[Sylvère Lotringer]] • [[European Graduate School]]
 
 http://egs.edu/faculty/sylv%C3%A8re-lotringer
  

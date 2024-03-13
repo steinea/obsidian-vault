@@ -9,7 +9,7 @@ date: 2015-07-13
 permalink: 2015/07/13/lev-grossman-verbal-membrane
 ---
 
-[[2015]] • [[commonplace]] • [[Lev Grossman]] • [[Reader's Almanac]] 
+[[2015]] • [[Commonplace]] • [[Lev Grossman]] • [[Reader's Almanac]] 
 
 http://blog.loa.org/2011/08/lev-grossman-on-ernest-hemingway-verbal.html
 

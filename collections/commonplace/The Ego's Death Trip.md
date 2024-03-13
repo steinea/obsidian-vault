@@ -9,7 +9,7 @@ date: 2016-07-23
 permalink: 2016/07/23/natasha-young-the-egos-death-trip
 ---
 
-[[2016]] • [[commonplace]] • [[Natasha Young]] •[[The New Inquiry]]
+[[2016]] • [[Commonplace]] • [[Natasha Young]] •[[The New Inquiry]]
 
 http://thenewinquiry.com/essays/the-egos-death-trip/
 

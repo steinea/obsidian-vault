@@ -9,7 +9,7 @@ date: 2017-01-25
 permalink: 2017/01/25/mallory-locklear-cracking-the-indus-valley-script
 ---
 
-[[2017]] • [[commonplace]] • [[Mallory Locklear]] • [[The Verge]] 
+[[2017]] • [[Commonplace]] • [[Mallory Locklear]] • [[The Verge]] 
 
 http://www.theverge.com/2017/1/25/14371450/indus-valley-civilization-ancient-seals-symbols-language-algorithms-ai
 

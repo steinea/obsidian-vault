@@ -9,7 +9,7 @@ date: 2023-03-11
 permalink: 2023/03/11/lisa-robertson-only-style-survives
 ---
 
-[[2023]] • [[commonplace]] • [[Lisa Robertson]] • [[The Paris Review]]
+[[2023]] • [[Commonplace]] • [[Lisa Robertson]] • [[The Paris Review]]
 
 https://www.theparisreview.org/blog/2023/01/06/only-style-survives-lisa-robertson-on-chateaubriand/
  

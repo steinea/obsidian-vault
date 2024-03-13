@@ -9,7 +9,7 @@ date: 2015-11-10
 permalink: 2015/11/10/tim-parks-how-could-you-like-that-book
 ---
 
-[[2015]] • [[commonplace]] • [[Tim Parks]] • [[New York Review of Books]]
+[[2015]] • [[Commonplace]] • [[Tim Parks]] • [[New York Review of Books]]
 
 https://www.nybooks.com/online/2015/11/10/how-could-you-like-that-book/
 

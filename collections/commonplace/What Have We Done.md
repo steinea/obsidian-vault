@@ -9,7 +9,7 @@ date: 2016-07-08
 permalink: 2016/07/08/sherod-santos-what-have-we-done
 ---
 
-[[2016]] • [[commonplace]] • [[Sherod Santos]] • [[Boston Review]]
+[[2016]] • [[Commonplace]] • [[Sherod Santos]] • [[Boston Review]]
 
 http://bostonreview.net/poetry/sherod-santos-david-baker-scavenger-loop
 

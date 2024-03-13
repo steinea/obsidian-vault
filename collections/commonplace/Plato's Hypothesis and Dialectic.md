@@ -9,7 +9,7 @@ date: 2016-03-10
 permalink: 2016/03/10/dewey-j-hoitenga-platos-hypothesis-and-dialectic
 ---
 
-[[2016]] • [[commonplace]] • [[Dewey J. Hoitenga]] • [[Faith and Reason from Plato to Plantinga]]
+[[2016]] • [[Commonplace]] • [[Dewey J. Hoitenga]] • [[Faith and Reason from Plato to Plantinga]]
 
 https://books.google.ca/books/about/Faith_and_Reason_from_Plato_to_Plantinga.html?id=kqRNDnaATMsC
 

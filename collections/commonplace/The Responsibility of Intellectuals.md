@@ -9,7 +9,7 @@ date: 2016-10-09
 permalink: 2016/10/09/noam-chomsky-the-responsibility-of-intellectuals
 ---
 
-[[2016]] • [[commonplace]] • [[Noam Chomsky]] • [[Boston Review]]
+[[2016]] • [[Commonplace]] • [[Noam Chomsky]] • [[Boston Review]]
 
 http://bostonreview.net/noam-chomsky-responsibility-of-intellectuals-redux
 

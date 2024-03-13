@@ -9,7 +9,7 @@ date: 2016-02-10
 permalink: 2016/02/10/chris-mckay-exploring-alien-worlds
 ---
 
-[[2016]] • [[commonplace]] • [[Chris McKay]] • [[Aeon]]
+[[2016]] • [[Commonplace]] • [[Chris McKay]] • [[Aeon]]
 
 https://aeon.co/opinions/the-urge-to-explore-is-what-drives-us-to-land-on-alien-worlds
 

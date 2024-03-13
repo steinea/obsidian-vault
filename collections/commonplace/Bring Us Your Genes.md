@@ -9,7 +9,7 @@ date: 2015-07-13
 permalink: 2015/07/13/john-hendrix-bring-us-your-genes
 ---
 
-[[2015]] • [[commonplace]] • [[John Hendrix]] • [[Nautilus]]
+[[2015]] • [[Commonplace]] • [[John Hendrix]] • [[Nautilus]]
 
 https://nautil.us/issue/26/color/bring-us-your-genes
 

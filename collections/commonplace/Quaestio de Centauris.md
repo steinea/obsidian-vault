@@ -9,7 +9,7 @@ date: 2015-06-10
 permalink: 2015/06/10/primo-levi-quaestio-de-centauris
 ---
 
-[[2015]] • [[commonplace]] • [[Primo Levi]] • [[The New Yorker]] 
+[[2015]] • [[Commonplace]] • [[Primo Levi]] • [[The New Yorker]] 
 
 http://www.newyorker.com/magazine/2015/06/08/quaestio-de-centauris
 

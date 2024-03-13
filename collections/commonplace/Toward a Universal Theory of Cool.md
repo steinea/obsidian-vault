@@ -9,7 +9,7 @@ date: 2014-05-23
 permalink: 2014/05/23/derek-thompson-toward-a-universal-theory-of-cool
 ---
 
-[[2014]] • [[commonplace]] • [[Derek Thompson]] • [[The Atlantic]]
+[[2014]] • [[Commonplace]] • [[Derek Thompson]] • [[The Atlantic]]
 
 https://www.theatlantic.com/business/archive/2014/05/toward-a-universal-theory-of-cool/371510/
 

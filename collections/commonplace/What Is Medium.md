@@ -9,7 +9,7 @@ date: 2016-10-08
 permalink: 2016/10/08/alexis-c-madrigal-what-is-medium
 ---
 
-[[2016]] • [[commonplace]] • [[Alexis C. Madrigal]] • [[The Atlantic]]
+[[2016]] • [[Commonplace]] • [[Alexis C. Madrigal]] • [[The Atlantic]]
 
 http://www.theatlantic.com/technology/archive/2013/08/what-is-medium/278965/
 

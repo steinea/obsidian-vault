@@ -9,7 +9,7 @@ date: 2022-12-15
 permalink: 2022/12/15/dylan-davis-patrick-king-noel-ignatievs-communist-education
 ---
 
-[[2022]] • [[commonplace]] • [[Dylan Davis]] • [[Patrick King]] • [[Los Angeles Review of Books]]
+[[2022]] • [[Commonplace]] • [[Dylan Davis]] • [[Patrick King]] • [[Los Angeles Review of Books]]
 
 https://dev.lareviewofbooks.org/article/unexpected-sledgehammer-noel-ignatievs-communist-education/
 

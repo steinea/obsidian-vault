@@ -9,7 +9,7 @@ date: 2023-01-09
 permalink: 2023/01/09/wikipedia-conceptual-engineering
 ---
 
-[[2023]] • [[commonplace]] • [[Wikipedia]]
+[[2023]] • [[Commonplace]] • [[Wikipedia]]
 
 https://en.m.wikipedia.org/wiki/Conceptual_engineering
  

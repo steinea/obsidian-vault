@@ -9,7 +9,7 @@ date: 2016-11-03
 permalink: 2016/11/03/elaine-p-miller-review-of-through-vegetal-being
 ---
 
-[[2016]] • [[commonplace]] • [[Elaine P. Miller]] • [[Notre Dame Philosophical Reviews]]
+[[2016]] • [[Commonplace]] • [[Elaine P. Miller]] • [[Notre Dame Philosophical Reviews]]
 
 https://ndpr.nd.edu/news/71015-through-vegetal-being-two-philosophical-perspectives/
 

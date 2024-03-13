@@ -9,7 +9,7 @@ date: 2014-09-17
 permalink: 2014/09/17/david-hume-on-the-standard-of-taste
 ---
 
-[[2014]] • [[commonplace]] • [[David Hume]] • [[The Norton Anthology of Theory and Criticism]]
+[[2014]] • [[Commonplace]] • [[David Hume]] • [[The Norton Anthology of Theory and Criticism]]
 
 https://wwnorton.com/books/9780393602951
 

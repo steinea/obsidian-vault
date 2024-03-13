@@ -9,7 +9,7 @@ date: 2017-12-17
 permalink: 2017/12/17/christopher-orr-on-the-last-jedi-4
 ---
 
-[[2017]] • [[commonplace]] • [[Christopher Orr]] • [[The Atlantic]] 
+[[2017]] • [[Commonplace]] • [[Christopher Orr]] • [[The Atlantic]] 
 
 https://www.theatlantic.com/entertainment/archive/2017/12/the-last-jedi-may-be-the-best-star-wars-movie-since-the-empire-strikes-back/548363/
 

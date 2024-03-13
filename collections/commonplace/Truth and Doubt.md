@@ -9,7 +9,7 @@ date: 2014-08-10
 permalink: 2014/08/10/e-f-schumacher-truth-and-doubt
 ---
 
-[[2014]] • [[commonplace]] • [[E. F. Schumacher]] • [[The Marginalian]]
+[[2014]] • [[Commonplace]] • [[E. F. Schumacher]] • [[The Marginalian]]
 
 https://www.brainpickings.org/2014/08/05/a-guide-for-the-perplexed-schumacher/
 

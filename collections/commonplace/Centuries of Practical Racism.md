@@ -9,7 +9,7 @@ date: 2014-07-25
 permalink: 2014/07/25/francisco-bethencourt-racisms
 ---
 
-[[2014]] • [[commonplace]] • [[Francisco Bethencourt]] • [[Racisms]]
+[[2014]] • [[Commonplace]] • [[Francisco Bethencourt]] • [[Racisms]]
 
 https://press.princeton.edu/books/hardcover/9780691155265/racisms
 

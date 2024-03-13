@@ -9,7 +9,7 @@ date: 2015-03-20
 permalink: 2015/03/20/jeremiah-i-will-make-you-like-iron
 ---
 
-[[2015]] • [[commonplace]] • [[Jeremiah]] • [[Bible]]
+[[2015]] • [[Commonplace]] • [[Jeremiah]] • [[Bible]]
 
 https://en.wikipedia.org/wiki/Jeremiah_1
 

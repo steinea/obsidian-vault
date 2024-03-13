@@ -9,7 +9,7 @@ date: 2017-09-25
 permalink: 2017/09/25/aaron-bady-sarah-mesle-on-star-trek-discovery
 ---
 
-[[2017]] • [[commonplace]] • [[Aaron Bady]] • [[Sarah Mesle]] • [[Los Angeles Review of Books]] 
+[[2017]] • [[Commonplace]] • [[Aaron Bady]] • [[Sarah Mesle]] • [[Los Angeles Review of Books]] 
  
 “Future Perfect
 

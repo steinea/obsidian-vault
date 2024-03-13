@@ -9,7 +9,7 @@ date: 2016-07-24
 permalink: 2016/07/24/lee-mackinnon-love-machines-and-the-tinder-bot-bildungsroman
 ---
 
-[[2016]] • [[commonplace]] • [[Lee Mackinnon]] • [[e-flux]]
+[[2016]] • [[Commonplace]] • [[Lee Mackinnon]] • [[e-flux]]
 
 http://www.e-flux.com/journal/love-machines-and-the-tinder-bot-bildungsroman/
 

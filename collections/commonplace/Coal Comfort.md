@@ -9,7 +9,7 @@ date: 2015-11-24
 permalink: 2015/11/24/miranda-trimmier-coal-comfort
 ---
 
-[[2015]] • [[commonplace]] • [[Miranda Trimmier]] • [[The New Inquiry]]
+[[2015]] • [[Commonplace]] • [[Miranda Trimmier]] • [[The New Inquiry]]
 
 https://thenewinquiry.com/coal-comfort/
 

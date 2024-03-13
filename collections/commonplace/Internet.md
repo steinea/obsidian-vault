@@ -9,7 +9,7 @@ date: 2016-07-20
 permalink: 2016/07/20/zach-blas-internet
 ---
 
-[[2016]] • [[commonplace]] • [[Zach Blas]] • [[e-flux]]
+[[2016]] • [[Commonplace]] • [[Zach Blas]] • [[e-flux]]
 
 http://www.e-flux.com/journal/74/59816/contra-internet/
 

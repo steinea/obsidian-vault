@@ -9,7 +9,7 @@ date: 2015-06-12
 permalink: 2015/06/12/maria-popova-ripped-asunder-by-contrary-longings
 ---
 
-[[2015]] • [[commonplace]] • [[Maria Popova]] • [[The Marginalian]]
+[[2015]] • [[Commonplace]] • [[Maria Popova]] • [[The Marginalian]]
 
 https://www.themarginalian.org/2015/06/09/pico-iyer-the-open-road-dalai-lama/
 

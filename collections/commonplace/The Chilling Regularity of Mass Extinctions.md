@@ -9,7 +9,7 @@ date: 2015-11-03
 permalink: 2015/11/03/adrienne-lafrance-the-chilling-regularity-of-mass-extinctions
 ---
 
-[[2015]] • [[commonplace]] • [[Adirenne LaFrance]] • [[The Atlantic]]
+[[2015]] • [[Commonplace]] • [[Adirenne LaFrance]] • [[The Atlantic]]
 
 https://www.theatlantic.com/science/archive/2015/11/the-next-mass-extinction/413884/
 

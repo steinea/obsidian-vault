@@ -9,7 +9,7 @@ date: 2016-03-10
 permalink: 2016/03/10/algirdas-greimas-linguistics-and-phenomenology
 ---
 
-[[2016]] • [[commonplace]] • [[Algirdas Greimas]] • [[Wikipedia]]
+[[2016]] • [[Commonplace]] • [[Algirdas Greimas]] • [[Wikipedia]]
 
 https://en.wikipedia.org/wiki/Algirdas_Julien_Greimas#Early
 

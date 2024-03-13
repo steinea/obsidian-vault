@@ -9,7 +9,7 @@ date: 2015-10-26
 permalink: 2015/10/26/c-r-gallistel-most-neuroscientists-are-wrong-about-the-brain
 ---
 
-[[2015]] • [[commonplace]] • [[C. R. Gallistel]] • [[Nautilus]]
+[[2015]] • [[Commonplace]] • [[C. R. Gallistel]] • [[Nautilus]]
 
 https://web.archive.org/web/20151028075917/https://nautil.us/blog/heres-why-most-neuroscientists-are-wrong-about-the-brain
 

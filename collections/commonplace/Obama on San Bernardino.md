@@ -9,7 +9,7 @@ date: 2015-12-08
 permalink: 2015/12/08/marina-koren-obama-on-san-bernardino
 ---
 
-[[2015]] • [[commonplace]] • [[Marina Koren]] • [[The Atlantic]]
+[[2015]] • [[Commonplace]] • [[Marina Koren]] • [[The Atlantic]]
 
 https://www.theatlantic.com/national/archive/2015/12/obama-speech-san-bernardino/419043/
 

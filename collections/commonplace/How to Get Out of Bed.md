@@ -9,7 +9,7 @@ date: 2016-03-27
 permalink: 2016/03/27/sadie-stein-marcus-aurelius-how-to-get-out-of-bed
 ---
 
-[[2016]] • [[commonplace]] • [[Sadie Stein]] • [[Marcus Aurelius]] • [[The Paris Review]]
+[[2016]] • [[Commonplace]] • [[Sadie Stein]] • [[Marcus Aurelius]] • [[The Paris Review]]
 
 http://www.theparisreview.org/blog/2016/03/24/how-to-get-out-of-bed/
 

@@ -9,7 +9,7 @@ date: 2014-11-10
 permalink: 2014/11/10/kathryn-powell-orientalist-fantasy
 ---
 
-[[2014]] • [[commonplace]] • [[Kathryn Powell]] • [[Anglo-Saxon England]]
+[[2014]] • [[Commonplace]] • [[Kathryn Powell]] • [[Anglo-Saxon England]]
 
 http://journals.cambridge.org/abstract_S0263675105000050
 

@@ -9,7 +9,7 @@ date: 2015-12-28
 permalink: 2015/12/28/joel-duff-stars-beyond-view
 ---
 
-[[2015]] • [[commonplace]] • [[Joel Duff]] • [[Natural Historian]]
+[[2015]] • [[Commonplace]] • [[Joel Duff]] • [[Natural Historian]]
 
 http://thenaturalhistorian.com/2015/12/26/nh-notes-john-ray-on-the-purpose-of-creation-in-the-wisdom-of-god-2/
 

@@ -9,7 +9,7 @@ date: 2023-01-23
 permalink: 2023/01/23/breadpunk-manifesto
 ---
 
-[[2023]] • [[commonplace]] • [[Breadpunk]]
+[[2023]] • [[Commonplace]] • [[Breadpunk]]
 
 https://breadpunk.club/docs/manifesto/
  

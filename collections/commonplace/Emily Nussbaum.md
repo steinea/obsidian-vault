@@ -9,7 +9,7 @@ date: 2016-11-02
 permalink: 2016/11/02/emily-nussbaum-the-metapolitics-of-westworld
 ---
 
-[[2016]] • [[commonplace]] • [[Emily Nussbaum]] • [[The New Yorker]]
+[[2016]] • [[Commonplace]] • [[Emily Nussbaum]] • [[The New Yorker]]
 
 http://www.newyorker.com/magazine/2016/10/24/the-meta-politics-of-westworld
 

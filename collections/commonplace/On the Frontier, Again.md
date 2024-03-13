@@ -9,7 +9,7 @@ date: 2016-07-26
 permalink: 2016/07/26/vivian-ziherl-on-the-frontier-again
 ---
 
-[[2016]] • [[commonplace]] • [[Vivian Ziherl]] • [[e-flux]]
+[[2016]] • [[Commonplace]] • [[Vivian Ziherl]] • [[e-flux]]
 
 http://www.e-flux.com/journal/on-the-frontier-again/
 

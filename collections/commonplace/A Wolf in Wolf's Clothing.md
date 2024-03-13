@@ -9,7 +9,7 @@ date: 2017-07-23
 permalink: 2017/07/23/spencer-kornhaber-david-sims-sophie-gilbert-a-wolf-in-wolfs-clothing
 ---
 
-[[2017]] • [[commonplace]] • [[Spencer Kornhaber]] • [[David Sims]] • [[Sophie Gilbert]] • [[The Atlantic]] 
+[[2017]] • [[Commonplace]] • [[Spencer Kornhaber]] • [[David Sims]] • [[Sophie Gilbert]] • [[The Atlantic]] 
 
 https://www.theatlantic.com/entertainment/archive/2017/07/game-of-thrones-hit-the-deck/534621/
 

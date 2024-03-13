@@ -9,7 +9,7 @@ date: 2015-02-06
 permalink: 2015/02/06/ta-nehisi-coates-brutality-racism-and-religion
 ---
 
-[[2015]] • [[commonplace]] • [[Ta-Nehisi Coates]] • [[The Atlantic]]
+[[2015]] • [[Commonplace]] • [[Ta-Nehisi Coates]] • [[The Atlantic]]
 
 https://www.theatlantic.com/politics/archive/2015/02/the-foolish-historically-illiterate-incredible-response-to-obamas-prayer-breakfast-speech/385246/
 

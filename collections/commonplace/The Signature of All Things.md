@@ -9,7 +9,7 @@ date: 2015-10-24
 permalink: 2015/10/24/kenneth-rexroth-the-signature-of-all-things
 ---
 
-[[2015]] • [[commonplace]] • [[Kenneth Rexroth]] • [[The Signature of All Things]]
+[[2015]] • [[Commonplace]] • [[Kenneth Rexroth]] • [[The Signature of All Things]]
 
 https://books.google.ca/books/about/The_Signature_of_All_Things_Poems_Songs.html?id=85a5zgEACAAJ
 

@@ -9,7 +9,7 @@ date: 2016-02-19
 permalink: 2016/02/19/evald-ilyenkov-the-problem-of-the-subject-matter-and-sources-of-logic
 ---
 
-[[2016]] • [[commonplace]] • [[Evald Ilyenkov]] • [[Marxists]]
+[[2016]] • [[Commonplace]] • [[Evald Ilyenkov]] • [[Marxists]]
 
 https://www.marxists.org/archive/ilyenkov/works/essays/essay1.htm
 

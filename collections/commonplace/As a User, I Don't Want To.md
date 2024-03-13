@@ -9,7 +9,7 @@ date: 2023-10-09
 permalink: 2023/10/09/pavel-samsonov-as-a-user-i-dont-want-to
 ---
 
-[[2023]] • [[commonplace]] • [[Pavel Samsonov]] • [[UX Design]]
+[[2023]] • [[Commonplace]] • [[Pavel Samsonov]] • [[UX Design]]
 
 https://uxdesign.cc/as-a-user-i-dont-want-to-973990a30158
 

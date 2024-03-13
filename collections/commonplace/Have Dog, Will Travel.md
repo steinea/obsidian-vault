@@ -9,7 +9,7 @@ date: 2015-11-10
 permalink: 2015/11/10/david-sims-have-dog-will-travel
 ---
 
-[[2015]] • [[commonplace]] • [[David Sims]] • [[The Atlantic]]
+[[2015]] • [[Commonplace]] • [[David Sims]] • [[The Atlantic]]
 
 https://www.theatlantic.com/entertainment/archive/2015/11/fallout-4-game-review/414963/
 

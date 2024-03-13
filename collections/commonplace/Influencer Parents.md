@@ -9,7 +9,7 @@ date: 2023-10-09
 permalink: 2023/10/09/fortesa-latifi-influencer-parents
 ---
 
-[[2023]] • [[commonplace]] • [[Fortesa Latifi]] • [[Teen Vogue]]
+[[2023]] • [[Commonplace]] • [[Fortesa Latifi]] • [[Teen Vogue]]
 
 https://www.teenvogue.com/story/influencer-parents-children-social-media-impact
 

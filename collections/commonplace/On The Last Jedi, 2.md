@@ -9,7 +9,7 @@ date: 2017-12-15
 permalink: 2017/12/15/danielle-riendeau-on-the-last-jedi-2
 ---
 
-[[2017]] • [[commonplace]] • [[Danielle Riendeau]] • [[Waypoint]] 
+[[2017]] • [[Commonplace]] • [[Danielle Riendeau]] • [[Waypoint]] 
 
 https://waypoint.vice.com/en_us/article/434nzb/star-wars-last-jedi-fan-again
 

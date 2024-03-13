@@ -9,7 +9,7 @@ date: 2015-12-25
 permalink: 2015/12/25/scott-beauchamp-special-effects
 ---
 
-[[2015]] • [[commonplace]] • [[Scott Beauchamp]] • [[The Paris Review]]
+[[2015]] • [[Commonplace]] • [[Scott Beauchamp]] • [[The Paris Review]]
 
 https://www.theparisreview.org/blog/2015/05/12/special-effects/
 

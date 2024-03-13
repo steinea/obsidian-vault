@@ -9,7 +9,7 @@ date: 2014-05-22
 permalink: 2014/05/22/james-surowiecki-vancouver-is-a-hedge-city
 ---
 
-[[2014]] • [[commonplace]] • [[James Surowiecki]] • [[The New Yorker]]
+[[2014]] • [[Commonplace]] • [[James Surowiecki]] • [[The New Yorker]]
 
 http://www.newyorker.com/magazine/2014/05/26/real-estate-goes-global
 

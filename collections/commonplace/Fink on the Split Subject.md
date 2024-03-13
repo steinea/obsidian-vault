@@ -9,7 +9,7 @@ date: 2016-12-21
 permalink: 2016/12/21/mark-linsenmayer-fink-on-the-split-subject
 ---
 
-[[2016]] • [[commonplace]] • [[Mark Linsenmayer]] • [[Partially Examined Life]]
+[[2016]] • [[Commonplace]] • [[Mark Linsenmayer]] • [[Partially Examined Life]]
 
 http://partiallyexaminedlife.com/2013/04/08/fink-on-the-split-subject-lacan-vs-sartre/
 

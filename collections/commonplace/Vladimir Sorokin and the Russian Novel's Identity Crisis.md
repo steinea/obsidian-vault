@@ -9,7 +9,7 @@ date: 2015-12-22
 permalink: 2015/12/22/michael-lapointe-vladimir-sorokin-and-the-russian-novels-identity-crisis
 ---
 
-[[2015]] • [[commonplace]] • [[Michael LaPointe]] • [[The Atlantic]]
+[[2015]] • [[Commonplace]] • [[Michael LaPointe]] • [[The Atlantic]]
 
 https://www.theatlantic.com/entertainment/archive/2015/12/the-blizzard-vladimir-sorokin-review/420804/
 

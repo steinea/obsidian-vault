@@ -9,7 +9,7 @@ date: 2023-10-15
 permalink: 2023/10/15/cedric-johnson-policing-the-surplus-population
 ---
 
-[[2023]] • [[commonplace]] • [[Cedric Johnson]] • [[Jacobin]]
+[[2023]] • [[Commonplace]] • [[Cedric Johnson]] • [[Jacobin]]
 
 https://jacobin.com/2023/04/police-exist-to-manage-and-contain-the-surplus-population/
 

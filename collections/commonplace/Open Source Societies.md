@@ -9,7 +9,7 @@ date: 2022-12-15
 permalink: 2022/12/15/anarcho-solarpunk-open-source-societies
 ---
 
-[[2022]] • [[commonplace]] • [[Anarcho Solarpunk]]
+[[2022]] • [[Commonplace]] • [[Anarcho Solarpunk]]
 
 https://anarchosolarpunk.substack.com/p/opensourcesocieties
 

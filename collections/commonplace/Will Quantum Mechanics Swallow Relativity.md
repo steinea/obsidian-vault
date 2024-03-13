@@ -9,7 +9,7 @@ date: 2015-11-05
 permalink: 2015/11/05/corey-s-powell-will-quantum-mechanics-swallow-relativity
 ---
 
-[[2015]] • [[commonplace]] • [[Corey S. Powell]] • [[Nautilus]]
+[[2015]] • [[Commonplace]] • [[Corey S. Powell]] • [[Nautilus]]
 
 https://nautil.us/issue/29/scaling/will-quantum-mechanics-swallow-relativity 
 

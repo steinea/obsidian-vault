@@ -9,7 +9,7 @@ date: 2015-12-10
 permalink: 2015/12/10/annie-julia-wyman-the-language-of-cinema
 ---
 
-[[2015]] • [[commonplace]] •  [[Annie Julia Wyman]] • [[Los Angeles Review of Books]]
+[[2015]] • [[Commonplace]] •  [[Annie Julia Wyman]] • [[Los Angeles Review of Books]]
 
 https://lareviewofbooks.org/article/the-tribe-and-the-language-of-cinema/
 

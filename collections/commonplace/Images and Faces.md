@@ -9,7 +9,7 @@ date: 2015-07-27
 permalink: 2015/07/27/james-hillman-images-and-faces
 ---
 
-[[2015]] • [[commonplace]] • [[James Hillman]] • [[Compiler Press]] 
+[[2015]] • [[Commonplace]] • [[James Hillman]] • [[Compiler Press]] 
 
 http://www.compilerpress.ca/Competitiveness/Anno/Anno%20Hillman%20Egal%201.htm
 

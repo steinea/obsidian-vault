@@ -9,7 +9,7 @@ date: 2014-12-06
 permalink: 2014/12/06/gary-provost-this-sentence-has-five-words
 ---
 
-[[2014]] • [[commonplace]] • [[Gary Provost]] • [[Wikipedia]]
+[[2014]] • [[Commonplace]] • [[Gary Provost]] • [[Wikipedia]]
 
 https://en.wikipedia.org/wiki/Gary_Provost#Complete_work
 

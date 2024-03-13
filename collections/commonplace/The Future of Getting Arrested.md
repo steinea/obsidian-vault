@@ -9,7 +9,7 @@ date: 2015-02-05
 permalink: 2015/02/05/leon-neyfakh-the-future-of-getting-arrested
 ---
 
-[[2015]] • [[commonplace]] • [[Leon Neyfakh]] • [[The Atlantic]]
+[[2015]] • [[Commonplace]] • [[Leon Neyfakh]] • [[The Atlantic]]
 
 https://www.theatlantic.com/magazine/archive/2015/01/the-future-of-getting-arrested/383507/
 

@@ -9,7 +9,7 @@ date: 2014-07-25
 permalink: 2014/07/25/charles-rafferty-forecast
 ---
 
-[[2014]] • [[commonplace]] • [[Charles Rafferty]] • [[Poets]]
+[[2014]] • [[Commonplace]] • [[Charles Rafferty]] • [[Poets]]
 
 https://poets.org/poem/forecast-1
 

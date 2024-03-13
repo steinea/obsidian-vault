@@ -9,7 +9,7 @@ date: 2014-12-17
 permalink: 2014/12/17/william-james-tolstoys-fable
 ---
 
-[[2014]] • [[commonplace]] • [[William James]] • [[The Varieties of Religious Experience]]
+[[2014]] • [[Commonplace]] • [[William James]] • [[The Varieties of Religious Experience]]
 
 https://global.oup.com/academic/product/the-varieties-of-religious-experience-9780199691647
 

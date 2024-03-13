@@ -9,7 +9,7 @@ date: 2015-09-20
 permalink: 2015/09/20/julianne-werlin-political-currency
 ---
 
-[[2015]] • [[commonplace]] • [[Julianne Werlin]] • [[The New Inquiry]]
+[[2015]] • [[Commonplace]] • [[Julianne Werlin]] • [[The New Inquiry]]
 
 https://thenewinquiry.com/political-currency/
 

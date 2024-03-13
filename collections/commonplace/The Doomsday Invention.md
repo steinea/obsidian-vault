@@ -9,7 +9,7 @@ date: 2015-11-10
 permalink: 2015/11/10/raffi-khatchadourian-the-doomsday-invention
 ---
 
-[[2015]] • [[commonplace]] • [[Raffi Khatchadourian]] • [[The New Yorker]]
+[[2015]] • [[Commonplace]] • [[Raffi Khatchadourian]] • [[The New Yorker]]
 
 https://www.newyorker.com/magazine/2015/11/23/doomsday-invention-artificial-intelligence-nick-bostrom
 

@@ -9,7 +9,7 @@ date: 2015-07-24
 permalink: 2015/07/24/harrison-fluss-hegel-on-bastille-day
 ---
 
-[[2015]] • [[commonplace]] • [[Harrison Fluss]] • [[Jacobin]] 
+[[2015]] • [[Commonplace]] • [[Harrison Fluss]] • [[Jacobin]] 
 
 https://jacobin.com/2016/07/hegel-bastille-day-burke-french-revolution
 

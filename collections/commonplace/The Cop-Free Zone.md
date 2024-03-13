@@ -9,7 +9,7 @@ date: 2023-10-13
 permalink: 2023/10/13/crimethinc-the-cop-free-zone
 ---
 
-[[2023]] • [[commonplace]] • [[CrimethInc]]
+[[2023]] • [[Commonplace]] • [[CrimethInc]]
 
 https://crimethinc.com/2020/07/02/the-cop-free-zone-reflections-from-experiments-in-autonomy-around-the-us
 

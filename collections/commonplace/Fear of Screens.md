@@ -9,7 +9,7 @@ date: 2016-01-26
 permalink: 2016/01/26/nathan-jurgenson-fear-of-screens
 ---
 
-[[2016]] • [[commonplace]] • [[Nathan Jurgenson]] • [[The New Inquiry]]
+[[2016]] • [[Commonplace]] • [[Nathan Jurgenson]] • [[The New Inquiry]]
 
 http://thenewinquiry.com/essays/fear-of-screens/
 

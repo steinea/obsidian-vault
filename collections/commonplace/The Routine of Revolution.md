@@ -9,7 +9,7 @@ date: 2015-03-08
 permalink: 2015/03/08/andrey-platonov-the-routine-of-revolution
 ---
 
-[[2015]] • [[commonplace]] • [[Andrey Platonov]] • [[Asymptote Journal]]
+[[2015]] • [[Commonplace]] • [[Andrey Platonov]] • [[Asymptote Journal]]
 
 https://www.asymptotejournal.com/fiction/andrey-platonovich-platonov-chevengur/
 

@@ -9,7 +9,7 @@ date: 2016-03-09
 permalink: 2016/03/09/keguro-macharia-toward-freedom
 ---
 
-[[2016]] • [[commonplace]] • [[Keguro Macharia]] • [[Toward Freedom]]
+[[2016]] • [[Commonplace]] • [[Keguro Macharia]] • [[Toward Freedom]]
 
 http://thenewinquiry.com/blogs/wiathi/toward-freedom/
 

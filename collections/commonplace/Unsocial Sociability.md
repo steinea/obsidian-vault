@@ -9,7 +9,7 @@ date: 2014-05-23
 permalink: 2014/05/23/walter-benjamin-unsocial-sociability
 ---
 
-[[2014]] • [[commonplace]] • [[Walter Benjamin]] • [[Los Angeles Review of Books]]
+[[2014]] • [[Commonplace]] • [[Walter Benjamin]] • [[Los Angeles Review of Books]]
 
 https://lareviewofbooks.org/article/shoring-ruins/
 

@@ -9,7 +9,7 @@ date: 2016-02-14
 permalink: 2016/02/14/friedrich-schelling-system-of-transcendental-philosophy
 ---
 
-[[2016]] • [[commonplace]] • [[Friedrich Schelling]] • [[Marxists]]
+[[2016]] • [[Commonplace]] • [[Friedrich Schelling]] • [[Marxists]]
 
 https://www.marxists.org/reference/subject/philosophy/works/ge/schellin.htm
 

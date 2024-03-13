@@ -9,7 +9,7 @@ date: 2016-01-14
 permalink: 2016/01/14/dan-piepenbring-c-d-wright-1949-2016
 ---
 
-[[2016]] • [[commonplace]] • [[Dan Piepenbring]] • [[The Paris Review]]
+[[2016]] • [[Commonplace]] • [[Dan Piepenbring]] • [[The Paris Review]]
 
 http://www.theparisreview.org/blog/2016/01/14/c-d-wright-1949-2016/
 

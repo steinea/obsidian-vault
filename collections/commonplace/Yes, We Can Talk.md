@@ -9,7 +9,7 @@ date: 2022-12-25
 permalink: 2022/12/25/mark-nepo-yes-we-can-talk
 ---
 
-[[2022]] • [[commonplace]] • [[Mark Nepo]] • [[Twitter]]
+[[2022]] • [[Commonplace]] • [[Mark Nepo]] • [[Twitter]]
 
 https://mobile.twitter.com/tha_rami/status/1607212739646132225
 

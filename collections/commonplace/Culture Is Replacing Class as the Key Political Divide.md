@@ -9,7 +9,7 @@ date: 2016-07-05
 permalink: 2016/07/05/ronald-brownstein-culture-is-replacing-class-as-the-key-political-divide
 ---
 
-[[2016]] • [[commonplace]] • [[Ronald Brownstein]] • [[The Atlantic]]
+[[2016]] • [[Commonplace]] • [[Ronald Brownstein]] • [[The Atlantic]]
 
 http://www.theatlantic.com/politics/archive/2016/06/britain-united-states/489410/
 

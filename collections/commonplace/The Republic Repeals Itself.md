@@ -9,7 +9,7 @@ date: 2016-11-09
 permalink: 2016/11/09/andrew-sullivan-the-republic-repeals-itself
 ---
 
-[[2016]] • [[commonplace]] • [[Andrew Sullivan]] • [[New York Magazine]]
+[[2016]] • [[Commonplace]] • [[Andrew Sullivan]] • [[New York Magazine]]
 
 http://nymag.com/daily/intelligencer/2016/11/andrew-sullivan-president-trump-and-the-end-of-the-republic.html
 

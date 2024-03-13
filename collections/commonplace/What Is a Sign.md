@@ -9,7 +9,7 @@ date: 2016-02-05
 permalink: 2016/02/05/charles-sanders-peirce-what-is-a-sign
 ---
 
-[[2016]] • [[commonplace]] • [[Charles Sanders Peirce]] • [[Marxists]]
+[[2016]] • [[Commonplace]] • [[Charles Sanders Peirce]] • [[Marxists]]
 
 https://www.marxists.org/reference/subject/philosophy/works/us/peirce1.htm
 

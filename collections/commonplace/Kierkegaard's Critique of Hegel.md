@@ -9,7 +9,7 @@ date: 2016-08-22
 permalink: 2016/08/22/ojvind-larsen-kierkegaards-critique-of-hegel
 ---
 
-[[2016]] • [[commonplace]] • [[Ojvind Larsen]] • [[Nordicum Mediterraneum]]
+[[2016]] • [[Commonplace]] • [[Ojvind Larsen]] • [[Nordicum Mediterraneum]]
 
 http://nome.unak.is/wordpress/08-3/c69-conference-paper/kierkegaard-s-critique-of-hegel-existentialist-ethics-versus-hegel-s-sittlichkeit-in-the-institutions-of-civil-society-of-the-state/
 

@@ -9,7 +9,7 @@ date: 2016-02-20
 permalink: 
 ---
 
-[[2016]] • [[commonplace]] • [[Eric Bulson]] • [[Andreas Huyssen]] • [[Los Angeles Review of Books]]
+[[2016]] • [[Commonplace]] • [[Eric Bulson]] • [[Andreas Huyssen]] • [[Los Angeles Review of Books]]
 
 http://lareviewofbooks.org/interview/literature-and-close-reading/
 

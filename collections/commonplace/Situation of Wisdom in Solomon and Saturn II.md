@@ -9,7 +9,7 @@ date: 2014-11-10
 permalink: 2014/11/10/antonina-harbus-situation-of-wisdom-in-solomon-and-saturn-II
 ---
 
-[[2014]] • [[commonplace]] • [[Antonina Harbus]] • [[Studia Neophilologica]]
+[[2014]] • [[Commonplace]] • [[Antonina Harbus]] • [[Studia Neophilologica]]
 
 https://www.tandfonline.com/doi/abs/10.1080/00393270310018382
 

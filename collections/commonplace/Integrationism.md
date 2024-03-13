@@ -9,7 +9,7 @@ date: 2017-07-16
 permalink: 2017/07/16/roy-harris-integrationism
 ---
 
-[[2017]] • [[commonplace]] • [[Roy Harris]] • [[Wikipedia]] 
+[[2017]] • [[Commonplace]] • [[Roy Harris]] • [[Wikipedia]] 
 
 https://en.wikipedia.org/wiki/Integrationism
 

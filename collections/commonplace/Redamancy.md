@@ -9,7 +9,7 @@ date: 2017-10-24
 permalink: 2017/10/24/orion-carloto-redamancy
 ---
 
-[[2017]] • [[commonplace]] • [[Orion Carloto]] • [[Flux]] 
+[[2017]] • [[Commonplace]] • [[Orion Carloto]] • [[Flux]] 
 
 https://books.google.ca/books/about/Flux.html?id=KoQ5DwAAQBAJ
 

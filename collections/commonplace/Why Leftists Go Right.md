@@ -9,7 +9,7 @@ date: 2016-02-17
 permalink: 2016/02/17/george-packer-why-leftists-go-right
 ---
 
-[[2016]] • [[commonplace]] • [[George Packer]] • [[The New Yorker]]
+[[2016]] • [[Commonplace]] • [[George Packer]] • [[The New Yorker]]
 
 http://www.newyorker.com/magazine/2016/02/22/why-leftists-go-right
 

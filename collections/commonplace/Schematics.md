@@ -9,7 +9,7 @@ date: 2023-12-11
 permalink: 2023/12/11/maria-popova-schematics
 ---
 
-[[2023]] • [[commonplace]] • [[Maria Popova]] • [[The Marginalian]]
+[[2023]] • [[Commonplace]] • [[Maria Popova]] • [[The Marginalian]]
 
 https://www.themarginalian.org/2012/01/27/schematics-julian-hibbard/
 

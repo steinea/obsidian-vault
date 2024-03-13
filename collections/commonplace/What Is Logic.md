@@ -9,7 +9,7 @@ date: 2017-01-12
 permalink: 2017/01/12/catarina-dutilh-novaes-what-is-logic
 ---
 
-[[2017]] • [[commonplace]] • [[Catarina Dutilh Novaes]] • [[Aeon]]
+[[2017]] • [[Commonplace]] • [[Catarina Dutilh Novaes]] • [[Aeon]]
 
 https://aeon.co/essays/the-rise-and-fall-and-rise-of-logic
 

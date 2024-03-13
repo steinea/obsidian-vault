@@ -9,7 +9,7 @@ date: 2016-02-04
 permalink: 2016/02/04/g-w-f-hegel-on-kant
 ---
 
-[[2016]] • [[commonplace]] • [[G. W. F. Hegel]] • [[Marxists]]
+[[2016]] • [[Commonplace]] • [[G. W. F. Hegel]] • [[Marxists]]
 
 https://www.marxists.org/reference/archive/hegel/works/hp/hpkant.htm
 

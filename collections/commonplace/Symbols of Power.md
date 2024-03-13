@@ -9,7 +9,7 @@ date: 2016-07-25
 permalink: 2016/07/25/s-james-gates-symbols-of-power
 ---
 
-[[2016]] • [[commonplace]] • [[S. James Gates]] •[[On Being]]
+[[2016]] • [[Commonplace]] • [[S. James Gates]] •[[On Being]]
 
 http://www.onbeing.org/blog/symbols-power-adinkras-and-nature-reality/2438
 

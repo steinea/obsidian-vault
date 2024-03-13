@@ -9,7 +9,7 @@ date: 2014-04-09
 permalink: 2014/04/09/john-michael-mcgrath-the-only-people-more-terrifying-than-us-are-our-leaders
 ---
 
-[[2014]] • [[commonplace]] • [[John Michael McGrath]] • [[Hazlitt]]
+[[2014]] • [[Commonplace]] • [[John Michael McGrath]] • [[Hazlitt]]
 
 http://hazlitt.net/blog/only-people-more-terrifying-us-are-our-leaders
 

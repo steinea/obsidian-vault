@@ -9,7 +9,7 @@ date: 2015-06-12
 permalink: 2015/06/12/monica-youn-on-blackacre
 ---
 
-[[2015]] • [[commonplace]] • [[Monica Youn]] • [[Poetry Foundation]] 
+[[2015]] • [[Commonplace]] • [[Monica Youn]] • [[Poetry Foundation]] 
 
 https://www.poetryfoundation.org/harriet-books/2015/06/on-blackacre
 

@@ -9,7 +9,7 @@ date: 2015-05-08
 permalink: 2015/05/08/tim-parks-stories-we-cant-see
 ---
 
-[[2015]] • [[commonplace]] • [[Tim Parks]] • [[New York Review of Books]] 
+[[2015]] • [[Commonplace]] • [[Tim Parks]] • [[New York Review of Books]] 
 
 https://www.nybooks.com/online/2015/05/05/stories-we-cant-see/
 

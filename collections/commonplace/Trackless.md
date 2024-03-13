@@ -9,7 +9,7 @@ date: 2017-10-26
 permalink: 2017/10/26/cameron-kunzelman-trackless
 ---
 
-[[2017]] • [[commonplace]] • [[Cameron Kunzelman]] • [[Waypoint]] 
+[[2017]] • [[Commonplace]] • [[Cameron Kunzelman]] • [[Waypoint]] 
 
 https://waypoint.vice.com/en_us/article/7x4884/trackless-goes-on-a-strange-pilgrimage-through-an-unsettling-world
 

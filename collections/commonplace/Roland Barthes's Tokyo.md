@@ -9,7 +9,7 @@ date: 2016-12-31
 permalink: 2016/12/31/colin-marshall-roland-barthes-tokyo
 ---
 
-[[2016]] • [[commonplace]] • [[Colin Marshall]] • [[Los Angeles Review of Books]]
+[[2016]] • [[Commonplace]] • [[Colin Marshall]] • [[Los Angeles Review of Books]]
 
 https://lareviewofbooks.org/article/ways-seeing-japan-roland-barthess-tokyo-50-years-later/
 

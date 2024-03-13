@@ -9,7 +9,7 @@ date: 2016-08-22
 permalink: 2016/08/22/julie-beck-best-friends-build-shared-memory-networks
 ---
 
-[[2016]] • [[commonplace]] • [[Julie Beck]] • [[The Atlantic]]
+[[2016]] • [[Commonplace]] • [[Julie Beck]] • [[The Atlantic]]
 
 https://www.theatlantic.com/health/archive/2016/08/how-best-friends-share-each-others-memories/496715/
 

@@ -9,7 +9,7 @@ date: 2016-11-17
 permalink: 2016/11/17/terence-blake-pluralist-metaphysical-research-programs
 ---
 
-[[2016]] • [[commonplace]] • [[Terence Blake]] • [[Agent Swarm]]
+[[2016]] • [[Commonplace]] • [[Terence Blake]] • [[Agent Swarm]]
 
 https://terenceblake.wordpress.com/2016/11/17/pluralist-metaphysical-research-programmes-feyerabend-deleuze-laruelle-zizek-serres-stiegler-badiou-latour/
 

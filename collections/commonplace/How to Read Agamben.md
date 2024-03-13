@@ -9,7 +9,7 @@ date: 2013-06-04
 permalink: 2013/06/04/adam-kotsko-how-to-read-agamben
 ---
 
-[[2013]] • [[commonplace]] • [[Adam Kotsko]] • [[Los Angeles Review of Books]]
+[[2013]] • [[Commonplace]] • [[Adam Kotsko]] • [[Los Angeles Review of Books]]
 
 https://lareviewofbooks.org/article/how-to-read-agamben/
 

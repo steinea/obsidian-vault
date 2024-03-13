@@ -9,7 +9,7 @@ date: 2016-01-06
 permalink: 2016/01/06/ed-yong-the-incredible-thing-we-do-during-conversations
 ---
 
-[[2016]] • [[commonplace]] • [[Ed Yong]] • [[The Atlantic]]
+[[2016]] • [[Commonplace]] • [[Ed Yong]] • [[The Atlantic]]
 
 http://www.theatlantic.com/science/archive/2016/01/the-incredible-thing-we-do-during-conversations/422439/
 

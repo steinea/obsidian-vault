@@ -9,7 +9,7 @@ date: 2016-06-23
 permalink: 2016/06/23/geoff-manaugh-the-existentialism-of-gps
 ---
 
-[[2016]] • [[commonplace]] • [[Geoff Manaugh]] • [[The Atlantic]]
+[[2016]] • [[Commonplace]] • [[Geoff Manaugh]] • [[The Atlantic]]
 
 http://www.theatlantic.com/technology/archive/2016/06/gps-goes-adrift/487334/
 

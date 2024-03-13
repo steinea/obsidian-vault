@@ -9,7 +9,7 @@ date: 2016-03-03
 permalink: 2016/03/03/tom-streithorst-why-conservatives-hate-fiscal-policy
 ---
 
-[[2016]] • [[commonplace]] • [[Tom Streithorst]] • [[Los Angeles Review of Books]]
+[[2016]] • [[Commonplace]] • [[Tom Streithorst]] • [[Los Angeles Review of Books]]
 
 https://lareviewofbooks.org/essay/why-conservatives-hate-fiscal-policy/
 

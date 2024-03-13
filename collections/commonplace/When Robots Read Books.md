@@ -9,7 +9,7 @@ date: 2016-12-06
 permalink: 2016/12/06/inderjeet-mani-when-robots-read-books
 ---
 
-[[2016]] • [[commonplace]] • [[Inderjeet Mani]] • [[Aeon]]
+[[2016]] • [[Commonplace]] • [[Inderjeet Mani]] • [[Aeon]]
 
 https://aeon.co/essays/how-ai-is-revolutionising-the-role-of-the-literary-critic
 

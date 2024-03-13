@@ -9,7 +9,7 @@ date: 2015-04-30
 permalink: 2015/04/30/ta-nehisi-coates-nonviolence-as-compliance-in-baltimore
 ---
 
-[[2015]] • [[commonplace]] • [[Ta-Nehisi Coates]] • [[The Atlantic]] 
+[[2015]] • [[Commonplace]] • [[Ta-Nehisi Coates]] • [[The Atlantic]] 
 
 https://www.theatlantic.com/politics/archive/2015/04/nonviolence-as-compliance/391640/
 

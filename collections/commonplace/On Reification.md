@@ -9,7 +9,7 @@ date: 2016-02-02
 permalink: 2016/02/02/gajo-petrovic-on-reification
 ---
 
-[[2016]] • [[commonplace]] • [[Gajo Petrović]] • [[Marxists]]
+[[2016]] • [[Commonplace]] • [[Gajo Petrović]] • [[Marxists]]
 
 https://www.marxists.org/archive/petrovic/1965/reification.htm
 

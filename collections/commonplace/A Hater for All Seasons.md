@@ -9,7 +9,7 @@ date: 2016-07-13
 permalink: 2016/07/13/garry-wills-a-hater-for-all-season
 ---
 
-[[2016]] • [[commonplace]] • [[Garry Wills]] • [[New York Review of Books]]
+[[2016]] • [[Commonplace]] • [[Garry Wills]] • [[New York Review of Books]]
 
 http://www.nybooks.com/daily/2016/06/29/trump-eliot-objective-correlatives-hater-for-all-seasons/
 

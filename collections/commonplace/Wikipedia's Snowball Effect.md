@@ -9,7 +9,7 @@ date: 2016-03-20
 permalink: 2016/03/20/adrienne-lafrance-wikipedias-snowball-effect
 ---
 
-[[2016]] • [[commonplace]] • [[Adrienne LaFrance]] • [[The Atlantic]]
+[[2016]] • [[Commonplace]] • [[Adrienne LaFrance]] • [[The Atlantic]]
 
 http://www.theatlantic.com/technology/archive/2016/03/wikipedia-cumulative-growth-effect/473994/
 

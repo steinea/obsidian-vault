@@ -9,7 +9,7 @@ date: 2015-03-03
 permalink: 2015/03/03/carlo-rovelli-hot-black-holes-and-the-arrow-of-time
 ---
 
-[[2015]] • [[commonplace]] • [[Carlo Rovelli]] • [[Aeon]]
+[[2015]] • [[Commonplace]] • [[Carlo Rovelli]] • [[Aeon]]
 
 https://aeon.co/opinions/what-s-the-time-just-ask-a-black-hole
 

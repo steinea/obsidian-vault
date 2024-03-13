@@ -9,7 +9,7 @@ date: 2013-09-30
 permalink: 2013/09/30/dexter-filkins-the-shadow-commander
 ---
 
-[[2013]] • [[commonplace]] • [[Dexter Filkins]] • [[The New Yorker]]
+[[2013]] • [[Commonplace]] • [[Dexter Filkins]] • [[The New Yorker]]
 
 http://www.newyorker.com/magazine/2013/09/30/the-shadow-commander
 

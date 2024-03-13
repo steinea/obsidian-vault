@@ -9,7 +9,7 @@ date: 2016-02-15
 permalink: 2016/02/15/nicola-twilley-gravitational-waves-exist
 ---
 
-[[2016]] • [[commonplace]] • [[Nicola Twilley]] • [[The New Yorker]]
+[[2016]] • [[Commonplace]] • [[Nicola Twilley]] • [[The New Yorker]]
 
 http://www.newyorker.com/tech/elements/gravitational-waves-exist-heres-how-scientists-finally-found-them
 

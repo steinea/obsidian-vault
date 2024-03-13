@@ -9,7 +9,7 @@ date: 2013-10-01
 permalink: 2013/10/01/hendrik-willem-van-loon-the-story-of-mankind
 ---
 
-[[2013]] • [[commonplace]] • [[Hendrik Willem van Loon]] • [[Wikipedia]]
+[[2013]] • [[Commonplace]] • [[Hendrik Willem van Loon]] • [[Wikipedia]]
 
 https://en.wikipedia.org/wiki/The_Story_of_Mankind
 

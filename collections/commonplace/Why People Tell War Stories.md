@@ -9,7 +9,7 @@ date: 2015-02-06
 permalink: 2015/02/06/david-a-graham-why-people-tell-war-stories
 ---
 
-[[2015]] • [[commonplace]] • [[David A. Graham]] • [[The Atlantic]]
+[[2015]] • [[Commonplace]] • [[David A. Graham]] • [[The Atlantic]]
 
 https://www.theatlantic.com/national/archive/2015/02/NBC-Anchor-Brian-Williams-Recants-Iraq-Story-After-Soldiers-Protest/385203/
 

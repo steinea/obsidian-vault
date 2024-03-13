@@ -9,7 +9,7 @@ date: 2017-01-19
 permalink: 2017/01/19/james-gleick-when-they-came-from-another-world
 ---
 
-[[2017]] • [[commonplace]] • [[James Gleick]] • [[New York Review of Books]] 
+[[2017]] • [[Commonplace]] • [[James Gleick]] • [[New York Review of Books]] 
 
 http://www.nybooks.com/articles/2017/01/19/when-they-came-from-another-world/
 

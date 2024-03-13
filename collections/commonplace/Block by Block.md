@@ -9,7 +9,7 @@ date: 2014-03-25
 permalink: 2014/03/25/kyle-carsten-wyatt-block-by-block
 ---
 
-[[2014]] • [[commonplace]] • [[Kyle Carsten Wyatt]] • [[The Walrus]]
+[[2014]] • [[Commonplace]] • [[Kyle Carsten Wyatt]] • [[The Walrus]]
 
 https://thewalrus.ca/block-by-block/
 

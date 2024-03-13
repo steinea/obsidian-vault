@@ -9,7 +9,7 @@ date: 2017-05-15
 permalink: 2017/05/15/mark-fisher-inorganic-libido
 ---
 
-[[2017]] • [[commonplace]] • [[Mark Fisher]] • [[k-punk]] 
+[[2017]] • [[Commonplace]] • [[Mark Fisher]] • [[k-punk]] 
 
 http://k-punk.abstractdynamics.org/
 

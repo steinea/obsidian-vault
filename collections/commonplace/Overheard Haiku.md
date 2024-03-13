@@ -9,7 +9,7 @@ date: 2014-11-27
 permalink: 2014/11/27/damion-searls-overheard-haiku
 ---
 
-[[2014]] • [[commonplace]] • [[Damion Searls]] • [[The Paris Review]]
+[[2014]] • [[Commonplace]] • [[Damion Searls]] • [[The Paris Review]]
 
 https://www.theparisreview.org/blog/2014/11/18/overheard-haiku/
 

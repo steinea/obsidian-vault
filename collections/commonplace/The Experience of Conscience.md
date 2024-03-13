@@ -9,7 +9,7 @@ date: 2017-02-15
 permalink: 2017/02/15/simon-critchley-the-experience-of-conscience
 ---
 
-[[2017]] • [[commonplace]] • [[Simon Critchley]] • [[The Guardian]] 
+[[2017]] • [[Commonplace]] • [[Simon Critchley]] • [[The Guardian]] 
 
 http://www.theguardian.com/commentisfree/belief/2009/jul/20/heidegger-being-time-critchley
 

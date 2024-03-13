@@ -9,7 +9,7 @@ date: 2016-03-03
 permalink: 2016/03/03/sian-echard-englishness-in-an-apocalypse
 ---
 
-[[2016]] • [[commonplace]] • [[Siân Echard]] • [[Los Angeles Review of Books]]
+[[2016]] • [[Commonplace]] • [[Siân Echard]] • [[Los Angeles Review of Books]]
 
 https://lareviewofbooks.org/review/englishness-in-an-apocalypse/
 

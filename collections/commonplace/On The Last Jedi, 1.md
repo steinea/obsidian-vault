@@ -9,7 +9,7 @@ date: 2017-12-12
 permalink: 2017/12/12/susana-polo-on-the-last-jedi-1
 ---
 
-[[2017]] • [[commonplace]] • [[Susana Polo]] • [[Polygon]] 
+[[2017]] • [[Commonplace]] • [[Susana Polo]] • [[Polygon]] 
 
 https://www.polygon.com/2017/12/12/16749732/star-wars-review-the-last-jedi-rian-johnson-luke-rey
 

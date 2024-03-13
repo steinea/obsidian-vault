@@ -9,7 +9,7 @@ date: 2014-11-09
 permalink: 2014/11/09/andrew-scheil-babylon-and-anglo-saxon-england
 ---
 
-[[2014]] • [[commonplace]] • [[Andrew Scheil]] • [[Studies in the Literary Imagination]]
+[[2014]] • [[Commonplace]] • [[Andrew Scheil]] • [[Studies in the Literary Imagination]]
 
 https://go.gale.com/ps/i.do?id=GALE%7CA110531558&sid=googleScholar&v=2.1&it=r&linkaccess=abs&issn=00393819&p=LitRC&sw=w&userGroupName=anon%7E1c0b3e5d
 

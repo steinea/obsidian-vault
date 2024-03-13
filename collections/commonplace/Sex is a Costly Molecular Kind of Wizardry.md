@@ -9,7 +9,7 @@ date: 2016-06-17
 permalink: 2016/06/17/arunas-l-radzvilavicius-sex-is-a-costly-molecular-kind-of-wizardry
 ---
 
-[[2016]] • [[commonplace]] • [[Arunas L. Radzvilavicius]] • [[Aeon]]
+[[2016]] • [[Commonplace]] • [[Arunas L. Radzvilavicius]] • [[Aeon]]
 
 https://aeon.co/ideas/sex-is-a-costly-molecular-kind-of-wizardry-why-evolve-it
 

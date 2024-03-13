@@ -9,7 +9,7 @@ date: 2016-07-27
 permalink: 2016/07/27/evan-conaway-pokemon-go-and-the-visibility-of-digital-infrastructure
 ---
 
-[[2016]] • [[commonplace]] • [[Evan Conaway]] • [[Platypus]]
+[[2016]] • [[Commonplace]] • [[Evan Conaway]] • [[Platypus]]
 
 http://blog.castac.org/2016/07/pokemon-go/
 

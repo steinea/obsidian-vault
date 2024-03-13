@@ -9,7 +9,7 @@ date: 2016-04-25
 permalink: 2016/04/25/wole-soyinka-paths-and-roads
 ---
 
-[[2016]] • [[commonplace]] • [[Wole Soyinka]] • [[Bacchae]]
+[[2016]] • [[Commonplace]] • [[Wole Soyinka]] • [[Bacchae]]
 
 https://en.wikipedia.org/wiki/The_Bacchae_of_Euripides
 

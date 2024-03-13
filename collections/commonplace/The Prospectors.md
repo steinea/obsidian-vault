@@ -9,7 +9,7 @@ date: 2015-06-12
 permalink: 2015/06/12/karen-russell-the-prospectors
 ---
 
-[[2015]] • [[commonplace]] • [[Karen Russell]] • [[The New Yorker]] 
+[[2015]] • [[Commonplace]] • [[Karen Russell]] • [[The New Yorker]] 
 
 https://www.newyorker.com/magazine/2015/06/08/the-prospectors
 

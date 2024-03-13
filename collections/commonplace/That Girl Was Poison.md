@@ -9,7 +9,7 @@ date: 2017-07-31
 permalink: 2017/07/31/megan-garber-that-girl-was-poison
 ---
 
-[[2017]] • [[commonplace]] • [[Megan Garber]] • [[The Atlantic]] 
+[[2017]] • [[Commonplace]] • [[Megan Garber]] • [[The Atlantic]] 
  
 “It’s yet another circular story in an episode (and, indeed, a show) that is full of them. Here is Cersei, getting her revenge for the death of her daughter by forcing the woman who murdered Myrcella to endure roughly the same fate Cersei had: the loss of a child.”
 

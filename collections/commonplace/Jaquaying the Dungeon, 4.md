@@ -9,7 +9,7 @@ date: 2023-03-12
 permalink: 2023/03/12/justin-alexander-jaquaying-the-dungeon-4
 ---
 
-[[2023]] • [[commonplace]] • [[Justin Alexander]] • [[The Alexandrian]]
+[[2023]] • [[Commonplace]] • [[Justin Alexander]] • [[The Alexandrian]]
 
 https://thealexandrian.net/wordpress/13123/roleplaying-games/jaquaying-the-dungeon-part-4-jaquaying-the-keep-on-the-shadowfell
 

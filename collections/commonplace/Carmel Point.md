@@ -9,7 +9,7 @@ date: 2017-03-02
 permalink: 2017/03/02/robinson-jeffers-carmel-point
 ---
 
-[[2017]] • [[commonplace]] • [[Robinson Jeffers]] • [[Poets]] 
+[[2017]] • [[Commonplace]] • [[Robinson Jeffers]] • [[Poets]] 
 
 https://poets.org/poem/carmel-point
 

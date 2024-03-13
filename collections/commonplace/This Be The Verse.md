@@ -9,7 +9,7 @@ date: 2014-12-19
 permalink: 2014/12/19/philip-larkin-this-be-the-verse
 ---
 
-[[2014]] • [[commonplace]] • [[Philip Larkin]] • [[Poetry Foundation]]
+[[2014]] • [[Commonplace]] • [[Philip Larkin]] • [[Poetry Foundation]]
 
 https://www.poetryfoundation.org/poems/48419/this-be-the-verse
 

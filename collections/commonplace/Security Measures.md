@@ -9,7 +9,7 @@ date: 2016-01-11
 permalink: 2016/01/11/thomas-paine-security-measures
 ---
 
-[[2016]] • [[commonplace]] • [[Thomas Paine]] • [[Common Sense]]
+[[2016]] • [[Commonplace]] • [[Thomas Paine]] • [[Common Sense]]
 
 https://en.wikipedia.org/wiki/Common_Sense
 

@@ -9,7 +9,7 @@ date: 2015-12-08
 permalink: 2015/12/08/james-fallows-obama-the-analyst
 ---
 
-[[2015]] • [[commonplace]] • [[James Fallows]] • [[The Atlantic]]
+[[2015]] • [[Commonplace]] • [[James Fallows]] • [[The Atlantic]]
 
 https://www.theatlantic.com/politics/archive/2015/12/obama-the-analyst/419049/
 

@@ -9,7 +9,7 @@ date: 2016-09-01
 permalink: 2016/09/01/joe-bucciero-heavy-metal-parking-lot-and-the-meaning-of-life
 ---
 
-[[2016]] • [[commonplace]] • [[Joe Bucciero]] • [[Los Angeles Review of Books]]
+[[2016]] • [[Commonplace]] • [[Joe Bucciero]] • [[Los Angeles Review of Books]]
 
 https://lareviewofbooks.org/article/heavy-metal-parking-lot-and-the-meaning-of-life/
 

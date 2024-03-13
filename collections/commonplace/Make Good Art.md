@@ -9,7 +9,7 @@ date: 2013-08-01
 permalink: 2013/08/01/neil-gaiman-make-good-art
 ---
 
-[[2013]] • [[commonplace]] • [[Neil Gaiman]] • [[University of the Arts]]
+[[2013]] • [[Commonplace]] • [[Neil Gaiman]] • [[University of the Arts]]
 
 https://www.uarts.edu/neil-gaiman-keynote-address-2012
 

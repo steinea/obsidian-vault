@@ -9,7 +9,7 @@ date: 2013-06-28
 permalink: 2013/06/28/charles-bukowski-so-you-want-to-be-a-writer
 ---
 
-[[2013]] • [[commonplace]] • [[Charles Bukowski]] • [[Poets]]
+[[2013]] • [[Commonplace]] • [[Charles Bukowski]] • [[Poets]]
 
 https://poets.org/poem/so-you-want-be-writer
 

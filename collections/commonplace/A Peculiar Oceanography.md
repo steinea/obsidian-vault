@@ -9,7 +9,7 @@ date: 2016-02-15
 permalink: 2016/02/15/matthew-stanley-a-peculiar-oceanography
 ---
 
-[[2016]] • [[commonplace]] • [[Matthew Stanley]] • [[Los Angeles Review of Books]]
+[[2016]] • [[Commonplace]] • [[Matthew Stanley]] • [[Los Angeles Review of Books]]
 
 https://lareviewofbooks.org/review/a-peculiar-oceanography/
 

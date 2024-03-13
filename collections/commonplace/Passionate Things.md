@@ -9,7 +9,7 @@ date: 2013-07-18
 permalink: 2013/07/18/maurice-sendak-passionate-things
 ---
 
-[[2013]] • [[commonplace]] • [[Maurice Sendak]] • [[The Marginalian]]
+[[2013]] • [[Commonplace]] • [[Maurice Sendak]] • [[The Marginalian]]
 
 https://www.themarginalian.org/2013/07/18/maurice-sendak-yale/
 

@@ -9,7 +9,7 @@ date: 2016-10-26
 permalink: 2016/10/26/cæmeron-crain-microfascism
 ---
 
-[[2016]] • [[commonplace]] • [[Cæmeron Crain]] • [[The Mantle]]
+[[2016]] • [[Commonplace]] • [[Cæmeron Crain]] • [[The Mantle]]
 
 https://www.themantle.com/philosophy/microfascism
 

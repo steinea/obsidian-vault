@@ -9,7 +9,7 @@ date: 2017-01-31
 permalink: 2017/01/31/ruby-brunton-coming-of-age-in-modern-dystopia
 ---
 
-[[2017]] • [[commonplace]] • [[Ruby Brunton]] • [[The New Inquiry]] 
+[[2017]] • [[Commonplace]] • [[Ruby Brunton]] • [[The New Inquiry]] 
 
 http://thenewinquiry.com/essays/coming-of-age-in-modern-dystopia/
 

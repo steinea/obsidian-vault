@@ -9,7 +9,7 @@ date: 2016-08-10
 permalink: 2016/08/10/jenny-l-davis-face-to-interface
 ---
 
-[[2016]] • [[commonplace]] • [[Jenny L. Davis]] • [[Real Life]]
+[[2016]] • [[Commonplace]] • [[Jenny L. Davis]] • [[Real Life]]
 
 http://reallifemag.com/face-to-interface/
 

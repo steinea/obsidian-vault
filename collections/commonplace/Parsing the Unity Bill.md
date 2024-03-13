@@ -9,7 +9,7 @@ date: 2015-07-15
 permalink: 2015/07/15/emmett-macfarlane-parsing-the-unity-bill
 ---
 
-[[2015]] • [[commonplace]] • [[Emmett Macfarlane]] • [[Maclean's]] 
+[[2015]] • [[Commonplace]] • [[Emmett Macfarlane]] • [[Maclean's]] 
 
 https://www.macleans.ca/news/canada/the-ndp-is-wrong-on-secession-the-clarity-act-and-the-supreme-court/
 

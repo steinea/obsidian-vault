@@ -9,7 +9,7 @@ date: 2022-12-17
 permalink: 2022/12/17/eric-francisco-technical-wizardry-and-pulp-imagination
 ---
 
-[[2022]] • [[commonplace]] • [[Eric Francisco]] • [[Inverse]]
+[[2022]] • [[Commonplace]] • [[Eric Francisco]] • [[Inverse]]
 
 https://www.inverse.com/entertainment/avatar-the-way-of-water-review
 

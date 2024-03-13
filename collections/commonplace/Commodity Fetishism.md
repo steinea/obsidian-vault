@@ -9,7 +9,7 @@ date: 2016-02-10
 permalink: 2016/02/10/geoffrey-pilling-commodity-fetishism
 ---
 
-[[2016]] • [[commonplace]] • [[Geoffrey Pilling]] • [[Marxists]]
+[[2016]] • [[Commonplace]] • [[Geoffrey Pilling]] • [[Marxists]]
 
 https://www.marxists.org/archive/pilling/works/capital/ch05.htm
 

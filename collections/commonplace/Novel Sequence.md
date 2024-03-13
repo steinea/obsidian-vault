@@ -9,7 +9,7 @@ date: 2022-09-23
 permalink: 2022/09/23/wikipedia-novel-sequence
 ---
 
-[[2022]] • [[commonplace]] • [[Wikipedia]]
+[[2022]] • [[Commonplace]] • [[Wikipedia]]
 
 https://en.wikipedia.org/wiki/Book_series#Fiction_books
 

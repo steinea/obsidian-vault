@@ -9,7 +9,7 @@ date: 2015-12-14
 permalink: 2015/12/14/eman-shahata-the-clock-inside-us
 ---
 
-[[2015]] • [[commonplace]] • [[Eman Shahata]] •[[The New Inquiry]]
+[[2015]] • [[Commonplace]] • [[Eman Shahata]] •[[The New Inquiry]]
 
 https://thenewinquiry.com/the-clock-inside-us/
 

@@ -9,7 +9,7 @@ date: 2023-04-09
 permalink: 2023/04/09/adam-coleman-seamus-deanes-challenge-to-empire
 ---
 
-[[2023]] • [[commonplace]] • [[Adam Coleman]] • [[Jacobin]]
+[[2023]] • [[Commonplace]] • [[Adam Coleman]] • [[Jacobin]]
 
 https://jacobin.com/2023/04/seamus-deane-writer-irish-nationalism-imperialism-cultural-criticism
  

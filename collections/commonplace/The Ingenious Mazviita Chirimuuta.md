@@ -9,7 +9,7 @@ date: 2015-07-13
 permalink: 2015/07/13/kevin-berger-the-ingenious-mazviita-chirimuuta
 ---
 
-[[2015]] • [[commonplace]] • [[Kevin Berger]] • [[Nautilus]] 
+[[2015]] • [[Commonplace]] • [[Kevin Berger]] • [[Nautilus]] 
 
 https://nautil.us/issue/26/color/ingenious-mazviita-chirimuuta
 

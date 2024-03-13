@@ -9,7 +9,7 @@ date: 2016-07-26
 permalink: 2016/07/26/mark-greif-afternoon-of-the-sex-children
 ---
 
-[[2016]] • [[commonplace]] • [[Mark Greif]] • [[n+1]]
+[[2016]] • [[Commonplace]] • [[Mark Greif]] • [[n+1]]
 
 https://nplusonemag.com/issue-4/essays/afternoon-of-the-sex-children/
 

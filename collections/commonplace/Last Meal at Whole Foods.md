@@ -9,7 +9,7 @@ date: 2014-07-25
 permalink: 2014/07/25/said-sayrafiezadeh-last-meal-at-whole-foods
 ---
 
-[[2014]] • [[commonplace]] • [[Saïd Sayrafiezadeh]] • [[The New Yorker]]
+[[2014]] • [[Commonplace]] • [[Saïd Sayrafiezadeh]] • [[The New Yorker]]
 
 https://www.newyorker.com/magazine/2014/07/28/last-meal-whole-foods
 

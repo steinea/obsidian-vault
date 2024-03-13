@@ -9,7 +9,7 @@ date: 2017-02-02
 permalink: 2017/02/02/ben-lerner-alexander-kluge-angels-and-administration
 ---
 
-[[2017]] • [[commonplace]] • [[Ben Lerner]] • [[The Paris Review]] 
+[[2017]] • [[Commonplace]] • [[Ben Lerner]] • [[The Paris Review]] 
 
 https://www.theparisreview.org/blog/2017/02/02/an-interview-with-alexander-kluge/
 

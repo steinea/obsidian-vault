@@ -9,7 +9,7 @@ date: 2016-10-26
 permalink: 2016/10/26/terence-blake-abundance-versus-withdrawal
 ---
 
-[[2016]] • [[commonplace]] • [[Terence Blake]] • [[Agent Swarm]]
+[[2016]] • [[Commonplace]] • [[Terence Blake]] • [[Agent Swarm]]
 
 https://terenceblake.wordpress.com/2014/04/24/ontology-abundance-vs-withdrawal/
 

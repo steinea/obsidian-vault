@@ -9,7 +9,7 @@ date: 2014-06-24
 permalink: 2014/06/24/julian-hanna-manifesto-a-manifesto
 ---
 
-[[2014]] • [[commonplace]] • [[Julian Hanna]] • [[The Atlantic]]
+[[2014]] • [[Commonplace]] • [[Julian Hanna]] • [[The Atlantic]]
 
 https://www.theatlantic.com/entertainment/archive/2014/06/manifestos-a-manifesto-the-10-things-all-manifestos-need/372135/
 

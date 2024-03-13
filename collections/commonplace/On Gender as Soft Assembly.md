@@ -9,7 +9,7 @@ date: 2016-07-23
 permalink: 2016/07/23/jeanne-wolff-bernstein-on-gender-as-soft-assembly
 ---
 
-[[2016]] • [[commonplace]] • [[Jeanne Wolff Bernstein]] • [[American Psychological Association]]
+[[2016]] • [[Commonplace]] • [[Jeanne Wolff Bernstein]] • [[American Psychological Association]]
 
 http://www.apadivisions.org/division-39/publications/reviews/assembly.aspx
 

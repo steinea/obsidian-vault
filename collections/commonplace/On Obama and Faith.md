@@ -9,7 +9,7 @@ date: 2015-02-07
 permalink: 2015/02/07/james-fallows-on-obama-and-faith
 ---
 
-[[2015]] • [[commonplace]] • [[James Fallows]] • [[The Atlantic]]
+[[2015]] • [[Commonplace]] • [[James Fallows]] • [[The Atlantic]]
 
 https://www.theatlantic.com/politics/archive/2015/02/on-obama-faith-and-doubt/385266/
 

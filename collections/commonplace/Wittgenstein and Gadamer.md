@@ -9,7 +9,7 @@ date: 2016-10-10
 permalink: 2016/10/10/robert-dostal-wittgenstein-and-gadamer
 ---
 
-[[2016]] • [[commonplace]] • [[Robert Dostal]] • [[Notre Dame Philosophical Reviews]]
+[[2016]] • [[Commonplace]] • [[Robert Dostal]] • [[Notre Dame Philosophical Reviews]]
 
 http://ndpr.nd.edu/news/24813-wittgenstein-and-gadamer-towards-a-post-analytic-philosophy-of-language/
 

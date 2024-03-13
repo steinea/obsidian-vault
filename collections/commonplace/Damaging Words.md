@@ -9,7 +9,7 @@ date: 2017-05-24
 permalink: 2017/05/24/jonathan-alexander-damaging-words
 ---
 
-[[2017]] • [[commonplace]] • [[Jonathan Alexander]] • [[Los Angeles Review of Books]] 
+[[2017]] • [[Commonplace]] • [[Jonathan Alexander]] • [[Los Angeles Review of Books]] 
 
 https://lareviewofbooks.org/article/damaging-words-thirteen-reasons/
 

@@ -9,7 +9,7 @@ date: 2016-03-11
 permalink: 2016/03/11/jurgen-habermas-the-idea-of-the-theory-of-knowledge-as-social-theory
 ---
 
-[[2016]] • [[commonplace]] • [[Jurgen Habermas]] • [[Marxists]]
+[[2016]] • [[Commonplace]] • [[Jurgen Habermas]] • [[Marxists]]
 
 https://www.marxists.org/reference/archive/habermas/1968/theory-knowledge.htm
 

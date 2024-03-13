@@ -9,7 +9,7 @@ date: 2023-06-17
 permalink: 2023/06/17/crimethinc-two-years-against-copy-city
 ---
 
-[[2023]] • [[commonplace]] • [[CrimethInc]] 
+[[2023]] • [[Commonplace]] • [[CrimethInc]] 
 
 https://crimethinc.com/2023/02/28/balance-sheet-two-years-against-cop-city-evaluating-strategies-refining-tactics
  

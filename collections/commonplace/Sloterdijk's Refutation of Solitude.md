@@ -9,7 +9,7 @@ date: 2017-06-28
 permalink: 2017/06/28/terence-blake-sloterdijks-refutation-of-solitude
 ---
 
-[[2017]] • [[commonplace]] • [[Terence Blake]] • [[Agent Swarm]] 
+[[2017]] • [[Commonplace]] • [[Terence Blake]] • [[Agent Swarm]] 
 
 https://terenceblake.wordpress.com/2017/06/28/imagine-spheres-sloterdijks-refutation-of-solitude/
 

@@ -9,7 +9,7 @@ date: 2023-06-10
 permalink: 2023/06/10/joseph-grosso-the-nihilism-of-degrowth
 ---
 
-[[2023]] • [[commonplace]] • [[Joseph Grosso]] • [[Sublation Magazine]]
+[[2023]] • [[Commonplace]] • [[Joseph Grosso]] • [[Sublation Magazine]]
 
 https://www.sublationmag.com/post/growing-small-the-nihilism-of-degrowth
  

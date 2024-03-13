@@ -9,7 +9,7 @@ date: 2014-05-23
 permalink: 2014/05/23/roy-peter-clark-the-short-sentence-as-gospel-truth
 ---
 
-[[2014]] • [[commonplace]] • [[Roy Peter Clark]] • [[The New York Times]]
+[[2014]] • [[Commonplace]] • [[Roy Peter Clark]] • [[The New York Times]]
 
 https://opinionator.blogs.nytimes.com/2013/09/07/the-short-sentence-as-gospel-truth/
 

@@ -9,7 +9,7 @@ date: 2017-03-15
 permalink: 2017/03/14/gustavo-blazquez-yuppies-junkies-and-mules
 ---
 
-[[2017]] • [[commonplace]] • [[Gustavo Blázquez]] • [[Hemispheric Institute]] 
+[[2017]] • [[Commonplace]] • [[Gustavo Blázquez]] • [[Hemispheric Institute]] 
 
 http://www.hemisphericinstitute.org/hemi/fr/e-misferica-82/blazquez
 
