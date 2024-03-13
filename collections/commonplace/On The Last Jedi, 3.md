@@ -2,15 +2,17 @@
 layout: entry
 category: commonplace
 author: Matthew Gault
-title: <em>The Last Jedi</em>
+title: On The Last Jedi, 3
 publication: Motherboard
 link: https://motherboard.vice.com/en_us/article/9kdd97/star-wars-the-last-jedi-review-makes-prequels-good
 date: 2017-12-15
-permalink: 
+permalink: 2017/12/15/matthew-gault-on-the-last-jedi-3
 ---
 
-[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
- 
+[[2017]] • [[commonplace]] • [[Matthew Gault]] • [[Motherboard]]
+
+https://motherboard.vice.com/en_us/article/9kdd97/star-wars-the-last-jedi-review-makes-prequels-good
+
 “It’s confession time. I don’t hate the Star Wars prequels. Wait. Stop. Don’t close the browser. come closer. I have reasons.”
 
 “There are things about The Phantom Menace, Attack of the Clones, and Revenge of the Sith that are indefensible.”

@@ -6,11 +6,13 @@ title: Arkangel
 publication: The Atlantic
 link: https://www.theatlantic.com/entertainment/archive/2017/12/black-mirror-arkangel-mines-the-horror-of-helicopter-parenting/549368/
 date: 2017-12-29
-permalink: 
+permalink: 2017/12/29/sophie-gilbert-david-sims-arkangel
 ---
 
-[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
- 
+[[2017]] • [[commonplace]] • [[Sophie Gilbert]] • [[David Sims]] • [[The Atlantic]]
+
+https://www.theatlantic.com/entertainment/archive/2017/12/black-mirror-arkangel-mines-the-horror-of-helicopter-parenting/549368/
+
 "David, I loved “USS Callister”—it’s my favorite of all the new episodes. You’re smart to observe how it starts with this mopey cliché of a lonely coder, encouraging you to sympathize with him, and then flips it on its head, showing the darkness of his walled-in fantasy world. "
 
 "It’s also interesting how the technology in the episode appears to nod back to “White Christmas” and its cookies."

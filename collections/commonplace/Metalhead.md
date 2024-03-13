@@ -6,11 +6,13 @@ title: Metalhead
 publication: The Atlantic
 link: https://www.theatlantic.com/entertainment/archive/2017/12/black-mirrors-metalhead-is-a-short-stylish-survival-thriller/549392/
 date: 2017-12-31
-permalink: 
+permalink: 2017/12/31/sophie-gilbert-david-sims-
 ---
 
-[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
- 
+[[2017]] • [[commonplace]] • [[Sophie Gilbert]] • [[David Sims]] • [[The Atlantic]]
+
+https://www.theatlantic.com/entertainment/archive/2017/12/black-mirrors-metalhead-is-a-short-stylish-survival-thriller/549392/
+
 "“Hang the DJ” might have been my favorite episode of the season. Yes, it hits you over the head with the metaphor, but it’s such a perfect deployment of Charlie Brooker’s skills: relatable comedy, subtle sci-fi, melancholy British fatalism about life and love. "
 
 "Plus the two leads (neither of whom I knew) were just so charming together. The final mind-blowing, world-expanding twist at the end worked for me; since the metaphor for dating algorithms was so obvious already, why not make it literal?"

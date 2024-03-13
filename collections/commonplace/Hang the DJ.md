@@ -6,11 +6,13 @@ title: Hang the DJ
 publication: The Atlantic
 link: https://www.theatlantic.com/entertainment/archive/2017/12/black-mirror-hang-the-dj/549371/
 date: 2017-12-30
-permalink: 
+permalink: 2017/12/30/sophie-gilbert-david-sims-hang-the-dj
 ---
 
-[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
- 
+[[2017]] • [[commonplace]] • [[Sophie Gilbert]] • [[David Sims]] • [[The Atlantic]]
+
+https://www.theatlantic.com/entertainment/archive/2017/12/black-mirror-hang-the-dj/549371/
+
 "I couldn’t agree more about “Crocodile,” David. I’m such a devoted Andrea Riseborough fan that I’d pay money to watch her read the phone book, so the episode felt like a colossal disappointment. "
 
 "Her character’s throughline was nonsensical, as you noted—how can someone so horrified by accidentally hitting a cyclist in the opening scene murder four people (including a toddler) a decade later?"

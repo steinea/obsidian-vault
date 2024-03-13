@@ -6,11 +6,13 @@ title: USS Callister
 publication: The Atlantic
 link: https://www.theatlantic.com/entertainment/archive/2017/12/black-mirrors-uss-callister-is-much-more-than-a-star-trek-parody/549191/
 date: 2017-12-29
-permalink: 
+permalink: 2017/12/29/sophie-gilbert-david-sims-uss-callister
 ---
 
-[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
- 
+[[2017]] • [[commonplace]] • [[Sophie Gilbert]] • [[David Sims]] • [[The Atlantic]]
+
+https://www.theatlantic.com/entertainment/archive/2017/12/black-mirrors-uss-callister-is-much-more-than-a-star-trek-parody/549191/
+
 "In “Nosedive,” escaping the online universe was the goal; in “USS Callister,” it’s the opposite. "
 
 "What I liked most about “USS Callister,” which makes for an exceptionally strong start to this new season, was the nasty, winking twist of its set-up. Our sad-sack protagonist, Robert Daly has the profile of a misunderstood nice guy. He’s an unheralded genius at his job, where he created an online gaming world that his publicity-minded boss Walton (Jimmi Simpson) takes all the credit for. He’s shy and retiring, he’s played by the adorable Jesse Plemons (Landry from Friday Night Lights!), and he spends his nights fantasizing that he’s the great Captain Daly of his favorite show, Space Fleet, using the high-end tech he invented, a forehead-mounted brain-projection chip."

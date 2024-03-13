@@ -2,15 +2,17 @@
 layout: entry
 category: commonplace
 author: Christopher Orr
-title: The Last Jedi
+title: On The Last Jedi, 4
 publication: The Atlantic
 link: https://www.theatlantic.com/entertainment/archive/2017/12/the-last-jedi-may-be-the-best-star-wars-movie-since-the-empire-strikes-back/548363/
 date: 2017-12-17
-permalink: 
+permalink: 2017/12/17/christopher-orr-on-the-last-jedi-4
 ---
 
-[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
- 
+[[2017]] • [[commonplace]] • [[Christopher Orr]] • [[The Atlantic]] 
+
+https://www.theatlantic.com/entertainment/archive/2017/12/the-last-jedi-may-be-the-best-star-wars-movie-since-the-empire-strikes-back/548363/
+
 “This was always going to be a tricky balance—long-awaited fan fulfillment versus something genuinely fresh”
 
 “I suggested at the time that final judgment on the movie would depend in part on its sequels: If they branched out in new directions, The Force Awakens’s flaws would be easily forgiven; if, on the other hand, “we again find our heroes lassoing AT-ATs on a snow-covered planet”—à la The Empire Strikes Back—it would be a bad sign for the franchise.”

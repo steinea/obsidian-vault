@@ -6,11 +6,13 @@ title: Faith in the Earth
 publication: Wikipedia
 link: https://en.wikipedia.org/wiki/Faith_in_the_Earth
 date: 2017-11-23 
-permalink: 
+permalink: 2017/11/23/david-albert-rathbone-faith-in-the-earth
 ---
 
-[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
- 
+[[2017]] • [[commonplace]] • [[David Albert Rathbone]] • [[Wikipedia]] 
+
+https://en.wikipedia.org/wiki/Faith_in_the_Earth
+
 This article has multiple issues. Please help improve it or discuss these issues on the talk page.
 
 This article is written like a personal reflection or opinion essay that states a Wikipedia editor's personal feelings about a topic. (May 2011)

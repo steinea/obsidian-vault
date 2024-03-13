@@ -2,15 +2,17 @@
 layout: entry
 category: commonplace
 author: Spencer Kornhaber
-title: <em>The Last Jedi</em>
+title: On The Last Jedi, 5
 publication: The Atlantic
 link: https://www.theatlantic.com/entertainment/archive/2017/12/the-last-jedi-twists-spoilers-star-wars-episode-viii/548402/
 date: 2017-12-17
-permalink: 
+permalink: 2017/12/17/spencer-kornhaber-on-the-last-jedi-5
 ---
 
-[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
- 
+[[2017]] • [[commonplace]] • [[Spencer Kornhaber]] • [[The Atlantic]] 
+
+https://www.theatlantic.com/entertainment/archive/2017/12/the-last-jedi-twists-spoilers-star-wars-episode-viii/548402/
+
 ““This is not going to go the way you think!” growls Luke Skywalker in a line that was, wisely, selected as the money quote for The Last Jedi’s trailers.”
 
 “Rian Johnson’s Star Wars sequel is a machine built to startle the audience again and again across two and a half hours, and he’s turned everything from lightsaber duels to celebrity cameos into not-what-you-think moments.”

@@ -6,11 +6,13 @@ title: The Pizza Thought Experiment
 publication: New York Review of Books
 link: http://www.nybooks.com/daily/2017/11/26/the-pizza-thought-experiment/
 date: 2017-11-26
-permalink: 
+permalink: 2017/11/26/riccardo-manzotti-tim-parks-the-pizza-thought-experiment
 ---
 
-[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
- 
+[[2017]] • [[commonplace]] • [[Riccardo Manzotti]] • [[Tim Parks]] • [[New York Review of Books]]
+
+http://www.nybooks.com/daily/2017/11/26/the-pizza-thought-experiment/
+
 "Descartes declared thinking the ultimate reality, the only way to be sure of one’s existence. He located that thinking in the mind and believed it was immaterial, made of spirit, communicating with the physical body through the pineal gland at the top of the spine. "
 
 "Times have changed, and scientists now look for explanations of the experience of thinking in the billions of neurons in the brain with their trillions of electrical connections and chemical processes. Yet the location of thought remains firmly in the head."
