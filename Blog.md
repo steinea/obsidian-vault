@@ -3,44 +3,44 @@ permalink: blog
 cssclass: clean-embeds
 ---
 
-![[latest]]
+![[Latest]]
 
 <br>
 
-![[juvenilia3]]
+![[Juvenilia, 3]]
 
 <br>
 
-![[fieldnotes2]]
+![[Field Notes, 2]]
 
 <br>
 
-![[ludology]]
+![[Ludology]]
 
 <br>
 
-![[excurses3]]
+![[Excurses, 3]]
 
 <br>
 
-![[dialogues]]
+![[Dialogues]]
 
 <br>
 
-![[excurses2]]
+![[Excurses, 2]]
 
 <br>
 
-![[juvenilia2]]
+![[Juvenilia, 2]]
 
 <br>
 
-![[excurses]]
+![[Excurses]]
 
 <br>
 
-![[juvenilia]]
+![[Juvenilia]]
 
 <br>
 
-![[fieldnotes]]
+![[Field Notes]]
