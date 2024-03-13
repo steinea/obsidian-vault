@@ -6,11 +6,13 @@ title: Queen of the Ashes
 publication: The Atlantic
 link: https://www.theatlantic.com/entertainment/archive/2017/08/game-of-thrones-season-7-episode-4-spoils-of-war-roundtable/536013/
 date: 2017-08-06
-permalink: 
+permalink: 2017/08/06/lenika-cruz-megan-garber-spencer-kornhaber-queen-of-the-ashes
 ---
 
-[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
- 
+[[2017]] • [[commonplace]] • [[Lenika Cruz]] • [[Megan Garber]] • [[Spencer Kornhaber]] • [[The Atlantic]] 
+
+https://www.theatlantic.com/entertainment/archive/2017/08/game-of-thrones-season-7-episode-4-spoils-of-war-roundtable/536013/
+
 “Megan Garber:”
 
 “The cinematography here reminded me, in a strange (but maybe sort of fitting?) way, of Dunkirk—not just the dead-men-walking ideas at play in the martial elements of the skirmish, but also in the way the action was divided: Air as one battlefield—as one domain—and Land as another. And that division, the one made so clear with land-Bronn and air-Dany, was especially appropriate given the stakes of the battle. This wasn’t, after all, just a clash of militaries; it was a clash of philosophies. It was, very broadly, the Lannisters and their gold versus the Targaryen and her principles. It wasn’t right versus wrong—Game of Thrones is much more complicated than that—but it was definitely, in ways both literal and more figurative, “high” versus “low.””

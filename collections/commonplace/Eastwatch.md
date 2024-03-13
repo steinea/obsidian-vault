@@ -3,14 +3,16 @@ layout: entry
 category: commonplace
 author: Aaron Bady and Sarah Mesle
 title: Eastwatch
-publication:  Los Angeles Review of Books
+publication: Los Angeles Review of Books
 link: https://lareviewofbooks.org/article/game-thrones-eastwatch/
 date: 2017-08-14
-permalink: 
+permalink: 2017/08/14/aaron-bady-sarah-mesle-eastwatch
 ---
 
-[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
- 
+[[2017]] • [[commonplace]] • [[Aaron Bady]] • [[Sarah Mesle]] • [[Los Angeles Review of Books]]
+
+https://lareviewofbooks.org/article/game-thrones-eastwatch/
+
 “Winter: How Does It Even Work?”
 
 “Last, finally, okay, I have to say it: the dragon between Daenerys legs that Jon makes friends with. I mean… this is not a show where the relationship between sex and power is ever very convoluted; most of the time, subtext is just text. So, what has Jon done when he put his hands on her beast? Her beast that she has to explain to him is terrifying to many people, but actually very beautiful? And he’s… well, he’s not totally convinced? The dragon likes him, but it’s not clear that he likes the dragon.”

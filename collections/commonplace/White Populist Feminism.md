@@ -6,11 +6,13 @@ title: White Populist Feminism
 publication: Rabble
 link: http://rabble.ca/blogs/bloggers/2017-02-21t000000/white-populist-feminism-makes-intersectionality-nearly-impossible
 date: 2017-08-24
-permalink: 
+permalink: 2017/08/24/cheryl-thompson-white-populist-feminism
 ---
 
-[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
- 
+[[2017]] • [[commonplace]] • [[Cheryl Thompson]] • [[Rabble]] 
+
+http://rabble.ca/blogs/bloggers/2017-02-21t000000/white-populist-feminism-makes-intersectionality-nearly-impossible
+
 “Over the past few years, populist politics have been on the rise across the western world.”
 
 “Few, however, have noticed the rise of populist feminism, a mainstream feminism that espouses to speak for and on behalf of all women, but essentially speaks for and on behalf of white, middle-class, cis-gendered and able-bodied women.”

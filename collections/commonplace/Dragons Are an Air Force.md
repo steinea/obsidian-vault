@@ -2,15 +2,17 @@
 layout: entry
 category: commonplace
 author: Matthew Gault
-title:  Dragons Are an Air Force
+title: Dragons Are an Air Force
 publication: Motherboard
 link: https://motherboard.vice.com/en_us/article/43xkeb/game-of-thrones-dragons-arent-nukes-theyre-an-air-force
 date: 2017-08-08
-permalink: 
+permalink: 2017/08/08/matthew-gault-dragon-are-an-air-force
 ---
 
-[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
- 
+[[2017]] • [[commonplace]] • [[Matthew Gault]] • [[Motherboard]] 
+
+https://motherboard.vice.com/en_us/article/43xkeb/game-of-thrones-dragons-arent-nukes-theyre-an-air-force
+
 “After years of waiting, Game of Thrones fans finally got to watch Daenerys Targaryen's dragons go to war last night and it was beautiful.”
 
 “For years, military experts, such as George Washington University's Timothy Westmyer, have speculated that the fire-breathing monsters were the nuclear weapons of the fantasy world. "Dragons are the nuclear deterrent, and only Dany has them, which in some ways makes her the most powerful person in the world," series creator George RR Martin told Vulture in 2011.”

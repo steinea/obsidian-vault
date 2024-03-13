@@ -6,11 +6,13 @@ title: Game of Thrones and White Supremacy
 publication: The Root
 link: http://www.theroot.com/game-of-thrones-showed-us-how-america-treats-white-supr-1797817865
 date: 2017-08-14
-permalink: 
+permalink: 2017/08/14/michael-harriott-game-of-thrones-and-white-supremacy
 ---
 
-[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
- 
+[[2017]] • [[commonplace]] • [[Michael Harriott]] • [[The Root]] 
+
+http://www.theroot.com/game-of-thrones-showed-us-how-america-treats-white-supr-1797817865
+
 “We have previously discussed how the “army of the dead” (the White Walkers) is a metaphor for the white nationalist movement that seeks to slowly purge this country of everything other than Caucasian Christians.”
 
 “Although I know this week’s episode was probably written over a year ago, in the wake of Charlottesville, Va.’s version of Wypipo Gone Wild, here’s how episode 4, “Eastwatch,” somehow managed to perfectly capture America’s attitude toward the “alt-right” movement.”

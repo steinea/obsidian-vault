@@ -6,11 +6,13 @@ title: Death is the Enemy
 publication: Los Angeles Review of Books
 link: https://lareviewofbooks.org/article/game-thrones-death-enemy/
 date: 2017-08-21
-permalink: 
+permalink: 2017/08/21/aaron-bady-sarah-mesle-death-is-the-enemy
 ---
 
-[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
- 
+[[2017]] • [[commonplace]] • [[Aaron Bady]] • [[Sarah Mesle]] • [[Los Angeles Review of Books]]
+
+https://lareviewofbooks.org/article/game-thrones-death-enemy/
+
 “This week on Dear Television:
 
 Aaron Bady and Sarah Mesle get a raven from Eastwatch saying some bad stuff that was obviously going to happen is happening, so they put on their white tailored fur coats, saddle up their dragons, and talk about “Death is the Enemy,” the penultimate episode of the seventh season of Game of Thrones. There are spoilers, of course, so don’t look directly at the sun during the eclipse.”

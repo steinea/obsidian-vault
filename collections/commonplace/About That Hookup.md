@@ -6,11 +6,13 @@ title: About That Hookup
 publication: The Atlantic
 link: https://www.theatlantic.com/entertainment/archive/2017/08/game-of-thrones-and-the-long-tradition-of-incest-in-literature/538170/
 date: 2017-08-28
-permalink: 
+permalink: 2017/08/28/megan-garber-about-that-hookup
 ---
 
-[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
- 
+[[2017]] • [[commonplace]] • [[Megan Garber]] • [[The Atlantic]] 
+
+https://www.theatlantic.com/entertainment/archive/2017/08/game-of-thrones-and-the-long-tradition-of-incest-in-literature/538170/
+
 “Sunday’s episode, “The Dragon and the Wolf,” confirmed it: Jon is not, in fact, the illegitimate son of Ned Stark; he is in fact the legitimate son of Ned’s sister, Lyanna, and her husband Rhaegar Targaryen. Who was also the older brother of one Daenerys Targaryen. Which would, yep, make Jon Snow, né Aegon Targaryen … Dany’s nephew.”
 
 “Which would make the consummation of their attraction, as one of the final scenes of the season … extremely complicated.”

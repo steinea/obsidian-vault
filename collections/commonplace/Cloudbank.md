@@ -6,11 +6,13 @@ title: Cloudbank
 publication: Fractal Ontology
 link: https://fractalontology.wordpress.com/2017/08/17/cloudbank/
 date: 2017-08-17
-permalink: 
+permalink: 2017/08/18/joseph-weissman-cloudbank
 ---
 
-[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
- 
+[[2017]] • [[commonplace]] • [[Joseph Weissman]] • [[Fractal Ontology]] 
+
+https://fractalontology.wordpress.com/2017/08/17/cloudbank/
+
 “Critique of pure laughter.”
 
 “Laughter plays madly through the body, as though suddenly accessing another layer of reality. The shock of the abstract.”

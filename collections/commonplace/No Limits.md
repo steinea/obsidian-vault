@@ -6,10 +6,12 @@ title: No Limits
 publication: Platypus
 link: http://blog.castac.org/2017/08/no-limits/
 date: 2017-08-17
-permalink: 
+permalink: 2017/08/17/joseph-klein-no-limits
 ---
 
-[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
+[[2017]] • [[commonplace]] • [[Joseph Klein]] • [[Platypus]]
+
+http://blog.castac.org/2017/08/no-limits/
  
 Fougères, Dorian. 2011. Aquarian Capitalism and Transition in Indonesia. VDM Verlag.
 

@@ -6,10 +6,12 @@ title: CRISPR, Patents, and Nobel Prizes
 publication: Los Angeles Review of Books
 link: https://lareviewofbooks.org/article/crispr-patents-and-nobel-prizes/
 date: 2017-08-23
-permalink: 
+permalink: 2017/08/23/henry-t-greely-crispr-patents-and-nobel-prizes
 ---
 
-[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
+[[2017]] • [[commonplace]] • [[Henry T. Greely]] • [[Los Angeles Review of Books]]
+
+https://lareviewofbooks.org/article/crispr-patents-and-nobel-prizes/
  
 “Humans’ use of the bacterial defense mechanism called “clustered regularly interspaced short palindromic repeats” (CRISPR), with or without “CRISPR associated protein 9” (Cas 9) — along with the technologies that eventually will modify or displace it ­— is of vast importance.”
 

@@ -6,11 +6,13 @@ title: Taking Solace in Attack on Titan
 publication: Los Angeles Review of Books
 link: https://lareviewofbooks.org/article/taking-solace-in-attack-on-titan/
 date: 2017-08-04
-permalink: 
+permalink: 2017/08/04/joy-hui-lin-taking-solace-in-attack-on-titan
 ---
 
-[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
- 
+[[2017]] • [[commonplace]] • [[Joy Hui Lin]] • [[Los Angeles Review of Books]] 
+
+https://lareviewofbooks.org/article/taking-solace-in-attack-on-titan/
+
 “Normal efforts toward self-care fall so short and feel so ludicrous when it feels as though the world is hurting everywhere.”
 
 “Caring for the “rag and bone shop of the heart” — in the words of Yeats — through such palliative measures as rest, meditation, exercise, and even TV seems tinged with a halo of selfishness.”

@@ -6,11 +6,13 @@ title: Deus Ex Westeros
 publication: The Atlantic
 link: https://www.theatlantic.com/entertainment/archive/2017/08/deus-ex-westeros/537480/
 date: 2017-08-21
-permalink: 
+permalink: 2017/08/21/megan-garber-deus-ex-westeros
 ---
 
-[[2017]] • [[commonplace]] • AUTHOR • PUBLICATIONS 
- 
+[[2017]] • [[commonplace]] • [[Megan Garber]] • [[The Atlantic]] 
+
+https://www.theatlantic.com/entertainment/archive/2017/08/deus-ex-westeros/537480/
+
 “Game of Thrones is in many ways a show about faith: in gods, in others, in oneself.”
 
 “But it also demands, as any such show will, another kind of faith—in storytelling.”
