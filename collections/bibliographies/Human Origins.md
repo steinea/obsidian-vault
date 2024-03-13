@@ -6,7 +6,7 @@ permalink: 2024/02/16/human-origins
 
 # Human Origins
 
-[[bibliographies]]
+[[Bibliographies]]
 
 * Roberts, *[[A Short History of the World]]*, 1997
 * Cook, *[[A Brief History of the Human Race]]*, 2003

@@ -6,7 +6,7 @@ permalink: 2024/02/13/playing-gender
 
 # Play and Gender
 
-[[bibliographies]]
+[[Bibliographies]]
 
 * Dibbell, *[[My Tiny Life]]*, 1999
 * Shaw, *[[Gaming at the Edge]]*, 2014
