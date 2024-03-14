@@ -14,7 +14,7 @@ const queries = [
   },
   {
     title: "Activity",
-    query: 'LIST FROM "dataview/activity" AND -"dataview/activity/playingcompleted" AND -"dataview/activity/playingmost" AND -"dataview/activity/playingnext" AND -"dataview/activity/playingnow" AND -"dataview/activity/playingshortest" AND -"dataview/activity/playingstopped" AND -"dataview/activity/playingwishlist" AND -"dataview/activity/watchingfilm" AND -"dataview/activity/watchingtelevision" SORT file.name ASC',
+    query: 'LIST FROM "dataview/activity" AND -"dataview/activity/Playing Completed" AND -"dataview/activity/Playing Most" AND -"dataview/activity/Playing Next" AND -"dataview/activity/Playing Now" AND -"dataview/activity/Playing Shortest" AND -"dataview/activity/Playing Stopped" AND -"dataview/activity/Playing Wishlist" AND -"dataview/activity/Watching Film" AND -"dataview/activity/Watching Television" SORT file.name ASC',
     content: `---\npermalink: activity\n---\n`,
   },
   {
