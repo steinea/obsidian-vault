@@ -7,13 +7,13 @@ releaseDate: 2024-01-19
 howlongtobeat: 4h
 difficulty: 
 trophyGuide: 
-duration:
-trophies: 
-percent: 
-progress: next
-link: 
-date: 
-permalink: 
+duration: 5h
+trophies: 20/20
+percent: ★
+progress: complete
+link: https://psnprofiles.com/trophies/25510-the-cub/barrelofjuice
+date: 2024-03-07
+permalink: 2024/03/07/the-cub
 ---
 
 [[2024]] • [[Games]] • [[Demagog Studio]] • [[Untold Tales]] • [[PS5]]

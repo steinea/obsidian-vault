@@ -8,7 +8,7 @@ howlongtobeat: 6h
 difficulty: 5/10
 trophyGuide: https://psnprofiles.com/guide/12864-golf-club-nostalgia-trophy-guide
 duration: 9h
-trophies: 26/28
+trophies: 28/28
 percent: ★
 progress: complete
 link: https://psnprofiles.com/trophies/13725-golf-club-nostalgia/barrelofjuice
