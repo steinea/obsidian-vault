@@ -1,4 +1,7 @@
-%% #Ignore update via "Update Publish Files" template %% 
+---
+permalink: activity/building
+---
+
 
 | Set                                                                                        | Series         | Item  | Pieces | Age | Status   |
 | ------------------------------------------------------------------------------------------ | -------------- | ----- | ------ | --- | -------- |

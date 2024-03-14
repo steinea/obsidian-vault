@@ -1,5 +1,8 @@
-%% #Ignore update via "Update Publish Files" template %% 
+---
+permalink: constellation/psychometrics
+---
 
-| Psychometrics                                                         |
-| --------------------------------------------------------------------- |
-| [[constellation/psychometrics/CliftonStrengths.md\|CliftonStrengths]] |
+
+| File                                                                  | Date |
+| --------------------------------------------------------------------- | ---- |
+| [[constellation/psychometrics/CliftonStrengths.md\|CliftonStrengths]] | \-   |

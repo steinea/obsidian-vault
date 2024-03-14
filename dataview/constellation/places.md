@@ -1,6 +1,9 @@
-%% #Ignore update via "Update Publish Files" template %% 
+---
+permalink: constellation/places
+---
 
-| Places                                                         |
-| -------------------------------------------------------------- |
-| [[constellation/places/British Columbia.md\|British Columbia]] |
-| [[constellation/places/Canada.md\|Canada]]                     |
+
+| File                                                           | Date |
+| -------------------------------------------------------------- | ---- |
+| [[constellation/places/British Columbia.md\|British Columbia]] | \-   |
+| [[constellation/places/Canada.md\|Canada]]                     | \-   |

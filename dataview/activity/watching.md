@@ -2,6 +2,6 @@
 cssclass: clean-embeds
 ---
 
-![[watchingfilm]]
+![[Watching Film]]
 
-![[watchingtelevision]]
+![[Watching Television]]

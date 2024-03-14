@@ -12,22 +12,22 @@ permalink: collections/commonplace
 | [[collections/commonplace/Playthings Are Profound.md\|Playthings Are Profound]]                                                                                               | 2023-12-27 |
 | [[collections/commonplace/The Problem With Degrowth.md\|The Problem With Degrowth]]                                                                                           | 2023-12-27 |
 | [[collections/commonplace/World as Diagram.md\|World as Diagram]]                                                                                                             | 2023-12-27 |
-| [[collections/commonplace/On Taylor Sheridan.md\|On Taylor Sheridan]]                                                                                                         | 2023-12-26 |
 | [[collections/commonplace/A Vocabulary for Junk.md\|A Vocabulary for Junk]]                                                                                                   | 2023-12-26 |
-| [[collections/commonplace/Songbirds.md\|Songbirds]]                                                                                                                           | 2023-12-26 |
 | [[collections/commonplace/Deleuze and Dune.md\|Deleuze and Dune]]                                                                                                             | 2023-12-26 |
+| [[collections/commonplace/On Taylor Sheridan.md\|On Taylor Sheridan]]                                                                                                         | 2023-12-26 |
+| [[collections/commonplace/Songbirds.md\|Songbirds]]                                                                                                                           | 2023-12-26 |
 | [[collections/commonplace/Ideology Speaks Through Architecture.md\|Ideology Speaks Through Architecture]]                                                                     | 2023-12-23 |
-| [[collections/commonplace/Stability in Chaos.md\|Stability in Chaos]]                                                                                                         | 2023-12-23 |
 | [[collections/commonplace/Junk Anthropology.md\|Junk Anthropology]]                                                                                                           | 2023-12-23 |
 | [[collections/commonplace/On the Heidegger Hoax.md\|On the Heidegger Hoax]]                                                                                                   | 2023-12-23 |
+| [[collections/commonplace/Stability in Chaos.md\|Stability in Chaos]]                                                                                                         | 2023-12-23 |
 | [[collections/commonplace/Progression Fantasy.md\|Progression Fantasy]]                                                                                                       | 2023-12-20 |
 | [[collections/commonplace/Plantations, Computers, Control.md\|Plantations, Computers, Control]]                                                                               | 2023-12-18 |
 | [[collections/commonplace/Celtic Warfare.md\|Celtic Warfare]]                                                                                                                 | 2023-12-16 |
 | [[collections/commonplace/The Leftists Who Turn Right.md\|The Leftists Who Turn Right]]                                                                                       | 2023-12-12 |
 | [[collections/commonplace/Badiou and Computers.md\|Badiou and Computers]]                                                                                                     | 2023-12-11 |
-| [[collections/commonplace/The Dawn of the Computer RPG.md\|The Dawn of the Computer RPG]]                                                                                     | 2023-12-11 |
 | [[collections/commonplace/Pasta Inflation.md\|Pasta Inflation]]                                                                                                               | 2023-12-11 |
 | [[collections/commonplace/Schematics.md\|Schematics]]                                                                                                                         | 2023-12-11 |
+| [[collections/commonplace/The Dawn of the Computer RPG.md\|The Dawn of the Computer RPG]]                                                                                     | 2023-12-11 |
 | [[collections/commonplace/The Ironic Radical.md\|The Ironic Radical]]                                                                                                         | 2023-12-11 |
 | [[collections/commonplace/The Whiteness of Board Games.md\|The Whiteness of Board Games]]                                                                                     | 2023-12-11 |
 | [[collections/commonplace/Foundational Anxieties.md\|Foundational Anxieties]]                                                                                                 | 2023-12-09 |
@@ -35,156 +35,156 @@ permalink: collections/commonplace
 | [[collections/commonplace/From Gender Critical to QAnon.md\|From Gender Critical to QAnon]]                                                                                   | 2023-10-18 |
 | [[collections/commonplace/The General Crisis of Whiteness.md\|The General Crisis of Whiteness]]                                                                               | 2023-10-18 |
 | [[collections/commonplace/Engineers, Materialism, Communism.md\|Engineers, Materialism, Communism]]                                                                           | 2023-10-17 |
-| [[collections/commonplace/The Best of All Possible Wars.md\|The Best of All Possible Wars]]                                                                                   | 2023-10-16 |
-| [[collections/commonplace/Edge-Work.md\|Edge-Work]]                                                                                                                           | 2023-10-16 |
 | [[collections/commonplace/A Gargantuan Pulp Sphinx.md\|A Gargantuan Pulp Sphinx]]                                                                                             | 2023-10-16 |
-| [[collections/commonplace/Synthetic Philosophy.md\|Synthetic Philosophy]]                                                                                                     | 2023-10-16 |
-| [[collections/commonplace/Hypotheses about Counterpower.md\|Hypotheses about Counterpower]]                                                                                   | 2023-10-16 |
-| [[collections/commonplace/The English Peasants' Revolt.md\|The English Peasants' Revolt]]                                                                                     | 2023-10-16 |
+| [[collections/commonplace/Edge-Work.md\|Edge-Work]]                                                                                                                           | 2023-10-16 |
 | [[collections/commonplace/Eugene Debs on John Brown.md\|Eugene Debs on John Brown]]                                                                                           | 2023-10-16 |
-| [[collections/commonplace/Prefab Freedom.md\|Prefab Freedom]]                                                                                                                 | 2023-10-16 |
 | [[collections/commonplace/From VVVVVV to Roblox.md\|From VVVVVV to Roblox]]                                                                                                   | 2023-10-16 |
+| [[collections/commonplace/Hypotheses about Counterpower.md\|Hypotheses about Counterpower]]                                                                                   | 2023-10-16 |
+| [[collections/commonplace/Prefab Freedom.md\|Prefab Freedom]]                                                                                                                 | 2023-10-16 |
 | [[collections/commonplace/Science Fiction as Mode of Action.md\|Science Fiction as Mode of Action]]                                                                           | 2023-10-16 |
+| [[collections/commonplace/Synthetic Philosophy.md\|Synthetic Philosophy]]                                                                                                     | 2023-10-16 |
+| [[collections/commonplace/The Best of All Possible Wars.md\|The Best of All Possible Wars]]                                                                                   | 2023-10-16 |
+| [[collections/commonplace/The English Peasants' Revolt.md\|The English Peasants' Revolt]]                                                                                     | 2023-10-16 |
 | [[collections/commonplace/Policing the Surplus Population.md\|Policing the Surplus Population]]                                                                               | 2023-10-15 |
-| [[collections/commonplace/France in Flames.md\|France in Flames]]                                                                                                             | 2023-10-13 |
-| [[collections/commonplace/The Cop-Free Zone.md\|The Cop-Free Zone]]                                                                                                           | 2023-10-13 |
-| [[collections/commonplace/Rules for Writing Rules.md\|Rules for Writing Rules]]                                                                                               | 2023-10-13 |
 | [[collections/commonplace/Dril Is Everyone.md\|Dril Is Everyone]]                                                                                                             | 2023-10-13 |
-| [[collections/commonplace/Thought Without Thinkers.md\|Thought Without Thinkers]]                                                                                             | 2023-10-10 |
+| [[collections/commonplace/France in Flames.md\|France in Flames]]                                                                                                             | 2023-10-13 |
+| [[collections/commonplace/Rules for Writing Rules.md\|Rules for Writing Rules]]                                                                                               | 2023-10-13 |
+| [[collections/commonplace/The Cop-Free Zone.md\|The Cop-Free Zone]]                                                                                                           | 2023-10-13 |
 | [[collections/commonplace/Let Your Fingers Do the Thinking.md\|Let Your Fingers Do the Thinking]]                                                                             | 2023-10-10 |
-| [[collections/commonplace/The Rebirth of Cyan Worlds.md\|The Rebirth of Cyan Worlds]]                                                                                         | 2023-10-09 |
-| [[collections/commonplace/Web Fingerprinting.md\|Web Fingerprinting]]                                                                                                         | 2023-10-09 |
-| [[collections/commonplace/Better Feedback.md\|Better Feedback]]                                                                                                               | 2023-10-09 |
-| [[collections/commonplace/Influencer Parents.md\|Influencer Parents]]                                                                                                         | 2023-10-09 |
-| [[collections/commonplace/Trick of the Light.md\|Trick of the Light]]                                                                                                         | 2023-10-09 |
-| [[collections/commonplace/Satellite Signals for the Atlanta Forest.md\|Satellite Signals for the Atlanta Forest]]                                                             | 2023-10-09 |
-| [[collections/commonplace/Heidegger’s Nazism.md\|Heidegger’s Nazism]]                                                                                                         | 2023-10-09 |
-| [[collections/commonplace/The Trap of Sainte-Soline.md\|The Trap of Sainte-Soline]]                                                                                           | 2023-10-09 |
-| [[collections/commonplace/Poverty Abolition.md\|Poverty Abolition]]                                                                                                           | 2023-10-09 |
+| [[collections/commonplace/Thought Without Thinkers.md\|Thought Without Thinkers]]                                                                                             | 2023-10-10 |
 | [[collections/commonplace/As a User, I Don't Want To.md\|As a User, I Don't Want To]]                                                                                         | 2023-10-09 |
+| [[collections/commonplace/Better Feedback.md\|Better Feedback]]                                                                                                               | 2023-10-09 |
+| [[collections/commonplace/Heidegger’s Nazism.md\|Heidegger’s Nazism]]                                                                                                         | 2023-10-09 |
+| [[collections/commonplace/Influencer Parents.md\|Influencer Parents]]                                                                                                         | 2023-10-09 |
+| [[collections/commonplace/Poverty Abolition.md\|Poverty Abolition]]                                                                                                           | 2023-10-09 |
+| [[collections/commonplace/Satellite Signals for the Atlanta Forest.md\|Satellite Signals for the Atlanta Forest]]                                                             | 2023-10-09 |
 | [[collections/commonplace/The Logic of Number.md\|The Logic of Number]]                                                                                                       | 2023-10-09 |
-| [[collections/commonplace/She Who Saw the Deep.md\|She Who Saw the Deep]]                                                                                                     | 2023-10-07 |
-| [[collections/commonplace/Theory of the Fourth Dimension.md\|Theory of the Fourth Dimension]]                                                                                 | 2023-10-07 |
-| [[collections/commonplace/Alarm Bells.md\|Alarm Bells]]                                                                                                                       | 2023-10-07 |
+| [[collections/commonplace/The Rebirth of Cyan Worlds.md\|The Rebirth of Cyan Worlds]]                                                                                         | 2023-10-09 |
+| [[collections/commonplace/The Trap of Sainte-Soline.md\|The Trap of Sainte-Soline]]                                                                                           | 2023-10-09 |
+| [[collections/commonplace/Trick of the Light.md\|Trick of the Light]]                                                                                                         | 2023-10-09 |
+| [[collections/commonplace/Web Fingerprinting.md\|Web Fingerprinting]]                                                                                                         | 2023-10-09 |
 | [[collections/commonplace/A Sum of Parts.md\|A Sum of Parts]]                                                                                                                 | 2023-10-07 |
-| [[collections/commonplace/Rite and Ground.md\|Rite and Ground]]                                                                                                               | 2023-10-07 |
-| [[collections/commonplace/Space Museum.md\|Space Museum]]                                                                                                                     | 2023-10-07 |
+| [[collections/commonplace/Alarm Bells.md\|Alarm Bells]]                                                                                                                       | 2023-10-07 |
 | [[collections/commonplace/Biocosmic Memory of the Elements.md\|Biocosmic Memory of the Elements]]                                                                             | 2023-10-07 |
 | [[collections/commonplace/If These Streets Could Talk.md\|If These Streets Could Talk]]                                                                                       | 2023-10-07 |
-| [[collections/commonplace/The Fire of Rebirth.md\|The Fire of Rebirth]]                                                                                                       | 2023-10-07 |
 | [[collections/commonplace/Laws of Composition.md\|Laws of Composition]]                                                                                                       | 2023-10-07 |
+| [[collections/commonplace/Rite and Ground.md\|Rite and Ground]]                                                                                                               | 2023-10-07 |
+| [[collections/commonplace/She Who Saw the Deep.md\|She Who Saw the Deep]]                                                                                                     | 2023-10-07 |
+| [[collections/commonplace/Space Museum.md\|Space Museum]]                                                                                                                     | 2023-10-07 |
+| [[collections/commonplace/The Fire of Rebirth.md\|The Fire of Rebirth]]                                                                                                       | 2023-10-07 |
+| [[collections/commonplace/Theory of the Fourth Dimension.md\|Theory of the Fourth Dimension]]                                                                                 | 2023-10-07 |
 | [[collections/commonplace/Kharkiv Under Fire.md\|Kharkiv Under Fire]]                                                                                                         | 2023-10-04 |
-| [[collections/commonplace/Up!.md\|Up!]]                                                                                                                                       | 2023-10-01 |
-| [[collections/commonplace/Nowhereness Baikonur.md\|Nowhereness Baikonur]]                                                                                                     | 2023-10-01 |
 | [[collections/commonplace/Immortality Through Sound.md\|Immortality Through Sound]]                                                                                           | 2023-10-01 |
+| [[collections/commonplace/Nowhereness Baikonur.md\|Nowhereness Baikonur]]                                                                                                     | 2023-10-01 |
+| [[collections/commonplace/Up!.md\|Up!]]                                                                                                                                       | 2023-10-01 |
 | [[collections/commonplace/Biocosmic Interindividualism.md\|Biocosmic Interindividualism]]                                                                                     | 2023-09-30 |
-| [[collections/commonplace/Decolonizing Russian Cosmism.md\|Decolonizing Russian Cosmism]]                                                                                     | 2023-09-30 |
-| [[collections/commonplace/Polemics Among Soviet Physicists.md\|Polemics Among Soviet Physicists]]                                                                             | 2023-09-30 |
-| [[collections/commonplace/Inter-Inter-Cosmism.md\|Inter-Inter-Cosmism]]                                                                                                       | 2023-09-30 |
 | [[collections/commonplace/Bleeding Green and Yellow.md\|Bleeding Green and Yellow]]                                                                                           | 2023-09-30 |
-| [[collections/commonplace/Ukrainian Cyborg Feminism.md\|Ukrainian Cyborg Feminism]]                                                                                           | 2023-09-30 |
+| [[collections/commonplace/Decolonizing Russian Cosmism.md\|Decolonizing Russian Cosmism]]                                                                                     | 2023-09-30 |
 | [[collections/commonplace/In Praise of Treason.md\|In Praise of Treason]]                                                                                                     | 2023-09-30 |
+| [[collections/commonplace/Inter-Inter-Cosmism.md\|Inter-Inter-Cosmism]]                                                                                                       | 2023-09-30 |
+| [[collections/commonplace/Polemics Among Soviet Physicists.md\|Polemics Among Soviet Physicists]]                                                                             | 2023-09-30 |
+| [[collections/commonplace/Ukrainian Cyborg Feminism.md\|Ukrainian Cyborg Feminism]]                                                                                           | 2023-09-30 |
 | [[collections/commonplace/Between Degrowth and Socialism.md\|Between Degrowth and Socialism]]                                                                                 | 2023-09-13 |
 | [[collections/commonplace/Internalization of Movement.md\|Internalization of Movement]]                                                                                       | 2023-08-15 |
 | [[collections/commonplace/No Such Thing as a Final Goal.md\|No Such Thing as a Final Goal]]                                                                                   | 2023-07-03 |
 | [[collections/commonplace/How People Perceive Themselves.md\|How People Perceive Themselves]]                                                                                 | 2023-07-01 |
-| [[collections/commonplace/It's Useless to Wait.md\|It's Useless to Wait]]                                                                                                     | 2023-06-22 |
 | [[collections/commonplace/Closed Circle of Realities.md\|Closed Circle of Realities]]                                                                                         | 2023-06-22 |
-| [[collections/commonplace/Two Years against Cop City.md\|Two Years against Cop City]]                                                                                         | 2023-06-17 |
+| [[collections/commonplace/It's Useless to Wait.md\|It's Useless to Wait]]                                                                                                     | 2023-06-22 |
 | [[collections/commonplace/How Workers Won the Weekend.md\|How Workers Won the Weekend]]                                                                                       | 2023-06-17 |
-| [[collections/commonplace/To Salvage Utopian Love.md\|To Salvage Utopian Love]]                                                                                               | 2023-06-12 |
-| [[collections/commonplace/Narrative Baked Into Corridors.md\|Narrative Baked Into Corridors]]                                                                                 | 2023-06-12 |
+| [[collections/commonplace/Two Years against Cop City.md\|Two Years against Cop City]]                                                                                         | 2023-06-17 |
 | [[collections/commonplace/Capitalism Makes Everyone Bend.md\|Capitalism Makes Everyone Bend]]                                                                                 | 2023-06-12 |
-| [[collections/commonplace/Exporting the Revolution.md\|Exporting the Revolution]]                                                                                             | 2023-06-11 |
-| [[collections/commonplace/The Archipelago Conversations.md\|The Archipelago Conversations]]                                                                                   | 2023-06-11 |
-| [[collections/commonplace/On the Occasion of Flight.md\|On the Occasion of Flight]]                                                                                           | 2023-06-11 |
-| [[collections/commonplace/Cottagecore Emo Emily Brontë.md\|Cottagecore Emo Emily Brontë]]                                                                                     | 2023-06-11 |
-| [[collections/commonplace/Moduli Space of Graphs.md\|Moduli Space of Graphs]]                                                                                                 | 2023-06-11 |
-| [[collections/commonplace/The Cathedrals of Cascadia.md\|The Cathedrals of Cascadia]]                                                                                         | 2023-06-11 |
-| [[collections/commonplace/Game Wonder.md\|Game Wonder]]                                                                                                                       | 2023-06-11 |
+| [[collections/commonplace/Narrative Baked Into Corridors.md\|Narrative Baked Into Corridors]]                                                                                 | 2023-06-12 |
+| [[collections/commonplace/To Salvage Utopian Love.md\|To Salvage Utopian Love]]                                                                                               | 2023-06-12 |
 | [[collections/commonplace/Arkane's Hourglass Philosophy.md\|Arkane's Hourglass Philosophy]]                                                                                   | 2023-06-11 |
+| [[collections/commonplace/Cottagecore Emo Emily Brontë.md\|Cottagecore Emo Emily Brontë]]                                                                                     | 2023-06-11 |
+| [[collections/commonplace/Exporting the Revolution.md\|Exporting the Revolution]]                                                                                             | 2023-06-11 |
+| [[collections/commonplace/Game Wonder.md\|Game Wonder]]                                                                                                                       | 2023-06-11 |
+| [[collections/commonplace/Moduli Space of Graphs.md\|Moduli Space of Graphs]]                                                                                                 | 2023-06-11 |
+| [[collections/commonplace/On the Occasion of Flight.md\|On the Occasion of Flight]]                                                                                           | 2023-06-11 |
+| [[collections/commonplace/The Archipelago Conversations.md\|The Archipelago Conversations]]                                                                                   | 2023-06-11 |
+| [[collections/commonplace/The Cathedrals of Cascadia.md\|The Cathedrals of Cascadia]]                                                                                         | 2023-06-11 |
 | [[collections/commonplace/Psychoanalysis for Militants.md\|Psychoanalysis for Militants]]                                                                                     | 2023-06-10 |
 | [[collections/commonplace/The Nihilism of Degrowth.md\|The Nihilism of Degrowth]]                                                                                             | 2023-06-10 |
 | [[collections/commonplace/Inside the Wild World of Roblox.md\|Inside the Wild World of Roblox]]                                                                               | 2023-06-07 |
 | [[collections/commonplace/On Barrowmaze.md\|On Barrowmaze]]                                                                                                                   | 2023-06-04 |
-| [[collections/commonplace/To Save the World.md\|To Save the World]]                                                                                                           | 2023-06-04 |
 | [[collections/commonplace/The Lost Forest Gardens of Europe.md\|The Lost Forest Gardens of Europe]]                                                                           | 2023-06-04 |
+| [[collections/commonplace/To Save the World.md\|To Save the World]]                                                                                                           | 2023-06-04 |
+| [[collections/commonplace/Academia Has Ruined Literary Criticism.md\|Academia Has Ruined Literary Criticism]]                                                                 | 2023-06-03 |
+| [[collections/commonplace/Athletic Feats of Narrative.md\|Athletic Feats of Narrative]]                                                                                       | 2023-06-03 |
+| [[collections/commonplace/Beautiful Cursed Dreams.md\|Beautiful Cursed Dreams]]                                                                                               | 2023-06-03 |
+| [[collections/commonplace/Breaking Into Scriptwriting for Games.md\|Breaking Into Scriptwriting for Games]]                                                                   | 2023-06-03 |
+| [[collections/commonplace/Conceptual Figuration, Noetic Duplicity.md\|Conceptual Figuration, Noetic Duplicity]]                                                               | 2023-06-03 |
+| [[collections/commonplace/Game Designers Rebellion.md\|Game Designers Rebellion]]                                                                                             | 2023-06-03 |
 | [[collections/commonplace/Life Lessons in Games.md\|Life Lessons in Games]]                                                                                                   | 2023-06-03 |
 | [[collections/commonplace/One Book, Many Readings.md\|One Book, Many Readings]]                                                                                               | 2023-06-03 |
-| [[collections/commonplace/Breaking Into Scriptwriting for Games.md\|Breaking Into Scriptwriting for Games]]                                                                   | 2023-06-03 |
-| [[collections/commonplace/Game Designers Rebellion.md\|Game Designers Rebellion]]                                                                                             | 2023-06-03 |
-| [[collections/commonplace/To Be Scientific Is to Be Communist.md\|To Be Scientific Is to Be Communist]]                                                                       | 2023-06-03 |
-| [[collections/commonplace/Athletic Feats of Narrative.md\|Athletic Feats of Narrative]]                                                                                       | 2023-06-03 |
-| [[collections/commonplace/Academia Has Ruined Literary Criticism.md\|Academia Has Ruined Literary Criticism]]                                                                 | 2023-06-03 |
-| [[collections/commonplace/The Impossible Reversal.md\|The Impossible Reversal]]                                                                                               | 2023-06-03 |
-| [[collections/commonplace/Toward a Poststructural Social Ecology.md\|Toward a Poststructural Social Ecology]]                                                                 | 2023-06-03 |
-| [[collections/commonplace/Reading Jullien's The Incommensurable.md\|Reading Jullien's The Incommensurable]]                                                                   | 2023-06-03 |
-| [[collections/commonplace/Conceptual Figuration, Noetic Duplicity.md\|Conceptual Figuration, Noetic Duplicity]]                                                               | 2023-06-03 |
 | [[collections/commonplace/Playing with ActivityPub.md\|Playing with ActivityPub]]                                                                                             | 2023-06-03 |
-| [[collections/commonplace/Beautiful Cursed Dreams.md\|Beautiful Cursed Dreams]]                                                                                               | 2023-06-03 |
+| [[collections/commonplace/Reading Jullien's The Incommensurable.md\|Reading Jullien's The Incommensurable]]                                                                   | 2023-06-03 |
+| [[collections/commonplace/The Impossible Reversal.md\|The Impossible Reversal]]                                                                                               | 2023-06-03 |
+| [[collections/commonplace/To Be Scientific Is to Be Communist.md\|To Be Scientific Is to Be Communist]]                                                                       | 2023-06-03 |
+| [[collections/commonplace/Toward a Poststructural Social Ecology.md\|Toward a Poststructural Social Ecology]]                                                                 | 2023-06-03 |
 | [[collections/commonplace/The Future of Doctoral Education.md\|The Future of Doctoral Education]]                                                                             | 2023-05-29 |
 | [[collections/commonplace/Belief in the World.md\|Belief in the World]]                                                                                                       | 2023-05-10 |
 | [[collections/commonplace/Psycho and Genius.md\|Psycho and Genius]]                                                                                                           | 2023-05-08 |
-| [[collections/commonplace/Seamus Deane's Challenge to Empire.md\|Seamus Deane's Challenge to Empire]]                                                                         | 2023-04-09 |
 | [[collections/commonplace/On the Bias.md\|On the Bias]]                                                                                                                       | 2023-04-09 |
+| [[collections/commonplace/Seamus Deane's Challenge to Empire.md\|Seamus Deane's Challenge to Empire]]                                                                         | 2023-04-09 |
 | [[collections/commonplace/The Mother of the Mother of Mary.md\|The Mother of the Mother of Mary]]                                                                             | 2023-04-09 |
 | [[collections/commonplace/The Lore of the Rings.md\|The Lore of the Rings]]                                                                                                   | 2023-04-03 |
 | [[collections/commonplace/U2’s Natural Logarhythm.md\|U2’s Natural Logarhythm]]                                                                                               | 2023-04-01 |
 | [[collections/commonplace/When and Where I Learned.md\|When and Where I Learned]]                                                                                             | 2023-03-26 |
-| [[collections/commonplace/Latour's Metamorphosis.md\|Latour's Metamorphosis]]                                                                                                 | 2023-03-20 |
-| [[collections/commonplace/Post-Cringe.md\|Post-Cringe]]                                                                                                                       | 2023-03-20 |
-| [[collections/commonplace/Mathematicians Roll Dice.md\|Mathematicians Roll Dice]]                                                                                             | 2023-03-20 |
-| [[collections/commonplace/The Strategy of Composition.md\|The Strategy of Composition]]                                                                                       | 2023-03-20 |
 | [[collections/commonplace/Dancing on the World's Thin Crust.md\|Dancing on the World's Thin Crust]]                                                                           | 2023-03-20 |
+| [[collections/commonplace/Latour's Metamorphosis.md\|Latour's Metamorphosis]]                                                                                                 | 2023-03-20 |
+| [[collections/commonplace/Mathematicians Roll Dice.md\|Mathematicians Roll Dice]]                                                                                             | 2023-03-20 |
+| [[collections/commonplace/Post-Cringe.md\|Post-Cringe]]                                                                                                                       | 2023-03-20 |
 | [[collections/commonplace/The Standard Model Survives.md\|The Standard Model Survives]]                                                                                       | 2023-03-20 |
+| [[collections/commonplace/The Strategy of Composition.md\|The Strategy of Composition]]                                                                                       | 2023-03-20 |
 | [[collections/commonplace/Jaquaying the Dungeon, 1.md\|Jaquaying the Dungeon, 1]]                                                                                             | 2023-03-12 |
-| [[collections/commonplace/Jaquaying the Dungeon, 2.md\|Jaquaying the Dungeon, 2]]                                                                                             | 2023-03-12 |
 | [[collections/commonplace/Jaquaying the Dungeon, 3.md\|Jaquaying the Dungeon, 3]]                                                                                             | 2023-03-12 |
 | [[collections/commonplace/Jaquaying the Dungeon, 4.md\|Jaquaying the Dungeon, 4]]                                                                                             | 2023-03-12 |
 | [[collections/commonplace/Jaquaying the Dungeon, 5.md\|Jaquaying the Dungeon, 5]]                                                                                             | 2023-03-12 |
-| [[collections/commonplace/Jaquaying the Dungeon, 6.md\|Jaquaying the Dungeon, 6]]                                                                                             | 2023-03-12 |
 | [[collections/commonplace/Jaquaying the Dungeon, 7.md\|Jaquaying the Dungeon, 7]]                                                                                             | 2023-03-12 |
-| [[collections/commonplace/Jaquaying the Dungeon, 8.md\|Jaquaying the Dungeon, 8]]                                                                                             | 2023-03-12 |
 | [[collections/commonplace/Jaquaying the Dungeon, 9.md\|Jaquaying the Dungeon, 9]]                                                                                             | 2023-03-12 |
-| [[collections/commonplace/Not the Backlog.md\|Not the Backlog]]                                                                                                               | 2023-03-11 |
-| [[collections/commonplace/Fuck the Poetry Police.md\|Fuck the Poetry Police]]                                                                                                 | 2023-03-11 |
-| [[collections/commonplace/Waste Eater.md\|Waste Eater]]                                                                                                                       | 2023-03-11 |
-| [[collections/commonplace/Only Style Survives.md\|Only Style Survives]]                                                                                                       | 2023-03-11 |
+| [[collections/commonplace/Jaquaying the Dungeon, 6.md\|Jaquaying the Dungeon, 6]]                                                                                             | 2023-03-12 |
+| [[collections/commonplace/Jaquaying the Dungeon, 2.md\|Jaquaying the Dungeon, 2]]                                                                                             | 2023-03-12 |
+| [[collections/commonplace/Jaquaying the Dungeon, 8.md\|Jaquaying the Dungeon, 8]]                                                                                             | 2023-03-12 |
 | [[collections/commonplace/Don't Be Afraid of Going Wrong.md\|Don't Be Afraid of Going Wrong]]                                                                                 | 2023-03-11 |
-| [[collections/commonplace/Short of the World, Short of Self.md\|Short of the World, Short of Self]]                                                                           | 2023-03-06 |
+| [[collections/commonplace/Fuck the Poetry Police.md\|Fuck the Poetry Police]]                                                                                                 | 2023-03-11 |
+| [[collections/commonplace/Not the Backlog.md\|Not the Backlog]]                                                                                                               | 2023-03-11 |
+| [[collections/commonplace/Only Style Survives.md\|Only Style Survives]]                                                                                                       | 2023-03-11 |
+| [[collections/commonplace/Waste Eater.md\|Waste Eater]]                                                                                                                       | 2023-03-11 |
 | [[collections/commonplace/Bifurcation in the Civilization of Capital.md\|Bifurcation in the Civilization of Capital]]                                                         | 2023-03-06 |
 | [[collections/commonplace/Closing Paradise's Gate.md\|Closing Paradise's Gate]]                                                                                               | 2023-03-06 |
 | [[collections/commonplace/Ecosystems of Revolt.md\|Ecosystems of Revolt]]                                                                                                     | 2023-03-06 |
+| [[collections/commonplace/Short of the World, Short of Self.md\|Short of the World, Short of Self]]                                                                           | 2023-03-06 |
 | [[collections/commonplace/A Template for Modern Oppression.md\|A Template for Modern Oppression]]                                                                             | 2023-03-05 |
 | [[collections/commonplace/JETT's Unorthodox Design Concepts.md\|JETT's Unorthodox Design Concepts]]                                                                           | 2023-03-04 |
 | [[collections/commonplace/Fiber Ages.md\|Fiber Ages]]                                                                                                                         | 2023-02-24 |
 | [[collections/commonplace/Forests In Our Minds.md\|Forests In Our Minds]]                                                                                                     | 2023-02-08 |
-| [[collections/commonplace/Sport is Game Design.md\|Sport is Game Design]]                                                                                                     | 2023-02-02 |
-| [[collections/commonplace/Sabotage.md\|Sabotage]]                                                                                                                             | 2023-02-02 |
-| [[collections/commonplace/The Time of Trees.md\|The Time of Trees]]                                                                                                           | 2023-02-02 |
 | [[collections/commonplace/Living Communism.md\|Living Communism]]                                                                                                             | 2023-02-02 |
-| [[collections/commonplace/Breadpunk Manifesto.md\|Breadpunk Manifesto]]                                                                                                       | 2023-01-23 |
+| [[collections/commonplace/Sabotage.md\|Sabotage]]                                                                                                                             | 2023-02-02 |
+| [[collections/commonplace/Sport is Game Design.md\|Sport is Game Design]]                                                                                                     | 2023-02-02 |
+| [[collections/commonplace/The Time of Trees.md\|The Time of Trees]]                                                                                                           | 2023-02-02 |
 | [[collections/commonplace/Against Memoir.md\|Against Memoir]]                                                                                                                 | 2023-01-23 |
-| [[collections/commonplace/Michael Greenberg.md\|Michael Greenberg]]                                                                                                           | 2023-01-23 |
+| [[collections/commonplace/Breadpunk Manifesto.md\|Breadpunk Manifesto]]                                                                                                       | 2023-01-23 |
 | [[collections/commonplace/Jeremy Strong Theory.md\|Jeremy Strong Theory]]                                                                                                     | 2023-01-23 |
+| [[collections/commonplace/Michael Greenberg.md\|Michael Greenberg]]                                                                                                           | 2023-01-23 |
 | [[collections/commonplace/Millennial Cringe.md\|Millennial Cringe]]                                                                                                           | 2023-01-23 |
 | [[collections/commonplace/Mud Wizard.md\|Mud Wizard]]                                                                                                                         | 2023-01-15 |
 | [[collections/commonplace/They Are Murdering the Future.md\|They Are Murdering the Future]]                                                                                   | 2023-01-15 |
 | [[collections/commonplace/Citational Machines.md\|Citational Machines]]                                                                                                       | 2023-01-10 |
+| [[collections/commonplace/Conceptual Engineering.md\|Conceptual Engineering]]                                                                                                 | 2023-01-09 |
 | [[collections/commonplace/Doom Instead of Glory.md\|Doom Instead of Glory]]                                                                                                   | 2023-01-09 |
+| [[collections/commonplace/Look-and-Say Sequence.md\|Look-and-Say Sequence]]                                                                                                   | 2023-01-09 |
 | [[collections/commonplace/Lower Leftism.md\|Lower Leftism]]                                                                                                                   | 2023-01-09 |
 | [[collections/commonplace/The Heirs and Their Hair.md\|The Heirs and Their Hair]]                                                                                             | 2023-01-09 |
-| [[collections/commonplace/Conceptual Engineering.md\|Conceptual Engineering]]                                                                                                 | 2023-01-09 |
-| [[collections/commonplace/Look-and-Say Sequence.md\|Look-and-Say Sequence]]                                                                                                   | 2023-01-09 |
-| [[collections/commonplace/Farming Futures.md\|Farming Futures]]                                                                                                               | 2023-01-07 |
 | [[collections/commonplace/Clarifications.md\|Clarifications]]                                                                                                                 | 2023-01-07 |
+| [[collections/commonplace/Farming Futures.md\|Farming Futures]]                                                                                                               | 2023-01-07 |
 | [[collections/commonplace/The Body of Thought.md\|The Body of Thought]]                                                                                                       | 2023-01-07 |
-| [[collections/commonplace/Unity in Diversity.md\|Unity in Diversity]]                                                                                                         | 2023-01-01 |
-| [[collections/commonplace/Calvino's Favorite Novelists.md\|Calvino's Favorite Novelists]]                                                                                     | 2023-01-01 |
-| [[collections/commonplace/Good Bones.md\|Good Bones]]                                                                                                                         | 2023-01-01 |
-| [[collections/commonplace/All Architectures I Am.md\|All Architectures I Am]]                                                                                                 | 2023-01-01 |
 | [[collections/commonplace/A Diary Is a Place for Dreaming.md\|A Diary Is a Place for Dreaming]]                                                                               | 2023-01-01 |
 | [[collections/commonplace/A New Generation of Fantasy TV.md\|A New Generation of Fantasy TV]]                                                                                 | 2023-01-01 |
+| [[collections/commonplace/All Architectures I Am.md\|All Architectures I Am]]                                                                                                 | 2023-01-01 |
+| [[collections/commonplace/Calvino's Favorite Novelists.md\|Calvino's Favorite Novelists]]                                                                                     | 2023-01-01 |
+| [[collections/commonplace/Good Bones.md\|Good Bones]]                                                                                                                         | 2023-01-01 |
+| [[collections/commonplace/Unity in Diversity.md\|Unity in Diversity]]                                                                                                         | 2023-01-01 |
 | [[collections/commonplace/The Dreariness of Book Club.md\|The Dreariness of Book Club]]                                                                                       | 2022-12-30 |
 | [[collections/commonplace/A Looter of Mathematics.md\|A Looter of Mathematics]]                                                                                               | 2022-12-26 |
 | [[collections/commonplace/Art Objects.md\|Art Objects]]                                                                                                                       | 2022-12-26 |
@@ -241,11 +241,11 @@ permalink: collections/commonplace
 | [[collections/commonplace/From Risk to Diplomacy.md\|From Risk to Diplomacy]]                                                                                                 | 2018-12-14 |
 | [[collections/commonplace/Atman and Anatman.md\|Atman and Anatman]]                                                                                                           | 2018-09-25 |
 | [[collections/commonplace/The Westworld Rickroll.md\|The Westworld Rickroll]]                                                                                                 | 2018-08-25 |
-| [[collections/commonplace/Planetary Civilization.md\|Planetary Civilization]]                                                                                                 | 2018-07-15 |
 | [[collections/commonplace/Amor Fati.md\|Amor Fati]]                                                                                                                           | 2018-07-15 |
-| [[collections/commonplace/Why Are There Beings At All.md\|Why Are There Beings At All]]                                                                                       | 2018-07-15 |
-| [[collections/commonplace/Let's Go.md\|Let's Go]]                                                                                                                             | 2018-07-15 |
 | [[collections/commonplace/I Don't See Any God Up Here.md\|I Don't See Any God Up Here]]                                                                                       | 2018-07-15 |
+| [[collections/commonplace/Let's Go.md\|Let's Go]]                                                                                                                             | 2018-07-15 |
+| [[collections/commonplace/Planetary Civilization.md\|Planetary Civilization]]                                                                                                 | 2018-07-15 |
+| [[collections/commonplace/Why Are There Beings At All.md\|Why Are There Beings At All]]                                                                                       | 2018-07-15 |
 | [[collections/commonplace/The Pittsburgh School.md\|The Pittsburgh School]]                                                                                                   | 2018-06-25 |
 | [[collections/commonplace/Strike the Match.md\|Strike the Match]]                                                                                                             | 2018-06-03 |
 | [[collections/commonplace/Phase Space.md\|Phase Space]]                                                                                                                       | 2018-05-28 |
@@ -279,8 +279,8 @@ permalink: collections/commonplace
 | [[collections/commonplace/On The Last Jedi, 3.md\|On The Last Jedi, 3]]                                                                                                       | 2017-12-15 |
 | [[collections/commonplace/On The Last Jedi, 1.md\|On The Last Jedi, 1]]                                                                                                       | 2017-12-12 |
 | [[collections/commonplace/The Pizza Thought Experiment.md\|The Pizza Thought Experiment]]                                                                                     | 2017-11-26 |
-| [[collections/commonplace/The Shepherd Boy.md\|The Shepherd Boy]]                                                                                                             | 2017-11-25 |
 | [[collections/commonplace/A Tale of Two Botanies.md\|A Tale of Two Botanies]]                                                                                                 | 2017-11-25 |
+| [[collections/commonplace/The Shepherd Boy.md\|The Shepherd Boy]]                                                                                                             | 2017-11-25 |
 | [[collections/commonplace/Faith in the Earth.md\|Faith in the Earth]]                                                                                                         | 2017-11-23 |
 | [[collections/commonplace/Stranger Things 2 and Sexism.md\|Stranger Things 2 and Sexism]]                                                                                     | 2017-10-31 |
 | [[collections/commonplace/Zizek's Deleuze-Lacan Pact.md\|Zizek's Deleuze-Lacan Pact]]                                                                                         | 2017-10-31 |
@@ -288,12 +288,12 @@ permalink: collections/commonplace
 | [[collections/commonplace/Redamancy.md\|Redamancy]]                                                                                                                           | 2017-10-24 |
 | [[collections/commonplace/Watching Blade Runner in 2017.md\|Watching Blade Runner in 2017]]                                                                                   | 2017-10-15 |
 | [[collections/commonplace/On Blade Runner 2049, 6.md\|On Blade Runner 2049, 6]]                                                                                               | 2017-10-12 |
-| [[collections/commonplace/On Blade Runner 2049, 3.md\|On Blade Runner 2049, 3]]                                                                                               | 2017-10-11 |
-| [[collections/commonplace/On Blade Runner 2049, 4.md\|On Blade Runner 2049, 4]]                                                                                               | 2017-10-11 |
-| [[collections/commonplace/On Blade Runner 2049, 5.md\|On Blade Runner 2049, 5]]                                                                                               | 2017-10-11 |
 | [[collections/commonplace/Blade Runner 2049 and Arrival.md\|Blade Runner 2049 and Arrival]]                                                                                   | 2017-10-11 |
-| [[collections/commonplace/The Consciousness Grid.md\|The Consciousness Grid]]                                                                                                 | 2017-10-09 |
+| [[collections/commonplace/On Blade Runner 2049, 4.md\|On Blade Runner 2049, 4]]                                                                                               | 2017-10-11 |
+| [[collections/commonplace/On Blade Runner 2049, 3.md\|On Blade Runner 2049, 3]]                                                                                               | 2017-10-11 |
+| [[collections/commonplace/On Blade Runner 2049, 5.md\|On Blade Runner 2049, 5]]                                                                                               | 2017-10-11 |
 | [[collections/commonplace/Consciousness An Object Lesson.md\|Consciousness An Object Lesson]]                                                                                 | 2017-10-09 |
+| [[collections/commonplace/The Consciousness Grid.md\|The Consciousness Grid]]                                                                                                 | 2017-10-09 |
 | [[collections/commonplace/On Blade Runner 2049, 2.md\|On Blade Runner 2049, 2]]                                                                                               | 2017-10-06 |
 | [[collections/commonplace/All Writers Should Play D&D.md\|All Writers Should Play D&D]]                                                                                       | 2017-10-05 |
 | [[collections/commonplace/Universe in a Bubble.md\|Universe in a Bubble]]                                                                                                     | 2017-10-05 |
@@ -430,12 +430,12 @@ permalink: collections/commonplace
 | [[collections/commonplace/Eurydice.md\|Eurydice]]                                                                                                                             | 2017-04-07 |
 | [[collections/commonplace/The Frankfurt School, Part 4.md\|The Frankfurt School, Part 4]]                                                                                     | 2017-04-07 |
 | [[collections/commonplace/The Frankfurt School, Part 5.md\|The Frankfurt School, Part 5]]                                                                                     | 2017-04-07 |
-| [[collections/commonplace/The Frankfurt School, Part 6.md\|The Frankfurt School, Part 6]]                                                                                     | 2017-04-07 |
 | [[collections/commonplace/The Frankfurt School, Part 7.md\|The Frankfurt School, Part 7]]                                                                                     | 2017-04-07 |
+| [[collections/commonplace/The Frankfurt School, Part 6.md\|The Frankfurt School, Part 6]]                                                                                     | 2017-04-07 |
 | [[collections/commonplace/The Frankfurt School, Part 8.md\|The Frankfurt School, Part 8]]                                                                                     | 2017-04-07 |
 | [[collections/commonplace/The Frankfurt School, Part 1.md\|The Frankfurt School, Part 1]]                                                                                     | 2017-04-06 |
-| [[collections/commonplace/The Frankfurt School, Part 2.md\|The Frankfurt School, Part 2]]                                                                                     | 2017-04-06 |
 | [[collections/commonplace/The Frankfurt School, Part 3.md\|The Frankfurt School, Part 3]]                                                                                     | 2017-04-06 |
+| [[collections/commonplace/The Frankfurt School, Part 2.md\|The Frankfurt School, Part 2]]                                                                                     | 2017-04-06 |
 | [[collections/commonplace/Science Fiction and Jane Austen.md\|Science Fiction and Jane Austen]]                                                                               | 2017-03-30 |
 | [[collections/commonplace/Lacan's Heuristic.md\|Lacan's Heuristic]]                                                                                                           | 2017-03-24 |
 | [[collections/commonplace/Latour and Badiou.md\|Latour and Badiou]]                                                                                                           | 2017-03-23 |
@@ -737,8 +737,8 @@ permalink: collections/commonplace
 | [[collections/commonplace/Radiohead, or the Philosophy of Pop.md\|Radiohead, or the Philosophy of Pop]]                                                                       | 2016-07-26 |
 | [[collections/commonplace/Eightfold Way in Quantum Physics.md\|Eightfold Way in Quantum Physics]]                                                                             | 2016-07-25 |
 | [[collections/commonplace/Feynman Diagrams.md\|Feynman Diagrams]]                                                                                                             | 2016-07-25 |
-| [[collections/commonplace/In the Depths of the Digital Age.md\|In the Depths of the Digital Age]]                                                                             | 2016-07-25 |
 | [[collections/commonplace/In Wrath May You Remember Mercy.md\|In Wrath May You Remember Mercy]]                                                                               | 2016-07-25 |
+| [[collections/commonplace/In the Depths of the Digital Age.md\|In the Depths of the Digital Age]]                                                                             | 2016-07-25 |
 | [[collections/commonplace/Symbols of Power.md\|Symbols of Power]]                                                                                                             | 2016-07-25 |
 | [[collections/commonplace/Love Machines and the Tinder Bot Bildungsroman.md\|Love Machines and the Tinder Bot Bildungsroman]]                                                 | 2016-07-24 |
 | [[collections/commonplace/Neoliberal Tools (and Archives).md\|Neoliberal Tools (and Archives)]]                                                                               | 2016-07-24 |
@@ -826,9 +826,9 @@ permalink: collections/commonplace
 | [[collections/commonplace/The Ethics of Hodor.md\|The Ethics of Hodor]]                                                                                                       | 2016-05-28 |
 | [[collections/commonplace/To Understand Your Past, Look to Your Future.md\|To Understand Your Past, Look to Your Future]]                                                     | 2016-05-24 |
 | [[collections/commonplace/War Is King.md\|War Is King]]                                                                                                                       | 2016-05-24 |
+| [[collections/commonplace/A General Theory of Conceptual Engineering.md\|A General Theory of Conceptual Engineering]]                                                         | 2016-05-22 |
 | [[collections/commonplace/Break the Spell of Reductive Materialism.md\|Break the Spell of Reductive Materialism]]                                                             | 2016-05-22 |
 | [[collections/commonplace/History and Probability.md\|History and Probability]]                                                                                               | 2016-05-22 |
-| [[collections/commonplace/A General Theory of Conceptual Engineering.md\|A General Theory of Conceptual Engineering]]                                                         | 2016-05-22 |
 | [[collections/commonplace/The Chinese Rooms of Cognitive Capital.md\|The Chinese Rooms of Cognitive Capital]]                                                                 | 2016-05-20 |
 | [[collections/commonplace/Picking Sides in Captain America Civil War.md\|Picking Sides in Captain America Civil War]]                                                         | 2016-05-19 |
 | [[collections/commonplace/Moving Beyond Pain.md\|Moving Beyond Pain]]                                                                                                         | 2016-05-18 |
@@ -927,8 +927,8 @@ permalink: collections/commonplace
 | [[collections/commonplace/Sunday Morning.md\|Sunday Morning]]                                                                                                                 | 2016-03-10 |
 | [[collections/commonplace/The Anatomy of the Mental Personality.md\|The Anatomy of the Mental Personality]]                                                                   | 2016-03-10 |
 | [[collections/commonplace/The Other Alien in Alien.md\|The Other Alien in Alien]]                                                                                             | 2016-03-10 |
-| [[collections/commonplace/The Prosaic Sublime of Béla Tarr.md\|The Prosaic Sublime of Béla Tarr]]                                                                             | 2016-03-10 |
 | [[collections/commonplace/The Searcher of Patterns and the Keeper of Things.md\|The Searcher of Patterns and the Keeper of Things]]                                           | 2016-03-10 |
+| [[collections/commonplace/The Prosaic Sublime of Béla Tarr.md\|The Prosaic Sublime of Béla Tarr]]                                                                             | 2016-03-10 |
 | [[collections/commonplace/The Time After.md\|The Time After]]                                                                                                                 | 2016-03-10 |
 | [[collections/commonplace/The Triumph of Atheism.md\|The Triumph of Atheism]]                                                                                                 | 2016-03-10 |
 | [[collections/commonplace/What Does Greimas's Semiotic Square Really Do.md\|What Does Greimas's Semiotic Square Really Do]]                                                   | 2016-03-10 |
@@ -1399,8 +1399,8 @@ permalink: collections/commonplace
 | [[collections/commonplace/Harrison Bergeron.md\|Harrison Bergeron]]                                                                                                           | 2015-07-22 |
 | [[collections/commonplace/Neglected Argument for the Reality of God.md\|Neglected Argument for the Reality of God]]                                                           | 2015-07-22 |
 | [[collections/commonplace/On Reading, or White Nights.md\|On Reading, or White Nights]]                                                                                       | 2015-07-22 |
-| [[collections/commonplace/Taylor Swift Is Definitely in Her Zone.md\|Taylor Swift Is Definitely in Her Zone]]                                                                 | 2015-07-22 |
 | [[collections/commonplace/Ta-Nehisi Coates and a Generation Waking Up.md\|Ta-Nehisi Coates and a Generation Waking Up]]                                                       | 2015-07-22 |
+| [[collections/commonplace/Taylor Swift Is Definitely in Her Zone.md\|Taylor Swift Is Definitely in Her Zone]]                                                                 | 2015-07-22 |
 | [[collections/commonplace/The Pixar Theory of Labor.md\|The Pixar Theory of Labor]]                                                                                           | 2015-07-22 |
 | [[collections/commonplace/The Trouble With True Detective.md\|The Trouble With True Detective]]                                                                               | 2015-07-22 |
 | [[collections/commonplace/Thinking Through Images.md\|Thinking Through Images]]                                                                                               | 2015-07-22 |
@@ -1849,8 +1849,8 @@ permalink: collections/commonplace
 | [[collections/commonplace/The Adversary.md\|The Adversary]]                                                                                                                   | 2014-05-23 |
 | [[collections/commonplace/The Meaning of Ritual is Deep Indeed.md\|The Meaning of Ritual is Deep Indeed]]                                                                     | 2014-05-23 |
 | [[collections/commonplace/The Short Sentence as Gospel Truth.md\|The Short Sentence as Gospel Truth]]                                                                         | 2014-05-23 |
-| [[collections/commonplace/Toward a Universal Theory of Cool.md\|Toward a Universal Theory of Cool]]                                                                           | 2014-05-23 |
 | [[collections/commonplace/Touring, Travel, Vacation.md\|Touring, Travel, Vacation]]                                                                                           | 2014-05-23 |
+| [[collections/commonplace/Toward a Universal Theory of Cool.md\|Toward a Universal Theory of Cool]]                                                                           | 2014-05-23 |
 | [[collections/commonplace/Unsocial Sociability.md\|Unsocial Sociability]]                                                                                                     | 2014-05-23 |
 | [[collections/commonplace/Weariness.md\|Weariness]]                                                                                                                           | 2014-05-23 |
 | [[collections/commonplace/Jeb Bush.md\|Jeb Bush]]                                                                                                                             | 2014-05-22 |

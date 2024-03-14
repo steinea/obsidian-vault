@@ -7,13 +7,13 @@ permalink: activity/playing
 
 #### Playing
 
-![[playingnow]]
+![[Playing Now]]
 
 <p><br></p>
 
 #### Played
 
-![[playingcompleted]]
+![[Playing Completed]]
 
 <p><br></p>
 
@@ -21,13 +21,13 @@ permalink: activity/playing
 
 #### Library
 
-![[playingnext]]
+![[Playing Next]]
 
 <p><br></p>
 
 #### Wishlist
 
-![[playingwishlist]]
+![[Playing Wishlist]]
 
 <p><br></p>
 
@@ -35,4 +35,4 @@ permalink: activity/playing
 
 #### Most Played
 
-![[playingmost]]
+![[Playing Most]]

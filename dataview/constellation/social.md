@@ -1,6 +1,9 @@
-%% #Ignore update via "Update Publish Files" template %% 
+---
+permalink: constellation/social
+---
 
-| Social                                       |
-| -------------------------------------------- |
-| [[constellation/social/Twitter.md\|Twitter]] |
-| [[constellation/social/YouTube.md\|YouTube]] |
+
+| File                                         | Date |
+| -------------------------------------------- | ---- |
+| [[constellation/social/Twitter.md\|Twitter]] | \-   |
+| [[constellation/social/YouTube.md\|YouTube]] | \-   |

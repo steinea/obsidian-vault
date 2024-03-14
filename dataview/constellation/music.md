@@ -1,5 +1,8 @@
-%% #Ignore update via "Update Publish Files" template %% 
+---
+permalink: constellation/music
+---
 
-| Music                                                                         |
-| ----------------------------------------------------------------------------- |
-| [[constellation/music/Strange and Sacred Noise.md\|Strange and Sacred Noise]] |
+
+| File                                                                          | Date |
+| ----------------------------------------------------------------------------- | ---- |
+| [[constellation/music/Strange and Sacred Noise.md\|Strange and Sacred Noise]] | \-   |

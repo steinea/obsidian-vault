@@ -1,4 +1,7 @@
-%% #Ignore update via "Update Publish Files" template %% 
+---
+permalink: activity/playing/shortest
+---
+
 
 | Shortest to Play                                                                                    | Platform | Hours |
 | --------------------------------------------------------------------------------------------------- | -------- | ----- |

@@ -1,4 +1,7 @@
-%% #Ignore update via "Update Publish Files" template %% 
+---
+permalink: activity/watching/television
+---
+
 
 | Title                                                                    | Series         | Episode | Date       |
 | ------------------------------------------------------------------------ | -------------- | ------- | ---------- |

@@ -1,4 +1,7 @@
-%% #Ignore update via "Update Publish Files" template %% 
+---
+permalink: activity/playing/most
+---
+
 
 | Most Played                                                                   | Platform | Hours |
 | ----------------------------------------------------------------------------- | -------- | ----- |

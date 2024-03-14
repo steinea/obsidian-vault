@@ -1,7 +1,10 @@
-%% #Ignore update via "Update Publish Files" template %% 
+---
+permalink: constellation/channels
+---
 
-| Channels                                                           |
-| ------------------------------------------------------------------ |
-| [[constellation/channels/HBO.md\|HBO]]                             |
-| [[constellation/channels/Noclip.md\|Noclip]]                       |
-| [[constellation/channels/People Make Games.md\|People Make Games]] |
+
+| File                                                               | Date |
+| ------------------------------------------------------------------ | ---- |
+| [[constellation/channels/HBO.md\|HBO]]                             | \-   |
+| [[constellation/channels/Noclip.md\|Noclip]]                       | \-   |
+| [[constellation/channels/People Make Games.md\|People Make Games]] | \-   |

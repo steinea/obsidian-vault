@@ -1,6 +1,9 @@
-%% #Ignore update via "Update Publish Files" template %% 
+---
+permalink: constellation/comics
+---
 
-| Comics                                                                     |
-| -------------------------------------------------------------------------- |
-| [[constellation/comics/Comics Devices Library.md\|Comics Devices Library]] |
-| [[constellation/comics/xkcd.md\|xkcd]]                                     |
+
+| File                                                                       | Date |
+| -------------------------------------------------------------------------- | ---- |
+| [[constellation/comics/Comics Devices Library.md\|Comics Devices Library]] | \-   |
+| [[constellation/comics/xkcd.md\|xkcd]]                                     | \-   |
