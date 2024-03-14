@@ -216,7 +216,7 @@ const queries = [
   },
   {
     title: "Bibliographies",
-    query: 'TABLE WITHOUT ID file.link AS "File", date AS Date FROM "collections/bibliographies" SORT date DESC',
+    query: 'TABLE WITHOUT ID file.link AS "File", category AS Category, date AS Date FROM "collections/bibliographies" SORT date DESC',
     content: `---\npermalink: collections/bibliographies\n---\n`,
   },
   {

@@ -3,132 +3,132 @@ permalink: collections/bibliographies
 ---
 
 
-| File                                                                                                             | Date       |
-| ---------------------------------------------------------------------------------------------------------------- | ---------- |
-| [[collections/bibliographies/Human Origins.md\|Human Origins]]                                                   | 2024-02-16 |
-| [[collections/bibliographies/Play and Gender.md\|Play and Gender]]                                               | 2024-02-13 |
-| [[collections/bibliographies/2023-11-13-math-miscellany.md\|2023-11-13-math-miscellany]]                         | 2023-11-13 |
-| [[collections/bibliographies/2023-11-11-oxford-miscellany.md\|2023-11-11-oxford-miscellany]]                     | 2023-11-11 |
-| [[collections/bibliographies/2023-11-05-playground-theory.md\|2023-11-05-playground-theory]]                     | 2023-11-05 |
-| [[collections/bibliographies/2023-10-18-thermodynamic-theory.md\|2023-10-18-thermodynamic-theory]]               | 2023-10-18 |
-| [[collections/bibliographies/2023-10-18-strategic-thought.md\|2023-10-18-strategic-thought]]                     | 2023-10-18 |
-| [[collections/bibliographies/2023-10-18-topological-ontogenesis.md\|2023-10-18-topological-ontogenesis]]         | 2023-10-18 |
-| [[collections/bibliographies/2023-10-18-the-unique.md\|2023-10-18-the-unique]]                                   | 2023-10-18 |
-| [[collections/bibliographies/2023-09-23-climate-transformation.md\|2023-09-23-climate-transformation]]           | 2023-09-23 |
-| [[collections/bibliographies/2023-09-04-mystery-fiction.md\|2023-09-04-mystery-fiction]]                         | 2023-09-04 |
-| [[collections/bibliographies/2023-08-30-agroecology.md\|2023-08-30-agroecology]]                                 | 2023-08-30 |
-| [[collections/bibliographies/2023-08-28-gamebooks.md\|2023-08-28-gamebooks]]                                     | 2023-08-28 |
-| [[collections/bibliographies/2023-08-25-megacampaign-settings.md\|2023-08-25-megacampaign-settings]]             | 2023-08-25 |
-| [[collections/bibliographies/2023-08-21-first-philosophies.md\|2023-08-21-first-philosophies]]                   | 2023-08-21 |
-| [[collections/bibliographies/2023-06-09-first-person-engines.md\|2023-06-09-first-person-engines]]               | 2023-06-09 |
-| [[collections/bibliographies/2023-05-28-tools-and-protocols.md\|2023-05-28-tools-and-protocols]]                 | 2023-05-28 |
-| [[collections/bibliographies/2023-05-25-police-abolition.md\|2023-05-25-police-abolition]]                       | 2023-05-25 |
-| [[collections/bibliographies/2023-05-08-theatre-direction.md\|2023-05-08-theatre-direction]]                     | 2023-05-08 |
-| [[collections/bibliographies/2023-04-12-immersive-interaction.md\|2023-04-12-immersive-interaction]]             | 2023-04-12 |
-| [[collections/bibliographies/2023-04-02-ludic-rota.md\|2023-04-02-ludic-rota]]                                   | 2023-04-02 |
-| [[collections/bibliographies/2023-02-24-mountain-literature.md\|2023-02-24-mountain-literature]]                 | 2023-02-24 |
-| [[collections/bibliographies/2023-02-07-ultra-prominent-peaks.md\|2023-02-07-ultra-prominent-peaks]]             | 2023-02-07 |
-| [[collections/bibliographies/2023-02-07-franchise-studies.md\|2023-02-07-franchise-studies]]                     | 2023-02-07 |
-| [[collections/bibliographies/2023-02-03-necessary-fictions.md\|2023-02-03-necessary-fictions]]                   | 2023-02-03 |
-| [[collections/bibliographies/2023-01-31-close-reading.md\|2023-01-31-close-reading]]                             | 2023-01-31 |
-| [[collections/bibliographies/2023-01-26-long-distance.md\|2023-01-26-long-distance]]                             | 2023-01-26 |
-| [[collections/bibliographies/2023-01-26-reader-response.md\|2023-01-26-reader-response]]                         | 2023-01-26 |
-| [[collections/bibliographies/2023-01-20-game-histories.md\|2023-01-20-game-histories]]                           | 2023-01-20 |
-| [[collections/bibliographies/2023-01-19-theoretical-biology.md\|2023-01-19-theoretical-biology]]                 | 2023-01-19 |
-| [[collections/bibliographies/2023-01-15-platform-hermeneutics.md\|2023-01-15-platform-hermeneutics]]             | 2023-01-15 |
-| [[collections/bibliographies/2023-01-09-linguistic-inquiry.md\|2023-01-09-linguistic-inquiry]]                   | 2023-01-09 |
-| [[collections/bibliographies/2023-01-07-continental-seminars.md\|2023-01-07-continental-seminars]]               | 2023-01-07 |
-| [[collections/bibliographies/2023-01-07-ludic-genealogies.md\|2023-01-07-ludic-genealogies]]                     | 2023-01-07 |
-| [[collections/bibliographies/2023-01-07-narrative-design.md\|2023-01-07-narrative-design]]                       | 2023-01-07 |
-| [[collections/bibliographies/2023-01-01-design-engineering.md\|2023-01-01-design-engineering]]                   | 2023-01-01 |
-| [[collections/bibliographies/2023-01-01-design-fiction.md\|2023-01-01-design-fiction]]                           | 2023-01-01 |
-| [[collections/bibliographies/2022-12-27-long-poems.md\|2022-12-27-long-poems]]                                   | 2022-12-27 |
-| [[collections/bibliographies/2022-12-23-installation-art.md\|2022-12-23-installation-art]]                       | 2022-12-23 |
-| [[collections/bibliographies/2022-12-22-science-fiction.md\|2022-12-22-science-fiction]]                         | 2022-12-22 |
-| [[collections/bibliographies/2022-12-22-soccer-studies.md\|2022-12-22-soccer-studies]]                           | 2022-12-22 |
-| [[collections/bibliographies/2022-12-14-journaling-games.md\|2022-12-14-journaling-games]]                       | 2022-12-14 |
-| [[collections/bibliographies/2022-11-14-radical-pedagogy.md\|2022-11-14-radical-pedagogy]]                       | 2022-11-14 |
-| [[collections/bibliographies/2022-11-12-cosmic-communism.md\|2022-11-12-cosmic-communism]]                       | 2022-11-12 |
-| [[collections/bibliographies/2022-11-11-planetary-intelligence.md\|2022-11-11-planetary-intelligence]]           | 2022-11-11 |
-| [[collections/bibliographies/2022-11-09-popular-physics.md\|2022-11-09-popular-physics]]                         | 2022-11-09 |
-| [[collections/bibliographies/2022-10-31-future-visions.md\|2022-10-31-future-visions]]                           | 2022-10-31 |
-| [[collections/bibliographies/2022-10-12-playful-phenomenology.md\|2022-10-12-playful-phenomenology]]             | 2022-10-12 |
-| [[collections/bibliographies/2022-09-14-creative-writing.md\|2022-09-14-creative-writing]]                       | 2022-09-14 |
-| [[collections/bibliographies/2022-09-14-haiku-studies.md\|2022-09-14-haiku-studies]]                             | 2022-09-14 |
-| [[collections/bibliographies/2022-09-14-patristic-theology.md\|2022-09-14-patristic-theology]]                   | 2022-09-14 |
-| [[collections/bibliographies/2022-09-12-forcing-landscapes.md\|2022-09-12-forcing-landscapes]]                   | 2022-09-12 |
-| [[collections/bibliographies/2022-09-12-parmenidean-meditations.md\|2022-09-12-parmenidean-meditations]]         | 2022-09-12 |
-| [[collections/bibliographies/2022-09-12-passages-of-cognition.md\|2022-09-12-passages-of-cognition]]             | 2022-09-12 |
-| [[collections/bibliographies/2022-08-21-design-science.md\|2022-08-21-design-science]]                           | 2022-08-21 |
-| [[collections/bibliographies/2022-08-21-new-urbanism.md\|2022-08-21-new-urbanism]]                               | 2022-08-21 |
-| [[collections/bibliographies/2022-08-21-design-theory.md\|2022-08-21-design-theory]]                             | 2022-08-21 |
-| [[collections/bibliographies/2022-08-21-user-experience.md\|2022-08-21-user-experience]]                         | 2022-08-21 |
-| [[collections/bibliographies/2022-08-21-universal-design.md\|2022-08-21-universal-design]]                       | 2022-08-21 |
-| [[collections/bibliographies/2022-08-17-careful-play.md\|2022-08-17-careful-play]]                               | 2022-08-17 |
-| [[collections/bibliographies/2022-08-12-diagrammatology.md\|2022-08-12-diagrammatology]]                         | 2022-08-12 |
-| [[collections/bibliographies/2022-08-05-postmodern-theology.md\|2022-08-05-postmodern-theology]]                 | 2022-08-05 |
-| [[collections/bibliographies/2022-07-25-habit-and-pragmatics.md\|2022-07-25-habit-and-pragmatics]]               | 2022-07-25 |
-| [[collections/bibliographies/2022-07-21-historical-theology.md\|2022-07-21-historical-theology]]                 | 2022-07-21 |
-| [[collections/bibliographies/2022-07-21-jewish-theology.md\|2022-07-21-jewish-theology]]                         | 2022-07-21 |
-| [[collections/bibliographies/2022-07-21-mystical-theology.md\|2022-07-21-mystical-theology]]                     | 2022-07-21 |
-| [[collections/bibliographies/2022-06-25-accessibility.md\|2022-06-25-accessibility]]                             | 2022-06-25 |
-| [[collections/bibliographies/2022-06-19-playful-formalisms.md\|2022-06-19-playful-formalisms]]                   | 2022-06-19 |
-| [[collections/bibliographies/2022-06-11-prayer-poetics.md\|2022-06-11-prayer-poetics]]                           | 2022-06-11 |
-| [[collections/bibliographies/2022-06-11-sustainable-authorship.md\|2022-06-11-sustainable-authorship]]           | 2022-06-11 |
-| [[collections/bibliographies/2022-06-11-fantasy-theory.md\|2022-06-11-fantasy-theory]]                           | 2022-06-11 |
-| [[collections/bibliographies/2022-06-05-enactive-ontology.md\|2022-06-05-enactive-ontology]]                     | 2022-06-05 |
-| [[collections/bibliographies/2022-05-23-critical-complaint.md\|2022-05-23-critical-complaint]]                   | 2022-05-23 |
-| [[collections/bibliographies/2022-05-20-combinatory-logic.md\|2022-05-20-combinatory-logic]]                     | 2022-05-20 |
-| [[collections/bibliographies/2022-05-13-hand-combat.md\|2022-05-13-hand-combat]]                                 | 2022-05-13 |
-| [[collections/bibliographies/2022-04-03-new-ontologies.md\|2022-04-03-new-ontologies]]                           | 2022-04-03 |
-| [[collections/bibliographies/2022-02-16-military-strategy.md\|2022-02-16-military-strategy]]                     | 2022-02-16 |
-| [[collections/bibliographies/2022-02-16-old-school-renaissance.md\|2022-02-16-old-school-renaissance]]           | 2022-02-16 |
-| [[collections/bibliographies/2022-02-10-dark-souls.md\|2022-02-10-dark-souls]]                                   | 2022-02-10 |
-| [[collections/bibliographies/2022-01-22-indo-european.md\|2022-01-22-indo-european]]                             | 2022-01-22 |
-| [[collections/bibliographies/2021-12-31-constructor-theory.md\|2021-12-31-constructor-theory]]                   | 2021-12-31 |
-| [[collections/bibliographies/2021-11-13-difficult-fiction.md\|2021-11-13-difficult-fiction]]                     | 2021-11-13 |
-| [[collections/bibliographies/2021-11-13-art-science.md\|2021-11-13-art-science]]                                 | 2021-11-13 |
-| [[collections/bibliographies/2021-11-13-occasionalism.md\|2021-11-13-occasionalism]]                             | 2021-11-13 |
-| [[collections/bibliographies/2021-11-13-print-culture.md\|2021-11-13-print-culture]]                             | 2021-11-13 |
-| [[collections/bibliographies/2021-10-01-creative-coding.md\|2021-10-01-creative-coding]]                         | 2021-10-01 |
-| [[collections/bibliographies/2021-09-30-decolonial-action.md\|2021-09-30-decolonial-action]]                     | 2021-09-30 |
-| [[collections/bibliographies/2021-06-05-games-within-games.md\|2021-06-05-games-within-games]]                   | 2021-06-05 |
-| [[collections/bibliographies/2021-06-03-technoscience.md\|2021-06-03-technoscience]]                             | 2021-06-03 |
-| [[collections/bibliographies/2021-03-30-lofi-futurities.md\|2021-03-30-lofi-futurities]]                         | 2021-03-30 |
-| [[collections/bibliographies/2021-03-24-digital-humanities.md\|2021-03-24-digital-humanities]]                   | 2021-03-24 |
-| [[collections/bibliographies/2021-03-15-cryptexts.md\|2021-03-15-cryptexts]]                                     | 2021-03-15 |
-| [[collections/bibliographies/2020-12-12-affect-theory.md\|2020-12-12-affect-theory]]                             | 2020-12-12 |
-| [[collections/bibliographies/2020-11-29-utopianism.md\|2020-11-29-utopianism]]                                   | 2020-11-29 |
-| [[collections/bibliographies/2020-11-04-symbolic-exchange.md\|2020-11-04-symbolic-exchange]]                     | 2020-11-04 |
-| [[collections/bibliographies/2020-11-04-insurgent-thought.md\|2020-11-04-insurgent-thought]]                     | 2020-11-04 |
-| [[collections/bibliographies/2020-10-30-cultural-materialism.md\|2020-10-30-cultural-materialism]]               | 2020-10-30 |
-| [[collections/bibliographies/2020-10-13-posthuman-narrative.md\|2020-10-13-posthuman-narrative]]                 | 2020-10-13 |
-| [[collections/bibliographies/2020-09-19-alternative-engines.md\|2020-09-19-alternative-engines]]                 | 2020-09-19 |
-| [[collections/bibliographies/2020-08-17-postmodern-condition.md\|2020-08-17-postmodern-condition]]               | 2020-08-17 |
-| [[collections/bibliographies/2020-07-21-biblical-commentary.md\|2020-07-21-biblical-commentary]]                 | 2020-07-21 |
-| [[collections/bibliographies/2020-07-21-conceptual-writing.md\|2020-07-21-conceptual-writing]]                   | 2020-07-21 |
-| [[collections/bibliographies/2020-07-21-constrained-writing.md\|2020-07-21-constrained-writing]]                 | 2020-07-21 |
-| [[collections/bibliographies/2020-07-21-existential-theology.md\|2020-07-21-existential-theology]]               | 2020-07-21 |
-| [[collections/bibliographies/2020-07-21-systematic-theology.md\|2020-07-21-systematic-theology]]                 | 2020-07-21 |
-| [[collections/bibliographies/2020-07-21-western-spirituality.md\|2020-07-21-western-spirituality]]               | 2020-07-21 |
-| [[collections/bibliographies/2020-07-21-worldbuilding-games.md\|2020-07-21-worldbuilding-games]]                 | 2020-07-21 |
-| [[collections/bibliographies/2020-05-18-fantasies.md\|2020-05-18-fantasies]]                                     | 2020-05-18 |
-| [[collections/bibliographies/2020-05-17-corpus-linguistics.md\|2020-05-17-corpus-linguistics]]                   | 2020-05-17 |
-| [[collections/bibliographies/2020-04-09-critiques-of-reason.md\|2020-04-09-critiques-of-reason]]                 | 2020-04-09 |
-| [[collections/bibliographies/2018-10-20-ordinary-language.md\|2018-10-20-ordinary-language]]                     | 2018-10-20 |
-| [[collections/bibliographies/2018-10-02-integrationism.md\|2018-10-02-integrationism]]                           | 2018-10-02 |
-| [[collections/bibliographies/2018-10-02-rhetorical-structure-theory.md\|2018-10-02-rhetorical-structure-theory]] | 2018-10-02 |
-| [[collections/bibliographies/2018-10-02-functional-grammar.md\|2018-10-02-functional-grammar]]                   | 2018-10-02 |
-| [[collections/bibliographies/2018-10-02-integrational-linguistics.md\|2018-10-02-integrational-linguistics]]     | 2018-10-02 |
-| [[collections/bibliographies/2018-10-02-semantics.md\|2018-10-02-semantics]]                                     | 2018-10-02 |
-| [[collections/bibliographies/2018-10-02-stylistics.md\|2018-10-02-stylistics]]                                   | 2018-10-02 |
-| [[collections/bibliographies/2018-10-01-discourse-analysis.md\|2018-10-01-discourse-analysis]]                   | 2018-10-01 |
-| [[collections/bibliographies/2018-10-01-narratology.md\|2018-10-01-narratology]]                                 | 2018-10-01 |
-| [[collections/bibliographies/2018-10-01-pragmatics.md\|2018-10-01-pragmatics]]                                   | 2018-10-01 |
-| [[collections/bibliographies/2018-10-01-structuralism.md\|2018-10-01-structuralism]]                             | 2018-10-01 |
-| [[collections/bibliographies/2018-10-01-text-linguistics.md\|2018-10-01-text-linguistics]]                       | 2018-10-01 |
-| [[collections/bibliographies/2017-11-29-construction-grammar.md\|2017-11-29-construction-grammar]]               | 2017-11-29 |
-| [[collections/bibliographies/2017-11-15-textual-studies.md\|2017-11-15-textual-studies]]                         | 2017-11-15 |
-| [[collections/bibliographies/2016-10-19-rhetoric.md\|2016-10-19-rhetoric]]                                       | 2016-10-19 |
-| [[collections/bibliographies/2016-10-17-usage-based-linguistics.md\|2016-10-17-usage-based-linguistics]]         | 2016-10-17 |
-| [[collections/bibliographies/2012-02-25-field-manuals.md\|2012-02-25-field-manuals]]                             | 2012-02-25 |
+| File                                                                                       | Category    | Date       |
+| ------------------------------------------------------------------------------------------ | ----------- | ---------- |
+| [[collections/bibliographies/Human Origins.md\|Human Origins]]                             | \-          | 2024-02-16 |
+| [[collections/bibliographies/Play and Gender.md\|Play and Gender]]                         | \-          | 2024-02-13 |
+| [[collections/bibliographies/Math Miscellany.md\|Math Miscellany]]                         | science     | 2023-11-13 |
+| [[collections/bibliographies/Oxford Miscellany.md\|Oxford Miscellany]]                     | science     | 2023-11-11 |
+| [[collections/bibliographies/Playground Theory.md\|Playground Theory]]                     | games       | 2023-11-05 |
+| [[collections/bibliographies/Strategic Thought.md\|Strategic Thought]]                     | warfare     | 2023-10-18 |
+| [[collections/bibliographies/The Unique.md\|The Unique]]                                   | philosophy  | 2023-10-18 |
+| [[collections/bibliographies/Thermodynamic Theory.md\|Thermodynamic Theory]]               | philosophy  | 2023-10-18 |
+| [[collections/bibliographies/Topological Ontogenesis.md\|Topological Ontogenesis]]         | philosophy  | 2023-10-18 |
+| [[collections/bibliographies/Climate Transformation.md\|Climate Transformation]]           | science     | 2023-09-23 |
+| [[collections/bibliographies/Mystery Fiction.md\|Mystery Fiction]]                         | literature  | 2023-09-04 |
+| [[collections/bibliographies/Agroecology.md\|Agroecology]]                                 | science     | 2023-08-30 |
+| [[collections/bibliographies/Gamebooks.md\|Gamebooks]]                                     | games       | 2023-08-28 |
+| [[collections/bibliographies/Megacampaign Settings.md\|Megacampaign Settings]]             | games       | 2023-08-25 |
+| [[collections/bibliographies/First Philosophies.md\|First Philosophies]]                   | philosophy  | 2023-08-21 |
+| [[collections/bibliographies/First-Person Engines.md\|First-Person Engines]]               | games       | 2023-06-09 |
+| [[collections/bibliographies/Tools and Protocols.md\|Tools and Protocols]]                 | technology  | 2023-05-28 |
+| [[collections/bibliographies/Police Abolition.md\|Police Abolition]]                       | teaching    | 2023-05-25 |
+| [[collections/bibliographies/Theatre Direction.md\|Theatre Direction]]                     | drama       | 2023-05-08 |
+| [[collections/bibliographies/Immersive Interaction.md\|Immersive Interaction]]             | games       | 2023-04-12 |
+| [[collections/bibliographies/Ludic Rota.md\|Ludic Rota]]                                   | games       | 2023-04-02 |
+| [[collections/bibliographies/Mountain Literature.md\|Mountain Literature]]                 | outdoors    | 2023-02-24 |
+| [[collections/bibliographies/Franchise Studies.md\|Franchise Studies]]                     | games       | 2023-02-07 |
+| [[collections/bibliographies/Ultra-Prominent Peaks.md\|Ultra-Prominent Peaks]]             | outdoors    | 2023-02-07 |
+| [[collections/bibliographies/Necessary Fictions.md\|Necessary Fictions]]                   | literature  | 2023-02-03 |
+| [[collections/bibliographies/Close Reading Games.md\|Close Reading Games]]                 | games       | 2023-01-31 |
+| [[collections/bibliographies/Long Distance.md\|Long Distance]]                             | outdoors    | 2023-01-26 |
+| [[collections/bibliographies/Reader Response.md\|Reader Response]]                         | literature  | 2023-01-26 |
+| [[collections/bibliographies/Game Histories.md\|Game Histories]]                           | games       | 2023-01-20 |
+| [[collections/bibliographies/Theoretical Biology.md\|Theoretical Biology]]                 | science     | 2023-01-19 |
+| [[collections/bibliographies/Platform Hermeneutics.md\|Platform Hermeneutics]]             | games       | 2023-01-15 |
+| [[collections/bibliographies/Linguistic Inquiry.md\|Linguistic Inquiry]]                   | linguistics | 2023-01-09 |
+| [[collections/bibliographies/Continental Seminars.md\|Continental Seminars]]               | philosophy  | 2023-01-07 |
+| [[collections/bibliographies/Ludic Genealogies.md\|Ludic Genealogies]]                     | games       | 2023-01-07 |
+| [[collections/bibliographies/On Narrative Design.md\|On Narrative Design]]                 | games       | 2023-01-07 |
+| [[collections/bibliographies/Design Engineering.md\|Design Engineering]]                   | design      | 2023-01-01 |
+| [[collections/bibliographies/Design Fiction.md\|Design Fiction]]                           | design      | 2023-01-01 |
+| [[collections/bibliographies/Long Poems.md\|Long Poems]]                                   | literature  | 2022-12-27 |
+| [[collections/bibliographies/Installation Art.md\|Installation Art]]                       | games       | 2022-12-23 |
+| [[collections/bibliographies/On Science Fiction.md\|On Science Fiction]]                   | literature  | 2022-12-22 |
+| [[collections/bibliographies/Soccer Studies.md\|Soccer Studies]]                           | games       | 2022-12-22 |
+| [[collections/bibliographies/Journaling Games.md\|Journaling Games]]                       | games       | 2022-12-14 |
+| [[collections/bibliographies/Radical Pedagogy.md\|Radical Pedagogy]]                       | teaching    | 2022-11-14 |
+| [[collections/bibliographies/Cosmic Communism.md\|Cosmic Communism]]                       | philosophy  | 2022-11-12 |
+| [[collections/bibliographies/Planetary Intelligence.md\|Planetary Intelligence]]           | philosophy  | 2022-11-11 |
+| [[collections/bibliographies/Popular Physics.md\|Popular Physics]]                         | science     | 2022-11-09 |
+| [[collections/bibliographies/Future Visions.md\|Future Visions]]                           | literature  | 2022-10-31 |
+| [[collections/bibliographies/Playful Phenomenology.md\|Playful Phenomenology]]             | games       | 2022-10-12 |
+| [[collections/bibliographies/On Creative Writing.md\|On Creative Writing]]                 | literature  | 2022-09-14 |
+| [[collections/bibliographies/Haiku Studies.md\|Haiku Studies]]                             | literature  | 2022-09-14 |
+| [[collections/bibliographies/Patristic Theology.md\|Patristic Theology]]                   | theology    | 2022-09-14 |
+| [[collections/bibliographies/Forcing Landscapes.md\|Forcing Landscapes]]                   | science     | 2022-09-12 |
+| [[collections/bibliographies/Parmenidean Meditations.md\|Parmenidean Meditations]]         | philosophy  | 2022-09-12 |
+| [[collections/bibliographies/Passages of Cognition.md\|Passages of Cognition]]             | philosophy  | 2022-09-12 |
+| [[collections/bibliographies/Design Science.md\|Design Science]]                           | design      | 2022-08-21 |
+| [[collections/bibliographies/Design Theory.md\|Design Theory]]                             | design      | 2022-08-21 |
+| [[collections/bibliographies/New Urbanism.md\|New Urbanism]]                               | design      | 2022-08-21 |
+| [[collections/bibliographies/Universal Design.md\|Universal Design]]                       | design      | 2022-08-21 |
+| [[collections/bibliographies/User Experience.md\|User Experience]]                         | design      | 2022-08-21 |
+| [[collections/bibliographies/Careful Play.md\|Careful Play]]                               | games       | 2022-08-17 |
+| [[collections/bibliographies/Diagrammatology.md\|Diagrammatology]]                         | philosophy  | 2022-08-12 |
+| [[collections/bibliographies/Postmodern Theology.md\|Postmodern Theology]]                 | theology    | 2022-08-05 |
+| [[collections/bibliographies/Habit and Pragmatics.md\|Habit and Pragmatics]]               | philosophy  | 2022-07-25 |
+| [[collections/bibliographies/Historical Theology.md\|Historical Theology]]                 | theology    | 2022-07-21 |
+| [[collections/bibliographies/Jewish Theology.md\|Jewish Theology]]                         | theology    | 2022-07-21 |
+| [[collections/bibliographies/Mystical Theology.md\|Mystical Theology]]                     | theology    | 2022-07-21 |
+| [[collections/bibliographies/Accessibility.md\|Accessibility]]                             | Design      | 2022-06-25 |
+| [[collections/bibliographies/Playful Formalisms.md\|Playful Formalisms]]                   | games       | 2022-06-19 |
+| [[collections/bibliographies/Fantasy Theory.md\|Fantasy Theory]]                           | literature  | 2022-06-11 |
+| [[collections/bibliographies/Prayer Poetics.md\|Prayer Poetics]]                           | literature  | 2022-06-11 |
+| [[collections/bibliographies/Sustainable Authorship.md\|Sustainable Authorship]]           | teaching    | 2022-06-11 |
+| [[collections/bibliographies/Enactive Ontology.md\|Enactive Ontology]]                     | philosophy  | 2022-06-05 |
+| [[collections/bibliographies/Critical Complaint.md\|Critical Complaint]]                   | teaching    | 2022-05-23 |
+| [[collections/bibliographies/Combinatory Logic.md\|Combinatory Logic]]                     | philosophy  | 2022-05-20 |
+| [[collections/bibliographies/Hand Combat.md\|Hand Combat]]                                 | warfare     | 2022-05-13 |
+| [[collections/bibliographies/New Ontologies.md\|New Ontologies]]                           | philosophy  | 2022-04-03 |
+| [[collections/bibliographies/Military Strategy.md\|Military Strategy]]                     | warfare     | 2022-02-16 |
+| [[collections/bibliographies/Old School Renaissance.md\|Old School Renaissance]]           | games       | 2022-02-16 |
+| [[collections/bibliographies/On Dark Souls.md\|On Dark Souls]]                             | games       | 2022-02-10 |
+| [[collections/bibliographies/Indo-European.md\|Indo-European]]                             | linguistics | 2022-01-22 |
+| [[collections/bibliographies/Constructor Theory.md\|Constructor Theory]]                   | Science     | 2021-12-31 |
+| [[collections/bibliographies/Art-Science.md\|Art-Science]]                                 | philosophy  | 2021-11-13 |
+| [[collections/bibliographies/Difficult Fiction.md\|Difficult Fiction]]                     | literature  | 2021-11-13 |
+| [[collections/bibliographies/Occasionalism.md\|Occasionalism]]                             | philosophy  | 2021-11-13 |
+| [[collections/bibliographies/Print Culture.md\|Print Culture]]                             | literature  | 2021-11-13 |
+| [[collections/bibliographies/Creative Coding.md\|Creative Coding]]                         | teaching    | 2021-10-01 |
+| [[collections/bibliographies/Decolonial Action.md\|Decolonial Action]]                     | teaching    | 2021-09-30 |
+| [[collections/bibliographies/Games Within Games.md\|Games Within Games]]                   | games       | 2021-06-05 |
+| [[collections/bibliographies/Technoscience.md\|Technoscience]]                             | philosophy  | 2021-06-03 |
+| [[collections/bibliographies/Lofi Futurities.md\|Lofi Futurities]]                         | games       | 2021-03-30 |
+| [[collections/bibliographies/Digital Humanities.md\|Digital Humanities]]                   | teaching    | 2021-03-24 |
+| [[collections/bibliographies/Cryptexts.md\|Cryptexts]]                                     | literature  | 2021-03-15 |
+| [[collections/bibliographies/Affect Theory.md\|Affect Theory]]                             | philosophy  | 2020-12-12 |
+| [[collections/bibliographies/Utopianism.md\|Utopianism]]                                   | philosophy  | 2020-11-29 |
+| [[collections/bibliographies/Insurgent Thought.md\|Insurgent Thought]]                     | philosophy  | 2020-11-04 |
+| [[collections/bibliographies/Symbolic Exchange.md\|Symbolic Exchange]]                     | philosophy  | 2020-11-04 |
+| [[collections/bibliographies/Cultural Materialism.md\|Cultural Materialism]]               | philosophy  | 2020-10-30 |
+| [[collections/bibliographies/Posthuman Narrative.md\|Posthuman Narrative]]                 | philosophy  | 2020-10-13 |
+| [[collections/bibliographies/Alternative Engines.md\|Alternative Engines]]                 | games       | 2020-09-19 |
+| [[collections/bibliographies/Postmodern Condition.md\|Postmodern Condition]]               | philosophy  | 2020-08-17 |
+| [[collections/bibliographies/Biblical Commentary.md\|Biblical Commentary]]                 | theology    | 2020-07-21 |
+| [[collections/bibliographies/Conceptual Writing.md\|Conceptual Writing]]                   | literature  | 2020-07-21 |
+| [[collections/bibliographies/Constrained Writing.md\|Constrained Writing]]                 | literature  | 2020-07-21 |
+| [[collections/bibliographies/Existential Theology.md\|Existential Theology]]               | theology    | 2020-07-21 |
+| [[collections/bibliographies/Systematic Theology.md\|Systematic Theology]]                 | theology    | 2020-07-21 |
+| [[collections/bibliographies/Western Spirituality.md\|Western Spirituality]]               | theology    | 2020-07-21 |
+| [[collections/bibliographies/Worldbuilding Games.md\|Worldbuilding Games]]                 | games       | 2020-07-21 |
+| [[collections/bibliographies/Fantasies.md\|Fantasies]]                                     | literature  | 2020-05-18 |
+| [[collections/bibliographies/Corpus Linguistics.md\|Corpus Linguistics]]                   | linguistics | 2020-05-17 |
+| [[collections/bibliographies/Critiques of Reason.md\|Critiques of Reason]]                 | philosophy  | 2020-04-09 |
+| [[collections/bibliographies/Ordinary Language.md\|Ordinary Language]]                     | linguistics | 2018-10-20 |
+| [[collections/bibliographies/Functional Grammar.md\|Functional Grammar]]                   | linguistics | 2018-10-02 |
+| [[collections/bibliographies/Integrational Linguistics.md\|Integrational Linguistics]]     | linguistics | 2018-10-02 |
+| [[collections/bibliographies/Integrationism.md\|Integrationism]]                           | linguistics | 2018-10-02 |
+| [[collections/bibliographies/Rhetorical Structure Theory.md\|Rhetorical Structure Theory]] | linguistics | 2018-10-02 |
+| [[collections/bibliographies/Semantics.md\|Semantics]]                                     | linguistics | 2018-10-02 |
+| [[collections/bibliographies/Stylistics.md\|Stylistics]]                                   | linguistics | 2018-10-02 |
+| [[collections/bibliographies/Discourse Analysis.md\|Discourse Analysis]]                   | linguistics | 2018-10-01 |
+| [[collections/bibliographies/Narratology.md\|Narratology]]                                 | linguistics | 2018-10-01 |
+| [[collections/bibliographies/Pragmatics.md\|Pragmatics]]                                   | linguistics | 2018-10-01 |
+| [[collections/bibliographies/Structuralism.md\|Structuralism]]                             | linguistics | 2018-10-01 |
+| [[collections/bibliographies/Text Linguistics.md\|Text Linguistics]]                       | linguistics | 2018-10-01 |
+| [[collections/bibliographies/Construction Grammar.md\|Construction Grammar]]               | linguistics | 2017-11-29 |
+| [[collections/bibliographies/Textual Studies.md\|Textual Studies]]                         | literature  | 2017-11-15 |
+| [[collections/bibliographies/Rhetoric.md\|Rhetoric]]                                       | linguistics | 2016-10-19 |
+| [[collections/bibliographies/Usage-Based Linguistics.md\|Usage-Based Linguistics]]         | linguistics | 2016-10-17 |
+| [[collections/bibliographies/Field Manuals.md\|Field Manuals]]                             | warfare     | 2012-02-25 |

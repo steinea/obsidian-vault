@@ -1,6 +1,7 @@
 ---
 title: Play and Gender
 date: 2024-02-13
+category:
 permalink: 2024/02/13/playing-gender
 ---
 
