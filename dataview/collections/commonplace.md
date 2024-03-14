@@ -140,11 +140,11 @@ permalink: collections/commonplace
 | [[collections/commonplace/Jaquaying the Dungeon, 1.md\|Jaquaying the Dungeon, 1]]                                                                                             | 2023-03-12 |
 | [[collections/commonplace/Jaquaying the Dungeon, 3.md\|Jaquaying the Dungeon, 3]]                                                                                             | 2023-03-12 |
 | [[collections/commonplace/Jaquaying the Dungeon, 4.md\|Jaquaying the Dungeon, 4]]                                                                                             | 2023-03-12 |
+| [[collections/commonplace/Jaquaying the Dungeon, 2.md\|Jaquaying the Dungeon, 2]]                                                                                             | 2023-03-12 |
+| [[collections/commonplace/Jaquaying the Dungeon, 6.md\|Jaquaying the Dungeon, 6]]                                                                                             | 2023-03-12 |
+| [[collections/commonplace/Jaquaying the Dungeon, 9.md\|Jaquaying the Dungeon, 9]]                                                                                             | 2023-03-12 |
 | [[collections/commonplace/Jaquaying the Dungeon, 5.md\|Jaquaying the Dungeon, 5]]                                                                                             | 2023-03-12 |
 | [[collections/commonplace/Jaquaying the Dungeon, 7.md\|Jaquaying the Dungeon, 7]]                                                                                             | 2023-03-12 |
-| [[collections/commonplace/Jaquaying the Dungeon, 9.md\|Jaquaying the Dungeon, 9]]                                                                                             | 2023-03-12 |
-| [[collections/commonplace/Jaquaying the Dungeon, 6.md\|Jaquaying the Dungeon, 6]]                                                                                             | 2023-03-12 |
-| [[collections/commonplace/Jaquaying the Dungeon, 2.md\|Jaquaying the Dungeon, 2]]                                                                                             | 2023-03-12 |
 | [[collections/commonplace/Jaquaying the Dungeon, 8.md\|Jaquaying the Dungeon, 8]]                                                                                             | 2023-03-12 |
 | [[collections/commonplace/Don't Be Afraid of Going Wrong.md\|Don't Be Afraid of Going Wrong]]                                                                                 | 2023-03-11 |
 | [[collections/commonplace/Fuck the Poetry Police.md\|Fuck the Poetry Police]]                                                                                                 | 2023-03-11 |
@@ -255,8 +255,8 @@ permalink: collections/commonplace
 | [[collections/commonplace/The Riddle of the Sphinx.md\|The Riddle of the Sphinx]]                                                                                             | 2018-05-13 |
 | [[collections/commonplace/Westworld's Choice.md\|Westworld's Choice]]                                                                                                         | 2018-05-13 |
 | [[collections/commonplace/Virtu e Fortuna.md\|Virtu e Fortuna]]                                                                                                               | 2018-05-06 |
-| [[collections/commonplace/On Infinity War, 1.md\|On Infinity War, 1]]                                                                                                         | 2018-05-02 |
 | [[collections/commonplace/On Infinity War, 2.md\|On Infinity War, 2]]                                                                                                         | 2018-05-02 |
+| [[collections/commonplace/On Infinity War, 1.md\|On Infinity War, 1]]                                                                                                         | 2018-05-02 |
 | [[collections/commonplace/Reunion.md\|Reunion]]                                                                                                                               | 2018-04-29 |
 | [[collections/commonplace/A Shift In Our Fear of Robots.md\|A Shift In Our Fear of Robots]]                                                                                   | 2018-04-24 |
 | [[collections/commonplace/Journey Into Night.md\|Journey Into Night]]                                                                                                         | 2018-04-22 |
@@ -289,8 +289,8 @@ permalink: collections/commonplace
 | [[collections/commonplace/Watching Blade Runner in 2017.md\|Watching Blade Runner in 2017]]                                                                                   | 2017-10-15 |
 | [[collections/commonplace/On Blade Runner 2049, 6.md\|On Blade Runner 2049, 6]]                                                                                               | 2017-10-12 |
 | [[collections/commonplace/Blade Runner 2049 and Arrival.md\|Blade Runner 2049 and Arrival]]                                                                                   | 2017-10-11 |
-| [[collections/commonplace/On Blade Runner 2049, 4.md\|On Blade Runner 2049, 4]]                                                                                               | 2017-10-11 |
 | [[collections/commonplace/On Blade Runner 2049, 3.md\|On Blade Runner 2049, 3]]                                                                                               | 2017-10-11 |
+| [[collections/commonplace/On Blade Runner 2049, 4.md\|On Blade Runner 2049, 4]]                                                                                               | 2017-10-11 |
 | [[collections/commonplace/On Blade Runner 2049, 5.md\|On Blade Runner 2049, 5]]                                                                                               | 2017-10-11 |
 | [[collections/commonplace/Consciousness An Object Lesson.md\|Consciousness An Object Lesson]]                                                                                 | 2017-10-09 |
 | [[collections/commonplace/The Consciousness Grid.md\|The Consciousness Grid]]                                                                                                 | 2017-10-09 |
@@ -429,13 +429,13 @@ permalink: collections/commonplace
 | [[collections/commonplace/Kierkegaard's Abraham.md\|Kierkegaard's Abraham]]                                                                                                   | 2017-04-10 |
 | [[collections/commonplace/Eurydice.md\|Eurydice]]                                                                                                                             | 2017-04-07 |
 | [[collections/commonplace/The Frankfurt School, Part 4.md\|The Frankfurt School, Part 4]]                                                                                     | 2017-04-07 |
+| [[collections/commonplace/The Frankfurt School, Part 6.md\|The Frankfurt School, Part 6]]                                                                                     | 2017-04-07 |
 | [[collections/commonplace/The Frankfurt School, Part 5.md\|The Frankfurt School, Part 5]]                                                                                     | 2017-04-07 |
 | [[collections/commonplace/The Frankfurt School, Part 7.md\|The Frankfurt School, Part 7]]                                                                                     | 2017-04-07 |
-| [[collections/commonplace/The Frankfurt School, Part 6.md\|The Frankfurt School, Part 6]]                                                                                     | 2017-04-07 |
 | [[collections/commonplace/The Frankfurt School, Part 8.md\|The Frankfurt School, Part 8]]                                                                                     | 2017-04-07 |
 | [[collections/commonplace/The Frankfurt School, Part 1.md\|The Frankfurt School, Part 1]]                                                                                     | 2017-04-06 |
-| [[collections/commonplace/The Frankfurt School, Part 3.md\|The Frankfurt School, Part 3]]                                                                                     | 2017-04-06 |
 | [[collections/commonplace/The Frankfurt School, Part 2.md\|The Frankfurt School, Part 2]]                                                                                     | 2017-04-06 |
+| [[collections/commonplace/The Frankfurt School, Part 3.md\|The Frankfurt School, Part 3]]                                                                                     | 2017-04-06 |
 | [[collections/commonplace/Science Fiction and Jane Austen.md\|Science Fiction and Jane Austen]]                                                                               | 2017-03-30 |
 | [[collections/commonplace/Lacan's Heuristic.md\|Lacan's Heuristic]]                                                                                                           | 2017-03-24 |
 | [[collections/commonplace/Latour and Badiou.md\|Latour and Badiou]]                                                                                                           | 2017-03-23 |
@@ -737,8 +737,8 @@ permalink: collections/commonplace
 | [[collections/commonplace/Radiohead, or the Philosophy of Pop.md\|Radiohead, or the Philosophy of Pop]]                                                                       | 2016-07-26 |
 | [[collections/commonplace/Eightfold Way in Quantum Physics.md\|Eightfold Way in Quantum Physics]]                                                                             | 2016-07-25 |
 | [[collections/commonplace/Feynman Diagrams.md\|Feynman Diagrams]]                                                                                                             | 2016-07-25 |
-| [[collections/commonplace/In Wrath May You Remember Mercy.md\|In Wrath May You Remember Mercy]]                                                                               | 2016-07-25 |
 | [[collections/commonplace/In the Depths of the Digital Age.md\|In the Depths of the Digital Age]]                                                                             | 2016-07-25 |
+| [[collections/commonplace/In Wrath May You Remember Mercy.md\|In Wrath May You Remember Mercy]]                                                                               | 2016-07-25 |
 | [[collections/commonplace/Symbols of Power.md\|Symbols of Power]]                                                                                                             | 2016-07-25 |
 | [[collections/commonplace/Love Machines and the Tinder Bot Bildungsroman.md\|Love Machines and the Tinder Bot Bildungsroman]]                                                 | 2016-07-24 |
 | [[collections/commonplace/Neoliberal Tools (and Archives).md\|Neoliberal Tools (and Archives)]]                                                                               | 2016-07-24 |
@@ -927,8 +927,8 @@ permalink: collections/commonplace
 | [[collections/commonplace/Sunday Morning.md\|Sunday Morning]]                                                                                                                 | 2016-03-10 |
 | [[collections/commonplace/The Anatomy of the Mental Personality.md\|The Anatomy of the Mental Personality]]                                                                   | 2016-03-10 |
 | [[collections/commonplace/The Other Alien in Alien.md\|The Other Alien in Alien]]                                                                                             | 2016-03-10 |
-| [[collections/commonplace/The Searcher of Patterns and the Keeper of Things.md\|The Searcher of Patterns and the Keeper of Things]]                                           | 2016-03-10 |
 | [[collections/commonplace/The Prosaic Sublime of Béla Tarr.md\|The Prosaic Sublime of Béla Tarr]]                                                                             | 2016-03-10 |
+| [[collections/commonplace/The Searcher of Patterns and the Keeper of Things.md\|The Searcher of Patterns and the Keeper of Things]]                                           | 2016-03-10 |
 | [[collections/commonplace/The Time After.md\|The Time After]]                                                                                                                 | 2016-03-10 |
 | [[collections/commonplace/The Triumph of Atheism.md\|The Triumph of Atheism]]                                                                                                 | 2016-03-10 |
 | [[collections/commonplace/What Does Greimas's Semiotic Square Really Do.md\|What Does Greimas's Semiotic Square Really Do]]                                                   | 2016-03-10 |
@@ -1379,8 +1379,8 @@ permalink: collections/commonplace
 | [[collections/commonplace/Giving Life to Every Reality.md\|Giving Life to Every Reality]]                                                                                     | 2015-07-29 |
 | [[collections/commonplace/Devaluing the Dirty War.md\|Devaluing the Dirty War]]                                                                                               | 2015-07-28 |
 | [[collections/commonplace/Amplify the Image With Myth.md\|Amplify the Image With Myth]]                                                                                       | 2015-07-27 |
-| [[collections/commonplace/If Dreams, Why Not the Dreamers.md\|If Dreams, Why Not the Dreamers]]                                                                               | 2015-07-27 |
 | [[collections/commonplace/Images and Faces.md\|Images and Faces]]                                                                                                             | 2015-07-27 |
+| [[collections/commonplace/If Dreams, Why Not the Dreamers.md\|If Dreams, Why Not the Dreamers]]                                                                               | 2015-07-27 |
 | [[collections/commonplace/Inside the Iran Talks.md\|Inside the Iran Talks]]                                                                                                   | 2015-07-27 |
 | [[collections/commonplace/The Last Judgment.md\|The Last Judgment]]                                                                                                           | 2015-07-27 |
 | [[collections/commonplace/To Read the World We Must Read Its Face.md\|To Read the World We Must Read Its Face]]                                                               | 2015-07-27 |
@@ -1849,8 +1849,8 @@ permalink: collections/commonplace
 | [[collections/commonplace/The Adversary.md\|The Adversary]]                                                                                                                   | 2014-05-23 |
 | [[collections/commonplace/The Meaning of Ritual is Deep Indeed.md\|The Meaning of Ritual is Deep Indeed]]                                                                     | 2014-05-23 |
 | [[collections/commonplace/The Short Sentence as Gospel Truth.md\|The Short Sentence as Gospel Truth]]                                                                         | 2014-05-23 |
-| [[collections/commonplace/Touring, Travel, Vacation.md\|Touring, Travel, Vacation]]                                                                                           | 2014-05-23 |
 | [[collections/commonplace/Toward a Universal Theory of Cool.md\|Toward a Universal Theory of Cool]]                                                                           | 2014-05-23 |
+| [[collections/commonplace/Touring, Travel, Vacation.md\|Touring, Travel, Vacation]]                                                                                           | 2014-05-23 |
 | [[collections/commonplace/Unsocial Sociability.md\|Unsocial Sociability]]                                                                                                     | 2014-05-23 |
 | [[collections/commonplace/Weariness.md\|Weariness]]                                                                                                                           | 2014-05-23 |
 | [[collections/commonplace/Jeb Bush.md\|Jeb Bush]]                                                                                                                             | 2014-05-22 |

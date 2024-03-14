@@ -48,6 +48,7 @@ permalink: constellation/games
 | [[constellation/games/Cloudpunk.md\|Cloudpunk]]                                                                 |
 | [[constellation/games/Cocoon.md\|Cocoon]]                                                                       |
 | [[constellation/games/Colossal Cave Adventure.md\|Colossal Cave Adventure]]                                     |
+| [[constellation/games/Compilation of Final Fantasy VII.md\|Compilation of Final Fantasy VII]]                   |
 | [[constellation/games/Contract Bridge.md\|Contract Bridge]]                                                     |
 | [[constellation/games/Control Ultimate Edition.md\|Control Ultimate Edition]]                                   |
 | [[constellation/games/Corru Observer.md\|Corru Observer]]                                                       |
@@ -102,6 +103,8 @@ permalink: constellation/games
 | [[constellation/games/Far Cry 3.md\|Far Cry 3]]                                                                 |
 | [[constellation/games/Fate stay night.md\|Fate stay night]]                                                     |
 | [[constellation/games/Figment Journey Into the Mind.md\|Figment Journey Into the Mind]]                         |
+| [[constellation/games/Final Fantasy Type-0.md\|Final Fantasy Type-0]]                                           |
+| [[constellation/games/Final Fantasy VII Ever Crisis.md\|Final Fantasy VII Ever Crisis]]                         |
 | [[constellation/games/Final Fantasy VII Rebirth.md\|Final Fantasy VII Rebirth]]                                 |
 | [[constellation/games/Final Fantasy VII Remake Intergrade.md\|Final Fantasy VII Remake Intergrade]]             |
 | [[constellation/games/Final Fantasy XIII.md\|Final Fantasy XIII]]                                               |
@@ -189,6 +192,7 @@ permalink: constellation/games
 | [[constellation/games/Never Alone.md\|Never Alone]]                                                             |
 | [[constellation/games/NHL 09.md\|NHL 09]]                                                                       |
 | [[constellation/games/Nier Automata.md\|Nier Automata]]                                                         |
+| [[constellation/games/Nier Reincarnation.md\|Nier Reincarnation]]                                               |
 | [[constellation/games/Nier Replicant ver.1.22474487139….md\|Nier Replicant ver.1.22474487139…]]                 |
 | [[constellation/games/Night in the Woods.md\|Night in the Woods]]                                               |
 | [[constellation/games/Nioh 2 Remastered Complete.md\|Nioh 2 Remastered Complete]]                               |

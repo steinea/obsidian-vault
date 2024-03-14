@@ -11,8 +11,8 @@ permalink: collections/bibliographies
 | [[collections/bibliographies/Oxford Miscellany.md\|Oxford Miscellany]]                     | science     | 2023-11-11 |
 | [[collections/bibliographies/Playground Theory.md\|Playground Theory]]                     | games       | 2023-11-05 |
 | [[collections/bibliographies/Strategic Thought.md\|Strategic Thought]]                     | warfare     | 2023-10-18 |
-| [[collections/bibliographies/The Unique.md\|The Unique]]                                   | philosophy  | 2023-10-18 |
 | [[collections/bibliographies/Thermodynamic Theory.md\|Thermodynamic Theory]]               | philosophy  | 2023-10-18 |
+| [[collections/bibliographies/The Unique.md\|The Unique]]                                   | philosophy  | 2023-10-18 |
 | [[collections/bibliographies/Topological Ontogenesis.md\|Topological Ontogenesis]]         | philosophy  | 2023-10-18 |
 | [[collections/bibliographies/Climate Transformation.md\|Climate Transformation]]           | science     | 2023-09-23 |
 | [[collections/bibliographies/Mystery Fiction.md\|Mystery Fiction]]                         | literature  | 2023-09-04 |
@@ -53,12 +53,12 @@ permalink: collections/bibliographies
 | [[collections/bibliographies/Popular Physics.md\|Popular Physics]]                         | science     | 2022-11-09 |
 | [[collections/bibliographies/Future Visions.md\|Future Visions]]                           | literature  | 2022-10-31 |
 | [[collections/bibliographies/Playful Phenomenology.md\|Playful Phenomenology]]             | games       | 2022-10-12 |
-| [[collections/bibliographies/On Creative Writing.md\|On Creative Writing]]                 | literature  | 2022-09-14 |
 | [[collections/bibliographies/Haiku Studies.md\|Haiku Studies]]                             | literature  | 2022-09-14 |
+| [[collections/bibliographies/On Creative Writing.md\|On Creative Writing]]                 | literature  | 2022-09-14 |
 | [[collections/bibliographies/Patristic Theology.md\|Patristic Theology]]                   | theology    | 2022-09-14 |
 | [[collections/bibliographies/Forcing Landscapes.md\|Forcing Landscapes]]                   | science     | 2022-09-12 |
-| [[collections/bibliographies/Parmenidean Meditations.md\|Parmenidean Meditations]]         | philosophy  | 2022-09-12 |
 | [[collections/bibliographies/Passages of Cognition.md\|Passages of Cognition]]             | philosophy  | 2022-09-12 |
+| [[collections/bibliographies/Parmenidean Meditations.md\|Parmenidean Meditations]]         | philosophy  | 2022-09-12 |
 | [[collections/bibliographies/Design Science.md\|Design Science]]                           | design      | 2022-08-21 |
 | [[collections/bibliographies/Design Theory.md\|Design Theory]]                             | design      | 2022-08-21 |
 | [[collections/bibliographies/New Urbanism.md\|New Urbanism]]                               | design      | 2022-08-21 |
@@ -106,8 +106,8 @@ permalink: collections/bibliographies
 | [[collections/bibliographies/Alternative Engines.md\|Alternative Engines]]                 | games       | 2020-09-19 |
 | [[collections/bibliographies/Postmodern Condition.md\|Postmodern Condition]]               | philosophy  | 2020-08-17 |
 | [[collections/bibliographies/Biblical Commentary.md\|Biblical Commentary]]                 | theology    | 2020-07-21 |
-| [[collections/bibliographies/Conceptual Writing.md\|Conceptual Writing]]                   | literature  | 2020-07-21 |
 | [[collections/bibliographies/Constrained Writing.md\|Constrained Writing]]                 | literature  | 2020-07-21 |
+| [[collections/bibliographies/Conceptual Writing.md\|Conceptual Writing]]                   | literature  | 2020-07-21 |
 | [[collections/bibliographies/Existential Theology.md\|Existential Theology]]               | theology    | 2020-07-21 |
 | [[collections/bibliographies/Systematic Theology.md\|Systematic Theology]]                 | theology    | 2020-07-21 |
 | [[collections/bibliographies/Western Spirituality.md\|Western Spirituality]]               | theology    | 2020-07-21 |

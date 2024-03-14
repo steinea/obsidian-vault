@@ -84,6 +84,8 @@ permalink: constellation/books
 | [[constellation/books/The Dawn of Everything.md\|The Dawn of Everything]]                                                                   | <ul><li>Graeber, David</li><li>Wengrow, David</li></ul>       | 2021 |
 | [[constellation/books/Woke Gaming.md\|Woke Gaming]]                                                                                         | <ul><li>Grey, Kishonna L.</li><li>Leonard, David J.</li></ul> | 2018 |
 | [[constellation/books/Queer Game Studies.md\|Queer Game Studies]]                                                                           | <ul><li>Ruberg, Bonnie</li><li>Shaw, Adrienne</li></ul>       | 2017 |
+| [[constellation/books/Phenomenology in an African Context.md\|Phenomenology in an African Context]]                                         | Abraham Olivier, M. John Lamola, and Justin Sands             | 2023 |
+| [[constellation/books/Merleau-Ponty and Nishida.md\|Merleau-Ponty and Nishida]]                                                             | Adam Loughnane                                                | 2019 |
 | [[constellation/books/Kierkegaard Construction of the Aesthetic.md\|Kierkegaard Construction of the Aesthetic]]                             | Adorno, Theodor W.                                            | 1989 |
 | [[constellation/books/Foundation.md\|Foundation]]                                                                                           | Asimov, Isaac                                                 | 1951 |
 | [[constellation/books/Foundation and Empire.md\|Foundation and Empire]]                                                                     | Asimov, Isaac                                                 | 1952 |
@@ -101,6 +103,8 @@ permalink: constellation/books
 | [[constellation/books/Empiricism and Subjectivity.md\|Empiricism and Subjectivity]]                                                         | Deleuze, Gilles                                               | 1953 |
 | [[constellation/books/My Tiny Life.md\|My Tiny Life]]                                                                                       | Dibbell, Julian                                               | 1999 |
 | [[constellation/books/Deleuze and the History of Mathematics.md\|Deleuze and the History of Mathematics]]                                   | Duffy, Simon                                                  | 2013 |
+| [[constellation/books/Rethinking Interiority.md\|Rethinking Interiority]]                                                                   | Elodie Boublil and Antonio Calcagno                           | 2023 |
+| [[constellation/books/A Theory of Harmony.md\|A Theory of Harmony]]                                                                         | Ernst Levy                                                    | 2024 |
 | [[constellation/books/Ptolemy's Philosophy.md\|Ptolemy's Philosophy]]                                                                       | Feke, Jacqueline                                              | 2018 |
 | [[constellation/books/Truth and Method.md\|Truth and Method]]                                                                               | Gadamer, Hans-Georg                                           | 1960 |
 | [[constellation/books/Time as History.md\|Time as History]]                                                                                 | Grant, George                                                 | 1969 |
@@ -112,6 +116,7 @@ permalink: constellation/books
 | [[constellation/books/Aeneid Book VI.md\|Aeneid Book VI]]                                                                                   | Heaney, Seamus                                                | 2016 |
 | [[constellation/books/Physics and Philosophy.md\|Physics and Philosophy]]                                                                   | Heisenberg, Werner                                            | 1958 |
 | [[constellation/books/The Testament of Cresseid and Seven Fables.md\|The Testament of Cresseid and Seven Fables]]                           | Henryson, Robert                                              | 2009 |
+| [[constellation/books/Phenomenology (Lyotard).md\|Phenomenology (Lyotard)]]                                                                 | Jean-Francois Lyotard                                         | 1991 |
 | [[constellation/books/The Eye of the World.md\|The Eye of the World]]                                                                       | Jordan, Robert                                                | 1990 |
 | [[constellation/books/The Great Hunt.md\|The Great Hunt]]                                                                                   | Jordan, Robert                                                | 1990 |
 | [[constellation/books/The Dragon Reborn.md\|The Dragon Reborn]]                                                                             | Jordan, Robert                                                | 1991 |
@@ -119,6 +124,7 @@ permalink: constellation/books
 | [[constellation/books/The Fires of Heaven.md\|The Fires of Heaven]]                                                                         | Jordan, Robert                                                | 1993 |
 | [[constellation/books/The Formation of Gaming Culture.md\|The Formation of Gaming Culture]]                                                 | Kirkpatrick, Graeme                                           | 2015 |
 | [[constellation/books/Coin-Operated Americans.md\|Coin-Operated Americans]]                                                                 | Kocurek, Carly A.                                             | 2015 |
+| [[constellation/books/Passive Voices.md\|Passive Voices]]                                                                                   | Kristina Mendicino                                            | 2023 |
 | [[constellation/books/Because Without Cause.md\|Because Without Cause]]                                                                     | Lange, Marc                                                   | 2016 |
 | [[constellation/books/A Biography of Ordinary Man.md\|A Biography of Ordinary Man]]                                                         | Laruelle, François                                            | 1985 |
 | [[constellation/books/Philosophies of Difference.md\|Philosophies of Difference]]                                                           | Laruelle, François                                            | 1986 |
@@ -127,6 +133,7 @@ permalink: constellation/books
 | [[constellation/books/Interpreting the Universe.md\|Interpreting the Universe]]                                                             | Macmurray, John                                               | 1933 |
 | [[constellation/books/Blood of the Celts.md\|Blood of the Celts]]                                                                           | Manco, Jean                                                   | 2015 |
 | [[constellation/books/Wolf Hall.md\|Wolf Hall]]                                                                                             | Mantel, Hilary                                                | 2009 |
+| [[constellation/books/The Flesh of Images.md\|The Flesh of Images]]                                                                         | Mauro Carbone                                                 | 2015 |
 | [[constellation/books/Frolic and Detour.md\|Frolic and Detour]]                                                                             | Muldoon, Paul                                                 | 2022 |
 | [[constellation/books/Toward an Army of Ghosts.md\|Toward an Army of Ghosts]]                                                               | Nomad, Tom                                                    | 2017 |
 | [[constellation/books/Owls and Other Fantasies.md\|Owls and Other Fantasies]]                                                               | Oliver, Mary                                                  | 2003 |
@@ -134,6 +141,8 @@ permalink: constellation/books
 | [[constellation/books/Red Bird.md\|Red Bird]]                                                                                               | Oliver, Mary                                                  | 2009 |
 | [[constellation/books/Gamer Trouble.md\|Gamer Trouble]]                                                                                     | Phillips, Amanda                                              | 2020 |
 | [[constellation/books/The Tacit Dimension.md\|The Tacit Dimension]]                                                                         | Polanyi, Michael                                              | 1966 |
+| [[constellation/books/Merleau-Ponty between Philosophy and Symbolism.md\|Merleau-Ponty between Philosophy and Symbolism]]                   | Rajiv Kaushik                                                 | 2019 |
+| [[constellation/books/Action, Embodied Mind, and Life World.md\|Action, Embodied Mind, and Life World]]                                     | Ralph D. Ellis                                                | 2023 |
 | [[constellation/books/Who We Are and How We Got Here.md\|Who We Are and How We Got Here]]                                                   | Reich, David                                                  | 2018 |
 | [[constellation/books/A Short History of the World.md\|A Short History of the World]]                                                       | Roberts, John Morris                                          | 1997 |
 | [[constellation/books/Intentionality and the Myths of the Given.md\|Intentionality and the Myths of the Given]]                             | Sachs, Carl B.                                                | 2014 |
