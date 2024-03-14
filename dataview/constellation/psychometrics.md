@@ -3,6 +3,6 @@ permalink: constellation/psychometrics
 ---
 
 
-| File                                                                  | Date |
-| --------------------------------------------------------------------- | ---- |
-| [[constellation/psychometrics/CliftonStrengths.md\|CliftonStrengths]] | \-   |
+| File                                                                  |
+| --------------------------------------------------------------------- |
+| [[constellation/psychometrics/CliftonStrengths.md\|CliftonStrengths]] |
