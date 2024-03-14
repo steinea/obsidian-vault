@@ -5,8 +5,8 @@ permalink: collections/bibliographies
 
 | File                                                                                       | Category    | Date       |
 | ------------------------------------------------------------------------------------------ | ----------- | ---------- |
-| [[collections/bibliographies/Human Origins.md\|Human Origins]]                             | \-          | 2024-02-16 |
-| [[collections/bibliographies/Play and Gender.md\|Play and Gender]]                         | \-          | 2024-02-13 |
+| [[collections/bibliographies/Human Origins.md\|Human Origins]]                             | science     | 2024-02-16 |
+| [[collections/bibliographies/Play and Gender.md\|Play and Gender]]                         | games       | 2024-02-13 |
 | [[collections/bibliographies/Math Miscellany.md\|Math Miscellany]]                         | science     | 2023-11-13 |
 | [[collections/bibliographies/Oxford Miscellany.md\|Oxford Miscellany]]                     | science     | 2023-11-11 |
 | [[collections/bibliographies/Playground Theory.md\|Playground Theory]]                     | games       | 2023-11-05 |
@@ -71,7 +71,7 @@ permalink: collections/bibliographies
 | [[collections/bibliographies/Historical Theology.md\|Historical Theology]]                 | theology    | 2022-07-21 |
 | [[collections/bibliographies/Jewish Theology.md\|Jewish Theology]]                         | theology    | 2022-07-21 |
 | [[collections/bibliographies/Mystical Theology.md\|Mystical Theology]]                     | theology    | 2022-07-21 |
-| [[collections/bibliographies/Accessibility.md\|Accessibility]]                             | Design      | 2022-06-25 |
+| [[collections/bibliographies/Accessibility.md\|Accessibility]]                             | design      | 2022-06-25 |
 | [[collections/bibliographies/Playful Formalisms.md\|Playful Formalisms]]                   | games       | 2022-06-19 |
 | [[collections/bibliographies/Fantasy Theory.md\|Fantasy Theory]]                           | literature  | 2022-06-11 |
 | [[collections/bibliographies/Prayer Poetics.md\|Prayer Poetics]]                           | literature  | 2022-06-11 |
@@ -85,7 +85,7 @@ permalink: collections/bibliographies
 | [[collections/bibliographies/Old School Renaissance.md\|Old School Renaissance]]           | games       | 2022-02-16 |
 | [[collections/bibliographies/On Dark Souls.md\|On Dark Souls]]                             | games       | 2022-02-10 |
 | [[collections/bibliographies/Indo-European.md\|Indo-European]]                             | linguistics | 2022-01-22 |
-| [[collections/bibliographies/Constructor Theory.md\|Constructor Theory]]                   | Science     | 2021-12-31 |
+| [[collections/bibliographies/Constructor Theory.md\|Constructor Theory]]                   | science     | 2021-12-31 |
 | [[collections/bibliographies/Art-Science.md\|Art-Science]]                                 | philosophy  | 2021-11-13 |
 | [[collections/bibliographies/Difficult Fiction.md\|Difficult Fiction]]                     | literature  | 2021-11-13 |
 | [[collections/bibliographies/Occasionalism.md\|Occasionalism]]                             | philosophy  | 2021-11-13 |
