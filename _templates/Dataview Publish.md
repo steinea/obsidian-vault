@@ -85,17 +85,17 @@ const queries = [
   },
   {
     title: "Playing Now",
-    query: 'TABLE WITHOUT ID file.link AS "Playing", platform AS Platform, duration.hours AS "Hours", trophies AS Trophies FROM "constellation/games" WHERE progress = "now" SORT duration DESC',
+    query: 'TABLE WITHOUT ID file.link AS "Now Playing", platform AS Platform, duration.hours AS "Hours", trophies AS Trophies FROM "constellation/games" WHERE progress = "now" SORT duration DESC',
     content: `---\npermalink: activity/playing/now\n---\n`,
   },
   {
     title: "Playing Next",
-    query: 'TABLE WITHOUT ID file.link AS "Library", platform AS Platform, howlongtobeat.hours AS "Hours" FROM "constellation/games" WHERE progress = "next" SORT platform, howlongtobeat ASC',
+    query: 'TABLE WITHOUT ID file.link AS "Next to Play", platform AS Platform, howlongtobeat.hours AS "Hours" FROM "constellation/games" WHERE progress = "next" SORT platform, howlongtobeat ASC',
     content: `---\npermalink: activity/playing/next\n---\n`,
   },
   {
     title: "Playing Completed",
-    query: 'TABLE WITHOUT ID file.link AS "Played", duration.hours AS "Hours", trophies AS Trophies, percent AS "★", date AS Date FROM "constellation/games" WHERE progress = "complete" OR progress = "stopped" SORT date DESC',
+    query: 'TABLE WITHOUT ID file.link AS "Completed and Stopped", duration.hours AS "Hours", trophies AS Trophies, percent AS "★", date AS Date FROM "constellation/games" WHERE progress = "complete" OR progress = "stopped" SORT date DESC',
     content: `---\npermalink: activity/playing/completed\n---\n`,
   },
   {
