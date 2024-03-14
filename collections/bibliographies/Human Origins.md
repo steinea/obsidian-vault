@@ -1,7 +1,7 @@
 ---
 title: Human Origins
 date: 2024-02-16
-category: 
+category: science
 permalink: 2024/02/16/human-origins
 ---
 

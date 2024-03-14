@@ -3,7 +3,7 @@ layout: post
 category: bibliography
 title: Constructor Theory
 date: 2021-12-31
-category: Science
+category: science
 permalink: 2021/12/31/constructor-theory
 ---
 

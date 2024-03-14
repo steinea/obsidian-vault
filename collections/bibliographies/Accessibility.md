@@ -3,7 +3,7 @@ layout: post
 category: bibliography
 title: Accessibility
 date: 2022-06-25
-category: Design
+category: design
 permalink: 2022/06/25/accessibility
 ---
 
