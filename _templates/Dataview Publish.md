@@ -442,6 +442,6 @@ await queries.forEach(async (el) => {
 });
 openPublishPanel();
 
-// Credit to Joschua Drescher,  https://joschua.io/posts/2023/09/01/obsidian-publish-dataview/, for this solution. Joschua was also kind enough to provide me with a modification via email to include content before the dataview query table, allowing me to set permalinks, as seen above. Thanks Joschua!
+// Credit to Joschua,  https://joschua.io/posts/2023/09/01/obsidian-publish-dataview/, for this solution. Joschua was also kind enough to provide me with a modification via email to include content before the dataview query table, allowing me to set permalinks, as seen above. Thanks Joschua!
 
 %>
