@@ -5,6 +5,7 @@ permalink: constellation/collectives
 
 | File                                                                          |
 | ----------------------------------------------------------------------------- |
+| [[constellation/collectives/Analog Sea.md\|Analog Sea]]                       |
 | [[constellation/collectives/Domino Club.md\|Domino Club]]                     |
 | [[constellation/collectives/Gamma Space.md\|Gamma Space]]                     |
 | [[constellation/collectives/Lore Hunters.md\|Lore Hunters]]                   |
