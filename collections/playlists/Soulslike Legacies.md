@@ -4,8 +4,6 @@ date: 2024-01-11
 permalink: 2024/01/11/soulslike-legacies
 ---
 
-# Soulslike Legacies
-
 [[Playlists]]
 
 1. [[Titan Souls]], 2015-04-14

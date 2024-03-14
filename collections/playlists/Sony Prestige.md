@@ -4,8 +4,6 @@ date:
 permalink: 
 ---
 
-# Sony Prestige
-
 [[Playlists]]
 
 * [[Death Stranding]], 2019-11-08

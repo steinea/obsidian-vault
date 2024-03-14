@@ -4,8 +4,6 @@ date: 2024-02-26
 permalink: 2024/02/26/castlevania-continuity
 ---
 
-# Castlevania Continuity
-
 [[Playlists]]
 
 #### Timeline

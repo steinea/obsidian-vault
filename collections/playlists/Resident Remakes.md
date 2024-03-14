@@ -4,8 +4,6 @@ date:
 permalink: 
 ---
 
-# Resident Remakes
-
 [[Playlists]]
 
 * [[Resident Evil Origins Collection]]

@@ -4,8 +4,6 @@ date: 2022-09-12
 permalink: 2022/09/12/roleplaying-games
 ---
 
-# Roleplaying Games
-
 [[Playlists]]
 
 1. Blizzard, [[Diablo]], 1997-01-03

@@ -4,8 +4,6 @@ date: 2024-02-26
 permalink: 2024/02/26/nintendo-fantasy
 ---
 
-# Nintendo Fantasy
-
 [[Playlists]]
 
 * [[Xenoblade Chronicles Definitive Edition]], 2010-06-10
