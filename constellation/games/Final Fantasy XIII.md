@@ -16,8 +16,6 @@ date:
 permalink: 
 ---
 
-# Final Fantasy XIII
-
 [[Games]] / [[Square Enix]] / [[PS3]] / [[2009]]
 
 Director: [[Motomu Toriyama]]
