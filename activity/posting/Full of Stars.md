@@ -10,9 +10,7 @@ twitter: https://twitter.com/steinea/status/1726336188758491467
 permalink: 2023/11/19/full-of-stars
 ---
 
-# Full of Stars
-
-[[2023]] / [[Posting]]
+[[2023]] • [[Posting]]
 
 "Every sky is full of stars ... 'Daytime' is us closing our eyes and pretending it makes infinity go away"
 
