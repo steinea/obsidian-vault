@@ -27,6 +27,11 @@ const queries = [
     query: 'LIST FROM "dataview/constellation" SORT file.name ASC',
     content: `---\npermalink: constellation\n---\n`,
   },
+  {
+    title: "Timeline",
+    query: 'LIST FROM "dataview/timeline" SORT file.name ASC',
+    content: `---\npermalink: timeline\n---\n`,
+  },
 
 // About
 
