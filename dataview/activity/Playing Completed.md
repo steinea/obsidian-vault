@@ -3,9 +3,10 @@ permalink: activity/playing/completed
 ---
 
 
-| Played                                                                                    | Hours | Trophies | ★   | Date       |
+| Completed and Stopped                                                                     | Hours | Trophies | ★   | Date       |
 | ----------------------------------------------------------------------------------------- | ----- | -------- | --- | ---------- |
-| [[constellation/games/Golf Club Nostalgia.md\|Golf Club Nostalgia]]                       | 9     | 26/28    | ★   | 2024-03-04 |
+| [[constellation/games/The Cub.md\|The Cub]]                                               | 5     | 20/20    | ★   | 2024-03-07 |
+| [[constellation/games/Golf Club Nostalgia.md\|Golf Club Nostalgia]]                       | 9     | 28/28    | ★   | 2024-03-04 |
 | [[constellation/games/Alto's Odyssey.md\|Alto's Odyssey]]                                 | 17    | 20/22    | 90% | 2024-02-29 |
 | [[constellation/games/EA SPORTS FC 24.md\|EA SPORTS FC 24]]                               | 48    | 27/41    | 65% | 2024-02-26 |
 | [[constellation/games/Starfield.md\|Starfield]]                                           | 104   | 50/50    | ★   | 2024-02-25 |

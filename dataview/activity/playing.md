@@ -19,9 +19,13 @@ permalink: activity/playing
 
 ### Backlog
 
-#### Library
+#### Next
 
 ![[Playing Next]]
+
+#### Shortest
+
+![[Playing Shortest]]
 
 <p><br></p>
 

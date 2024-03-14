@@ -13,5 +13,5 @@ permalink: activity/playing/shortest
 | [[constellation/games/Alba A Wildlife Adventure.md\|Alba A Wildlife Adventure]]                     | Steam    | 4     |
 | [[constellation/games/Somerville.md\|Somerville]]                                                   | Xbox     | 4     |
 | [[constellation/games/South of the Circle.md\|South of the Circle]]                                 | Steam    | 4     |
-| [[constellation/games/The Cub.md\|The Cub]]                                                         | PS5      | 4     |
 | [[constellation/games/Astro's Playroom.md\|Astro's Playroom]]                                       | PS5      | 5     |
+| [[constellation/games/Cocoon.md\|Cocoon]]                                                           | Xbox     | 5     |

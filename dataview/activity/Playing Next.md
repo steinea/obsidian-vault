@@ -3,14 +3,13 @@ permalink: activity/playing/next
 ---
 
 
-| Library                                                                                               | Platform | Hours |
+| Next to Play                                                                                          | Platform | Hours |
 | ----------------------------------------------------------------------------------------------------- | -------- | ----- |
 | [[constellation/games/Crawl.md\|Crawl]]                                                               | PS4      | 15    |
 | [[constellation/games/Uncharted 3 Remastered.md\|Uncharted 3 Remastered]]                             | PS4      | 20    |
 | [[constellation/games/The Last Guardian.md\|The Last Guardian]]                                       | PS4      | 26    |
 | [[constellation/games/Nier Automata.md\|Nier Automata]]                                               | PS4      | 62    |
 | [[constellation/games/Nier Replicant ver.1.22474487139….md\|Nier Replicant ver.1.22474487139…]]       | PS4      | 69    |
-| [[constellation/games/The Cub.md\|The Cub]]                                                           | PS5      | 4     |
 | [[constellation/games/Astro's Playroom.md\|Astro's Playroom]]                                         | PS5      | 5     |
 | [[constellation/games/Endling Extinction is Forever.md\|Endling Extinction is Forever]]               | PS5      | 6     |
 | [[constellation/games/Solar Ash.md\|Solar Ash]]                                                       | PS5      | 9     |

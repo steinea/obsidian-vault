@@ -3,7 +3,7 @@ permalink: activity/playing/now
 ---
 
 
-| Playing                                                                   | Platform | Hours | Trophies |
+| Now Playing                                                               | Platform | Hours | Trophies |
 | ------------------------------------------------------------------------- | -------- | ----- | -------- |
 | [[constellation/games/Halo Infinite.md\|Halo Infinite]]                   | Xbox     | 313   | 131/144  |
 | [[constellation/games/Dragon Age Inquisition.md\|Dragon Age Inquisition]] | PS4      | 267   | 59/70    |
