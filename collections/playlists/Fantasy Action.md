@@ -25,16 +25,17 @@ permalink: 2024/02/21/fantasy-action
 13. [[YoRHa Dark Apocalypse]], 2019-10-29
 14. [[Nioh 2 Remastered Complete]], 2020-03-12
 15. [[Final Fantasy VII Remake Intergrade]], 2020-04-10
-16. [[Stranger of Paradise Final Fantasy Origin]], 2022-03-14
-17. [[Crisis Core Final Fantasy VII Reunion]], 2022-12-13
-18. [[Forspoken]], 2023-01-24
-19. [[Wo Long Fallen Dynasty]], 2023-03-03
-20. [[Final Fantasy XVI]], 2023-06-22
-21. [[Final Fantasy VII Ever Crisis]], 2023-09-07
-22. [[Final Fantasy VII Rebirth]], 2024-02-29
-23. [[Rise of the Ronin]], 2024-03-22
-24. [[Dragon's Dogma 2]], 2024-03-22
-25. [[Stellar Blade]], 2024-04-26
+16. [[Nier Reincarnation]], 2021-02-18
+17. [[Stranger of Paradise Final Fantasy Origin]], 2022-03-14
+18. [[Crisis Core Final Fantasy VII Reunion]], 2022-12-13
+19. [[Forspoken]], 2023-01-24
+20. [[Wo Long Fallen Dynasty]], 2023-03-03
+21. [[Final Fantasy XVI]], 2023-06-22
+22. [[Final Fantasy VII Ever Crisis]], 2023-09-07
+23. [[Final Fantasy VII Rebirth]], 2024-02-29
+24. [[Rise of the Ronin]], 2024-03-22
+25. [[Dragon's Dogma 2]], 2024-03-22
+26. [[Stellar Blade]], 2024-04-26
 
 
 <p><br></p>
@@ -73,6 +74,7 @@ NIERRV(["Nier Replicant ver.1.22474487139…"])
 DG3(["Drakengard 3"])
 NIERA(["Nier Automata"])
 YORHADA(["YoRHa Dark Apocalypse"])
+NIERRE(["Nier Reincarnation"])
 
 STELLAR(["Stellar Blade"])
 
@@ -84,12 +86,12 @@ DDDA -.-> DMC5SE -.-> FFXVI
 
 DDDA --> DD2
 
-NIERRV --> DG3 --> NIERA --> YORHADA
+NIERRV --> DG3 --> NIERA --> YORHADA --> NIERRE 
 
 FFXVRE -.-> FRSPKN
 
 NIERA -.-> STELLAR
 
-class FFXIII,FFXIII2,LRFFXIII,FFXVRE,FFVIIRI,CCFFVIIR,NIOH,NIOH2,SOPFFO,WLFD,DDDA,DMC5SE,FFXVI,FFVIIR,ROTR,FFXIVO,DG3,NIERRV,NIERA,YORHADA,DD2,FRSPKN,STELLAR,FFVIIEC,FFT0 internal-link;
+class FFXIII,FFXIII2,LRFFXIII,FFXVRE,FFVIIRI,CCFFVIIR,NIOH,NIOH2,SOPFFO,WLFD,DDDA,DMC5SE,FFXVI,FFVIIR,ROTR,FFXIVO,DG3,NIERRV,NIERA,YORHADA,DD2,FRSPKN,STELLAR,FFVIIEC,FFT0,NIERRE internal-link;
 
 ```
