@@ -123,6 +123,7 @@ permalink: constellation/books
 | [[constellation/books/Between Copernicus and Galileo.md\|Between Copernicus and Galileo]]                                                   | James M. Lattis                                               | 1994 |
 | [[constellation/books/The Structure of Perceptual Experience.md\|The Structure of Perceptual Experience]]                                   | James Stazicker                                               | 2015 |
 | [[constellation/books/Phenomenology (Lyotard).md\|Phenomenology (Lyotard)]]                                                                 | Jean-Francois Lyotard                                         | 1991 |
+| [[constellation/books/Dying of Whiteness.md\|Dying of Whiteness]]                                                                           | Jonathan M. Metzl                                             | 2019 |
 | [[constellation/books/The Eye of the World.md\|The Eye of the World]]                                                                       | Jordan, Robert                                                | 1990 |
 | [[constellation/books/The Great Hunt.md\|The Great Hunt]]                                                                                   | Jordan, Robert                                                | 1990 |
 | [[constellation/books/The Dragon Reborn.md\|The Dragon Reborn]]                                                                             | Jordan, Robert                                                | 1991 |
@@ -133,6 +134,9 @@ permalink: constellation/books
 | [[constellation/books/Geometry of Design.md\|Geometry of Design]]                                                                           | Kimberly Elam                                                 | 2011 |
 | [[constellation/books/The Formation of Gaming Culture.md\|The Formation of Gaming Culture]]                                                 | Kirkpatrick, Graeme                                           | 2015 |
 | [[constellation/books/Coin-Operated Americans.md\|Coin-Operated Americans]]                                                                 | Kocurek, Carly A.                                             | 2015 |
+| [[constellation/books/Communal Luxury.md\|Communal Luxury]]                                                                                 | Kristin Ross                                                  | 2016 |
+| [[constellation/books/The Politics and Poetics of Everyday Life.md\|The Politics and Poetics of Everyday Life]]                             | Kristin Ross                                                  | 2023 |
+| [[constellation/books/The Commune Form.md\|The Commune Form]]                                                                               | Kristin Ross                                                  | 2024 |
 | [[constellation/books/Passive Voices.md\|Passive Voices]]                                                                                   | Kristina Mendicino                                            | 2023 |
 | [[constellation/books/Because Without Cause.md\|Because Without Cause]]                                                                     | Lange, Marc                                                   | 2016 |
 | [[constellation/books/A Biography of Ordinary Man.md\|A Biography of Ordinary Man]]                                                         | Laruelle, François                                            | 1985 |
@@ -143,9 +147,11 @@ permalink: constellation/books
 | [[constellation/books/The Book of Dialogue.md\|The Book of Dialogue]]                                                                       | Lewis Turco                                                   | 2020 |
 | [[constellation/books/The Book of Forms.md\|The Book of Forms]]                                                                             | Lewis Turco                                                   | 2020 |
 | [[constellation/books/The Book of Literary Terms.md\|The Book of Literary Terms]]                                                           | Lewis Turco                                                   | 2020 |
+| [[constellation/books/Translating Blackness.md\|Translating Blackness]]                                                                     | Lorgia García Peña                                            | 2022 |
 | [[constellation/books/Interpreting the Universe.md\|Interpreting the Universe]]                                                             | Macmurray, John                                               | 1933 |
 | [[constellation/books/Blood of the Celts.md\|Blood of the Celts]]                                                                           | Manco, Jean                                                   | 2015 |
 | [[constellation/books/Wolf Hall.md\|Wolf Hall]]                                                                                             | Mantel, Hilary                                                | 2009 |
+| [[constellation/books/A New Anatomy of Storyworlds.md\|A New Anatomy of Storyworlds]]                                                       | Marie-Laure Ryan                                              | 2022 |
 | [[constellation/books/Storyworlds Across Media.md\|Storyworlds Across Media]]                                                               | Marie-Laure Ryan and Jan-Noël Thon                            | 2014 |
 | [[constellation/books/The Flesh of Images.md\|The Flesh of Images]]                                                                         | Mauro Carbone                                                 | 2015 |
 | [[constellation/books/Frolic and Detour.md\|Frolic and Detour]]                                                                             | Muldoon, Paul                                                 | 2022 |
