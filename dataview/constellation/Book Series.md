@@ -27,4 +27,4 @@ permalink: constellation/book-series
 | [[constellation/bookseries/Routledge Advances in Game Studies.md\|Routledge Advances in Game Studies]]                               |
 | [[constellation/bookseries/University of Chicago Press Replay.md\|University of Chicago Press Replay]]                               |
 | [[constellation/bookseries/University of Michigan Press Landmark Video Games.md\|University of Michigan Press Landmark Video Games]] |
-| [[constellation/bookseries/Vienna Circle Collection.md\|Vienna Circle Collection]]                                                   |
+| [[Springer Vienna Circle Collection|Vienna Circle Collection]]                                                   |
