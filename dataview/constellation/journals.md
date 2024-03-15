@@ -70,6 +70,7 @@ permalink: constellation/journals
 | [[constellation/journals/Science Fiction Writers of America Bulletin.md\|Science Fiction Writers of America Bulletin]]                                         |
 | [[constellation/journals/Simulation and Gaming.md\|Simulation and Gaming]]                                                                                     |
 | [[constellation/journals/Society for the Promotion of Adventure Games Magazine.md\|Society for the Promotion of Adventure Games Magazine]]                     |
+| [[constellation/journals/Storyworlds A Journal of Narrative Studies.md\|Storyworlds A Journal of Narrative Studies]]                                           |
 | [[constellation/journals/Studia Neophilologica.md\|Studia Neophilologica]]                                                                                     |
 | [[constellation/journals/Studies in the Fantastic.md\|Studies in the Fantastic]]                                                                               |
 | [[constellation/journals/Studies in the Literary Imagination.md\|Studies in the Literary Imagination]]                                                         |

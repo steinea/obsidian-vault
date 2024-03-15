@@ -13,8 +13,10 @@ permalink: constellation/concepts
 | [[constellation/concepts/Aten.md\|Aten]]                                               |
 | [[constellation/concepts/Celts.md\|Celts]]                                             |
 | [[constellation/concepts/Communes in Outer Space.md\|Communes in Outer Space]]         |
+| [[constellation/concepts/Desert Racing.md\|Desert Racing]]                             |
 | [[constellation/concepts/Fantasy.md\|Fantasy]]                                         |
 | [[constellation/concepts/Feigenbaum Constants.md\|Feigenbaum Constants]]               |
+| [[constellation/concepts/Game Studies.md\|Game Studies]]                               |
 | [[constellation/concepts/Hermeneutics.md\|Hermeneutics]]                               |
 | [[constellation/concepts/Historical Fiction.md\|Historical Fiction]]                   |
 | [[constellation/concepts/Historiography.md\|Historiography]]                           |

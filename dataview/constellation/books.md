@@ -87,9 +87,12 @@ permalink: constellation/books
 | [[constellation/books/Phenomenology in an African Context.md\|Phenomenology in an African Context]]                                         | Abraham Olivier, M. John Lamola, and Justin Sands             | 2023 |
 | [[constellation/books/Merleau-Ponty and Nishida.md\|Merleau-Ponty and Nishida]]                                                             | Adam Loughnane                                                | 2019 |
 | [[constellation/books/Kierkegaard Construction of the Aesthetic.md\|Kierkegaard Construction of the Aesthetic]]                             | Adorno, Theodor W.                                            | 1989 |
+| [[constellation/books/The Player's Power to Change the Game.md\|The Player's Power to Change the Game]]                                     | Anne-Marie Schleiner                                          | \-   |
 | [[constellation/books/Foundation.md\|Foundation]]                                                                                           | Asimov, Isaac                                                 | 1951 |
 | [[constellation/books/Foundation and Empire.md\|Foundation and Empire]]                                                                     | Asimov, Isaac                                                 | 1952 |
 | [[constellation/books/Second Foundation.md\|Second Foundation]]                                                                             | Asimov, Isaac                                                 | 1953 |
+| [[constellation/books/On Tactics.md\|On Tactics]]                                                                                           | B. A. Friedman                                                | 2020 |
+| [[constellation/books/On Operations.md\|On Operations]]                                                                                     | B. A. Friedman                                                | 2021 |
 | [[constellation/books/Kierkegaard, Pietism and Holiness.md\|Kierkegaard, Pietism and Holiness]]                                             | Barnett, Christopher B.                                       | 2016 |
 | [[constellation/books/Mythologies.md\|Mythologies]]                                                                                         | Barthes, Roland                                               | 1957 |
 | [[constellation/books/The Location of Culture.md\|The Location of Culture]]                                                                 | Bhabha, Homi K.                                               | 1994 |
@@ -116,6 +119,8 @@ permalink: constellation/books
 | [[constellation/books/Aeneid Book VI.md\|Aeneid Book VI]]                                                                                   | Heaney, Seamus                                                | 2016 |
 | [[constellation/books/Physics and Philosophy.md\|Physics and Philosophy]]                                                                   | Heisenberg, Werner                                            | 1958 |
 | [[constellation/books/The Testament of Cresseid and Seven Fables.md\|The Testament of Cresseid and Seven Fables]]                           | Henryson, Robert                                              | 2009 |
+| [[constellation/books/The Players' Realm.md\|The Players' Realm]]                                                                           | J. Patrick Williams and Jonas Heide Smith                     | 2007 |
+| [[constellation/books/Between Copernicus and Galileo.md\|Between Copernicus and Galileo]]                                                   | James M. Lattis                                               | 1994 |
 | [[constellation/books/The Structure of Perceptual Experience.md\|The Structure of Perceptual Experience]]                                   | James Stazicker                                               | 2015 |
 | [[constellation/books/Phenomenology (Lyotard).md\|Phenomenology (Lyotard)]]                                                                 | Jean-Francois Lyotard                                         | 1991 |
 | [[constellation/books/The Eye of the World.md\|The Eye of the World]]                                                                       | Jordan, Robert                                                | 1990 |
@@ -123,6 +128,8 @@ permalink: constellation/books
 | [[constellation/books/The Dragon Reborn.md\|The Dragon Reborn]]                                                                             | Jordan, Robert                                                | 1991 |
 | [[constellation/books/The Shadow Rising.md\|The Shadow Rising]]                                                                             | Jordan, Robert                                                | 1992 |
 | [[constellation/books/The Fires of Heaven.md\|The Fires of Heaven]]                                                                         | Jordan, Robert                                                | 1993 |
+| [[constellation/books/Grid Systems.md\|Grid Systems]]                                                                                       | Kimberly Elam                                                 | 2004 |
+| [[constellation/books/Geometry of Design.md\|Geometry of Design]]                                                                           | Kimberly Elam                                                 | 2011 |
 | [[constellation/books/The Formation of Gaming Culture.md\|The Formation of Gaming Culture]]                                                 | Kirkpatrick, Graeme                                           | 2015 |
 | [[constellation/books/Coin-Operated Americans.md\|Coin-Operated Americans]]                                                                 | Kocurek, Carly A.                                             | 2015 |
 | [[constellation/books/Passive Voices.md\|Passive Voices]]                                                                                   | Kristina Mendicino                                            | 2023 |
@@ -154,4 +161,6 @@ permalink: constellation/books
 | [[constellation/books/The Content of the Form.md\|The Content of the Form]]                                                                 | White, Hayden                                                 | 1987 |
 | [[constellation/books/Process and Reality.md\|Process and Reality]]                                                                         | Whitehead, Alfred North                                       | 1927 |
 | [[constellation/books/Classes.md\|Classes]]                                                                                                 | Wright, Erik Olin                                             | 1985 |
+| [[constellation/books/Recursivity and Contingency.md\|Recursivity and Contingency]]                                                         | Yuk Hui                                                       | 2019 |
+| [[constellation/books/Art and Cosmotechnics.md\|Art and Cosmotechnics]]                                                                     | Yuk Hui                                                       | 2020 |
 | [[constellation/books/The Fortune of the Rougons.md\|The Fortune of the Rougons]]                                                           | Zola, Émile                                                   | 1871 |

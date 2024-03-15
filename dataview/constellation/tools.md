@@ -48,6 +48,7 @@ permalink: constellation/tools
 | [[constellation/tools/tes3cmd.md\|tes3cmd]]                                               |
 | [[constellation/tools/UI Expansion.md\|UI Expansion]]                                     |
 | [[constellation/tools/Unicode Adopt.md\|Unicode Adopt]]                                   |
+| [[constellation/tools/Utterances.md\|Utterances]]                                         |
 | [[constellation/tools/Web of Science.md\|Web of Science]]                                 |
 | [[constellation/tools/Wrye Mash Polemos Fork.md\|Wrye Mash Polemos Fork]]                 |
 | [[constellation/tools/Yamaha Tenori-On.md\|Yamaha Tenori-On]]                             |

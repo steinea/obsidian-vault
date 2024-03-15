@@ -5,6 +5,7 @@ permalink: constellation/book-series
 
 | File                                                                                                                                 |
 | ------------------------------------------------------------------------------------------------------------------------------------ |
+| [[constellation/bookseries/Amsterdam University Press Games and Play.md\|Amsterdam University Press Games and Play]]                 |
 | [[constellation/bookseries/Bitmap Books.md\|Bitmap Books]]                                                                           |
 | [[constellation/bookseries/Bloomsbury Approaches to Digital Game Studies.md\|Bloomsbury Approaches to Digital Game Studies]]         |
 | [[constellation/bookseries/Bloomsbury Influential Video Game Designers.md\|Bloomsbury Influential Video Game Designers]]             |
@@ -25,6 +26,6 @@ permalink: constellation/book-series
 | [[constellation/bookseries/MIT Press Game Histories.md\|MIT Press Game Histories]]                                                   |
 | [[constellation/bookseries/Palgrave Games in Context.md\|Palgrave Games in Context]]                                                 |
 | [[constellation/bookseries/Routledge Advances in Game Studies.md\|Routledge Advances in Game Studies]]                               |
+| [[constellation/bookseries/Springer Vienna Circle Collection.md\|Springer Vienna Circle Collection]]                                 |
 | [[constellation/bookseries/University of Chicago Press Replay.md\|University of Chicago Press Replay]]                               |
 | [[constellation/bookseries/University of Michigan Press Landmark Video Games.md\|University of Michigan Press Landmark Video Games]] |
-| [[Springer Vienna Circle Collection|Vienna Circle Collection]]                                                   |

@@ -32,6 +32,7 @@ permalink: collections/commonplace
 | [[collections/commonplace/The Ironic Radical.md\|The Ironic Radical]]                                                                                                         | 2023-12-11 |
 | [[collections/commonplace/The Whiteness of Board Games.md\|The Whiteness of Board Games]]                                                                                     | 2023-12-11 |
 | [[collections/commonplace/Foundational Anxieties.md\|Foundational Anxieties]]                                                                                                 | 2023-12-09 |
+| [[collections/commonplace/Skill-Based Matchmaking.md\|Skill-Based Matchmaking]]                                                                                               | 2023-11-22 |
 | [[collections/commonplace/Microfinance Preys on the Global Poor.md\|Microfinance Preys on the Global Poor]]                                                                   | 2023-10-20 |
 | [[collections/commonplace/From Gender Critical to QAnon.md\|From Gender Critical to QAnon]]                                                                                   | 2023-10-18 |
 | [[collections/commonplace/The General Crisis of Whiteness.md\|The General Crisis of Whiteness]]                                                                               | 2023-10-18 |
@@ -139,14 +140,14 @@ permalink: collections/commonplace
 | [[collections/commonplace/The Standard Model Survives.md\|The Standard Model Survives]]                                                                                       | 2023-03-20 |
 | [[collections/commonplace/The Strategy of Composition.md\|The Strategy of Composition]]                                                                                       | 2023-03-20 |
 | [[collections/commonplace/Jaquaying the Dungeon, 1.md\|Jaquaying the Dungeon, 1]]                                                                                             | 2023-03-12 |
-| [[collections/commonplace/Jaquaying the Dungeon, 3.md\|Jaquaying the Dungeon, 3]]                                                                                             | 2023-03-12 |
-| [[collections/commonplace/Jaquaying the Dungeon, 4.md\|Jaquaying the Dungeon, 4]]                                                                                             | 2023-03-12 |
 | [[collections/commonplace/Jaquaying the Dungeon, 2.md\|Jaquaying the Dungeon, 2]]                                                                                             | 2023-03-12 |
+| [[collections/commonplace/Jaquaying the Dungeon, 3.md\|Jaquaying the Dungeon, 3]]                                                                                             | 2023-03-12 |
 | [[collections/commonplace/Jaquaying the Dungeon, 6.md\|Jaquaying the Dungeon, 6]]                                                                                             | 2023-03-12 |
+| [[collections/commonplace/Jaquaying the Dungeon, 8.md\|Jaquaying the Dungeon, 8]]                                                                                             | 2023-03-12 |
+| [[collections/commonplace/Jaquaying the Dungeon, 7.md\|Jaquaying the Dungeon, 7]]                                                                                             | 2023-03-12 |
 | [[collections/commonplace/Jaquaying the Dungeon, 9.md\|Jaquaying the Dungeon, 9]]                                                                                             | 2023-03-12 |
 | [[collections/commonplace/Jaquaying the Dungeon, 5.md\|Jaquaying the Dungeon, 5]]                                                                                             | 2023-03-12 |
-| [[collections/commonplace/Jaquaying the Dungeon, 7.md\|Jaquaying the Dungeon, 7]]                                                                                             | 2023-03-12 |
-| [[collections/commonplace/Jaquaying the Dungeon, 8.md\|Jaquaying the Dungeon, 8]]                                                                                             | 2023-03-12 |
+| [[collections/commonplace/Jaquaying the Dungeon, 4.md\|Jaquaying the Dungeon, 4]]                                                                                             | 2023-03-12 |
 | [[collections/commonplace/Don't Be Afraid of Going Wrong.md\|Don't Be Afraid of Going Wrong]]                                                                                 | 2023-03-11 |
 | [[collections/commonplace/Fuck the Poetry Police.md\|Fuck the Poetry Police]]                                                                                                 | 2023-03-11 |
 | [[collections/commonplace/Not the Backlog.md\|Not the Backlog]]                                                                                                               | 2023-03-11 |
@@ -429,10 +430,10 @@ permalink: collections/commonplace
 | [[collections/commonplace/Apart Together.md\|Apart Together]]                                                                                                                 | 2017-04-11 |
 | [[collections/commonplace/Kierkegaard's Abraham.md\|Kierkegaard's Abraham]]                                                                                                   | 2017-04-10 |
 | [[collections/commonplace/Eurydice.md\|Eurydice]]                                                                                                                             | 2017-04-07 |
-| [[collections/commonplace/The Frankfurt School, Part 4.md\|The Frankfurt School, Part 4]]                                                                                     | 2017-04-07 |
-| [[collections/commonplace/The Frankfurt School, Part 6.md\|The Frankfurt School, Part 6]]                                                                                     | 2017-04-07 |
 | [[collections/commonplace/The Frankfurt School, Part 5.md\|The Frankfurt School, Part 5]]                                                                                     | 2017-04-07 |
+| [[collections/commonplace/The Frankfurt School, Part 4.md\|The Frankfurt School, Part 4]]                                                                                     | 2017-04-07 |
 | [[collections/commonplace/The Frankfurt School, Part 7.md\|The Frankfurt School, Part 7]]                                                                                     | 2017-04-07 |
+| [[collections/commonplace/The Frankfurt School, Part 6.md\|The Frankfurt School, Part 6]]                                                                                     | 2017-04-07 |
 | [[collections/commonplace/The Frankfurt School, Part 8.md\|The Frankfurt School, Part 8]]                                                                                     | 2017-04-07 |
 | [[collections/commonplace/The Frankfurt School, Part 1.md\|The Frankfurt School, Part 1]]                                                                                     | 2017-04-06 |
 | [[collections/commonplace/The Frankfurt School, Part 2.md\|The Frankfurt School, Part 2]]                                                                                     | 2017-04-06 |
@@ -1380,8 +1381,8 @@ permalink: collections/commonplace
 | [[collections/commonplace/Giving Life to Every Reality.md\|Giving Life to Every Reality]]                                                                                     | 2015-07-29 |
 | [[collections/commonplace/Devaluing the Dirty War.md\|Devaluing the Dirty War]]                                                                                               | 2015-07-28 |
 | [[collections/commonplace/Amplify the Image With Myth.md\|Amplify the Image With Myth]]                                                                                       | 2015-07-27 |
-| [[collections/commonplace/Images and Faces.md\|Images and Faces]]                                                                                                             | 2015-07-27 |
 | [[collections/commonplace/If Dreams, Why Not the Dreamers.md\|If Dreams, Why Not the Dreamers]]                                                                               | 2015-07-27 |
+| [[collections/commonplace/Images and Faces.md\|Images and Faces]]                                                                                                             | 2015-07-27 |
 | [[collections/commonplace/Inside the Iran Talks.md\|Inside the Iran Talks]]                                                                                                   | 2015-07-27 |
 | [[collections/commonplace/The Last Judgment.md\|The Last Judgment]]                                                                                                           | 2015-07-27 |
 | [[collections/commonplace/To Read the World We Must Read Its Face.md\|To Read the World We Must Read Its Face]]                                                               | 2015-07-27 |
@@ -1622,8 +1623,8 @@ permalink: collections/commonplace
 | [[collections/commonplace/What ISIS Really Wants.md\|What ISIS Really Wants]]                                                                                                 | 2015-02-19 |
 | [[collections/commonplace/Brand ISIS.md\|Brand ISIS]]                                                                                                                         | 2015-02-16 |
 | [[collections/commonplace/The Tragedy of the American Military.md\|The Tragedy of the American Military]]                                                                     | 2015-02-16 |
-| [[collections/commonplace/Despair is a Sickness.md\|Despair is a Sickness]]                                                                                                   | 2015-02-14 |
 | [[collections/commonplace/Despair.md\|Despair]]                                                                                                                               | 2015-02-14 |
+| [[collections/commonplace/Despair is a Sickness.md\|Despair is a Sickness]]                                                                                                   | 2015-02-14 |
 | [[collections/commonplace/Horror and the Natural Man.md\|Horror and the Natural Man]]                                                                                         | 2015-02-14 |
 | [[collections/commonplace/Lazarus' Death.md\|Lazarus' Death]]                                                                                                                 | 2015-02-14 |
 | [[collections/commonplace/Spirit and the Self.md\|Spirit and the Self]]                                                                                                       | 2015-02-14 |
@@ -1850,8 +1851,8 @@ permalink: collections/commonplace
 | [[collections/commonplace/The Adversary.md\|The Adversary]]                                                                                                                   | 2014-05-23 |
 | [[collections/commonplace/The Meaning of Ritual is Deep Indeed.md\|The Meaning of Ritual is Deep Indeed]]                                                                     | 2014-05-23 |
 | [[collections/commonplace/The Short Sentence as Gospel Truth.md\|The Short Sentence as Gospel Truth]]                                                                         | 2014-05-23 |
-| [[collections/commonplace/Toward a Universal Theory of Cool.md\|Toward a Universal Theory of Cool]]                                                                           | 2014-05-23 |
 | [[collections/commonplace/Touring, Travel, Vacation.md\|Touring, Travel, Vacation]]                                                                                           | 2014-05-23 |
+| [[collections/commonplace/Toward a Universal Theory of Cool.md\|Toward a Universal Theory of Cool]]                                                                           | 2014-05-23 |
 | [[collections/commonplace/Unsocial Sociability.md\|Unsocial Sociability]]                                                                                                     | 2014-05-23 |
 | [[collections/commonplace/Weariness.md\|Weariness]]                                                                                                                           | 2014-05-23 |
 | [[collections/commonplace/Jeb Bush.md\|Jeb Bush]]                                                                                                                             | 2014-05-22 |
