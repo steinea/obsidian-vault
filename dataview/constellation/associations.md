@@ -26,6 +26,7 @@ permalink: constellation/associations
 | [[constellation/associations/Electronic Literature Organization.md\|Electronic Literature Organization]]                                                         |
 | [[constellation/associations/Fan Studies Network North America.md\|Fan Studies Network North America]]                                                           |
 | [[constellation/associations/Full Indie.md\|Full Indie]]                                                                                                         |
+| [[constellation/associations/Game Arts International Network.md\|Game Arts International Network]]                                                               |
 | [[constellation/associations/Game Manufacturers Association.md\|Game Manufacturers Association]]                                                                 |
 | [[constellation/associations/Game Philosophy Network.md\|Game Philosophy Network]]                                                                               |
 | [[constellation/associations/Gunn Center for the Study of Science Fiction.md\|Gunn Center for the Study of Science Fiction]]                                     |
@@ -41,6 +42,7 @@ permalink: constellation/associations
 | [[constellation/associations/Modern Language Associations.md\|Modern Language Associations]]                                                                     |
 | [[constellation/associations/Museum of Science Fiction.md\|Museum of Science Fiction]]                                                                           |
 | [[constellation/associations/Mystery Writers of America.md\|Mystery Writers of America]]                                                                         |
+| [[constellation/associations/National Academy of Video Game Trade Reviewers.md\|National Academy of Video Game Trade Reviewers]]                                 |
 | [[constellation/associations/North American Society for the Study of Romanticism.md\|North American Society for the Study of Romanticism]]                       |
 | [[constellation/associations/Pacific Ancient and Modern Language Association.md\|Pacific Ancient and Modern Language Association]]                               |
 | [[constellation/associations/Project Management Association of Canada.md\|Project Management Association of Canada]]                                             |

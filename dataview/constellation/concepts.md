@@ -38,6 +38,7 @@ permalink: constellation/concepts
 | [[constellation/concepts/Prophetic Pragmatism.md\|Prophetic Pragmatism]]               |
 | [[constellation/concepts/Science Fiction.md\|Science Fiction]]                         |
 | [[constellation/concepts/Semiotics.md\|Semiotics]]                                     |
+| [[constellation/concepts/Spy Fiction.md\|Spy Fiction]]                                 |
 | [[constellation/concepts/Systems Theory.md\|Systems Theory]]                           |
 | [[constellation/concepts/Test-Driven Development.md\|Test-Driven Development]]         |
 | [[constellation/concepts/Theory.md\|Theory]]                                           |

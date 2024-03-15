@@ -10,6 +10,8 @@ permalink: collections/commonplace
 | [[collections/commonplace/How to Forecast The Future.md\|How to Forecast The Future]]                                                                                         | 2024-03-15 |
 | [[collections/commonplace/Storyboarding Dune 2.md\|Storyboarding Dune 2]]                                                                                                     | 2024-03-14 |
 | [[collections/commonplace/Emboldening Idea Landlords.md\|Emboldening Idea Landlords]]                                                                                         | 2024-03-09 |
+| [[collections/commonplace/Areas of Effect.md\|Areas of Effect]]                                                                                                               | 2024-02-24 |
+| [[collections/commonplace/Death, Movement, Change and Transformation.md\|Death, Movement, Change and Transformation]]                                                         | 2024-02-24 |
 | [[collections/commonplace/Understanding Is Not Required.md\|Understanding Is Not Required]]                                                                                   | 2024-02-01 |
 | [[collections/commonplace/The Extremely Long Paragraph.md\|The Extremely Long Paragraph]]                                                                                     | 2023-12-28 |
 | [[collections/commonplace/Lessons on Agroecological Transitions.md\|Lessons on Agroecological Transitions]]                                                                   | 2023-12-27 |
@@ -35,6 +37,7 @@ permalink: collections/commonplace
 | [[collections/commonplace/The Ironic Radical.md\|The Ironic Radical]]                                                                                                         | 2023-12-11 |
 | [[collections/commonplace/The Whiteness of Board Games.md\|The Whiteness of Board Games]]                                                                                     | 2023-12-11 |
 | [[collections/commonplace/Foundational Anxieties.md\|Foundational Anxieties]]                                                                                                 | 2023-12-09 |
+| [[collections/commonplace/Burnt Out, Inc.md\|Burnt Out, Inc]]                                                                                                                 | 2023-12-06 |
 | [[collections/commonplace/Huber on Malm.md\|Huber on Malm]]                                                                                                                   | 2023-11-26 |
 | [[collections/commonplace/Skill-Based Matchmaking.md\|Skill-Based Matchmaking]]                                                                                               | 2023-11-22 |
 | [[collections/commonplace/Microfinance Preys on the Global Poor.md\|Microfinance Preys on the Global Poor]]                                                                   | 2023-10-20 |

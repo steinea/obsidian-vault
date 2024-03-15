@@ -79,6 +79,7 @@ permalink: constellation/journals
 | [[constellation/journals/Transactions of the Digital Games Research Association.md\|Transactions of the Digital Games Research Association]]                   |
 | [[constellation/journals/University of Toronto Quarterly.md\|University of Toronto Quarterly]]                                                                 |
 | [[constellation/journals/Vector.md\|Vector]]                                                                                                                   |
+| [[constellation/journals/Video Game Art Reader.md\|Video Game Art Reader]]                                                                                     |
 | [[constellation/journals/Well Played.md\|Well Played]]                                                                                                         |
 | [[constellation/journals/Wormwood.md\|Wormwood]]                                                                                                               |
 | [[constellation/journals/Yale Journal of Law & the Humanities.md\|Yale Journal of Law & the Humanities]]                                                       |

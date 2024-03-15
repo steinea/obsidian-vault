@@ -13,8 +13,11 @@ permalink: constellation/conferences
 | [[constellation/conferences/Current Research in Speculative Fiction.md\|Current Research in Speculative Fiction]]                                           |
 | [[constellation/conferences/Develop Brighton.md\|Develop Brighton]]                                                                                         |
 | [[constellation/conferences/Electronic Visualisation and the Arts.md\|Electronic Visualisation and the Arts]]                                               |
+| [[constellation/conferences/Feral Vector.md\|Feral Vector]]                                                                                                 |
 | [[constellation/conferences/Foundations of Digital Games.md\|Foundations of Digital Games]]                                                                 |
+| [[constellation/conferences/Game Arts International Assembly.md\|Game Arts International Assembly]]                                                         |
 | [[constellation/conferences/Game Developers Conference.md\|Game Developers Conference]]                                                                     |
+| [[constellation/conferences/Games Industry Gathering.md\|Games Industry Gathering]]                                                                         |
 | [[constellation/conferences/Generation Analog.md\|Generation Analog]]                                                                                       |
 | [[constellation/conferences/Glasgow International Fantasy Conversations.md\|Glasgow International Fantasy Conversations]]                                   |
 | [[constellation/conferences/History of Games.md\|History of Games]]                                                                                         |

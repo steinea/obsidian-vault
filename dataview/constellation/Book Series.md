@@ -15,6 +15,7 @@ permalink: constellation/book-series
 | [[constellation/bookseries/CRC Tabletop Game Design.md\|CRC Tabletop Game Design]]                                                   |
 | [[constellation/bookseries/DeGruyter Video Games and the Humanities.md\|DeGruyter Video Games and the Humanities]]                   |
 | [[constellation/bookseries/Duke University Press Power Play.md\|Duke University Press Power Play]]                                   |
+| [[constellation/bookseries/Frontiers of Narrative.md\|Frontiers of Narrative]]                                                       |
 | [[constellation/bookseries/In Common.md\|In Common]]                                                                                 |
 | [[constellation/bookseries/IUP Digital Game Studies.md\|IUP Digital Game Studies]]                                                   |
 | [[constellation/bookseries/Limited Run Books.md\|Limited Run Books]]                                                                 |
