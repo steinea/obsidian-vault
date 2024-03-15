@@ -5,6 +5,7 @@ permalink: collections/commonplace
 
 | File                                                                                                                                                                          | Date       |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
+| [[collections/commonplace/Storyboarding Dune 2.md\|Storyboarding Dune 2]]                                                                                                     | 2024-03-14 |
 | [[collections/commonplace/Emboldening Idea Landlords.md\|Emboldening Idea Landlords]]                                                                                         | 2024-03-09 |
 | [[collections/commonplace/Understanding Is Not Required.md\|Understanding Is Not Required]]                                                                                   | 2024-02-01 |
 | [[collections/commonplace/The Extremely Long Paragraph.md\|The Extremely Long Paragraph]]                                                                                     | 2023-12-28 |

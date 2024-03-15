@@ -25,6 +25,7 @@ permalink: constellation/associations
 | [[constellation/associations/Crime Writers' Association.md\|Crime Writers' Association]]                                                                         |
 | [[constellation/associations/Electronic Literature Organization.md\|Electronic Literature Organization]]                                                         |
 | [[constellation/associations/Fan Studies Network North America.md\|Fan Studies Network North America]]                                                           |
+| [[constellation/associations/Full Indie.md\|Full Indie]]                                                                                                         |
 | [[constellation/associations/Game Manufacturers Association.md\|Game Manufacturers Association]]                                                                 |
 | [[constellation/associations/Game Philosophy Network.md\|Game Philosophy Network]]                                                                               |
 | [[constellation/associations/Gunn Center for the Study of Science Fiction.md\|Gunn Center for the Study of Science Fiction]]                                     |

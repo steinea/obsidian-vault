@@ -15,6 +15,7 @@ permalink: constellation/conventions
 | [[constellation/conventions/Fastaval.md\|Fastaval]]                                                               |
 | [[constellation/conventions/Gamescom.md\|Gamescom]]                                                               |
 | [[constellation/conventions/Gen Con.md\|Gen Con]]                                                                 |
+| [[constellation/conventions/Global Game Jam Vancouver.md\|Global Game Jam Vancouver]]                             |
 | [[constellation/conventions/Independent Games Festival.md\|Independent Games Festival]]                           |
 | [[constellation/conventions/IndieCade.md\|IndieCade]]                                                             |
 | [[constellation/conventions/Knutpunkt.md\|Knutpunkt]]                                                             |

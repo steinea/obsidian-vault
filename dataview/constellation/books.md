@@ -116,6 +116,7 @@ permalink: constellation/books
 | [[constellation/books/Aeneid Book VI.md\|Aeneid Book VI]]                                                                                   | Heaney, Seamus                                                | 2016 |
 | [[constellation/books/Physics and Philosophy.md\|Physics and Philosophy]]                                                                   | Heisenberg, Werner                                            | 1958 |
 | [[constellation/books/The Testament of Cresseid and Seven Fables.md\|The Testament of Cresseid and Seven Fables]]                           | Henryson, Robert                                              | 2009 |
+| [[constellation/books/The Structure of Perceptual Experience.md\|The Structure of Perceptual Experience]]                                   | James Stazicker                                               | 2015 |
 | [[constellation/books/Phenomenology (Lyotard).md\|Phenomenology (Lyotard)]]                                                                 | Jean-Francois Lyotard                                         | 1991 |
 | [[constellation/books/The Eye of the World.md\|The Eye of the World]]                                                                       | Jordan, Robert                                                | 1990 |
 | [[constellation/books/The Great Hunt.md\|The Great Hunt]]                                                                                   | Jordan, Robert                                                | 1990 |
