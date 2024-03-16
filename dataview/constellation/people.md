@@ -37,11 +37,13 @@ permalink: constellation/people
 | [[constellation/people/John Macmurray.md\|John Macmurray]]                 |
 | [[constellation/people/Koji Igarashi.md\|Koji Igarashi]]                   |
 | [[constellation/people/M. K. Badru.md\|M. K. Badru]]                       |
+| [[constellation/people/Mariana Mazzucato.md\|Mariana Mazzucato]]           |
 | [[constellation/people/Mary Oliver.md\|Mary Oliver]]                       |
 | [[constellation/people/Maurice Merleau-Ponty.md\|Maurice Merleau-Ponty]]   |
 | [[constellation/people/Michael Polanyi.md\|Michael Polanyi]]               |
 | [[constellation/people/Michel de Certeau.md\|Michel de Certeau]]           |
 | [[constellation/people/Motomu Toriyama.md\|Motomu Toriyama]]               |
+| [[constellation/people/Murray Bookchin.md\|Murray Bookchin]]               |
 | [[constellation/people/Nam Jun Paik.md\|Nam Jun Paik]]                     |
 | [[constellation/people/Naoki Yoshida.md\|Naoki Yoshida]]                   |
 | [[constellation/people/Natalie Wolchover.md\|Natalie Wolchover]]           |

@@ -23,6 +23,7 @@ permalink: constellation/associations
 | [[constellation/associations/Computer Arts Society.md\|Computer Arts Society]]                                                                                   |
 | [[constellation/associations/Crime Writers of Canada.md\|Crime Writers of Canada]]                                                                               |
 | [[constellation/associations/Crime Writers' Association.md\|Crime Writers' Association]]                                                                         |
+| [[constellation/associations/Digital Public Goods Alliance.md\|Digital Public Goods Alliance]]                                                                   |
 | [[constellation/associations/Electronic Literature Organization.md\|Electronic Literature Organization]]                                                         |
 | [[constellation/associations/Fan Studies Network North America.md\|Fan Studies Network North America]]                                                           |
 | [[constellation/associations/Full Indie.md\|Full Indie]]                                                                                                         |
@@ -30,6 +31,7 @@ permalink: constellation/associations
 | [[constellation/associations/Game Manufacturers Association.md\|Game Manufacturers Association]]                                                                 |
 | [[constellation/associations/Game Philosophy Network.md\|Game Philosophy Network]]                                                                               |
 | [[constellation/associations/Gunn Center for the Study of Science Fiction.md\|Gunn Center for the Study of Science Fiction]]                                     |
+| [[constellation/associations/Historical Games Network.md\|Historical Games Network]]                                                                             |
 | [[constellation/associations/ICA Game Studies Division.md\|ICA Game Studies Division]]                                                                           |
 | [[constellation/associations/IGDA Game Writing SIG.md\|IGDA Game Writing SIG]]                                                                                   |
 | [[constellation/associations/International Association for Strategy Professionals.md\|International Association for Strategy Professionals]]                     |

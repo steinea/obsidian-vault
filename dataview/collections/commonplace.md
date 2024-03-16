@@ -8,6 +8,7 @@ permalink: collections/commonplace
 | [[collections/commonplace/How to Start a Rebellion.md\|How to Start a Rebellion]]                                                                                             | 2024-03-15 |
 | [[collections/commonplace/How to Create an Index.md\|How to Create an Index]]                                                                                                 | 2024-03-15 |
 | [[collections/commonplace/How to Forecast The Future.md\|How to Forecast The Future]]                                                                                         | 2024-03-15 |
+| [[collections/commonplace/Imagining Extinction in Video Games.md\|Imagining Extinction in Video Games]]                                                                       | 2024-03-15 |
 | [[collections/commonplace/Storyboarding Dune 2.md\|Storyboarding Dune 2]]                                                                                                     | 2024-03-14 |
 | [[collections/commonplace/Emboldening Idea Landlords.md\|Emboldening Idea Landlords]]                                                                                         | 2024-03-09 |
 | [[collections/commonplace/Areas of Effect.md\|Areas of Effect]]                                                                                                               | 2024-02-24 |

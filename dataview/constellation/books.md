@@ -98,6 +98,9 @@ permalink: constellation/books
 | [[constellation/books/The Location of Culture.md\|The Location of Culture]]                                                                 | Bhabha, Homi K.                                               | 1994 |
 | [[constellation/books/Children of a Modest Star.md\|Children of a Modest Star]]                                                             | Blake, Jonathn S. and Nils Gilman                             | 2024 |
 | [[constellation/books/Ready Player Two.md\|Ready Player Two]]                                                                               | Chess, Shira                                                  | 2017 |
+| [[constellation/books/Tropic of Kansas.md\|Tropic of Kansas]]                                                                               | Christopher Brown                                             | 2017 |
+| [[constellation/books/A Natural History of Empty Lots.md\|A Natural History of Empty Lots]]                                                 | Christopher Brown                                             | 2024 |
+| [[constellation/books/A Phenomenology of Landscape.md\|A Phenomenology of Landscape]]                                                       | Christopher Tilley                                            | 1997 |
 | [[constellation/books/A Brief History of the Human Race.md\|A Brief History of the Human Race]]                                             | Cook, Michael                                                 | 2003 |
 | [[constellation/books/Towards a Real Philosophy of Mathematics.md\|Towards a Real Philosophy of Mathematics]]                               | Corfield, David                                               | 2009 |
 | [[constellation/books/Gaming Sexism.md\|Gaming Sexism]]                                                                                     | Cote, Amanda C.                                               | 2020 |

@@ -8,6 +8,7 @@ permalink: constellation/literary-reviews
 | [[constellation/literaryreviews/Anarchist Review of Books.md\|Anarchist Review of Books]]                     |
 | [[constellation/literaryreviews/Annulet Poetics Journal.md\|Annulet Poetics Journal]]                         |
 | [[constellation/literaryreviews/British Columbia Review.md\|British Columbia Review]]                         |
+| [[constellation/literaryreviews/Cleveland Review of Books.md\|Cleveland Review of Books]]                     |
 | [[constellation/literaryreviews/European Review of Books.md\|European Review of Books]]                       |
 | [[constellation/literaryreviews/Hong Kong Review of Books.md\|Hong Kong Review of Books]]                     |
 | [[constellation/literaryreviews/Literary Review of Canada.md\|Literary Review of Canada]]                     |
