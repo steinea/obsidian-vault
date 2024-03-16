@@ -95,6 +95,7 @@ permalink: collections/commonplace
 | [[collections/commonplace/Polemics Among Soviet Physicists.md\|Polemics Among Soviet Physicists]]                                                                             | 2023-09-30 |
 | [[collections/commonplace/Ukrainian Cyborg Feminism.md\|Ukrainian Cyborg Feminism]]                                                                                           | 2023-09-30 |
 | [[collections/commonplace/Between Degrowth and Socialism.md\|Between Degrowth and Socialism]]                                                                                 | 2023-09-13 |
+| [[collections/commonplace/Provisioning Systems.md\|Provisioning Systems]]                                                                                                     | 2023-09-13 |
 | [[collections/commonplace/Internalization of Movement.md\|Internalization of Movement]]                                                                                       | 2023-08-15 |
 | [[collections/commonplace/No Such Thing as a Final Goal.md\|No Such Thing as a Final Goal]]                                                                                   | 2023-07-03 |
 | [[collections/commonplace/How People Perceive Themselves.md\|How People Perceive Themselves]]                                                                                 | 2023-07-01 |

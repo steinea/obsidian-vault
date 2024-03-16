@@ -16,3 +16,4 @@ permalink: constellation/literary-reviews
 | [[constellation/literaryreviews/New York Review of Science Fiction.md\|New York Review of Science Fiction]]   |
 | [[constellation/literaryreviews/Notre Dame Philosophical Reviews.md\|Notre Dame Philosophical Reviews]]       |
 | [[constellation/literaryreviews/Sydney Review of Books.md\|Sydney Review of Books]]                           |
+| [[constellation/literaryreviews/The Capilano Review.md\|The Capilano Review]]                                 |
