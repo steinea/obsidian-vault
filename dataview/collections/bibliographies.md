@@ -5,6 +5,7 @@ permalink: collections/bibliographies
 
 | File                                                                                       | Category    | Date       |
 | ------------------------------------------------------------------------------------------ | ----------- | ---------- |
+| [[collections/bibliographies/Everyday Life.md\|Everyday Life]]                             | \-          | 2024-03-15 |
 | [[collections/bibliographies/Human Origins.md\|Human Origins]]                             | science     | 2024-02-16 |
 | [[collections/bibliographies/Play and Gender.md\|Play and Gender]]                         | games       | 2024-02-13 |
 | [[collections/bibliographies/Math Miscellany.md\|Math Miscellany]]                         | science     | 2023-11-13 |
