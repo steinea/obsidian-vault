@@ -14,6 +14,7 @@ permalink: constellation/concepts
 | [[constellation/concepts/Celts.md\|Celts]]                                             |
 | [[constellation/concepts/Communes in Outer Space.md\|Communes in Outer Space]]         |
 | [[constellation/concepts/Desert Racing.md\|Desert Racing]]                             |
+| [[constellation/concepts/Economics.md\|Economics]]                                     |
 | [[constellation/concepts/Fantasy.md\|Fantasy]]                                         |
 | [[constellation/concepts/Feigenbaum Constants.md\|Feigenbaum Constants]]               |
 | [[constellation/concepts/Game Studies.md\|Game Studies]]                               |

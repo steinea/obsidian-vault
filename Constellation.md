@@ -15,7 +15,6 @@ permalink: constellation
 - [[dataview/constellation/Concepts.md|Concepts]]
 - [[dataview/constellation/Conferences.md|Conferences]]
 - [[dataview/constellation/Conventions.md|Conventions]]
-- [[dataview/constellation/Economics.md|Economics]]
 - [[dataview/constellation/Episodes.md|Episodes]]
 - [[dataview/constellation/Film.md|Film]]
 - [[dataview/constellation/Funds.md|Funds]]

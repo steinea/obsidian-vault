@@ -24,6 +24,7 @@ permalink: constellation/people
 | [[constellation/people/Fumito Ueda.md\|Fumito Ueda]]                       |
 | [[constellation/people/George Grant.md\|George Grant]]                     |
 | [[constellation/people/Gilles Deleuze.md\|Gilles Deleuze]]                 |
+| [[constellation/people/Guy Standing.md\|Guy Standing]]                     |
 | [[constellation/people/Hajime Tabata.md\|Hajime Tabata]]                   |
 | [[constellation/people/Hans-Georg Gadamer.md\|Hans-Georg Gadamer]]         |
 | [[constellation/people/Hayden White.md\|Hayden White]]                     |
