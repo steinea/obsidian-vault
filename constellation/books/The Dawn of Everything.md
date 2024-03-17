@@ -2,17 +2,11 @@
 category: books
 title: The Dawn of Everything
 subtitle: A New History of Humanity
-author: 
-  - Graeber, David
-  - Wengrow, David
+author: Graeber, David and David Wengrow
 date: 2021
 permalink: '9780374157357'
 tags:
 ---
-
-# The Dawn of Everything
-
-### A New History of Humanity
 
 [[Books]]
 

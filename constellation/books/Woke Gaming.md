@@ -2,18 +2,12 @@
 category: books
 title: Woke Gaming
 subtitle: Digital Challenges to Oppression and Social Injustice
-author: 
-  - Grey, Kishonna L.
-  - Leonard, David J.
+author: Grey, Kishonna L. and David J. Leonard
 date: 2018
 permalink: '9780295744179'
 tags:
   - games
 ---
-
-# Woke Gaming
-
-### Digital Challenges to Oppression and Social Injustice
 
 [[Books]]
 

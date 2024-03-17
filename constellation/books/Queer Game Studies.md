@@ -1,17 +1,13 @@
 ---
 category: books
 title: Queer Game Studies
-author: 
-  - Ruberg, Bonnie
-  - Shaw, Adrienne
+author: Ruberg, Bonnie and Adrienne Shaw
 date: 2017
 permalink: '9781517900373'
 tags:
   - games
   - gender
 ---
-
-# Queer Game Studies
 
 [[Books]]
 

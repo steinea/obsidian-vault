@@ -2,15 +2,11 @@
 category: books
 title: How Humans Evolved
 subtitle: 
-author: 
-  - Boyd, Robert
-  - Silk, Joan B.
+author: Boyd, Robert and Joan B. Silk
 date: 2020
 permalink: '9780393533156'
 tags:
 ---
-
-# How Humans Evolved
 
 [[Books]]
 
