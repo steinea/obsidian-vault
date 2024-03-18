@@ -41,7 +41,7 @@ SORT_BY = "title"
 GANALYTICS = ""
 
 # (Optional, default true) Slugify URLs. Put "" to disable.
-SLUGIFY = "y"
+SLUGIFY = ""
 
 # (Optional, default true) Shows knowledge graph on home page. Put "" to disable.
 HOME_GRAPH = "y"
