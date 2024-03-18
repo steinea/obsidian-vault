@@ -4,8 +4,6 @@ date: 2024-03-19
 permalink: 2024/03/19/game-340-week-10
 ---
 
-# GAME 340, Advanced Game Design, Week 10
-
 [[2024]] • [[Teaching]]
 
 #### *A Thousand Plateaus,* pp. 403-423

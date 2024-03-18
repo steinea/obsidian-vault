@@ -4,8 +4,6 @@ date: 2024-04-02
 permalink: 2024/04/02/game-340-week-12
 ---
 
-# GAME 340, Advanced Game Design, Week 12
-
 [[2024]] • [[Teaching]]
 
 #### *How To Do Things With Videogames,* Chapter 16: Exercise
