@@ -4,9 +4,7 @@ date: 2023-12-05
 permalink: 2023/12/05/game-260-week-12
 ---
 
-# GAME 260, Project Management, Week 12
-
-[[2023]] / [[Teaching]]
+[[2023]] • [[Teaching]]
 
 #### Blood, Sweat, and Pixels, Epilogue
 

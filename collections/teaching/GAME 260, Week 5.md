@@ -4,9 +4,7 @@ date: 2023-10-10
 permalink: 2023/10/10/game-260-week-5
 ---
 
-# GAME 260, Project Management, Week 5
-
-[[2023]] / [[Teaching]]
+[[2023]] • [[Teaching]]
 
 #### Blood, Sweat, and Pixels, ch. 4: Diablo III
 

@@ -4,9 +4,7 @@ date: 2024-02-06
 permalink: 2024/02/06/game-340-week-5
 ---
 
-# GAME 340, Advanced Game Design, Week 5
-
-[[2024]] / [[Teaching]]
+[[2024]] • [[Teaching]]
 
 #### *A Thousand Plateaus,* pp. 374-387
 

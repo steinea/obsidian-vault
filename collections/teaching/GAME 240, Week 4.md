@@ -1,6 +1,6 @@
 ---
 title: GAME 240, Week 4
-date: 2020-09-20
+date: 2020-09-29
 permalink: 2020/09/29/game-240-week-4
 ---
 

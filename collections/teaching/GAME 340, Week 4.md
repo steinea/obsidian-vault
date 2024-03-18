@@ -4,9 +4,7 @@ date: 2024-01-30
 permalink: 2024/01/30/game-340-week-4
 ---
 
-# GAME 340, Advanced Game Design, Week 4
-
-[[2024]] / [[Teaching]]
+[[2024]] • [[Teaching]]
 
 #### *How To Do Things With Videogames,* Chapter 1: Art
 

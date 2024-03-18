@@ -4,9 +4,7 @@ date: 2023-11-07
 permalink: 2023/11/07/game-260-week-8
 ---
 
-# GAME 260, Project Management, Week 8
-
-[[2023]] / [[Teaching]]
+[[2023]] • [[Teaching]]
 
 #### Blood, Sweat, and Pixels, ch. 7: Shovel Knight
 

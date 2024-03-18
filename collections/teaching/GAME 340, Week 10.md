@@ -6,11 +6,11 @@ permalink: 2024/03/19/game-340-week-10
 
 # GAME 340, Advanced Game Design, Week 10
 
-[[2024]] / [[Teaching]]
+[[2024]] • [[Teaching]]
 
 #### *A Thousand Plateaus,* pp. 403-423
 
-#### Machinic Phylum
+##### Machinic Phylum
 
 "PROBLEM III. *How do the nomads invent or find their weapons?*
 
@@ -66,7 +66,7 @@ PROPOSITION VIII. *Metallurgy in itself constitutes a flow necessarily confluent
 
 <br>
 
-#### Metallurgy
+##### Metallurgy
 
 “the *machinic phylum* is materiality, natural or artificial, and both simultaneously; it is matter in movement, in flux, in variation, matter as a conveyor of singularities and traits of expression … this matter-flow can only be *followed*” (409)
 
@@ -126,7 +126,7 @@ Endnote 100: “[[Élie Faure]], *Medieval Art,* vol. 2 of *History of Art*, tra
 
 <br>
 
-#### War
+##### War
 
 “AXIOM III. *The nomad war machine is the form of expression, of which itinerant metallurgy is the correlative form of content.
 

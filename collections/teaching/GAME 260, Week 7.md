@@ -4,9 +4,7 @@ date: 2023-10-31
 permalink: 2023/10/31/game-260-week-7
 ---
 
-# GAME 260, Project Management, Week 7
-
-[[2023]] / [[Teaching]]
+[[2023]] • [[Teaching]]
 
 #### Blood, Sweat, and Pixels, ch. 6: Dragon Age Inquisition
 

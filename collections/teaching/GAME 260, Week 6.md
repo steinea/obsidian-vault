@@ -4,9 +4,7 @@ date: 2023-10-24
 permalink: 2023/10/24/game-260-week-6
 ---
 
-# GAME 260, Project Management, Week 6
-
-[[2023]] / [[Teaching]]
+[[2023]] • [[Teaching]]
 
 #### Blood, Sweat, and Pixels, ch. 5: Halo Wars
 

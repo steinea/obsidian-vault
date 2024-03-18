@@ -4,8 +4,11 @@ date: 2024-03-05
 permalink: 2024/03/05/game-340-week-8
 ---
 
-# GAME 340, Advanced Game Design, Week 8
+[[2024]] • [[Teaching]]
 
-[[2024]] / [[Teaching]]
+#### Game Jam, “Weapons/Tools”
 
-#### Game Jam, TBD
+* [What Have I Done?](https://a-strangled-catfish.itch.io/what-have-i-done)
+* [The Mirror](https://blobofawe.itch.io/the-mirror)
+* [Fatal Comfort](https://amyhahah.itch.io/fatal-comfortable)
+* [Unwandered](https://zeethebee.itch.io/unwandered)

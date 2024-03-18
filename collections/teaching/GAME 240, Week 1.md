@@ -1,7 +1,7 @@
 ---
-title: GAME 240, Week 
-date: 2020-09
-permalink: 2020/MM/DD/game-240-week-
+title: GAME 240, Week 1
+date: 2020-09-08
+permalink: 2020/09/08/game-240-week-1
 ---
 
 [[2020]] • [[Teaching]] 

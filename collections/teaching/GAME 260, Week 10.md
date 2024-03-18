@@ -4,9 +4,7 @@ date: 2023-11-21
 permalink: 2023/11/21/game-260-week-10
 ---
 
-# GAME 260, Project Management, Week 10
-
-[[2023]] / [[Teaching]]
+[[2023]] • [[Teaching]]
 
 #### Blood, Sweat, and Pixels, ch. 9: The Witcher 3
 

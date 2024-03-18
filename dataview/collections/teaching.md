@@ -38,7 +38,7 @@ permalink: collections/teaching
 | [[collections/teaching/GAME 240, Week 7.md\|GAME 240, Week 7]]   | 2020-10-20 |
 | [[collections/teaching/GAME 240, Week 6.md\|GAME 240, Week 6]]   | 2020-10-13 |
 | [[collections/teaching/GAME 240, Week 5.md\|GAME 240, Week 5]]   | 2020-10-06 |
+| [[collections/teaching/GAME 240, Week 4.md\|GAME 240, Week 4]]   | 2020-09-29 |
 | [[collections/teaching/GAME 240, Week 3.md\|GAME 240, Week 3]]   | 2020-09-22 |
-| [[collections/teaching/GAME 240, Week 4.md\|GAME 240, Week 4]]   | 2020-09-20 |
 | [[collections/teaching/GAME 240, Week 2.md\|GAME 240, Week 2]]   | 2020-09-15 |
-| [[collections/teaching/GAME 240, Week 1.md\|GAME 240, Week 1]]   | 2020-09-01 |
+| [[collections/teaching/GAME 240, Week 1.md\|GAME 240, Week 1]]   | 2020-09-08 |
