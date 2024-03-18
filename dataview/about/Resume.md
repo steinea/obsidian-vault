@@ -1,5 +1,3 @@
-# 💼 Resume
-
 ### Experience
 
 * Development Director ([[Electronic Arts]], Apr 2023 / Present)
