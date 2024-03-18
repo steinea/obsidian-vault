@@ -1,5 +1,5 @@
 [[redirects]]
   from = "https://obsidian.steinea.ca/*"
-  to = "https://publish.obsidian.md/serve?url=obsidian.steinea.ca/:splat"
+  to = "https://publish.obsidian.md/steinea/serve?url=obsidian.steinea.ca/:splat"
   status = 200
   force = true
