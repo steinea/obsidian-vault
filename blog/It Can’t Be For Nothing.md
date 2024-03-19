@@ -7,9 +7,9 @@ date: 2020-08-28
 permalink: 2020/08/28/it-cant-be-for-nothing
 ---
 
-# It Can’t Be For Nothing
+### Communicating Intentions for Play Through Trophy Design in *The Last of Us* and *The Last of Us Part II*
 
-[[2020]] / [[Blog]]
+[[2020]] • [[Blog]]
 
 #### Introduction
 

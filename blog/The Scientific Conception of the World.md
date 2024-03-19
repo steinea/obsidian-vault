@@ -6,9 +6,7 @@ date: 2017-10-15
 permalink: 2017/10/15/the-scientific-conception-of-world
 ---
 
-# The Scientific Conception of the World
-
-[[2017]] / [[Blog]]
+[[2017]] • [[Blog]]
 
 In their paper, "The Scientific Conception of the World: The Vienna Circle," Rudolf Carnap, Hans Hahn, and Otto Neurath put forward their philosophical project, which can be described, in a phrase, as "*anti-metaphysical factual research*" (87). Over the course of the paper they will explain each component and the commitments undergirding this phrase, align themselves with other thinkers, and draw out the "main strands" that have contributed to their position (88). From my own position as a reader, I first approached this text with a significant amount of skepticism but was surprised to find this manifesto of the Vienna Circle to be pleasantly *chimerical*, fusing a wide variety of perspectives and disciplines into an improbable, impossible beast. Indeed, having only been presented with critical assessments of the Vienna Circle offered in hindsight, this early text exceeds the schematic representations of its authors by its detractors; it is a wonderfully strange historical artefact, as problematic as it is ambitious, and certainly worthy of assessment and engagement, even by those in the Continental tradition of literary theory such as myself.
 

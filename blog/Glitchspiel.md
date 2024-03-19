@@ -6,9 +6,7 @@ date: 2021-02-02
 permalink: 2021/02/02/glitchspiel
 ---
 
-# Glitchspiel
-
-[[2021]] / [[Blog]]
+[[2021]] • [[Blog]]
 
 *One is not born, but rather becomes, a body.*
 

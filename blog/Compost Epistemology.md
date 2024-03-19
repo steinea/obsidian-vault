@@ -6,9 +6,7 @@ date: 2022-06-19
 permalink: 2022/06/19/compost-epistemology
 ---
 
-# Compost Epistemology
-
-[[2022]] / [[Blog]]
+[[2022]] • [[Blog]]
 
 > *This was a child born for sympoiesis---for becoming-with and making-with a motley clutch of earth others*. ---Donna J. Haraway
 

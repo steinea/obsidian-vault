@@ -6,9 +6,7 @@ date: 2015-05-29
 permalink: 2015/05/29/all-that-i-have-met
 ---
 
-# All That I Have Met
-
-[[2015]] / [[Blog]]
+[[2015]] • [[Blog]]
 
 I apologize in advance if this line of thinking that I have been following is getting tedious for some. I just can't quite let it go. Hopefully, this will be the last post on the subject. It may resurface, so I make no promises, but I intend to move away from the highly theoretical soon. We shall see.
 

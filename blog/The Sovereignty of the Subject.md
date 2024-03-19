@@ -7,9 +7,9 @@ date: 2017-10-06
 permalink: 2017/10/06/the-sovereignty-of-the-subject
 ---
 
-# The Sovereignty of the Subject
+### Theological and Political Trajectories
 
-[[2017]] / [[Blog]]
+[[2017]] • [[Blog]]
 
 Francis Oakley begins his essay "Christian Theology and the Newtonian Science" (1961) by situating himself between the poles of the Greek and the Renaissance "approaches to nature," of which R. G. Collingwood had written in 1945 (54). This situation places Oakley and his readers in the space between a "view of nature as an intelligent organism," and a view of nature as a "machine," and it will be Oakley's task therein to demonstrate how it is that this "change in philosophical approach" is what "made possible the development of the classical or Newtonian physical science" (54-55). Through a survey of the historical players and their thought, Oakley determines that the explosion of voluntarist theology after the condemnations of 1277 is chiefly responsible for this change. However, his emphasis on the theological neglects a prior historico-material basis that, upon consideration, will provide us with a critical vantage for discussing the *political* implications of such a theology (and its collapse).
 

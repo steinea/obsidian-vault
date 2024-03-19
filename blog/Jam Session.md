@@ -6,9 +6,7 @@ date: 2020-11-02
 permalink: 2020/11/02/jam-session
 ---
 
-# Jam Session
-
-[[2020]] / [[Blog]]
+[[2020]] • [[Blog]]
 
 This is a critique of legal singularity, a work of sabotage, a speculative improvisation. It is not a game. It is a plan.
 

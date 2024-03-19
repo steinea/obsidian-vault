@@ -7,9 +7,9 @@ date: 2017-08-14
 permalink: 2017/08/14/being-and-time-4
 ---
 
-# Being and Time, 4
+### Authenticity, Nullity, Freedom
 
-[[2017]] / [[Blog]]
+[[2017]] • [[Blog]]
 
 In the previous response, our discussion of Heidegger's notion of "being-in" led us to the concept of the "there," the "*disclosedness*" of Dasein, the "burden" of Dasein's existence as thrown into the world (129ff.). In thrownness we encounter Dasein's "being-possible," and the understanding which *projects* this possibility onto the world as care (139-40). Through the equiprimordial union of understanding with discourse, we experience care as the "articulation of the intelligibility of the there," the "*upon which*" of Dasein's projection (147). Thus, Dasein's being-in-the-world is always already *interpreted* as being-possible. The there as the existential space of Dasein is the "openness" and "clearing" of existence as the "potentiality of being" (129, 140). And yet, in its thrownness, even Dasein's interpretation is thrown, entangled with the world and lost in the *they*. Dasein's everyday being-possible is *inauthentic* (169). Rather than choose one's "*ownmost* Dasein," one is "guided" by the they, and "*plunge\[s\]*" into the "groundlessness and nothingness of inauthentic everydayness" (169ff.). The task that emerges, then, is to gain the "phenomenal horizon" from which the *authentic* being of Dasein might be recovered (161). The following response will engage with the question of authenticity as it plays out over the remainder of *Being and Time*.
 

@@ -7,11 +7,9 @@ date: 2015-12-01
 permalink: 2015/12/01/speaking-double
 ---
 
-# Speaking Double
-
 ### Indexicals in Role-Play and Story-World Negotiation
 
-[[2015]] / [[Blog]]
+[[2015]] • [[Blog]]
 
 *Analytic Framework*
 

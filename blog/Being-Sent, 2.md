@@ -6,9 +6,7 @@ date: 2018-12-03
 permalink: 2018/12/03/being-sent-2
 ---
 
-# Being-Sent, 2
-
-[[2018]] / [[Blog]]
+[[2018]] • [[Blog]]
 
 A man blind from birth sits, alone but for surveilling law and its bitter executors. The Rabbi passes by, sent for a work, sent to this man, to mix mud from spit and earth, to coat eyes with matter, to sink vision in soil, to send another, to be sent, again.
 

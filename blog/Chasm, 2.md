@@ -7,9 +7,9 @@ date: 2019-01-15
 permalink: 2019/01/15/chasm-2
 ---
 
-# Chasm, 2
+### The Element
 
-[[2019]] / [[Blog]]
+[[2019]] • [[Blog]]
 
 > *Ever to the child in man, night neighbours the stars.* —Heidegger[^1]
 

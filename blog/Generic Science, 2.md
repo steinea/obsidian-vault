@@ -7,9 +7,9 @@ date: 2021-04-12
 permalink: 2021/04/12/generic-science-2
 ---
 
-# Generic Science, 2
+### Parmenides, Anaxagoras, Badiou
 
-[[2021]] / [[Blog]]
+[[2021]] • [[Blog]]
 
 Why begin with void? After drawing our continuity between the abstract ontologies of Anaximander, Pythagoras, and Heraclitus, we can now return to Alain Badiou and his peculiar beginning, using it as a staging area for engaging with Parmenides of Elea and Anaxagoras of Clazomenae. This progression of essays has allowed us to separate the traditional pair of Heraclitus and Parmenides, so keeping us at a distance from Plato's treatment of the two thinkers and allowing their philosophies to stand on their own. This should, in turn, put us on a better footing for returning to Badiou as promised and engaging with the motive for his philosophical project.
 

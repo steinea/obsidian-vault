@@ -6,9 +6,7 @@ date: 2016-07-15
 permalink: 2016/07/15/stuck-in-the-system
 ---
 
-# Stuck in the System
-
-[[2016]] / [[Blog]]
+[[2016]] • [[Blog]]
 
 Certain discomforts are expected while travelling. Here in Ethiopia we have depended on pre-filtered water, slathered on huge amounts of hand-sanitizer, and discovered the unique fragility of Ethiopian plumbing (not to mention our own)---all normal obstacles for delicate, ignorant Westerners like ourselves. We have had our fair share of wrangling with the internet as well: poor connectivity, slow speeds, or no service at all. And then the government turned the internet off completely.
 

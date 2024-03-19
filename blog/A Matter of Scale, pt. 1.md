@@ -6,9 +6,7 @@ date: 2015-07-16
 permalink: 2015/07/16/a-matter-of-scale-part-1
 ---
 
-# A Matter of Scale, pt. 1
-
-[[2015]] / [[Blog]]
+[[2015]] • [[Blog]]
 
 To see beyond ourselves is simply a matter of scale.
 

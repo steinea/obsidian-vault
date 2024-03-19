@@ -7,9 +7,9 @@ date: 2017-04-27
 permalink: 2017/04/27/being-and-time-1
 ---
 
-# Being and Time, 1
+### The Rescue of Being
 
-[[2017]] / [[Blog]]
+[[2017]] • [[Blog]]
 
 In his preface to the seventh German edition of *Being and Time*, Heidegger makes clear his intent in writing: to "raise anew *the question of the meaning of being* \[*Sein*\]" (xxix, original emphasis). It will be his task, over the course of the introduction, to "reawaken an understanding for the meaning of this question" (xxix). Indeed, the overarching project of *Being and Time* is to wrest the question of the meaning of being from "obscurity" (2), and to restore it to primacy as *the* philosophical task. To do so, the *givenness* of being, which Heidegger sees as a consequence of the historical degeneration of Greek thought, must be questioned. As the quotation in the note preceding the introduction reads: "For manifestly you have been long aware of what you mean when you use the expression *'being'* \[*'seiend'*\]. We, however, who use to think we understood it, have now become perplexed" (xxix). The being of being perplexes; it must be analyzed, questioned, so that the *ontological* might be rescued from the obscure obviousness of the *metaphysical*. From section one to section thirteen, Heidegger attempts precisely such a rescue. In these opening pages of *Being and Time*, Heidegger effectively dismantles classical metaphysics and its modern appropriations, so that the question of the meaning of being might once again be the driving force of philosophy.
 

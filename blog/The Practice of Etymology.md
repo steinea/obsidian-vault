@@ -6,9 +6,7 @@ date: 2016-05-29
 permalink: 2016/05/29/the-practice-of-etymology
 ---
 
-# The Practice of Etymology
-
-[[2016]] / [[Blog]]
+[[2016]] • [[Blog]]
 
 Taking the conceptual methodology developed previously, I would like to return to the matter of etymology employed *as practice*, as in the first entry here.
 

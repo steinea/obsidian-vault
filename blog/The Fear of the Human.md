@@ -6,9 +6,7 @@ date: 2016-12-28
 permalink: 2016/12/28/the-fear-of-the-human
 ---
 
-# The Fear of the Human
-
-[[2016]] / [[Blog]]
+[[2016]] • [[Blog]]
 
 We know more than we can tell. This is chemist and philosopher Michael Polanyi's thesis in his slim volume *The Tacit Dimension.* It is also one of the many world-altering theses that we are presented with in HBO's new series *Westworld.* We know more than we can tell. But if we cannot tell what we know, how do we know we really know something? This lack of certainty is terrifying.
 

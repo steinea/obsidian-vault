@@ -6,9 +6,7 @@ date: 2021-08-20
 permalink: 2021/08/20/concrete-rules
 ---
 
-# Concrete Rules
-
-[[2021]] / [[Blog]]
+[[2021]] • [[Blog]]
 
 “There are rules, rules of ‘plan(n)ing,’ of diagramming, as we will see later on, or elsewhere…”
 

@@ -6,9 +6,7 @@ date: 2015-05-23
 permalink: 2015/05/23/the-field-and-the-other
 ---
 
-# The Field and the Other
-
-[[2015]] / [[Blog]]
+[[2015]] • [[Blog]]
 
 I would like to extend my argument from the last post---or rather, return to a subsidiary thesis of the last post and expand upon it. A field, specifically a lexical field, can be a place or a text, any discrete object to which associations, connotations, and meanings can be attached. When I encounter such a place or text, I must negotiate the meanings that I and the field share, the overlap, and so, in the process, produce a new object, a new, unified field. Importantly for this process, and for my argument today, we, ourselves, are not perfectly discrete and objective. We, ourselves, in our conscious subjectivity, exist at the centre of our own field of associations, connotations, and meanings, the unconscious habitus which I have referred to previously. And so, to read a text, or go into the field, is to enmesh and entangle the field of myself with the field of this other.
 

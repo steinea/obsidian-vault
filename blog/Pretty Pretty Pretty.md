@@ -6,9 +6,7 @@ date: 2014-09-29
 permalink: 2014/09/29/pretty-pretty-pretty
 ---
 
-# Pretty Pretty Pretty
-
-[[2014]] / [[Blog]]
+[[2014]] • [[Blog]]
 
 The latest collaboration between pulp filmmaker Robert Rodriguez and noir comic book creator Frank Miller, *Sin City: A Dame to Kill For* is all look, that is to say, it is a spectacle, fully embracing and embodying the "patriarchal culture" of cinema Laura Mulvey critiques (232). As in the first *Sin City*, *A Dame to Kill For* is marked by its hyperstylized aesthetic, Frank Miller's characteristic comic book style transposed onto the screen. But, unlike the first film, *A Dame to Kill For* doesn't surprise or revolutionize. It succeeds only in drawing attention to its own voyeurism and misogyny, reinforcing the dominance of the male gaze, and the incredible lengths to which females must go to escape it.
 

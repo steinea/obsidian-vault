@@ -6,9 +6,7 @@ date: 2015-05-16
 permalink: 2015/05/16/field-meaning-relation
 ---
 
-# Field, Meaning, Relation
-
-[[2015]] / [[Blog]]
+[[2015]] • [[Blog]]
 
 What is the field? This is the question that we have been exploring together as a class, or rather, as members of a "field team" embarking on a "field school," as we prepare to depart for France. This, here, is some of what I have been thinking.
 

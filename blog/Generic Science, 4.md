@@ -7,9 +7,9 @@ date: 2021-06-10
 permalink: 2021/06/10/generic-science-4
 ---
 
-# Generic Science, 4
+### Leucippus, Democritus, Diogenes, Gorgias
 
-[[2021]] / [[Blog]]
+[[2021]] • [[Blog]]
 
 As in the previous entry on generic science, this fourth and final piece in the series will engage with a set of post-Parmenidean thinkers in a direct and radical way, taking its que from the generic program articulated by Heraclitus. This essay will consider Leucippus of Abdera, Democritus of Abdera, Diogenes of Apollonia, and Gorgias of Leontini.
 

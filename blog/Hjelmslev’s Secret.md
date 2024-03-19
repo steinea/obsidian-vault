@@ -7,9 +7,9 @@ date: 2017-07-31
 permalink: 2017/07/31/hjelmslevs-secret
 ---
 
-# Hjelmslev’s Secret
+### An Advance, or a Regression?
 
-[[2017]] / [[Blog]]
+[[2017]] • [[Blog]]
 
 As a contribution to the discipline of semiology established by Ferdinand de Saussure in his *Course in General Linguistics* (1916), Louis Hjelmslev's *Prolegomena to a Theory of Language* (1943) is both provocative and problematic. Taking from Saussure his two essential axioms, that "*the true and unique object of linguistics is language studied in and for itself*," and that "*language is a form and not a substance*" (Saussure 232, 122), Hjelmslev proceeds to analyze language as a "self-sufficient totality, a structure *sui generis*" (Hjelmslev 6), aiming for a definition of his "object by an arbitrary and appropriate strategy of premisses \[*sic*\]" (15). This means that the terms of his definition will be *internal* to language, derived from it, and thus unmotivated by the systems and methods of other disciplines. His singular methodological precommitment is to the "*empirical principle*"---that "*description shall be free of contradiction (self-consistent), exhaustive, and as simple as possible*" (11). By adhering to this principle, Hjelmslev intends to establish linguistics as a "systematic, exact, and generalizing science" (6, 9). But in taking this approach to the science of language, Hjelmslev must wrestle with the tensions produced by the application of deductive empiricism to a formal whole. If Saussure's revolution was in the refutation of substantialist linguistics (Stein 6), then it remains to be seen whether Hjelmslev's methodology will lead him to a regressive position, or a true advancement of his predecessor's thought.
 

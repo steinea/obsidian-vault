@@ -7,9 +7,9 @@ date: 2017-03-29
 permalink: 2017/08/31/figures-of-dune-2
 ---
 
-# Figures of Dune, 2
+### The Problem of Fiction
 
-[[2017]] / [[Blog]]
+[[2017]] • [[Blog]]
 
 Why do we talk about fiction? Why do we talk about stories? Why do we continue to produce papers and books and fan-theories and YouTube commentaries, and go so far as to spend years of our lives and thousands of dollars earning degrees, all for the sake of what some might disparagingly call *make believe*? It’s pretend, a pretense, made up---so what is the point? When will we, with our interests of dubious value, *grow up*? And how do we respond to such questions without resorting to distinctions of taste, without defining ourselves and our interests against those *other people*---whoever one chooses to scapegoat? Whether one is passionate about *Beowulf* or *Pride and Prejudice*, *Ulysses* or *The Hunger Games*, whether one reads only realist literature, or serious literature, or Literature with a capital L, the *problem of fiction* remains. It is in our blood.
 

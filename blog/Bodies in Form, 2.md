@@ -7,9 +7,9 @@ date: 2021-05-28
 permalink: 2021/05/28/bodies-in-form-2
 ---
 
-# Bodies in Form, 2
+### Tabletop Roleplaying as Cosmic Poetics
 
-[[2021]] / [[Blog]]
+[[2021]] • [[Blog]]
 
 #### Introduction
 

@@ -7,9 +7,9 @@ date: 2021-04-28
 permalink: 2021/04/28/idea-of-gamer-2
 ---
 
-# The Idea of the Gamer, 2
+### Anxiety, Ethics, and Games
 
-[[2021]] / [[Blog]]
+[[2021]] • [[Blog]]
 
 At last continuing with Amanda Phillips' *Gamer Trouble*[^1] for the *No Escape* book club,[^2] it is time we look at chapter one of Phillips' book, "Of Dickwolves and Killjoys."
 

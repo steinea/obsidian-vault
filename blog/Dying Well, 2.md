@@ -7,9 +7,9 @@ date: 2022-05-23
 permalink: 2022/05/23/dying-well-2
 ---
 
-# Dying Well, 2
+### Kinetics and Cosmology
 
-[[2022]] / [[Blog]]
+[[2022]] • [[Blog]]
 
 > *Our movement lies in nature; we are its death.* —Thomas Nail
 

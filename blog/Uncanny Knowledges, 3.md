@@ -7,9 +7,9 @@ date: 2020-04-17
 permalink: 2020/04/17/uncanny-knowledges-3
 ---
 
-# Uncanny Knowledges, 3
+### Toward an Intestinal Thought
 
-[[2020]] / [[Blog]]
+[[2020]] • [[Blog]]
 
 #### 1
 

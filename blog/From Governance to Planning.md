@@ -7,9 +7,9 @@ date: 2021-04-10
 permalink: 2021/04/10/from-governance-to-planning
 ---
 
-# From Governance to Planning
+### Nuclearity, Ludology, Anarchy
 
-[[2021]] / [[Blog]]
+[[2021]] • [[Blog]]
 
 #### I
 

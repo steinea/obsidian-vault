@@ -6,9 +6,7 @@ date: 2017-11-17
 permalink: 2017/11/17/being-planetary
 ---
 
-# Being Planetary
-
-[[2017]] / [[Blog]]
+[[2017]] • [[Blog]]
 
 #### I.
 

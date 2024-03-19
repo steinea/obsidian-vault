@@ -7,9 +7,9 @@ date: 2017-04-04
 permalink: 2017/04/04/thoreaus-cabin
 ---
 
-# Thoreau’s Cabin
+### An Economy of Space, Sociality, and the Common
 
-[[2017]] / [[Blog]]
+[[2017]] • [[Blog]]
 
 #### Introduction
 

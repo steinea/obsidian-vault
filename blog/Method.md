@@ -6,9 +6,7 @@ date: 2021-05-29
 permalink: 2021/05/29/method
 ---
 
-# Method
-
-[[2021]] / [[Blog]]
+[[2021]] • [[Blog]]
 
 *Here is the purity of means*.
 

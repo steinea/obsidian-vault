@@ -6,9 +6,7 @@ date: 2019-08-20
 permalink: 2019/08/20/uncanny-knowledges
 ---
 
-# Uncanny Knowledges, 1
-
-[[2019]] / [[Blog]]
+[[2019]] • [[Blog]]
 
 > *A map is not the territory it represents, but, if correct, it has a* similar structure *to the territory, which accounts for its usefulness.* ---Alfred Korzybski[^1]
 

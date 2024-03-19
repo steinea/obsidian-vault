@@ -6,9 +6,7 @@ date: 2015-06-13
 permalink: 2015/06/13/the-weight-of-freedom
 ---
 
-# The Weight of Freedom
-
-[[2015]] / [[Blog]]
+[[2015]] • [[Blog]]
 
 In the introduction to their book *D-Day in History and Memory: The Normandy Landings in International Remembrance and Commemoration,* Dolski, Edwards, and Buckley cite William Hitchcock's simple explanation of D-Day as "both a glorious chapter in military history and a human tragedy of enormous scope".[^1] Regarding this human tragedy of D-Day, the civilian toll is particularly shocking. Thousands of French civilians were reduced to collateral by the Allied assault. Today, these civilian casualties are often referred to as martyrdoms---unfortunate deaths made necessary and meaningful by the context of total war against a tyrant---but the sting, for many, remains.
 

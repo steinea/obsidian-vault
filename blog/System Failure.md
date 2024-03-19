@@ -6,9 +6,7 @@ date: 2015-09-05
 permalink: 2015/09/05/system-failure
 ---
 
-# System Failure
-
-[[2015]] / [[Blog]]
+[[2015]] • [[Blog]]
 
 In the week or so since my family and I regained power, I've been thinking about the systems in which we are embedded, and what happens when those systems fail. In particular, this notion of an "assemblage" has been tumbling around in my brain, a fancy piece of critical theory jargon that is actually quite useful.[^1]
 

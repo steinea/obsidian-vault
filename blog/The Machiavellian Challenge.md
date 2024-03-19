@@ -6,9 +6,7 @@ date: 2017-03-15
 permalink: 2017/03/15/the-machiavellian-challenge
 ---
 
-# The Machiavellian Challenge
-
-[[2017]] / [[Blog]]
+[[2017]] • [[Blog]]
 
 #### Introduction
 

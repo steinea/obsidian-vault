@@ -7,11 +7,9 @@ date: 2023-05-26
 permalink: 2023/05/26/we-can-always-play-backgammon
 ---
 
-# We Can Always Play Backgammon
-
 ### Empiricism and Subjectivity
 
-[[2023]] / [[Blog]]
+[[2023]] • [[Blog]]
 
 <br>
 

@@ -6,6 +6,4 @@ date: 2023-04-02
 permalink: 2023/04/02/heisenberg
 ---
 
-# Heisenberg
-
-[[2023]] / [[Blog]]
+[[2023]] • [[Blog]]

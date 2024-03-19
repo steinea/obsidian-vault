@@ -6,9 +6,7 @@ date: 2022-07-16
 permalink: 2022/07/16/journal-now-play-to-lose
 ---
 
-# Journal, Now, Play to Lose
-
-[[2022]] / [[Blog]]
+[[2022]] • [[Blog]]
 
 I’m quite pleased to have gotten this HTML Journal up and running, and enjoying the more relaxed format to what I usually write. Checking in at The Neon Kiosk once a day is a pleasant little routine.
 

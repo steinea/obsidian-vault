@@ -7,9 +7,9 @@ date: 2021-03-05
 permalink: 2021/03/05/the-last-tree
 ---
 
-# The Last Tree
+### In Play #4
 
-[[2021]] / [[Blog]]
+[[2021]] • [[Blog]]
 
 The last tree fell some time in the night. Altar, bond, and measure of the community, the mighty trunk now lies humbled. Was it hewn by mortal means? Split by lightning? Uprooted by a great wind? Or did it simply collapse from the burden of its own massive frame, insides dry and brittle, a gnarled vestige of a once verdant earth? Cause yet unknown, the people gather, and remember.
 

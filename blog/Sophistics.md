@@ -7,9 +7,7 @@ date: 2021-07-19
 permalink: 2021/07/19/sophistics
 ---
 
-# Sophistics
-
-[[2021]] / [[Blog]]
+[[2021]] • [[Blog]]
 
 During my training in theory and criticism, I remember being exposed to the bogeyman of the Vienna Circle. However, when I read a short piece by Rudolf Carnap, Hans Hahn, and Otto Neurath in a later course on the philosophy of technology, "The Scientific Conception of the World" (1929), a pamphlet published to "give a survey of the area of problems in which those who belong to, or are near to, the Vienna Circle are working," what I encountered was not some cabal to be feared and despised but a cohort of allies.[^1] Carnap, Hahn, and Neurath's presentation of their "scientific world-conception" was all together different from what I expected.[^2] They envisioned a "scientifically oriented people's education," and various members of the school were involved in the institution of a "society for popular education" that offered "popular university courses" and a "people's college."[^3] On the basis of their scientific world-conception, members of the Vienna Circle worked "toward a new organization of economic and social relations, toward the unification of mankind, [and] toward a reform of school and education."[^4] It was the Vienna Circle's intent to "fashion intellectual tools for everyday life, for the daily life of the scholar but also for the daily life of all those who in some way join in working at the conscious reshaping of life."[^5] What is more, the "*anti-metaphysical factual research*" of the Vienna Circle challenged aristocratic and authoritarian modes of thought, making it a threat to the rising fascist powers in Europe. Carnap, a socialist and pacifist, would flee for the United States just six years after the publication of this text.
 

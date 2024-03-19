@@ -2,14 +2,14 @@
 layout: post
 category: blog
 title: A Model of Actions
-subtitle: Empiricism and Subjectivity, 3
+subtitle: Empiricism and Subjectivity, 2
 date: 2023-06-18
 permalink: 2023/06/18/a-model-of-actions
 ---
 
-# A Model of Actions
+### Empiricism and Subjectivity, 2
 
-[[2023]] / [[Blog]]
+[[2023]] • [[Blog]]
 
 <br>
 
@@ -62,7 +62,7 @@ The "institution" is a machine, a "designed system of possible satisfaction."[^1
 [^22]: Deleuze, *Empiricism and Subjectivity*, 43, 50.
 [^23]: Deleuze, *Empiricism and Subjectivity*, 33.
 
-Deleuze concludes the chapter with an analysis of the "three dimensions" of the "general rule" of property: "its *establishment*, its *determination*, and its *correction*."[^24] This analytic model could be extended to any such rule or institution, or to a collection of these that constitutes a given moral world. We will leave the discussion here, with the possibility of such analysis left open for the future. Next time, we will turn to chapter three of *Empricism and Subjectivity* with a closer look at how the rules or models discussed here are possible at all.
+Deleuze concludes the chapter with an analysis of the "three dimensions" of the "general rule" of property: "its *establishment*, its *determination*, and its *correction*."[^24] This analytic model could be extended to any such rule or institution, or to a collection of these that constitutes a given moral world. We will leave the discussion here, with the possibility of such analysis left open for the future. Next time, we will turn to chapter three of *Empiricism and Subjectivity* with a closer look at how the rules or models discussed here are possible at all.
 
 [^24]: Deleuze, *Empiricism and Subjectivity*, 50.
 

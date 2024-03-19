@@ -6,9 +6,7 @@ date: 2017-12-06
 permalink: 2017/12/06/sightlessness-and-star-trek-discovery
 ---
 
-# Sightlessness and *Star Trek: Discovery*
-
-[[2017]] / [[Blog]]
+[[2017]] • [[Blog]]
 
 From the physiological to the cultural to the cosmological level, human experience is oriented by the sense of sight. And yet, there is a profound ambiguity to this sense, an ambiguity that structures through and through our everyday being in the world. So, when CBS started airing *Star Trek: Discovery* this Fall (which just wrapped its first half-season of nine episodes in November), I was fascinated to see it so consistently deploying *vision* as a cinematic device. *Star Trek: Discovery* takes up issues of race and friendship, war and justice, trauma and redemption, but, intriguingly, these issues appear as structured through vision. But what is it to say that something is *structured* by vision? What is it really to be oriented by sight?
 

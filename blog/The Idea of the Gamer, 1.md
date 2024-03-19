@@ -7,9 +7,9 @@ date: 2021-03-25
 permalink: 2021/03/25/idea-of-gamer
 ---
 
-# The Idea of the Gamer, 1
+### Introduction to Amanda Phillips’ *Gamer Trouble*
 
-[[2021]] / [[Blog]]
+[[2021]] • [[Blog]]
 
 Over at *No Escape*,[^1] Kaile Hultner proposed the idea of a reading group that would asynchronously work its way through Amanda Phillips' *Gamer Trouble: Feminist Confrontations in Digital Culture* (2020).[^2] With the semester nearing its end, this seemed to me like an excellent opportunity to engage with some contemporary work in game studies, and to do so in conversation with others. A month or so later, the book having finally reached me, it is time to begin.
 

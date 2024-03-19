@@ -7,11 +7,9 @@ date: 2014-11-27
 permalink: 2014/11/27/identity-and-unknowing
 ---
 
-# Identity and (Un)knowing
-
 ### Babel in the Anglo-Saxon Imagination
 
-[[2014]] / [[Blog]]
+[[2014]] • [[Blog]]
 
 *The Second Dialogue of Solomon and Saturn* (Shippey 1976) is an enigmatic collection of riddling wisdom cast as a debate between its two titular figures. The dialogue comes from a long tradition of Abrahamic mythology, where Solomon spars with demons that "reveal . . . the mysteries of the universe" (Menner 333). In *The Second Dialogue,* however, the demons are replaced with Saturn, a more fully realized and worthy adversary for Solomon. It is this substitution of Saturn for the demons of Near Eastern myth, and for Marcolf of later medieval versions (Menner 332), that acts as the unique pivot for this particular dialogue. Through the initial riddles of *The Second Dialogue* Saturn draws attention to the "Babylon complex" (Scheil 54) of early Christianity in Anglo-Saxon England, the "web of narratives and images" that Babylon and the Tower of Babel represent (37). Saturn is set up as an icon of Orientalism, and he, along with Babel, stands for the "symbolic lack" of the Anglo-Saxon nation (Powell 119), a deeply seated, communal anxiety about identity and knowledge, the *absence* of identity and knowledge, that pervades the text.
 

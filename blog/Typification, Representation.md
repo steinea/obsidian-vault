@@ -6,9 +6,7 @@ date: 2015-06-16
 permalink: 2015/06/16/typification-representation
 ---
 
-# Typification, Representation
-
-[[2015]] / [[Blog]]
+[[2015]] • [[Blog]]
 
 As most readers should know, in January two gunmen entered the offices of *Charlie Hebdo*, a satirical French paper based in Paris, and killed eleven people, injuring eleven more. The gunmen, members of Al-Qaeda, declared their violent acts to be retribution for the anti-Islamic satirical cartoons that *Charlie Hebdo *had published. In the following days and weeks a flurry of punditry swept the media, with individuals of all backgrounds and persuasions weighing in. The basic issue at stake: should *Charlie Hebdo* have published such cartoons? Or, another angle: were the killings (in some twisted way) justified? Which is to say, was *Charlie Hebdo* asking for it?
 

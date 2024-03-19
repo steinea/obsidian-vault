@@ -7,9 +7,9 @@ date: 2022-05-14
 permalink: 2022/05/14/dying-well
 ---
 
-# Dying Well, 1
+### Phaedo, 2
 
-[[2022]] / [[Blog]]
+[[2022]] • [[Blog]]
 
 In Plato's *Phaedo*, we find Socrates awaiting his execution, explaining to his followers why he does not fear his impending death. All that follows in the dialogue is an effort to prove that "a man who has truly spent his life in philosophy feels confident when about to die, and is hopeful that, when he has died, he will win very great benefits in the other world."[^1] It is Socrates's assertion that "all who actually engage in philosophy aright are practicing nothing other than dying and being dead."[^2]
 

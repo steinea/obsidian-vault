@@ -6,9 +6,7 @@ date: 2020-08-10
 permalink: 2020/08/10/metanarrative
 ---
 
-# Metanarrative
-
-[[2020]] / [[Blog]]
+[[2020]] • [[Blog]]
 
 Written for the [Unearthed Expansions Jam](https://itch.io/jam/unearthed-expansions), *Metanarrative* is not, primarily, an expansion for a game but an expansion for a book about games and the stories that we use games to tell. *Metanarrative* mechanizes Alexander Swords’ [Forest Paths Method](https://www.amazon.ca/dp/B083ZPHJY2) while introducing to it a layer of randomness. As such, *Metanarrative* is a game about the making of game narratives (thus the name).
 

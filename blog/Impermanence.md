@@ -6,9 +6,7 @@ date: 2015-06-25
 permalink: 2015/06/25/impermanence
 ---
 
-# Impermanence
-
-[[2015]] / [[Blog]]
+[[2015]] • [[Blog]]
 
 Why do people go to Notre-Dame de Paris? Why did *I* go to Notre-Dame de Paris? Why do we wait in a sunbaked courtyard, ringing with the clamour of tourists and street vendors and beggars, slowly winding our way to the entrance, so that we may take a glimpse inside? What is it about this place that so allures?
 

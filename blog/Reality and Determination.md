@@ -7,9 +7,9 @@ date: 2023-04-21
 permalink: 2023/04/21/reality-and-determination
 ---
 
-# Reality and Determination
+### Heisenberg
 
-[[2023]] / [[Blog]]
+[[2023]] • [[Blog]]
 
 For the last several years, through these field notes and my other writings, I have been pursuing a specific form of thought, a *diagram* of the real. This diagram is a twin, a [[Being and Motion|dual]], of being and becoming, void and individuation, reality and determination—neither more originary, neither reducible to the other.
 

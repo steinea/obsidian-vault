@@ -6,9 +6,7 @@ date: 2016-06-01
 permalink: 2016/06/01/the-people-vs-frank-castle
 ---
 
-# The People vs. Frank Castle
-
-[[2016]] / [[Blog]]
+[[2016]] • [[Blog]]
 
 To begin our discussion here it is necessary that we first define a term: *nomos.* For the legal theorist Robert Cover, the *nomos* is a "normative universe," a "world of right and wrong, of lawful and unlawful, of valid and void" ("*Nomos* and Narrative" 4).[^1] This *nomos* consists in its narratives, the shared texts of a culture, in all of their variety, that "locate \[the *nomos*\] and give it meaning" (NN 4). The norms and laws of a culture are not "merely a system of rules" but "a world in which we live" (NN 5). We inhabit the *nomos;* we cannot separate ourselves from it. Furthermore, we cannot separate our laws from our narratives. Indeed, for Cover, "\[e\]very prescription is insistent in its demand to be located in discourse" and "every narrative is insistent in its demand for its prescriptive point, its moral" (NN 5). 
 

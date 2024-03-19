@@ -7,9 +7,9 @@ date: 2019-04-06
 permalink: 2019/04/06/the-torqued-horizon
 ---
 
-# The Torqued Horizon
+### Preliminary Notes on the Hypersurface of the Real
 
-[[2019]] / [[Blog]]
+[[2019]] • [[Blog]]
 
 My task today is to trace the contours of an intuition, contours which, indeed, describe a structure of our existence, contours to which, I argue, we might be awakened by the project articulated by Quentin Meillassoux in his *After Finitude*: "*to get out of ourselves*, to grasp the in-itself, to know what is whether we are or not."[^1]
 

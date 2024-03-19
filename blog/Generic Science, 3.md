@@ -7,9 +7,9 @@ date: 2021-04-25
 permalink: 2021/04/25/generic-science-3
 ---
 
-# Generic Science, 3
+### Zeno, Melissus, Empedocles
 
-[[2021]] / [[Blog]]
+[[2021]] • [[Blog]]
 
 To this point, our discussion of a *generic science*, itself a continuation of our discussion of the Milesian intuition of an *originary dual*, has been mostly concerned with the sketching of a diagram, the drawing of a line of continuity, between Anaximander's distinctly Milesian abstraction and Heraclitus's apparent mandate of an empirical methodology. This sketchwork has allowed for a rereading of Parmenides, and his inheritor Anaxagoras, outside of, and properly prior to, the opposition of Parmenides and Heraclitus in the Platonic *duel*.
 

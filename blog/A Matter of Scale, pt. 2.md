@@ -6,9 +6,7 @@ date: 2015-07-17
 permalink: 2015/07/17/a-matter-of-scale-part-2
 ---
 
-# A Matter of Scale, pt. 2
-
-[[2015]] / [[Blog]]
+[[2015]] • [[Blog]]
 
 I have talked at length about the ethical necessity of relationships and the unique freedom that we can find there. I have talked about the power of monuments and their remarkable capacity for taking us *out of circuit*[^1] with ourselves, allowing us to step out and look back and see things from a different perspective. And in the previous essay, part one of "A Matter of Scale," I tried to see just how far I could step.
 

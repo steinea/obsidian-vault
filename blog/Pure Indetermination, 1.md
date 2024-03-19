@@ -7,9 +7,9 @@ date: 2021-03-05
 permalink: 2021/03/05/pure-indetermination
 ---
 
-# Pure Indetermination, 1
+### From the Milesians to the Pythagoreans
 
-[[2021]] / [[Blog]]
+[[2021]] • [[Blog]]
 
 Continuing on from our discussion of the Milesians, our next Presocratic school of thought is the Pythagoreans (which includes Pythagoras of Samos himself, Philolaus of Croton, Petron of Himera, and Eurytus of Croton). In my first reading of the Pythagoreans five years ago, I remember being intrigued by some of their ideas, but finding little purchase in their system as a whole. This time, however, was different. Specifically, in rereading Waterfield's introduction, I found my attention arrested by a footnote citing K. S. Guthrie's *The Pythagorean Sourcebook*, which asserts the following of the Pythagorean philosophy:
 

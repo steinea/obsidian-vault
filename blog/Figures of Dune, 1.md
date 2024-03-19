@@ -7,9 +7,9 @@ date: 2017-03-29
 permalink: 2017/03/29/figures-of-dune
 ---
 
-# Figures of Dune, 1
+### Artefact, Form, and the Technics of Myth
 
-[[2017]] / [[Blog]]
+[[2017]] • [[Blog]]
 
 Jacques Derrida, in his dialogue with historian Elisabeth Roudinesco, argues for “the debt of all theoretical (but also all juridical, ethical and political) positing, to a performative power structured by fiction, by a figural invention.” Frank Herbert, in his science fiction masterwork *Dune*, uses this performative, inventive force to draw his readers into a mythos of the human being that highlights the very technologies by which we define ourselves as such, technologies which too often lead to violence perpetrated in the name of justice. It is this interface of human, fiction, technology, and myth, which is the subject of my research.[^1]
 

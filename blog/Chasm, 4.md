@@ -9,4 +9,4 @@ permalink: 2021/02/07/chasm
 
 # Chasm, 4
 
-[[2021]] / [[Blog]]
+[[2021]] • [[Blog]]

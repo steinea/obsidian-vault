@@ -6,9 +6,7 @@ date: 2022-09-16
 permalink: 2022/09/16/marking-differences
 ---
 
-# Marking Differences
-
-[[2022]] / [[Blog]]
+[[2022]] • [[Blog]]
 
 Back in June, over on the [assemblag.es](https://assemblag.es/) Mastodon instance, [CJ Eller](https://blog.cjeller.site/) and I had a productive exchange about modes of knowledge organization (see CJ’s “[Garbage Heap](https://blog.cjeller.site/garbage-heap),” my “[[Compost Epistemology]],” CJ’s “[Communities of Compost](https://blog.cjeller.site/communities-of-compost),” and our [short discussion](https://assemblag.es/web/@steinea/108506585813404901)). Subsequently, in reading about [Zettelkasten](https://en.wikipedia.org/wiki/Zettelkasten) (*slip box systems*), I was linked to Niklas Luhmann’s “[Communicating with Slip Boxes: An Empirical Account](https://luhmann.surge.sh/communicating-with-slip-boxes)” (1981), in which he writes:
 

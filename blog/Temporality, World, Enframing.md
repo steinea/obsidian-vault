@@ -6,9 +6,7 @@ date: 2019-06-13
 permalink: 2019/06/13/temporality-enframing
 ---
 
-# Temporality, World, Enframing
-
-[[2019]] / [[Blog]]
+[[2019]] • [[Blog]]
 
 #### Introduction
 

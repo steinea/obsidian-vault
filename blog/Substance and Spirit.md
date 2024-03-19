@@ -7,9 +7,9 @@ date: 2017-04-19
 permalink: 2017/04/19/substance-and-spirit
 ---
 
-# Substance and Spirit
+### Complexity and Ontogenesis contra Plantingan Dualism
 
-[[2017]] / [[Blog]]
+[[2017]] • [[Blog]]
 
 #### I. Introduction
 

@@ -6,9 +6,7 @@ date: 2019-11-18
 permalink: 2019/11/18/advent
 ---
 
-# Advent
-
-[[2019]] / [[Blog]]
+[[2019]] • [[Blog]]
 
 *Advent* is a 200 word tabletop rpg originally written for and submitted to the 2019 [200 Word RPG Challenge](https://200wordrpg.github.io/). Following on my longer game, [*umbral / rhizome*](https://vagrantludology.itch.io/umbralrhizome), this game is another ludotheoretical text using philosophy as a vehicle for play, and play as a vehicle for philosophy.
 

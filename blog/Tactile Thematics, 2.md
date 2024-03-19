@@ -7,9 +7,9 @@ date: 2023-05-16
 permalink: 2023/05/16/tactile-thematics-2
 ---
 
-# Tactile Thematics, 2
+### Passages of Plurality in FromSoftware’s *Elden Ring*
 
-[[2023]] / [[Blog]]
+[[2023]] • [[Blog]]
 
 #### Introduction
 

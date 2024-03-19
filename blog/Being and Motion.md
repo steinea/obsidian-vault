@@ -7,9 +7,9 @@ date: 2021-02-25
 permalink: 2021/02/11/being-and-motion
 ---
 
-# Being and Motion
+### Thales, Anaximander, Anaximenes
 
-[[2021]] / [[Blog]]
+[[2021]] • [[Blog]]
 
 For some time now, my brother and I have been converging on a research program exploring the "problem of universals," he from psychology and I from philosophy. With both of us out of school, and stay-at-home guidelines still in effect due to COVID-19, it seemed a perfect opportunity to start a reading group of two and work through some materials that are of mutual interest to us.
 

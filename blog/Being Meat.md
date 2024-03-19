@@ -7,9 +7,9 @@ date: 2022-08-29
 permalink: 2022/08/29/being-meat
 ---
 
-# Being Meat
+### Review of Tom Tyler’s *Game: Animals, Video Games, and Humanity*
 
-[[2022]] / [[Blog]]
+[[2022]] • [[Blog]]
 
 To talk about Tom Tyler’s [*Game: Animals, Video Games, and Humanity*](https://bookshop.org/books/game-animals-video-games-and-humanity/9781517910198), we need to talk about meat. Indeed, if Tyler’s final chapter is to be taken at its word, meat is the point of the whole book—or rather, the point is to persuade readers to give up their taste for meat. Ranging in topic from classics to apologetics to nutrition, this chapter does not so much present an argument to tie together the disparate essays comprising the book, but rather, in an all-too-clever twist, characterizes the whole collection as a “Trojan Horse” for a “vegan sensibility.” This move does a disservice to Tyler’s project, undercutting what I found to be a brisk, insightful, and accessible study of the myriad relationships between animals and games.
 

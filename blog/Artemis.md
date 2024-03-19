@@ -6,9 +6,7 @@ date: 2022-07-30
 permalink: 2022/07/30/artemis
 ---
 
-# Artemis
-
-[[2022]] / [[Blog]]
+[[2022]] • [[Blog]]
 
 I’ve been reading more about NASA’s Artemis program, and specifically taking a look at the [Artemis Accords](https://www.nasa.gov/specials/artemis-accords/index.html) of 2020, a “shared vision for principles, grounded in the [Outer Space Treaty of 1967](https://www.unoosa.org/oosa/en/ourwork/spacelaw/treaties/introouterspacetreaty.html), to create a safe and transparent environment which facilitates exploration, science, and commercial activities for all of humanity to enjoy.”
 

@@ -6,9 +6,7 @@ date: 2020-06-30
 permalink: 2020/06/30/stay
 ---
 
-# Stay
-
-[[2020]] / [[Blog]]
+[[2020]] • [[Blog]]
 
 *Stay* is a game for Ellie and Dina, for solidarity, and for my heart. It is about belonging and obsession, protagonists and heroes, and what it means to remain.
 

@@ -6,9 +6,7 @@ date: 2023-01-01
 permalink: 2023/01/01/ring-fit
 ---
 
-# Ring Fit
-
-[[2023]] / [[Blog]]
+[[2023]] • [[Blog]]
 
 In 2015, I had a catastrophic ankle injury that left me walking on crutches for months. The tendons and ligaments that I damaged never fully recovered, and I have since reinjured the same ankle multiple times—most recently while hiking during the summer of 2022. In 2016, I started graduate school, and though I would not change my decision to pursue graduate studies, nor would I alter the professional path my studies set me upon, the negative side effects to my health as a consequence of this journey have not been insignificant. Though highly active throughout my youth and early twenties, these two personal factors have been the most substantial contributors to the decline in my general wellbeing over the last decade.
 

@@ -6,9 +6,7 @@ date: 2022-09-12
 permalink: 2022/09/12/destroy-this-computer
 ---
 
-# Destroy This Computer
-
-[[2022]] / [[Blog]]
+[[2022]] • [[Blog]]
 
 I believe I was first put on to this quotation by something on Alexander Galloway’s [blog](http://cultureandcommunication.org/galloway/), perhaps in relation to his [*Uncomputable*](https://www.versobooks.com/books/3885-uncomputable) (2021). Regardless, this part of an [interview](https://www.theparisreview.org/interviews/2977/the-art-of-fiction-no-81-milan-kundera) with Milan Kundera for the Paris Review has stuck with me:
 

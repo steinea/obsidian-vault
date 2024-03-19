@@ -7,11 +7,9 @@ date: 2023-09-16
 permalink: 2023/09/16/determined-figures
 ---
 
-# Determined Figures
-
 ### Empiricism and Subjectivity, 3
 
-[[2023]] / [[Blog]]
+[[2023]] • [[Blog]]
 
 <br>
 

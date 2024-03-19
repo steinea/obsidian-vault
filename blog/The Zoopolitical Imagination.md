@@ -7,9 +7,9 @@ date: 2017-04-12
 permalink: 2017/04/12/the-zoopolitical-imagination
 ---
 
-# The Zoopolitical Imagination
+### Animality, Sovereignty, and the Subject
 
-[[2017]] / [[Blog]]
+[[2017]] • [[Blog]]
 
 #### Introduction
 

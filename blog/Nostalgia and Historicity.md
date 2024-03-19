@@ -6,9 +6,7 @@ date: 2015-05-13
 permalink: 2015/05/13/nostalgia-and-historicity
 ---
 
-# Nostalgia and Historicity
-
-[[2015]] / [[Blog]]
+[[2015]] • [[Blog]]
 
 The first task before me---or rather, the first productive task before me (I've already done readings, which, in opposition to "productive" tasks might be labeled as "consumptive")---is to start a blog for my trip, and to write my first post, a pre-departure entry. 
 

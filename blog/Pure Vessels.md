@@ -7,9 +7,9 @@ date: 2020-06-19
 permalink: 2020/06/19/pure-vessels
 ---
 
-# Pure Vessels
+### The Insect and the Other in *Dark Souls* and *Hollow Knight*
 
-[[2020]] / [[Blog]]
+[[2020]] • [[Blog]]
 
 #### Introduction
 

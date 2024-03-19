@@ -6,9 +6,7 @@ date: 2021-06-09
 permalink: 2021/06/09/recombinatorics
 ---
 
-# Recombinatorics
-
-[[2021]] / [[Blog]]
+[[2021]] • [[Blog]]
 
 #### Changing the Game
 

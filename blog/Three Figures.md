@@ -7,9 +7,9 @@ date: 2016-11-21
 permalink: 2016/11/21/three-figures
 ---
 
-# Three Figures
+### Frank Herbert’s History of the Future
 
-[[2016]] / [[Blog]]
+[[2016]] • [[Blog]]
 
 #### Introduction
 

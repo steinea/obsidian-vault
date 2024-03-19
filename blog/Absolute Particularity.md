@@ -7,11 +7,9 @@ date: 2015-12-03
 permalink: 2015/12/03/absolute-particularity
 ---
 
-# Absolute Particularity
-
 ### The Immanent Movement of Grace
 
-[[2015]] / [[Blog]]
+[[2015]] • [[Blog]]
 
 To articulate Søren Kierkegaard's conclusion to Problema III of *Fear and Trembling,* to approach an explanation of the text and its argumentation, the reader must do the impossible: he must say the unsayable. Indeed, Kierkegaard takes his readers to the "boundary of the unknown territory" (76), drawing them into the movement of a dialectic that goes beyond utterance itself, entering into a region unfettered by the Hegelian logos (Franke 74). Kierkegaard undertakes a reading of the *Akadeh* of Genesis 22, the binding of Isaac, interrogating Abraham's actions in the hope that the "incomprehensibility" of the tale can be made clear (76). In Abraham's apparent willingness to sacrifice his beloved son, to the point that Isaac lies bound on the altar and Abraham raises the knife to slay him, Kierkegaard uncovers a troubling paradox: that there is neither an aesthetic nor an ethical rational for Abraham's actions and that, in his silence, "human knowing" is shown to be an "illusion" (76). The binding of Isaac is inexplicable. As an ethical dilemma it poses a distinctly *un*-reasonable problem---that a good and loving God would demand the life of a boy, and that the boy's father would be willing to carry out the sacrifice. But in Kierkegaard's reading this dilemma does not subvert Abraham's character, nor does it cast God as evil, contrary to his nature. The story of the binding of Isaac contains a meaning *beyond* reason, a meaning beyond aesthetic "particularity" and the "infinite movement" of the ethical (76), a meaning found in the relation *between* these two spheres of being, a meaning revealed only in the inarticulable paradox of grace.
 

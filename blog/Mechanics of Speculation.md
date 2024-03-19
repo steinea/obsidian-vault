@@ -7,9 +7,9 @@ date: 2022-09-21
 permalink: 2022/09/21/mechanics-of-speculation
 ---
 
-# Mechanics of Speculation
+### Review of Cameron Kunzelman’s *The World Is Born From Zero*
 
-[[2022]] / [[Blog]]
+[[2022]] • [[Blog]]
 
 The eighth volume in De Gruyter’s [Video Games and the Humanities](https://www.degruyter.com/serial/vgh-b/html) series, Cameron Kunzelman’s *The World Is Born From Zero* is a fascinating look at the intersection of games and science fiction, presenting a novel argument for what constitutes this intersection at the “formal and (often) microscopic level”—namely, Kunzelman’s concept of “mechanics of speculation”. After surveying the terrain in his introduction, Kunzelman elaborates this concept across four substantial chapters. He situates his argument against the backdrops of game studies, science fiction studies, and the tradition of speculative philosophy in chapter one, then proceeds to apply his argument to questions of labour and subjectivity in chapter two, anti-Blackness and visuality in chapter three, and climate and politics in chapter four. A two-page conclusion ends the book with a light touch, inviting engagement with and extension of the preceding inquiry.
 

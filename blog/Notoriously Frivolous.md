@@ -6,9 +6,7 @@ date: 2021-01-09
 permalink: 2021/01/09/notoriously-frivolous
 ---
 
-# Notoriously Frivolous
-
-[[2021]] / [[Blog]]
+[[2021]] • [[Blog]]
 
 *Notoriously Frivolous* is a game in conversation with David Graeber's essay, "[What's the Point if We Can't Have Fun?](https://thebaffler.com/salvos/whats-the-point-if-we-cant-have-fun)" It employs concrete modes of play to engage with Graeber's conception of a principle of "ludic freedom."
 

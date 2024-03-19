@@ -7,9 +7,9 @@ date: 2022-07-28
 permalink: 2022/07/28/play-to-lose
 ---
 
-# Play to Lose
+### Animation, Failure, and the Milieu in *Trophy Dark*
 
-[[2022]] / [[Blog]]
+[[2022]] • [[Blog]]
 
 In this paper, I want to take a different approach than I do usually---that is, to overtheorize, to become lost in the thicket of critique---and instead focus on *practice*. All too frequently in my work, I find myself following bypath after bypath, turned about amidst the woods and ruins, never to make it to the destination I set out to reach.[^1] There is certainly a place for theory, and much of my research efforts last year were concentrated on theorizing tabletop roleplaying games (specifically, lyric games and Belonging Outside Belonging games).[^2] But here, I want to dwell on practice, be *animated* by practice, spending these pages to discuss a semester of play in the university classroom, and in particular, a three-part play session of the "Witchwood" incursion for Jesse Ross's *Trophy Dark* (2021).[^3]
 

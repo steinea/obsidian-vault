@@ -7,9 +7,9 @@ date: 2022-04-27
 permalink: 2022/04/27/logic-of-scission
 ---
 
-# Logic of Scission
+### Phaedo
 
-[[2022]] / [[Blog]]
+[[2022]] • [[Blog]]
 
 In Plato's *Phaedo*, Simmias has the right of it:
 

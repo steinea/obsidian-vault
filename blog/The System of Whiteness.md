@@ -6,9 +6,7 @@ date: 2020-05-29
 permalink: 2020/05/29/system-of-whiteness
 ---
 
-# The System of Whiteness
-
-[[2020]] / [[Blog]]
+[[2020]] • [[Blog]]
 
 As a white kid who grew up in Langley, I grew up in *whiteness*. There is a fear among white folk that talking about *whiteness* is dangerous. But once again we have seen that *not being white* is a far more dangerous proposition. George Floyd was murdered by Derek Chauvin. This needs to be said. But we keep seeing such appalling stories in the media because of the *system* that makes them possible.
 

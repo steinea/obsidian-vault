@@ -7,9 +7,9 @@ date: 2016-12-14
 permalink: 2016/12/14/the-demand-of-the-text
 ---
 
-# The Demand of the Text
+### Reading the Apophatic Tradition through Gadamer’s Philosophical Hermeneutics
 
-[[2016]] / [[Blog]]
+[[2016]] • [[Blog]]
 
 #### 1. Language, Being, and Infinity
 

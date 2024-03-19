@@ -6,9 +6,7 @@ date: 2020-09-15
 permalink: 2020/09/15/good-exercise
 ---
 
-# Good Exercise
-
-[[2020]] / [[Blog]]
+[[2020]] • [[Blog]]
 
 *Good Exercise* is an anti-fascist gamic essay written in conversation with Umberto Eco's ever-timely "[Ur-Fascism](https://www.nybooks.com/articles/1995/06/22/ur-fascism/)."
 

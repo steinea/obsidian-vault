@@ -6,9 +6,7 @@ date: 2017-10-16
 permalink: 2017/10/16/navigating-spectrality 
 ---
 
-# Navigating Spectrality
-
-[[2017]] / [[Blog]]
+[[2017]] • [[Blog]]
 
 "My tears are flowing; earth, take back your child! ---Faust." So reads the epigraph to Byung-Chul Han's peculiar book *In the Swarm*, which signals his *founding* theme: that we have lost hold of the earth, the *terrestrial order*. Han's style is abrupt and frequently bombastic; *In the Swarm* reads like a manifesto (although no plan of action is ever proffered), the short chapters rushing by, each hinging on a concept or term introduced in the chapter preceding, circling and folding back on itself. In the preface, Han claims that "digital media \... is reprogramming us," that we are experiencing a "radical paradigm shift" of which we are unaware (loc. 58). The shift is taking place "below our threshold of conscious decision," a "crisis" produced by the "blindness and stupefaction" of our "frenzy" for the *new* (loc. 58). As a manifesto, then, *In the Swarm* is also an existential diagnosis, seeking to articulate the *spectrality* of a digital world that has dissolved its terrestrial roots (loc. 841). In this paper, I will attempt to follow the interlinking of Han's argument, and try to discern a plan of action that we might follow therein.
 

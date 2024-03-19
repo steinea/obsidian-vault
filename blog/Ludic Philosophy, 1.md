@@ -7,9 +7,9 @@ date: 2019-02-25
 permalink: 2019/02/25/ludic-philosophy
 ---
 
-# Ludic Philosophy, 1
+### From the Laboratory of Ideas
 
-[[2019]] / [[Blog]]
+[[2019]] • [[Blog]]
 
 "It was a passionate adventure, a laboratory of ideas, very distant from orthodoxies and -isms of the time."[^1]
 

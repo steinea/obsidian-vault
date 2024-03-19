@@ -6,9 +6,7 @@ date: 2015-08-30
 permalink: 2015/08/30/when-the-lights-go-out
 ---
 
-# When the Lights Go Out
-
-[[2015]] / [[Blog]]
+[[2015]] • [[Blog]]
 
 I write at a table in Starbucks, my phone and laptop plugged into the wall. Everyone else in town is here. The power is out. BC Hydro says it will stay out for a few more hours. So we flock to this bastion of electricity and wireless internet, tethered to our devices by cords and adapters, Instagram and Twitter feeds streaming with complaints and creatively framed pictures of stormy skies and rainy streets and businesses crowded with pajamas and haggard eyes and ponytails.
 

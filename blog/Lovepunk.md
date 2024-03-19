@@ -7,6 +7,6 @@ date: 2020-11-15
 permalink: 2020/11/15/lovepunk
 ---
 
-# Lovepunk
+### In Play #1
 
-[[2020]] / [[Blog]]
+[[2020]] • [[Blog]]

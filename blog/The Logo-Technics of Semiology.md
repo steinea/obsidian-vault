@@ -7,9 +7,9 @@ date: 2017-08-07
 permalink: 2017/08/07/the-logo-technics-of-semiology
 ---
 
-# The Logo-Technics of Semiology
+### Barthes and the Saussurean Legacy
 
-[[2017]] / [[Blog]]
+[[2017]] • [[Blog]]
 
 Where in Hjelmslev's *Prolegomena* (1943) only complexity is added to the discipline of semiology, Barthes's *Elements of Semiology* (1964) brings clarity, depth, and extension to it. The *Elements* is a valuable work of integration, bringing together the disparate thinkers of the discipline, and its adjacent fields (anthropology, ethnology, psychoanalysis, etc.), in a systematic synthesis. Tracing the key concepts of Saussure's *Course in General Linguistics* (1916) through the work of his successors, Barthes is able to demonstrate where genuine advances have been made, identify legitimate problems in the field, and straighten out terminological incoherence between the works of significant thinkers. Barthes also brings his own characteristically incisive mind to the table, extending semiological principles to systems other than language---including fashion, food, and furniture---in the mode of his earlier *Mythologies* (1957). Insofar as semiology, as proposed by Saussure, is the study of the "*life of signs within society*" (Saussure 16), semiology should, therefore, be able to "take in any system of signs, whatever their substance and limits" (Barthes 9). Indeed, it is Barthes's comfort with the culture in which he lives that enables him to effectively consider the "*great signifying unities* of discourse," so extending Saussure's principles to non-linguistic systems in a practicable and enlightening way (11). With the *Elements*, we see both the embeddedness of the semiological discipline in its particular historical and intellectual milieu, and the broad applicability of it to our own contemporary studies.
 

@@ -7,9 +7,9 @@ date: 2020-10-23
 permalink: 2020/10/23/the-dark-sigil-will-guide-thee
 ---
 
-# The Dark Sigil Will Guide Thee
+### The Hollowing Mechanic in FromSoftware’s *Souls* Games
 
-[[2020]] / [[Blog]]
+[[2020]] • [[Blog]]
 
 #### Introduction
 

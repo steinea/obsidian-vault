@@ -7,6 +7,6 @@ date: 2021-01-31
 permalink: 2021/01/31/dead-letters
 ---
 
-# Dead Letters
+### In Play #2
 
-[[2021]] / [[Blog]]
+[[2021]] • [[Blog]]

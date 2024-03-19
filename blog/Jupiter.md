@@ -6,9 +6,7 @@ date: 2022-09-06
 permalink: 2022/09/06/jupiter
 ---
 
-# Jupiter
-
-[[2022]] / [[Blog]]
+[[2022]] • [[Blog]]
 
 The “[Manifesto for the Committee to Abolish Outer Space](https://thenewinquiry.com/manifesto-of-the-committee-to-abolish-outer-space/)” is a text that deeply frustrates me and yet one that I think about often. It is a foreclosure of political possibility akin to anarcho-primitivism that refuses to think with those modes of radical thought that have found inspiration in space for mobilization here on earth. Outer space precedes us; it is ancestral, as Meillassoux would term it in his [*After Finitude*](https://books.google.ca/books/about/After_Finitude.html?id=lJjUAwAAQBAJ) (2008). As such, outer space presents an absolute pivot for thought upon which both radical and reactionary projects can turn (for instance, consider the difference between [Russian Cosmism](https://en.wikipedia.org/wiki/Russian_cosmism) and [Italian Futurism](https://en.wikipedia.org/wiki/Futurism), respectively). Outer space is the great neutral (which does not mean it is without features or traits; I am here thinking with Deleuze, [*Logic of Sensation*](https://books.google.ca/books/about/Francis_Bacon.html?id=5EEnyGsiTBIC) (1981) and Barthes, [*The Neutral*](https://books.google.ca/books/about/The_Neutral.html?id=bzXe1lp_DWsC) (2002)).
 

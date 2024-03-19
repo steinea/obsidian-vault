@@ -6,9 +6,7 @@ date: 2017-10-06
 permalink: 2017/10/06/the-womb-and-the-cave
 ---
 
-# The Womb and the Cave
-
-[[2017]] / [[Blog]]
+[[2017]] • [[Blog]]
 
 Carolyn Merchant, in "Mining the Earth's Womb" (1983), writes that a "female nurturing earth and virgin earth spirit were subdued by the machine" over the course of the seventeenth century (471). As I have noted previously, in my paper "The Sovereignty of the Subject: Theological and Political Trajectories," the seventeenth century saw a remarkable confluence of philosophical, political, and theological ideas that would simultaneously open Western thought to the development of Newtonian science (Oakley), while undermining the metaphysical (or onto-political) framework undergirding such a development (Balibar). If theological voluntarism provided a basis for mechanistic science, its roots in the Roman political tradition also provided a basis for a revolution of the philosophical and political subject that would collapse the hierarchical and causal structure so central to classical mechanics. But in all of this, I nowhere discussed the question of gender. As Balibar notes, in the classical political hierarchy inherited by Descartes, and the tradition preceding him, women were included in the "heterogenous set" of "dependent" subjects, along with "slaves," "children," and "adopted relatives" (8). With the transposition of this political apparatus into the theological (voluntarism) and philosophical (Descartes), the *transcendental* subjection of women (and slaves, and children, and outsiders) seems unavoidable. As Merchant shows, such a subjection was in fact the case: philosophical, political, and theological metaphors of "dominion" led, in the seventeenth century, to the *domination* of women, and the feminine or dependent abstractly, in a heretofore unseen way (472). If we are to follow Balibar in critically assessing the historical roots of our politics and philosophy, Merchant's arguments should not be ignored.
 

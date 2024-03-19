@@ -7,9 +7,9 @@ date: 2020-06-03
 permalink: 2020/06/03/praise-the-sun
 ---
 
-# Praise the Sun
+### The Metaphysics of *Dark Souls* from the First Flame to the End of Fire
 
-[[2020]] / [[Blog]]
+[[2020]] • [[Blog]]
 
 #### Introduction
 

@@ -7,9 +7,9 @@ date: 2021-03-28
 permalink: 2021/03/28/generic-science
 ---
 
-# Generic Science, 1
+### Heraclitus, Intelligence, and the Comon
 
-[[2021]] / [[Blog]]
+[[2021]] • [[Blog]]
 
 Having used Badiou to think through the Pythagoreans, I wanted to return to the beginning of his lecture and try to deal with the question of *why* we would want to begin with void at all.[^1] Certainly, it is conceivable in the abstract, but why *ought* we do so? I intended to use Heraclitus and Parmenides to this end, but when I returned to Heraclitus, not just to invoke him as a premonition of the likes of Derrida and Deleuze, but really to make a *return*, to suspend my preconceptions of his philosophy and *begin again*,[^2] it became clear to me that the Badiousian connection would have to wait.
 

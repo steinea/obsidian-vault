@@ -6,9 +6,7 @@ date: 2016-10-05
 permalink: 2016/10/05/the-spectacle-of-stranger-things
 ---
 
-# The Spectacle of *Stranger Things*
-
-[[2016]] / [[Blog]]
+[[2016]] • [[Blog]]
 
 What is so compelling about *Stranger Things?*
 

@@ -7,9 +7,9 @@ date: 2017-04-03
 permalink: 2017/04/03/the-machiavelli-variations
 ---
 
-# The Machiavelli Variations
+### Reality, Order, Rule
 
-[[2017]] / [[Blog]]
+[[2017]] • [[Blog]]
 
 #### Introduction
 

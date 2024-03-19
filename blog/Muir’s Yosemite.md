@@ -7,9 +7,9 @@ date: 2017-02-23
 permalink: 2017/02/23/muirs-yosemite
 ---
 
-# Muir’s Yosemite
+### Vital Animation and the Ecstatic Body
 
-[[2017]] / [[Blog]]
+[[2017]] • [[Blog]]
 
 In John Muir's *My First Summer in the Sierra* (1911), readers are presented with a vision of nature as both garden and wilderness, simultaneously beautiful and terrifying, welcoming and dangerous, homely and strange. His is a passionate vision, but it is not a passion bred of illusion---he knows that one misstep, one careless sound, or even something so removed as a change in the weather, could be his end. And yet, for Muir, nature is not an enemy, nor a brutish creature to be tamed. Nature is a vibrant space, vast and powerfully other, which he inhabits as a guest---nomadic, transient, and fragile. Particularly in the Yosemite passages, beginning on July 15 and continuing through his ascent of Mt. Hoffman on July 26, we see a nature of which Muir is neither a part nor to which Muir is opposed, but a nature that requires the labour of *participation*. His rambles and sketches and writings are not the product of idle speculation or intrinsic disposition, but the culmination of exertion, of long treks and great ascents, visions afforded by strain. Through such strain, the dialogue of muscle and stone, flesh and earth, an aesthetic mood is *achieved*, characterized by an ecstasy and animation uniquely manifest in the sweaty, bodily sort of activity that Muir undertakes. To read Muir's Yosemite is to encounter this ecstasy, to brush up against that animative force which so moved him over a century ago, that force peculiar to the "ungovernable wildness" (75) of which he writes.
 

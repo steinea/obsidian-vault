@@ -7,9 +7,9 @@ date: 2021-03-12
 permalink: 2021/03/12/its-more-like-a-tendency
 ---
 
-# It’s More Like a Tendency
+### Trajectories of the Literary in *Kentucky Route Zero*
 
-[[2021]] / [[Blog]]
+[[2021]] • [[Blog]]
 
 #### Introduction
 

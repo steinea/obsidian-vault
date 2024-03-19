@@ -7,9 +7,9 @@ date: 2021-07-26
 permalink: 2021/07/26/idea-of-gamer-5
 ---
 
-# The Idea of the Gamer, 5
+### Identity and Agonism
 
-[[2021]] / [[Blog]]
+[[2021]] • [[Blog]]
 
 After several months of reading and analysis, we can at last bring this series on Amanda Phillips' *Gamer Trouble* to a close.[^1] In this essay, I would like to draw together Phillips' final chapter with the conclusion to the book, linking Phillips' understanding of "identity" with their understanding of "agonism" to highlight the "differential form" of selfhood that is particularly evident in "twenty-first century movements under capitalist production."[^2] To be clear, Phillips does not treat of this form as *unique* to the twenty-first century, but rather demonstrates how this form is both thematized and troubled in contemporary videogames. It is this trouble which is of interest to us here.
 

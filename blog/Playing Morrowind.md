@@ -1,12 +1,10 @@
 ---
 layout: record
 category: excurses-3
-title: Morrowind
+title: Playing Morrowind
 date: 2022-10-18
 permalink: 2022/10/18/morrowind
 ---
-
-# Playing Morrowind
 
 [[2022]] / [[Blog]]
 

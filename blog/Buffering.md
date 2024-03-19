@@ -6,9 +6,7 @@ date: 2021-03-06
 permalink: 2021/03/06/buffering
 ---
 
-# Buffering
-
-[[2021]] / [[Blog]]
+[[2021]] • [[Blog]]
 
 This resource is an excerpt from my zine, [*Glitchspiel*](https://vagrantludology.itch.io/glitchspiel), which draws directly from Legacy Russell's manifesto, [*Glitch Feminism*](https://www.versobooks.com/books/3668-glitch-feminism), for its core material.
 

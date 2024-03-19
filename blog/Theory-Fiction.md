@@ -7,9 +7,9 @@ date: 2019-01-29
 permalink: 2019/01/29/theory-fiction
 ---
 
-# Theory-Fiction
+### Tactics and Extravagance
 
-[[2019]] / [[Blog]]
+[[2019]] • [[Blog]]
 
 I am wrestling with an awful zeal for the authority of completeness. To be solid, to be one: what a terrible passion, and yet, how comfortable.
 

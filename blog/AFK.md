@@ -6,9 +6,7 @@ date: 2023-04-24
 permalink: 2023/04/24/afk
 ---
 
-# AFK
-
-[[2023]] / [[Blog]]
+[[2023]] • [[Blog]]
 
 This zine refuses naive understandings of play as intrinsically liberatory or radical.
 

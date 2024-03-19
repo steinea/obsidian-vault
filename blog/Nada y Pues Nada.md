@@ -6,9 +6,7 @@ date: 2015-07-11
 permalink: 2015/07/11/nada-y-pues-nada
 ---
 
-# Nada y Pues Nada
-
-[[2015]] / [[Blog]]
+[[2015]] • [[Blog]]
 
 The final sketch from Ernest Hemingway's posthumously published memoir *A Moveable Feast,*[^1] "Nada y Pues Nada" is a conversation and an apology, but also a sort of epilogue to the book. As he states in the first sentence of the sketch, "\[t\]his will give you some account of the people and the places when Hadley and I believed we were invulnerable." Which, in typical Hemingway fashion, is an understatement of what "this" truly accomplishes. 
 

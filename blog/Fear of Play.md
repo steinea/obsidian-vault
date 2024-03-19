@@ -6,9 +6,7 @@ date: 2021-04-22
 permalink: 2021/04/22/fear-of-play
 ---
 
-# Fear of Play
-
-[[2021]] / [[Blog]]
+[[2021]] • [[Blog]]
 
 *Fear of Play* is an essay on nonsovereignty and games, presented here in a zine format. It was written for Adam Vass and Will Jobst's [Tech Jam](https://itch.io/jam/tech-jam) as a sort of cognitive plugin, in the spirit of my first ever game project, [*Affinity*](https://vagrantludology.itch.io/affinity-dream).
 

@@ -7,9 +7,9 @@ date: 2021-08-05
 permalink: 2021/08/05/no-dice-no-masters
 ---
 
-# No Dice, No Masters
+### Procedures for Emancipation in *Dream Askew / Dream Apart*
 
-[[2021]] / [[Blog]]
+[[2021]] • [[Blog]]
 
 #### Introduction
 

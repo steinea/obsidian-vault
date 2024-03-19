@@ -6,9 +6,7 @@ date: 2015-06-21
 permalink: 2015/06/21/in-the-garden-of-the-dead
 ---
 
-# In the Garden of the Dead
-
-[[2015]] / [[Blog]]
+[[2015]] • [[Blog]]
 
 On my trip so far, two monuments---the Louvre and the Canadian War Cemetery near Courseulles-sur-Mer--- (and I use "monuments" to emphasize their man-made quality) have really struck me. Both were emotionally weighty, but in different ways, and here I want to explore that difference.
 

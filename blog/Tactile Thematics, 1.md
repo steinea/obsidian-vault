@@ -7,9 +7,9 @@ date: 2020-02-19
 permalink: 2020/02/19/tactile-thematics
 ---
 
-# Tactile Thematics, 1
+### From Power to Skill in FromSoftware’s *Souls* Games
 
-[[2020]] / [[Blog]]
+[[2020]] • [[Blog]]
 
 #### Introduction
 

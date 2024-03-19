@@ -7,9 +7,9 @@ date: 2021-07-01
 permalink: 2021/07/01/idea-of-gamer-4
 ---
 
-# The Idea of the Gamer, 4
+### Gaze, Diagram, Interaction
 
-[[2021]] / [[Blog]]
+[[2021]] • [[Blog]]
 
 #### Foucault
 

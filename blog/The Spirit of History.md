@@ -7,9 +7,9 @@ date: 2017-04-19
 permalink: 2017/04/19/the-spirit-of-history
 ---
 
-# The Spirit of History
+### Rousseau, Burke, Marx
 
-[[2017]] / [[Blog]]
+[[2017]] • [[Blog]]
 
 #### I.
 

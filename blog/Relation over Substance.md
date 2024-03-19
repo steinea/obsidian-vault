@@ -7,9 +7,9 @@ date: 2017-07-24
 permalink: 2017/07/24/relation-over-substance
 ---
 
-# Relation over Substance
+### Saussure’s Revolution in Linguistics
 
-[[2017]] / [[Blog]]
+[[2017]] • [[Blog]]
 
 Ferdinand de Saussure's *Course in General Linguistics* (1916) has had a profound impact on theory, philosophy, and literature, influencing such giants of the twentieth century as Jacques Derrida and Michel Foucault. It is not, however, a text without troubles. Assembled after his death by his students, Saussure's *Course* is a "lost original," a collection of student notes and transcriptions (xxi). As Perry Meisel and Haun Saussy, the editors of the text, cogently explain, the 1916 publication of the *Course* was in fact a collation, with significant editorial intervention, of three versions of the course that Saussure taught between 1907 and 1911 (xxi). Indeed, the Saussure that we have inherited today, over one hundred years later, is not the 'real' Saussure but the "legendary Saussure," a fabricated version of the man and his thought as assembled by his followers---malleable, requiring interpretation, and provoking critique (xxii). Such, however, is illustrative of his project. As the editors write, language is, for Saussure, "identical" with "social" and "organic life," a "vast interactive project" (xviii). Language is not a matter of "mimesis" but of "signification" (xvi). Language, and the world with which it is "continuous," is a "web of signs" (xvii, xviii). Indeed, the quest for the referent in language (for the *real Saussure*, we might say) is pointless; such a quest serves only to turn up more language. In the analysis of language we do not find *things* or *people* but rather the "world itself" as a "matrix of signification, real because it is symbolic and symbolic because it is real" (xvii). In short, Saussure's achievement is the replacement of substantialist linguistics with a linguistics of relation.
 

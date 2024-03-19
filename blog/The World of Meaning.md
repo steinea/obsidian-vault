@@ -7,9 +7,9 @@ date: 2017-08-29
 permalink: 2017/08/29/the-world-of-meaning
 ---
 
-# The World of Meaning
+### Umberto Eco’s Philosophical Semiotics
 
-[[2017]] / [[Blog]]
+[[2017]] • [[Blog]]
 
 Umberto Eco's *Semiotics and the Philosophy of Language* (1984) serves as a provisional end point for our inquiry into Ferdinand de Saussure's legacy, an inquiry that is necessarily *without* end. Indeed, Eco's study is an ideal dialogue partner for such a paradoxical task---he eschews dogmatically clinging to the prescriptions of Saussure (and Hjelmslev, for that matter), and in fact, cannot even be included in the Saussurean school. He brings to the discipline as a whole a uniquely philosophical mind, and a depth and breadth of reading, within and without the field of semiotics, that is often lacking in his peers and predecessors. Eco accepts nothing as given and, through far reaching historical inquiries and incisive interreadings of diverse thinkers, responds to the "problem of signification" (as it was put by Greimas in *Structural Semantics*) with profound clarity and vision. He lets the thought of semioticians and phenomenological hermeneuts and pragmatists and logical positivists and information theorists interact with each other, drawing conclusions that help us get beyond certain blockages in the Saussurean paradigm that would otherwise be difficult to surpass. Specifically, it is through his conceptions of *world* and *encyclopedia* that Eco allows us to forge the link between Saussurean semiology and Heideggerian hermeneutics, so elucidating the existential foundations of signification and its concrete practice in everyday experience.
 
