@@ -5,12 +5,12 @@ permalink: activity/playing/completed
 
 | Completed and Stopped                                                                     | Hours | Trophies | ★   | Date       |
 | ----------------------------------------------------------------------------------------- | ----- | -------- | --- | ---------- |
+| [[constellation/games/Vampire Survivors.md\|Vampire Survivors]]                           | 53    | 204/204  | ★   | 2024-03-20 |
 | [[constellation/games/The Cub.md\|The Cub]]                                               | 5     | 20/20    | ★   | 2024-03-07 |
 | [[constellation/games/Golf Club Nostalgia.md\|Golf Club Nostalgia]]                       | 9     | 28/28    | ★   | 2024-03-04 |
 | [[constellation/games/Alto's Odyssey.md\|Alto's Odyssey]]                                 | 17    | 20/22    | 90% | 2024-02-29 |
 | [[constellation/games/EA SPORTS FC 24.md\|EA SPORTS FC 24]]                               | 48    | 27/41    | 65% | 2024-02-26 |
 | [[constellation/games/Starfield.md\|Starfield]]                                           | 104   | 50/50    | ★   | 2024-02-25 |
-| [[constellation/games/Vampire Survivors.md\|Vampire Survivors]]                           | 52    | 196/196  | ★   | 2024-02-25 |
 | [[constellation/games/Alto's Adventure.md\|Alto's Adventure]]                             | 12    | 17/17    | ★   | 2024-01-12 |
 | [[constellation/games/The Finals.md\|The Finals]]                                         | 1.5   | 3/50     | 6%  | 2023-12-10 |
 | [[constellation/games/Art of Rally.md\|Art of Rally]]                                     | 22    | 44/44    | ★   | 2023-09-08 |
