@@ -36,8 +36,19 @@ permalink: 2024/01/11/soulslike-legacies
 28. [[Oblivion Override]], 2023-06-14
 29. [[Blasphemous II]], 2023-08-23
 30. [[Ultros]], 2024-02-13
-31. [[Tails of Iron 2 Whiskers of Winter]]
-32. [[Crowsworn]]
-33. [[Eitr]]
-34. [[Grime II]]
-35. [[Hollow Knight Silk Song]]
+31. [[Voidwrought]], 2024
+32. [[Tails of Iron 2 Whiskers of Winter]]
+33. [[Crowsworn]]
+34. [[Eitr]]
+35. [[Grime II]]
+36. [[Hollow Knight Silk Song]]
+
+* [[Atlas Fallen]]
+* [[Flintlock The Siege of Dawn]]
+* [[Lies of P]]
+* [[Lords of the Fallen (2013)]]
+* [[Lords of the Fallen]]
+* [[The Surge]]
+* [[The Surge 2]]
+* [[Steel Rising]]
+* [[Enotria The Last Song]]
