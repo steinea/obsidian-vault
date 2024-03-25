@@ -5,8 +5,8 @@ permalink: collections/playlists
 
 | File                                                                        | Date       |
 | --------------------------------------------------------------------------- | ---------- |
-| [[collections/playlists/Castlevania Continuity.md\|Castlevania Continuity]] | 2024-02-26 |
 | [[collections/playlists/Marvel Games.md\|Marvel Games]]                     | 2024-02-26 |
+| [[collections/playlists/Castlevania Continuity.md\|Castlevania Continuity]] | 2024-02-26 |
 | [[collections/playlists/Nintendo Fantasy.md\|Nintendo Fantasy]]             | 2024-02-26 |
 | [[collections/playlists/Fantasy Action.md\|Fantasy Action]]                 | 2024-02-21 |
 | [[collections/playlists/Soulslike Legacies.md\|Soulslike Legacies]]         | 2024-01-11 |

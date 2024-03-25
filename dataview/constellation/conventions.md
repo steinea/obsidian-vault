@@ -28,6 +28,7 @@ permalink: constellation/conventions
 | [[constellation/conventions/Spiel.md\|Spiel]]                                                                     |
 | [[constellation/conventions/Toronto Comic Arts Festival.md\|Toronto Comic Arts Festival]]                         |
 | [[constellation/conventions/Vancouver Comic Arts Festival.md\|Vancouver Comic Arts Festival]]                     |
+| [[constellation/conventions/Vancouver Writers Fest.md\|Vancouver Writers Fest]]                                   |
 | [[constellation/conventions/When Words Collide.md\|When Words Collide]]                                           |
 | [[constellation/conventions/World Fantasy Convention.md\|World Fantasy Convention]]                               |
 | [[constellation/conventions/Worldcon.md\|Worldcon]]                                                               |

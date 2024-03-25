@@ -26,6 +26,7 @@ permalink: constellation/companies
 | [[constellation/companies/Motion Twin.md\|Motion Twin]]                                       |
 | [[constellation/companies/Mountain Equipment Co-op.md\|Mountain Equipment Co-op]]             |
 | [[constellation/companies/Naughty Dog.md\|Naughty Dog]]                                       |
+| [[constellation/companies/Panda Game Manufacturing.md\|Panda Game Manufacturing]]             |
 | [[constellation/companies/Pine Scented Software.md\|Pine Scented Software]]                   |
 | [[constellation/companies/PlatinumGames.md\|PlatinumGames]]                                   |
 | [[constellation/companies/Powerhoof.md\|Powerhoof]]                                           |

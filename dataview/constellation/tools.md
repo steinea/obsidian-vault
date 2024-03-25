@@ -15,6 +15,7 @@ permalink: constellation/tools
 | [[constellation/tools/Commander.md\|Commander]]                                                                                           |
 | [[constellation/tools/Dataview.md\|Dataview]]                                                                                             |
 | [[constellation/tools/Dendron.md\|Dendron]]                                                                                               |
+| [[constellation/tools/Dextrous.md\|Dextrous]]                                                                                             |
 | [[constellation/tools/Digital Preservation Recommendations for Small Museums.md\|Digital Preservation Recommendations for Small Museums]] |
 | [[constellation/tools/Digital Public Goods Standard.md\|Digital Public Goods Standard]]                                                   |
 | [[constellation/tools/Directory of  Open Access Books.md\|Directory of  Open Access Books]]                                               |
@@ -55,6 +56,7 @@ permalink: constellation/tools
 | [[constellation/tools/Sustainability of Digital Formats.md\|Sustainability of Digital Formats]]                                           |
 | [[constellation/tools/Templater.md\|Templater]]                                                                                           |
 | [[constellation/tools/tes3cmd.md\|tes3cmd]]                                                                                               |
+| [[constellation/tools/The 512KB Club.md\|The 512KB Club]]                                                                                 |
 | [[constellation/tools/UI Expansion.md\|UI Expansion]]                                                                                     |
 | [[constellation/tools/Unicode Adopt.md\|Unicode Adopt]]                                                                                   |
 | [[constellation/tools/Utterances.md\|Utterances]]                                                                                         |

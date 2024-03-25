@@ -12,8 +12,8 @@ permalink: collections/bibliographies
 | [[collections/bibliographies/Oxford Miscellany.md\|Oxford Miscellany]]                     | science     | 2023-11-11 |
 | [[collections/bibliographies/Playground Theory.md\|Playground Theory]]                     | games       | 2023-11-05 |
 | [[collections/bibliographies/Strategic Thought.md\|Strategic Thought]]                     | warfare     | 2023-10-18 |
-| [[collections/bibliographies/The Unique.md\|The Unique]]                                   | philosophy  | 2023-10-18 |
 | [[collections/bibliographies/Thermodynamic Theory.md\|Thermodynamic Theory]]               | philosophy  | 2023-10-18 |
+| [[collections/bibliographies/The Unique.md\|The Unique]]                                   | philosophy  | 2023-10-18 |
 | [[collections/bibliographies/Topological Ontogenesis.md\|Topological Ontogenesis]]         | philosophy  | 2023-10-18 |
 | [[collections/bibliographies/Climate Transformation.md\|Climate Transformation]]           | science     | 2023-09-23 |
 | [[collections/bibliographies/Mystery Fiction.md\|Mystery Fiction]]                         | literature  | 2023-09-04 |
@@ -111,8 +111,8 @@ permalink: collections/bibliographies
 | [[collections/bibliographies/Constrained Writing.md\|Constrained Writing]]                 | literature  | 2020-07-21 |
 | [[collections/bibliographies/Existential Theology.md\|Existential Theology]]               | theology    | 2020-07-21 |
 | [[collections/bibliographies/Systematic Theology.md\|Systematic Theology]]                 | theology    | 2020-07-21 |
-| [[collections/bibliographies/Western Spirituality.md\|Western Spirituality]]               | theology    | 2020-07-21 |
 | [[collections/bibliographies/Worldbuilding Games.md\|Worldbuilding Games]]                 | games       | 2020-07-21 |
+| [[collections/bibliographies/Western Spirituality.md\|Western Spirituality]]               | theology    | 2020-07-21 |
 | [[collections/bibliographies/Fantasies.md\|Fantasies]]                                     | literature  | 2020-05-18 |
 | [[collections/bibliographies/Corpus Linguistics.md\|Corpus Linguistics]]                   | linguistics | 2020-05-17 |
 | [[collections/bibliographies/Critiques of Reason.md\|Critiques of Reason]]                 | philosophy  | 2020-04-09 |

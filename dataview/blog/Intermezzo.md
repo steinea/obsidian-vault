@@ -1,9 +1,9 @@
 ---
-permalink: blog/latest
+permalink: blog/intermezzo
 ---
 
 
-| Latest                                                                   | Date       |
+| Intermezzo                                                               | Date       |
 | ------------------------------------------------------------------------ | ---------- |
 | [[blog/Dreams of Extraction.md\|Dreams of Extraction]]                   | 2024-06-15 |
 | [[blog/Determined Figures.md\|Determined Figures]]                       | 2023-09-16 |

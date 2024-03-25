@@ -14,8 +14,10 @@ permalink: constellation/associations
 | [[constellation/associations/Association for Literature, Environment, and Culture in Canada.md\|Association for Literature, Environment, and Culture in Canada]] |
 | [[constellation/associations/Association for Research in Digital Narratives.md\|Association for Research in Digital Narratives]]                                 |
 | [[constellation/associations/Association for the Study of Literature and Environment.md\|Association for the Study of Literature and Environment]]               |
+| [[constellation/associations/Association of Writers and Writing Programs.md\|Association of Writers and Writing Programs]]                                       |
 | [[constellation/associations/Bibliographical Society of America.md\|Bibliographical Society of America]]                                                         |
 | [[constellation/associations/British Science Fiction Association.md\|British Science Fiction Association]]                                                       |
+| [[constellation/associations/Canadian Association of Literary Festivals.md\|Canadian Association of Literary Festivals]]                                         |
 | [[constellation/associations/Canadian Game Studies Association.md\|Canadian Game Studies Association]]                                                           |
 | [[constellation/associations/Canadian Science Fiction and Fantasy Association.md\|Canadian Science Fiction and Fantasy Association]]                             |
 | [[constellation/associations/Center for the Study of Science Fiction.md\|Center for the Study of Science Fiction]]                                               |
@@ -36,6 +38,7 @@ permalink: constellation/associations
 | [[constellation/associations/IGDA Game Writing SIG.md\|IGDA Game Writing SIG]]                                                                                   |
 | [[constellation/associations/International Association for Strategy Professionals.md\|International Association for Strategy Professionals]]                     |
 | [[constellation/associations/International Association for the Fantastic in the Arts.md\|International Association for the Fantastic in the Arts]]               |
+| [[constellation/associations/International Board Game Studies Association.md\|International Board Game Studies Association]]                                     |
 | [[constellation/associations/International Digital Media and Arts Association.md\|International Digital Media and Arts Association]]                             |
 | [[constellation/associations/International Game Developers Association.md\|International Game Developers Association]]                                           |
 | [[constellation/associations/International Requirements Engineering Board.md\|International Requirements Engineering Board]]                                     |

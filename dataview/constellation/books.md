@@ -93,6 +93,7 @@ permalink: constellation/books
 | [[constellation/books/Kierkegaard, Pietism and Holiness.md\|Kierkegaard, Pietism and Holiness]]                                             | Barnett, Christopher B.                           | 2016 |
 | [[constellation/books/Mythologies.md\|Mythologies]]                                                                                         | Barthes, Roland                                   | 1957 |
 | [[constellation/books/The Location of Culture.md\|The Location of Culture]]                                                                 | Bhabha, Homi K.                                   | 1994 |
+| [[constellation/books/Order and the Virtual.md\|Order and the Virtual]]                                                                     | Bill Ross                                         | 2024 |
 | [[constellation/books/Children of a Modest Star.md\|Children of a Modest Star]]                                                             | Blake, Jonathn S. and Nils Gilman                 | 2024 |
 | [[constellation/books/How Humans Evolved.md\|How Humans Evolved]]                                                                           | Boyd, Robert and Joan B. Silk                     | 2020 |
 | [[constellation/books/Ready Player Two.md\|Ready Player Two]]                                                                               | Chess, Shira                                      | 2017 |
@@ -110,6 +111,8 @@ permalink: constellation/books
 | [[constellation/books/Rethinking Interiority.md\|Rethinking Interiority]]                                                                   | Elodie Boublil and Antonio Calcagno               | 2023 |
 | [[constellation/books/A Theory of Harmony.md\|A Theory of Harmony]]                                                                         | Ernst Levy                                        | 2024 |
 | [[constellation/books/Ptolemy's Philosophy.md\|Ptolemy's Philosophy]]                                                                       | Feke, Jacqueline                                  | 2018 |
+| [[constellation/books/Atopias.md\|Atopias]]                                                                                                 | Frédéric Neyrat                                   | 2018 |
+| [[constellation/books/The Unconstructable Earth.md\|The Unconstructable Earth]]                                                             | Frédéric Neyrat                                   | 2019 |
 | [[constellation/books/Truth and Method.md\|Truth and Method]]                                                                               | Gadamer, Hans-Georg                               | 1960 |
 | [[constellation/books/The Dawn of Everything.md\|The Dawn of Everything]]                                                                   | Graeber, David and David Wengrow                  | 2021 |
 | [[constellation/books/Time as History.md\|Time as History]]                                                                                 | Grant, George                                     | 1969 |
@@ -133,6 +136,7 @@ permalink: constellation/books
 | [[constellation/books/The Players' Realm.md\|The Players' Realm]]                                                                           | J. Patrick Williams and Jonas Heide Smith         | 2007 |
 | [[constellation/books/Between Copernicus and Galileo.md\|Between Copernicus and Galileo]]                                                   | James M. Lattis                                   | 1994 |
 | [[constellation/books/The Structure of Perceptual Experience.md\|The Structure of Perceptual Experience]]                                   | James Stazicker                                   | 2015 |
+| [[constellation/books/Transcendence and the Concrete.md\|Transcendence and the Concrete]]                                                   | Jean Wahl                                         | 2016 |
 | [[constellation/books/Phenomenology (Lyotard).md\|Phenomenology (Lyotard)]]                                                                 | Jean-Francois Lyotard                             | 1991 |
 | [[constellation/books/Dying of Whiteness.md\|Dying of Whiteness]]                                                                           | Jonathan M. Metzl                                 | 2019 |
 | [[constellation/books/The Eye of the World.md\|The Eye of the World]]                                                                       | Jordan, Robert                                    | 1990 |
@@ -145,6 +149,7 @@ permalink: constellation/books
 | [[constellation/books/Geometry of Design.md\|Geometry of Design]]                                                                           | Kimberly Elam                                     | 2011 |
 | [[constellation/books/The Formation of Gaming Culture.md\|The Formation of Gaming Culture]]                                                 | Kirkpatrick, Graeme                               | 2015 |
 | [[constellation/books/Coin-Operated Americans.md\|Coin-Operated Americans]]                                                                 | Kocurek, Carly A.                                 | 2015 |
+| [[constellation/books/The Game of the World.md\|The Game of the World]]                                                                     | Kostas Axelos                                     | 2023 |
 | [[constellation/books/Communal Luxury.md\|Communal Luxury]]                                                                                 | Kristin Ross                                      | 2016 |
 | [[constellation/books/The Politics and Poetics of Everyday Life.md\|The Politics and Poetics of Everyday Life]]                             | Kristin Ross                                      | 2023 |
 | [[constellation/books/The Commune Form.md\|The Commune Form]]                                                                               | Kristin Ross                                      | 2024 |
@@ -165,6 +170,10 @@ permalink: constellation/books
 | [[constellation/books/A New Anatomy of Storyworlds.md\|A New Anatomy of Storyworlds]]                                                       | Marie-Laure Ryan                                  | 2022 |
 | [[constellation/books/Storyworlds Across Media.md\|Storyworlds Across Media]]                                                               | Marie-Laure Ryan and Jan-Noël Thon                | 2014 |
 | [[constellation/books/The Flesh of Images.md\|The Flesh of Images]]                                                                         | Mauro Carbone                                     | 2015 |
+| [[constellation/books/Rome.md\|Rome]]                                                                                                       | Michel Serres                                     | 2015 |
+| [[constellation/books/Statues.md\|Statues]]                                                                                                 | Michel Serres                                     | 2015 |
+| [[constellation/books/Geometry.md\|Geometry]]                                                                                               | Michel Serres                                     | 2017 |
+| [[constellation/books/The Leibniz-System and its Mathematical Models.md\|The Leibniz-System and its Mathematical Models]]                   | Michel Serres                                     | 2024 |
 | [[constellation/books/Frolic and Detour.md\|Frolic and Detour]]                                                                             | Muldoon, Paul                                     | 2022 |
 | [[constellation/books/Toward an Army of Ghosts.md\|Toward an Army of Ghosts]]                                                               | Nomad, Tom                                        | 2017 |
 | [[constellation/books/Owls and Other Fantasies.md\|Owls and Other Fantasies]]                                                               | Oliver, Mary                                      | 2003 |
@@ -179,6 +188,7 @@ permalink: constellation/books
 | [[constellation/books/Queer Game Studies.md\|Queer Game Studies]]                                                                           | Ruberg, Bonnie and Adrienne Shaw                  | 2017 |
 | [[constellation/books/Intentionality and the Myths of the Given.md\|Intentionality and the Myths of the Given]]                             | Sachs, Carl B.                                    | 2014 |
 | [[constellation/books/Gaming at the Edge.md\|Gaming at the Edge]]                                                                           | Shaw, Adrienne                                    | 2014 |
+| [[constellation/books/Without Criteria.md\|Without Criteria]]                                                                               | Steven Shaviro                                    | 2012 |
 | [[constellation/books/Phenomenology, Logic, and the Philosophy of Mathematics.md\|Phenomenology, Logic, and the Philosophy of Mathematics]] | Tieszen, Richard                                  | 2009 |
 | [[constellation/books/Collecting, Ordering, Governing.md\|Collecting, Ordering, Governing]]                                                 | Tony Bennett, et al.                              | 2017 |
 | [[constellation/books/Kierkegaardian Studies.md\|Kierkegaardian Studies]]                                                                   | Wahl, Jean                                        | 1938 |

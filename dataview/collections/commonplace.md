@@ -5,9 +5,9 @@ permalink: collections/commonplace
 
 | File                                                                                                                                                                          | Date       |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
-| [[collections/commonplace/How to Start a Rebellion.md\|How to Start a Rebellion]]                                                                                             | 2024-03-15 |
 | [[collections/commonplace/How to Create an Index.md\|How to Create an Index]]                                                                                                 | 2024-03-15 |
 | [[collections/commonplace/How to Forecast The Future.md\|How to Forecast The Future]]                                                                                         | 2024-03-15 |
+| [[collections/commonplace/How to Start a Rebellion.md\|How to Start a Rebellion]]                                                                                             | 2024-03-15 |
 | [[collections/commonplace/Imagining Extinction in Video Games.md\|Imagining Extinction in Video Games]]                                                                       | 2024-03-15 |
 | [[collections/commonplace/Storyboarding Dune 2.md\|Storyboarding Dune 2]]                                                                                                     | 2024-03-14 |
 | [[collections/commonplace/Emboldening Idea Landlords.md\|Emboldening Idea Landlords]]                                                                                         | 2024-03-09 |
@@ -150,13 +150,13 @@ permalink: collections/commonplace
 | [[collections/commonplace/The Strategy of Composition.md\|The Strategy of Composition]]                                                                                       | 2023-03-20 |
 | [[collections/commonplace/Jaquaying the Dungeon, 1.md\|Jaquaying the Dungeon, 1]]                                                                                             | 2023-03-12 |
 | [[collections/commonplace/Jaquaying the Dungeon, 2.md\|Jaquaying the Dungeon, 2]]                                                                                             | 2023-03-12 |
+| [[collections/commonplace/Jaquaying the Dungeon, 4.md\|Jaquaying the Dungeon, 4]]                                                                                             | 2023-03-12 |
 | [[collections/commonplace/Jaquaying the Dungeon, 3.md\|Jaquaying the Dungeon, 3]]                                                                                             | 2023-03-12 |
 | [[collections/commonplace/Jaquaying the Dungeon, 6.md\|Jaquaying the Dungeon, 6]]                                                                                             | 2023-03-12 |
+| [[collections/commonplace/Jaquaying the Dungeon, 5.md\|Jaquaying the Dungeon, 5]]                                                                                             | 2023-03-12 |
+| [[collections/commonplace/Jaquaying the Dungeon, 9.md\|Jaquaying the Dungeon, 9]]                                                                                             | 2023-03-12 |
 | [[collections/commonplace/Jaquaying the Dungeon, 8.md\|Jaquaying the Dungeon, 8]]                                                                                             | 2023-03-12 |
 | [[collections/commonplace/Jaquaying the Dungeon, 7.md\|Jaquaying the Dungeon, 7]]                                                                                             | 2023-03-12 |
-| [[collections/commonplace/Jaquaying the Dungeon, 9.md\|Jaquaying the Dungeon, 9]]                                                                                             | 2023-03-12 |
-| [[collections/commonplace/Jaquaying the Dungeon, 5.md\|Jaquaying the Dungeon, 5]]                                                                                             | 2023-03-12 |
-| [[collections/commonplace/Jaquaying the Dungeon, 4.md\|Jaquaying the Dungeon, 4]]                                                                                             | 2023-03-12 |
 | [[collections/commonplace/Don't Be Afraid of Going Wrong.md\|Don't Be Afraid of Going Wrong]]                                                                                 | 2023-03-11 |
 | [[collections/commonplace/Fuck the Poetry Police.md\|Fuck the Poetry Police]]                                                                                                 | 2023-03-11 |
 | [[collections/commonplace/Not the Backlog.md\|Not the Backlog]]                                                                                                               | 2023-03-11 |
@@ -284,10 +284,10 @@ permalink: collections/commonplace
 | [[collections/commonplace/Arkangel.md\|Arkangel]]                                                                                                                             | 2017-12-29 |
 | [[collections/commonplace/USS Callister.md\|USS Callister]]                                                                                                                   | 2017-12-29 |
 | [[collections/commonplace/Where are Words.md\|Where are Words]]                                                                                                               | 2017-12-27 |
-| [[collections/commonplace/On The Last Jedi, 4.md\|On The Last Jedi, 4]]                                                                                                       | 2017-12-17 |
 | [[collections/commonplace/On The Last Jedi, 5.md\|On The Last Jedi, 5]]                                                                                                       | 2017-12-17 |
-| [[collections/commonplace/On The Last Jedi, 2.md\|On The Last Jedi, 2]]                                                                                                       | 2017-12-15 |
+| [[collections/commonplace/On The Last Jedi, 4.md\|On The Last Jedi, 4]]                                                                                                       | 2017-12-17 |
 | [[collections/commonplace/On The Last Jedi, 3.md\|On The Last Jedi, 3]]                                                                                                       | 2017-12-15 |
+| [[collections/commonplace/On The Last Jedi, 2.md\|On The Last Jedi, 2]]                                                                                                       | 2017-12-15 |
 | [[collections/commonplace/On The Last Jedi, 1.md\|On The Last Jedi, 1]]                                                                                                       | 2017-12-12 |
 | [[collections/commonplace/The Pizza Thought Experiment.md\|The Pizza Thought Experiment]]                                                                                     | 2017-11-26 |
 | [[collections/commonplace/A Tale of Two Botanies.md\|A Tale of Two Botanies]]                                                                                                 | 2017-11-25 |
@@ -439,10 +439,10 @@ permalink: collections/commonplace
 | [[collections/commonplace/Apart Together.md\|Apart Together]]                                                                                                                 | 2017-04-11 |
 | [[collections/commonplace/Kierkegaard's Abraham.md\|Kierkegaard's Abraham]]                                                                                                   | 2017-04-10 |
 | [[collections/commonplace/Eurydice.md\|Eurydice]]                                                                                                                             | 2017-04-07 |
-| [[collections/commonplace/The Frankfurt School, Part 5.md\|The Frankfurt School, Part 5]]                                                                                     | 2017-04-07 |
 | [[collections/commonplace/The Frankfurt School, Part 4.md\|The Frankfurt School, Part 4]]                                                                                     | 2017-04-07 |
-| [[collections/commonplace/The Frankfurt School, Part 7.md\|The Frankfurt School, Part 7]]                                                                                     | 2017-04-07 |
+| [[collections/commonplace/The Frankfurt School, Part 5.md\|The Frankfurt School, Part 5]]                                                                                     | 2017-04-07 |
 | [[collections/commonplace/The Frankfurt School, Part 6.md\|The Frankfurt School, Part 6]]                                                                                     | 2017-04-07 |
+| [[collections/commonplace/The Frankfurt School, Part 7.md\|The Frankfurt School, Part 7]]                                                                                     | 2017-04-07 |
 | [[collections/commonplace/The Frankfurt School, Part 8.md\|The Frankfurt School, Part 8]]                                                                                     | 2017-04-07 |
 | [[collections/commonplace/The Frankfurt School, Part 1.md\|The Frankfurt School, Part 1]]                                                                                     | 2017-04-06 |
 | [[collections/commonplace/The Frankfurt School, Part 2.md\|The Frankfurt School, Part 2]]                                                                                     | 2017-04-06 |
@@ -1186,8 +1186,8 @@ permalink: collections/commonplace
 | [[collections/commonplace/Coal Comfort.md\|Coal Comfort]]                                                                                                                     | 2015-11-24 |
 | [[collections/commonplace/Donald Trump's Politics of Fear.md\|Donald Trump's Politics of Fear]]                                                                               | 2015-11-24 |
 | [[collections/commonplace/Is God an Accident.md\|Is God an Accident]]                                                                                                         | 2015-11-24 |
-| [[collections/commonplace/Putting an End to It All.md\|Putting an End to It All]]                                                                                             | 2015-11-24 |
 | [[collections/commonplace/Quantum Mechanics Is Putting Human Identity on Trial.md\|Quantum Mechanics Is Putting Human Identity on Trial]]                                     | 2015-11-24 |
+| [[collections/commonplace/Putting an End to It All.md\|Putting an End to It All]]                                                                                             | 2015-11-24 |
 | [[collections/commonplace/Scientific Faith Is Different From Religious Faith.md\|Scientific Faith Is Different From Religious Faith]]                                         | 2015-11-24 |
 | [[collections/commonplace/The Refugees and the New War.md\|The Refugees and the New War]]                                                                                     | 2015-11-24 |
 | [[collections/commonplace/Ruined California.md\|Ruined California]]                                                                                                           | 2015-11-23 |
@@ -1632,8 +1632,8 @@ permalink: collections/commonplace
 | [[collections/commonplace/What ISIS Really Wants.md\|What ISIS Really Wants]]                                                                                                 | 2015-02-19 |
 | [[collections/commonplace/Brand ISIS.md\|Brand ISIS]]                                                                                                                         | 2015-02-16 |
 | [[collections/commonplace/The Tragedy of the American Military.md\|The Tragedy of the American Military]]                                                                     | 2015-02-16 |
-| [[collections/commonplace/Despair.md\|Despair]]                                                                                                                               | 2015-02-14 |
 | [[collections/commonplace/Despair is a Sickness.md\|Despair is a Sickness]]                                                                                                   | 2015-02-14 |
+| [[collections/commonplace/Despair.md\|Despair]]                                                                                                                               | 2015-02-14 |
 | [[collections/commonplace/Horror and the Natural Man.md\|Horror and the Natural Man]]                                                                                         | 2015-02-14 |
 | [[collections/commonplace/Lazarus' Death.md\|Lazarus' Death]]                                                                                                                 | 2015-02-14 |
 | [[collections/commonplace/Spirit and the Self.md\|Spirit and the Self]]                                                                                                       | 2015-02-14 |
@@ -1860,8 +1860,8 @@ permalink: collections/commonplace
 | [[collections/commonplace/The Adversary.md\|The Adversary]]                                                                                                                   | 2014-05-23 |
 | [[collections/commonplace/The Meaning of Ritual is Deep Indeed.md\|The Meaning of Ritual is Deep Indeed]]                                                                     | 2014-05-23 |
 | [[collections/commonplace/The Short Sentence as Gospel Truth.md\|The Short Sentence as Gospel Truth]]                                                                         | 2014-05-23 |
-| [[collections/commonplace/Touring, Travel, Vacation.md\|Touring, Travel, Vacation]]                                                                                           | 2014-05-23 |
 | [[collections/commonplace/Toward a Universal Theory of Cool.md\|Toward a Universal Theory of Cool]]                                                                           | 2014-05-23 |
+| [[collections/commonplace/Touring, Travel, Vacation.md\|Touring, Travel, Vacation]]                                                                                           | 2014-05-23 |
 | [[collections/commonplace/Unsocial Sociability.md\|Unsocial Sociability]]                                                                                                     | 2014-05-23 |
 | [[collections/commonplace/Weariness.md\|Weariness]]                                                                                                                           | 2014-05-23 |
 | [[collections/commonplace/Jeb Bush.md\|Jeb Bush]]                                                                                                                             | 2014-05-22 |
