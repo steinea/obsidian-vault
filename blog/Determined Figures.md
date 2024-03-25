@@ -1,6 +1,6 @@
 ---
 layout: post
-category: blog
+category: intermezzo
 title: Determined Figures
 subtitle: Empiricism and Subjectivity, 3
 date: 2023-09-16

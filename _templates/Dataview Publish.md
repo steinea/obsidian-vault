@@ -152,9 +152,9 @@ const queries = [
 // Blog
 
   {
-    title: "Latest",
-    query: 'TABLE WITHOUT ID file.link AS "Latest", date AS Date FROM "blog" WHERE category="blog" SORT date DESC',
-    content: `---\npermalink: blog/latest\n---\n`,
+    title: "Intermezzo",
+    query: 'TABLE WITHOUT ID file.link AS "Intermezzo", date AS Date FROM "blog" WHERE category="intermezzo" SORT date DESC',
+    content: `---\npermalink: blog/intermezzo\n---\n`,
   },
   {
     title: "Juvenilia, 3",

@@ -3,7 +3,7 @@ permalink: blog
 cssclass: clean-embeds
 ---
 
-![[Latest]]
+![[Intermezzo]]
 
 <br>
 

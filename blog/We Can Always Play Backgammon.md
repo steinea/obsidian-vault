@@ -1,6 +1,6 @@
 ---
 layout: post
-category: blog
+category: intermezzo
 title: We Can Always Play Backgammon
 subtitle: Empiricism and Subjectivity
 date: 2023-05-26

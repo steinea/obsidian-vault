@@ -1,6 +1,6 @@
 ---
 layout: post
-category: blog
+category: intermezzo
 title: A Model of Actions
 subtitle: Empiricism and Subjectivity, 2
 date: 2023-06-18

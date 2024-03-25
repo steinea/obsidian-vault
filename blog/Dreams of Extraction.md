@@ -1,5 +1,5 @@
 ---
-category: blog
+category: intermezzo
 title: Dreams of Extraction
 subtitle: The Techno-Ecological Imaginary of Bethesda's *Starfield*
 date: 2024-06-15
