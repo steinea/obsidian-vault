@@ -13,3 +13,4 @@ permalink: constellation/jams
 | [[constellation/jams/Quake Brutalist Jam I.md\|Quake Brutalist Jam I]]                         |
 | [[constellation/jams/Quake Brutalist Jam II.md\|Quake Brutalist Jam II]]                       |
 | [[constellation/jams/Return to Perinthos.md\|Return to Perinthos]]                             |
+| [[constellation/jams/The Post-Weird Dream Jam.md\|The Post-Weird Dream Jam]]                   |
