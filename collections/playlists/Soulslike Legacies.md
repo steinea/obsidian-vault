@@ -24,18 +24,20 @@ permalink: 2024/01/11/soulslike-legacies
 16. [[Ender Lilies Quietus of the Knights]], 2021-06-22
 17. [[Eastern Exorcist]], 2021-07-08
 18. [[Grime]], 2021-08-02
-19. [[Death’s Gambit Afterlife]], 2021-09-30
-20. [[Aeterna Noctis]], 2021-12-14
-21. [[Tunic]], 2022-03-16
-22. [[Salt and Sacrifice]], 2022-05-10
-23. [[Moonscars]], 2022-09-27
-24. [[Ghost Song]], 2022-11-03
-25. [[Afterimage]], 2023-04-25
-26. [[The Last Faith]], 2023-06-13
-27. [[Oblivion Override]], 2023-06-14
-28. [[Blasphemous II]], 2023-08-23
-29. [[Ultros]], 2024-02-13
-30. [[Crowsworn]]
-31. [[Eitr]]
-32. [[Grime II]]
-33. [[Hollow Knight Silk Song]]
+19. [[Tails of Iron]], 2021-09-17
+20. [[Death’s Gambit Afterlife]], 2021-09-30
+21. [[Aeterna Noctis]], 2021-12-14
+22. [[Tunic]], 2022-03-16
+23. [[Salt and Sacrifice]], 2022-05-10
+24. [[Moonscars]], 2022-09-27
+25. [[Ghost Song]], 2022-11-03
+26. [[Afterimage]], 2023-04-25
+27. [[The Last Faith]], 2023-06-13
+28. [[Oblivion Override]], 2023-06-14
+29. [[Blasphemous II]], 2023-08-23
+30. [[Ultros]], 2024-02-13
+31. [[Tails of Iron 2 Whiskers of Winter]]
+32. [[Crowsworn]]
+33. [[Eitr]]
+34. [[Grime II]]
+35. [[Hollow Knight Silk Song]]
