@@ -41,6 +41,11 @@ const queries = [
     content: `---\npermalink: about/biography\n---\n`,
   },
   {
+    title: "Genealogy",
+    query: 'LIST FROM "about/genealogy" SORT file.name ASC',
+    content: `---\npermalink: about/genealogy\n---\n`,
+  },
+  {
     title: "Now",
     query: 'LIST FROM "about/now" SORT date DESC',
     content: `---\npermalink: about/now\n---\n`,
@@ -388,9 +393,24 @@ const queries = [
     content: `---\npermalink: constellation/publications\n---\n`,
   },
   {
+    title: "Relations",
+    query: 'TABLE WITHOUT ID file.link AS "Name" FROM "constellation/relations" SORT file.name ASC',
+    content: `---\npermalink: constellation/relations\n---\n`,
+  },
+  {
+    title: "Research",
+    query: 'TABLE WITHOUT ID file.link AS "File" FROM "constellation/research" WHERE category = "genealogy" SORT file.name ASC',
+    content: `---\npermalink: about/genealogy/research\ncssclass: clean-embeds\n---\n`,
+  },
+  {
     title: "Standards",
     query: 'TABLE WITHOUT ID file.link AS "File" FROM "constellation/standards" SORT file.name ASC',
     content: `---\npermalink: constellation/standards\n---\n`,
+  },
+  {
+    title: "Surnames",
+    query: 'TABLE WITHOUT ID file.link AS "File" FROM "constellation/surnames" SORT file.name ASC',
+    content: `---\npermalink: constellation/surnames\n---\n`,
   },
   {
     title: "Schools",

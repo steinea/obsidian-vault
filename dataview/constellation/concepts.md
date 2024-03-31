@@ -7,6 +7,7 @@ permalink: constellation/concepts
 | ------------------------------------------------------------------------------------------------------------ |
 | [[constellation/concepts/Adventure Game.md\|Adventure Game]]                                                 |
 | [[constellation/concepts/Anarchism.md\|Anarchism]]                                                           |
+| [[constellation/concepts/Ancestor Table.md\|Ancestor Table]]                                                 |
 | [[constellation/concepts/Ancient North Eurasian.md\|Ancient North Eurasian]]                                 |
 | [[constellation/concepts/Anthropology.md\|Anthropology]]                                                     |
 | [[constellation/concepts/Assembly Theory.md\|Assembly Theory]]                                               |
@@ -22,6 +23,7 @@ permalink: constellation/concepts
 | [[constellation/concepts/Fantasy.md\|Fantasy]]                                                               |
 | [[constellation/concepts/Feigenbaum Constants.md\|Feigenbaum Constants]]                                     |
 | [[constellation/concepts/Game Studies.md\|Game Studies]]                                                     |
+| [[constellation/concepts/Genealogical Numbering System.md\|Genealogical Numbering System]]                   |
 | [[constellation/concepts/Hermeneutics.md\|Hermeneutics]]                                                     |
 | [[constellation/concepts/Historical Fiction.md\|Historical Fiction]]                                         |
 | [[constellation/concepts/Historiography.md\|Historiography]]                                                 |
@@ -45,10 +47,14 @@ permalink: constellation/concepts
 | [[constellation/concepts/Pragmatism.md\|Pragmatism]]                                                         |
 | [[constellation/concepts/Praxeology.md\|Praxeology]]                                                         |
 | [[constellation/concepts/Prophetic Pragmatism.md\|Prophetic Pragmatism]]                                     |
+| [[constellation/concepts/Quarters of Nobility.md\|Quarters of Nobility]]                                     |
 | [[constellation/concepts/Quine–Putnam Indispensability Argument.md\|Quine–Putnam Indispensability Argument]] |
 | [[constellation/concepts/Science Fiction.md\|Science Fiction]]                                               |
+| [[constellation/concepts/Seize Quartiers.md\|Seize Quartiers]]                                               |
 | [[constellation/concepts/Semiotics.md\|Semiotics]]                                                           |
+| [[constellation/concepts/Sosa.md\|Sosa]]                                                                     |
 | [[constellation/concepts/Spy Fiction.md\|Spy Fiction]]                                                       |
+| [[constellation/concepts/Surname.md\|Surname]]                                                               |
 | [[constellation/concepts/Symbolic Interactionism.md\|Symbolic Interactionism]]                               |
 | [[constellation/concepts/Systems Theory.md\|Systems Theory]]                                                 |
 | [[constellation/concepts/Test-Driven Development.md\|Test-Driven Development]]                               |
