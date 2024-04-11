@@ -5,7 +5,7 @@ permalink: constellation/relations/56/william-fitzpatrick
 
 #### Summary
 
-William Fitzpatrick was born in 1838 in Newfoundland, Canada to [[(112) Henry Fitzpatrick]] and [[Ann Molloy]].
+William Fitzpatrick was born in 1838 in Newfoundland, Canada to [[(112) Henry Fitzpatrick]] and [[(113) Ann Molloy]].
 
 It is unknown if William had any siblings.
 

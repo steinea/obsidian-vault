@@ -5,13 +5,16 @@ permalink: constellation/relations/29/mary-elizabeth-bowland
 
 #### Summary
 
-Mary Elizabeth Bowland was born on November 15, 1869 in Sussex, New Brunswick, Canada to [[(58) Thomas James Bowland]] and [[Catherine Anderson]].
+Mary Elizabeth Bowland was born on November 15, 1869 in Sussex, New Brunswick, Canada to [[(58) Thomas James Bowland]] and [[(59) Catherine Anderson]].
 
-Mary was the first of seven children. Mary’s known siblings were:
+Mary was the first of seven children. Mary’s siblings were:
 
-* [[(58ii) Joseph Handford Bowland]], born February 28, 1873
-* [[(58vi) Annie Maud Bowland]], born April 23, 1880
-* [[(58vii) Samuel Wilbert Bowland]], born October 20, 1884
+* [[(58ii) Ellan J. Bowland]]
+* [[(58iii) Joseph Handford Bowland]]
+* [[(58iv) Robert J. Bowland]]
+* [[(58v) Thomas J. Bowland]]
+* [[(58vi) Annie Maud Bowland]]
+* [[(58vii) Samuel Wilbert Bowland]]
 
 Mary married [[(28) John Thomas Fitzpatrick]] in 1894 in Saint John, New Brunswick, Canada.
 
@@ -34,7 +37,7 @@ Mary died on July 12, 1924 in Calgary, Alberta, Canada and was buried in ????.
 
 *Written by [[(7) Lorraine Fitzpatrick]].*
 
-Mary Elizabeth Bowland, daughter of [[(58) Thomas James Bowland]] and [[Catherine Anderson]], is my grandmother. She was born at Jeffries Corner, near Sussex, New Brunswick, November 15, 1869.
+Mary Elizabeth Bowland, daughter of [[(58) Thomas James Bowland]] and [[(59) Catherine Anderson]], is my grandmother. She was born at Jeffries Corner, near Sussex, New Brunswick, November 15, 1869.
 
 How a farm girl came to meet a city fellow, we do not know, but in 1894 when she was twenty-two years old, Mary married John Thomas Fitzpatrick. It was not a church wedding. Mary was raised an Anglican and John a Roman Catholic. This would create problems with the family throughout their lives.
 

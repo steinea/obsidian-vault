@@ -9,4 +9,5 @@ cssclass: clean-embeds
 | [[constellation/research/Fitzpatrick Introductory Note.md\|Fitzpatrick Introductory Note]]                 |
 | [[constellation/research/Irish Canadians.md\|Irish Canadians]]                                             |
 | [[constellation/research/Irish Immigration to Canada, Part One.md\|Irish Immigration to Canada, Part One]] |
+| [[constellation/research/Kirkham Introductory Note.md\|Kirkham Introductory Note]]                         |
 | [[constellation/research/Orangemen in Canada.md\|Orangemen in Canada]]                                     |

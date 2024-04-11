@@ -1,19 +1,22 @@
 ---
-sosa: 58ii
-permalink: constellation/relations/58ii/joseph-handford-bowland
+sosa: 58iii
+permalink: constellation/relations/58iii/joseph-handford-bowland
 ---
 
 #### Summary
 
-Joseph Handford Bowland was born on February 28, 1873 in Sussex, New Brunswick, Canada to [[(58) Thomas James Bowland]] and [[Catherine Anderson]].
+Joseph Handford Bowland was born on February 28, 1873 in Sussex, New Brunswick, Canada to [[(58) Thomas James Bowland]] and [[(59) Catherine Anderson]].
 
-Joe was the second of seven children. Joe’s siblings were:
+Joe was the third of seven children. Joe’s siblings were:
 
-* [[(29) Mary Elizabeth Bowland]], born November 15, 1869
-* [[(58vi) Annie Maud Bowland]], born April 23, 1880
-* [[(58vii) Samuel Wilbert Bowland]], born October 20, 1884
+* [[(29) Mary Elizabeth Bowland]]
+* [[(58ii) Ellan J. Bowland]]
+* [[(58iv) Robert J. Bowland]]
+* [[(58v) Thomas J. Bowland]]
+* [[(58vi) Annie Maud Bowland]]
+* [[(58vii) Samuel Wilbert Bowland]]
 
-Joe married [[Margaret Augusta Armstrong]] on an unknown date in an unknown location.
+Joe married Margaret Augusta Armstrong on an unknown date in an unknown location.
 
 It is unknown if they had any children.
 
@@ -25,7 +28,7 @@ Joe died on December 21, 1968 in Sussex, New Brunswick, Canada and was buried in
 
 *Written by [[(7) Lorraine Fitzpatrick]].*
 
-Joseph Handford Bowland, son of [[(58) Thomas James Bowland]] and [[Catherine Anderson]] and heir to the Jeffries Corner, Sussex, New Brunswick farm, was born February 28, 1873.
+Joseph Handford Bowland, son of [[(58) Thomas James Bowland]] and [[(59) Catherine Anderson]] and heir to the Jeffries Corner, Sussex, New Brunswick farm, was born February 28, 1873.
 
 He was married to Margaret Augusta Armstrong, known as Aunt Gussie, born in 1891.
 

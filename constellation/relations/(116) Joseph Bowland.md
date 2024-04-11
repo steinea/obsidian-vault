@@ -5,11 +5,11 @@ permalink: constellation/relations/116/joseph-bowland
 
 #### Summary
 
-Joseph Bowland was born in 1800 in Ireland to unknown parents.
+Joseph Bowland was born in 1800 in Ireland to [[(232) Unknown Bowland]] and [[(233) Unknown Spouse]].
 
 It is unknown if Joseph had any siblings.
 
-Joseph married an unknown woman on an unknown date in an unknown location.
+Joseph married [[(117) Unknown Spouse]] on an unknown date in an unknown location.
 
 They had at least one child:
 

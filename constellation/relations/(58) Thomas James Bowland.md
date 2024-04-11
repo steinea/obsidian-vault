@@ -5,16 +5,19 @@ permalink: constellation/relations/58/thomas-james-bowland
 
 #### Summary
 
-Thomas James Bowland was born in 1828 in Londonderry, Northern Ireland, United Kingdom to [[(116) Joseph Bowland]] and an unknown mother.
+Thomas James Bowland was born in 1828 in Londonderry, Northern Ireland, United Kingdom to [[(116) Joseph Bowland]] and [[(117) Unknown Spouse]].
 
 It is unknown if Thomas had any siblings.
 
-Thomas married [[Catherine Anderson]] in 1868 in an unknown location
+Thomas married [[(59) Catherine Anderson]] in 1868 in an unknown location
 
 They had seven children:
 
 * [[(29) Mary Elizabeth Bowland]], born November 15, 1869
-* [[(58ii) Joseph Handford Bowland]], born February 28, 1873
+* [[(58ii) Ellan J. Bowland]]
+* [[(58iii) Joseph Handford Bowland]], born February 28, 1873
+* [[(58iv) Robert J. Bowland]]
+* [[(58v) Thomas J. Bowland]]
 * [[(58vi) Annie Maud Bowland]], born April 23, 1880
 * [[(58vii) Samuel Wilbert Bowland]], born October 20, 1884
 
@@ -32,7 +35,7 @@ Thomas Bowland, son of [[(116) Joseph Bowland]], was born in Londonderry, Irelan
 
 In King’s County, both the Walker Settlement (Walton Lake, Waterford) and Anderson Settlement (Hammond) were eleven and fourteen miles from Sussex. Londonderry (Anderson Settlement) was established as an Irish settlement in 1830. It is forty miles from Saint John.
 
-In 1868, Thomas married [[Catherine Anderson]], born June 24, 1844, of Walker Settlement. Catherine’s father and mother, [[Thompson Anderson]] and [[Mary Anderson]], started life in Canada on the Walker Settlement, farming with brother-in-law Samuel, and Thompson’s sister Martha (Anderson) Walker. Catherine at seventeen years of age worked as a servant for the Wallace family. The Anderson’s later moved to Londonderry (Anderson Settlement).
+In 1868, Thomas married [[(59) Catherine Anderson]], born June 24, 1844, of Walker Settlement. Catherine’s father and mother, [[(118) Thompson Anderson]] and [[(119) Mary Anderson]], started life in Canada on the Walker Settlement, farming with brother-in-law Samuel, and Thompson’s sister Martha (Anderson) Walker. Catherine at seventeen years of age worked as a servant for the Wallace family. The Anderson’s later moved to Londonderry (Anderson Settlement).
 
 At the time of his marriage, Thomas moved his wife Catherine to join him and his father Joseph in their home at Jeffries Corner, which is fifty-two miles from Saint John and eight miles from Sussex. Thomas did not sign his name on the marriage certificate. Instead he made an “X.”
 

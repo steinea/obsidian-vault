@@ -30,7 +30,7 @@ Grandparents *(4 ancestors)*
 * (10) Herbert Ward
 * (11) Maria Rosaria Mifsud
 * [[(12) Alfred Kirkham]]
-* (13) Elsie Holland
+* [[(13) Elsie Holland]]
 * [[(14) Frederick Francis Fitzpatrick]]
 * (15) Vena Sarah Ann Lougheed
 
@@ -46,9 +46,9 @@ Grandparents *(4 ancestors)*
 * (22) Salvatore Mifsud
 * (23) Elisabetta Camoin
 * [[(24) Richard Kirkham]]
-* (25) Mary Stevens
-* (26) James Henry Holland
-* (27) Clara Baker
+* [[(25) Mary Stevens]]
+* [[(26) James Henry Holland]]
+* [[(27) Clara Baker]]
 * [[(28) John Thomas Fitzpatrick]]
 * [[(29) Mary Elizabeth Bowland]]
 * (30) Robert Lougheed
@@ -72,15 +72,17 @@ Grandparents *(4 ancestors)*
 * (46) Jean Louis Camoin
 * (47) Emanuella Spiteri
 * [[(48) Richard Kirkham]]
-* (49) Sarah Wherton
-* (52) Elijah Holland
-* (53) Elizabeth A. Edmonds
-* (54) Edwin Baker
-* (55) Elizabeth Hall
+* [[(49) Sarah Wherton]]
+* [[(50) Unknown Stevens]]
+* [[(51) Unknown Spouse]]
+* [[(52) Elijah Holland]]
+* [[(53) Elizabeth Ann Edmonds]]
+* [[(54) Edwin John Baker]]
+* [[(55) Elizabeth Hall]]
 * [[(56) William Fitzpatrick]]
 * [[(57) Mary Fitzgibbons]]
 * [[(58) Thomas James Bowland]]
-* [[Catherine Anderson]]
+* [[(59) Catherine Anderson]]
 * (60) Isaac Lougheed
 * (61) Mary A. Morrison
 * (62) John Spanhouse
@@ -103,10 +105,23 @@ Grandparents *(4 ancestors)*
 * (94) Salvatore Spiteri
 * (95) Marguerita Cassar
 * [[(96) John Kirkham]]
-* (104) James Holland
-* (108) Thomas Baker
+* [[(97) Ann Kinsey]]
+* [[(98) Unknown Wherton]]
+* [[(99) Unknown Spouse]]
+* [[(104) James Holland]]
+* [[(105) Mary Mills]]
+* [[(106) Unknown Edmonds]]
+* [[(107) Unknown Spouse]]
+* [[(108) Thomas Baker]]
+* [[(109) Mary Ann Whitehouse]]
+* [[(110) James Hall]]
+* [[(111) Sarah Pickin]]
 * [[(112) Henry Fitzpatrick]]
+* [[(113) Ann Molloy]]
 * [[(116) Joseph Bowland]]
+* [[(117) Unknown Spouse]]
+* [[(118) Thompson Anderson]]
+* [[(119) Mary Anderson]]
 * (120) James Lougheed
 * (124) Frederic Spanhouse
 * (126) Pierre Valliere
@@ -126,7 +141,27 @@ Grandparents *(4 ancestors)*
 * (186) Jacques Bonnefoy
 * (187) Marie Catherine Feraud
 * [[(192) John Kirkham]]
-* (208) John Holland
+* [[(193) Sarah Hawkes]]
+* [[(194) Unknown Kinsey]]
+* [[(195) Unknown Spouse]]
+* [[(208) John Holland]]
+* [[(209) Sarah Talbot]]
+* [[(210) Unknown Mills]]
+* [[(211) Unknown Spouse]]
+* [[(216) Unknown Baker]]
+* [[(217) Unknown Spouse]]
+* [[(218) Unknown Whitehouse]]
+* [[(219) Unknown Spouse]]
+* [[(220) Unknown Hall]]
+* [[(221) Unknown Spouse]]
+* [[(222) Unknown Pickin]]
+* [[(223) Unknown Spouse]]
+* [[(224) Unknown Fitzpatrick]]
+* [[(225) Unknown Spouse]]
+* [[(226) Unknown Molloy]]
+* [[(227) Unknown Spouse]]
+* [[(232) Unknown Bowland]]
+* [[(233) Unknown Spouse]]
 * (248) Johann Spannaus
 * (252) Jean Baptiste Marie Valliere
 
@@ -147,6 +182,10 @@ Grandparents *(4 ancestors)*
 * (371) Therese Caillol
 * (372) Etienne Bonnefoy
 * (374) Barthelemi Feraud
+* [[(384) Unknown Kirkham]]
+* [[(385) Unknown Spouse]]
+* [[(416) Unknown Holland]]
+* [[(417) Unknown Spouse]]
 * (504) Jean Baptiste Valliere
 
 <br>

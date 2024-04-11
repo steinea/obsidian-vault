@@ -5,22 +5,25 @@ permalink: constellation/relations/58vii/samuel-wilbert-bowland
 
 #### Summary
 
-Samuel Wilbert Bowland was born on October 20, 1884 in Sussex, New Brunswick, Canada to [[(58) Thomas James Bowland]] and [[Catherine Anderson]].
+Samuel Wilbert Bowland was born on October 20, 1884 in Sussex, New Brunswick, Canada to [[(58) Thomas James Bowland]] and [[(59) Catherine Anderson]].
 
 Samuel was the seventh of seven children. Samuel’s siblings were:
 
-* Mary Elizabeth Bowland, born November 15, 1869
-* Joseph Handford Bowland, born February 28, 1873
-* Annie Maud Bowland, born April 23, 1880
+* [[(29) Mary Elizabeth Bowland]]
+* [[(58ii) Ellan J. Bowland]]
+* [[(58iii) Joseph Handford Bowland]]
+* [[(58iv) Robert J. Bowland]]
+* [[(58v) Thomas J. Bowland]]
+* [[(58vi) Annie Maud Bowland]]
 
-Samuel married [[Adeila Sherwood]] in July 1909 in an unknown location.
+Samuel married Adeila Sherwood in July 1909 in an unknown location.
 
 They had four children:
 
-* [[Sherwood Bowland]], born unknown date
-* [[George Bowland]], born unknown date
-* [[Winnifred Bowland]], born unknown date
-* [[Alfred Bowland]], born unknown date
+* Sherwood Bowland, born unknown date
+* George Bowland, born unknown date
+* Winnifred Bowland, born unknown date
+* Alfred Bowland, born unknown date
 
 Samuel died on August 4, 1968 in Hampton, New Brunswick, Canada and was buried in Mosher Hill Cemetary.
 
@@ -32,7 +35,7 @@ Samuel died on August 4, 1968 in Hampton, New Brunswick, Canada and was buried i
 
 I know nothing about Samuel, however, thanks to cousin Delores (Fitzpatrick) Pfeiffer, we have pictures of him. Delores visited his daughter Winnifred, who was kind enough to share her pictures. I can see a resemblance of my father’s looks with his uncle as younger men.
 
-[[(58) Thomas James Bowland]] and [[Catherine Anderson]] had seven children. [[(29) Mary Elizabeth Bowland]] was their first born and Samuel Wilbert their last child, born October 20th, 1884.
+[[(58) Thomas James Bowland]] and [[(59) Catherine Anderson]] had seven children. [[(29) Mary Elizabeth Bowland]] was their first born and Samuel Wilbert their last child, born October 20th, 1884.
 
 He was married to Adeila Sherwood in July 1909 and made their home in Hampton, New Brunswick. They had four children - Sherwood (Sam), George, Winnifred and Alfred.
 

@@ -5,11 +5,11 @@ permalink: constellation/relations/112/henry-fitzpatrick
 
 #### Summary
 
-Henry Fitzpatrick was born on an unknown date in Ireland to unknown parents.
+Henry Fitzpatrick was born on an unknown date in Ireland to [[(224) Unknown Fitzpatrick]] and [[(225) Unknown Spouse]].
 
 It is unknown if Henry had any siblings.
 
-Henry married [[Ann Molloy]] on an unknown date.
+Henry married [[(113) Ann Molloy]] on an unknown date.
 
 They had at least one child:
 
@@ -23,7 +23,7 @@ Henry died on an unknown date in Halifax, Nova Scotia, Canada and was buried in 
 
 *Written by [[(7) Lorraine Fitzpatrick]]*.
 
-Henry Fitzpatrick and his wife [[Ann Moloy]] are shown as the parents of [[(56) William Fitzpatrick]], at the time of William’s marriage to [[Mary Fitzgibbons]] on May 4, 1868, in Halifax, Nova Scotia.
+Henry Fitzpatrick and his wife [[(113) Ann Molloy]] are shown as the parents of [[(56) William Fitzpatrick]], at the time of William’s marriage to [[(57) Mary Fitzgibbons]] on May 4, 1868, in Halifax, Nova Scotia.
 
 Henry and his wife had emigrated from Ireland. Additional information states Henry was a farmer. No additional records have been located to date.
 

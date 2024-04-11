@@ -31,7 +31,7 @@ Annie died on May 3, 1985 in Calgary, Alberta, Canada and was buried in an unkno
 
 *Written by [[(7) Lorraine Fitzpatrick]].*
 
-Annie Catherine was [[(28) John Thomas Fitzpatrick]] and [[(29) Mary Elizabeth Bowland]]’s second child, born November 3, 1896, in Saint John, New Brunswick. Aunt Annie was our ‘fun’ aunt. When she was a child, she kept her siblings entertained telling stories in the hayloft of the barn at their uncle [[(58ii) Joseph Handford Bowland]]’s farm in Sussex, New Brunswick. What an imagination! This was to carry on throughout her life.
+Annie Catherine was [[(28) John Thomas Fitzpatrick]] and [[(29) Mary Elizabeth Bowland]]’s second child, born November 3, 1896, in Saint John, New Brunswick. Aunt Annie was our ‘fun’ aunt. When she was a child, she kept her siblings entertained telling stories in the hayloft of the barn at their uncle [[(58iii) Joseph Handford Bowland]]’s farm in Sussex, New Brunswick. What an imagination! This was to carry on throughout her life.
 
 I remember how she fantasized that someone was living in the attic of their house on 33rd Avenue S. W. Once my Dad [[(14) Frederick Francis Fitzpatrick]] said, “If someone is living in the attic Annie, why is it the icicles on the gutters aren’t yellow?” She went so far as to claim she had left a slice of bread on the counter and it was gone when she returned home. All of this was totally harmless and amusing to everyone.
 
