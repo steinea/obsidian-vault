@@ -1,5 +1,5 @@
 ---
-title: Wolf Hall
+title: An Occult History of Britain
 date: 2023-08-09
 permalink: 2023/08/09/an-occult-history-of-britain
 ---
