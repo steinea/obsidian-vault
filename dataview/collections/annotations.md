@@ -5,6 +5,7 @@ permalink: collections/annotations
 
 | File                                                                                                                      | Date       |
 | ------------------------------------------------------------------------------------------------------------------------- | ---------- |
+| [[collections/annotations/The Calamitous Advance of the Sun.md\|The Calamitous Advance of the Sun]]                       | 2024-02-25 |
 | [[collections/annotations/A Strange Period of Human Folly and Shame.md\|A Strange Period of Human Folly and Shame]]       | 2024-01-01 |
 | [[collections/annotations/No Salvation Without Destruction.md\|No Salvation Without Destruction]]                         | 2023-12-31 |
 | [[collections/annotations/The Concept of Contradictory Class Locations.md\|The Concept of Contradictory Class Locations]] | 2023-09-09 |
