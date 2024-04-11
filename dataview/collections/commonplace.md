@@ -5,6 +5,7 @@ permalink: collections/commonplace
 
 | File                                                                                                                                                                          | Date       |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
+| [[collections/commonplace/Hegel and Process.md\|Hegel and Process]]                                                                                                           | 2024-04-07 |
 | [[collections/commonplace/How to Create an Index.md\|How to Create an Index]]                                                                                                 | 2024-03-15 |
 | [[collections/commonplace/How to Forecast The Future.md\|How to Forecast The Future]]                                                                                         | 2024-03-15 |
 | [[collections/commonplace/How to Start a Rebellion.md\|How to Start a Rebellion]]                                                                                             | 2024-03-15 |
