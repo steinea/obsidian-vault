@@ -12,5 +12,5 @@ permalink: collections/playlists
 | [[collections/playlists/Soulslike Legacies.md\|Soulslike Legacies]]         | 2024-01-11 |
 | [[collections/playlists/Roleplaying Games.md\|Roleplaying Games]]           | 2022-09-12 |
 | [[collections/playlists/Movement Games.md\|Movement Games]]                 | \-         |
-| [[collections/playlists/Sony Prestige.md\|Sony Prestige]]                   | \-         |
 | [[collections/playlists/Resident Remakes.md\|Resident Remakes]]             | \-         |
+| [[collections/playlists/Sony Prestige.md\|Sony Prestige]]                   | \-         |

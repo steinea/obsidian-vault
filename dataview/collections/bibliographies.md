@@ -60,8 +60,8 @@ permalink: collections/bibliographies
 | [[collections/bibliographies/Forcing Landscapes.md\|Forcing Landscapes]]                   | science     | 2022-09-12 |
 | [[collections/bibliographies/Parmenidean Meditations.md\|Parmenidean Meditations]]         | philosophy  | 2022-09-12 |
 | [[collections/bibliographies/Passages of Cognition.md\|Passages of Cognition]]             | philosophy  | 2022-09-12 |
-| [[collections/bibliographies/Design Theory.md\|Design Theory]]                             | design      | 2022-08-21 |
 | [[collections/bibliographies/Design Science.md\|Design Science]]                           | design      | 2022-08-21 |
+| [[collections/bibliographies/Design Theory.md\|Design Theory]]                             | design      | 2022-08-21 |
 | [[collections/bibliographies/New Urbanism.md\|New Urbanism]]                               | design      | 2022-08-21 |
 | [[collections/bibliographies/Universal Design.md\|Universal Design]]                       | design      | 2022-08-21 |
 | [[collections/bibliographies/User Experience.md\|User Experience]]                         | design      | 2022-08-21 |
@@ -118,10 +118,10 @@ permalink: collections/bibliographies
 | [[collections/bibliographies/Critiques of Reason.md\|Critiques of Reason]]                 | philosophy  | 2020-04-09 |
 | [[collections/bibliographies/Ordinary Language.md\|Ordinary Language]]                     | linguistics | 2018-10-20 |
 | [[collections/bibliographies/Functional Grammar.md\|Functional Grammar]]                   | linguistics | 2018-10-02 |
-| [[collections/bibliographies/Integrational Linguistics.md\|Integrational Linguistics]]     | linguistics | 2018-10-02 |
 | [[collections/bibliographies/Integrationism.md\|Integrationism]]                           | linguistics | 2018-10-02 |
-| [[collections/bibliographies/Rhetorical Structure Theory.md\|Rhetorical Structure Theory]] | linguistics | 2018-10-02 |
+| [[collections/bibliographies/Integrational Linguistics.md\|Integrational Linguistics]]     | linguistics | 2018-10-02 |
 | [[collections/bibliographies/Semantics.md\|Semantics]]                                     | linguistics | 2018-10-02 |
+| [[collections/bibliographies/Rhetorical Structure Theory.md\|Rhetorical Structure Theory]] | linguistics | 2018-10-02 |
 | [[collections/bibliographies/Stylistics.md\|Stylistics]]                                   | linguistics | 2018-10-02 |
 | [[collections/bibliographies/Discourse Analysis.md\|Discourse Analysis]]                   | linguistics | 2018-10-01 |
 | [[collections/bibliographies/Narratology.md\|Narratology]]                                 | linguistics | 2018-10-01 |
