@@ -150,15 +150,15 @@ permalink: collections/commonplace
 | [[collections/commonplace/Post-Cringe.md\|Post-Cringe]]                                                                                                                       | 2023-03-20 |
 | [[collections/commonplace/The Standard Model Survives.md\|The Standard Model Survives]]                                                                                       | 2023-03-20 |
 | [[collections/commonplace/The Strategy of Composition.md\|The Strategy of Composition]]                                                                                       | 2023-03-20 |
-| [[collections/commonplace/Jaquaying the Dungeon, 2.md\|Jaquaying the Dungeon, 2]]                                                                                             | 2023-03-12 |
 | [[collections/commonplace/Jaquaying the Dungeon, 1.md\|Jaquaying the Dungeon, 1]]                                                                                             | 2023-03-12 |
+| [[collections/commonplace/Jaquaying the Dungeon, 2.md\|Jaquaying the Dungeon, 2]]                                                                                             | 2023-03-12 |
 | [[collections/commonplace/Jaquaying the Dungeon, 3.md\|Jaquaying the Dungeon, 3]]                                                                                             | 2023-03-12 |
 | [[collections/commonplace/Jaquaying the Dungeon, 4.md\|Jaquaying the Dungeon, 4]]                                                                                             | 2023-03-12 |
 | [[collections/commonplace/Jaquaying the Dungeon, 6.md\|Jaquaying the Dungeon, 6]]                                                                                             | 2023-03-12 |
-| [[collections/commonplace/Jaquaying the Dungeon, 9.md\|Jaquaying the Dungeon, 9]]                                                                                             | 2023-03-12 |
 | [[collections/commonplace/Jaquaying the Dungeon, 5.md\|Jaquaying the Dungeon, 5]]                                                                                             | 2023-03-12 |
-| [[collections/commonplace/Jaquaying the Dungeon, 7.md\|Jaquaying the Dungeon, 7]]                                                                                             | 2023-03-12 |
+| [[collections/commonplace/Jaquaying the Dungeon, 9.md\|Jaquaying the Dungeon, 9]]                                                                                             | 2023-03-12 |
 | [[collections/commonplace/Jaquaying the Dungeon, 8.md\|Jaquaying the Dungeon, 8]]                                                                                             | 2023-03-12 |
+| [[collections/commonplace/Jaquaying the Dungeon, 7.md\|Jaquaying the Dungeon, 7]]                                                                                             | 2023-03-12 |
 | [[collections/commonplace/Don't Be Afraid of Going Wrong.md\|Don't Be Afraid of Going Wrong]]                                                                                 | 2023-03-11 |
 | [[collections/commonplace/Fuck the Poetry Police.md\|Fuck the Poetry Police]]                                                                                                 | 2023-03-11 |
 | [[collections/commonplace/Not the Backlog.md\|Not the Backlog]]                                                                                                               | 2023-03-11 |
@@ -288,8 +288,8 @@ permalink: collections/commonplace
 | [[collections/commonplace/Where are Words.md\|Where are Words]]                                                                                                               | 2017-12-27 |
 | [[collections/commonplace/On The Last Jedi, 4.md\|On The Last Jedi, 4]]                                                                                                       | 2017-12-17 |
 | [[collections/commonplace/On The Last Jedi, 5.md\|On The Last Jedi, 5]]                                                                                                       | 2017-12-17 |
-| [[collections/commonplace/On The Last Jedi, 3.md\|On The Last Jedi, 3]]                                                                                                       | 2017-12-15 |
 | [[collections/commonplace/On The Last Jedi, 2.md\|On The Last Jedi, 2]]                                                                                                       | 2017-12-15 |
+| [[collections/commonplace/On The Last Jedi, 3.md\|On The Last Jedi, 3]]                                                                                                       | 2017-12-15 |
 | [[collections/commonplace/On The Last Jedi, 1.md\|On The Last Jedi, 1]]                                                                                                       | 2017-12-12 |
 | [[collections/commonplace/The Pizza Thought Experiment.md\|The Pizza Thought Experiment]]                                                                                     | 2017-11-26 |
 | [[collections/commonplace/A Tale of Two Botanies.md\|A Tale of Two Botanies]]                                                                                                 | 2017-11-25 |
@@ -302,8 +302,8 @@ permalink: collections/commonplace
 | [[collections/commonplace/Watching Blade Runner in 2017.md\|Watching Blade Runner in 2017]]                                                                                   | 2017-10-15 |
 | [[collections/commonplace/On Blade Runner 2049, 6.md\|On Blade Runner 2049, 6]]                                                                                               | 2017-10-12 |
 | [[collections/commonplace/Blade Runner 2049 and Arrival.md\|Blade Runner 2049 and Arrival]]                                                                                   | 2017-10-11 |
-| [[collections/commonplace/On Blade Runner 2049, 4.md\|On Blade Runner 2049, 4]]                                                                                               | 2017-10-11 |
 | [[collections/commonplace/On Blade Runner 2049, 3.md\|On Blade Runner 2049, 3]]                                                                                               | 2017-10-11 |
+| [[collections/commonplace/On Blade Runner 2049, 4.md\|On Blade Runner 2049, 4]]                                                                                               | 2017-10-11 |
 | [[collections/commonplace/On Blade Runner 2049, 5.md\|On Blade Runner 2049, 5]]                                                                                               | 2017-10-11 |
 | [[collections/commonplace/Consciousness An Object Lesson.md\|Consciousness An Object Lesson]]                                                                                 | 2017-10-09 |
 | [[collections/commonplace/The Consciousness Grid.md\|The Consciousness Grid]]                                                                                                 | 2017-10-09 |
@@ -441,14 +441,14 @@ permalink: collections/commonplace
 | [[collections/commonplace/Apart Together.md\|Apart Together]]                                                                                                                 | 2017-04-11 |
 | [[collections/commonplace/Kierkegaard's Abraham.md\|Kierkegaard's Abraham]]                                                                                                   | 2017-04-10 |
 | [[collections/commonplace/Eurydice.md\|Eurydice]]                                                                                                                             | 2017-04-07 |
-| [[collections/commonplace/The Frankfurt School, Part 4.md\|The Frankfurt School, Part 4]]                                                                                     | 2017-04-07 |
 | [[collections/commonplace/The Frankfurt School, Part 5.md\|The Frankfurt School, Part 5]]                                                                                     | 2017-04-07 |
+| [[collections/commonplace/The Frankfurt School, Part 4.md\|The Frankfurt School, Part 4]]                                                                                     | 2017-04-07 |
 | [[collections/commonplace/The Frankfurt School, Part 6.md\|The Frankfurt School, Part 6]]                                                                                     | 2017-04-07 |
 | [[collections/commonplace/The Frankfurt School, Part 7.md\|The Frankfurt School, Part 7]]                                                                                     | 2017-04-07 |
 | [[collections/commonplace/The Frankfurt School, Part 8.md\|The Frankfurt School, Part 8]]                                                                                     | 2017-04-07 |
 | [[collections/commonplace/The Frankfurt School, Part 1.md\|The Frankfurt School, Part 1]]                                                                                     | 2017-04-06 |
-| [[collections/commonplace/The Frankfurt School, Part 2.md\|The Frankfurt School, Part 2]]                                                                                     | 2017-04-06 |
 | [[collections/commonplace/The Frankfurt School, Part 3.md\|The Frankfurt School, Part 3]]                                                                                     | 2017-04-06 |
+| [[collections/commonplace/The Frankfurt School, Part 2.md\|The Frankfurt School, Part 2]]                                                                                     | 2017-04-06 |
 | [[collections/commonplace/Science Fiction and Jane Austen.md\|Science Fiction and Jane Austen]]                                                                               | 2017-03-30 |
 | [[collections/commonplace/Lacan's Heuristic.md\|Lacan's Heuristic]]                                                                                                           | 2017-03-24 |
 | [[collections/commonplace/Latour and Badiou.md\|Latour and Badiou]]                                                                                                           | 2017-03-23 |
@@ -883,8 +883,8 @@ permalink: collections/commonplace
 | [[collections/commonplace/On Kobe Bryant.md\|On Kobe Bryant]]                                                                                                                 | 2016-04-19 |
 | [[collections/commonplace/Facticity.md\|Facticity]]                                                                                                                           | 2016-04-16 |
 | [[collections/commonplace/Hannah Horvath, Why Do We (Still) Hate Thee So.md\|Hannah Horvath, Why Do We (Still) Hate Thee So]]                                                 | 2016-04-16 |
-| [[collections/commonplace/Philosophy as Science.md\|Philosophy as Science]]                                                                                                   | 2016-04-16 |
 | [[collections/commonplace/Philosophy and Weltanschauung.md\|Philosophy and Weltanschauung]]                                                                                   | 2016-04-16 |
+| [[collections/commonplace/Philosophy as Science.md\|Philosophy as Science]]                                                                                                   | 2016-04-16 |
 | [[collections/commonplace/That Which Is Not, But Nevertheless Is Given.md\|That Which Is Not, But Nevertheless Is Given]]                                                     | 2016-04-16 |
 | [[collections/commonplace/Yet I'll Speak.md\|Yet I'll Speak]]                                                                                                                 | 2016-04-16 |
 | [[collections/commonplace/Zombies on the High Seas.md\|Zombies on the High Seas]]                                                                                             | 2016-04-11 |
@@ -1250,8 +1250,8 @@ permalink: collections/commonplace
 | [[collections/commonplace/The Hidden Power Laws of Ecosystems.md\|The Hidden Power Laws of Ecosystems]]                                                                       | 2015-10-30 |
 | [[collections/commonplace/Beyond Trudeau's Charm Offensive.md\|Beyond Trudeau's Charm Offensive]]                                                                             | 2015-10-29 |
 | [[collections/commonplace/Patmos.md\|Patmos]]                                                                                                                                 | 2015-10-29 |
-| [[collections/commonplace/The Goddamn Particle.md\|The Goddamn Particle]]                                                                                                     | 2015-10-29 |
 | [[collections/commonplace/The GIF Bite Election.md\|The GIF Bite Election]]                                                                                                   | 2015-10-29 |
+| [[collections/commonplace/The Goddamn Particle.md\|The Goddamn Particle]]                                                                                                     | 2015-10-29 |
 | [[collections/commonplace/The Meaning of Zombies.md\|The Meaning of Zombies]]                                                                                                 | 2015-10-29 |
 | [[collections/commonplace/The Tragic, Forgotten History of Zombies.md\|The Tragic, Forgotten History of Zombies]]                                                             | 2015-10-29 |
 | [[collections/commonplace/A Cataract of Ruin.md\|A Cataract of Ruin]]                                                                                                         | 2015-10-27 |

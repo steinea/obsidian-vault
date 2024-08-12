@@ -21,6 +21,6 @@ Laruelle, François. *A Biography of Ordinary Man: On Authorities and Minorities
 
 <br>
 
-### Annotation
+### Annotations
 
 [[Treatise of the Solitudes]]

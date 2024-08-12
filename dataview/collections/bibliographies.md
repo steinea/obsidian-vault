@@ -120,8 +120,8 @@ permalink: collections/bibliographies
 | [[collections/bibliographies/Functional Grammar.md\|Functional Grammar]]                   | linguistics | 2018-10-02 |
 | [[collections/bibliographies/Integrationism.md\|Integrationism]]                           | linguistics | 2018-10-02 |
 | [[collections/bibliographies/Integrational Linguistics.md\|Integrational Linguistics]]     | linguistics | 2018-10-02 |
-| [[collections/bibliographies/Semantics.md\|Semantics]]                                     | linguistics | 2018-10-02 |
 | [[collections/bibliographies/Rhetorical Structure Theory.md\|Rhetorical Structure Theory]] | linguistics | 2018-10-02 |
+| [[collections/bibliographies/Semantics.md\|Semantics]]                                     | linguistics | 2018-10-02 |
 | [[collections/bibliographies/Stylistics.md\|Stylistics]]                                   | linguistics | 2018-10-02 |
 | [[collections/bibliographies/Discourse Analysis.md\|Discourse Analysis]]                   | linguistics | 2018-10-01 |
 | [[collections/bibliographies/Narratology.md\|Narratology]]                                 | linguistics | 2018-10-01 |

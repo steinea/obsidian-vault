@@ -56,6 +56,7 @@ permalink: constellation/journals
 | [[constellation/journals/Open Physics.md\|Open Physics]]                                                                                                       |
 | [[constellation/journals/Pacific Coast Philology.md\|Pacific Coast Philology]]                                                                                 |
 | [[constellation/journals/Parrhesia.md\|Parrhesia]]                                                                                                             |
+| [[constellation/journals/PhaenEx.md\|PhaenEx]]                                                                                                                 |
 | [[constellation/journals/Philosophy.md\|Philosophy]]                                                                                                           |
 | [[constellation/journals/Philosophy and Literature.md\|Philosophy and Literature]]                                                                             |
 | [[constellation/journals/Philosophy of Physics.md\|Philosophy of Physics]]                                                                                     |

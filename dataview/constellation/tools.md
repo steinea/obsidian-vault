@@ -19,6 +19,7 @@ permalink: constellation/tools
 | [[constellation/tools/Digital Preservation Recommendations for Small Museums.md\|Digital Preservation Recommendations for Small Museums]] |
 | [[constellation/tools/Digital Public Goods Standard.md\|Digital Public Goods Standard]]                                                   |
 | [[constellation/tools/Directory of  Open Access Books.md\|Directory of  Open Access Books]]                                               |
+| [[constellation/tools/DOAB.md\|DOAB]]                                                                                                     |
 | [[constellation/tools/Everything.md\|Everything]]                                                                                         |
 | [[constellation/tools/Excalidraw.md\|Excalidraw]]                                                                                         |
 | [[constellation/tools/Flowershow.md\|Flowershow]]                                                                                         |
@@ -35,6 +36,7 @@ permalink: constellation/tools
 | [[constellation/tools/Morrowind Graphics Extender XE.md\|Morrowind Graphics Extender XE]]                                                 |
 | [[constellation/tools/Netlify.md\|Netlify]]                                                                                               |
 | [[constellation/tools/Nightshade.md\|Nightshade]]                                                                                         |
+| [[constellation/tools/OAPEN.md\|OAPEN]]                                                                                                   |
 | [[constellation/tools/Obsidian.md\|Obsidian]]                                                                                             |
 | [[constellation/tools/Obsidian Digital Garden.md\|Obsidian Digital Garden]]                                                               |
 | [[constellation/tools/Online Library of Open Access Books.md\|Online Library of Open Access Books]]                                       |
