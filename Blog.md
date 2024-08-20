@@ -36,11 +36,3 @@ cssclass: clean-embeds
 <br>
 
 ![[Excurses]]
-
-<br>
-
-![[Juvenilia]]
-
-<br>
-
-![[Field Notes]]
