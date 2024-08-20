@@ -1,9 +1,0 @@
----
-layout: bio
-category: biography
-title: Website, January 2021
-date: 2021-01-10
-permalink: 2021/01/10/website-january-2021
----
-
-Eric Stein (he/him) is a Game Development Instructor at Trinity Western University. A graduate of the English Honours BA program at Simon Fraser University and the Interdisciplinary Humanities MA program at Trinity Western University, his research bridges literature and gaming, applying phenomenological, hermeneutic, and deconstructive methods to the interpretation of interactive texts. He is also a practicing game designer, primarily working in the independent tabletop roleplaying space. His design work deploys philosophical, political, and theological concepts in gamic form, bringing together theory and play for social, story-driven tabletop role-playing sessions.

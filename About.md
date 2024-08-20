@@ -3,7 +3,6 @@ permalink: about
 ---
 
 
-- [[dataview/about/Biography.md|Biography]]
 - [[dataview/about/Genealogy.md|Genealogy]]
 - [[dataview/about/Now.md|Now]]
 - [[dataview/about/Personality.md|Personality]]
