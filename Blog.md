@@ -8,7 +8,3 @@ cssclass: clean-embeds
 <br>
 
 ![[Juvenilia, 3]]
-
-<br>
-
-![[Field Notes, 2]]
