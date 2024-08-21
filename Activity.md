@@ -9,7 +9,6 @@ permalink: activity
 - [[dataview/activity/Exercising.md|Exercising]]
 - [[dataview/activity/Listening.md|Listening]]
 - [[dataview/activity/Playing.md|Playing]]
-- [[dataview/activity/Posting.md|Posting]]
 - [[dataview/activity/Reading.md|Reading]]
 - [[dataview/activity/Sleeping.md|Sleeping]]
 - [[dataview/activity/Traveling.md|Traveling]]
