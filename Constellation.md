@@ -1,8 +1,6 @@
 ---
 permalink: constellation
 ---
-
-
 - [[dataview/constellation/Associations.md|Associations]]
 - [[dataview/constellation/Book Series.md|Book Series]]
 - [[dataview/constellation/Books.md|Books]]
