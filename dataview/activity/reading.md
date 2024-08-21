@@ -1,7 +1,0 @@
----
-permalink: activity/reading
----
-
-
-| Reading |
-| ------- |

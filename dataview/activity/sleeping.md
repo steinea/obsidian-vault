@@ -1,7 +1,0 @@
----
-permalink: activity/sleeping
----
-
-
-| Sleeping |
-| -------- |
