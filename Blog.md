@@ -24,7 +24,3 @@ cssclass: clean-embeds
 <br>
 
 ![[Dialogues]]
-
-<br>
-
-![[Excurses, 2]]
