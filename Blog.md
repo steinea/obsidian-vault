@@ -12,7 +12,3 @@ cssclass: clean-embeds
 <br>
 
 ![[Field Notes, 2]]
-
-<br>
-
-![[Ludology]]
