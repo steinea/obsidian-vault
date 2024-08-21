@@ -28,7 +28,3 @@ cssclass: clean-embeds
 <br>
 
 ![[Excurses, 2]]
-
-<br>
-
-![[Juvenilia, 2]]

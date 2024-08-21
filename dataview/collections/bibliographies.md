@@ -12,8 +12,8 @@ permalink: collections/bibliographies
 | [[collections/bibliographies/Oxford Miscellany.md\|Oxford Miscellany]]                     | science     | 2023-11-11 |
 | [[collections/bibliographies/Playground Theory.md\|Playground Theory]]                     | games       | 2023-11-05 |
 | [[collections/bibliographies/Strategic Thought.md\|Strategic Thought]]                     | warfare     | 2023-10-18 |
-| [[collections/bibliographies/Thermodynamic Theory.md\|Thermodynamic Theory]]               | philosophy  | 2023-10-18 |
 | [[collections/bibliographies/The Unique.md\|The Unique]]                                   | philosophy  | 2023-10-18 |
+| [[collections/bibliographies/Thermodynamic Theory.md\|Thermodynamic Theory]]               | philosophy  | 2023-10-18 |
 | [[collections/bibliographies/Topological Ontogenesis.md\|Topological Ontogenesis]]         | philosophy  | 2023-10-18 |
 | [[collections/bibliographies/Climate Transformation.md\|Climate Transformation]]           | science     | 2023-09-23 |
 | [[collections/bibliographies/Mystery Fiction.md\|Mystery Fiction]]                         | literature  | 2023-09-04 |
@@ -118,8 +118,8 @@ permalink: collections/bibliographies
 | [[collections/bibliographies/Critiques of Reason.md\|Critiques of Reason]]                 | philosophy  | 2020-04-09 |
 | [[collections/bibliographies/Ordinary Language.md\|Ordinary Language]]                     | linguistics | 2018-10-20 |
 | [[collections/bibliographies/Functional Grammar.md\|Functional Grammar]]                   | linguistics | 2018-10-02 |
-| [[collections/bibliographies/Integrationism.md\|Integrationism]]                           | linguistics | 2018-10-02 |
 | [[collections/bibliographies/Integrational Linguistics.md\|Integrational Linguistics]]     | linguistics | 2018-10-02 |
+| [[collections/bibliographies/Integrationism.md\|Integrationism]]                           | linguistics | 2018-10-02 |
 | [[collections/bibliographies/Rhetorical Structure Theory.md\|Rhetorical Structure Theory]] | linguistics | 2018-10-02 |
 | [[collections/bibliographies/Semantics.md\|Semantics]]                                     | linguistics | 2018-10-02 |
 | [[collections/bibliographies/Stylistics.md\|Stylistics]]                                   | linguistics | 2018-10-02 |
