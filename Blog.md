@@ -16,7 +16,3 @@ cssclass: clean-embeds
 <br>
 
 ![[Ludology]]
-
-<br>
-
-![[Excurses, 3]]
