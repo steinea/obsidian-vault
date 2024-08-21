@@ -1,8 +1,6 @@
 ---
 permalink: activity
 ---
-
-
 - [[dataview/activity/Building.md|Building]]
 - [[dataview/activity/Dreaming.md|Dreaming]]
 - [[dataview/activity/Drinking.md|Drinking]]
