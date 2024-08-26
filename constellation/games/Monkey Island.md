@@ -1,3 +1,0 @@
-# Monkey Island
-
-[[Games]]

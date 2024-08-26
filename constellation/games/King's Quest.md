@@ -1,3 +1,0 @@
-# King’s Quest
-
-[[Games]]

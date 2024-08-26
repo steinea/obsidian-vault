@@ -1,3 +1,0 @@
-# Danganronpa
-
-[[Games]]
