@@ -6,7 +6,6 @@ permalink: /
 
 * 💡 [[About]]
 * ⚡ [[Activity]]
-* 🗃️ [[Collections]]
 * ✨ [[Constellation]]
 
 <br>
