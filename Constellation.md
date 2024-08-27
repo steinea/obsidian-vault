@@ -2,7 +2,6 @@
 permalink: constellation
 ---
 - [[dataview/constellation/Associations.md|Associations]]
-- [[dataview/constellation/Book Series.md|Book Series]]
 - [[dataview/constellation/Books.md|Books]]
 - [[dataview/constellation/Certifications.md|Certifications]]
 - [[dataview/constellation/Channels.md|Channels]]
@@ -18,10 +17,8 @@ permalink: constellation
 - [[dataview/constellation/Funds.md|Funds]]
 - [[dataview/constellation/Games.md|Games]]
 - [[dataview/constellation/Institutes.md|Institutes]]
-- [[dataview/constellation/Jams.md|Jams]]
 - [[dataview/constellation/Journals.md|Journals]]
 - [[dataview/constellation/Lego.md|Lego]]
-- [[dataview/constellation/Literary Reviews.md|Literary Reviews]]
 - [[dataview/constellation/Magazines.md|Magazines]]
 - [[dataview/constellation/Music.md|Music]]
 - [[dataview/constellation/People.md|People]]
