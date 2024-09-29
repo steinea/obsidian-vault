@@ -1,3 +1,0 @@
-# Annapurna Interactive
-
-[[Companies]]

@@ -1,3 +1,0 @@
-# Nobel Prize
-
-[[Publications]]

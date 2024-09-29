@@ -1,3 +1,0 @@
-# Brooklyn Magazine
-
-[[Publications]]

@@ -1,3 +1,0 @@
-# Simulacra and Simulation
-
-[[Books]]

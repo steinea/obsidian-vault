@@ -1,3 +1,0 @@
-# Of Grammatology
-
-[[Books]]

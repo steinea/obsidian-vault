@@ -1,3 +1,0 @@
-# Homo Ludens
-
-[[Publications]]

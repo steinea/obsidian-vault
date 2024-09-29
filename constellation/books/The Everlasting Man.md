@@ -1,3 +1,0 @@
-# The Everlasting Man
-
-[[Books]]

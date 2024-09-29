@@ -1,3 +1,0 @@
-# Logic and Existence
-
-[[Books]]

@@ -1,3 +1,0 @@
-# The American Reader
-
-[[Publications]]

@@ -1,3 +1,0 @@
-# Søren Kierkegaard
-
-[[People]]

@@ -1,3 +1,0 @@
-# Game of Thrones
-
-[[Television]]

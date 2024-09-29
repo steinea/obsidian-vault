@@ -1,3 +1,0 @@
-# Anglo-Saxon Prose
-
-[[Books]]

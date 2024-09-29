@@ -1,3 +1,0 @@
-# The New Republic
-
-[[Publications]]

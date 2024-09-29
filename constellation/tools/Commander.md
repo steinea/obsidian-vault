@@ -1,3 +1,0 @@
-# Commander
-
-[[Tools]] / [[Obsidian]]

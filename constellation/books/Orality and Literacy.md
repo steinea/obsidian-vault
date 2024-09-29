@@ -1,3 +1,0 @@
-# Orality and Literacy
-
-[[Books]]

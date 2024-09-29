@@ -1,3 +1,0 @@
-# The Paris Review
-
-[[Publications]]

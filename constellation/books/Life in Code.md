@@ -1,3 +1,0 @@
-# Life in Code
-
-[[Books]]

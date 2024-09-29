@@ -1,3 +1,0 @@
-# MIT Technology Review
-
-[[Journals]]

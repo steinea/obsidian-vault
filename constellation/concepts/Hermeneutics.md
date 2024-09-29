@@ -1,3 +1,0 @@
-# Hermeneutics
-
-[[Concepts]]

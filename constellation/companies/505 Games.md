@@ -1,3 +1,0 @@
-# 505 Games
-
-[[Companies]]

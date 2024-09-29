@@ -1,3 +1,0 @@
-# Quick Add
-
-[[Tools]] / [[Obsidian]]

@@ -1,3 +1,0 @@
-# Koei Tecmo
-
-[[Companies]]

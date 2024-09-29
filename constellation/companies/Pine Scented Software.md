@@ -1,3 +1,0 @@
-# Pine Scented Software
-
-[[Companies]]

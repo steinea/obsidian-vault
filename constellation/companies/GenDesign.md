@@ -1,3 +1,0 @@
-# GenDesign
-
-[[Companies]]

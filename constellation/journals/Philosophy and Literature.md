@@ -1,3 +1,0 @@
-# Philosophy and Literature
-
-[[Journals]]

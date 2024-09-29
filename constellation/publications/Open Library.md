@@ -1,3 +1,0 @@
-# Open Library
-
-[[Publications]]

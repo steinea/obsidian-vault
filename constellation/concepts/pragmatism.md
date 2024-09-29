@@ -1,3 +1,0 @@
-# Pragmatism
-
-[[Concepts]]

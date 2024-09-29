@@ -1,3 +1,0 @@
-# Boston College
-
-[[Schools]]

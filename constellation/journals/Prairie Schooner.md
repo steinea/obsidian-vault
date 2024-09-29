@@ -1,3 +1,0 @@
-# Prairie Schooner
-
-[[Journals]]

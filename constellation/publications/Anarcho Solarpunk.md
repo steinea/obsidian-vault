@@ -1,3 +1,0 @@
-# Anarcho Solarpunk
-
-[[Publications]]

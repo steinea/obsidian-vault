@@ -1,3 +1,0 @@
-# Excalidraw
-
-[[Tools]] / [[Obsidian]]

@@ -1,3 +1,0 @@
-# Pietism
-
-[[Concepts]]

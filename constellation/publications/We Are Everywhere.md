@@ -1,3 +1,0 @@
-# We Are Everywhere
-
-[[Publications]]

@@ -1,3 +1,0 @@
-# Heart Machine
-
-[[Companies]]

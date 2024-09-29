@@ -1,3 +1,0 @@
-# The New Yorker
-
-[[Publications]]

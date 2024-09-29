@@ -1,3 +1,0 @@
-# Cardozo Law Review
-
-[[Publications]]

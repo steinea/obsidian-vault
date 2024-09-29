@@ -1,3 +1,0 @@
-# Critical Theory
-
-[[Books]]

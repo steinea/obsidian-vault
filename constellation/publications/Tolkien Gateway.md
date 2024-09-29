@@ -1,3 +1,0 @@
-# Tolkien Gateway
-
-[[Publications]]

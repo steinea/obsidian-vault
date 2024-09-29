@@ -1,3 +1,0 @@
-# Tales from Earthsea
-
-[[Books]]

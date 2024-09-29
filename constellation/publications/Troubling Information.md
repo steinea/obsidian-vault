@@ -1,3 +1,0 @@
-# Troubling Information
-
-[[Publications]]

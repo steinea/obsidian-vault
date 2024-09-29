@@ -1,3 +1,0 @@
-# Ways of Seeing
-
-[[Books]]

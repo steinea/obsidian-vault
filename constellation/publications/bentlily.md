@@ -1,3 +1,0 @@
-# bentlily
-
-[[Publications]]

@@ -1,4 +1,0 @@
-# Shadow Puppets
-
-[[Books]]
-

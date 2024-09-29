@@ -1,3 +1,0 @@
-# Narrative Design
-
-[[Proficiencies]]

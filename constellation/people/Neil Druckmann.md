@@ -1,3 +1,0 @@
-# Neil Druckmann
-
-[[People]]

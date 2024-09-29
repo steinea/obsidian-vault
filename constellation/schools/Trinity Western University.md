@@ -1,3 +1,0 @@
-# Trinity Western University
-
-[[Schools]]

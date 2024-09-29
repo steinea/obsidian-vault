@@ -1,3 +1,0 @@
-# Université de Tours
-
-[[Schools]]

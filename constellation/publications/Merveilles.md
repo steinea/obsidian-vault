@@ -1,3 +1,0 @@
-# Merveilles
-
-[[Publications]]

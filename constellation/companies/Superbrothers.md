@@ -1,3 +1,0 @@
-# Superbrothers
-
-[[Companies]]

@@ -1,3 +1,0 @@
-# JSTOR
-
-[[Journals]]

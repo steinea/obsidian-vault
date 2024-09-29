@@ -1,3 +1,0 @@
-# Shadows in Flight
-
-[[Books]]

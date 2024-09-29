@@ -1,3 +1,0 @@
-# Triple Canopy
-
-[[Publications]]

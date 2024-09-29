@@ -1,3 +1,0 @@
-# Verso
-
-[[Publications]]

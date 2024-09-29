@@ -1,3 +1,0 @@
-# Moby-Dick
-
-[[Books]]

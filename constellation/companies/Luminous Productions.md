@@ -1,3 +1,0 @@
-# Luminous Productions
-
-[[Companies]]

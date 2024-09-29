@@ -1,3 +1,0 @@
-# Orthodoxy
-
-[[Books]]
